@@ -3,140 +3,171 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WeatherPets — Your Pet. Your Weather Reporter.</title>
-  <meta name="description" content="WeatherPets brings your pet to life as your personal weather companion. AI-generated scenes, real-time forecasts, and adorable notifications.">
+  <title>WeatherPets — Your pet. Your weather reporter.</title>
+  <meta name="description" content="Turn your pet into your personal weather reporter. Real forecasts. Real pet. Unreal scenes.">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+  <!-- Gallery Frame -->
+  <div class="frame"></div>
+
+  <!-- Scroll Progress Bar -->
+  <div class="scroll-progress" id="scrollProgress"></div>
+
   <!-- Navigation -->
   <nav class="nav">
     <div class="container">
-      <a href="index.html" class="nav-logo"><span>WeatherPets</span></a>
+      <a href="index.html" class="nav-logo"><img src="images/logo.png" alt="WeatherPets" class="nav-logo-img">WeatherPets</a>
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span>
         <span></span>
         <span></span>
       </button>
       <div class="nav-links">
-        <a href="index.html" class="active">Home</a>
         <a href="faq.html">FAQ</a>
-        <a href="terms.html">Terms</a>
-        <a href="privacy.html">Privacy</a>
-        <a href="#download" class="nav-cta">Download</a>
+        <a href="support.html">Support</a>
+        <a href="#download" class="nav-cta-badge"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="nav-badge-img"></a>
       </div>
     </div>
   </nav>
 
+  <!-- Marquee -->
+  <div class="marquee">
+    <div class="marquee-track">
+      <span>Sunny with a chance of tail wags &#127774;</span>
+      <span>10-day forecasts, zero boring charts &#128054;</span>
+      <span>Morning reports from your best friend &#9749;</span>
+      <span>Severe weather alerts that make you smile &#127786;</span>
+      <span>The cutest widgets on any home screen &#128241;</span>
+      <span>Your pet has never looked this good &#10024;</span>
+      <span>Sunny with a chance of tail wags &#127774;</span>
+      <span>10-day forecasts, zero boring charts &#128054;</span>
+      <span>Morning reports from your best friend &#9749;</span>
+      <span>Severe weather alerts that make you smile &#127786;</span>
+      <span>The cutest widgets on any home screen &#128241;</span>
+      <span>Your pet has never looked this good &#10024;</span>
+    </div>
+  </div>
+
   <!-- Hero -->
   <section class="hero">
-    <div class="container">
-      <div class="hero-content">
-        <div class="hero-badge">🐾 Now on the App Store</div>
-        <h1>Your Pet. Your <span class="accent">Weather Reporter.</span></h1>
-        <p>See your real pet in AI-generated weather scenes. Get forecasts, alerts, and daily briefings — all delivered by your favorite companion.</p>
+    <div class="hero-decoration">
+      <span class="deco deco-cloud">&#9729;</span>
+      <span class="deco deco-sun">&#9728;</span>
+      <span class="deco deco-paw">&#128062;</span>
+      <span class="deco deco-drop">&#128167;</span>
+      <span class="deco deco-star">&#11088;</span>
+    </div>
+    <div class="container hero-grid">
+      <div class="hero-copy spring-in">
+        <h1 class="hero-headline">
+          Give us a photo.<br>
+          <span class="text-gradient">We'll give you a<br>weather reporter.</span>
+        </h1>
+        <p class="hero-sub">Upload a photo of your pet, tell us a little about their personality, and watch them report the weather like it's their full-time job.</p>
         <div class="hero-actions">
           <a href="#download">
             <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="app-store-badge">
           </a>
         </div>
       </div>
-      <div class="hero-image">
-        <div class="hero-mockup">
-          App Screenshot
+      <div class="hero-visual spring-in" style="animation-delay: 0.15s;">
+        <div class="hero-input-card photo-card">
+          <div class="input-card-label">Your pet's photo</div>
+          <div class="input-card-photo-placeholder">
+            <img src="images/sample-pet.png" alt="Pet photo">
+          </div>
+        </div>
+        <div class="hero-input-card personality-card">
+          <div class="input-card-label">Their personality</div>
+          <div class="personality-traits">
+            <span class="trait">Playful</span>
+            <span class="trait">Dramatic</span>
+            <span class="trait">Loves treats</span>
+            <span class="trait">Hates rain</span>
+          </div>
+        </div>
+        <div class="hero-phone">
+          <div class="iphone-mockup hero-device">
+            <div class="iphone-frame">
+              <div class="dynamic-island"></div>
+              <div class="iphone-screen">
+                <!-- Replace with: <img src="images/hero-screen.png" alt="Pet weather scene"> -->
+                <span class="placeholder-label">Weather Reporter</span>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Features -->
-  <section class="features">
+  <!-- Features — minimal -->
+  <section class="features-minimal fade-in">
     <div class="container">
-      <div class="section-header">
-        <h2>Weather, reimagined with your pet</h2>
-        <p>Everything you need from a weather app, plus an AI companion that makes checking the forecast fun.</p>
-      </div>
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon indigo">🎨</div>
-          <h3>AI Pet Scenes</h3>
-          <p>See your pet in any weather, generated by AI. Sunny days at the park, rainy afternoons, snowy adventures — your pet is always there.</p>
+      <div class="features-minimal-grid stagger-in">
+        <div class="feature-min-card">
+          <div class="feature-min-icon">&#127774;</div>
+          <h3>Weather scenes</h3>
+          <p>Your pet in a scene that matches real conditions. It changes all day.</p>
         </div>
-        <div class="feature-card">
-          <div class="feature-icon coral">🌤️</div>
-          <h3>Real-Time Weather</h3>
-          <p>Comprehensive forecasts with hourly and 10-day outlooks. Powered by Apple WeatherKit for accurate, reliable data.</p>
+        <div class="feature-min-card">
+          <div class="feature-min-icon">&#9749;</div>
+          <h3>Morning reports</h3>
+          <p>Wake up to a forecast from your pet. Severe weather? They'll warn you.</p>
         </div>
-        <div class="feature-card">
-          <div class="feature-icon purple">🔔</div>
-          <h3>Smart Notifications</h3>
-          <p>Morning briefings and severe weather alerts, delivered with personality by your pet. Never miss an umbrella again.</p>
+        <div class="feature-min-card">
+          <div class="feature-min-icon">&#128241;</div>
+          <h3>Widgets</h3>
+          <p>Your pet and the current temp, right on your home screen.</p>
         </div>
-        <div class="feature-card">
-          <div class="feature-icon green">📱</div>
-          <h3>Home Screen Widgets</h3>
-          <p>Your pet on your home screen, always showing current conditions. Glance at the weather without opening the app.</p>
+        <div class="feature-min-card">
+          <div class="feature-min-icon">&#127912;</div>
+          <h3>Style packs</h3>
+          <p>Watercolor, pixel art, vintage — change how your pet looks.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- How It Works -->
-  <section class="how-it-works">
-    <div class="container">
-      <div class="section-header">
-        <h2>Get started in seconds</h2>
-        <p>Three simple steps to make your pet your personal weather companion.</p>
+  <!-- Phone Pair Section -->
+  <section class="phone-pair-section fade-in">
+    <div class="container phone-pair-grid">
+      <div class="phone-pair-copy">
+        <h2>Gorgeous at <span class="text-gradient">6am.</span><br>Gorgeous at <span class="text-gradient">midnight.</span></h2>
+        <p>Full light and dark mode. Every weather check feels like opening a present.</p>
       </div>
-      <div class="steps">
-        <div class="step">
-          <div class="step-number">1</div>
-          <div class="step-icon">📸</div>
-          <h3>Add your pet's photo</h3>
-          <p>Snap a photo or choose from your library. Our AI learns your pet's unique look.</p>
+      <div class="phone-pair">
+        <div>
+          <div class="iphone-mockup">
+            <div class="iphone-frame">
+              <div class="dynamic-island"></div>
+              <div class="iphone-screen">
+                <!-- Replace with: <img src="images/light-mode.png" alt="Light mode"> -->
+                <span class="placeholder-label">Light Mode</span>
+              </div>
+            </div>
+          </div>
+          <div class="phone-pair-label">
+            <p>Light</p>
+          </div>
         </div>
-        <div class="step">
-          <div class="step-number">2</div>
-          <div class="step-icon">✨</div>
-          <h3>AI generates scenes</h3>
-          <p>Watch as your pet appears in beautiful weather-themed scenes, updated with real conditions.</p>
-        </div>
-        <div class="step">
-          <div class="step-number">3</div>
-          <div class="step-icon">🌦️</div>
-          <h3>Enjoy weather with your pet</h3>
-          <p>Check forecasts, get alerts, and smile every time you look at the weather.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Social Proof -->
-  <section class="social-proof">
-    <div class="container">
-      <div class="section-header">
-        <h2>Loved by pet owners</h2>
-        <p>See what people are saying about WeatherPets.</p>
-      </div>
-      <div class="rating-display">
-        <div class="stars">★★★★★</div>
-        <div class="rating-text">4.9 out of 5 <span>on the App Store</span></div>
-      </div>
-      <div class="reviews-grid">
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <blockquote>"I never thought I'd be excited to check the weather. Seeing my dog in a little rain scene made my whole day."</blockquote>
-          <div class="review-author">— Happy Dog Parent</div>
-        </div>
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <blockquote>"The AI scenes are incredibly detailed. My cat looks so real in every weather setting. This app is pure joy."</blockquote>
-          <div class="review-author">— Cat Lover</div>
-        </div>
-        <div class="review-card">
-          <div class="review-stars">★★★★★</div>
-          <blockquote>"Finally a weather app that's actually fun. The morning notifications from my pet are the best way to start the day."</blockquote>
-          <div class="review-author">— Morning Person</div>
+        <div>
+          <div class="iphone-mockup">
+            <div class="iphone-frame">
+              <div class="dynamic-island"></div>
+              <div class="iphone-screen" style="background: #1c1c1e;">
+                <!-- Replace with: <img src="images/dark-mode.png" alt="Dark mode"> -->
+                <span class="placeholder-label" style="color: rgba(255,255,255,0.4);">Dark Mode</span>
+              </div>
+            </div>
+          </div>
+          <div class="phone-pair-label">
+            <p>Dark</p>
+          </div>
         </div>
       </div>
     </div>
@@ -144,12 +175,15 @@
 
   <!-- CTA Banner -->
   <section class="cta-banner" id="download">
-    <div class="container">
-      <h2>Make weather fun again</h2>
-      <p>Download WeatherPets and let your pet become your favorite weather reporter.</p>
-      <a href="#download">
-        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="app-store-badge">
-      </a>
+    <div class="cta-glow"></div>
+    <div class="cta-physics" id="ctaPhysics"></div>
+    <div class="container cta-content">
+      <h2>It's raining<br>cats and dogs.</h2>
+      <div class="hero-actions">
+        <a href="#download">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="app-store-badge">
+        </a>
+      </div>
     </div>
   </section>
 
@@ -158,24 +192,21 @@
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <a href="index.html" class="nav-logo"><span>WeatherPets</span></a>
-          <p>Your pet. Your weather reporter. AI-powered weather scenes featuring your real pet.</p>
+          <div class="nav-logo"><img src="images/logo.png" alt="WeatherPets" class="nav-logo-img">WeatherPets</div>
+          <p>Your pet on the job.</p>
         </div>
         <div class="footer-col">
-          <h4>Product</h4>
-          <a href="index.html">Home</a>
           <a href="faq.html">FAQ</a>
+          <a href="support.html">Support</a>
           <a href="#download">Download</a>
         </div>
         <div class="footer-col">
-          <h4>Legal</h4>
-          <a href="terms.html">Terms of Service</a>
-          <a href="privacy.html">Privacy Policy</a>
-          <a href="mailto:support@weatherpets.app">Contact</a>
+          <a href="terms.html">Terms</a>
+          <a href="privacy.html">Privacy</a>
         </div>
       </div>
       <div class="footer-bottom">
-        <span>&copy; 2026 WeatherPets. All rights reserved.</span>
+        <span>&copy; 2026 WeatherPets</span>
         <a href="mailto:support@weatherpets.app">support@weatherpets.app</a>
       </div>
     </div>
