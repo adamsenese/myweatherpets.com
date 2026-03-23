@@ -244,7 +244,7 @@ p { color: var(--text-secondary); }
 
 /* --- Marquee --- */
 .marquee {
-  background: var(--indigo);
+  background: #000000;
   padding: 12px 0;
   overflow: hidden;
   white-space: nowrap;
