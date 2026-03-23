@@ -84,27 +84,8 @@ p { color: var(--text-secondary); }
   padding: 0 32px;
 }
 
-/* --- Gallery Frame --- */
-.frame {
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 999;
-}
-
-.frame::before,
-.frame::after {
-  content: '';
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  width: var(--frame);
-  background: var(--white);
-  z-index: 999;
-}
-
-.frame::before { left: 0; }
-.frame::after { right: 0; }
+/* --- Gallery Frame (removed) --- */
+.frame { display: none; }
 
 /* --- Scroll Progress --- */
 .scroll-progress {
@@ -171,7 +152,7 @@ p { color: var(--text-secondary); }
   position: sticky;
   top: 0;
   z-index: 998;
-  background: rgba(10, 10, 15, 0.85);
+  background: rgba(255, 255, 255, 0.85);
   backdrop-filter: saturate(180%) blur(20px);
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   height: var(--nav-height);
@@ -179,7 +160,7 @@ p { color: var(--text-secondary); }
 }
 
 .nav.scrolled {
-  box-shadow: 0 1px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 16px rgba(0, 0, 0, 0.05);
 }
 
 .nav .container {
@@ -192,7 +173,7 @@ p { color: var(--text-secondary); }
 .nav-logo {
   font-size: 1.125rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text);
   display: flex;
   align-items: center;
   gap: 8px;
@@ -214,13 +195,13 @@ p { color: var(--text-secondary); }
 }
 
 .nav-links a {
-  color: rgba(255, 255, 255, 0.7);
+  color: var(--text-secondary);
   font-weight: 450;
   font-size: 0.875rem;
   transition: color 0.2s ease;
 }
 
-.nav-links a:hover { color: #fff; opacity: 1; }
+.nav-links a:hover { color: var(--text); opacity: 1; }
 
 .nav-cta-badge {
   display: inline-flex;
@@ -252,7 +233,7 @@ p { color: var(--text-secondary); }
   display: block;
   width: 20px;
   height: 1.5px;
-  background: #fff;
+  background: var(--text);
   border-radius: 2px;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
@@ -1089,10 +1070,10 @@ p { color: var(--text-secondary); }
     top: var(--nav-height);
     left: 0;
     right: 0;
-    background: rgba(10, 10, 15, 0.95);
+    background: rgba(255, 255, 255, 0.98);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid var(--border-light);
     flex-direction: column;
     padding: 20px 24px;
     gap: 12px;
