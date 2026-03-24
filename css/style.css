@@ -428,7 +428,7 @@ p { color: var(--text-secondary); }
 }
 
 .hero-headline {
-  font-size: clamp(2.5rem, 4.5vw, 3.75rem);
+  font-size: clamp(2.5rem, 3.5vw, 3.25rem);
   font-weight: 800;
   letter-spacing: -0.04em;
   line-height: 1.06;
@@ -1166,6 +1166,7 @@ p { color: var(--text-secondary); }
   }
   .hero-sub { max-width: 100%; }
   .hero-actions { align-items: center; }
+  .hero-eyebrow { justify-content: center; }
   .hero-headline { font-size: 2.25rem; }
   .hero-visual { padding: 30px 40px; }
   .hero-input-card { width: 140px; padding: 12px; }
