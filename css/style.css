@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Rubik:wght@700&display=swap');
 
 /* ============================================
    WeatherPets — Premium Character
@@ -207,13 +207,14 @@ p { color: var(--text-secondary); }
 }
 
 .nav-logo {
+  font-family: 'Rubik', sans-serif;
   font-size: 1.125rem;
   font-weight: 700;
   color: var(--text);
   display: flex;
   align-items: center;
   gap: 8px;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.03em;
 }
 
 .nav-logo-img {
