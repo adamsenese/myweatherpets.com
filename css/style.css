@@ -99,14 +99,14 @@ p { color: var(--text-secondary); }
   width: 180px;
   top: -30px;
   right: -40px;
-  z-index: 1;
+  z-index: 0;
 }
 
 .accent-hero-cloud {
-  width: 200px;
-  bottom: -30px;
-  left: -40px;
-  z-index: 1;
+  width: 160px;
+  bottom: 15%;
+  left: -60px;
+  z-index: 0;
 }
 
 .hero {
@@ -116,7 +116,7 @@ p { color: var(--text-secondary); }
 
 @media (max-width: 768px) {
   .accent-hero-sun { width: 120px; right: -20px; top: -15px; }
-  .accent-hero-cloud { width: 140px; left: -20px; bottom: -15px; }
+  .accent-hero-cloud { width: 110px; left: -30px; bottom: 18%; }
 }
 
 @media (max-width: 480px) {
@@ -645,6 +645,14 @@ p { color: var(--text-secondary); }
 .phone-pair-copy h2 {
   font-size: clamp(2rem, 4vw, 3rem);
   margin-bottom: 16px;
+  color: var(--text-primary);
+}
+
+.phone-pair-copy h2 .text-gradient {
+  background: none;
+  -webkit-background-clip: unset;
+  -webkit-text-fill-color: var(--text-primary);
+  background-clip: unset;
 }
 
 .phone-pair-copy p {
