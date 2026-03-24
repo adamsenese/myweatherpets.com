@@ -415,15 +415,14 @@ p { color: var(--text-secondary); }
   gap: 8px;
   font-size: 0.8125rem;
   font-weight: 600;
-  color: var(--indigo);
+  color: var(--text-primary);
   letter-spacing: 0.01em;
   margin-bottom: 16px;
 }
 
 .laurel {
-  width: 16px;
-  height: 32px;
-  color: var(--indigo);
+  height: 24px;
+  width: auto;
   flex-shrink: 0;
 }
 
@@ -919,9 +918,9 @@ p { color: var(--text-secondary); }
 /* --- Footer --- */
 .footer {
   padding: 48px 0 28px;
-  background: var(--bg-dark);
-  border-top: 1px solid rgba(255, 255, 255, 0.04);
-  color: rgba(255, 255, 255, 0.4);
+  background: var(--white);
+  border-top: 1px solid var(--border-light);
+  color: var(--text-secondary);
 }
 
 .footer-grid {
@@ -932,45 +931,45 @@ p { color: var(--text-secondary); }
 }
 
 .footer-brand .nav-logo {
-  color: var(--white);
+  color: var(--text-primary);
   margin-bottom: 8px;
 }
 
 .footer-brand p {
   font-size: 0.8125rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: var(--text-secondary);
   line-height: 1.5;
 }
 
 .footer-col a {
   display: block;
-  color: rgba(255, 255, 255, 0.5);
+  color: var(--text-secondary);
   font-size: 0.8125rem;
   padding: 3px 0;
   transition: color 0.2s ease;
 }
 
 .footer-col a:hover {
-  color: var(--white);
+  color: var(--text-primary);
   opacity: 1;
 }
 
 .footer-bottom {
-  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  border-top: 1px solid var(--border-light);
   padding-top: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 0.6875rem;
-  color: rgba(255, 255, 255, 0.25);
+  color: var(--text-secondary);
   letter-spacing: 0.02em;
 }
 
 .footer-bottom a {
-  color: rgba(255, 255, 255, 0.25);
+  color: var(--text-secondary);
 }
 
-.footer-bottom a:hover { color: rgba(255, 255, 255, 0.5); }
+.footer-bottom a:hover { color: var(--text-primary); }
 
 /* --- Legal Pages --- */
 .legal-page {
