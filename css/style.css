@@ -96,17 +96,17 @@ p { color: var(--text-secondary); }
 }
 
 .accent-hero-sun {
-  width: 220px;
-  top: -40px;
-  right: -60px;
-  rotate: 12deg;
+  width: 180px;
+  top: -30px;
+  right: -40px;
+  z-index: 1;
 }
 
 .accent-hero-cloud {
-  width: 280px;
-  bottom: -80px;
-  left: -100px;
-  rotate: -5deg;
+  width: 200px;
+  bottom: -30px;
+  left: -40px;
+  z-index: 1;
 }
 
 .hero {
@@ -115,8 +115,8 @@ p { color: var(--text-secondary); }
 }
 
 @media (max-width: 768px) {
-  .accent-hero-sun { width: 140px; right: -40px; }
-  .accent-hero-cloud { width: 180px; left: -60px; bottom: -50px; }
+  .accent-hero-sun { width: 120px; right: -20px; top: -15px; }
+  .accent-hero-cloud { width: 140px; left: -20px; bottom: -15px; }
 }
 
 @media (max-width: 480px) {
@@ -492,9 +492,10 @@ p { color: var(--text-secondary); }
 }
 
 .personality-card {
-  bottom: 12%;
+  bottom: 4%;
   left: -36px;
   rotate: 2deg;
+  z-index: 10;
 }
 
 .input-card-photo-placeholder {
@@ -1137,7 +1138,7 @@ p { color: var(--text-secondary); }
   .hero-visual { padding: 20px 30px; }
   .hero-input-card { width: 150px; padding: 14px; }
   .photo-card { top: 4%; left: -8px; }
-  .personality-card { bottom: 8%; left: auto; right: -8px; rotate: -2deg; }
+  .personality-card { bottom: 2%; left: -8px; rotate: 2deg; }
   .hero-phone .iphone-mockup { width: 240px; }
   .hero-decoration { display: none; }
 
