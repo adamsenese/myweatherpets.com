@@ -162,18 +162,18 @@ if (ctaPhysics) {
   let started = false;
 
   const templates = [
-    { type: 'widget-small', html: '<span class="widget-temp">72°</span><span class="widget-cond">Sunny</span>' },
-    { type: 'widget-small', html: '<span class="widget-temp">58°</span><span class="widget-cond">Cloudy</span>' },
-    { type: 'widget-small', html: '<span class="widget-temp">34°</span><span class="widget-cond">Snow</span>' },
-    { type: 'widget-medium', html: '<span class="widget-temp">72° Sunny</span><span class="widget-cond">High 78° · Low 61°</span>' },
-    { type: 'widget-medium', html: '<span class="widget-temp">45° Rainy</span><span class="widget-cond">Grab an umbrella</span>' },
-    { type: 'notification', html: '<span class="notif-icon">&#128054;</span><span class="notif-text"><span class="notif-title">WeatherPets</span><span class="notif-body">Good morning! It\'s 72° and sunny today</span></span>' },
-    { type: 'notification', html: '<span class="notif-icon">&#127786;</span><span class="notif-text"><span class="notif-title">Severe Weather</span><span class="notif-body">Thunderstorm warning until 6pm</span></span>' },
-    { type: 'notification', html: '<span class="notif-icon">&#128054;</span><span class="notif-text"><span class="notif-title">WeatherPets</span><span class="notif-body">Rain starting in 15 minutes!</span></span>' },
-    { type: 'widget-small', html: '<span class="widget-temp">88°</span><span class="widget-cond">Hot</span>' },
-    { type: 'notification', html: '<span class="notif-icon">&#9749;</span><span class="notif-text"><span class="notif-title">Morning Report</span><span class="notif-body">Chilly start, warming up to 65°</span></span>' },
-    { type: 'widget-medium', html: '<span class="widget-temp">28° Snowy</span><span class="widget-cond">Bundle up today!</span>' },
-    { type: 'widget-small', html: '<span class="widget-temp">63°</span><span class="widget-cond">Windy</span>' },
+    { type: 'widget-small', html: '<img src="images/widget-sm-1.png" alt="Widget">' },
+    { type: 'widget-small', html: '<img src="images/widget-sm-2.png" alt="Widget">' },
+    { type: 'widget-small', html: '<img src="images/widget-sm-3.png" alt="Widget">' },
+    { type: 'widget-medium', html: '<img src="images/widget-md-1.png" alt="Widget">' },
+    { type: 'widget-medium', html: '<img src="images/widget-md-2.png" alt="Widget">' },
+    { type: 'widget-medium', html: '<img src="images/widget-md-3.png" alt="Widget">' },
+    { type: 'widget-medium', html: '<img src="images/widget-md-4.png" alt="Widget">' },
+    { type: 'notification', html: '<img src="images/logo.png" alt="" class="notif-app-icon"><span class="notif-text"><span class="notif-header"><span class="notif-app-name">WEATHERPETS</span><span class="notif-time">now</span></span><span class="notif-title">Good morning!</span><span class="notif-body">It\'s 72° and sunny — perfect day for a walk</span></span>' },
+    { type: 'notification', html: '<img src="images/logo.png" alt="" class="notif-app-icon"><span class="notif-text"><span class="notif-header"><span class="notif-app-name">WEATHERPETS</span><span class="notif-time">2m ago</span></span><span class="notif-title">Severe Weather Alert</span><span class="notif-body">Thunderstorm warning until 6pm in your area</span></span>' },
+    { type: 'notification', html: '<img src="images/logo.png" alt="" class="notif-app-icon"><span class="notif-text"><span class="notif-header"><span class="notif-app-name">WEATHERPETS</span><span class="notif-time">15m ago</span></span><span class="notif-title">Rain incoming</span><span class="notif-body">Rain starting in 15 minutes — grab an umbrella!</span></span>' },
+    { type: 'notification', html: '<img src="images/logo.png" alt="" class="notif-app-icon"><span class="notif-text"><span class="notif-header"><span class="notif-app-name">WEATHERPETS</span><span class="notif-time">7:00 AM</span></span><span class="notif-title">Morning Report</span><span class="notif-body">Chilly start at 34°, warming up to 65° by noon</span></span>' },
+    { type: 'widget-small', html: '<img src="images/widget-sm-1.png" alt="Widget">' },
   ];
 
   function spawnItem(template, delay) {
@@ -184,8 +184,8 @@ if (ctaPhysics) {
       el.innerHTML = template.html;
       ctaPhysics.appendChild(el);
 
-      const w = template.type === 'widget-small' ? 72 : template.type === 'widget-medium' ? 156 : 220;
-      const h = template.type === 'notification' ? 48 : 72;
+      const w = template.type === 'widget-small' ? 90 : template.type === 'widget-medium' ? 170 : 280;
+      const h = template.type === 'widget-small' ? 90 : template.type === 'widget-medium' ? 174 : 76;
 
       const item = {
         el,
