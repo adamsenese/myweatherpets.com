@@ -12,7 +12,7 @@
   --text-secondary: #7a7a7a;
   --text-tertiary: #a0a0a0;
   --bg: #ECE5DE;
-  --bg-secondary: #e4ddd5;
+  --bg-secondary: #ECE5DE;
   --bg-dark: #0a0a0f;
   --border: #e0e0e0;
   --border-light: #ebebeb;
@@ -109,44 +109,14 @@ p { color: var(--text-secondary); }
   rotate: -5deg;
 }
 
-.accent-features-wind {
-  width: 200px;
-  top: -40px;
-  right: -70px;
-  rotate: -8deg;
-  transform: scaleX(-1);
-}
-
-.accent-features-snowflake {
-  width: 140px;
-  bottom: -30px;
-  left: -40px;
-  rotate: 15deg;
-}
-
-.accent-pair-rain {
-  width: 180px;
-  top: -20px;
-  right: -50px;
-  rotate: 8deg;
-}
-
-.hero,
-.features-minimal,
-.phone-pair-section {
+.hero {
   position: relative;
   overflow: hidden;
 }
 
 @media (max-width: 768px) {
-  .accent {
-    opacity: 1;
-  }
   .accent-hero-sun { width: 140px; right: -40px; }
   .accent-hero-cloud { width: 180px; left: -60px; bottom: -50px; }
-  .accent-features-wind { width: 130px; right: -50px; }
-  .accent-features-snowflake { width: 90px; left: -20px; }
-  .accent-pair-rain { width: 120px; right: -30px; }
 }
 
 @media (max-width: 480px) {
