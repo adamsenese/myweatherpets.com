@@ -975,6 +975,7 @@ p { color: var(--text-secondary); }
 /* --- Legal Pages --- */
 .legal-page {
   padding: 60px 0 100px;
+  background: var(--white);
 }
 
 .legal-page .container { max-width: 720px; }
