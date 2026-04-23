@@ -1,12 +1,132 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WeatherPets for iOS</title>
-  <meta http-equiv="refresh" content="0; url=https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">
+  <meta name="description" content="Download WeatherPets on the App Store.">
+  <link rel="canonical" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/style.css">
+  <meta http-equiv="refresh" content="1; url=https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">
+  <script>
+    window.location.replace("https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221");
+  </script>
+  <style>
+    .redirect-page {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+      position: relative;
+      overflow: hidden;
+      background: var(--bg);
+    }
+    .redirect-card {
+      max-width: 480px;
+      width: 100%;
+      text-align: center;
+      background: var(--white);
+      border-radius: var(--radius);
+      padding: 56px 40px;
+      box-shadow: var(--shadow-lg);
+      position: relative;
+      z-index: 1;
+      animation: springIn 0.8s var(--spring) both;
+    }
+    .redirect-logo {
+      width: 64px;
+      height: 64px;
+      margin: 0 auto 20px;
+      display: block;
+      border-radius: 16px;
+    }
+    .redirect-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--indigo);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 12px;
+    }
+    .redirect-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--indigo);
+      animation: pulse 1.2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(0.85); }
+      50% { opacity: 1; transform: scale(1); }
+    }
+    .redirect-headline {
+      font-size: clamp(28px, 5vw, 36px);
+      margin-bottom: 12px;
+    }
+    .redirect-sub {
+      font-size: 16px;
+      color: var(--text-secondary);
+      margin-bottom: 28px;
+    }
+    .redirect-badge {
+      display: inline-block;
+    }
+    .redirect-badge img {
+      height: 48px;
+      width: auto;
+    }
+    .redirect-fallback {
+      margin-top: 20px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+    }
+    .redirect-accent {
+      position: absolute;
+      pointer-events: none;
+      z-index: 0;
+      opacity: 0.9;
+    }
+    .redirect-accent-sun {
+      width: 160px;
+      top: 8%;
+      left: 6%;
+    }
+    .redirect-accent-cloud {
+      width: 180px;
+      bottom: 10%;
+      right: 6%;
+    }
+    @media (max-width: 600px) {
+      .redirect-card { padding: 44px 28px; }
+      .redirect-accent-sun { width: 110px; top: 4%; left: -20px; }
+      .redirect-accent-cloud { width: 130px; bottom: 4%; right: -30px; }
+    }
+  </style>
 </head>
 <body>
-  <p>Redirecting to WeatherPets on the App Store…</p>
-  <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">Tap here if you're not redirected.</a>
+  <main class="redirect-page">
+    <img src="images/accent-sun.png" alt="" class="redirect-accent redirect-accent-sun">
+    <img src="images/accent-cloud.png" alt="" class="redirect-accent redirect-accent-cloud">
+
+    <div class="redirect-card">
+      <img src="images/logo.png" alt="WeatherPets" class="redirect-logo">
+      <div class="redirect-eyebrow">
+        <span class="redirect-dot"></span>
+        <span>Taking you to the App Store</span>
+      </div>
+      <h1 class="redirect-headline">Your pet is <span class="text-gradient">on the way.</span></h1>
+      <p class="redirect-sub">Hang tight — we're sending you to WeatherPets on the App Store.</p>
+      <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="redirect-badge">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+      </a>
+      <p class="redirect-fallback">Not redirected? <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">Tap here to open the App Store.</a></p>
+    </div>
+  </main>
 </body>
 </html>
