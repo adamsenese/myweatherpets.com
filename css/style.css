@@ -1650,15 +1650,35 @@ p { color: var(--text-secondary); }
 
 /* broadcast hero */
 .wnt-broadcast { position: relative; padding: 56px 0 40px; text-align: center; overflow: hidden; }
-.wnt-station {
-  display: inline-flex; align-items: center; gap: 10px; margin-bottom: 20px;
-  font-family: 'Rubik', sans-serif; font-weight: 700; letter-spacing: 0.06em;
-  font-size: 1.05rem; color: var(--text);
+/* broadcast news banner (lower-third style) */
+.wnt-newsbar {
+  display: inline-flex; align-items: stretch; margin-bottom: 26px;
+  border-radius: 9px; overflow: hidden;
+  box-shadow: 0 14px 30px rgba(24,0,237,0.18), 0 2px 6px rgba(0,0,0,0.14);
+  font-family: 'Rubik', sans-serif;
 }
-.wnt-station .wnt-logo-mark {
-  width: 38px; height: 38px; border-radius: 9px; display: grid; place-items: center;
-  background: linear-gradient(180deg, var(--indigo-light), var(--indigo));
-  color: #fff; font-size: 1.1rem; box-shadow: 0 6px 16px rgba(24,0,237,0.34);
+.wnt-newsbar-live {
+  display: inline-flex; align-items: center; gap: 8px; padding: 11px 15px; white-space: nowrap;
+  background: linear-gradient(180deg, var(--air-red), var(--air-red-dark)); color: #fff;
+  font-size: clamp(0.68rem, 2vw, 0.76rem); font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.3), inset -1px 0 0 rgba(0,0,0,0.18);
+}
+.wnt-newsbar-dot {
+  width: 9px; height: 9px; border-radius: 50%; flex: 0 0 auto;
+  background: radial-gradient(circle at 35% 30%, #fff, #ffd9d6 45%, #ff5b50 75%);
+  box-shadow: 0 0 8px 2px rgba(255,120,110,0.9);
+  animation: airBlink 1.4s steps(1) infinite;
+}
+.wnt-newsbar-net {
+  display: inline-flex; align-items: center; gap: 10px; padding: 11px 16px; white-space: nowrap;
+  background: linear-gradient(180deg, var(--indigo-light), var(--indigo)); color: #fff;
+  font-size: clamp(0.72rem, 2.2vw, 0.84rem); font-weight: 700;
+  letter-spacing: clamp(0.05em, 1vw, 0.13em); text-transform: uppercase;
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.22);
+}
+.wnt-newsbar-ch {
+  font-size: 0.64rem; letter-spacing: 0.06em; padding: 3px 7px; border-radius: 5px;
+  background: rgba(255,255,255,0.2); color: #fff; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.25);
 }
 .wnt-broadcast h1 { font-size: 3rem; margin: 10px auto 14px; max-width: 760px; }
 .wnt-broadcast .wnt-sub { font-size: 1.1rem; color: var(--text-secondary); max-width: 560px; margin: 0 auto 30px; }
