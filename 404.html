@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en" class="view-pending">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WeatherPets</title>
+  <meta name="description" content="Turn your pet into your personal weather reporter. Real forecasts. Real pet. Unreal scenes.">
+  <meta name="robots" content="noindex, follow">
+
+  <!-- Open Graph / Twitter (creator links get shared in bios & linktrees) -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="WeatherPets — your pet reports the forecast">
+  <meta property="og:description" content="Turn your pet into your personal weather reporter. Real forecasts. Real pet. Unreal scenes.">
+  <meta property="og:image" content="https://myweatherpets.com/images/social-share.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="WeatherPets — your pet reports the forecast">
+  <meta name="twitter:description" content="Turn your pet into your personal weather reporter. Real forecasts. Real pet. Unreal scenes.">
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/images/favicon-512x512.png">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <style>
+    .cl-page {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+      position: relative;
+      overflow: hidden;
+      background: var(--bg);
+    }
+    .cl-card {
+      max-width: 560px;
+      width: 100%;
+      text-align: center;
+      background: var(--white);
+      border-radius: var(--radius);
+      padding: 48px 40px 44px;
+      box-shadow: var(--shadow-lg);
+      position: relative;
+      z-index: 1;
+      animation: springIn 0.8s var(--spring) both;
+    }
+    .cl-logo {
+      width: 60px; height: 60px;
+      margin: 0 auto 18px;
+      display: block;
+      border-radius: 15px;
+    }
+    .cl-eyebrow {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-size: 13px; font-weight: 600; color: var(--indigo);
+      text-transform: uppercase; letter-spacing: 0.08em;
+      margin-bottom: 14px;
+    }
+    .cl-dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: var(--indigo);
+      animation: pulse 1.2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(0.85); }
+      50% { opacity: 1; transform: scale(1); }
+    }
+    /* Row of animated pixel reporters */
+    .cl-reporters {
+      display: flex; justify-content: center; align-items: flex-end;
+      gap: 4px; margin: 4px auto 22px;
+    }
+    .cl-reporters .pixel-pet { width: clamp(58px, 17vw, 78px); }
+    .cl-reporters .pixel-pet:nth-child(even) { margin-bottom: 8px; }
+    .cl-headline {
+      font-size: clamp(28px, 5.2vw, 38px);
+      line-height: 1.08;
+      margin-bottom: 14px;
+    }
+    .cl-sub {
+      font-size: 16px; color: var(--text-secondary);
+      margin: 0 auto 26px; max-width: 420px;
+    }
+    /* Creator attribution chip */
+    .cl-ref {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: var(--indigo-soft); color: var(--indigo);
+      font-weight: 600; font-size: 14px;
+      padding: 9px 16px; border-radius: 999px;
+      margin-bottom: 22px;
+    }
+    .cl-ref code {
+      font-family: 'Rubik', sans-serif; font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+    .cl-actions {
+      display: flex; flex-direction: column; align-items: center; gap: 16px;
+    }
+    button.cl-cta {
+      border: none; cursor: pointer; font-family: inherit;
+      font-size: 1.05rem; padding: 16px 34px;
+    }
+    .cl-badge { display: inline-block; }
+    .cl-badge img { height: 44px; width: auto; }
+    .cl-note {
+      margin-top: 4px; font-size: 13px; color: var(--text-tertiary);
+      max-width: 360px;
+    }
+    .cl-accent {
+      position: absolute; pointer-events: none; z-index: 0; opacity: 0.9;
+    }
+    .cl-accent-sun { width: 160px; top: 8%; left: 6%; }
+    .cl-accent-cloud { width: 180px; bottom: 10%; right: 6%; }
+    @media (max-width: 600px) {
+      .cl-card { padding: 40px 24px 36px; }
+      .cl-accent-sun { width: 110px; top: 4%; left: -20px; }
+      .cl-accent-cloud { width: 130px; bottom: 4%; right: -30px; }
+    }
+
+    /* View toggling — set synchronously in <head> to avoid any flash */
+    .creator-view, .notfound-view { display: none; }
+    .view-creator .creator-view { display: flex; }
+    .view-404 .notfound-view { display: flex; }
+  </style>
+
+  <script>
+    // Runs before <body> paints: decide which view to show, with no flash.
+    (function () {
+      var segs = location.pathname.split('/').filter(Boolean); // "/c/SARAH10" -> ["c","SARAH10"]
+      var isCreator = segs[0] === 'c';
+      window.__wpCode = isCreator ? (segs[1] || '') : '';
+      var APP_STORE = 'https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221';
+      window.__wpAppStore = APP_STORE;
+      document.documentElement.classList.remove('view-pending');
+      document.documentElement.classList.add(isCreator ? 'view-creator' : 'view-404');
+
+      // Copy the creator URL (so the app can attribute the referral after install),
+      // then send the user to the App Store. The copy needs this user gesture on iOS Safari.
+      window.go = async function () {
+        var code = window.__wpCode;
+        if (code) {
+          try {
+            await navigator.clipboard.writeText('https://myweatherpets.com/c/' + code);
+          } catch (e) {
+            // Clipboard denied — Universal Link (installed users) and the in-app
+            // "who referred you?" picker still cover attribution. Continue regardless.
+          }
+        }
+        window.location.href = APP_STORE;
+      };
+    })();
+  </script>
+  <noscript><style>.creator-view { display: flex !important; } .cl-ref { display: none; }</style></noscript>
+</head>
+<body>
+  <!-- ============ CREATOR LANDING (/c/<CODE>) ============ -->
+  <main class="cl-page creator-view">
+    <img src="/images/accent-sun.png" alt="" class="cl-accent cl-accent-sun">
+    <img src="/images/accent-cloud.png" alt="" class="cl-accent cl-accent-cloud">
+
+    <div class="cl-card">
+      <img src="/images/logo.png" alt="WeatherPets" class="cl-logo">
+      <div class="cl-eyebrow"><span class="cl-dot"></span><span>On Air · WeatherPets</span></div>
+
+      <div class="cl-reporters" aria-hidden="true">
+        <div class="pixel-pet"><img src="/images/team/pets/maple/f0.png" alt=""><img src="/images/team/pets/maple/f1.png" alt=""><img src="/images/team/pets/maple/f2.png" alt=""></div>
+        <div class="pixel-pet"><img src="/images/team/pets/jeter/f0.png" alt=""><img src="/images/team/pets/jeter/f1.png" alt=""><img src="/images/team/pets/jeter/f2.png" alt=""></div>
+        <div class="pixel-pet"><img src="/images/team/pets/milo/f0.png" alt=""><img src="/images/team/pets/milo/f1.png" alt=""><img src="/images/team/pets/milo/f2.png" alt=""></div>
+        <div class="pixel-pet"><img src="/images/team/pets/frenchy/f0.png" alt=""><img src="/images/team/pets/frenchy/f1.png" alt=""><img src="/images/team/pets/frenchy/f2.png" alt=""></div>
+      </div>
+
+      <h1 class="cl-headline">Your pet reports <span class="text-gradient">every forecast.</span></h1>
+
+      <p class="cl-ref" id="cl-ref" hidden>🎟️ Code <code id="cl-code"></code> sent you</p>
+
+      <p class="cl-sub">Upload a photo, add their personality, and watch your pet become an animated pixel reporter delivering the weather like it's their full-time job.</p>
+
+      <div class="cl-actions">
+        <button type="button" class="btn-primary cl-cta" onclick="go()">Get WeatherPets</button>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="cl-badge" onclick="go(); return false;">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+        </a>
+        <p class="cl-note">Tap to save your invite, then grab the app — we'll make sure your referral counts.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ============ GENERIC 404 (any other dead link) ============ -->
+  <main class="cl-page notfound-view">
+    <img src="/images/accent-sun.png" alt="" class="cl-accent cl-accent-sun">
+    <img src="/images/accent-cloud.png" alt="" class="cl-accent cl-accent-cloud">
+
+    <div class="cl-card">
+      <img src="/images/logo.png" alt="WeatherPets" class="cl-logo">
+      <div class="cl-eyebrow"><span class="cl-dot"></span><span>Off Air · 404</span></div>
+      <h1 class="cl-headline">This forecast went <span class="text-gradient">off the air.</span></h1>
+      <p class="cl-sub">We couldn't find that page — but your pet's weather report is still waiting.</p>
+      <div class="cl-actions">
+        <a href="/" class="btn-primary cl-cta">Back to WeatherPets</a>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="cl-badge">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <script>
+    // Fill the creator-code chip once the DOM is ready.
+    (function () {
+      var code = window.__wpCode;
+      if (code) {
+        var codeEl = document.getElementById('cl-code');
+        var refEl = document.getElementById('cl-ref');
+        if (codeEl) codeEl.textContent = code;
+        if (refEl) refEl.hidden = false;
+      }
+    })();
+  </script>
+</body>
+</html>
