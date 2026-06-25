@@ -1405,6 +1405,11 @@ p { color: var(--text-secondary); }
 .blog-post .product-pick .product-tagline { font-weight: 600; color: var(--text); margin-bottom: 10px; }
 .blog-post .product-pick a { font-weight: 600; }
 
+.blog-post .gear-callout { background: var(--bg-subtle, rgba(0,0,0,0.03)); border: 1px solid var(--border-light); border-left: 3px solid var(--indigo); border-radius: var(--radius); padding: 18px 22px; margin: 32px 0; }
+.blog-post .gear-callout p { margin-bottom: 8px; }
+.blog-post .gear-callout p:last-child { margin-bottom: 0; }
+.blog-post .gear-callout .gear-disclosure { font-size: 0.75rem; color: var(--text-tertiary); }
+
 .related-posts { margin-top: 48px; border-top: 1px solid var(--border-light); padding-top: 28px; }
 .related-posts h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-tertiary); margin-bottom: 16px; }
 .related-posts ul { list-style: none; padding: 0; }
