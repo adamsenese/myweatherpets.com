@@ -1395,6 +1395,10 @@ p { color: var(--text-secondary); }
 .post-cta p { color: var(--text-secondary); margin-bottom: 18px; }
 .post-cta .app-store-badge { height: 48px; margin: 0 auto; }
 
+.blog-post figure.post-figure { margin: 32px 0; }
+.blog-post figure.post-figure img { width: 100%; height: auto; display: block; border-radius: var(--radius); border: 1px solid var(--border-light); }
+.blog-post figure.post-figure figcaption { margin-top: 10px; font-size: 0.875rem; color: var(--text-tertiary); text-align: center; }
+
 .related-posts { margin-top: 48px; border-top: 1px solid var(--border-light); padding-top: 28px; }
 .related-posts h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-tertiary); margin-bottom: 16px; }
 .related-posts ul { list-style: none; padding: 0; }
