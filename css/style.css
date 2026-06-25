@@ -1410,6 +1410,65 @@ p { color: var(--text-secondary); }
 .blog-post .gear-callout p:last-child { margin-bottom: 0; }
 .blog-post .gear-callout .gear-disclosure { font-size: 0.75rem; color: var(--text-tertiary); }
 
+/* Branded App Store CTA with screenshots */
+.blog-post .app-cta {
+  margin: 52px 0;
+  border-radius: 20px;
+  padding: 34px;
+  background: linear-gradient(155deg, #1a1a2e 0%, #16213e 48%, #0f3460 100%);
+  color: #fff;
+  box-shadow: 0 18px 50px rgba(15, 52, 96, 0.28);
+  overflow: hidden;
+}
+.blog-post .app-cta-eyebrow {
+  display: inline-block;
+  font-size: 0.75rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #64b4ff;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.blog-post .app-cta h3 { color: #fff; font-size: 1.55rem; line-height: 1.18; margin: 0 0 12px; }
+.blog-post .app-cta p { color: rgba(220, 235, 255, 0.9); margin-bottom: 18px; font-size: 1rem; line-height: 1.65; }
+.blog-post .app-cta-points { list-style: none; padding: 0; margin: 0 0 22px; }
+.blog-post .app-cta-points li {
+  color: rgba(225, 238, 255, 0.96);
+  padding-left: 26px;
+  position: relative;
+  margin-bottom: 9px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.blog-post .app-cta-points li::before {
+  content: "\2713";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #64b4ff;
+  font-weight: 700;
+}
+.blog-post .app-cta-button { display: inline-block; }
+.blog-post .app-cta-button img { height: 52px; width: auto; margin: 0; }
+.blog-post .app-cta-shots { display: flex; gap: 14px; justify-content: center; margin-top: 28px; }
+.blog-post .app-cta-shots img {
+  width: 32%;
+  max-width: 190px;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.42);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+@media (min-width: 720px) {
+  .blog-post .app-cta { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 30px; align-items: center; }
+  .blog-post .app-cta-shots { margin-top: 0; }
+}
+@media (max-width: 480px) {
+  .blog-post .app-cta { padding: 24px; }
+  .blog-post .app-cta h3 { font-size: 1.3rem; }
+  .blog-post .app-cta-shots { gap: 10px; }
+}
+
 .related-posts { margin-top: 48px; border-top: 1px solid var(--border-light); padding-top: 28px; }
 .related-posts h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-tertiary); margin-bottom: 16px; }
 .related-posts ul { list-style: none; padding: 0; }
