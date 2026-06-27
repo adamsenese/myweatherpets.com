@@ -155,11 +155,13 @@ if (showcaseCards.length > 0) {
 const ctaPhysics = document.getElementById('ctaPhysics');
 
 if (ctaPhysics) {
-  const GRAVITY = 0.25;
+  const GRAVITY = 0.17;
   const BOUNCE = 0.45;
   const FRICTION = 0.98;
   const items = [];
   let started = false;
+  let rafId = null;
+  let lastTime = 0;
 
   const templates = [
     { type: 'widget-small', html: '<img src="images/widget-sm-1.png" alt="Widget">' },
@@ -204,19 +206,30 @@ if (ctaPhysics) {
     }, delay);
   }
 
-  function tick() {
+  function tick(now) {
+    // Frame-rate independent step: normalize to a 60fps baseline so the
+    // animation runs at the same speed on 60Hz and 120Hz (ProMotion) displays.
+    // Without this, a 120Hz refresh applies gravity twice as often and the
+    // assets fall ~2x faster and flicker. Clamp dt so a tab-switch hitch
+    // cannot teleport everything in one giant step.
+    if (!lastTime) lastTime = now;
+    let dt = (now - lastTime) / (1000 / 60);
+    lastTime = now;
+    if (dt > 3) dt = 3;
+
     const rect = ctaPhysics.getBoundingClientRect();
     const killY = rect.height * 1.3;
     const wallR = rect.width;
+    const friction = Math.pow(FRICTION, dt);
 
     for (const item of items) {
-      item.vy += GRAVITY;
-      item.vx *= FRICTION;
-      item.vr *= FRICTION;
+      item.vy += GRAVITY * dt;
+      item.vx *= friction;
+      item.vr *= friction;
 
-      item.x += item.vx;
-      item.y += item.vy;
-      item.rotation += item.vr;
+      item.x += item.vx * dt;
+      item.y += item.vy * dt;
+      item.rotation += item.vr * dt;
 
       // Walls — gentle nudge back
       if (item.x < 0) {
@@ -241,15 +254,23 @@ if (ctaPhysics) {
       item.el.style.transform = `translate(${item.x}px, ${item.y}px) rotate(${item.rotation}deg)`;
     }
 
-    requestAnimationFrame(tick);
+    rafId = requestAnimationFrame(tick);
+  }
+
+  // Start the loop only once; guard against a second rAF chain ever spawning
+  // (double loops were the other source of the "everything speeds up" glitch).
+  function start() {
+    if (rafId !== null) return;
+    lastTime = 0;
+    rafId = requestAnimationFrame(tick);
   }
 
   // Trigger when CTA section enters viewport
   const ctaObserver = new IntersectionObserver((entries) => {
     if (entries[0].isIntersecting && !started) {
       started = true;
-      templates.forEach((t, i) => spawnItem(t, i * 180));
-      requestAnimationFrame(tick);
+      templates.forEach((t, i) => spawnItem(t, i * 220));
+      start();
       ctaObserver.disconnect();
     }
   }, { threshold: 0.2 });
