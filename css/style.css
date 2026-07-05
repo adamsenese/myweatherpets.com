@@ -1907,3 +1907,16 @@ p { color: var(--text-secondary); }
 .blog-hub-nav .blog-tag:hover { opacity: 0.8; }
 .blog-card-date { display: block; margin-top: 10px; font-size: 0.8rem; opacity: 0.6; }
 .post-author a { color: inherit; text-decoration: underline; }
+
+/* Shareable temperature chart */
+.temp-chart { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 0.95rem; }
+.temp-chart th, .temp-chart td { padding: 10px 12px; text-align: left; border: 1px solid rgba(128,128,128,0.25); }
+.temp-chart th { font-weight: 700; }
+.tc-safe   { background: rgba(46, 160, 67, 0.18); }
+.tc-caution{ background: rgba(212, 167, 44, 0.20); }
+.tc-risky  { background: rgba(219, 109, 40, 0.22); }
+.tc-danger { background: rgba(207, 34, 46, 0.22); font-weight: 600; }
+.chart-note { font-size: 0.9rem; opacity: 0.85; }
+.comparison-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 0.95rem; }
+.comparison-table th, .comparison-table td { padding: 10px 12px; text-align: left; border: 1px solid rgba(128,128,128,0.25); }
+.comparison-table th { font-weight: 700; }
