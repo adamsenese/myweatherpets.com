@@ -279,3 +279,84 @@ if (ctaPhysics) {
 
   ctaObserver.observe(ctaPhysics.parentElement);
 }
+
+/* ===== Blog index: search + tag filter + sort ===== */
+(function () {
+  var grid = document.querySelector('.blog-grid');
+  var search = document.getElementById('blogSearch');
+  if (!grid || !search) return;
+  var sort = document.getElementById('blogSort');
+  var count = document.getElementById('blogFilterCount');
+  var chips = Array.prototype.slice.call(document.querySelectorAll('#blogFilter .cw-filter-tag'));
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.blog-card'));
+  var activeTag = '';
+
+  function apply() {
+    var q = search.value.trim().toLowerCase();
+    var shown = 0;
+    cards.forEach(function (card) {
+      var tags = (card.getAttribute('data-tags') || '').split(' ');
+      var text = card.textContent.toLowerCase();
+      var okTag = !activeTag || tags.indexOf(activeTag) !== -1;
+      var okQ = !q || text.indexOf(q) !== -1 || tags.join(' ').indexOf(q) !== -1;
+      var show = okTag && okQ;
+      card.style.display = show ? '' : 'none';
+      if (show) shown++;
+    });
+    if (count) count.textContent = shown === cards.length ? '' : 'Showing ' + shown + ' of ' + cards.length + ' articles';
+  }
+
+  function resort() {
+    var mode = sort ? sort.value : 'new';
+    var sorted = cards.slice().sort(function (a, b) {
+      if (mode === 'az') return a.querySelector('h2').textContent.localeCompare(b.querySelector('h2').textContent);
+      var da = a.getAttribute('data-date') || '', db = b.getAttribute('data-date') || '';
+      return mode === 'old' ? da.localeCompare(db) : db.localeCompare(da);
+    });
+    sorted.forEach(function (c) { grid.appendChild(c); });
+  }
+
+  chips.forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      activeTag = chip.getAttribute('data-tag') || '';
+      chips.forEach(function (c) { c.classList.toggle('active', c === chip); });
+      if (history.replaceState) {
+        history.replaceState(null, '', activeTag ? '?tag=' + activeTag : location.pathname);
+      }
+      apply();
+    });
+  });
+  search.addEventListener('input', apply);
+  if (sort) sort.addEventListener('change', resort);
+
+  // deep link: ?tag=heat
+  var m = location.search.match(/[?&]tag=([a-z-]+)/);
+  if (m) {
+    var target = chips.filter(function (c) { return c.getAttribute('data-tag') === m[1]; })[0];
+    if (target) target.click();
+  }
+})();
+
+/* ===== Weather hub: city search ===== */
+(function () {
+  var search = document.getElementById('citySearch');
+  if (!search) return;
+  var count = document.getElementById('cityFilterCount');
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.cw-city-card'));
+  var groups = Array.prototype.slice.call(document.querySelectorAll('.cw-hub-group'));
+  search.addEventListener('input', function () {
+    var q = search.value.trim().toLowerCase();
+    var shown = 0;
+    cards.forEach(function (card) {
+      var hay = card.getAttribute('data-search') || card.textContent.toLowerCase();
+      var show = !q || hay.indexOf(q) !== -1;
+      card.style.display = show ? '' : 'none';
+      if (show) shown++;
+    });
+    groups.forEach(function (g) {
+      var any = Array.prototype.some.call(g.querySelectorAll('.cw-city-card'), function (c) { return c.style.display !== 'none'; });
+      g.style.display = any ? '' : 'none';
+    });
+    if (count) count.textContent = !q ? '' : 'Showing ' + shown + ' of ' + cards.length + ' cities';
+  });
+})();

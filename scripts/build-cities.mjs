@@ -193,13 +193,13 @@ byRegion.clear();
 for (const [g, list] of ordered) byRegion.set(g, list);
 let sections = '';
 for (const [region, list] of byRegion) {
-  const cards = list.map((c) => `        <a href="/weather/${c.slug}/" class="blog-card cw-city-card" data-fast-goal="city-hub-click">
+  const cards = list.map((c) => `        <a href="/weather/${c.slug}/" class="blog-card cw-city-card" data-fast-goal="city-hub-click" data-search="${esc((c.name + ' ' + c.displayName + ' ' + c.region + ' ' + c.country + ' ' + c.petName).toLowerCase())}">
           <span class="blog-tag">${esc(c.region)}</span>
           <h2>${esc(c.displayName)}</h2>
           <p>Live conditions, walk verdicts, and a 10-day forecast, anchored by ${esc(c.petName)}.</p>
           <span class="blog-card-date">Anchor: ${esc(c.petName)}</span>
         </a>`).join('\n');
-  sections += `      <h2 class="cw-hub-region">${esc(region)}</h2>\n      <div class="blog-grid">\n${cards}\n      </div>\n`;
+  sections += `      <section class="cw-hub-group">\n      <h2 class="cw-hub-region">${esc(region)}</h2>\n      <div class="blog-grid">\n${cards}\n      </div>\n      </section>\n`;
 }
 const hubLd = JSON.stringify({
   '@context': 'https://schema.org',
