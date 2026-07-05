@@ -1979,7 +1979,24 @@ p { color: var(--text-secondary); }
 .cw-facts li { margin-bottom: 10px; line-height: 1.55; }
 .cw-photo img { width: 100%; height: auto; border-radius: var(--radius-sm); }
 .cw-photo figcaption { font-size: 0.8rem; color: var(--text-tertiary); margin-top: 8px; }
-.cw-app-cta .cw-cta-sub { color: rgba(255,255,255,0.85); max-width: 52ch; margin: 10px auto 0; }
+/* Self-contained CTA band (city pages + hub are not inside .blog-post) */
+.cw-app-cta {
+  margin: 56px 0; padding: 52px 28px 48px; border-radius: var(--radius);
+  background: linear-gradient(155deg, #16213e 0%, #0f3460 100%);
+  color: #fff; text-align: center; overflow: hidden;
+}
+.cw-app-cta .app-cta-head { max-width: 640px; margin: 0 auto 30px; }
+.cw-app-cta .app-cta-eyebrow {
+  display: inline-block; font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase;
+  color: rgba(255,255,255,0.65); margin-bottom: 12px; font-family: 'Rubik', sans-serif;
+}
+.cw-app-cta h3 { color: #fff; font-size: 2.05rem; line-height: 1.12; margin: 0; font-weight: 700; }
+.cw-app-cta .cw-cta-sub { color: rgba(255,255,255,0.85); max-width: 52ch; margin: 14px auto 0; }
+.cw-app-cta .app-cta-button { display: inline-block; margin-top: 26px; }
+.cw-app-cta .app-cta-button img { height: 60px; width: auto; margin: 0; }
+/* Back link on its own row; centered newsbar */
+.cw-page .back-to-blog { display: block; width: fit-content; margin-bottom: 20px; }
+.cw-page .wnt-newsbar { display: flex; width: fit-content; margin: 0 auto 28px; }
 .cw-hub-region { margin: 36px 0 16px; font-size: 1.3rem; }
 .cw-city-card h2 { font-size: 1.15rem; }
 .cw-fallback { color: var(--text-secondary); }
