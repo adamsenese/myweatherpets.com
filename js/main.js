@@ -1,3 +1,5 @@
+/* NOTE: HTML pages load js/main.min.js. After editing this file, re-minify:
+   npx esbuild js/main.js --minify --outfile=js/main.min.js */
 // Mobile Nav Toggle
 const navToggle = document.querySelector('.nav-toggle');
 const navLinks = document.querySelector('.nav-links');

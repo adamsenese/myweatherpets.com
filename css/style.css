@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Rubik:wght@700&display=swap');
+/* NOTE: HTML pages load css/style.min.css. After editing this file, re-minify:
+   npx esbuild css/style.css --minify --outfile=css/style.min.css */
 
 /* ============================================
    WeatherPets — Premium Character

@@ -27,7 +27,10 @@
   <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
   <link rel="icon" type="image/png" sizes="512x512" href="/images/favicon-512x512.png">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap">
+  <link rel="stylesheet" href="../css/style.min.css">
   <script defer data-website-id="dfid_PXPPYXsnF2dcVHr4Xpu0t" data-domain="myweatherpets.com" src="https://datafa.st/js/script.js"></script>
   <script type="application/ld+json">
   {
@@ -49,20 +52,92 @@
   </script>
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "name": "Dog Breeds That Handle Heat Best",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Greyhound and Whippet" },
-      { "@type": "ListItem", "position": 2, "name": "German Shorthaired Pointer" },
-      { "@type": "ListItem", "position": 3, "name": "Vizsla" },
-      { "@type": "ListItem", "position": 4, "name": "Chihuahua" },
-      { "@type": "ListItem", "position": 5, "name": "Australian Cattle Dog" },
-      { "@type": "ListItem", "position": 6, "name": "Doberman Pinscher" },
-      { "@type": "ListItem", "position": 7, "name": "Dalmatian" },
-      { "@type": "ListItem", "position": 8, "name": "Basenji" }
-    ]
-  }
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Dog Breeds That Handle Heat Best",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Greyhound and Whippet",
+      "item": {
+        "@type": "Thing",
+        "name": "Greyhound and Whippet",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#greyhound-and-whippet"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "German Shorthaired Pointer",
+      "item": {
+        "@type": "Thing",
+        "name": "German Shorthaired Pointer",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#german-shorthaired-pointer"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Vizsla",
+      "item": {
+        "@type": "Thing",
+        "name": "Vizsla",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#vizsla"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Chihuahua",
+      "item": {
+        "@type": "Thing",
+        "name": "Chihuahua",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#chihuahua"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Australian Cattle Dog",
+      "item": {
+        "@type": "Thing",
+        "name": "Australian Cattle Dog",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#australian-cattle-dog"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "name": "Doberman Pinscher",
+      "item": {
+        "@type": "Thing",
+        "name": "Doberman Pinscher",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#doberman-pinscher"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "Dalmatian",
+      "item": {
+        "@type": "Thing",
+        "name": "Dalmatian",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#dalmatian"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "name": "Basenji",
+      "item": {
+        "@type": "Thing",
+        "name": "Basenji",
+        "url": "https://myweatherpets.com/blog/best-hot-weather-dog-breeds.html#basenji"
+      }
+    }
+  ]
+}
   </script>
 </head>
 <body>
@@ -76,7 +151,7 @@
         <a href="../index.html">Home</a>
         <a href="index.html" class="active">Blog</a>
         <a href="../faq.html">FAQ</a>
-        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download WeatherPets on the App Store" class="nav-badge-img"></a>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="../images/app-store-badge.svg" alt="Download WeatherPets on the App Store" class="nav-badge-img"></a>
       </div>
     </div>
   </nav>
@@ -95,13 +170,13 @@
       <h2>What makes a dog heat-tolerant</h2>
       <p>Dogs cool off mainly by panting, moving air across a wet tongue and airway to shed heat. So the dogs that handle heat best tend to share a few traits: a <strong>longer muzzle</strong> (more surface area to cool that incoming air), a <strong>lean body</strong> that holds less heat, and a <strong>short, single coat</strong> that does not trap warmth. Many of the best hot-weather breeds trace back to hot parts of the world, which is no accident.</p>
 
-      <h3>1. Greyhound and Whippet</h3>
+      <h3 id="greyhound-and-whippet">1. Greyhound and Whippet</h3>
       <p>Lean, leggy, and short-coated, sighthounds are some of the most heat-efficient dogs around. Very little body fat, a thin coat, and a long nose make for excellent cooling. Bonus: despite the racing reputation, they are famous couch potatoes who are happy to nap through the hottest hours.</p>
 
-      <h3>2. German Shorthaired Pointer</h3>
+      <h3 id="german-shorthaired-pointer">2. German Shorthaired Pointer</h3>
       <p>A working gundog bred to run for hours in the field. Athletic, short-coated, and long-muzzled, the GSP handles warm-weather exercise well, as long as you bring water and respect the midday heat.</p>
 
-      <h3>3. Vizsla</h3>
+      <h3 id="vizsla">3. Vizsla</h3>
       <p>The "Velcro dog" from Hungary has a sleek single coat and a lean, athletic frame. Vizslas were built to hunt in warm climates and tolerate heat better than most high-energy breeds, though their stamina means they will run past their own limits if you let them.</p>
 
       <figure class="post-figure">
@@ -109,25 +184,25 @@
         <figcaption>Frenchy is adorable, but that flat face is exactly why French bulldogs land on the heat-risk list. Sunny days call for extra caution, not extra zoomies.</figcaption>
       </figure>
 
-      <h3>4. Chihuahua</h3>
+      <h3 id="chihuahua">4. Chihuahua</h3>
       <p>Tiny, short-coated, and native to Mexico, Chihuahuas genuinely enjoy warmth and often seek out the sunniest spot in the house. Their size means they still need shade and water, but heat is rarely their problem (cold is).</p>
 
-      <h3>5. Australian Cattle Dog</h3>
+      <h3 id="australian-cattle-dog">5. Australian Cattle Dog</h3>
       <p>Bred to work livestock under the Australian sun, the Cattle Dog is tough, weather-hardy, and built for warm conditions. A dense but short coat and serious endurance make this a genuine hot-climate working breed.</p>
 
-      <h3>6. Doberman Pinscher</h3>
+      <h3 id="doberman-pinscher">6. Doberman Pinscher</h3>
       <p>Sleek, short-coated, and lean, Dobermans shed heat well and have very little insulation to trap it. They feel the cold far more than they feel the heat.</p>
 
-      <h3>7. Dalmatian</h3>
+      <h3 id="dalmatian">7. Dalmatian</h3>
       <p>Another short-coated athlete with a long muzzle and a history of trotting alongside carriages for miles. Dalmatians handle warm-weather activity well when kept hydrated.</p>
 
-      <h3>8. Basenji</h3>
+      <h3 id="basenji">8. Basenji</h3>
       <p>The "barkless dog" from Central Africa has a fine short coat and a fastidious, cat-like tolerance for heat. Few breeds are more at home in warm weather.</p>
 
       <h2>The breeds that struggle most in heat</h2>
       <p>Two groups need extra care when the temperature climbs.</p>
       <p><strong>Flat-faced (brachycephalic) breeds.</strong> French Bulldogs, English Bulldogs, Pugs, Boxers, and Boston Terriers have shortened airways that make panting far less efficient, so they overheat faster and at lower temperatures than other dogs. The <a href="https://www.avma.org/resources-tools/pet-owners/petcare/warm-weather-pet-safety" target="_blank" rel="noopener">AVMA's warm weather safety guidance</a> specifically flags brachycephalic dogs as high-risk in the heat. If you own one, summer is a season of shade, air conditioning, and very short midday outings.</p>
-      <p><strong>Heavy double-coated breeds.</strong> Huskies, Malamutes, Saint Bernards, Chow Chows, and Newfoundlands carry thick insulating coats built for cold. They can adapt to warm climates, but they heat up faster and need careful management. (And no, you should not shave a double coat: that coat insulates against heat as well as cold.) The <a href="https://www.akc.org/expert-advice/health/keep-dog-from-overheating/" target="_blank" rel="noopener">AKC's guidance on preventing overheating</a> is a good primer on which dogs need the most watching.</p>
+      <p><strong>Heavy double-coated breeds.</strong> Huskies, Malamutes, Saint Bernards, Chow Chows, and Newfoundlands carry thick insulating coats built for cold. They can adapt to warm climates, but they heat up faster and need careful management. (And no, you should not shave a double coat: that coat insulates against heat as well as cold.) The <a href="https://www.akc.org/expert-advice/health/overheating-in-dogs/" target="_blank" rel="noopener">AKC's guidance on overheating in dogs</a> is a good primer on which dogs need the most watching.</p>
 
       <h2>Any dog can overheat: the rules that apply to all of them</h2>
       <p>Breed stacks the odds, but heatstroke does not check pedigree. Whatever you own:</p>
@@ -177,7 +252,7 @@
             </div>
           </div>
         </div>
-        <a class="app-cta-button" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download WeatherPets on the App Store"></a>
+        <a class="app-cta-button" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221"><img src="../images/app-store-badge.svg" alt="Download WeatherPets on the App Store"></a>
       </div>
 
       <div class="related-posts">
@@ -219,6 +294,6 @@
     </div>
   </footer>
 
-  <script src="../js/main.js"></script>
+  <script src="../js/main.min.js"></script>
 </body>
 </html>

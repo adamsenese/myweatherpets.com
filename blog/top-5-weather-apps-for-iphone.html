@@ -27,7 +27,10 @@
   <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
   <link rel="icon" type="image/png" sizes="512x512" href="/images/favicon-512x512.png">
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap">
+  <link rel="stylesheet" href="../css/style.min.css">
   <script defer data-website-id="dfid_PXPPYXsnF2dcVHr4Xpu0t" data-domain="myweatherpets.com" src="https://datafa.st/js/script.js"></script>
   <script type="application/ld+json">
   {
@@ -49,37 +52,62 @@
   </script>
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": "ItemList",
-    "name": "Top 5 Weather Apps for iPhone in 2026 (Ranked) \u2014 WeatherPets",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "WeatherPets"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Apple Weather"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Carrot Weather"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "Weather Kitty"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Weather Puppy"
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Top 5 Weather Apps for iPhone in 2026 (Ranked) — WeatherPets",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "WeatherPets",
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "WeatherPets",
+        "url": "https://myweatherpets.com/blog/top-5-weather-apps-for-iphone.html#weatherpets"
       }
-    ]
-  }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Apple Weather",
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Apple Weather",
+        "url": "https://myweatherpets.com/blog/top-5-weather-apps-for-iphone.html#apple-weather"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Carrot Weather",
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Carrot Weather",
+        "url": "https://myweatherpets.com/blog/top-5-weather-apps-for-iphone.html#carrot-weather"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "Weather Kitty",
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Weather Kitty",
+        "url": "https://myweatherpets.com/blog/top-5-weather-apps-for-iphone.html#weather-kitty"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "Weather Puppy",
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Weather Puppy",
+        "url": "https://myweatherpets.com/blog/top-5-weather-apps-for-iphone.html#weather-puppy"
+      }
+    }
+  ]
+}
   </script>
 </head>
 <body>
@@ -93,7 +121,7 @@
         <a href="../index.html">Home</a>
         <a href="index.html" class="active">Blog</a>
         <a href="../faq.html">FAQ</a>
-        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download WeatherPets on the App Store" class="nav-badge-img"></a>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="../images/app-store-badge.svg" alt="Download WeatherPets on the App Store" class="nav-badge-img"></a>
       </div>
     </div>
   </nav>
@@ -109,15 +137,15 @@
       <h1>Top 5 Weather Apps for iPhone (2026)</h1>
       <p class="post-lead">The best weather app is the one you'll actually open. Here are our top five for iPhone in 2026 — ranked for accuracy and delight.</p>
       <p>Every app here pulls reliable forecast data. What sets them apart is how they make you feel about checking it.</p>
-      <h2>1. WeatherPets — Best for pet owners</h2>
+      <h2 id="weatherpets">1. WeatherPets — Best for pet owners</h2>
       <p>WeatherPets pairs accurate Apple WeatherKit forecasts with AI scenes of your own dog or cat. Widgets and morning reports make the forecast a daily joy, not a chore. If you have a pet, nothing else comes close. <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">Available on iOS</a>.</p>
-      <h2>2. Apple Weather — Best built-in option</h2>
+      <h2 id="apple-weather">2. Apple Weather — Best built-in option</h2>
       <p>Apple's stock app is clean, accurate, and dependable, with solid radar and notifications. A great default for anyone who wants no-frills data.</p>
-      <h2>3. Carrot Weather — Best for personality</h2>
+      <h2 id="carrot-weather">3. Carrot Weather — Best for personality</h2>
       <p>Carrot wraps accurate forecasts in snarky humor and deep customization. A cult favorite for power users who like attitude with their data.</p>
-      <h2>4. Weather Kitty — Best classic cat app</h2>
+      <h2 id="weather-kitty">4. Weather Kitty — Best classic cat app</h2>
       <p>Weather Kitty pairs the forecast with cute cat photos. Charming and simple — though for <em>your</em> cat, see our <a href="alternative-to-weather-kitty.html">alternative to Weather Kitty</a>.</p>
-      <h2>5. Weather Puppy — Best classic dog app</h2>
+      <h2 id="weather-puppy">5. Weather Puppy — Best classic dog app</h2>
       <p>Weather Puppy does the same with adorable dogs. A longtime fan favorite; for your own pup, try our <a href="alternative-to-weather-puppy.html">alternative to Weather Puppy</a>.</p>
       <p>For the cutest of the bunch, see our <a href="top-5-cute-weather-apps-ios.html">Top 5 cute weather apps for iOS</a>.</p>
             <div class="app-cta">
@@ -153,7 +181,7 @@
             </div>
           </div>
         </div>
-        <a class="app-cta-button" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download WeatherPets on the App Store"></a>
+        <a class="app-cta-button" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221"><img src="../images/app-store-badge.svg" alt="Download WeatherPets on the App Store"></a>
       </div>
       <div class="related-posts">
         <h3>Keep reading</h3>
@@ -194,6 +222,6 @@
     </div>
   </footer>
 
-  <script src="../js/main.js"></script>
+  <script src="../js/main.min.js"></script>
 </body>
 </html>

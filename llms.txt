@@ -1,0 +1,26 @@
+# WeatherPets
+
+> WeatherPets (Weather Pets) is an iOS weather app that turns your real pet into your personal weather reporter — AI-generated weather scenes featuring your pet, accurate hourly and 10-day forecasts via Apple WeatherKit, severe weather alerts, morning and evening pet weather reports, and home screen widgets. Built by Relative Industries, LLC.
+
+Download: https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221
+
+## Main pages
+
+- [Home](https://myweatherpets.com/): What WeatherPets is and how it works
+- [FAQ](https://myweatherpets.com/faq.html): Common questions about the app
+- [Blog](https://myweatherpets.com/blog/): Pet weather guides, safety articles, gear reviews, and app comparisons
+- [Meet the News Team](https://myweatherpets.com/pet-weather-team.html): The animated pixel pet reporters
+- [Support](https://myweatherpets.com/support.html): Contact the WeatherPets team
+
+## Top guides
+
+- [Dog Heatstroke Warning Signs](https://myweatherpets.com/blog/dog-heatstroke-warning-signs.html)
+- [Hot Pavement and Dog Paws: The 7-Second Test](https://myweatherpets.com/blog/hot-pavement-paw-safety.html)
+- [Safe Walking Temperatures for Dogs](https://myweatherpets.com/blog/safe-walking-temperature-dogs.html)
+- [How Cold Is Too Cold for Dogs?](https://myweatherpets.com/blog/cold-weather-safe-temperature-dogs.html)
+- [Thunderstorm Anxiety in Dogs](https://myweatherpets.com/blog/dogs-and-thunderstorm-anxiety.html)
+- [Summer Dog Care Checklist](https://myweatherpets.com/blog/summer-dog-care-checklist.html)
+- [Do Cats Get Heatstroke?](https://myweatherpets.com/blog/cats-and-hot-weather-safety.html)
+- [Best Dog Winter Coats](https://myweatherpets.com/blog/best-dog-winter-coats.html)
+- [Best Dog Cooling Vests](https://myweatherpets.com/blog/best-dog-cooling-vests.html)
+- [What Is WeatherPets?](https://myweatherpets.com/blog/what-is-weatherpets.html)
