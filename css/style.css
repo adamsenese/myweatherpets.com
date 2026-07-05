@@ -1920,3 +1920,81 @@ p { color: var(--text-secondary); }
 .comparison-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-size: 0.95rem; }
 .comparison-table th, .comparison-table td { padding: 10px 12px; text-align: left; border: 1px solid rgba(128,128,128,0.25); }
 .comparison-table th { font-weight: 700; }
+
+/* ============================================
+   City weather pages (/weather/)
+   ============================================ */
+.cw-container { max-width: 960px; }
+.cw-page { padding: 32px 0 64px; }
+.cw-page .wnt-newsbar { margin-bottom: 28px; }
+.cw-hero { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: center; margin-bottom: 40px; }
+.cw-hero-copy h1 { font-size: clamp(2rem, 4vw, 2.9rem); letter-spacing: -0.02em; line-height: 1.08; margin-bottom: 14px; }
+.cw-sub { color: var(--text-secondary); font-size: 1.05rem; max-width: 46ch; }
+.cw-anchor-desk { display: flex; align-items: center; gap: 18px; margin-top: 24px; }
+.cw-hero-monitor { max-width: 380px; justify-self: center; width: 100%; }
+.cw-commentary { margin-top: 18px; font-style: italic; color: var(--text-secondary); border-left: 3px solid var(--gold); padding-left: 12px; max-width: 52ch; }
+.cw-current { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;
+  background: #fff; border-radius: var(--radius); padding: 24px 28px; box-shadow: var(--shadow); margin-bottom: 24px; }
+.cw-now { display: flex; align-items: center; gap: 18px; }
+.cw-temp-big { font-size: clamp(2.6rem, 6vw, 3.6rem); font-weight: 750; letter-spacing: -0.03em; min-width: 120px; }
+.cw-now-meta { display: flex; flex-direction: column; gap: 4px; color: var(--text-secondary); }
+.cw-now-meta span { min-width: 140px; min-height: 1.2em; }
+.cw-stats { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; }
+.cw-stat { display: flex; flex-direction: column; gap: 2px; min-width: 72px; }
+.cw-stat-label { font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-tertiary); }
+.cw-stat span:last-child { font-weight: 650; min-height: 1.2em; }
+.cw-toggle { border: 1px solid var(--border); background: transparent; border-radius: 999px; padding: 8px 14px;
+  font: inherit; font-size: 0.85rem; cursor: pointer; color: var(--text-secondary); }
+.cw-toggle:hover { border-color: var(--indigo); color: var(--indigo); }
+.cw-verdict { background: #fff; border-radius: var(--radius); padding: 26px 28px; box-shadow: var(--shadow); margin-bottom: 36px; }
+.cw-verdict h2 { margin-bottom: 14px; font-size: 1.4rem; }
+.cw-verdict-body { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin-bottom: 12px; }
+.cw-verdict-pill { display: inline-block; padding: 8px 18px; border-radius: 999px; font-weight: 700; min-width: 90px; text-align: center; }
+.cw-v-safe { background: rgba(46,160,67,0.18); }
+.cw-v-fine { background: rgba(46,160,67,0.12); }
+.cw-v-caution { background: rgba(212,167,44,0.22); }
+.cw-v-risky { background: rgba(219,109,40,0.24); }
+.cw-v-danger { background: rgba(207,34,46,0.24); }
+.cw-verdict-reason { color: var(--text); }
+.cw-verdict-note { font-size: 0.88rem; color: var(--text-secondary); }
+.cw-block { margin-bottom: 40px; }
+.cw-block h2 { font-size: 1.4rem; margin-bottom: 12px; }
+.cw-hourly { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 8px; -webkit-overflow-scrolling: touch; }
+.cw-hour { flex: 0 0 76px; display: flex; flex-direction: column; align-items: center; gap: 6px;
+  background: #fff; border-radius: var(--radius-sm); padding: 12px 8px; box-shadow: var(--shadow); font-size: 0.9rem; }
+.cw-hour-t { font-size: 0.75rem; color: var(--text-tertiary); }
+.cw-hour-temp { font-weight: 700; }
+.cw-hour-p { font-size: 0.72rem; color: var(--indigo); min-height: 1em; }
+.cw-daily { display: flex; flex-direction: column; gap: 8px; }
+.cw-day { display: grid; grid-template-columns: 64px 36px 1fr 1fr 56px; align-items: center; gap: 12px;
+  background: #fff; border-radius: var(--radius-sm); padding: 12px 18px; box-shadow: var(--shadow); }
+.cw-day-name { font-weight: 650; }
+.cw-day-hi { font-weight: 700; text-align: right; }
+.cw-day-lo { color: var(--text-tertiary); text-align: right; }
+.cw-day-p { font-size: 0.78rem; color: var(--indigo); text-align: right; min-height: 1em; }
+.cw-attrib { font-size: 0.8rem; color: var(--text-tertiary); margin: -20px 0 40px; }
+.cw-attrib a { color: inherit; }
+.cw-records { margin: 14px 0 6px; font-size: 0.95rem; }
+.cw-source { font-size: 0.82rem; color: var(--text-tertiary); }
+.cw-facts li { margin-bottom: 10px; line-height: 1.55; }
+.cw-photo img { width: 100%; height: auto; border-radius: var(--radius-sm); }
+.cw-photo figcaption { font-size: 0.8rem; color: var(--text-tertiary); margin-top: 8px; }
+.cw-app-cta .cw-cta-sub { color: rgba(255,255,255,0.85); max-width: 52ch; margin: 10px auto 0; }
+.cw-hub-region { margin: 36px 0 16px; font-size: 1.3rem; }
+.cw-city-card h2 { font-size: 1.15rem; }
+.cw-fallback { color: var(--text-secondary); }
+@media (prefers-reduced-motion: no-preference) {
+  .cw-skel, .cw-skel-card { position: relative; overflow: hidden; }
+  .cw-skel::after, .cw-skel-card::after { content: ""; position: absolute; inset: 0;
+    background: linear-gradient(90deg, rgba(0,0,0,0.04), rgba(0,0,0,0.09), rgba(0,0,0,0.04));
+    animation: cwShimmer 1.4s infinite; }
+  @keyframes cwShimmer { 0% { transform: translateX(-100%); } 100% { transform: translateX(100%); } }
+}
+.cw-skel { border-radius: 6px; background: rgba(0,0,0,0.05); color: transparent !important; }
+.cw-skel-card { min-height: 84px; background: rgba(0,0,0,0.04); box-shadow: none; }
+@media (max-width: 760px) {
+  .cw-hero { grid-template-columns: 1fr; gap: 24px; }
+  .cw-hero-monitor { max-width: 300px; }
+  .cw-day { grid-template-columns: 52px 30px 1fr 1fr 44px; padding: 10px 12px; }
+  .cw-current { flex-direction: column; align-items: flex-start; }
+}

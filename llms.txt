@@ -10,6 +10,7 @@ Download: https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221
 - [FAQ](https://myweatherpets.com/faq.html): Common questions about the app
 - [Blog](https://myweatherpets.com/blog/): Pet weather guides, safety articles, gear reviews, and app comparisons
 - [About](https://myweatherpets.com/about.html): The team behind WeatherPets and our editorial standards
+- [City Weather](https://myweatherpets.com/weather/): Live pet-owner forecasts and dog-walk verdicts by city
 - [Meet the News Team](https://myweatherpets.com/pet-weather-team.html): The animated pixel pet reporters
 - [Support](https://myweatherpets.com/support.html): Contact the WeatherPets team
 

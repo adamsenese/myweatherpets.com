@@ -1,0 +1,67 @@
+{
+  "$schemaVersion": 1,
+  "workerBase": "https://weatherpets-weather.REPLACE-WITH-ACCOUNT.workers.dev",
+  "cities": [
+    {
+      "slug": "chicago",
+      "name": "Chicago",
+      "displayName": "Chicago, Illinois",
+      "country": "US",
+      "region": "Illinois",
+      "lat": 41.8781,
+      "lon": -87.6298,
+      "timezone": "America/Chicago",
+      "units": "F",
+      "pet": "jeter",
+      "petName": "Jeter",
+      "petStyle": "realistic",
+      "petBeat": "Chicago Bureau Chief",
+      "photo": {
+        "file": "chicago.jpg",
+        "ogFile": "chicago-og.jpg",
+        "alt": "Chicago skyline at sunrise seen across Lake Michigan",
+        "attribution": {
+          "author": "Daniel Schwen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicago_sunrise_1.jpg"
+        }
+      },
+      "funFacts": [
+        "Chicago averages 38.4 inches of snow a year, so booties season runs from roughly December through March, and the sidewalk salt that comes with it is its own paw hazard.",
+        "Lake Michigan works like a giant radiator in reverse: lakefront walks often run 5 to 10 degrees cooler than inland blocks on hot summer afternoons, which makes the 26 miles of lakefront trail a smart July route.",
+        "Montrose Dog Beach in Uptown is one of the largest off-leash dog beaches in the country, and on a warm day the water is the best cooldown in the city.",
+        "Despite the nickname, the Windy City isn't unusually windy. Its average wind speed of about 10 mph ranks behind Boston and Oklahoma City. Most historians trace the name to 19th-century politics, not weather.",
+        "Chicago's temperature swing is real: the city has officially hit 105 degrees and negative 27 degrees, a 132-degree spread, so a Chicago pet wardrobe genuinely needs both a cooling vest and a winter coat."
+      ],
+      "climate": {
+        "recordHighF": 105,
+        "recordHighNote": "July 24, 1934 (Midway)",
+        "recordLowF": -27,
+        "recordLowNote": "January 20, 1985 (O'Hare)",
+        "avgAnnualSnowIn": 38.4,
+        "snowiestMonth": "January",
+        "avgHighByMonthF": [31.6, 35.7, 47.0, 59.0, 70.5, 80.4, 84.5, 82.5, 75.5, 62.7, 48.4, 36.6],
+        "avgLowByMonthF": [18.8, 21.8, 31.0, 40.3, 50.6, 60.8, 66.4, 65.1, 57.1, 45.4, 34.1, 24.4],
+        "source": {
+          "name": "NOAA 1991–2020 U.S. Climate Normals, Chicago O'Hare (NWS Chicago)",
+          "url": "https://www.weather.gov/lot/ord_rfd_monthly_yearly_normals"
+        }
+      },
+      "faq": [
+        {
+          "q": "When is it too hot to walk a dog in Chicago?",
+          "a": "Chicago's July average high is 84.5 degrees, which already sits in the risky band for most dogs. On days above about 82 degrees, keep outings to short potty breaks in early morning or late evening, and check pavement with the 7-second test, since asphalt on a Chicago summer afternoon can run 40 to 60 degrees hotter than the air."
+        },
+        {
+          "q": "Does my dog need a winter coat in Chicago?",
+          "a": "For most dogs, yes for part of the year. Chicago's January average high is only 31.6 degrees with an average low of 18.8, and the city averages 38.4 inches of snow. Small, short-coated, senior, and lean dogs benefit from a coat below about 45 degrees, and most dogs need protection in the 20-to-32-degree range."
+        },
+        {
+          "q": "What's the best time of day to walk a dog in Chicago in summer?",
+          "a": "Early morning is best, before pavement heats up, with late evening second. Chicago's lakefront also runs 5 to 10 degrees cooler than inland streets on hot afternoons, so a shaded lakefront route buys you extra safe minutes when the day warms."
+        }
+      ]
+    }
+  ]
+}
