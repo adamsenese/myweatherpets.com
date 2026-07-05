@@ -31,7 +31,9 @@
   <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap"></noscript>
   <link rel="stylesheet" href="css/style.min.css">
   <script defer data-website-id="dfid_PXPPYXsnF2dcVHr4Xpu0t" data-domain="myweatherpets.com" src="https://datafa.st/js/script.js"></script>
   <script type="application/ld+json">
@@ -90,7 +92,7 @@
   <!-- Navigation -->
   <nav class="nav">
     <div class="container">
-      <a href="index.html" class="nav-logo"><img src="images/logo.png" alt="WeatherPets" class="nav-logo-img" width="180" height="180">WeatherPets</a>
+      <a href="index.html" class="nav-logo"><img src="images/logo.png" alt="WeatherPets" class="nav-logo-img" width="128" height="128">WeatherPets</a>
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span>
         <span></span>
@@ -100,10 +102,12 @@
         <a href="blog/index.html">Blog</a>
         <a href="about.html">About</a>
         <a href="support.html">Support</a>
-        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="images/app-store-badge.svg" alt="Download on the App Store" class="nav-badge-img"></a>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="images/app-store-badge.svg" alt="Download on the App Store" class="nav-badge-img" width="120" height="40"></a>
       </div>
     </div>
   </nav>
+
+  <main>
 
   <!-- Marquee -->
   <div class="marquee">
@@ -128,9 +132,9 @@
     <div class="container hero-grid">
       <div class="hero-copy spring-in">
         <div class="hero-eyebrow">
-          <img src="images/laurel-leading.png" alt="" class="laurel" width="260" height="464">
+          <img src="images/laurel-leading.png" alt="" class="laurel" width="36" height="64">
           <span>#1 Weather App for Pet Owners</span>
-          <img src="images/laurel-trailing.png" alt="" class="laurel" width="260" height="464">
+          <img src="images/laurel-trailing.png" alt="" class="laurel" width="36" height="64">
         </div>
         <h1 class="hero-headline">
           The pet weather app<br>where your pet reports<br>every forecast.
@@ -138,7 +142,7 @@
         <p class="hero-sub">Upload a photo of your pet, tell us a little about their personality, and watch them report the weather like it's their full-time job. Weather pets: the cutest forecast you'll check all day.</p>
         <div class="hero-actions">
           <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">
-            <img src="images/app-store-badge.svg" alt="Download on the App Store" class="app-store-badge">
+            <img src="images/app-store-badge.svg" alt="Download on the App Store" class="app-store-badge" width="120" height="40">
           </a>
         </div>
         <a href="pet-weather-team.html" class="wnt-hero-badge">
@@ -157,7 +161,7 @@
         <div class="hero-input-card photo-card">
           <div class="input-card-label">Your pet's photo</div>
           <div class="input-card-photo-placeholder">
-            <img src="images/sample-pet.png" alt="Pet photo" width="480" height="480">
+            <img src="images/sample-pet.webp" alt="Pet photo" width="240" height="240">
           </div>
         </div>
         <div class="hero-input-card personality-card">
@@ -243,7 +247,7 @@
         <article class="wnt-tcard">
           <div class="wnt-tcard-visual">
             <div class="wnt-reveal">
-              <img src="images/team/pets/jeter/photo.jpg" alt="A real photo of a dog" class="wnt-photo" width="440" height="330">
+              <img src="images/team/pets/jeter/photo.webp" alt="A real photo of a dog" class="wnt-photo" width="480" height="360">
               <span class="wnt-arrow">&rarr;</span>
               <div class="pixel-pet"><img src="images/team/pets/jeter/f0.png" alt="The same dog as an animated pixel avatar" width="128" height="128"><img src="images/team/pets/jeter/f1.png" alt="" width="128" height="128"><img src="images/team/pets/jeter/f2.png" alt="" width="128" height="128"></div>
             </div>
@@ -254,10 +258,10 @@
         <article class="wnt-tcard">
           <div class="wnt-tcard-visual">
             <div class="wnt-tcard-grid">
-              <img src="images/team/weather/sunny.jpg" alt="Sunny weather scene" width="720" height="720">
-              <img src="images/team/weather/snow.jpg" alt="Snowy weather scene" width="720" height="720">
-              <img src="images/team/styles/lofi-room.jpg" alt="Lofi Room style pack" width="720" height="720">
-              <img src="images/team/styles/polaroid-adventure.jpg" alt="Polaroid Adventure style pack" width="720" height="720">
+              <img src="images/team/weather/sunny.webp" alt="Sunny weather scene" width="240" height="240">
+              <img src="images/team/weather/snow.webp" alt="Snowy weather scene" width="240" height="240">
+              <img src="images/team/styles/lofi-room.webp" alt="Lofi Room style pack" width="240" height="240">
+              <img src="images/team/styles/polaroid-adventure.webp" alt="Polaroid Adventure style pack" width="240" height="240">
             </div>
           </div>
           <h3>Weather scenes &amp; style packs</h3>
@@ -267,10 +271,10 @@
 
       <div class="wnt-slideshow">
         <div class="wnt-slideshow-screen">
-          <img src="images/team/pets/maple/photo.jpg" alt="A personal pet memory photo" width="440" height="330">
-          <img src="images/team/pets/milo/photo.jpg" alt="A personal pet memory photo" width="301" height="440">
-          <img src="images/team/pets/tonka/photo.jpg" alt="A personal pet memory photo" width="330" height="440">
-          <img src="images/team/pets/jeter/photo.jpg" alt="A personal pet memory photo" width="440" height="330">
+          <img src="images/team/pets/maple/photo.webp" alt="A personal pet memory photo" width="480" height="360">
+          <img src="images/team/pets/milo/photo.webp" alt="A personal pet memory photo" width="328" height="480">
+          <img src="images/team/pets/tonka/photo.webp" alt="A personal pet memory photo" width="360" height="480">
+          <img src="images/team/pets/jeter/photo.webp" alt="A personal pet memory photo" width="480" height="360">
           <span class="wnt-slideshow-tag">Your memories</span>
         </div>
         <div class="wnt-slideshow-copy">
@@ -370,18 +374,20 @@
       <h2>It's raining<br>cats and dogs.</h2>
       <div class="hero-actions">
         <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221">
-          <img src="images/app-store-badge.svg" alt="Download on the App Store" class="app-store-badge">
+          <img src="images/app-store-badge.svg" alt="Download on the App Store" class="app-store-badge" width="120" height="40">
         </a>
       </div>
     </div>
   </section>
 
   <!-- Footer -->
+  </main>
+
   <footer class="footer">
     <div class="container">
       <div class="footer-grid">
         <div class="footer-brand">
-          <div class="nav-logo"><img src="images/logo.png" alt="WeatherPets" class="nav-logo-img" width="180" height="180">WeatherPets</div>
+          <div class="nav-logo"><img src="images/logo.png" alt="WeatherPets" class="nav-logo-img" width="128" height="128">WeatherPets</div>
           <p>Your pet on the job.</p>
         </div>
         <div class="footer-col">
