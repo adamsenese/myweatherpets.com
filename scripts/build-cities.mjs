@@ -114,7 +114,9 @@ function jsonld(c) {
 }
 
 function moreCities(c) {
-  const others = cities.filter((o) => o.slug !== c.slug).slice(0, 3);
+  const same = cities.filter((o) => o.slug !== c.slug && (o.hubGroup || '') === (c.hubGroup || ''));
+  const rest = cities.filter((o) => o.slug !== c.slug && (o.hubGroup || '') !== (c.hubGroup || ''));
+  const others = same.concat(rest).slice(0, 3);
   if (!others.length) return '';
   const cards = others.map((o) => `          <a href="/weather/${o.slug}/" class="blog-card cw-city-card" data-fast-goal="city-hub-click">
             <span class="blog-tag">${esc(o.region)}</span>
@@ -176,12 +178,19 @@ for (const c of cities) {
 
 // ---- render hub --------------------------------------------------------------
 const hubTpl = readFileSync(join(ROOT, 'templates/hub.template.html'), 'utf8');
+const GROUP_ORDER = ['United States', 'Canada', 'Europe', 'Asia & Middle East', 'Latin America', 'Oceania'];
 const byRegion = new Map();
 for (const c of cities) {
-  const key = c.country === 'US' ? 'United States' : c.region;
+  const key = c.hubGroup || (c.country === 'US' ? 'United States' : c.region);
   if (!byRegion.has(key)) byRegion.set(key, []);
   byRegion.get(key).push(c);
 }
+// stable group order, alphabetical cities within a group
+const ordered = new Map();
+for (const g of GROUP_ORDER) if (byRegion.has(g)) ordered.set(g, byRegion.get(g).sort((a, b) => a.name.localeCompare(b.name)));
+for (const [g, list] of byRegion) if (!ordered.has(g)) ordered.set(g, list.sort((a, b) => a.name.localeCompare(b.name)));
+byRegion.clear();
+for (const [g, list] of ordered) byRegion.set(g, list);
 let sections = '';
 for (const [region, list] of byRegion) {
   const cards = list.map((c) => `        <a href="/weather/${c.slug}/" class="blog-card cw-city-card" data-fast-goal="city-hub-click">
