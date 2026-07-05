@@ -1900,3 +1900,10 @@ p { color: var(--text-secondary); }
   .wnt-profile-stage { flex-direction: row; justify-content: center; gap: 18px; }
   .wnt-profile-stage::before { display: none; }
 }
+
+/* Blog hub nav chips + card dates */
+.blog-hub-nav { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.blog-hub-nav .blog-tag { text-decoration: none; }
+.blog-hub-nav .blog-tag:hover { opacity: 0.8; }
+.blog-card-date { display: block; margin-top: 10px; font-size: 0.8rem; opacity: 0.6; }
+.post-author a { color: inherit; text-decoration: underline; }
