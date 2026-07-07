@@ -1,0 +1,33 @@
+{
+ "$schemaVersion": 1,
+ "city": "seoul",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:23:41.863Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "way/1233769318",
+   "name": "반려동물 놀이터",
+   "lat": 37.6049202,
+   "lon": 127.1483316,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12112049380",
+   "name": "프리랑애견유치원호텔",
+   "lat": 37.562133,
+   "lon": 127.1950819,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

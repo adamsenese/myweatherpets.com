@@ -1,0 +1,57 @@
+{
+ "$schemaVersion": 1,
+ "city": "tampa",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:30:52.590Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/524038911",
+   "name": "Pet Kennel",
+   "lat": 28.034811,
+   "lon": -82.4158536,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11146508454",
+   "name": "Purple Pawz Pet Resort, LLC",
+   "lat": 28.0046395,
+   "lon": -82.5969411,
+   "distKm": 15,
+   "address": "10037 West Hillsborough Avenue, Tampa, FL 33615",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11131460619",
+   "name": "Dogtopia",
+   "lat": 28.0096505,
+   "lon": -82.609679,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1094770988",
+   "name": "Petsville Citrus Park",
+   "lat": 28.0792591,
+   "lon": -82.5662446,
+   "distKm": 17.9,
+   "address": "7302 Altaloma Street, Tampa, FL 33625",
+   "tags": {
+    "website": "https://petsvillecitruspark.com/",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 09:00-18:00; Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

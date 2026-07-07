@@ -1,0 +1,393 @@
+{
+ "$schemaVersion": 1,
+ "city": "richmond",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:33:39.772Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 33,
+ "places": [
+  {
+   "id": "node/4264029269",
+   "name": "The Barking Lot",
+   "lat": 37.5610644,
+   "lon": -77.4756674,
+   "distKm": 4.2,
+   "address": "606 North Belmont Avenue, Richmond, VA 23221",
+   "tags": {
+    "phone": "+1 804-358-4038",
+    "website": "https://thebarkinglot-hub.com"
+   }
+  },
+  {
+   "id": "node/7093831086",
+   "name": "Dog Krazy",
+   "lat": 37.5545396,
+   "lon": -77.4842043,
+   "distKm": 4.5,
+   "address": "3310 West Cary Street, Richmond, VA 23221",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3075619921",
+   "name": "Petco",
+   "lat": 37.5569709,
+   "lon": -77.4862048,
+   "distKm": 4.8,
+   "address": "10 North Nansemond Street, Richmond, VA 23221",
+   "tags": {
+    "phone": "+1-804-342-7405",
+    "website": "https://stores.petco.com/va/richmond/pet-supplies-richmond-va-2866.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00; Dec 25 off",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/235998649",
+   "name": "Dogma Grooming & Pet Needs",
+   "lat": 37.5550786,
+   "lon": -77.4869855,
+   "distKm": 4.8,
+   "address": "3501 West Cary Street, Richmond, VA 23221",
+   "tags": {
+    "phone": "+1-804-358-9267",
+    "website": "https://www.dogmagrooming.com/",
+    "opening_hours": "Tu-Fr 08:00-18:00; Sa 08:00-17:00; Su-Mo off"
+   }
+  },
+  {
+   "id": "node/6660072143",
+   "name": "Azalea Aquariums",
+   "lat": 37.6019572,
+   "lon": -77.4246628,
+   "distKm": 6.9,
+   "address": "5112 Richmond Henrico Turnpike, 23227",
+   "tags": {}
+  },
+  {
+   "id": "node/6526104379",
+   "name": "PetSmart",
+   "lat": 37.5312253,
+   "lon": -77.3539233,
+   "distKm": 7.3,
+   "address": "4531 South Laburnum Avenue, Richmond, VA 23231",
+   "tags": {
+    "phone": "+1 804-236-3245",
+    "website": "https://www.petsmart.com/stores/us/va/richmond-store1773.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12474223476",
+   "name": "Fin & Feather Pet Center",
+   "lat": 37.6013346,
+   "lon": -77.4674393,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3093272271",
+   "name": "PetSmart",
+   "lat": 37.5878783,
+   "lon": -77.5027233,
+   "distKm": 7.9,
+   "address": "5515 West Broad Street, Richmond, VA 23230",
+   "tags": {
+    "phone": "+1 804-282-6455",
+    "website": "https://www.petsmart.com/stores/us/va/richmond-store1011.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4613144944",
+   "name": "for the love of pete!",
+   "lat": 37.5741829,
+   "lon": -77.5182338,
+   "distKm": 8.1,
+   "address": "322 Libbie Avenue, Richmond, 23226",
+   "tags": {
+    "phone": "+1-804-288-3674",
+    "website": "https://www.theloveofpete.com/"
+   }
+  },
+  {
+   "id": "node/3086535638",
+   "name": "Puppy Luv",
+   "lat": 37.5152535,
+   "lon": -77.3491865,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9980869470",
+   "name": "Skoolz of Fish",
+   "lat": 37.6016131,
+   "lon": -77.3742,
+   "distKm": 8.7,
+   "address": "8073 Mechanicsville Turnpike, Mechanicsville, VA 23111",
+   "tags": {
+    "phone": "+1 804-522-1676",
+    "website": "https://www.skoolzoffish.com/"
+   }
+  },
+  {
+   "id": "node/6531580769",
+   "name": "PetSmart",
+   "lat": 37.5998217,
+   "lon": -77.3493806,
+   "distKm": 10.1,
+   "address": "7225 Bell Creek Road, Mechanicsville, VA 23111",
+   "tags": {
+    "phone": "+1 804-730-7545",
+    "website": "https://www.petsmart.com/stores/us/va/mechanicsville-store1328.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7112801860",
+   "name": "Fido Park Avenue",
+   "lat": 37.5502167,
+   "lon": -77.5715513,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3130627473",
+   "name": "Petco",
+   "lat": 37.503048,
+   "lon": -77.5745861,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3085282979",
+   "name": "Petco",
+   "lat": 37.6405687,
+   "lon": -77.5124476,
+   "distKm": 13,
+   "address": "9051 Staples Mill Road, Richmond, VA 23228-2022",
+   "tags": {
+    "phone": "+1 804-672-2180",
+    "website": "https://stores.petco.com/va/richmond/pet-supplies-richmond-va-1898.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7113062774",
+   "name": "Click & Fish Aquariums",
+   "lat": 37.6011763,
+   "lon": -77.5665489,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/465954832",
+   "name": "VCA Pets First Animal Hospital",
+   "lat": 37.6419464,
+   "lon": -77.5154293,
+   "distKm": 13.3,
+   "address": "9201 Staples Mill Road, 23228",
+   "tags": {}
+  },
+  {
+   "id": "node/4801900914",
+   "name": "Petco",
+   "lat": 37.6048035,
+   "lon": -77.5658836,
+   "distKm": 13.5,
+   "address": "1520 North Parham Road, Henrico, VA 23229",
+   "tags": {
+    "phone": "+1 804-591-4049",
+    "website": "https://stores.petco.com/va/henrico/pet-supplies-henrico-va-3820.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3165928237",
+   "name": "Pooches & Smootches",
+   "lat": 37.595661,
+   "lon": -77.5752461,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/236290647",
+   "name": "PetSmart",
+   "lat": 37.6685579,
+   "lon": -77.4631132,
+   "distKm": 14.4,
+   "address": "9870 Brook Road, Glen Allen, VA 23059",
+   "tags": {
+    "phone": "+1 804-266-1476",
+    "website": "https://www.petsmart.com/stores/us/va/glen-allen-store1051.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6515371708",
+   "name": "PetSmart",
+   "lat": 37.5087859,
+   "lon": -77.6040768,
+   "distKm": 15.2,
+   "address": "1276 Carmia Way, Richmond, VA 23235",
+   "tags": {
+    "phone": "+1 804-897-9490",
+    "website": "https://www.petsmart.com/stores/us/va/richmond-store0675.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3085307742",
+   "name": "Pet Supplies Plus",
+   "lat": 37.5248771,
+   "lon": -77.6100558,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3085339615",
+   "name": "Wild Birds Unlimited",
+   "lat": 37.6052832,
+   "lon": -77.591828,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/6515314185",
+   "name": "Wild Birds Unlimited",
+   "lat": 37.5018325,
+   "lon": -77.6272014,
+   "distKm": 17.4,
+   "address": "12631 Stone Village Way, 23113",
+   "tags": {
+    "phone": "+1-804-464-4242",
+    "website": "https://richmond.wbu.com/",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-17:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/1131831798",
+   "name": "Petco",
+   "lat": 37.5016596,
+   "lon": -77.62685,
+   "distKm": 17.4,
+   "address": "12619 Stone Village Way, Midlothian, VA 23113",
+   "tags": {
+    "phone": "+1-804-464-9187",
+    "website": "https://stores.petco.com/",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3129629294",
+   "name": "4 the Love of Dogs Grooming Salon",
+   "lat": 37.3813811,
+   "lon": -77.4538573,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6535436191",
+   "name": "Paws & Claws",
+   "lat": 37.6210463,
+   "lon": -77.610915,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3087862429",
+   "name": "Red Ridge K-9",
+   "lat": 37.6229244,
+   "lon": -77.6232316,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6648621662",
+   "name": "Velvet Paws",
+   "lat": 37.6483798,
+   "lon": -77.603456,
+   "distKm": 19,
+   "address": "2436 Old Brick Road, Glen Allen, VA 23060",
+   "tags": {
+    "phone": "+1-804-716-8214",
+    "website": "https://www.velvetpawsrva.com/",
+    "opening_hours": "Mo-Fr 12:00-20:00; Sa 10:00-20:00; Su 12:30-20:00"
+   }
+  },
+  {
+   "id": "node/3049033223",
+   "name": "Petco",
+   "lat": 37.6489055,
+   "lon": -77.6068123,
+   "distKm": 19.3,
+   "address": "11331 West Broad Street, Glen Allen, VA 23060-5819",
+   "tags": {
+    "phone": "+1 804-360-7446",
+    "website": "https://stores.petco.com/va/glenallen/pet-supplies-glenallen-va-2763.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6587097468",
+   "name": "Pet World",
+   "lat": 37.372244,
+   "lon": -77.5006638,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6525598956",
+   "name": "Wild Birds Unlimited",
+   "lat": 37.6471122,
+   "lon": -77.6167593,
+   "distKm": 19.8,
+   "address": "3404 Pump Road, Henrico, VA 23233",
+   "tags": {
+    "phone": "+1-804-934-9200",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 12:00-17:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/6525619054",
+   "name": "Dog Krazy",
+   "lat": 37.6496543,
+   "lon": -77.6151208,
+   "distKm": 19.9,
+   "address": "3520 Pump Road, 23233",
+   "tags": {
+    "phone": "+1-804-510-1600"
+   }
+  }
+ ]
+}

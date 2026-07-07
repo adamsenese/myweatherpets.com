@@ -1,0 +1,143 @@
+{
+ "$schemaVersion": 1,
+ "city": "tulsa",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:31:10.056Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 11,
+ "places": [
+  {
+   "id": "way/496197774",
+   "name": "Paws On Peoria",
+   "lat": 36.1517372,
+   "lon": -95.975182,
+   "distKm": 1.6,
+   "address": "609 South Peoria Avenue East, Tulsa, OK 74120",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/635161073",
+   "name": "Spirit Ranch Personal Dog Training",
+   "lat": 36.1480794,
+   "lon": -95.9688734,
+   "distKm": 2.2,
+   "address": "1621 East 11th Street South, Tulsa, OK 74120",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/263141038",
+   "name": "D. O. G. On Harvard",
+   "lat": 36.1471624,
+   "lon": -95.9401409,
+   "distKm": 4.8,
+   "address": "1113 South Harvard Avenue East, Tulsa, OK 74112",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12177772272",
+   "name": "Muddy Paws Boarding",
+   "lat": 36.0811557,
+   "lon": -95.9589853,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "relation/19397803",
+   "name": "Pooches",
+   "lat": 36.1059616,
+   "lon": -95.915294,
+   "distKm": 8.8,
+   "address": "5331 East 41st Street South",
+   "tags": {
+    "phone": "+1 918-398-6459",
+    "website": "https://www.poochestulsa.com/",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 09:00-16:00 \"By appointment\"; Su 14:00-16:00 \"Boarding only\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11973997034",
+   "name": "Dogtopia",
+   "lat": 36.0440263,
+   "lon": -95.9582523,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/83571042",
+   "name": "PetSuites",
+   "lat": 36.0738992,
+   "lon": -95.8871307,
+   "distKm": 13,
+   "address": "6136 South Memorial Drive East, Tulsa, OK 74133",
+   "tags": {
+    "website": "https://tulsa.petsuitesofamerica.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1375160159",
+   "name": "Woodland West Pet Resort",
+   "lat": 36.0276629,
+   "lon": -96.0124905,
+   "distKm": 14.2,
+   "address": "9400 South Union Avenue West, Tulsa, OK",
+   "tags": {
+    "phone": "+1 918 299 5720",
+    "website": "https://woodlandwestpetresort.com/",
+    "opening_hours": "Mo-Su 07:00-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1294626429",
+   "name": "Aurora Kennel",
+   "lat": 36.0756607,
+   "lon": -95.8669928,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1172619803",
+   "name": "Doggie D'Tails",
+   "lat": 36.0556757,
+   "lon": -95.8148072,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-918-251-1313",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/746459614",
+   "name": "Bouse Fur House",
+   "lat": 36.0550923,
+   "lon": -95.8096239,
+   "distKm": 19.8,
+   "address": "1900 West Detroit Street, Broken Arrow, OK 74012",
+   "tags": {
+    "phone": "+19188935695",
+    "website": "https://bousefurhouse.com/",
+    "opening_hours": "Mo-Sa 07:00-19:00; Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

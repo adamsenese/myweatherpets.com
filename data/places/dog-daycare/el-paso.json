@@ -1,0 +1,10 @@
+{
+ "$schemaVersion": 1,
+ "city": "el-paso",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:27:02.241Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 0,
+ "places": []
+}

@@ -1,0 +1,59 @@
+{
+ "$schemaVersion": 1,
+ "city": "bangkok",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:24:01.027Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/1287927532",
+   "name": "Sheltie Station",
+   "lat": 13.7146914,
+   "lon": 100.547777,
+   "distKm": 6.8,
+   "address": "169 ซอยประสาทสุข, 10120",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12463326409",
+   "name": "Mango Cat Hotel",
+   "lat": 13.6973315,
+   "lon": 100.6014333,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12889153974",
+   "name": "Fuwafuwa",
+   "lat": 13.8184073,
+   "lon": 100.6113032,
+   "distKm": 13.7,
+   "address": "40/104 ซอยนาคนิวาส 44, 10230",
+   "tags": {
+    "phone": "0966688869",
+    "website": "www.facebook.com/fuwahotel",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13410574994",
+   "name": "Bunny Friend",
+   "lat": 13.8536511,
+   "lon": 100.6209233,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

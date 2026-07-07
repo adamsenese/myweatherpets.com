@@ -1,0 +1,56 @@
+{
+ "$schemaVersion": 1,
+ "city": "el-paso",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:27:02.241Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "node/2696971738",
+   "name": "Dog, Cat, and Bird Hospital",
+   "lat": 31.7819995,
+   "lon": -106.5065402,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/754297875",
+   "name": "Crossroads Animal Hospital",
+   "lat": 31.8389155,
+   "lon": -106.5775215,
+   "distKm": 12.2,
+   "address": "4910 Crossroads Drive, El Paso, TX 79922",
+   "tags": {}
+  },
+  {
+   "id": "way/994053278",
+   "name": "East El Paso Animal Hospital",
+   "lat": 31.7950781,
+   "lon": -106.3480093,
+   "distKm": 13.5,
+   "address": "3370 Wedgewood Drive, El Paso, TX 79925",
+   "tags": {}
+  },
+  {
+   "id": "node/6543560108",
+   "name": "ALAVAMA",
+   "lat": 31.6371109,
+   "lon": -106.4169295,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7391432526",
+   "name": "Madagaskar",
+   "lat": 31.6243498,
+   "lon": -106.3955141,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

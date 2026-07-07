@@ -1,0 +1,629 @@
+{
+ "$schemaVersion": 1,
+ "city": "sao-paulo",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:40:02.278Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/2856222209",
+   "name": "Centro de Ensino e Treinamento Veterinário",
+   "lat": -23.5681856,
+   "lon": -46.6375903,
+   "distKm": 2,
+   "address": "284 Rua Castro Alves, São Paulo, 01532-000",
+   "tags": {}
+  },
+  {
+   "id": "node/5054815742",
+   "name": "Rehab Animal",
+   "lat": -23.571089,
+   "lon": -46.6313794,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11774667363",
+   "name": "Hospital Veterinário Anhembi Morumbi",
+   "lat": -23.5495104,
+   "lon": -46.6101838,
+   "distKm": 2.4,
+   "address": "64 Rua Conselheiro Lafaiete, São Paulo, 03164-110",
+   "tags": {
+    "phone": "+55 11 2790 4642",
+    "website": "https://portal.anhembi.br/hospital-veterinario/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/4992752391",
+   "name": "Had Dog & Cia",
+   "lat": -23.5543918,
+   "lon": -46.6577777,
+   "distKm": 2.5,
+   "address": "35 Rua Haddock Lobo, São Paulo, 01414-001",
+   "tags": {}
+  },
+  {
+   "id": "way/1185278969",
+   "name": "Olha Eu",
+   "lat": -23.536435,
+   "lon": -46.6520275,
+   "distKm": 2.5,
+   "address": "1245 Alameda Nothmann, São Paulo, 01216-001",
+   "tags": {}
+  },
+  {
+   "id": "node/12106955767",
+   "name": "Dr vet express",
+   "lat": -23.5373742,
+   "lon": -46.6548445,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8858418790",
+   "name": "Fanvet",
+   "lat": -23.5753487,
+   "lon": -46.6345322,
+   "distKm": 2.8,
+   "address": "572 Rua Topázio",
+   "tags": {
+    "phone": "+55 11 96188-9263",
+    "website": "https://www.instagram.com/fan.vet/",
+    "opening_hours": "Mo-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/10992121089",
+   "name": "Pet Life Care",
+   "lat": -23.5782914,
+   "lon": -46.6356066,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1211491507",
+   "name": "Hospital Veterinario Ceres",
+   "lat": -23.5325807,
+   "lon": -46.6569725,
+   "distKm": 3.1,
+   "address": "Avenida General Olímpio da Silveira, São Paulo",
+   "tags": {}
+  },
+  {
+   "id": "node/4582139392",
+   "name": "Pet Care Hospital Veterinário Unidade Pacaembu",
+   "lat": -23.542138,
+   "lon": -46.664724,
+   "distKm": 3.3,
+   "address": "1839 Avenida Pacaembu, São Paulo, 01234-001",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13394625331",
+   "name": "vetnasa",
+   "lat": -23.5427688,
+   "lon": -46.665048,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13394596763",
+   "name": "vet masters",
+   "lat": -23.5364344,
+   "lon": -46.6633967,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/392587872",
+   "name": "Petz",
+   "lat": -23.5237139,
+   "lon": -46.6130953,
+   "distKm": 3.6,
+   "address": "204 Rua Doutor Miguel Paulo Capalbo, São Paulo, 03035-040",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/467691531",
+   "name": "Axis Centro Veterinario",
+   "lat": -23.5777917,
+   "lon": -46.6119475,
+   "distKm": 3.7,
+   "address": "172 Rua Vasconcelos Drumond, São Paulo, 01548-000",
+   "tags": {
+    "phone": "+55 11 4306-2941"
+   }
+  },
+  {
+   "id": "way/427411386",
+   "name": "Clínica Veterinária Vila Mariana",
+   "lat": -23.5841993,
+   "lon": -46.6274668,
+   "distKm": 3.8,
+   "address": "2507 Avenida Lins de Vasconcelos",
+   "tags": {
+    "phone": "+55 11 2865 0017",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4588839204",
+   "name": "Vetteles Clinica Veterinaria",
+   "lat": -23.5258752,
+   "lon": -46.6061345,
+   "distKm": 3.9,
+   "address": "1549 Rua Silva Teles, São Paulo, 03026-001",
+   "tags": {
+    "phone": "+55 11 2796-6787",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/1463769155",
+   "name": "Nouvet",
+   "lat": -23.5658819,
+   "lon": -46.6694344,
+   "distKm": 4.1,
+   "address": "1626 Rua Estados Unidos, São Paulo, 01427-002",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2057958385",
+   "name": "Ponto Pet",
+   "lat": -23.5876555,
+   "lon": -46.6402382,
+   "distKm": 4.2,
+   "address": "899 Rua Humberto I, São Paulo, São Paulo",
+   "tags": {}
+  },
+  {
+   "id": "node/12877160376",
+   "name": "Cats",
+   "lat": -23.5742632,
+   "lon": -46.6665246,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4370402936",
+   "name": "COSAP",
+   "lat": -23.5117442,
+   "lon": -46.6274604,
+   "distKm": 4.4,
+   "address": "86 Rua Santa Eulália, São Paulo, 02031-020",
+   "tags": {
+    "phone": "+55 11 3397-8900"
+   }
+  },
+  {
+   "id": "node/11422664213",
+   "name": "We vets",
+   "lat": -23.5636822,
+   "lon": -46.6763589,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12479407423",
+   "name": "We Vets",
+   "lat": -23.5115368,
+   "lon": -46.6528289,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/466016844",
+   "name": "Animaniac's",
+   "lat": -23.5708689,
+   "lon": -46.5903798,
+   "distKm": 4.9,
+   "address": "467 Rua Juventus, São Paulo, 03124-021",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/1603479311",
+   "name": "Veterinária Perdizes",
+   "lat": -23.5314727,
+   "lon": -46.6774077,
+   "distKm": 5,
+   "address": "50 Rua Aimberê, São Paulo",
+   "tags": {}
+  },
+  {
+   "id": "node/11879271704",
+   "name": "Clinicat",
+   "lat": -23.541998,
+   "lon": -46.6818335,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1061841426",
+   "name": "Clinica Veterinária Helena Carol",
+   "lat": -23.5312727,
+   "lon": -46.6813966,
+   "distKm": 5.3,
+   "address": "367 Rua Caraíbas, São Paulo, 05020-000",
+   "tags": {
+    "phone": "+55 11 3865-7434"
+   }
+  },
+  {
+   "id": "way/1064088881",
+   "name": "Perdizes Pet Center",
+   "lat": -23.537261,
+   "lon": -46.6829376,
+   "distKm": 5.3,
+   "address": "1032 Rua Cayowaá, São Paulo, 05018-001",
+   "tags": {}
+  },
+  {
+   "id": "node/5094999467",
+   "name": "Estação Zoo",
+   "lat": -23.5995262,
+   "lon": -46.6400112,
+   "distKm": 5.5,
+   "address": "1484 Rua Loefgren, São Paulo, 04040-002",
+   "tags": {
+    "phone": "+55 11 5084 6912",
+    "website": "https://www.estacaozoo.com.br/",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 09:00-18:00; PH off"
+   }
+  },
+  {
+   "id": "node/12222494680",
+   "name": "Vet therapy",
+   "lat": -23.5681841,
+   "lon": -46.6848841,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4879650823",
+   "name": "Pet a Vet",
+   "lat": -23.5580371,
+   "lon": -46.6886335,
+   "distKm": 5.7,
+   "address": "140 Rua Fidalga, 05432-000",
+   "tags": {
+    "phone": "+55 11 3035-5203",
+    "website": "https://www.petavet.com.br",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+   }
+  },
+  {
+   "id": "node/6657774026",
+   "name": "Randi",
+   "lat": -23.5481891,
+   "lon": -46.6905391,
+   "distKm": 5.8,
+   "address": "35 Rua Agissê, São Paulo, 05439-010",
+   "tags": {
+    "phone": "+55 11 3031-2960",
+    "website": "http://www.randivet.com.br/",
+    "opening_hours": "Mo-Sa 09:00-20:00"
+   }
+  },
+  {
+   "id": "way/715137509",
+   "name": "Pet Palace",
+   "lat": -23.5503583,
+   "lon": -46.5749602,
+   "distKm": 5.9,
+   "address": "183 Rua Azevedo Soares, São Paulo, 03322-000",
+   "tags": {}
+  },
+  {
+   "id": "way/1104821417",
+   "name": "Apasfa",
+   "lat": -23.5130504,
+   "lon": -46.5920812,
+   "distKm": 5.9,
+   "address": "272 Rua Santo Eliseu, São Paulo, 02121-000",
+   "tags": {
+    "phone": "+55 11 2631-2571;+55 11 2955-4352",
+    "opening_hours": "Mo-Sa 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/714049551",
+   "name": "Clinicão Veterinaria",
+   "lat": -23.508431,
+   "lon": -46.5961408,
+   "distKm": 6,
+   "address": "2015 Rua Maria Cândida, São Paulo, 02071-013",
+   "tags": {}
+  },
+  {
+   "id": "way/1023633111",
+   "name": "Centro Veterinário Bandeira Pet",
+   "lat": -23.5065638,
+   "lon": -46.5988107,
+   "distKm": 6,
+   "address": "111 Rua Mário Pinheiro, São Paulo, 02076-010",
+   "tags": {
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "id": "node/7117804585",
+   "name": "Pet Shop Kecão",
+   "lat": -23.5000936,
+   "lon": -46.609526,
+   "distKm": 6.1,
+   "address": "394 Avenida Conceição, São Paulo, 02072-000",
+   "tags": {}
+  },
+  {
+   "id": "way/439295125",
+   "name": "Mil Lambidas",
+   "lat": -23.6070341,
+   "lon": -46.6356234,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4687023300",
+   "name": "Vetimagem Centro de Diagnóstico Veterinário",
+   "lat": -23.4944028,
+   "lon": -46.6187271,
+   "distKm": 6.4,
+   "address": "322 Rua Pedro Madureira, São Paulo",
+   "tags": {
+    "phone": "+55 11 2978-6988;+55 11 2978-4159",
+    "website": "https://www.vetimagem.com.br/index.php"
+   }
+  },
+  {
+   "id": "node/7120512570",
+   "name": "Doutor Acácio",
+   "lat": -23.4940909,
+   "lon": -46.6167072,
+   "distKm": 6.5,
+   "address": "817 Avenida Leôncio de Magalhães, São Paulo, 02042-010",
+   "tags": {}
+  },
+  {
+   "id": "node/7122351381",
+   "name": "Save Vet",
+   "lat": -23.4926739,
+   "lon": -46.6178188,
+   "distKm": 6.6,
+   "address": "1005 Avenida Leôncio de Magalhães, São Paulo, 02042-011",
+   "tags": {
+    "phone": "+55 11 2971-3387",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/7143796786",
+   "name": "Pet Boutique",
+   "lat": -23.4913428,
+   "lon": -46.6259532,
+   "distKm": 6.6,
+   "address": "3280 Rua Voluntários da Pátria, São Paulo, 02402-300",
+   "tags": {}
+  },
+  {
+   "id": "way/618162767",
+   "name": "Hospital Veterinário Santana",
+   "lat": -23.4915277,
+   "lon": -46.6350515,
+   "distKm": 6.6,
+   "address": "1201 Rua Conselheiro Moreira de Barros, São Paulo, 02018-012",
+   "tags": {
+    "phone": "+55 11 2959-0459"
+   }
+  },
+  {
+   "id": "way/1055694459",
+   "name": "Pet Care",
+   "lat": -23.5477572,
+   "lon": -46.5681764,
+   "distKm": 6.6,
+   "address": "965 Rua Serra de Japi, São Paulo, 03309-000",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1097534127",
+   "name": "Pet Station",
+   "lat": -23.6052521,
+   "lon": -46.6574669,
+   "distKm": 6.6,
+   "address": "365 Avenida Moema, São Paulo, 04077-021",
+   "tags": {}
+  },
+  {
+   "id": "way/1436544239",
+   "name": "Clinica Veterinária São Sebastião",
+   "lat": -23.4997851,
+   "lon": -46.5990772,
+   "distKm": 6.6,
+   "address": "1543 Avenida Conceição, São Paulo, 02072-002",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/8653646741",
+   "name": "Bigodes e Focinhos",
+   "lat": -23.5869493,
+   "lon": -46.580474,
+   "distKm": 6.7,
+   "address": "300 Praça Santa Helena, São Paulo, 03138-030",
+   "tags": {}
+  },
+  {
+   "id": "way/450155741",
+   "name": "Clinica Veterinária Costa Carvalho",
+   "lat": -23.5608523,
+   "lon": -46.6993155,
+   "distKm": 6.8,
+   "address": "104 Rua Costa Carvalho, São Paulo, 05429-000",
+   "tags": {
+    "phone": "+55 11 3819-4337"
+   }
+  },
+  {
+   "id": "node/8314893199",
+   "name": "PetWay",
+   "lat": -23.4888052,
+   "lon": -46.6261751,
+   "distKm": 6.9,
+   "address": "Rua Voluntários da Pátria, São Paulo, 02402-300",
+   "tags": {}
+  },
+  {
+   "id": "node/4089255170",
+   "name": "Veterinário Bicho Urbano",
+   "lat": -23.4884008,
+   "lon": -46.6237611,
+   "distKm": 7,
+   "address": "67 Avenida Nova Cantareira, São Paulo, 02331-000",
+   "tags": {
+    "phone": "+55 11 2976-3814",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/7172032887",
+   "name": "Clinica Veterinaria Villa Pet",
+   "lat": -23.5364799,
+   "lon": -46.702641,
+   "distKm": 7.2,
+   "address": "11 Rua Rodrigues de Campos Leite, São Paulo, 05054-030",
+   "tags": {
+    "phone": "+55 11 3578-5550"
+   }
+  },
+  {
+   "id": "way/439287912",
+   "name": "Vet Método",
+   "lat": -23.6148624,
+   "lon": -46.6397504,
+   "distKm": 7.2,
+   "address": "136 Rua Afonso Mariano Fagundes",
+   "tags": {}
+  },
+  {
+   "id": "way/656334865",
+   "name": "Hospital Público Veterinário",
+   "lat": -23.4881533,
+   "lon": -46.6073504,
+   "distKm": 7.4,
+   "address": "3194 Avenida General Ataliba Leonel, São Paulo, 02242-001",
+   "tags": {}
+  },
+  {
+   "id": "way/1279485033",
+   "name": "Foxvet",
+   "lat": -23.606598,
+   "lon": -46.6718868,
+   "distKm": 7.4,
+   "address": "422 Avenida Cotovia, São Paulo, 04517-001",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/1460830550",
+   "name": "Clinica Veterinaria Cão Maravilha",
+   "lat": -23.4855996,
+   "lon": -46.6168424,
+   "distKm": 7.4,
+   "address": "42 Rua Altinópolis, São Paulo, 02334-001",
+   "tags": {
+    "phone": "+55 11 2307-0680"
+   }
+  },
+  {
+   "id": "way/1485430771",
+   "name": "CeneNorte Centro de Nefrologia",
+   "lat": -23.4876628,
+   "lon": -46.6071008,
+   "distKm": 7.5,
+   "address": "3254 Avenida General Ataliba Leonel, 02242-001",
+   "tags": {
+    "healthcare:speciality": "nephrology;hypertension;hemodialysis"
+   }
+  },
+  {
+   "id": "way/1459694620",
+   "name": "Unita centro veterinario",
+   "lat": -23.5163746,
+   "lon": -46.6978473,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4897138921",
+   "name": "Beleza Animal",
+   "lat": -23.6203672,
+   "lon": -46.6477233,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12140850449",
+   "name": "Pet Dogstore",
+   "lat": -23.621804,
+   "lon": -46.6384904,
+   "distKm": 7.9,
+   "address": "324 Rua Paracatú, São Paulo, 04302-021",
+   "tags": {}
+  },
+  {
+   "id": "way/1383650045",
+   "name": "Vetnassa Rede Veterinaria",
+   "lat": -23.6080971,
+   "lon": -46.6778711,
+   "distKm": 7.9,
+   "address": "2060 Avenida dos Bandeirantes, São Paulo",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4492388974",
+   "name": "Dr. Renata Nobrega",
+   "lat": -23.494782,
+   "lon": -46.5839905,
+   "distKm": 8,
+   "address": "3491 Avenida Conceição, São Paulo, 02135-001",
+   "tags": {
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-15:00"
+   }
+  }
+ ]
+}

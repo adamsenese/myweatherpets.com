@@ -1,0 +1,48 @@
+{
+ "$schemaVersion": 1,
+ "city": "louisville",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:28:07.719Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/13300261543",
+   "name": "Pampered Pets Dog Daycare & Hotel",
+   "lat": 38.3152037,
+   "lon": -85.8521228,
+   "distKm": 10.7,
+   "address": "2706 Paoli Pike, New Albany, IN 47150",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-12:00,13:00-18:30; Sa-Su 08:00-10:00,16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11165624651",
+   "name": "Dogwood Inn & Kennel",
+   "lat": 38.3504886,
+   "lon": -85.7039317,
+   "distKm": 11.9,
+   "address": "5012 State Road 62, Jeffersonville, IN 47130",
+   "tags": {
+    "phone": "+1-812-283-6960",
+    "website": "http://dogwoodinnkennel.com/",
+    "opening_hours": "Mo 08:30-16:00; Tu 08:30-11:00,14:30-16:00; We 08:30-16:00; Th 08:30-11:00,14:30-16:00; Fr 08:30-16:00; Sa 08:30-15:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1339619932",
+   "name": "All Fur Fun",
+   "lat": 38.3589226,
+   "lon": -85.7018766,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

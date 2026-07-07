@@ -1,0 +1,213 @@
+{
+ "$schemaVersion": 1,
+ "city": "boise",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:34:11.577Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "way/738568382",
+   "name": "Veterinary Wellness Center",
+   "lat": 43.5986198,
+   "lon": -116.1944427,
+   "distKm": 1.9,
+   "address": "1050 West Beacon Street, Boise, ID 83706",
+   "tags": {
+    "phone": "+1-208-901-8360",
+    "website": "https://www.vetwellcenter.com/"
+   }
+  },
+  {
+   "id": "way/733930387",
+   "name": "Vista Animal Hospital",
+   "lat": 43.5855188,
+   "lon": -116.2141205,
+   "distKm": 3.4,
+   "address": "1985 South Vista Avenue, Boise, ID 83705",
+   "tags": {
+    "phone": "+1-208-343-3711"
+   }
+  },
+  {
+   "id": "node/8672381535",
+   "name": "Veterinary Orthopedic & Surgical Care Center",
+   "lat": 43.5858811,
+   "lon": -116.183732,
+   "distKm": 3.6,
+   "address": "201 West Boise Avenue, Boise, ID 83706",
+   "tags": {
+    "website": "https://idahoveterinarysurgery.com/"
+   }
+  },
+  {
+   "id": "way/772608300",
+   "name": "Ewing Animal Hospital",
+   "lat": 43.6415735,
+   "lon": -116.2324925,
+   "distKm": 3.8,
+   "address": "2318 North 36th Street, Boise, ID 83703",
+   "tags": {}
+  },
+  {
+   "id": "way/764073963",
+   "name": "Broadway Vet",
+   "lat": 43.5791065,
+   "lon": -116.179371,
+   "distKm": 4.4,
+   "address": "350 East Linden Street, Boise, ID 83706",
+   "tags": {}
+  },
+  {
+   "id": "node/8331538872",
+   "name": "Habitat Veterinary Hospital",
+   "lat": 43.5763733,
+   "lon": -116.1478259,
+   "distKm": 6.1,
+   "address": "3103 East Barber Valley Drive, Boise, ID 83716",
+   "tags": {
+    "website": "https://habitatboise.com/"
+   }
+  },
+  {
+   "id": "way/1018154499",
+   "name": "WestVet",
+   "lat": 43.6432275,
+   "lon": -116.2667755,
+   "distKm": 6.1,
+   "address": "5024 West Chinden Boulevard, Garden City, ID 83714",
+   "tags": {}
+  },
+  {
+   "id": "node/2923902084",
+   "name": "Mountain View Animal Hospital",
+   "lat": 43.6362973,
+   "lon": -116.2745071,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13676702885",
+   "name": "Idaho Humane Society Veterinary",
+   "lat": 43.5914577,
+   "lon": -116.2886496,
+   "distKm": 7.4,
+   "address": "1300 South Bird Street, Boise, ID 83709",
+   "tags": {}
+  },
+  {
+   "id": "node/2945151703",
+   "name": "The Pet Doctor",
+   "lat": 43.5894041,
+   "lon": -116.2929204,
+   "distKm": 7.8,
+   "address": "8904 West Ardene Street, Boise, ID 83709",
+   "tags": {}
+  },
+  {
+   "id": "node/8672358952",
+   "name": "Springs Pet Medical Care",
+   "lat": 43.5684834,
+   "lon": -116.1204757,
+   "distKm": 8.4,
+   "address": "4940 East Mill Station Drive, Boise, ID 83716",
+   "tags": {
+    "website": "https://springspetmed.com/"
+   }
+  },
+  {
+   "id": "way/761877364",
+   "name": "All Valley Pet Clinic",
+   "lat": 43.540482,
+   "lon": -116.156378,
+   "distKm": 9.1,
+   "address": "6801 South Federal Way, Boise, ID 83716",
+   "tags": {}
+  },
+  {
+   "id": "way/840267545",
+   "name": "Critter Clinic",
+   "lat": 43.6343777,
+   "lon": -116.3131999,
+   "distKm": 9.2,
+   "address": "10534 West Ustick Road, Boise, ID 83704",
+   "tags": {}
+  },
+  {
+   "id": "way/771162353",
+   "name": "Animal Medical Center",
+   "lat": 43.5921645,
+   "lon": -116.314749,
+   "distKm": 9.4,
+   "address": "1365 South Five Mile Road, Boise, ID 83709",
+   "tags": {}
+  },
+  {
+   "id": "way/962668237",
+   "name": "Ada Veterinary Hospital",
+   "lat": 43.5604518,
+   "lon": -116.3460888,
+   "distKm": 13.1,
+   "address": "3889 East Amity Road, Meridian, ID 83642",
+   "tags": {}
+  },
+  {
+   "id": "node/11468702016",
+   "name": "All Valley Animal Care Center",
+   "lat": 43.5929417,
+   "lon": -116.3648715,
+   "distKm": 13.3,
+   "address": "2326 East Cinema Drive, Meridian, ID 83642",
+   "tags": {
+    "website": "https://www.thrivepetcare.com"
+   }
+  },
+  {
+   "id": "node/9380612738",
+   "name": "Intermountain Pet Hospital",
+   "lat": 43.6621432,
+   "lon": -116.3819608,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/677788247",
+   "name": "Treasure Valley Veterinary Hospital",
+   "lat": 43.5808966,
+   "lon": -116.3933527,
+   "distKm": 15.8,
+   "address": "2600 South Meridian Road, Meridian, ID 83642",
+   "tags": {}
+  },
+  {
+   "id": "node/8672346257",
+   "name": "WestVet Urgent Care",
+   "lat": 43.5773342,
+   "lon": -116.3932584,
+   "distKm": 15.9,
+   "address": "3030 South Meridian Road, Meridian, ID 83642",
+   "tags": {}
+  },
+  {
+   "id": "way/1242380952",
+   "name": "WestVet",
+   "lat": 43.6030711,
+   "lon": -116.4318419,
+   "distKm": 18.5,
+   "address": "212 South Innovation Lane, Meridian, ID 83642",
+   "tags": {}
+  },
+  {
+   "id": "node/8672317186",
+   "name": "Treasure Valley Veterinary Hospital",
+   "lat": 43.5007852,
+   "lon": -116.393245,
+   "distKm": 20,
+   "address": "1378 North Meridian Road, Kuna, ID 83634",
+   "tags": {}
+  }
+ ]
+}

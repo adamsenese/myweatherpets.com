@@ -1,0 +1,648 @@
+{
+ "$schemaVersion": 1,
+ "city": "boston",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:26:30.325Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/815553772",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3630096,
+   "lon": -71.0536015,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/846599905",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3557549,
+   "lon": -71.0672077,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "designated",
+    "access": "yes",
+    "website": "https://friendsofthepublicgarden.org/our-parks/the-common/common-canine/",
+    "opening_hours": "Mo-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/1303502584",
+   "name": "RUFF North End",
+   "lat": 42.3668403,
+   "lon": -71.0567943,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/653381630",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3537916,
+   "lon": -71.0651671,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "designated",
+    "access": "yes",
+    "website": "https://friendsofthepublicgarden.org/our-parks/the-common/common-canine/",
+    "opening_hours": "Mo-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/857582183",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3495131,
+   "lon": -71.0662791,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1396723811",
+   "name": "Bay Village Dog Park",
+   "lat": 42.3497811,
+   "lon": -71.0662657,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/748822176",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3687683,
+   "lon": -71.042051,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/852229149",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3447565,
+   "lon": -71.0627406,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1153087746",
+   "name": "Child Street Dog Park",
+   "lat": 42.3716637,
+   "lon": -71.0723642,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/733432535",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3668113,
+   "lon": -71.081243,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/133535657",
+   "name": "Joe Wex Dog Recreation Space",
+   "lat": 42.3426434,
+   "lon": -71.0676394,
+   "distKm": 2.1,
+   "address": "1277 Washington Street, Boston, MA 02118",
+   "tags": {
+    "surface": "dirt",
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.peterspark.org/peters-park-dog-park",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/7857858749",
+   "name": "Carleton Court Dog Park",
+   "lat": 42.3453214,
+   "lon": -71.0787503,
+   "distKm": 2.3,
+   "address": "49 Carleton Street, Boston, MA 02116",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.swcpc.org/dogwalking.asp",
+    "opening_hours": "Mo-Su 06:30-22:00"
+   }
+  },
+  {
+   "id": "way/1463028941",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3798919,
+   "lon": -71.0719864,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/399656881",
+   "name": "Bremen Street Dog Park",
+   "lat": 42.3725114,
+   "lon": -71.0340882,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1316975922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3664411,
+   "lon": -71.0889724,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/133528401",
+   "name": "Zero New Washington St Dog Park",
+   "lat": 42.3800484,
+   "lon": -71.0823789,
+   "distKm": 2.9,
+   "address": "0 New Washington Street, Somerville, 02143",
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "id": "way/699582637",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3870216,
+   "lon": -71.0456051,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1525345573",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3856033,
+   "lon": -71.0777499,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/814434935",
+   "name": "East First Street Dog Park",
+   "lat": 42.3384022,
+   "lon": -71.0316724,
+   "distKm": 3.3,
+   "address": "768 East First Street, Boston, MA 02127",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/133534919",
+   "name": "Pacific Street Dog Park",
+   "lat": 42.3606681,
+   "lon": -71.1038153,
+   "distKm": 3.7,
+   "address": "22 Tudor Street, Cambridge, 02139",
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/648600795",
+   "name": "Lincoln Park Off-Leash Area",
+   "lat": 42.378258,
+   "lon": -71.1012638,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/133532399",
+   "name": "Nunziato Field Dog Park",
+   "lat": 42.3829496,
+   "lon": -71.0987542,
+   "distKm": 4.1,
+   "address": "13-29 Summer Street, Somerville, 02143",
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1195445839",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3949827,
+   "lon": -71.0776526,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1362680268",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.399654,
+   "lon": -71.0452465,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1363177699",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4015118,
+   "lon": -71.0536016,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1226583832",
+   "name": "Amory Playground Green Dog Park",
+   "lat": 42.3461374,
+   "lon": -71.1130941,
+   "distKm": 4.7,
+   "address": "Amory Street & Freeman Street, Brookline, MA 02445",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.brooklinema.gov/facilities/facility/details/amory-playground-9"
+   }
+  },
+  {
+   "id": "way/972947315",
+   "name": "Puddingstone Dog Park",
+   "lat": 42.3320085,
+   "lon": -71.1036903,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1378110041",
+   "name": "Station Landing Dog Park",
+   "lat": 42.401116,
+   "lon": -71.081524,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/29834883",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.405257,
+   "lon": -71.0526382,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12181127234",
+   "name": "Park-9 Dog Bar",
+   "lat": 42.4078982,
+   "lon": -71.0647149,
+   "distKm": 5.3,
+   "address": "48 Waters Avenue, Everett, MA 02149",
+   "tags": {
+    "dog": "yes",
+    "website": "https://www.park9dogbar.com/",
+    "opening_hours": "Mo-Tu 17:00-21:00; We-Fr 17:00-22:00; Sa 11:00-22:00; Su 11:00-21:00"
+   }
+  },
+  {
+   "id": "way/1215634617",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3931507,
+   "lon": -71.1070372,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1528252652",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4095695,
+   "lon": -71.0660939,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/667956545",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4100338,
+   "lon": -71.0482393,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/257042458",
+   "name": "Mansfield Dog Park",
+   "lat": 42.3569047,
+   "lon": -71.1306771,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1001791943",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3220751,
+   "lon": -71.1103039,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1107428706",
+   "name": "Dog Park @ The Track",
+   "lat": 42.3921061,
+   "lon": -71.0004558,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1215881075",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3665605,
+   "lon": -71.1311793,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/29837081",
+   "name": "Beecher St Play Area",
+   "lat": 42.3181807,
+   "lon": -71.1068863,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1313389567",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4017456,
+   "lon": -71.1100071,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1054202045",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4105461,
+   "lon": -71.0999556,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/594371747",
+   "name": "Pemberton Street Dog Run",
+   "lat": 42.3900682,
+   "lon": -71.1283978,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1412390775",
+   "name": "Dog Park @ The Yard",
+   "lat": 42.3980929,
+   "lon": -70.9939046,
+   "distKm": 6.8,
+   "address": "10 Suffolk Downs Boulevard, Revere, MA 02151",
+   "tags": {}
+  },
+  {
+   "id": "way/133530257",
+   "name": "Danehy Dog Park",
+   "lat": 42.3906361,
+   "lon": -71.1373473,
+   "distKm": 7.3,
+   "address": "39 Sherman Street, Cambridge, 02138",
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/557154553",
+   "name": "Paws N Play Dog Park",
+   "lat": 42.4214282,
+   "lon": -71.0267964,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1343523057",
+   "name": "Fitzhenry Square Dog Park",
+   "lat": 42.4061496,
+   "lon": -70.9952968,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8400918358",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.2876553,
+   "lon": -71.044319,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1226590910",
+   "name": "Larz Anderson Park Green Dog Park",
+   "lat": 42.3134242,
+   "lon": -71.1354294,
+   "distKm": 8.2,
+   "address": "Newton Street and Goddard Avenue, Brookline, MA 02245",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.brooklinema.gov/facilities/facility/details/larz-anderson-park-87"
+   }
+  },
+  {
+   "id": "way/399657203",
+   "name": "Thorndike Dog Park",
+   "lat": 42.3989604,
+   "lon": -71.1446073,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/845074372",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4372588,
+   "lon": -71.0432811,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1365402065",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3515422,
+   "lon": -71.1658336,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1396606580",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4398801,
+   "lon": -71.0697156,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "relation/20367689",
+   "name": "North Quincy Dog Park",
+   "lat": 42.2831119,
+   "lon": -71.0313107,
+   "distKm": 8.9,
+   "address": "Atlantic Street, Quincy, MA 02171",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/1365402621",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.356743,
+   "lon": -71.1709155,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/846808993",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4444075,
+   "lon": -71.0630133,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/46034893",
+   "name": "Sheepfold",
+   "lat": 42.4550925,
+   "lon": -71.1077863,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/718496198",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3523567,
+   "lon": -71.1975062,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1056117046",
+   "name": "Melrose Dog Park",
+   "lat": 42.4622533,
+   "lon": -71.0650354,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1451390616",
+   "name": "Walker Park",
+   "lat": 42.350552,
+   "lon": -71.2137903,
+   "distKm": 12.8,
+   "address": "988;990 Washington Street, Newton, MA 02460",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.newtonma.gov/Home/Components/FacilityDirectory/FacilityDirectory/196/"
+   }
+  },
+  {
+   "id": "way/798113737",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.324899,
+   "lon": -71.2128394,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/898182489",
+   "name": "Quincy Dog Park",
+   "lat": 42.2468894,
+   "lon": -71.0124692,
+   "distKm": 13.2,
+   "address": "Quincy, MA 02169",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.quincyma.gov/govt/depts/natural_resources/park/dog_park.htm",
+    "opening_hours": "sunrise-sunset"
+   }
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "$schemaVersion": 1,
+ "city": "birmingham",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:35:51.087Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "way/664854974",
+   "name": "Alford Avenue Veterinary Hospital",
+   "lat": 33.4320783,
+   "lon": -86.8219726,
+   "distKm": 9.7,
+   "address": "2107 Marlboro Street, Hoover, AL 35226",
+   "tags": {}
+  },
+  {
+   "id": "way/622134618",
+   "name": "Liberty Animal Hospital",
+   "lat": 33.4819471,
+   "lon": -86.7110796,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/622474078",
+   "name": "Britt Animal Hospital",
+   "lat": 33.4535306,
+   "lon": -86.7306823,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.brittanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/827134766",
+   "name": "Vestridge Animal Clinic",
+   "lat": 33.4199063,
+   "lon": -86.8008458,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/758546844",
+   "name": "Rocky Ridge Animal Clinic & Pet Hotel",
+   "lat": 33.4231158,
+   "lon": -86.7728089,
+   "distKm": 11.2,
+   "address": "2488 Rocky Ridge Road, Birmingham, AL 35243",
+   "tags": {
+    "phone": "+1-205-267-1300",
+    "website": "https://www.rockyridgeanimalclinic.com/",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su 18:00-19:00"
+   }
+  },
+  {
+   "id": "way/827093782",
+   "name": "Vestavia Animal Clinic",
+   "lat": 33.4170696,
+   "lon": -86.8020104,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/768402213",
+   "name": "Altadena Valley Animal Clinic",
+   "lat": 33.43321,
+   "lon": -86.7387023,
+   "distKm": 11.6,
+   "address": "2898 Acton Road, Birmingham, AL 35243",
+   "tags": {
+    "phone": "+1-205-967-7383",
+    "website": "https://www.altadenavalleyanimalclinic.com/"
+   }
+  },
+  {
+   "id": "way/824968909",
+   "name": "Patton Chapel Animal Clinic",
+   "lat": 33.3938727,
+   "lon": -86.805707,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5782477664",
+   "name": "Riverview Animal Clinic",
+   "lat": 33.4271033,
+   "lon": -86.7068895,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7524013053",
+   "name": "Ross Bridge Animal Hospital",
+   "lat": 33.3988844,
+   "lon": -86.8836865,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12853495181",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.3776042,
+   "lon": -86.8004045,
+   "distKm": 15.7,
+   "address": "3780 Riverchase Village, Hoover, AL 35244",
+   "tags": {
+    "phone": "+1 205-682-9893",
+    "website": "https://www.banfield.com/locations/veterinarians/al/hoover/hvr",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13854676343",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.3743593,
+   "lon": -86.8102689,
+   "distKm": 16,
+   "address": "3232 Galleria Circle, Hoover, AL 35244",
+   "tags": {
+    "phone": "+1 205-682-9893",
+    "website": "https://www.banfield.com/locations/veterinarians/al/hoover/hvr",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "way/624532374",
+   "name": "Caldwell Mill Animal Clinic",
+   "lat": 33.3848757,
+   "lon": -86.7399346,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "website": "https://cmacvet.com/"
+   }
+  },
+  {
+   "id": "way/823573460",
+   "name": "Birmingham Veterinary Internal Medicine",
+   "lat": 33.3630821,
+   "lon": -86.7674147,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12119071474",
+   "name": "Metro Cat Clinic",
+   "lat": 33.3505187,
+   "lon": -86.7868089,
+   "distKm": 18.8,
+   "address": "2880 Valleydale Road, Hoover, AL 35244",
+   "tags": {}
+  },
+  {
+   "id": "node/5886332921",
+   "name": "Indian Springs Animal Clinic",
+   "lat": 33.3450798,
+   "lon": -86.7700781,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "website": "http://indianspringsanimalclinic.com/"
+   }
+  }
+ ]
+}

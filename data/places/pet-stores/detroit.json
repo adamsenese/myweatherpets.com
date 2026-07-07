@@ -1,0 +1,446 @@
+{
+ "$schemaVersion": 1,
+ "city": "detroit",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:27:19.364Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 38,
+ "places": [
+  {
+   "id": "node/9920101633",
+   "name": "Premier Pet Supply",
+   "lat": 42.3348395,
+   "lon": -83.0514492,
+   "distKm": 0.6,
+   "address": "1511 Washington Boulevard, Detroit, MI 48226",
+   "tags": {
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/9752303291",
+   "name": "3 Dogs 1 Cat",
+   "lat": 42.3481977,
+   "lon": -83.0395516,
+   "distKm": 1.9,
+   "address": "2714 Riopelle Street, Detroit, MI",
+   "tags": {
+    "phone": "+1-313-888-9803",
+    "website": "https://shop.3dogs1cat.com/"
+   }
+  },
+  {
+   "id": "node/11771154016",
+   "name": "Detroit K-9 Pet Supplies",
+   "lat": 42.3447779,
+   "lon": -83.0604663,
+   "distKm": 1.9,
+   "address": "3441 Cass Avenue, Detroit, MI 48201",
+   "tags": {
+    "website": "https://detroitk9.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10886982951",
+   "name": "Pet Valu",
+   "lat": 42.3141055,
+   "lon": -83.0014814,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7022689019",
+   "name": "Pet Valu",
+   "lat": 42.2984219,
+   "lon": -83.0202295,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-21:00; Su 10:00-18:00; Sa 09:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7022646582",
+   "name": "Pet Valu",
+   "lat": 42.2878693,
+   "lon": -83.0572704,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2154",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/6719809742",
+   "name": "Pet Valu",
+   "lat": 42.2739714,
+   "lon": -83.0071605,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2330",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7022580452",
+   "name": "Pet Valu",
+   "lat": 42.3086282,
+   "lon": -82.9644457,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2107",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7022899471",
+   "name": "The Hungary Pooch",
+   "lat": 42.2687267,
+   "lon": -83.0249547,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6720043738",
+   "name": "PetSmart",
+   "lat": 42.2696585,
+   "lon": -83.0101745,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7022582051",
+   "name": "Aqua Animania",
+   "lat": 42.3094809,
+   "lon": -82.9593982,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7022567581",
+   "name": "Pet Wise",
+   "lat": 42.3105341,
+   "lon": -82.9533697,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7022890005",
+   "name": "Pet Valu",
+   "lat": 42.3347717,
+   "lon": -82.9381373,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2204",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7022774208",
+   "name": "Pet Valu",
+   "lat": 42.2488108,
+   "lon": -83.0576399,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2250",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7022731577",
+   "name": "The Vivarium",
+   "lat": 42.2489294,
+   "lon": -83.0619778,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/6696322835",
+   "name": "PetSmart",
+   "lat": 42.315493,
+   "lon": -82.9339243,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00; PH off",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13043087681",
+   "name": "PetSmart",
+   "lat": 42.2608475,
+   "lon": -82.9708332,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13345180151",
+   "name": "The Vivarium Reptiles & Exotics",
+   "lat": 42.2408548,
+   "lon": -83.0141587,
+   "distKm": 10.4,
+   "address": "1555 Talbot Road, Lasalle, N9H2N2",
+   "tags": {
+    "phone": "+1-519-967-9118"
+   }
+  },
+  {
+   "id": "way/712144462",
+   "name": "Ren's Pets",
+   "lat": 42.257977,
+   "lon": -82.9668437,
+   "distKm": 10.4,
+   "address": "4315 Walker Road, Windsor",
+   "tags": {
+    "website": "https://www.renspets.com/pages/rens-windsor"
+   }
+  },
+  {
+   "id": "node/6697577932",
+   "name": "For Your Fur Kids",
+   "lat": 42.3134968,
+   "lon": -82.9178473,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13711458501",
+   "name": "Pet Valu",
+   "lat": 42.2378533,
+   "lon": -83.0172104,
+   "distKm": 10.7,
+   "address": "Durocherr Drive",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/9719654209",
+   "name": "PetSmart",
+   "lat": 42.330696,
+   "lon": -83.2031268,
+   "distKm": 12.9,
+   "address": "5650 Mercury Drive, Dearborn, MI 48126",
+   "tags": {
+    "phone": "+1 313-441-3244",
+    "website": "https://www.petsmart.com/stores/us/mi/dearborn-store0691.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5917565296",
+   "name": "Pet Supplies Plus",
+   "lat": 42.4310407,
+   "lon": -83.1410713,
+   "distKm": 13.6,
+   "address": "18956 Livernois Avenue, Detroit, MI 48221",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/6385972192",
+   "name": "Pet Care Supplies inc.",
+   "lat": 42.2488407,
+   "lon": -83.1730902,
+   "distKm": 13.9,
+   "address": "1065 Southfield Road, Lincoln Park, MI 48146",
+   "tags": {}
+  },
+  {
+   "id": "node/8847039993",
+   "name": "Petco",
+   "lat": 42.4446685,
+   "lon": -83.1221365,
+   "distKm": 14.1,
+   "address": "2005 8 Mile Road West, Detroit, MI 48203",
+   "tags": {
+    "phone": "+1 313-366-2129",
+    "website": "https://stores.petco.com/mi/detroit/pet-supplies-detroit-mi-2885.html",
+    "opening_hours": "Mo-We 09:00-19:00; Th 10:00-18:00; Fr 09:00-19:00; Sa 10:00-19:00; Su 11:00-18:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/1600305014",
+   "name": "Feed Rite Pet Supply",
+   "lat": 42.2423634,
+   "lon": -83.1797999,
+   "distKm": 14.8,
+   "address": "2979 Fort Street, 48146",
+   "tags": {}
+  },
+  {
+   "id": "node/7021040618",
+   "name": "Pet Valu",
+   "lat": 42.31426,
+   "lon": -82.8670454,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2226",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/8236542182",
+   "name": "Petco",
+   "lat": 42.2792266,
+   "lon": -83.2110649,
+   "distKm": 14.8,
+   "address": "23155 West Outer Drive, Allen Park, MI 48101",
+   "tags": {
+    "phone": "+1 313-565-4768",
+    "website": "https://stores.petco.com/mi/allenpark/pet-supplies-allenpark-mi-1964.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8477642165",
+   "name": "Michigan House of Paws",
+   "lat": 42.2602225,
+   "lon": -83.2089579,
+   "distKm": 15.6,
+   "address": "15672 Southfield Road, Allen Park, MI 48101",
+   "tags": {}
+  },
+  {
+   "id": "node/4957420072",
+   "name": "Maestro's Dog Haus",
+   "lat": 42.4607122,
+   "lon": -83.1383888,
+   "distKm": 16.3,
+   "address": "310 West 9 Mile Road, Ferndale, MI 48220",
+   "tags": {}
+  },
+  {
+   "id": "node/9248688833",
+   "name": "Alpha K9",
+   "lat": 42.4013825,
+   "lon": -83.2214569,
+   "distKm": 16.4,
+   "address": "18360 Fenkell Street, Detroit, MI 48223",
+   "tags": {
+    "phone": "+1-313-653-4448"
+   }
+  },
+  {
+   "id": "node/9602234055",
+   "name": "Petco",
+   "lat": 42.4640309,
+   "lon": -82.9594943,
+   "distKm": 16.4,
+   "address": "22631 South Gratiot Avenue, Eastpointe, MI 48021",
+   "tags": {
+    "phone": "+1 586-779-2590",
+    "website": "https://stores.petco.com/mi/eastpointe/pet-supplies-eastpointe-mi-834.html",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su 10:00-18:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1054866031",
+   "name": "Critter Pet Shop",
+   "lat": 42.2561285,
+   "lon": -83.230336,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/390416571",
+   "name": "Pet Supplies Plus",
+   "lat": 42.4867862,
+   "lon": -83.0056292,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/681265708",
+   "name": "Pet Supplies Plus",
+   "lat": 42.2564362,
+   "lon": -83.2523149,
+   "distKm": 18.9,
+   "address": "22124 Ecorse Road, Taylor, MI 48180",
+   "tags": {
+    "phone": "+1-313-295-6500",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/681265746",
+   "name": "Pet Supplies Plus",
+   "lat": 42.2932132,
+   "lon": -83.2705862,
+   "distKm": 19,
+   "address": "2621 Telegraph Road, Dearborn, MI 48124",
+   "tags": {
+    "phone": "+1-313-278-4799",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3522831527",
+   "name": "Petco",
+   "lat": 42.5015589,
+   "lon": -83.0831371,
+   "distKm": 19.2,
+   "address": "28400 Dequindre Road, Warren, MI 48092-5605",
+   "tags": {
+    "phone": "+1 586-751-3392",
+    "website": "https://stores.petco.com/mi/warren/pet-supplies-warren-mi-2802.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/680437268",
+   "name": "Pet Supplies Plus",
+   "lat": 42.1995886,
+   "lon": -83.2063068,
+   "distKm": 19.7,
+   "address": "15060 Eureka Road, Southgate, MI 48195",
+   "tags": {
+    "phone": "+1-734-720-9797",
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "$schemaVersion": 1,
+ "city": "atlanta",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:29:29.736Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "node/534028690",
+   "name": "PetSmart",
+   "lat": 33.7758867,
+   "lon": -84.3660842,
+   "distKm": 3.6,
+   "address": "650 Ponce De Leon Avenue Northeast, Atlanta, GA 30308",
+   "tags": {
+    "phone": "+1 404-872-2363",
+    "website": "https://stores.petsmart.com/ga/atlanta/midtown-atlanta/dog-training",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1253884690",
+   "name": "Park Pet Supply",
+   "lat": 33.7409366,
+   "lon": -84.3464331,
+   "distKm": 3.9,
+   "address": "479A Flat Shoals Avenue Southeast, 30316",
+   "tags": {
+    "website": "https://www.parkpetsupply.com/"
+   }
+  },
+  {
+   "id": "node/1253884736",
+   "name": "Fur Side Pet Grooming",
+   "lat": 33.7409154,
+   "lon": -84.3464103,
+   "distKm": 3.9,
+   "address": "481A Flat Shoals Avenue Southeast, 30316",
+   "tags": {
+    "website": "http://www.fursidepetgrooming.com/"
+   }
+  },
+  {
+   "id": "node/11261587611",
+   "name": "The Whole Dog Market",
+   "lat": 33.7798987,
+   "lon": -84.3677709,
+   "distKm": 3.9,
+   "address": "931 Monroe Drive Northeast",
+   "tags": {
+    "phone": "+1-404-549-2727",
+    "website": "https://www.thewholedogmarket.com/piedmont-park-atlanta",
+    "opening_hours": "Mo-Sa 10:30-19:30; Su 11:00-17:00; PH off"
+   }
+  },
+  {
+   "id": "way/158941958",
+   "name": "PetCo",
+   "lat": 33.757536,
+   "lon": -84.3463105,
+   "distKm": 4,
+   "address": "1267 Caroline Street Northeast",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2184964315",
+   "name": "Glamour Paws",
+   "lat": 33.7759726,
+   "lon": -84.3526788,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11544205285",
+   "name": "Hollywood Feed",
+   "lat": 33.7903895,
+   "lon": -84.4074975,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12245118329",
+   "name": "PetSmart",
+   "lat": 33.8033442,
+   "lon": -84.4114142,
+   "distKm": 6.4,
+   "address": "1801 Howell Mill Road Northwest, Atlanta, GA 30318",
+   "tags": {
+    "phone": "+1 404-352-9746",
+    "website": "https://www.petsmart.com/stores/us/ga/atlanta-store1571.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12245151628",
+   "name": "Petco",
+   "lat": 33.8101381,
+   "lon": -84.4136208,
+   "distKm": 7.2,
+   "address": "2020 Howell Mill Road, Atlanta, GA 30318-1732",
+   "tags": {
+    "phone": "+1 404-351-5591",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-5504.html",
+    "opening_hours": "10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/220387719",
+   "name": "Canine House of Style",
+   "lat": 33.8152687,
+   "lon": -84.3533762,
+   "distKm": 8,
+   "address": "2206 Cheshire Bridge Road, Atlanta, 30324",
+   "tags": {}
+  },
+  {
+   "id": "node/13237603622",
+   "name": "Petco",
+   "lat": 33.7894564,
+   "lon": -84.3053516,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "website": "https://stores.petco.com/ga/decatur/pet-supplies-decatur-ga-1557.html",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4664879367",
+   "name": "Pet Supermarket",
+   "lat": 33.8334277,
+   "lon": -84.3842692,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "way/51309945",
+   "name": "Rex & Roxy's",
+   "lat": 33.7719578,
+   "lon": -84.2842847,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6264291308",
+   "name": "PetSmart",
+   "lat": 33.8410901,
+   "lon": -84.3726925,
+   "distKm": 10.3,
+   "address": "3221 Peachtree Road, Atlanta, GA 30305",
+   "tags": {
+    "phone": "+1 404-266-0402",
+    "website": "https://www.petsmart.com/stores/us/ga/atlanta-store0287.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6637007413",
+   "name": "Hollywood Feed",
+   "lat": 33.7935144,
+   "lon": -84.28372,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2981923782",
+   "name": "Red Bandanna Pet Food",
+   "lat": 33.8510601,
+   "lon": -84.4291684,
+   "distKm": 12,
+   "address": "3524 Northside Parkway Northwest, Atlanta, GA 30327",
+   "tags": {
+    "phone": "+1-404-231-1333",
+    "website": "http://www.redbandannapetfood.com/",
+    "opening_hours": "Tu-Sa 10:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/5115719514",
+   "name": "Petco",
+   "lat": 33.8581113,
+   "lon": -84.3825242,
+   "distKm": 12.1,
+   "address": "3756 Roswell Road, Atlanta, GA 30342",
+   "tags": {
+    "phone": "+1 404-841-9733",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1567.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/288997193",
+   "name": "PetSmart",
+   "lat": 33.6575678,
+   "lon": -84.503312,
+   "distKm": 14.7,
+   "address": "3665 Marketplace Boulevard, East Point, GA 30344",
+   "tags": {
+    "phone": "+1 404-344-0773",
+    "website": "https://www.petsmart.com/stores/us/ga/east-point-store1129.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4000577892",
+   "name": "Uptown Pups",
+   "lat": 33.8594904,
+   "lon": -84.4807213,
+   "distKm": 15,
+   "address": "2355 Cumberland Parkway Southeast, Atlanta, GA 30339",
+   "tags": {}
+  },
+  {
+   "id": "way/1013567694",
+   "name": "Petco",
+   "lat": 33.8425618,
+   "lon": -84.5048685,
+   "distKm": 15,
+   "address": "4480 South Cobb Drive, Smyrna, GA 30080",
+   "tags": {
+    "phone": "+1 770-803-9481",
+    "website": "https://stores.petco.com/ga/smyrna/pet-supplies-smyrna-ga-5508.html",
+    "opening_hours": "Mo-We 10:00-19:00; Th 10:00-18:00; Fr-Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3383890918",
+   "name": "The Whole Dog Market",
+   "lat": 33.8722859,
+   "lon": -84.4580647,
+   "distKm": 15.2,
+   "address": "3300 Cobb Parkway South, Atlanta, GA 30339",
+   "tags": {
+    "phone": "+1-770-644-0900",
+    "website": "http://vinings.thewholedogmarket.com/",
+    "opening_hours": "Mo-Sa 10:30-19:30; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/7047749831",
+   "name": "Wild Birds Unlimited",
+   "lat": 33.8799375,
+   "lon": -84.4622719,
+   "distKm": 16.1,
+   "address": "2980 Cobb Parkway South, Atlanta, GA 30339",
+   "tags": {
+    "phone": "+1-770-433-2676",
+    "website": "https://vinings.wbu.com/",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 11:00-17:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/12079155859",
+   "name": "PetSmart",
+   "lat": 33.842927,
+   "lon": -84.253075,
+   "distKm": 16.3,
+   "address": "4023 Lavista Road, Tucker, GA 30084",
+   "tags": {
+    "phone": "+1 770-414-5126",
+    "website": "https://www.petsmart.com/stores/us/ga/tucker-store0285.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/320121518",
+   "name": "Petco",
+   "lat": 33.8824457,
+   "lon": -84.4598639,
+   "distKm": 16.3,
+   "address": "2955 Cobb Parkway South, Atlanta, GA 30339",
+   "tags": {
+    "phone": "+1 770-952-9701",
+    "website": "https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-1554.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11440010597",
+   "name": "Hollywood Feed",
+   "lat": 33.8843649,
+   "lon": -84.3149852,
+   "distKm": 16.5,
+   "address": "5001 Peachtree Boulevard, Atlanta, 30341",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/6414753292",
+   "name": "Pet Supermarket",
+   "lat": 33.8598957,
+   "lon": -84.5165995,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "way/294270576",
+   "name": "PetSmart",
+   "lat": 33.8883327,
+   "lon": -84.476659,
+   "distKm": 17.5,
+   "address": "2540 Cumberland Boulevard, Smyrna, GA 30080",
+   "tags": {
+    "phone": "+1 770-432-8250",
+    "website": "http://stores.petsmart.com/Store/Details/291",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12079155846",
+   "name": "Petco",
+   "lat": 33.9178727,
+   "lon": -84.3812072,
+   "distKm": 18.8,
+   "address": "5938 Roswell Road Northeast, Sandy Springs, GA 30328-4908",
+   "tags": {
+    "phone": "+1 404-255-6544",
+    "website": "https://stores.petco.com/ga/sandysprings/pet-supplies-sandysprings-ga-1729.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10604664974",
+   "name": "Lickers & Whines",
+   "lat": 33.8837998,
+   "lon": -84.5158925,
+   "distKm": 19.1,
+   "address": "1265 West Spring Street",
+   "tags": {
+    "opening_hours": "Tu-Fr 10:00-19:00; Sa 09:00-18:00; Su 09:00-15:00"
+   }
+  },
+  {
+   "id": "way/1014114456",
+   "name": "Pet Supplies Plus",
+   "lat": 33.8758952,
+   "lon": -84.5338067,
+   "distKm": 19.5,
+   "address": "3240 South Cobb Drive, Smyrna, GA 30080",
+   "tags": {
+    "phone": "+1 770-431-0029",
+    "website": "https://www.petsuppliesplus.com/store/ga/smyrna/4020-smyrna/4020",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

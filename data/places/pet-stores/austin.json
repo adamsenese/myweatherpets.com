@@ -1,0 +1,380 @@
+{
+ "$schemaVersion": 1,
+ "city": "austin",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:22:40.402Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 32,
+ "places": [
+  {
+   "id": "node/8220261373",
+   "name": "Healthy Pet",
+   "lat": 30.2674636,
+   "lon": -97.752496,
+   "distKm": 0.9,
+   "address": "211 Walter Seaholm Drive, 78701",
+   "tags": {
+    "phone": "+1-512-350-2277",
+    "website": "https://healthypetaustin.com/",
+    "opening_hours": "Su 10:00-18:00; Mo-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/1212085442",
+   "name": "Tomlinson's Feed",
+   "lat": 30.2770165,
+   "lon": -97.7509326,
+   "distKm": 1.3,
+   "address": "916 West 12th Street, Austin, TX 78703",
+   "tags": {}
+  },
+  {
+   "id": "node/11076145733",
+   "name": "Paws on Chicon",
+   "lat": 30.2750333,
+   "lon": -97.7200356,
+   "distKm": 2.4,
+   "address": "1301 Chicon Street, Austin, TX 78702",
+   "tags": {
+    "phone": "+1-512-273-7297",
+    "opening_hours": "Mo-Sa 10:00-19:00, Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/1537302424",
+   "name": "Rivers & Reefs Pet Center",
+   "lat": 30.2450428,
+   "lon": -97.7575655,
+   "distKm": 2.8,
+   "address": "2008 S 1st St, 78704",
+   "tags": {
+    "phone": "+1-512-445-5101"
+   }
+  },
+  {
+   "id": "node/10865943772",
+   "name": "Purr-Fecto Cat Lounge",
+   "lat": 30.2478149,
+   "lon": -97.7746824,
+   "distKm": 3.7,
+   "address": "2300 South Lamar Boulevard, Austin, TX 78704",
+   "tags": {
+    "website": "https://purrfectocatlounge.com/"
+   }
+  },
+  {
+   "id": "way/1451845540",
+   "name": "EarthWise Pet",
+   "lat": 30.2475541,
+   "lon": -97.7763358,
+   "distKm": 3.9,
+   "address": "2330 S Lamar Blvd, Austin, TX 78704",
+   "tags": {
+    "website": "https://southlamar.earthwisepet.com/products/shop/",
+    "brand": "EarthWise Pet"
+   }
+  },
+  {
+   "id": "node/2920762437",
+   "name": "Petco",
+   "lat": 30.3007002,
+   "lon": -97.7206157,
+   "distKm": 4.3,
+   "address": "1000 East 43rd Street, Austin, TX 78751",
+   "tags": {
+    "phone": "+1 512-419-0311",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-482.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/880452671",
+   "name": "Just Food for Dogs",
+   "lat": 30.2718386,
+   "lon": -97.7882165,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/293079422",
+   "name": "PetSmart",
+   "lat": 30.3043118,
+   "lon": -97.7092947,
+   "distKm": 5.3,
+   "address": "1201 Barbara Jordan Boulevard, Austin, TX 78723",
+   "tags": {
+    "phone": "+1 512-469-0501",
+    "website": "https://www.petsmart.com/stores/us/tx/austin-store1736.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11447436301",
+   "name": "Tomlinson's Feed Store",
+   "lat": 30.2757501,
+   "lon": -97.7991723,
+   "distKm": 5.5,
+   "address": "3300 Bee Caves Road, Austin, TX 78746",
+   "tags": {
+    "phone": "+1-512-306-1121",
+    "website": "https://tomlinsons.com",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4645567312",
+   "name": "Tomlinson's Feed",
+   "lat": 30.2341875,
+   "lon": -97.7927091,
+   "distKm": 6,
+   "address": "4211 South Lamar Boulevard, Austin, TX 78704",
+   "tags": {}
+  },
+  {
+   "id": "way/383359621",
+   "name": "Wild Birds Unlimited",
+   "lat": 30.2772166,
+   "lon": -97.805414,
+   "distKm": 6.1,
+   "address": "3535 Bee Caves Road, West Lake Hills, TX 78746",
+   "tags": {
+    "phone": "+1-512-328-9453",
+    "website": "https://austinsouth.wbu.com/",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/5771447962",
+   "name": "Groovy Dog Bakery",
+   "lat": 30.2307284,
+   "lon": -97.7990242,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8287966192",
+   "name": "Tomlinson's",
+   "lat": 30.3331804,
+   "lon": -97.7405473,
+   "distKm": 7.3,
+   "address": "5716 Burnet Road, Austin, TX 78756",
+   "tags": {
+    "phone": "+1-512-531-9311",
+    "website": "https://tomlinsons.com/pages/tomlinsons-allandale",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/2423662128",
+   "name": "PetSmart",
+   "lat": 30.2303393,
+   "lon": -97.8164508,
+   "distKm": 8.2,
+   "address": "5207 Brodie Lane, Sunset Valley, TX 78745",
+   "tags": {
+    "phone": "+1 512-358-0127",
+    "website": "https://www.petsmart.com/stores/us/tx/sunset-valley-store1737.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/234059174",
+   "name": "Petco",
+   "lat": 30.2278857,
+   "lon": -97.8191407,
+   "distKm": 8.5,
+   "address": "5601 Brodie Lane, Sunset Valley, TX 78745",
+   "tags": {
+    "phone": "+1 512-892-3996",
+    "website": "https://stores.petco.com/tx/sunsetvalley/pet-supplies-sunsetvalley-tx-448.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/147437174",
+   "name": "P & F Pet Provisions",
+   "lat": 30.3553185,
+   "lon": -97.7320387,
+   "distKm": 9.9,
+   "address": "7816 Burnet Road, Austin, TX 78757",
+   "tags": {
+    "phone": "+1-512-956-9000",
+    "website": "https://www.pandfpet.shop/"
+   }
+  },
+  {
+   "id": "node/2961563267",
+   "name": "Plush Pad Dog and Cat Grooming",
+   "lat": 30.3590026,
+   "lon": -97.7391937,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3670769276",
+   "name": "Lofty Dog",
+   "lat": 30.3591803,
+   "lon": -97.734772,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10815023318",
+   "name": "Zookeeper",
+   "lat": 30.3708473,
+   "lon": -97.7249943,
+   "distKm": 11.7,
+   "address": "9012 Research Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/354683881",
+   "name": "PetSmart",
+   "lat": 30.1636059,
+   "lon": -97.7909606,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12331427608",
+   "name": "Aquatek Tropical Fish",
+   "lat": 30.3823241,
+   "lon": -97.7231187,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/8369874460",
+   "name": "Petco",
+   "lat": 30.2359547,
+   "lon": -97.8757441,
+   "distKm": 13.2,
+   "address": "7010 West Highway 71, Austin, TX 78735",
+   "tags": {
+    "phone": "+1 512-712-7121",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-2740.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/1249186502",
+   "name": "Petco",
+   "lat": 30.39551,
+   "lon": -97.7479542,
+   "distKm": 14.3,
+   "address": "9828 Great Hills Trail, Austin, TX 78759",
+   "tags": {
+    "phone": "+1 512-345-2355",
+    "website": "https://stores.petco.com/tx/austin/pet-supplies-austin-tx-444.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12599636094",
+   "name": "Tomlinson's Pet Food & More",
+   "lat": 30.2013545,
+   "lon": -97.8792874,
+   "distKm": 15,
+   "address": "5900 C West Slaughter Lane, Austin, TX 78749",
+   "tags": {}
+  },
+  {
+   "id": "node/3116774621",
+   "name": "PetSmart",
+   "lat": 30.4073935,
+   "lon": -97.7470427,
+   "distKm": 15.6,
+   "address": "11150 Research Boulevard, Austin, TX 78759",
+   "tags": {
+    "phone": "+1 512-527-9644",
+    "website": "https://www.petsmart.com/stores/us/tx/austin-store1244.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2623513560",
+   "name": "Gallery of Pets",
+   "lat": 30.4186321,
+   "lon": -97.7455032,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7287247416",
+   "name": "Pet Supplies Plus",
+   "lat": 30.4170695,
+   "lon": -97.7033711,
+   "distKm": 17.1,
+   "address": "12407 North MoPac Expressway, Austin, TX 78758",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/2654506933",
+   "name": "PetSmart",
+   "lat": 30.4133751,
+   "lon": -97.6705994,
+   "distKm": 17.7,
+   "address": "12901 North Interstate 35, Austin, TX 78753",
+   "tags": {
+    "phone": "+1 512-990-0365",
+    "website": "https://www.petsmart.com/stores/us/tx/austin-store1185.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5329733932",
+   "name": "Natural Pawz",
+   "lat": 30.3884801,
+   "lon": -97.8835286,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5329733934",
+   "name": "A Fishie Anado",
+   "lat": 30.3885438,
+   "lon": -97.8835863,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/755037338",
+   "name": "PetSmart",
+   "lat": 30.3063442,
+   "lon": -97.9415487,
+   "distKm": 19.5,
+   "address": "12812 Shops Parkway, Bee Cave, TX 78738",
+   "tags": {
+    "phone": "+1 512-263-5790",
+    "website": "https://www.petsmart.com/stores/us/tx/austin-store1245.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "$schemaVersion": 1,
+ "city": "salt-lake-city",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:32:44.928Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "way/1125266191",
+   "name": "City Pet Club",
+   "lat": 40.7558197,
+   "lon": -111.9049748,
+   "distKm": 1.3,
+   "address": "601 South 500 West, Salt Lake City, UT",
+   "tags": {
+    "website": "http://www.citypetclub.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su,PH 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13607428477",
+   "name": "Camp Barkalot",
+   "lat": 40.7382042,
+   "lon": -111.9014471,
+   "distKm": 2.7,
+   "address": "360 West Whitney Avenue, Salt Lake City, UT 84115",
+   "tags": {
+    "phone": "+1-801-485-2030",
+    "website": "https://campbarkalot.com/",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/388548031",
+   "name": "Utah Dog Park Airport",
+   "lat": 40.7710099,
+   "lon": -111.9477893,
+   "distKm": 4.9,
+   "address": "1977 West North Temple, Salt Lake City, UT 84116",
+   "tags": {
+    "phone": "+1 801-683-3647",
+    "website": "https://utdogpark.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-18:00; Su 10:00-18:00; PH off",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9181465988",
+   "name": "Central Park",
+   "lat": 40.7020927,
+   "lon": -111.889907,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "phone": "+1 801 487 6228",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1056658570",
+   "name": "Fluffs and Friends",
+   "lat": 40.6883347,
+   "lon": -111.887794,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.fluffsandfriendsslc.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11902141815",
+   "name": "Quibells & Bits",
+   "lat": 40.7320195,
+   "lon": -111.9895396,
+   "distKm": 8.9,
+   "address": "1775 South 4130 West, Salt Lake City, UT",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9254807145",
+   "name": "Backyard",
+   "lat": 40.84168,
+   "lon": -111.9502053,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6569219265",
+   "name": "Unleashed Dog Hotel",
+   "lat": 40.6576997,
+   "lon": -111.8979972,
+   "distKm": 11.5,
+   "address": "5241 South Commerce Drive, Murray, UT 84107",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11273374570",
+   "name": "A Dog's Life",
+   "lat": 40.5860588,
+   "lon": -111.9364165,
+   "distKm": 19.8,
+   "address": "1605 West 9000 South, West Jordan, UT",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

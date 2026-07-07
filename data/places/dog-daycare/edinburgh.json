@@ -1,0 +1,81 @@
+{
+ "$schemaVersion": 1,
+ "city": "edinburgh",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:38:39.176Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/9460514291",
+   "name": "Porta Pups Dog Creche",
+   "lat": 55.9811849,
+   "lon": -3.1761391,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 11:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/407999954",
+   "name": "Edinburgh Tower Kennels For Cats",
+   "lat": 55.9142576,
+   "lon": -3.1767554,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.towerkennelsforcatsedinburgh.co.uk/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10780220094",
+   "name": "citidogs creche",
+   "lat": 55.8976337,
+   "lon": -3.2158381,
+   "distKm": 6.4,
+   "address": "EH10 7DS",
+   "tags": {
+    "website": "https://citidogs-creche.co.uk/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1283646384",
+   "name": "Mr T's Cattery",
+   "lat": 55.8887254,
+   "lon": -3.0422631,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10186406040",
+   "name": "Silverwitch",
+   "lat": 55.836857,
+   "lon": -3.2028038,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1013864759",
+   "name": "Puddledub Kennels & Cattery",
+   "lat": 56.0814036,
+   "lon": -3.279743,
+   "distKm": 15.3,
+   "address": "KY2 5XA",
+   "tags": {
+    "website": "https://www.puddledubkennelsandcattery.co.uk/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

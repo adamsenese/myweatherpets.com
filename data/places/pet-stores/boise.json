@@ -1,0 +1,203 @@
+{
+ "$schemaVersion": 1,
+ "city": "boise",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:34:11.577Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "node/6918641904",
+   "name": "Bark n' Purr",
+   "lat": 43.5951765,
+   "lon": -116.2130704,
+   "distKm": 2.4,
+   "address": "1036 South Vista Avenue, Boise, ID 83705",
+   "tags": {}
+  },
+  {
+   "id": "way/764447639",
+   "name": "Fish Aquariums & Stuff",
+   "lat": 43.6193455,
+   "lon": -116.2579735,
+   "distKm": 4.5,
+   "address": "6112 West Fairview Avenue, Boise, ID 83704",
+   "tags": {}
+  },
+  {
+   "id": "node/8331577521",
+   "name": "Petco",
+   "lat": 43.5698046,
+   "lon": -116.188064,
+   "distKm": 5.2,
+   "address": "3548 South Findley Avenue, Boise, ID 83705",
+   "tags": {
+    "phone": "+1 208-344-1651",
+    "website": "https://stores.petco.com/id/boise/pet-supplies-boise-id-1205.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/764448577",
+   "name": "Do It Yourself Doggie Detail",
+   "lat": 43.633603,
+   "lon": -116.264993,
+   "distKm": 5.5,
+   "address": "6703 West Ustick Road, Boise, ID 83704",
+   "tags": {}
+  },
+  {
+   "id": "node/8331633722",
+   "name": "PetSmart",
+   "lat": 43.6059158,
+   "lon": -116.280754,
+   "distKm": 6.4,
+   "address": "130 North Milwaukee Street, Boise, ID 83704",
+   "tags": {
+    "phone": "+1 208-377-9748",
+    "website": "https://www.petsmart.com/stores/us/id/boise-store1933.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8331619000",
+   "name": "Petco",
+   "lat": 43.6067034,
+   "lon": -116.2832805,
+   "distKm": 6.6,
+   "address": "179 North Milwaukee Street, Boise, ID 83704",
+   "tags": {
+    "phone": "+1 208-375-7971",
+    "website": "https://stores.petco.com/id/boise/pet-supplies-boise-id-263.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-19:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8331631697",
+   "name": "Northwest Pets",
+   "lat": 43.5916437,
+   "lon": -116.311807,
+   "distKm": 9.2,
+   "address": "10436 West Overland Road, Boise, ID 83709",
+   "tags": {
+    "website": "https://northwestpets.com/"
+   }
+  },
+  {
+   "id": "node/9765450785",
+   "name": "Wild Birds Unlimited",
+   "lat": 43.5917186,
+   "lon": -116.312797,
+   "distKm": 9.3,
+   "address": "10480 West Overland Road, Boise, ID 83709",
+   "tags": {
+    "website": "https://boise.wbu.com/",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/8672377006",
+   "name": "Birdhouse & Habitat",
+   "lat": 43.6197498,
+   "lon": -116.338779,
+   "distKm": 11,
+   "address": "12598 West Fairview Avenue, Boise, ID 83713",
+   "tags": {}
+  },
+  {
+   "id": "way/462611235",
+   "name": "Northwest Pets",
+   "lat": 43.6843086,
+   "lon": -116.316375,
+   "distKm": 12,
+   "address": "3060 East State Street, Eagle, ID 83616",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/8331484190",
+   "name": "Petco",
+   "lat": 43.6248942,
+   "lon": -116.351778,
+   "distKm": 12.1,
+   "address": "2210 North Eagle Road, Meridian, ID 83646",
+   "tags": {
+    "phone": "+1 208-846-7883",
+    "website": "https://stores.petco.com/id/meridian/pet-supplies-meridian-id-1262.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/680193252",
+   "name": "PetSmart",
+   "lat": 43.6162325,
+   "lon": -116.3525485,
+   "distKm": 12.1,
+   "address": "1220 North Eagle Road, Meridian, ID 83642",
+   "tags": {
+    "phone": "+1 208-884-0611",
+    "website": "https://www.petsmart.com/stores/us/id/meridian-store0383.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/902850362",
+   "name": "Petco",
+   "lat": 43.6859429,
+   "lon": -116.3158865,
+   "distKm": 12.1,
+   "address": "3006 East State Street, Eagle, ID 83616",
+   "tags": {
+    "phone": "+1 208-513-2012",
+    "website": "https://stores.petco.com/id/eagle/pet-supplies-eagle-id-1285.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8672346240",
+   "name": "Wild Birds Unlimited",
+   "lat": 43.6324885,
+   "lon": -116.352177,
+   "distKm": 12.2,
+   "address": "3036 North Eagle Road, Meridian, ID 83646",
+   "tags": {
+    "phone": "+1 208-375-8051",
+    "website": "https://meridian.wbu.com/",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-15:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/8672346241",
+   "name": "Northwest Pets",
+   "lat": 43.6327145,
+   "lon": -116.351856,
+   "distKm": 12.2,
+   "address": "3036 North Eagle Road, Meridian, ID 83646",
+   "tags": {
+    "phone": "+1 208-392-1049",
+    "website": "https://www.northwestpets.com/",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/8672347485",
+   "name": "Positive Pets Dog Training",
+   "lat": 43.5919755,
+   "lon": -116.3660998,
+   "distKm": 13.4,
+   "address": "2374 East Cinema Drive, Meridian, ID 83642",
+   "tags": {
+    "phone": "+12089251434"
+   }
+  }
+ ]
+}

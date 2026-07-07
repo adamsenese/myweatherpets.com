@@ -1,0 +1,363 @@
+{
+ "$schemaVersion": 1,
+ "city": "houston",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:21:08.344Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "way/264249309",
+   "name": "PetSmart",
+   "lat": 29.7740403,
+   "lon": -95.3831853,
+   "distKm": 2,
+   "address": "1907 Taylor Street, Houston, TX 77007",
+   "tags": {
+    "phone": "+1 713-863-0533",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1780.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12911498303",
+   "name": "Pet Supplies Plus",
+   "lat": 29.774528,
+   "lon": -95.3879369,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9711569283",
+   "name": "Natural Pawz",
+   "lat": 29.7697694,
+   "lon": -95.4016635,
+   "distKm": 3.2,
+   "address": "4015 Washington Avenue, Houston, TX 77007",
+   "tags": {
+    "phone": "+1-346-980-1975",
+    "website": "https://naturalpawz.com/a/pages/locations/517/washington-ave?utm_source=gmb&utm_medium=organic",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/835336362",
+   "name": "Petco",
+   "lat": 29.7462674,
+   "lon": -95.4110037,
+   "distKm": 4.3,
+   "address": "2100 South Shepherd Drive, Houston, TX 77019",
+   "tags": {
+    "phone": "+1 713-521-1005",
+    "website": "https://www.petco.com",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2333684940",
+   "name": "PetSmart",
+   "lat": 29.739609,
+   "lon": -95.411149,
+   "distKm": 4.6,
+   "address": "2902 South Shepherd Drive, Houston, TX 77098",
+   "tags": {
+    "phone": "+1 713-520-7917",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1107.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/576507462",
+   "name": "Petco",
+   "lat": 29.787205,
+   "lon": -95.4108149,
+   "distKm": 5,
+   "address": "901 North Shepherd Drive, Houston, TX 77008-6526",
+   "tags": {
+    "phone": "+1 713-426-1084",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-2431.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13962293301",
+   "name": "Cat Boarding by Nourish",
+   "lat": 29.7168072,
+   "lon": -95.4176567,
+   "distKm": 6.7,
+   "address": "2522 Times Boulevard, 77005",
+   "tags": {
+    "phone": "+1-713-955-4334",
+    "website": "https://nourishpetcare.com/"
+   }
+  },
+  {
+   "id": "node/10859146872",
+   "name": "Kriser's Natural Pet",
+   "lat": 29.7268917,
+   "lon": -95.4294632,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/329054604",
+   "name": "Petco",
+   "lat": 29.723641,
+   "lon": -95.4422902,
+   "distKm": 8.1,
+   "address": "5450 Weslayan, Houston, TX 77005",
+   "tags": {
+    "phone": "+1 713-665-4150",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-480.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10052446931",
+   "name": "Petbar",
+   "lat": 29.8170084,
+   "lon": -95.4291214,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2595874112",
+   "name": "PetSmart",
+   "lat": 29.6894322,
+   "lon": -95.4134327,
+   "distKm": 8.9,
+   "address": "8230 Kirby Drive, Houston, TX 77054",
+   "tags": {
+    "phone": "+1 713-662-2553",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1226.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/194663286",
+   "name": "PetSmart",
+   "lat": 29.7240279,
+   "lon": -95.459101,
+   "distKm": 9.5,
+   "address": "5415 West Loop South, Houston, TX 77081",
+   "tags": {
+    "phone": "+1 713-661-5585",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store0198.html",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7323662912",
+   "name": "PetSmart",
+   "lat": 29.8275391,
+   "lon": -95.4319962,
+   "distKm": 9.6,
+   "address": "1339 West 43rd Street, Houston, TX 77018",
+   "tags": {
+    "phone": "+1 713-346-9359",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store2542.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6426949570",
+   "name": "Pet Pros",
+   "lat": 29.8466208,
+   "lon": -95.3838535,
+   "distKm": 9.7,
+   "address": "5520 Airline Drive, Houston, TX",
+   "tags": {}
+  },
+  {
+   "id": "node/11186906048",
+   "name": "Petco",
+   "lat": 29.8098301,
+   "lon": -95.4533319,
+   "distKm": 9.8,
+   "address": "4512 Dacoma Street, Houston, TX 77092",
+   "tags": {
+    "phone": "+1 281-254-8395",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-2475.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7113595672",
+   "name": "Natural Pawz",
+   "lat": 29.75062,
+   "lon": -95.4773444,
+   "distKm": 10.4,
+   "address": "5706 San Felipe Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10061702467",
+   "name": "Stallion's Feed and Supply",
+   "lat": 29.8554564,
+   "lon": -95.3827043,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10979842025",
+   "name": "Petco",
+   "lat": 29.7955723,
+   "lon": -95.4852361,
+   "distKm": 11.8,
+   "address": "1417 Wirt Road, Houston, TX 77055",
+   "tags": {
+    "phone": "+1 713-465-1452",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-5408.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2352136271",
+   "name": "Pet Supermarket",
+   "lat": 29.685724,
+   "lon": -95.461819,
+   "distKm": 12.2,
+   "address": "265, Houston, TX",
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "way/1411069980",
+   "name": "Petco",
+   "lat": 29.7397493,
+   "lon": -95.5014959,
+   "distKm": 12.9,
+   "address": "7510 Westheimer Road, Houston, TX 77063",
+   "tags": {
+    "phone": "+1 713-781-9010",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-468.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/848796136",
+   "name": "PetSmart",
+   "lat": 29.7399721,
+   "lon": -95.5135582,
+   "distKm": 14.1,
+   "address": "8380 Westheimer Road, Houston, TX 77063",
+   "tags": {
+    "phone": "+1 713-914-0965",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1611.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/129370943",
+   "name": "PetSmart",
+   "lat": 29.7876348,
+   "lon": -95.5340494,
+   "distKm": 16.1,
+   "address": "9718 Katy Freeway, Houston, TX 77055",
+   "tags": {
+    "phone": "+1 713-932-9909",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1766.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/943430365",
+   "name": "S & S Exotic Animals",
+   "lat": 29.9098609,
+   "lon": -95.3591525,
+   "distKm": 16.7,
+   "address": "1711 Connorvale Road, Houston, TX 77039",
+   "tags": {
+    "phone": "+1-281-590-0426",
+    "website": "https://sandsexoticanimals.com",
+    "opening_hours": "Tu 11:00-18:00; We-Fr 10:00-18:00; Sa-Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/10727923271",
+   "name": "Petco",
+   "lat": 29.9116354,
+   "lon": -95.4159015,
+   "distKm": 17.4,
+   "address": "10245 North Freeway, Houston, TX 77037",
+   "tags": {
+    "phone": "+1 281-506-1923",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-2463.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/130655717",
+   "name": "PetSmart",
+   "lat": 29.8557301,
+   "lon": -95.5136082,
+   "distKm": 17.5,
+   "address": "13830 Northwest Freeway, Houston, TX 77040",
+   "tags": {
+    "phone": "+1 713-690-0575",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1045.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7889296953",
+   "name": "Inwood Aquarium FIsh and Supplies",
+   "lat": 29.8894933,
+   "lon": -95.4757878,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7152422425",
+   "name": "Petco",
+   "lat": 29.7351077,
+   "lon": -95.5700663,
+   "distKm": 19.5,
+   "address": "10911 Westheimer Road, Houston, TX 77042-3203",
+   "tags": {
+    "phone": "+1 713-972-1244",
+    "website": "https://stores.petco.com/tx/houston/pet-supplies-houston-tx-1449.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/999294905",
+   "name": "PetSmart",
+   "lat": 29.6287649,
+   "lon": -95.2345148,
+   "distKm": 19.6,
+   "address": "10075 Almeda Genoa Road, Houston, TX 77075",
+   "tags": {
+    "phone": "+1 713-910-0233",
+    "website": "https://www.petsmart.com/stores/us/tx/houston-store1568.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

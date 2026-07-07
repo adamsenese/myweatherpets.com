@@ -1,0 +1,567 @@
+{
+ "$schemaVersion": 1,
+ "city": "hong-kong",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:23:54.765Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/11792843856",
+   "name": "Q-PETs",
+   "lat": 22.3213603,
+   "lon": 114.1700311,
+   "distKm": 0.2,
+   "address": null,
+   "tags": {
+    "brand": "Q-PETs"
+   }
+  },
+  {
+   "id": "node/10547868310",
+   "name": "Happy Pet",
+   "lat": 22.3219113,
+   "lon": 114.1699152,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10810968750",
+   "name": "樂高寵物 Lego Pet",
+   "lat": 22.3221049,
+   "lon": 114.1700996,
+   "distKm": 0.3,
+   "address": "156 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968751",
+   "name": "經典寵物店 Classic Pet Shop",
+   "lat": 22.3215727,
+   "lon": 114.1702078,
+   "distKm": 0.3,
+   "address": "132 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968752",
+   "name": "Sit Hand Down",
+   "lat": 22.3216186,
+   "lon": 114.1701985,
+   "distKm": 0.3,
+   "address": "134 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968753",
+   "name": "寵物武士 Samurai Pet",
+   "lat": 22.3218488,
+   "lon": 114.1701517,
+   "distKm": 0.3,
+   "address": "144 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968755",
+   "name": "Pet Empire",
+   "lat": 22.322022,
+   "lon": 114.1701165,
+   "distKm": 0.3,
+   "address": "152 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968758",
+   "name": "KOC Pet",
+   "lat": 22.3217104,
+   "lon": 114.1701798,
+   "distKm": 0.3,
+   "address": "138 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968759",
+   "name": "Gimme Paw",
+   "lat": 22.3216645,
+   "lon": 114.1701891,
+   "distKm": 0.3,
+   "address": "136 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968760",
+   "name": "Little Boss",
+   "lat": 22.3218668,
+   "lon": 114.170148,
+   "distKm": 0.3,
+   "address": "146 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968761",
+   "name": "Petsco",
+   "lat": 22.3214809,
+   "lon": 114.1702264,
+   "distKm": 0.3,
+   "address": "128 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968762",
+   "name": "星匯寵物 Galaxy Pets",
+   "lat": 22.3219392,
+   "lon": 114.1701333,
+   "distKm": 0.3,
+   "address": "148 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10810968763",
+   "name": "Pet Line",
+   "lat": 22.3217563,
+   "lon": 114.1701705,
+   "distKm": 0.3,
+   "address": "140 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/5954298859",
+   "name": "銀河 Galaxy Aquarium",
+   "lat": 22.323238,
+   "lon": 114.169881,
+   "distKm": 0.4,
+   "address": "190 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/5954298860",
+   "name": "迪士尼水族",
+   "lat": 22.323278,
+   "lon": 114.169872,
+   "distKm": 0.4,
+   "address": "192 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/5954298863",
+   "name": "海港錦鯉中心 Harbour Koi Centre",
+   "lat": 22.32306,
+   "lon": 114.169913,
+   "distKm": 0.4,
+   "address": "182 通菜街 Tung Choi Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4864408017",
+   "name": "I love Pet",
+   "lat": 22.3188131,
+   "lon": 114.1637227,
+   "distKm": 0.6,
+   "address": "橡樹街 Oak Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4858151668",
+   "name": "Dog Cat",
+   "lat": 22.3285485,
+   "lon": 114.1667113,
+   "distKm": 1.1,
+   "address": "大埔道 Tai Po Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4535489674",
+   "name": "狗友記 Buddy Doggies",
+   "lat": 22.3068309,
+   "lon": 114.1668961,
+   "distKm": 1.4,
+   "address": "6 文匯街 Man Wui Street",
+   "tags": {
+    "phone": "+852 27280716"
+   }
+  },
+  {
+   "id": "node/9913575076",
+   "name": "貓犬站",
+   "lat": 22.3300839,
+   "lon": 114.159682,
+   "distKm": 1.6,
+   "address": "56A 欽州街 Yen Chow Street",
+   "tags": {
+    "opening_hours": "Mo-Su 12:00-21:00"
+   }
+  },
+  {
+   "id": "node/4862727292",
+   "name": "Sun Lucky Pet Shop",
+   "lat": 22.3355022,
+   "lon": 114.1602978,
+   "distKm": 2,
+   "address": "136 青山道 Castle Peak Road",
+   "tags": {
+    "website": "https://www.sunluckypet.com/"
+   }
+  },
+  {
+   "id": "node/13321362637",
+   "name": "Sze Pet",
+   "lat": 22.3355109,
+   "lon": 114.159963,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8530290108",
+   "name": "Pet Line",
+   "lat": 22.3052511,
+   "lon": 114.1856558,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4864691166",
+   "name": "I Love Pet Pet",
+   "lat": 22.3188341,
+   "lon": 114.192294,
+   "distKm": 2.4,
+   "address": "土瓜灣道 To Kwa Wan Road",
+   "tags": {}
+  },
+  {
+   "id": "node/13049195685",
+   "name": "樂高寵物 Lego Pet",
+   "lat": 22.3065798,
+   "lon": 114.1881967,
+   "distKm": 2.4,
+   "address": "22-24 民泰街 Man Tai Street, Kowloon",
+   "tags": {
+    "website": "https://www.legopet.com.hk/"
+   }
+  },
+  {
+   "id": "node/4846641819",
+   "name": "Sweet Heart Grooming",
+   "lat": 22.3456617,
+   "lon": 114.1977213,
+   "distKm": 4.1,
+   "address": "雙鳳街 Sheung Fung Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4860226234",
+   "name": "Honey Pet Shop",
+   "lat": 22.2902801,
+   "lon": 114.1946668,
+   "distKm": 4.1,
+   "address": "電氣道 Electric Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4860226248",
+   "name": "Mode",
+   "lat": 22.2911732,
+   "lon": 114.1957039,
+   "distKm": 4.1,
+   "address": "渣華道 Java Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4860337568",
+   "name": "龍貓仔專門店 Chinchilla & Pets Shop",
+   "lat": 22.2913116,
+   "lon": 114.195531,
+   "distKm": 4.1,
+   "address": "渣華道 Java Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4860337571",
+   "name": "Universal Pet's Grooming",
+   "lat": 22.2915148,
+   "lon": 114.1961306,
+   "distKm": 4.1,
+   "address": "渣華道 Java Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4856435231",
+   "name": "Tony's Aquarium",
+   "lat": 22.2854078,
+   "lon": 114.1908614,
+   "distKm": 4.4,
+   "address": "歌頓道 Gordon Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4858562063",
+   "name": "Lego Pet",
+   "lat": 22.2817126,
+   "lon": 114.1836565,
+   "distKm": 4.4,
+   "address": "景隆街 Cannon Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4858562064",
+   "name": "Flag Ship Pet Grooming",
+   "lat": 22.2817658,
+   "lon": 114.1836268,
+   "distKm": 4.4,
+   "address": "景隆街 Cannon Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4858620562",
+   "name": "Mega Pet",
+   "lat": 22.2815816,
+   "lon": 114.1834955,
+   "distKm": 4.4,
+   "address": "景隆街 Cannon Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4858620563",
+   "name": "Pets Icon",
+   "lat": 22.2816218,
+   "lon": 114.1834752,
+   "distKm": 4.4,
+   "address": "景隆街 Cannon Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4860203936",
+   "name": "小美尾 Wagging Tails",
+   "lat": 22.2848554,
+   "lon": 114.1911132,
+   "distKm": 4.4,
+   "address": "興發街 Hing Fat Street",
+   "tags": {}
+  },
+  {
+   "id": "node/6417901295",
+   "name": "Pet Paradise",
+   "lat": 22.2824029,
+   "lon": 114.1854255,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4855891400",
+   "name": "廷和水族世界 Ting Wo Aquarium World",
+   "lat": 22.2850302,
+   "lon": 114.1927028,
+   "distKm": 4.5,
+   "address": "英皇道 King's Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4858618223",
+   "name": "寵物網 PetsOrder",
+   "lat": 22.2807279,
+   "lon": 114.1833354,
+   "distKm": 4.5,
+   "address": "509 駱克道 Lockhart Road",
+   "tags": {
+    "website": "https://www.petsorder.com.hk"
+   }
+  },
+  {
+   "id": "node/3296355750",
+   "name": "愛寵店 My Dear Pet Shop",
+   "lat": 22.286735,
+   "lon": 114.1398234,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3668108823",
+   "name": "新海濤寵物屋",
+   "lat": 22.2770478,
+   "lon": 114.1757919,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4857802425",
+   "name": "愛的寵物店 Honey Pet Shop",
+   "lat": 22.2771322,
+   "lon": 114.1705065,
+   "distKm": 4.7,
+   "address": "莊士敦道 Johnston Road",
+   "tags": {}
+  },
+  {
+   "id": "node/6759443415",
+   "name": "Little Boss",
+   "lat": 22.2796658,
+   "lon": 114.185146,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13387881542",
+   "name": "petペット",
+   "lat": 22.2805243,
+   "lon": 114.1512199,
+   "distKm": 4.7,
+   "address": "80-82 卑利街 Peel Street",
+   "tags": {
+    "phone": "+852 6360 1010"
+   }
+  },
+  {
+   "id": "node/3667223174",
+   "name": "維記水族",
+   "lat": 22.2763112,
+   "lon": 114.1745209,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6378290618",
+   "name": "均記雀鳥 Kwan Kee Birds & Small Animals",
+   "lat": 22.275865,
+   "lon": 114.171242,
+   "distKm": 4.8,
+   "address": "大王東街 Tai Wong Street East, Wan Chai",
+   "tags": {}
+  },
+  {
+   "id": "node/13387881188",
+   "name": "The Barkyard",
+   "lat": 22.2799534,
+   "lon": 114.151146,
+   "distKm": 4.8,
+   "address": "20 摩羅廟交加街 Mosque Junction",
+   "tags": {}
+  },
+  {
+   "id": "node/6444321970",
+   "name": "宏達水族工程 Wanda H.K. Aquarium",
+   "lat": 22.3164232,
+   "lon": 114.2169827,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4862215539",
+   "name": "Loving Care",
+   "lat": 22.278738,
+   "lon": 114.1911811,
+   "distKm": 5,
+   "address": "銅鑼灣道 Tung Lo Wan Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4862215540",
+   "name": "Zoo Pet's Grooming",
+   "lat": 22.2786299,
+   "lon": 114.1909382,
+   "distKm": 5,
+   "address": "銅鑼灣道 Tung Lo Wan Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4862626529",
+   "name": "樂高寵物 Lego Pet",
+   "lat": 22.2863908,
+   "lon": 114.1334161,
+   "distKm": 5.2,
+   "address": "皇后大道西 Queen's Road West",
+   "tags": {}
+  },
+  {
+   "id": "node/4870132928",
+   "name": "Puppy Doggy",
+   "lat": 22.2849685,
+   "lon": 114.1312876,
+   "distKm": 5.5,
+   "address": "堅彌地城海旁 Praya, Kennedy Town",
+   "tags": {}
+  },
+  {
+   "id": "node/4870091593",
+   "name": "Paws Buddy",
+   "lat": 22.2835638,
+   "lon": 114.1292912,
+   "distKm": 5.7,
+   "address": "吉席街 Catchick Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4870055763",
+   "name": "Doggy",
+   "lat": 22.2831062,
+   "lon": 114.1275851,
+   "distKm": 5.9,
+   "address": "吉席街 Catchick Street",
+   "tags": {}
+  },
+  {
+   "id": "node/9603237010",
+   "name": "Pet West",
+   "lat": 22.2828919,
+   "lon": 114.1274713,
+   "distKm": 5.9,
+   "address": "厚和街 Hau Wo Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4870055747",
+   "name": "Potwest Dog Grooming",
+   "lat": 22.2828521,
+   "lon": 114.1262405,
+   "distKm": 6,
+   "address": "吉席街 Catchick Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4870055748",
+   "name": "Dogger",
+   "lat": 22.2828778,
+   "lon": 114.1262468,
+   "distKm": 6,
+   "address": "吉席街 Catchick Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4862651555",
+   "name": "YG Pet Pet Club",
+   "lat": 22.2815623,
+   "lon": 114.1264328,
+   "distKm": 6.1,
+   "address": "加多近街 Cadogan Street",
+   "tags": {}
+  },
+  {
+   "id": "node/8664262821",
+   "name": "天恩愛寵屋",
+   "lat": 22.3652815,
+   "lon": 114.1356401,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12761907943",
+   "name": "寵物天地 Kiss Kids Club",
+   "lat": 22.368478,
+   "lon": 114.132736,
+   "distKm": 6.6,
+   "address": "39 光輝圍 Kwong Fai Circuit",
+   "tags": {
+    "phone": "+852-24281717"
+   }
+  }
+ ]
+}

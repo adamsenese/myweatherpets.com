@@ -1,0 +1,475 @@
+{
+ "$schemaVersion": 1,
+ "city": "las-vegas",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:27:45.585Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 39,
+ "places": [
+  {
+   "id": "way/1425957790",
+   "name": "PetSmart",
+   "lat": 36.1560206,
+   "lon": -115.2057311,
+   "distKm": 6.1,
+   "address": "1261 South Decatur Boulevard, Las Vegas, NV 89102",
+   "tags": {
+    "phone": "+1 702-870-8200",
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store0152.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/254438352",
+   "name": "PetSmart",
+   "lat": 36.1632089,
+   "lon": -115.0637657,
+   "distKm": 6.9,
+   "address": "171 North Nellis Boulevard, Las Vegas, NV 89110",
+   "tags": {
+    "phone": "+1 702-438-5771",
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store0150.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12993404464",
+   "name": "Wild Things",
+   "lat": 36.1136524,
+   "lon": -115.0909522,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13131567163",
+   "name": "Diamond Pets",
+   "lat": 36.1721823,
+   "lon": -115.2428942,
+   "distKm": 9.3,
+   "address": "101B South Rainbow Boulevard, Las Vegas, NV 89145",
+   "tags": {
+    "phone": "+1-702-462-4417"
+   }
+  },
+  {
+   "id": "way/1363949321",
+   "name": "PetSmart",
+   "lat": 36.1980516,
+   "lon": -115.2384488,
+   "distKm": 9.4,
+   "address": "2140 North Rainbow Boulevard, Las Vegas, NV 89108",
+   "tags": {
+    "phone": "+1 702-631-8422",
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store0146.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1422763553",
+   "name": "Reptiles",
+   "lat": 36.1595595,
+   "lon": -115.2455316,
+   "distKm": 9.6,
+   "address": "6836 West Charleston Boulevard, Las Vegas, NV 89117",
+   "tags": {}
+  },
+  {
+   "id": "node/12564681863",
+   "name": "Scales 'N Tails",
+   "lat": 36.0871137,
+   "lon": -115.1012528,
+   "distKm": 9.8,
+   "address": "3380 Russell Road, Las Vegas, NV 89120",
+   "tags": {
+    "phone": "+1-702-445-6460",
+    "website": "https://www.scalesntails.com/lasvegas2",
+    "opening_hours": "Mo-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "way/1474547600",
+   "name": "PetSmart",
+   "lat": 36.0815359,
+   "lon": -115.1219382,
+   "distKm": 10,
+   "address": "5915 South Eastern Avenue, Las Vegas, NV 89119",
+   "tags": {
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store1394.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1421018342",
+   "name": "Puppy Town",
+   "lat": 36.1268775,
+   "lon": -115.2421269,
+   "distKm": 10.4,
+   "address": "6870 Spring Mountain Road, Las Vegas, NV 89146",
+   "tags": {}
+  },
+  {
+   "id": "way/1236481746",
+   "name": "Petco",
+   "lat": 36.1239696,
+   "lon": -115.2437763,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1139057060",
+   "name": "Petco",
+   "lat": 36.2723562,
+   "lon": -115.2049555,
+   "distKm": 12.8,
+   "address": "6150 North Decatur Boulevard, Las Vegas, NV 89130",
+   "tags": {
+    "phone": "+1 702-415-2687",
+    "website": "https://stores.petco.com/nv/lasvegas/pet-supplies-lasvegas-nv-2122.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/547177320",
+   "name": "PetSmart",
+   "lat": 36.2871559,
+   "lon": -115.1338596,
+   "distKm": 13,
+   "address": "6980 North 5th Street, North Las Vegas, NV 89084",
+   "tags": {
+    "phone": "+1 702-399-0508",
+    "website": "https://www.petsmart.com/stores/us/nv/north-las-vegas-store1896.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11639971858",
+   "name": "LLL Reptile and Supply Company Inc.",
+   "lat": 36.0664253,
+   "lon": -115.0478887,
+   "distKm": 14.2,
+   "address": "629 North Stephanie Street, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1-702-565-7333",
+    "website": "https://www.lllreptile.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/548911963",
+   "name": "Petco",
+   "lat": 36.0654391,
+   "lon": -115.0382337,
+   "distKm": 14.8,
+   "address": "631 Marks Street, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1 702-458-1435",
+    "website": "https://www.bedbathandbeyond.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/556165082",
+   "name": "PetSmart",
+   "lat": 36.0583903,
+   "lon": -115.0483488,
+   "distKm": 14.9,
+   "address": "531 North Stephanie Street, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1 702-898-0055",
+    "website": "https://www.petsmart.com/stores/us/nv/henderson-store0148.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/196512320",
+   "name": "Petco",
+   "lat": 36.0421631,
+   "lon": -115.1921321,
+   "distKm": 15,
+   "address": "3890 Blue Diamond Road, Las Vegas, NV 89139",
+   "tags": {
+    "website": "https://stores.petco.com/nv/lasvegas/pet-supplies-lasvegas-nv-1153.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1417965601",
+   "name": "PetSmart",
+   "lat": 36.0648079,
+   "lon": -115.2453092,
+   "distKm": 15,
+   "address": "7050 Arroyo Crossing Parkway, Las Vegas, NV 89113",
+   "tags": {
+    "phone": "+1 702-407-0330",
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store1576.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12090890660",
+   "name": "The Puppy Store",
+   "lat": 36.0642517,
+   "lon": -115.0340766,
+   "distKm": 15.1,
+   "address": "1000 West Sunset Road, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1-702-344-0844"
+   }
+  },
+  {
+   "id": "node/10740248195",
+   "name": "Petland",
+   "lat": 36.0600584,
+   "lon": -115.0361265,
+   "distKm": 15.4,
+   "address": "510 Marks Street, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1 702-935-1873",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/13256879336",
+   "name": "PetSmart",
+   "lat": 36.1578295,
+   "lon": -115.3108949,
+   "distKm": 15.4,
+   "address": "9775 West Charleston Boulevard, Las Vegas, NV 89117",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1424021709",
+   "name": "Petco",
+   "lat": 36.1459557,
+   "lon": -115.3146483,
+   "distKm": 15.9,
+   "address": "10000 West Sahara Avenue, Las Vegas, NV 89117",
+   "tags": {
+    "phone": "+1 702-341-0142",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/689316614",
+   "name": "PetSmart",
+   "lat": 36.0950145,
+   "lon": -115.2942925,
+   "distKm": 16.2,
+   "address": "5160 South Fort Apache Road, Las Vegas, NV 89148",
+   "tags": {
+    "phone": "+1 702-253-1431",
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store1153.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1089718896",
+   "name": "Wags 'N Whiskers",
+   "lat": 36.0286687,
+   "lon": -115.084362,
+   "distKm": 16.5,
+   "address": "1000 North Green Valley Parkway, Henderson, NV 89074",
+   "tags": {}
+  },
+  {
+   "id": "way/554754059",
+   "name": "Petco",
+   "lat": 36.0218384,
+   "lon": -115.1202915,
+   "distKm": 16.6,
+   "address": "2340 East Serene Avenue, Las Vegas, NV 89123",
+   "tags": {
+    "phone": "+1 702-914-0500",
+    "website": "https://stores.petco.com/nv/lasvegas/pet-supplies-lasvegas-nv-531.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1089718879",
+   "name": "Lulu's Doggy Salon & Spaw",
+   "lat": 36.0269909,
+   "lon": -115.0840198,
+   "distKm": 16.7,
+   "address": "1000 North Green Valley Parkway, Henderson, NV 89074",
+   "tags": {}
+  },
+  {
+   "id": "node/12495364387",
+   "name": "Woof Gang Bakery & Grooming",
+   "lat": 36.0162916,
+   "lon": -115.1172101,
+   "distKm": 17.2,
+   "address": "9500 South Eastern Avenue, Las Vegas, NV 89123",
+   "tags": {}
+  },
+  {
+   "id": "node/11783672090",
+   "name": "The Wagging Tail Pet Grocery & Supplies",
+   "lat": 36.1014265,
+   "lon": -115.314077,
+   "distKm": 17.4,
+   "address": "10170 West Tropicana Avenue, Las Vegas, NV",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-19:00; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/202777835",
+   "name": "At Your Service Pet Supplies",
+   "lat": 36.0246942,
+   "lon": -115.0638966,
+   "distKm": 17.5,
+   "address": "55 South Valle Verde Drive, Henderson, NV 89012",
+   "tags": {
+    "website": "https://atyourservicepetsupplies.com/"
+   }
+  },
+  {
+   "id": "way/549650179",
+   "name": "Petco",
+   "lat": 36.0541647,
+   "lon": -115.2766825,
+   "distKm": 17.8,
+   "address": "8495 West Warm Springs Road, Las Vegas, NV 89113",
+   "tags": {
+    "phone": "+1 702-791-7038",
+    "website": "https://stores.petco.com/nv/lasvegas/pet-supplies-lasvegas-nv-1177.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1088539126",
+   "name": "Las Vegas Puppy Store",
+   "lat": 36.0274421,
+   "lon": -115.049391,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10719856825",
+   "name": "PetSmart",
+   "lat": 36.2812201,
+   "lon": -115.2840401,
+   "distKm": 17.9,
+   "address": "6650 North Durango Drive, Las Vegas, NV 89149",
+   "tags": {
+    "phone": "+1 702-839-0479",
+    "website": "https://www.petsmart.com/stores/us/nv/las-vegas-store1381.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1088320028",
+   "name": "Henderson Pet Resort",
+   "lat": 36.0224721,
+   "lon": -115.0503945,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1088336871",
+   "name": "The Soggy Dog",
+   "lat": 36.0231425,
+   "lon": -115.0488282,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/725462745",
+   "name": "Dog Food 2 My Door.com",
+   "lat": 36.0183785,
+   "lon": -115.0544398,
+   "distKm": 18.5,
+   "address": "1550 West Horizon Ridge Parkway, Henderson, NV 89012",
+   "tags": {
+    "website": "https://chefsromakitchen.com/",
+    "opening_hours": "Tu-Th 16:00-21:00; Fr,Sa 16:00-21:30; Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "way/725467648",
+   "name": "Las Vegas Puppy Store",
+   "lat": 36.0170211,
+   "lon": -115.0561902,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "phone": "+1 702-665-6369",
+    "website": "https://lasvegaspuppystore.com/",
+    "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "way/725467652",
+   "name": "Doggy Lounge",
+   "lat": 36.0168954,
+   "lon": -115.0563456,
+   "distKm": 18.6,
+   "address": "1590 West Horizon Ridge Parkway, Henderson, NV 89012",
+   "tags": {}
+  },
+  {
+   "id": "way/550927911",
+   "name": "Petco",
+   "lat": 36.0040288,
+   "lon": -115.0847539,
+   "distKm": 19.1,
+   "address": "645 South Green Valley Parkway, Henderson, NV 89052",
+   "tags": {
+    "phone": "+1 702-566-0771",
+    "website": "https://stores.petco.com/nv/henderson/pet-supplies-henderson-nv-1195.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10853560420",
+   "name": "Tack U Feed",
+   "lat": 36.3007078,
+   "lon": -115.2841395,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/579980404",
+   "name": "PetSmart",
+   "lat": 36.0391174,
+   "lon": -114.9918306,
+   "distKm": 19.7,
+   "address": "286 Lake Mead Parkway, Henderson, NV 89015",
+   "tags": {
+    "phone": "+1 702-558-9326",
+    "website": "https://www.petsmart.com/stores/us/nv/henderson-store1895.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

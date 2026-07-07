@@ -1,0 +1,639 @@
+{
+ "$schemaVersion": 1,
+ "city": "montreal",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:39:20.745Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/488490559",
+   "name": "Lucien-L'Allier dog park",
+   "lat": 45.4939236,
+   "lon": -73.5686483,
+   "distKm": 0.9,
+   "address": "741 Rue Lucien-L'Allier, Montréal, H3C 1Z8",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-lucien-lallier"
+   }
+  },
+  {
+   "id": "way/731801582",
+   "name": "Parc à chiens Pilote",
+   "lat": 45.4954528,
+   "lon": -73.5540707,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-pilote"
+   }
+  },
+  {
+   "id": "way/225640578",
+   "name": "Gallery dog park",
+   "lat": 45.4905364,
+   "lon": -73.5595478,
+   "distKm": 1.4,
+   "address": "1345 Rue Olier, Montréal, H3C 1W4",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/606863911",
+   "name": "Aire d'exercice canin pour petits chiens",
+   "lat": 45.4903341,
+   "lon": -73.5599086,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-gallery"
+   }
+  },
+  {
+   "id": "way/1149170974",
+   "name": "Parc à chiens - bande Saint-Antoine",
+   "lat": 45.4874343,
+   "lon": -73.5788236,
+   "distKm": 1.8,
+   "address": "Rue Saint-Antoine Ouest, Montréal",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-bande-saint-antoine",
+    "opening_hours": "Mo-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/232085379",
+   "name": "Course de chiens",
+   "lat": 45.4824492,
+   "lon": -73.588556,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/489610397",
+   "name": "Parc à chiens du parc La Fontaine",
+   "lat": 45.5273769,
+   "lon": -73.5656233,
+   "distKm": 2.8,
+   "address": "3819 Avenue Calixa-Lavallée, Montréal, H2L 3A7",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-la-fontaine",
+    "opening_hours": "Mo-Su 06:00-00:00"
+   }
+  },
+  {
+   "id": "way/1416626787",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4757457,
+   "lon": -73.5706694,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/165217811",
+   "name": "Parc à chiens du parc Louis-Cyr",
+   "lat": 45.4764768,
+   "lon": -73.5814297,
+   "distKm": 3,
+   "address": "200 Rue Saint-Ferdinand, Montréal, H4C 2S8",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-louis-cyr"
+   }
+  },
+  {
+   "id": "relation/17914777",
+   "name": "Parc à chien Le Ber",
+   "lat": 45.4775265,
+   "lon": -73.5517581,
+   "distKm": 3,
+   "address": "Montréal, H3K 1Z7",
+   "tags": {}
+  },
+  {
+   "id": "way/1025720839",
+   "name": "Parc à chiens du parc des Royaux",
+   "lat": 45.5297741,
+   "lon": -73.5591837,
+   "distKm": 3.2,
+   "address": "2195 Avenue De Lorimier, Montréal, H2K 1P5",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-des-royaux"
+   }
+  },
+  {
+   "id": "way/878731731",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4803029,
+   "lon": -73.5972501,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/35160828",
+   "name": "Parc Canin King George",
+   "lat": 45.4851642,
+   "lon": -73.6047341,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/284063666",
+   "name": "Parc Champion",
+   "lat": 45.4690371,
+   "lon": -73.5590346,
+   "distKm": 3.7,
+   "address": "Verdun, H4G 3C1",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1290549811",
+   "name": "Parc à chiens du parc Baldwin",
+   "lat": 45.5349425,
+   "lon": -73.562926,
+   "distKm": 3.7,
+   "address": "4355 Rue Fullum, Montréal, H2H 1N1",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-baldwin"
+   }
+  },
+  {
+   "id": "way/360782873",
+   "name": "Parc à chiens du parc Sir-Wilfrid-Laurier",
+   "lat": 45.5323012,
+   "lon": -73.589495,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-sir-wilfrid-laurier"
+   }
+  },
+  {
+   "id": "way/717319570",
+   "name": "Parc à chiens de Saint-Lambert",
+   "lat": 45.5105231,
+   "lon": -73.5199029,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7073527630",
+   "name": "Parc Canin",
+   "lat": 45.5286613,
+   "lon": -73.602054,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/223996938",
+   "name": "Parc à chiens du parc du Père-Marquette",
+   "lat": 45.5383014,
+   "lon": -73.5910102,
+   "distKm": 4.4,
+   "address": "1602 Rue de Bellechasse, Montréal, H2G 1N6",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-du-pere-marquette"
+   }
+  },
+  {
+   "id": "way/1332729647",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4659614,
+   "lon": -73.5920267,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1025578889",
+   "name": "Parc à chiens du parc du Pélican",
+   "lat": 45.5433395,
+   "lon": -73.5724676,
+   "distKm": 4.6,
+   "address": "2590 Rue Masson, Montréal, H1Y 1V9",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1244739953",
+   "name": "Parc canin d'Outremont",
+   "lat": 45.5199312,
+   "lon": -73.6216919,
+   "distKm": 4.7,
+   "address": "Avenue McEachran, Montréal",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-canin-doutremont-parc-mali"
+   }
+  },
+  {
+   "id": "way/1332718014",
+   "name": "Parc à chiens de la Place de Darlington",
+   "lat": 45.5104865,
+   "lon": -73.6268234,
+   "distKm": 4.7,
+   "address": "2760 Place Darlington, Montréal, H3S 1L5",
+   "tags": {}
+  },
+  {
+   "id": "way/1080920796",
+   "name": "Parc à chiens du parc Notre-Dame-de-Grâce",
+   "lat": 45.4730872,
+   "lon": -73.6142157,
+   "distKm": 4.9,
+   "address": "3500 Avenue Girouard, Montréal, H4A 1R2",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-notre-dame-de-grace"
+   }
+  },
+  {
+   "id": "way/1305028100",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4679474,
+   "lon": -73.606961,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/233573046",
+   "name": "Parc à chiens du parc Lalancette",
+   "lat": 45.548798,
+   "lon": -73.5497928,
+   "distKm": 5.4,
+   "address": "2315 Rue Nicolet, Montréal, H1W 3Y2",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-lalancette"
+   }
+  },
+  {
+   "id": "way/91658563",
+   "name": "Parc à chiens du parc Lafond",
+   "lat": 45.5513323,
+   "lon": -73.5697095,
+   "distKm": 5.5,
+   "address": "3330 Avenue Laurier Est, Montréal, H1X 1V2",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-lafond"
+   }
+  },
+  {
+   "id": "way/409589239",
+   "name": "Parc Canin Montgomery",
+   "lat": 45.5142637,
+   "lon": -73.6371915,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/189007872",
+   "name": "Parc à chien Jarry",
+   "lat": 45.5343994,
+   "lon": -73.6245776,
+   "distKm": 5.7,
+   "address": "205 Rue Gary-Carter, Montréal, H2R 2V7",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/86976933",
+   "name": "Wolfred-Nelson dog park",
+   "lat": 45.5485378,
+   "lon": -73.5333308,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-wolfred-nelson"
+   }
+  },
+  {
+   "id": "way/980742592",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5217489,
+   "lon": -73.6365124,
+   "distKm": 5.8,
+   "address": "1050 Chemin Dumfries, Mont-Royal, H3P 2R9",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/427497386",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4565499,
+   "lon": -73.607202,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 07:00-23:00"
+   }
+  },
+  {
+   "id": "way/62620805",
+   "name": "Parc à chiens du parc Beaubien",
+   "lat": 45.5540561,
+   "lon": -73.5898702,
+   "distKm": 6.1,
+   "address": "6635 6e Av, Montréal, H1Y 2K8",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-beaubien"
+   }
+  },
+  {
+   "id": "way/1332720808",
+   "name": "Parc à chiens du parc de la Confédération",
+   "lat": 45.4724306,
+   "lon": -73.6386461,
+   "distKm": 6.4,
+   "address": "6262 Fielding Ave, Montréal, H3X 3S8",
+   "tags": {}
+  },
+  {
+   "id": "way/1082402506",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4726002,
+   "lon": -73.6393312,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-de-la-confederation"
+   }
+  },
+  {
+   "id": "way/1162595056",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5605464,
+   "lon": -73.5704644,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9253495681",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4813275,
+   "lon": -73.6474386,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1082407374",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4736352,
+   "lon": -73.6417542,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-de-la-confederation"
+   }
+  },
+  {
+   "id": "way/311020708",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5479701,
+   "lon": -73.6229195,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-villeray"
+   }
+  },
+  {
+   "id": "way/297214752",
+   "name": "Parc à chiens du parc Angrignon",
+   "lat": 45.4454269,
+   "lon": -73.5994998,
+   "distKm": 6.8,
+   "address": "7503 Bd de la Vérendrye, Montréal, H4E 4J3",
+   "tags": {
+    "barrier": "fence",
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-angrignon"
+   }
+  },
+  {
+   "id": "way/1081747923",
+   "name": "Parc à chiens du parc Trenholme",
+   "lat": 45.4614452,
+   "lon": -73.6322325,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-trenholme"
+   }
+  },
+  {
+   "id": "way/1084961518",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4994322,
+   "lon": -73.6558845,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1080850398",
+   "name": "Parc à chiens du parc de la Louisiane",
+   "lat": 45.5679755,
+   "lon": -73.5714217,
+   "distKm": 7.4,
+   "address": "4644 Rue Beaubien Est, Montréal, H1T 1Z5",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-de-la-louisiane"
+   }
+  },
+  {
+   "id": "way/26377971",
+   "name": "Parc Réservoir Julien-Lord",
+   "lat": 45.5092807,
+   "lon": -73.4690417,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1306967197",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4348588,
+   "lon": -73.5955369,
+   "distKm": 7.8,
+   "address": "550 Avenue Lacharité, LaSalle, H8P 2C1",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-leroux"
+   }
+  },
+  {
+   "id": "way/1216134619",
+   "name": "Parc à chiens Jean-Talon - Provencher",
+   "lat": 45.5711121,
+   "lon": -73.5878699,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-jean-talon-provencher"
+   }
+  },
+  {
+   "id": "way/669456541",
+   "name": "Parc à chiens du parc William-Bowie",
+   "lat": 45.4582419,
+   "lon": -73.650286,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-william-bowie"
+   }
+  },
+  {
+   "id": "way/1077518024",
+   "name": "Parc à chiens Frederick-Mackenzie",
+   "lat": 45.4369028,
+   "lon": -73.61324,
+   "distKm": 8.1,
+   "address": "Rue Lapierre, LaSalle, H8N 1B4",
+   "tags": {
+    "access": "yes",
+    "website": "https://montreal.ca/lieux/parc-chiens-frederick-mackenzie"
+   }
+  },
+  {
+   "id": "way/1074568770",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4512637,
+   "lon": -73.6430023,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1244675891",
+   "name": "Parc à chiens Montpellier",
+   "lat": 45.5198659,
+   "lon": -73.6697111,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-montpellier"
+   }
+  },
+  {
+   "id": "way/489610399",
+   "name": "Parc canin St-Benoît",
+   "lat": 45.5407554,
+   "lon": -73.664604,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-saint-benoit"
+   }
+  },
+  {
+   "id": "way/1210078284",
+   "name": "Parc à chien Arthur-Péloquin",
+   "lat": 45.5785629,
+   "lon": -73.5970784,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-arthur-peloquin"
+   }
+  },
+  {
+   "id": "way/1307144769",
+   "name": "Parc à chiens du parc Gohier",
+   "lat": 45.5074095,
+   "lon": -73.6814122,
+   "distKm": 8.9,
+   "address": "703 Rue Buchanan, Saint-Laurent, H4L 2V1",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-gohier"
+   }
+  },
+  {
+   "id": "way/1332730010",
+   "name": "Parc a chiens Roger-Richer",
+   "lat": 45.4423732,
+   "lon": -73.6500517,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1078678359",
+   "name": "Parc canin Joe Raie",
+   "lat": 45.4565965,
+   "lon": -73.6684839,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1244651919",
+   "name": "Parc à chiens Crépeau",
+   "lat": 45.5310525,
+   "lon": -73.6801376,
+   "distKm": 9.4,
+   "address": "Rue Crépeau, Montréal, H4N 1C8",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-crepeau"
+   }
+  },
+  {
+   "id": "way/543103835",
+   "name": "Parc à chiens du parc Ahuntsic",
+   "lat": 45.5563382,
+   "lon": -73.6662228,
+   "distKm": 9.8,
+   "address": "602-626 Boulevard Henri-Bourassa Est, Montréal, H2C 1E1",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-ahuntsic"
+   }
+  },
+  {
+   "id": "way/1287402013",
+   "name": "Parc Félix-Leclerc dog park",
+   "lat": 45.5900482,
+   "lon": -73.5634639,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/718478786",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4867468,
+   "lon": -73.4425073,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1067611119",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5220281,
+   "lon": -73.6914835,
+   "distKm": 9.9,
+   "address": "1740 Avenue O'Brien, Montréal, H4L 3W5",
+   "tags": {
+    "website": "https://montreal.ca/lieux/parc-chiens-du-parc-cousineau"
+   }
+  }
+ ]
+}

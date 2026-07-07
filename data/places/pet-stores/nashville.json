@@ -1,0 +1,88 @@
+{
+ "$schemaVersion": 1,
+ "city": "nashville",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:26:46.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/7910118517",
+   "name": "PetSmart",
+   "lat": 36.1081212,
+   "lon": -86.7640823,
+   "distKm": 6.3,
+   "address": "719 Thompson Lane, Nashville, TN 37204",
+   "tags": {
+    "phone": "+1 615-386-0105",
+    "website": "https://www.petsmart.com/stores/us/tn/nashville-store0650.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5311163472",
+   "name": "Pet Supermarket",
+   "lat": 36.1705054,
+   "lon": -86.6844891,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13607916203",
+   "name": "Petco",
+   "lat": 36.0323654,
+   "lon": -86.7874475,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-615-377-5360",
+    "website": "https://stores.petco.com/tn/brentwood/pet-supplies-brentwood-tn-1541.html",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12596173808",
+   "name": "Nashville Pet Products Center - Bellevue",
+   "lat": 36.0732811,
+   "lon": -86.9236847,
+   "distKm": 16.2,
+   "address": "7085 Old Harding Pike, Nashville, TN 37221",
+   "tags": {
+    "phone": "+1-615-662-2525",
+    "website": "https://nashvillepetproducts.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:30-18:00"
+   }
+  },
+  {
+   "id": "way/752853167",
+   "name": "PetSmart",
+   "lat": 36.2173125,
+   "lon": -86.595326,
+   "distKm": 17.8,
+   "address": "4642 Lebanon Pike, Hermitage, TN 37076",
+   "tags": {
+    "phone": "+1 615-883-2726",
+    "website": "https://www.petsmart.com/stores/us/tn/hermitage-store0646.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11215980618",
+   "name": "Petco",
+   "lat": 36.0526963,
+   "lon": -86.6143609,
+   "distKm": 19.4,
+   "address": "3536 Murfreesboro Pike, Antioch, TN 37013-2582",
+   "tags": {
+    "phone": "+1 615-641-2112",
+    "website": "https://stores.petco.com/tn/antioch/pet-supplies-antioch-tn-1550.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

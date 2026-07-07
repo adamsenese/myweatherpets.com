@@ -1,7 +1,7 @@
 {
   "applinks": {
     "details": [
-      { "appIDs": ["F5V4B88DY8.com.weatherpets.app"], "components": [ { "/": "/c/*" } ] }
+      { "appIDs": ["F5V4B88DY8.com.weatherpets.app"], "components": [ { "/": "/c/*" }, { "/": "/p/*" } ] }
     ]
   }
 }

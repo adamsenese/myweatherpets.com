@@ -1,0 +1,638 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-york",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:20:34.851Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/315404577",
+   "name": "Fishbridge Park Dog Run",
+   "lat": 40.7091907,
+   "lon": -74.0015206,
+   "distKm": 0.6,
+   "address": "338 Pearl Street, New York, NY 10038",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1047418170",
+   "name": "Tribeca Dog Run",
+   "lat": 40.7162113,
+   "lon": -74.0120888,
+   "distKm": 0.6,
+   "address": "New York, NY",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.nycgovparks.org/parks/tribeca-dog-run"
+   }
+  },
+  {
+   "id": "way/338078874",
+   "name": "Parks Dog Run",
+   "lat": 40.704368,
+   "lon": -74.0058102,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/891134386",
+   "name": "North End Avenue Dog Run",
+   "lat": 40.7167301,
+   "lon": -74.0146769,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/891134438",
+   "name": "Sirius Dog Run",
+   "lat": 40.7120151,
+   "lon": -74.0169299,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/16820299",
+   "name": "Little West Dog Run",
+   "lat": 40.7075362,
+   "lon": -74.0163081,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/244981405",
+   "name": "Tribeca Dog Park",
+   "lat": 40.7215434,
+   "lon": -74.0123483,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "website": "https://hudsonriverpark.org/explore-the-park/activities/tribeca-dog-park"
+   }
+  },
+  {
+   "id": "way/1081291417",
+   "name": "Soho Grand Dog Park",
+   "lat": 40.7224667,
+   "lon": -74.0043457,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "access": "customers",
+    "website": "https://www.sohogrand.com/event-spaces/soho-grand-dog-park/"
+   }
+  },
+  {
+   "id": "way/1239798104",
+   "name": "Coleman Oval Dog Run",
+   "lat": 40.7113093,
+   "lon": -73.9932568,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1288980003",
+   "name": "Battery Park Dog Park",
+   "lat": 40.7040231,
+   "lon": -74.015484,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/39513389",
+   "name": "Hillside Dog Park",
+   "lat": 40.7014274,
+   "lon": -73.9942579,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.nycgovparks.org/parks/hillside-park/",
+    "opening_hours": "Mo-Su 06:00-01:00"
+   }
+  },
+  {
+   "id": "node/10251064201",
+   "name": "Main Street Dog Run",
+   "lat": 40.7040161,
+   "lon": -73.9887016,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://brooklynbridgepark.org/places-to-see/dog-runs/dog-run-john-street/"
+   }
+  },
+  {
+   "id": "way/244980064",
+   "name": "Leroy Street Dog Run",
+   "lat": 40.7303611,
+   "lon": -74.0109385,
+   "distKm": 2,
+   "address": "Leroy Street, New York, NY 10014",
+   "tags": {
+    "access": "yes",
+    "website": "https://hudsonriverpark.org/activities/leroy-street-dog-park/"
+   }
+  },
+  {
+   "id": "way/247838631",
+   "name": "The Fi Office",
+   "lat": 40.7286148,
+   "lon": -73.9919936,
+   "distKm": 2.1,
+   "address": "419 Lafayette Street, 10003",
+   "tags": {}
+  },
+  {
+   "id": "way/336863051",
+   "name": "Washington Square Park Dog Run",
+   "lat": 40.7306583,
+   "lon": -73.9984529,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "surface": "ground",
+    "access": "yes",
+    "website": "https://www.nycgovparks.org/parks/washington-square-park/facilities/dogareas"
+   }
+  },
+  {
+   "id": "way/1232818504",
+   "name": "Robin Kovary Run for Small Dogs",
+   "lat": 40.7301912,
+   "lon": -73.9975449,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/4501525471",
+   "name": "Brooklyn Bridge Park - Pier 6 - Dog Run",
+   "lat": 40.6927371,
+   "lon": -74.0000345,
+   "distKm": 2.3,
+   "address": "360 Furman Street, Brooklyn, NY 11201",
+   "tags": {
+    "website": "https://www.brooklynbridgepark.org/places/dog-runs-1"
+   }
+  },
+  {
+   "id": "way/328281970",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6927366,
+   "lon": -74.0000328,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/614971103",
+   "name": "Willowtown Dog Run",
+   "lat": 40.6923654,
+   "lon": -73.9990782,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.willowtown.org/dog-run"
+   }
+  },
+  {
+   "id": "way/1075378734",
+   "name": "Professors' Dog Park",
+   "lat": 40.7212198,
+   "lon": -74.0327729,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1073218553",
+   "name": "Urby Dog Park",
+   "lat": 40.7204696,
+   "lon": -74.0345067,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/237523061",
+   "name": "Tompkins Square Dog Run",
+   "lat": 40.7264897,
+   "lon": -73.9811727,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1104830445",
+   "name": "Cobble Hill Dog Park",
+   "lat": 40.6903188,
+   "lon": -73.9983451,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.cobblehilldogpark.org"
+   }
+  },
+  {
+   "id": "way/337324535",
+   "name": "Union Square Dog Run",
+   "lat": 40.7355863,
+   "lon": -73.9909656,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.nycgovparks.org/parks/union-square-park/facilities/dogareas"
+   }
+  },
+  {
+   "id": "way/555581765",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7286342,
+   "lon": -74.0314523,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1084078607",
+   "name": "VYV Dog Park",
+   "lat": 40.723031,
+   "lon": -74.0376963,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1154628504",
+   "name": "Stuyvesant Park Dog Run",
+   "lat": 40.733198,
+   "lon": -73.9837392,
+   "distKm": 2.9,
+   "address": "2nd Avenue, New York, NY 10003",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.nycgovparks.org/parks/stuyvesant-square/facilities/dogareas"
+   }
+  },
+  {
+   "id": "way/1426291564",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6914054,
+   "lon": -73.9838467,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1213862026",
+   "name": "Gansevoort Peninsula Dog Park",
+   "lat": 40.7404483,
+   "lon": -74.0106038,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://hudsonriverpark.org/activities/gansevoort-peninsula-dog-park/",
+    "opening_hours": "Mo-Su,PH 06:00-01:00"
+   }
+  },
+  {
+   "id": "way/1016727644",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7133014,
+   "lon": -73.9686188,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1051664012",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7147901,
+   "lon": -74.0455937,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/725435395",
+   "name": "2nd & Hudson Street Dog Park",
+   "lat": 40.7381436,
+   "lon": -74.0293664,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/741915623",
+   "name": "Van Vorst Park Dog Run",
+   "lat": 40.7182893,
+   "lon": -74.0472735,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/297995657",
+   "name": "Jemmy's Dog Run",
+   "lat": 40.742379,
+   "lon": -73.9885755,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/690615850",
+   "name": "Large Dog Run",
+   "lat": 40.7274396,
+   "lon": -74.044706,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1336678847",
+   "name": "Fort Greene Park",
+   "lat": 40.6905261,
+   "lon": -73.9742211,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/257723260",
+   "name": "DiMattina Playground Dog Run",
+   "lat": 40.6797282,
+   "lon": -74.0029296,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.nycgovparks.org/parks/dimattina-playground/facilities/dogareas",
+    "opening_hours": "06:00-01:00"
+   }
+  },
+  {
+   "id": "way/265560940",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7414914,
+   "lon": -74.0281718,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/690615849",
+   "name": "Small Dog Run",
+   "lat": 40.7277735,
+   "lon": -74.0446965,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/717957767",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7215477,
+   "lon": -73.9609559,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4471412873",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7421784,
+   "lon": -74.0329492,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/551175116",
+   "name": "Church Square Park Dog Playpen",
+   "lat": 40.7421893,
+   "lon": -74.0329511,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/617506891",
+   "name": "Chelsea Waterside Dog Park",
+   "lat": 40.7487033,
+   "lon": -74.007474,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "website": "https://www.hudsonriverpark.org/explore-the-park/activities/chelsea-waterside-dog-park"
+   }
+  },
+  {
+   "id": "way/765885097",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7380148,
+   "lon": -74.042119,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1192727773",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7088567,
+   "lon": -73.9573917,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/553324182",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7486787,
+   "lon": -74.0239467,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/832365277",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7332437,
+   "lon": -74.0495581,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/32866746",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7198134,
+   "lon": -73.9531997,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/680460185",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7382402,
+   "lon": -74.0471475,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1162572566",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7144313,
+   "lon": -73.952158,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/450283316",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.751607,
+   "lon": -74.0233571,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1289210263",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6813025,
+   "lon": -73.9701891,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/673703760",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6729028,
+   "lon": -73.985835,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1028241538",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7372378,
+   "lon": -73.9590597,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1445615993",
+   "name": "New Wave Pier Dog Run",
+   "lat": 40.7459182,
+   "lon": -73.9697668,
+   "distKm": 4.8,
+   "address": "East River Esplanade, New York, NY 10016",
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1445615994",
+   "name": "New Wave Pier Small Dog Run",
+   "lat": 40.7461405,
+   "lon": -73.9695636,
+   "distKm": 4.8,
+   "address": "New Wave Pier, New York, NY 10016",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/889673026",
+   "name": "Robert Moses Playground Dog Run",
+   "lat": 40.7482584,
+   "lon": -73.9689896,
+   "distKm": 5,
+   "address": "New York, NY",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1154360063",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7061779,
+   "lon": -73.9467463,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/382453227",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7433358,
+   "lon": -73.9602285,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469558966",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7515392,
+   "lon": -74.0386208,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

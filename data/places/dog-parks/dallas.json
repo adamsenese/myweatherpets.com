@@ -1,0 +1,357 @@
+{
+ "$schemaVersion": 1,
+ "city": "dallas",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:22:22.800Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "way/419480839",
+   "name": "Main Street Garden Dog Park",
+   "lat": 32.7809452,
+   "lon": -96.794722,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1301818807",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7802365,
+   "lon": -96.7921702,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/707399028",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7687209,
+   "lon": -96.7953357,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10221990237",
+   "name": "Carpenter Park Dog Park",
+   "lat": 32.7848367,
+   "lon": -96.7918211,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/450893332",
+   "name": "Barry Annino Bark Park",
+   "lat": 32.7821367,
+   "lon": -96.7871803,
+   "distKm": 1.1,
+   "address": "2445 Canton Street, Dallas, TX 75201",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.dallasparks.org/Facilities/Facility/Details/Bark-Park-Central-357"
+   }
+  },
+  {
+   "id": "way/1336678594",
+   "name": "Backyard",
+   "lat": 32.785581,
+   "lon": -96.7893992,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1216019527",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7850227,
+   "lon": -96.7867495,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1395865669",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7818786,
+   "lon": -96.8161519,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1296429080",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7935796,
+   "lon": -96.7709129,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1349583665",
+   "name": "Mutts dog park",
+   "lat": 32.8056998,
+   "lon": -96.7953084,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/700777326",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7961831,
+   "lon": -96.8272434,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1290078141",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.746075,
+   "lon": -96.826741,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/448338663",
+   "name": "Central Commons Community Dog Park",
+   "lat": 32.8296762,
+   "lon": -96.8206857,
+   "distKm": 6.3,
+   "address": "4711 Westside Drive, Dallas, TX 75209",
+   "tags": {
+    "access": "yes",
+    "website": "https://centraldogpark.com/"
+   }
+  },
+  {
+   "id": "way/1189272927",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7587923,
+   "lon": -96.8606641,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4571356766",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8125254,
+   "lon": -96.7329719,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/504290782",
+   "name": "ElmWoof Dog Park",
+   "lat": 32.7246808,
+   "lon": -96.8443793,
+   "distKm": 7.3,
+   "address": "2105a South Edgefield Avenue, Dallas, TX 75224",
+   "tags": {
+    "website": "https://www.elmwoodna.org/elmwoof"
+   }
+  },
+  {
+   "id": "way/1502766498",
+   "name": "Lakeland Hills Dog Park",
+   "lat": 32.8033335,
+   "lon": -96.6964855,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/439763348",
+   "name": "White Rock Lake Dog Park",
+   "lat": 32.8518633,
+   "lon": -96.725396,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.whiterockdogpark.org/"
+   }
+  },
+  {
+   "id": "node/3700091064",
+   "name": "Villas of Lake Highlands",
+   "lat": 32.8665595,
+   "lon": -96.702621,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13265957232",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9073347,
+   "lon": -96.8044034,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/640650604",
+   "name": "The Leash Free Zone at Town East Park",
+   "lat": 32.8071227,
+   "lon": -96.6387494,
+   "distKm": 15.2,
+   "address": "2724 North Town East Boulevard, Mesquite, TX",
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "website": "https://www.cityofmesquite.com/1587/Leash-Free-Zone"
+   }
+  },
+  {
+   "id": "way/1113505697",
+   "name": "Paws Colinas Dog Park",
+   "lat": 32.8683896,
+   "lon": -96.9284034,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "website": "https://lascolinas.org/paws/"
+   }
+  },
+  {
+   "id": "way/1188342469",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8989507,
+   "lon": -96.9193214,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1375181219",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9242681,
+   "lon": -96.7169396,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1259273525",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9095149,
+   "lon": -96.9132398,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5686368932",
+   "name": "The Falls Dog Park",
+   "lat": 32.9369336,
+   "lon": -96.7479878,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1153358444",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9097227,
+   "lon": -96.9157916,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1153358446",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9106741,
+   "lon": -96.9170029,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1153449410",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9106949,
+   "lon": -96.9202649,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1169218860",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9164919,
+   "lon": -96.9100619,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/535737006",
+   "name": "Central Bark",
+   "lat": 32.9012023,
+   "lon": -96.9364035,
+   "distKm": 19,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1138136539",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9126372,
+   "lon": -96.9209618,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1137959272",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9152963,
+   "lon": -96.9214165,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1445893439",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.947082,
+   "lon": -96.8409436,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/427136171",
+   "name": "Barney Wood Bark Park",
+   "lat": 32.9384252,
+   "lon": -96.8791043,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

@@ -1,0 +1,616 @@
+{
+ "$schemaVersion": 1,
+ "city": "paris",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:36:59.180Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/569285571",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8631271,
+   "lon": 2.3433084,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "wire"
+   }
+  },
+  {
+   "id": "way/1188375404",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8500926,
+   "lon": 2.3612564,
+   "distKm": 1,
+   "address": "Paris",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1156458269",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8456288,
+   "lon": 2.3633057,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/849765166",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8423592,
+   "lon": 2.3365491,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1071020304",
+   "name": "Parc canin",
+   "lat": 48.8589881,
+   "lon": 2.3847387,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "surface": "sett",
+    "lit": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/780476041",
+   "name": "Espace canin du bassin Louis Blanc",
+   "lat": 48.8800438,
+   "lon": 2.3681062,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "07:00-22:00; Sa,Su,PH 09:00-20:00"
+   }
+  },
+  {
+   "id": "way/1482022843",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8668153,
+   "lon": 2.3899925,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11099803554",
+   "name": "Espace canin",
+   "lat": 48.863886,
+   "lon": 2.3925866,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/570270071",
+   "name": "Square Nadar",
+   "lat": 48.8859366,
+   "lon": 2.3418689,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/775380739",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8475212,
+   "lon": 2.3961514,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1453295418",
+   "name": "Parc à chien (Buttes Chaumont)",
+   "lat": 48.8811407,
+   "lon": 2.3857441,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "surface": "dirt",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/12047537825",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8753818,
+   "lon": 2.3955648,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1381320927",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8889146,
+   "lon": 2.3670912,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1337436561",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8223092,
+   "lon": 2.3654803,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/958322551",
+   "name": "Jardin Nusch Éluard",
+   "lat": 48.8925863,
+   "lon": 2.3593458,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/966411272",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8868209,
+   "lon": 2.3163603,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/669324858",
+   "name": "Plate-bande du boulevard Sérurier",
+   "lat": 48.87836,
+   "lon": 2.40435,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8219638629",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8286021,
+   "lon": 2.3992604,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/714583373",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8913974,
+   "lon": 2.3874819,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/966488741",
+   "name": "Allée aux chiens chiens de Brassens",
+   "lat": 48.8321375,
+   "lon": 2.298118,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "way/1102605092",
+   "name": "Parc Canin",
+   "lat": 48.8722312,
+   "lon": 2.4132932,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/13084713101",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8134499,
+   "lon": 2.3424758,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1076797149",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9025231,
+   "lon": 2.3516343,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1302514955",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8140444,
+   "lon": 2.3799377,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/767308496",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9024641,
+   "lon": 2.3341984,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/958851724",
+   "name": "Caniparc",
+   "lat": 48.8738788,
+   "lon": 2.4213294,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1058542329",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8602948,
+   "lon": 2.4254715,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/197717534",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8235458,
+   "lon": 2.2970679,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1202305876",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9021054,
+   "lon": 2.3227372,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1231387004",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.822355,
+   "lon": 2.2982341,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12180078901",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8674666,
+   "lon": 2.4266349,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1090016686",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9068202,
+   "lon": 2.343935,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8069059824",
+   "name": "Gagarine",
+   "lat": 48.8933423,
+   "lon": 2.2953677,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/958218086",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8124435,
+   "lon": 2.3092391,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "way/1061058763",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8635527,
+   "lon": 2.4310073,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/767221416",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9082396,
+   "lon": 2.3322491,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349887551",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9026737,
+   "lon": 2.3973462,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/12330508101",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8962654,
+   "lon": 2.2918685,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/624085914",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9116959,
+   "lon": 2.3367381,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/776759212",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8443059,
+   "lon": 2.2698324,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1112405002",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8571252,
+   "lon": 2.2680061,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/6593048059",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8199781,
+   "lon": 2.2841156,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/376354146",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8233242,
+   "lon": 2.2800535,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/12180078801",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8891564,
+   "lon": 2.4274437,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/599450679",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9143314,
+   "lon": 2.3318761,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11397846477",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8090138,
+   "lon": 2.2959807,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/671929480",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9162735,
+   "lon": 2.3349659,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "barrier": "wall"
+   }
+  },
+  {
+   "id": "way/579220857",
+   "name": "Parc canin",
+   "lat": 48.9162622,
+   "lon": 2.3252881,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/671929481",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9169295,
+   "lon": 2.3331684,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1080265859",
+   "name": "Pelouse Longchamp au bout des lacs",
+   "lat": 48.8697837,
+   "lon": 2.2599349,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.paris.fr/pages/des-espaces-de-liberte-pour-chiens-dans-les-bois-7025"
+   }
+  },
+  {
+   "id": "way/1091889146",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9094692,
+   "lon": 2.3037401,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/13059667241",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9192754,
+   "lon": 2.3316289,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6330505870",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.7924613,
+   "lon": 2.3661424,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8069059825",
+   "name": "Île de la Jatte",
+   "lat": 48.8995361,
+   "lon": 2.2775094,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/674108794",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.8995297,
+   "lon": 2.2774994,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1137589670",
+   "name": "Parc canin",
+   "lat": 48.8359577,
+   "lon": 2.2572265,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1115679232",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.802376,
+   "lon": 2.2945488,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8728653165",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9163101,
+   "lon": 2.3052033,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/242177285",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9019116,
+   "lon": 2.273229,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12833160288",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 48.9250385,
+   "lon": 2.3733363,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

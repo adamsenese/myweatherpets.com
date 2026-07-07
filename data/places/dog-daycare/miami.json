@@ -1,0 +1,46 @@
+{
+ "$schemaVersion": 1,
+ "city": "miami",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:29:36.454Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/5623495621",
+   "name": "Dog Day and Night Care",
+   "lat": 25.7941859,
+   "lon": -80.1424225,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13438866839",
+   "name": "Dogtown",
+   "lat": 25.7275389,
+   "lon": -80.2532762,
+   "distKm": 7.2,
+   "address": "3686 Grand Avenue, Miami, FL 33133",
+   "tags": {
+    "phone": "+1-305-448-5225",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 09:30-18:30; Su 11:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/435576883",
+   "name": "Rio's Pet Spa & Boarding",
+   "lat": 25.8922791,
+   "lon": -80.1859946,
+   "distKm": 14.5,
+   "address": "609 Northeast 127th Street, North Miami, FL 33161",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

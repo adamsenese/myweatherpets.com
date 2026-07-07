@@ -1,0 +1,131 @@
+{
+ "$schemaVersion": 1,
+ "city": "chicago",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:20:10.492Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 10,
+ "places": [
+  {
+   "id": "node/13430981172",
+   "name": "Pups Pet Club",
+   "lat": 41.8648036,
+   "lon": -87.6243366,
+   "distKm": 1.5,
+   "address": "1332 South Michigan Avenue, Chicago, IL 60605",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12881954961",
+   "name": "Wag Hotels",
+   "lat": 41.8804596,
+   "lon": -87.6578687,
+   "distKm": 2.3,
+   "address": "1214 West Monroe Street, Chicago, IL 60607",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5072709542",
+   "name": "Pack Life",
+   "lat": 41.8886593,
+   "lon": -87.6845251,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12463885045",
+   "name": "Wag Hotels",
+   "lat": 41.9222775,
+   "lon": -87.6656557,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3660929471",
+   "name": "Zen Dogs Chicago Logan Square",
+   "lat": 41.9252235,
+   "lon": -87.6874466,
+   "distKm": 7.1,
+   "address": "2409 North Western Avenue, Chicago, IL 60647",
+   "tags": {
+    "website": "https://www.zendogschicago.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11258878362",
+   "name": "Camp Wiggles",
+   "lat": 41.9462464,
+   "lon": -87.6496089,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12141260595",
+   "name": "Doggie Works",
+   "lat": 41.936992,
+   "lon": -87.6872737,
+   "distKm": 8.1,
+   "address": "2340 West Nelson Street",
+   "tags": {
+    "phone": "+1 773-697-7339",
+    "website": "https://doggieworks.net",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10119832878",
+   "name": "Hyde Bark Dog Walking and Pet Care",
+   "lat": 41.7948485,
+   "lon": -87.5878226,
+   "distKm": 9.9,
+   "address": "5508 South Lake Park Avenue, Chicago, IL 60637",
+   "tags": {
+    "phone": "+1-773-359-8158",
+    "website": "https://www.hydebarkchicago.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/327700192",
+   "name": "Doggie Day Play",
+   "lat": 41.893978,
+   "lon": -87.8044772,
+   "distKm": 14.6,
+   "address": "1135 Chicago Avenue, Oak Park, IL 60302",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5276746541",
+   "name": "Rogers Bark Pet Salon",
+   "lat": 42.0158502,
+   "lon": -87.6679458,
+   "distKm": 15.6,
+   "address": "1447 West Jarvis Avenue, Chicago, IL 60626",
+   "tags": {
+    "phone": "+1-773-274-2275",
+    "website": "http://rogersbark.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

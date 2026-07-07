@@ -1,0 +1,22 @@
+{
+ "$schemaVersion": 1,
+ "city": "hong-kong",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:23:54.765Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/10726301484",
+   "name": "Pet Pet HK",
+   "lat": 22.3218433,
+   "lon": 114.1710771,
+   "distKm": 0.3,
+   "address": "149A 洗衣街 Sai Yee Street",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

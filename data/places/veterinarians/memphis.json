@@ -1,0 +1,51 @@
+{
+ "$schemaVersion": 1,
+ "city": "memphis",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:27:51.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/403269847",
+   "name": "Berclair Downtown Animal Hospital",
+   "lat": 35.1290718,
+   "lon": -90.058738,
+   "distKm": 2.4,
+   "address": "668 South Main Street, Memphis, TN 38103",
+   "tags": {
+    "phone": "+1-901-685-8205"
+   }
+  },
+  {
+   "id": "way/293864059",
+   "name": "Walnut Grove Animal Clinic",
+   "lat": 35.1353966,
+   "lon": -89.9629244,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7476754452",
+   "name": "Pet Hospitals",
+   "lat": 35.1018982,
+   "lon": -89.8527985,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "phone": "+1 901-457-2995"
+   }
+  },
+  {
+   "id": "node/9177374879",
+   "name": "VetIQ",
+   "lat": 35.1763766,
+   "lon": -89.8397257,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

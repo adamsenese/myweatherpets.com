@@ -1,0 +1,116 @@
+{
+ "$schemaVersion": 1,
+ "city": "singapore",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:23:49.943Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "node/8108594194",
+   "name": "Off Leash",
+   "lat": 1.326711,
+   "lon": 103.8425467,
+   "distKm": 3.8,
+   "address": "592D Balestier Road",
+   "tags": {
+    "website": "https://ministryofpup.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10287172725",
+   "name": "Fluffydoll Catfe",
+   "lat": 1.3263364,
+   "lon": 103.8446747,
+   "distKm": 4,
+   "address": "563 Balestier Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/455158843",
+   "name": "Paw Kiddos",
+   "lat": 1.3249829,
+   "lon": 103.853682,
+   "distKm": 4.8,
+   "address": "52 Kim Keat Road, Singapore",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4712494101",
+   "name": "The Wagington",
+   "lat": 1.3028783,
+   "lon": 103.811634,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12083156038",
+   "name": "Rock N Ruff",
+   "lat": 1.373189,
+   "lon": 103.7631377,
+   "distKm": 6.7,
+   "address": "804/806 Upper Bukit Timah Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11115321810",
+   "name": "B'catz Cribs Catz Hotel",
+   "lat": 1.3320076,
+   "lon": 103.8825714,
+   "distKm": 7.3,
+   "address": "462 MacPherson Road, Singapore, 368180",
+   "tags": {
+    "website": "https://bcatzcribs.sg/",
+    "opening_hours": "Mo-Su 09:00-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4715487767",
+   "name": "The Fluffy Hut",
+   "lat": 1.3321721,
+   "lon": 103.8833351,
+   "distKm": 7.4,
+   "address": "492 MacPherson Road, Singapore, 368199",
+   "tags": {
+    "website": "https://thefluffyhut.com/",
+    "opening_hours": "Mo-Su 12:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/750799010",
+   "name": "Urban Paws",
+   "lat": 1.3367315,
+   "lon": 103.7456997,
+   "distKm": 8.4,
+   "address": "2 Jurong Gateway Road, Singapore, 608512",
+   "tags": {
+    "website": "https://www.urbanpaws.online/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10877063852",
+   "name": "Jardin de Paws",
+   "lat": 1.306587,
+   "lon": 103.9062156,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

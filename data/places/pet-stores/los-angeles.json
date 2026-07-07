@@ -1,0 +1,741 @@
+{
+ "$schemaVersion": 1,
+ "city": "los-angeles",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:20:46.782Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/4116096407",
+   "name": "Pussy & Pooch Pethouse and Pawbar",
+   "lat": 34.0452712,
+   "lon": -118.2497052,
+   "distKm": 0.9,
+   "address": "564 South Main Street, Los Angeles, CA",
+   "tags": {}
+  },
+  {
+   "id": "node/4885688167",
+   "name": "Pet Project",
+   "lat": 34.0461212,
+   "lon": -118.2506427,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13406788019",
+   "name": "Liberty Aquarium",
+   "lat": 34.0602963,
+   "lon": -118.2395154,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8394775007",
+   "name": "Petco",
+   "lat": 34.0454674,
+   "lon": -118.2597894,
+   "distKm": 1.7,
+   "address": "850 South Hope Street, Los Angeles, CA 90017",
+   "tags": {
+    "phone": "+1 213-372-1390",
+    "website": "https://stores.petco.com/ca/losangeles/pet-supplies-losangeles-ca-5125.html",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3119815050",
+   "name": "K9 Loft",
+   "lat": 34.0775791,
+   "lon": -118.2660491,
+   "distKm": 3.5,
+   "address": "2170 Sunset Boulevard",
+   "tags": {
+    "phone": "+1-213-484-6006",
+    "website": "https://www.k9loft.com/",
+    "opening_hours": "Mo-Su 07:00-21:00"
+   }
+  },
+  {
+   "id": "node/9772407100",
+   "name": "Gooby",
+   "lat": 34.0195377,
+   "lon": -118.209623,
+   "distKm": 4.8,
+   "address": "3220 East Olympic Boulevard, Los Angeles, CA 90023",
+   "tags": {
+    "phone": "+1-888-445-8011",
+    "website": "https://www.goobypet.com"
+   }
+  },
+  {
+   "id": "node/4092055908",
+   "name": "Echo Bark",
+   "lat": 34.0906034,
+   "lon": -118.2784792,
+   "distKm": 5.3,
+   "address": "3724 Sunset Boulevard, CA 90026",
+   "tags": {
+    "phone": "+1 323 660 2275",
+    "website": "https://www.echobarkinc.com/",
+    "opening_hours": "09:00-20:00"
+   }
+  },
+  {
+   "id": "node/10812746406",
+   "name": "Healthyspot",
+   "lat": 34.1037485,
+   "lon": -118.2586006,
+   "distKm": 5.9,
+   "address": "2550 Glendale Boulevard, 90039",
+   "tags": {}
+  },
+  {
+   "id": "node/10717836606",
+   "name": "Cats and Dogs",
+   "lat": 34.1089783,
+   "lon": -118.2717661,
+   "distKm": 6.8,
+   "address": "2833 Hyperion Avenue, 90027",
+   "tags": {
+    "phone": "+1-323-284-2578",
+    "website": "http://catsanddogsla.com",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/8140654493",
+   "name": "For Pets Only",
+   "lat": 34.1055991,
+   "lon": -118.2878687,
+   "distKm": 7.2,
+   "address": "1903 Hillhurst Avenue, Los Angeles, CA 90027",
+   "tags": {
+    "phone": "+1 323 664 4211"
+   }
+  },
+  {
+   "id": "node/6772010378",
+   "name": "Petco",
+   "lat": 34.1020017,
+   "lon": -118.309654,
+   "distKm": 8.2,
+   "address": "5507 Hollywood Boulevard, Los Angeles, CA 90028-6807",
+   "tags": {
+    "phone": "+1 323-871-4269",
+    "website": "https://stores.petco.com/ca/losangeles/pet-supplies-losangeles-ca-2134.html",
+    "opening_hours": "10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9755797317",
+   "name": "PetSmart",
+   "lat": 34.048161,
+   "lon": -118.335874,
+   "distKm": 8.5,
+   "address": "4550 West Pico Boulevard, Los Angeles, CA 90019",
+   "tags": {
+    "phone": "+1 323-602-0874",
+    "website": "https://www.petsmart.com/stores/us/ca/los-angeles-store2324.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/440308199",
+   "name": "Petco",
+   "lat": 33.9733618,
+   "lon": -118.232961,
+   "distKm": 8.8,
+   "address": "7308 South Alameda Street, Huntington Park, CA 90255",
+   "tags": {
+    "phone": "+1 323-826-9607",
+    "website": "https://stores.petco.com/ca/huntingtonpark/pet-supplies-huntingtonpark-ca-1159.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13438655403",
+   "name": "PetSmart",
+   "lat": 34.0862147,
+   "lon": -118.1515383,
+   "distKm": 9.3,
+   "address": "2568 West Commonwealth Avenue, Alhambra, CA 91803",
+   "tags": {
+    "phone": "+1-626-284-3390",
+    "website": "https://www.petsmart.com/stores/us/ca/alhambra-store0105.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3833300154",
+   "name": "Orange Bone",
+   "lat": 34.0835451,
+   "lon": -118.3551498,
+   "distKm": 10.8,
+   "address": "7574 Melrose Avenue, Los Angeles, 90046",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:30; Sa,Su 11:00-19:30"
+   }
+  },
+  {
+   "id": "node/5397493626",
+   "name": "Petco",
+   "lat": 34.1494525,
+   "lon": -118.2475211,
+   "distKm": 10.8,
+   "address": "231 North Glendale Avenue, Glendale, CA 91206",
+   "tags": {
+    "phone": "+1 818-548-0411",
+    "website": "https://stores.petco.com/ca/glendale/pet-supplies-glendale-ca-522.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/494325626",
+   "name": "The Urban Pet",
+   "lat": 34.1132489,
+   "lon": -118.1512744,
+   "distKm": 10.9,
+   "address": "1127 Fair Oaks Avenue, South Pasadena, CA 91030",
+   "tags": {
+    "website": "https://www.theurbanpet.net/"
+   }
+  },
+  {
+   "id": "node/11663856468",
+   "name": "Petco",
+   "lat": 33.9712319,
+   "lon": -118.1632644,
+   "distKm": 11.7,
+   "address": "6810 Eastern Avenue, Bell Gardens, CA 90201-3927",
+   "tags": {
+    "phone": "+1 323-761-5313",
+    "website": "https://stores.petco.com/ca/bellgardens/pet-supplies-bellgardens-ca-2137.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/451383119",
+   "name": "Petco",
+   "lat": 33.9545302,
+   "lon": -118.1867836,
+   "distKm": 12.1,
+   "address": "4663 Firestone Boulevard, South Gate, CA 90280",
+   "tags": {
+    "phone": "+1 323-357-3792",
+    "website": "https://stores.petco.com/ca/southgate/pet-supplies-southgate-ca-2123.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9015500148",
+   "name": "Pet Food Express",
+   "lat": 34.0726919,
+   "lon": -118.3761603,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/5247316845",
+   "name": "Healthy Spot",
+   "lat": 34.0893805,
+   "lon": -118.3770621,
+   "distKm": 13,
+   "address": "8525 Santa Monica Boulevard, West Hollywood, CA 90069",
+   "tags": {
+    "phone": "+1-310-657-2400",
+    "website": "https://healthyspot.com",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/5247316859",
+   "name": "Collar & Leash",
+   "lat": 34.0889834,
+   "lon": -118.3777855,
+   "distKm": 13,
+   "address": "8555 Santa Monica Boulevard, West Hollywood, CA 90069",
+   "tags": {
+    "phone": "+1-310-657-5142",
+    "website": "https://collarandleashla.com",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/9230973912",
+   "name": "Pet Food Express",
+   "lat": 34.059616,
+   "lon": -118.3914129,
+   "distKm": 13.6,
+   "address": "9153 West Olympic Boulevard, 90212",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-20:00, Su 09:30-19:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/5121729663",
+   "name": "Plows n' Clows Pet Parlor",
+   "lat": 34.090807,
+   "lon": -118.38482,
+   "distKm": 13.7,
+   "address": "8855 West Sunset Boulevard, West Hollywood, CA 90069",
+   "tags": {}
+  },
+  {
+   "id": "node/10249701609",
+   "name": "Rover Kennels",
+   "lat": 34.0256619,
+   "lon": -118.3887371,
+   "distKm": 13.7,
+   "address": "8930 Lindblade Street, 90232",
+   "tags": {
+    "phone": "+1-310-838-5599",
+    "website": "https://roverkennels.com/",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 09:00-21:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10897945070",
+   "name": "Royal Pet Center",
+   "lat": 33.9333191,
+   "lon": -118.2050962,
+   "distKm": 13.7,
+   "address": "3588 Martin Luther King Junior Boulevard, Lynwood, CA 90262",
+   "tags": {}
+  },
+  {
+   "id": "way/98045792",
+   "name": "Petco",
+   "lat": 34.0805391,
+   "lon": -118.3894707,
+   "distKm": 13.8,
+   "address": "508 North Doheny Drive, West Hollywood, CA 90048",
+   "tags": {
+    "phone": "+1 310-275-6012",
+    "website": "https://stores.petco.com/ca/westhollywood/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-22:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/451392214",
+   "name": "Petco",
+   "lat": 34.0340566,
+   "lon": -118.0952312,
+   "distKm": 13.8,
+   "address": "1425 North Montebello Boulevard, Montebello, CA 90640",
+   "tags": {
+    "phone": "+1 323-724-3194",
+    "website": "https://stores.petco.com/ca/montebello/pet-supplies-montebello-ca-587.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3184199194",
+   "name": "Pet Food Express",
+   "lat": 34.1402385,
+   "lon": -118.1320661,
+   "distKm": 14.2,
+   "address": "320 South Lake Avenue, Pasadena, CA",
+   "tags": {
+    "phone": "+1-626-578-1111",
+    "website": "https://www.petfoodexpress.com/stores/detail/pasadena/",
+    "opening_hours": "Mo-Fr 9:30-20:30;Sa 9:00-20:00;Su 10:00-18:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/7235876213",
+   "name": "Nature Aquarium",
+   "lat": 34.0222556,
+   "lon": -118.3997071,
+   "distKm": 14.8,
+   "address": "10028 Venice Boulevard, Culver City, 90232",
+   "tags": {
+    "opening_hours": "Mo,We-Sa 10:30-19:00; Su 10:30-17:00"
+   }
+  },
+  {
+   "id": "node/347726122",
+   "name": "CK Aquarium",
+   "lat": 34.0967612,
+   "lon": -118.091135,
+   "distKm": 14.9,
+   "address": "431 South San Gabriel Boulevard, San Gabriel, CA 91776",
+   "tags": {}
+  },
+  {
+   "id": "node/11799968569",
+   "name": "Centinella Feed & Pet Supplied",
+   "lat": 34.1691729,
+   "lon": -118.3218191,
+   "distKm": 14.9,
+   "address": "1505 West Verdugo Avenue",
+   "tags": {
+    "phone": "+1 818-840-0727",
+    "website": "https://www.centinelafeed.com/?lang=default",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/8301488681",
+   "name": "PetSmart",
+   "lat": 33.9982622,
+   "lon": -118.3948954,
+   "distKm": 15.2,
+   "address": "10900 Jefferson Boulevard, Culver City, CA 90230",
+   "tags": {
+    "phone": "+1 310-390-5120",
+    "website": "https://www.petsmart.com/stores/us/ca/culver-city-store1453.html",
+    "opening_hours": "Su 10:00-19:00; Mo-Sa 09:00-21:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8462756041",
+   "name": "Petco",
+   "lat": 33.9960056,
+   "lon": -118.3959855,
+   "distKm": 15.4,
+   "address": "5347 South Sepulveda Boulevard, Culver City, CA 90230",
+   "tags": {
+    "phone": "+1 310-390-7255",
+    "website": "https://stores.petco.com/ca/culvercity/pet-supplies-culvercity-ca-904.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8462756043",
+   "name": "Centinela Feed and Pet Supplies",
+   "lat": 33.9968501,
+   "lon": -118.3973668,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9396044985",
+   "name": "PetSmart",
+   "lat": 33.9827366,
+   "lon": -118.0996089,
+   "distKm": 15.4,
+   "address": "8852 Washington Boulevard, Pico Rivera, CA 90660",
+   "tags": {
+    "phone": "+1 562-566-4029",
+    "website": "https://www.petsmart.com/stores/us/ca/pico-rivera-store2280.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12120930674",
+   "name": "Pet Supplies Plus",
+   "lat": 34.0166416,
+   "lon": -118.4064391,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11395319165",
+   "name": "Burbank Scales 'N' Tails",
+   "lat": 34.1748216,
+   "lon": -118.3268646,
+   "distKm": 15.6,
+   "address": "1701 West Magnolia Boulevard, 91506",
+   "tags": {
+    "phone": "+1-818-842-6496",
+    "website": "https://www.facebook.com/burbankscalesntails/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/8092872742",
+   "name": "PetSmart",
+   "lat": 34.0732715,
+   "lon": -118.0713304,
+   "distKm": 16.1,
+   "address": "3530 Rosemead Boulevard, Rosemead, CA 91770",
+   "tags": {
+    "phone": "+1 626-537-2302",
+    "website": "https://www.petsmart.com/stores/us/ca/rosemead-store2465.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12644471707",
+   "name": "PetSmart",
+   "lat": 33.922181,
+   "lon": -118.3232615,
+   "distKm": 16.2,
+   "address": "2760 West 120th Street",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5141856949",
+   "name": "Lucky Dog Grooming",
+   "lat": 34.1775521,
+   "lon": -118.340581,
+   "distKm": 16.5,
+   "address": "2722 W Burbank Blvd",
+   "tags": {
+    "phone": "+1 818-861-7528",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/9712806585",
+   "name": "Unleashed",
+   "lat": 34.1581055,
+   "lon": -118.370966,
+   "distKm": 16.6,
+   "address": "4821 Lankershim Boulevard, North Hollywood, CA 91602",
+   "tags": {
+    "phone": "+1-818-763-2283",
+    "website": "https://stores.petco.com",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "way/451235709",
+   "name": "Petco",
+   "lat": 33.9366474,
+   "lon": -118.1285747,
+   "distKm": 16.7,
+   "address": "8580 Firestone Boulevard, Downey, CA 90241",
+   "tags": {
+    "phone": "+1 562-861-2093",
+    "website": "https://stores.petco.com/ca/downey/pet-supplies-downey-ca-1501.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5104442133",
+   "name": "Red Barn Pet Express",
+   "lat": 34.1641257,
+   "lon": -118.3690873,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7037530346",
+   "name": "Underwater World Enterprises",
+   "lat": 33.9417032,
+   "lon": -118.3717765,
+   "distKm": 17,
+   "address": "5242 West 104th Street, Inglewood, CA 90045",
+   "tags": {
+    "phone": "+1-310-670-1502",
+    "website": "https://www.uwwe.com"
+   }
+  },
+  {
+   "id": "node/3732374649",
+   "name": "Andersen's Pet Shop",
+   "lat": 34.2050267,
+   "lon": -118.2259817,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-17:00; Su 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/5732745719",
+   "name": "Petco",
+   "lat": 34.2001508,
+   "lon": -118.1886622,
+   "distKm": 17.2,
+   "address": "475 Foothill Boulevard, La Canada, CA 91011",
+   "tags": {
+    "phone": "+1 818-790-3165",
+    "website": "https://stores.petco.com/ca/lacanada/pet-supplies-lacanada-ca-577.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-19:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12588771901",
+   "name": "Ari's Pet Grooming & Supply",
+   "lat": 34.1738563,
+   "lon": -118.3611879,
+   "distKm": 17.3,
+   "address": "5670 Cahuenga Boulevard, 91601",
+   "tags": {
+    "phone": "+1 818 760 4437"
+   }
+  },
+  {
+   "id": "node/8409858818",
+   "name": "Centinela Feed and Pet Supplies",
+   "lat": 34.0377092,
+   "lon": -118.433996,
+   "distKm": 17.6,
+   "address": "11055 West Pico Boulevard, 90064",
+   "tags": {
+    "phone": "+1 310-473-5099",
+    "website": "https://centinelafeed.com",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/9244445775",
+   "name": "Petco",
+   "lat": 33.9569874,
+   "lon": -118.3966332,
+   "distKm": 17.6,
+   "address": "8801 South Sepulveda Boulevard, Los Angeles, CA 90045",
+   "tags": {
+    "phone": "+1 310-645-7198",
+    "website": "https://stores.petco.com/ca/losangeles/pet-supplies-losangeles-ca-910.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/456600875",
+   "name": "PetSmart",
+   "lat": 33.9254998,
+   "lon": -118.1298277,
+   "distKm": 17.6,
+   "address": "12126 Lakewood Boulevard, Downey, CA 90242",
+   "tags": {
+    "phone": "+1 562-803-1607",
+    "website": "https://www.petsmart.com/stores/us/ca/downey-store1229.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9357379969",
+   "name": "Petco",
+   "lat": 34.1850581,
+   "lon": -118.3497889,
+   "distKm": 17.7,
+   "address": "3525 West Victory Boulevard, Burbank, CA 91505",
+   "tags": {
+    "phone": "+1 818-566-8528",
+    "website": "https://stores.petco.com/ca/burbank/pet-supplies-burbank-ca-588.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/422517908",
+   "name": "Petco",
+   "lat": 34.0482806,
+   "lon": -118.4359368,
+   "distKm": 17.7,
+   "address": "1873 Westwood Boulevard, Los Angeles, CA 90025",
+   "tags": {
+    "phone": "+1 310-441-2073",
+    "website": "https://stores.petco.com/ca/losangeles/pet-supplies-losangeles-ca-537.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8500945326",
+   "name": "Living Art Aquatic Design",
+   "lat": 34.0385105,
+   "lon": -118.4367471,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4084455195",
+   "name": "Kriser's Natural Pet",
+   "lat": 34.1429326,
+   "lon": -118.4057562,
+   "distKm": 18,
+   "address": "12507 Ventura Boulevard, Studio City, CA 91604",
+   "tags": {}
+  },
+  {
+   "id": "node/5760609856",
+   "name": "The Healthy Spot",
+   "lat": 33.9765791,
+   "lon": -118.4173435,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8508036700",
+   "name": "Centinela Feed and Pet Supplies",
+   "lat": 34.0024374,
+   "lon": -118.4318513,
+   "distKm": 18.2,
+   "address": "3860 S Centinela Ave, 90066",
+   "tags": {
+    "phone": "+1-310-398-2134",
+    "website": "https://centinelafeed.com",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/9313057601",
+   "name": "Just Food For Dogs",
+   "lat": 34.0450701,
+   "lon": -118.4419102,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5695185847",
+   "name": "PetSmart",
+   "lat": 34.1520655,
+   "lon": -118.0815536,
+   "distKm": 18.6,
+   "address": "3347 East Foothill Boulevard, Pasadena, CA 91107",
+   "tags": {
+    "phone": "+1 626-351-8434",
+    "website": "https://www.petsmart.com/stores/us/ca/pasadena-store0109.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11541762496",
+   "name": "Petco",
+   "lat": 34.0776179,
+   "lon": -118.0389967,
+   "distKm": 19.1,
+   "address": "10663 Valley Boulevard, El Monte, CA 91731",
+   "tags": {
+    "phone": "+1 626-434-8818",
+    "website": "https://stores.petco.com/ca/elmonte/pet-supplies-elmonte-ca-2139.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

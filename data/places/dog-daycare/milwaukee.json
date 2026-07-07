@@ -1,0 +1,90 @@
+{
+ "$schemaVersion": 1,
+ "city": "milwaukee",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:28:33.123Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "way/663021975",
+   "name": "Central Bark Doggy Day Care",
+   "lat": 43.0344908,
+   "lon": -87.945506,
+   "distKm": 3.2,
+   "address": "333 North 25th Street, Milwaukee, WI 53233",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10243009847",
+   "name": "While You Were Out Pet Sitting Services",
+   "lat": 43.0061052,
+   "lon": -87.9030656,
+   "distKm": 3.7,
+   "address": "432 East Bay Street, Milwaukee, WI 53207",
+   "tags": {
+    "phone": "+1-414-324-9380",
+    "website": "https://www.whileyouwereoutpets.com/",
+    "opening_hours": "Mo-Fr 06:00-19:00, Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12912488786",
+   "name": "Central Bark",
+   "lat": 43.0889473,
+   "lon": -87.910548,
+   "distKm": 5.6,
+   "address": "3800 North 1st Street, Milwaukee, WI 53212",
+   "tags": {
+    "phone": "+1 414-332-2270",
+    "website": "https://www.centralbarkusa.com/milwaukee-eastside/",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-17:00; Su \"by appointment only\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9725680203",
+   "name": "Happy Paws",
+   "lat": 43.0438759,
+   "lon": -87.9812145,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11992132272",
+   "name": "It's a Dog's Life",
+   "lat": 42.9624653,
+   "lon": -88.0091239,
+   "distKm": 11.9,
+   "address": "4501 South 76th Street, Greenfield, WI 53220",
+   "tags": {
+    "phone": "+1-414-321-2364",
+    "website": "https://itsadogslifemilwaukee.com/",
+    "opening_hours": "Mo-Fr 05:30-18:30; Sa,Su off",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13741409429",
+   "name": "Animal Motel",
+   "lat": 43.1189208,
+   "lon": -88.0754198,
+   "distKm": 16.4,
+   "address": "13175 West Silver Spring Road, Butler, WI 53007-1013",
+   "tags": {
+    "phone": "+1-262-781-5200",
+    "website": "https://animalmotel.net",
+    "opening_hours": "Mo,We,Th,Fr 06:00-19:00; Tu 06:00-13:00,14:00-19:00; Sa 07:00-15:00; Su 09:00-10:00,16:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

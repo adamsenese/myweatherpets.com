@@ -1,0 +1,96 @@
+{
+ "$schemaVersion": 1,
+ "city": "buffalo",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:33:02.930Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "way/296573361",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.8918807,
+   "lon": -78.8948566,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1316242139",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9225103,
+   "lon": -78.916584,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/125813682",
+   "name": "Bark Park",
+   "lat": 42.9444591,
+   "lon": -78.909466,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1366075627",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.8709283,
+   "lon": -79.0549813,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13458889764",
+   "name": "Barkology",
+   "lat": 42.9359315,
+   "lon": -78.7048005,
+   "distKm": 15.2,
+   "address": "4939 Genesee Street, Buffalo, NY 14225",
+   "tags": {}
+  },
+  {
+   "id": "way/1467385625",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9358663,
+   "lon": -78.7045276,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1135764150",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.0164194,
+   "lon": -78.9568986,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2838718120",
+   "name": "Ellicott Island Bark Park",
+   "lat": 43.0311571,
+   "lon": -78.8259229,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/17140926",
+   "name": "Ellicott Island Park",
+   "lat": 43.0317916,
+   "lon": -78.8264305,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

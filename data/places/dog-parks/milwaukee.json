@@ -1,0 +1,138 @@
+{
+ "$schemaVersion": 1,
+ "city": "milwaukee",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:28:33.123Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 12,
+ "places": [
+  {
+   "id": "way/1424850678",
+   "name": "MKE Dog Park",
+   "lat": 43.0357633,
+   "lon": -87.9107092,
+   "distKm": 0.5,
+   "address": "103 West Clybourn Street, Milwaukee, WI 53203",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.mkedogpark.com/",
+    "opening_hours": "Mo-Su 06:00-22:00"
+   }
+  },
+  {
+   "id": "way/316615708",
+   "name": "Bay View Dog Park",
+   "lat": 43.0036357,
+   "lon": -87.8965626,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "yes",
+    "website": "https://county.milwaukee.gov/EN/Parks/Explore/Dog-Parks",
+    "opening_hours": "Mo-Su 05:00-22:00,06:00-22:00"
+   }
+  },
+  {
+   "id": "way/86802093",
+   "name": "Roverwest Dog Exercise Area",
+   "lat": 43.0776299,
+   "lon": -87.8996119,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/479646622",
+   "name": "Estabrook Dog Exercise Area",
+   "lat": 43.0988055,
+   "lon": -87.9054625,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/662208928",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.0495026,
+   "lon": -88.0364306,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1021771638",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9997244,
+   "lon": -88.0535307,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/430584840",
+   "name": "Warnimont Dog Exercise Area",
+   "lat": 42.9320113,
+   "lon": -87.848557,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/10657364",
+   "name": "Currie Dog Exercise Area",
+   "lat": 43.0879964,
+   "lon": -88.0501022,
+   "distKm": 12.9,
+   "address": "3535 North Mayfair Road, Wauwatosa, WI 53222",
+   "tags": {
+    "dog": "unleashed",
+    "access": "permit",
+    "website": "https://county.milwaukee.gov/EN/Parks/Explore/Dog-Parks"
+   }
+  },
+  {
+   "id": "way/1498080202",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.8835521,
+   "lon": -87.9176278,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/430079526",
+   "name": "Granville Dog Exercise Area",
+   "lat": 43.149451,
+   "lon": -88.0577391,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/39486577",
+   "name": "Katherine Kearney Carpenter Park",
+   "lat": 43.1980399,
+   "lon": -87.9190169,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1413429979",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.8718382,
+   "lon": -87.9415072,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

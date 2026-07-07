@@ -1,0 +1,517 @@
+{
+ "$schemaVersion": 1,
+ "city": "philadelphia",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:21:41.134Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 47,
+ "places": [
+  {
+   "id": "node/7393396260",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.9502611,
+   "lon": -75.1597886,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13372708418",
+   "name": "Bond Vet",
+   "lat": 39.9508939,
+   "lon": -75.1758528,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13309701028",
+   "name": "Art City Vets",
+   "lat": 39.9621885,
+   "lon": -75.1722355,
+   "distKm": 1.2,
+   "address": "2000 Hamilton Street, Philadelphia, PA 19130",
+   "tags": {
+    "phone": "+1 215-563-8387",
+    "website": "https://www.artcityvets.com/",
+    "opening_hours": "Mo-Fr 08:00-19:00"
+   }
+  },
+  {
+   "id": "node/13811433002",
+   "name": "Art City Vets & Urgent Care",
+   "lat": 39.9626023,
+   "lon": -75.1722545,
+   "distKm": 1.3,
+   "address": "2001 Hamilton Street, 19130",
+   "tags": {
+    "phone": "+1-215-563-8387",
+    "website": "https://www.artcityvets.com/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/10964619896",
+   "name": "The Cat Doctor",
+   "lat": 39.9648487,
+   "lon": -75.174126,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.thecatdr.com/"
+   }
+  },
+  {
+   "id": "node/13895596001",
+   "name": "Art Museum Veterinary Center",
+   "lat": 39.9669954,
+   "lon": -75.1657423,
+   "distKm": 1.6,
+   "address": "1710 Fairmount Avenue, 19130",
+   "tags": {
+    "website": "https://www.artmuseumvet.com/",
+    "opening_hours": "Mo, Th 09:00-19:00; Tu-We 09:00-18:00; Fr 09:00-17:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/3103172317",
+   "name": "Center City Veterinary Hospital",
+   "lat": 39.9491273,
+   "lon": -75.1458028,
+   "distKm": 1.7,
+   "address": "37 South 3rd Street, Philadelphia, 19106",
+   "tags": {
+    "phone": "+1 215-923-2284",
+    "website": "https://www.centercityvet.com",
+    "opening_hours": "Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/13030963397",
+   "name": "Pet Dermatology Center",
+   "lat": 39.948964,
+   "lon": -75.1432376,
+   "distKm": 1.9,
+   "address": "18 Letitia Street, Philadelphia, PA 19106",
+   "tags": {
+    "phone": "+1-267-427-2806",
+    "website": "https://www.petdermphilly.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr-Su off"
+   }
+  },
+  {
+   "id": "node/12075153269",
+   "name": "WAG: Whole Animal Gym",
+   "lat": 39.9407964,
+   "lon": -75.1456101,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.wag-philly.com/"
+   }
+  },
+  {
+   "id": "node/13885756801",
+   "name": "2nd Street Animal Hospital",
+   "lat": 39.9658575,
+   "lon": -75.1405308,
+   "distKm": 2.6,
+   "address": "966 North 2nd Street, 19123",
+   "tags": {
+    "phone": "+1-215-516-7000",
+    "website": "https://2ndstreetvet.com/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/10541913909",
+   "name": "Companion Pet Hospital",
+   "lat": 39.9291594,
+   "lon": -75.1537107,
+   "distKm": 2.8,
+   "address": "1524 South 5th Street, 19147",
+   "tags": {
+    "phone": "+1-215-703-7387",
+    "website": "https://companion-pets.com/",
+    "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-17:00"
+   }
+  },
+  {
+   "id": "node/12581658649",
+   "name": "PAWS Spay/Neuter & Wellness Clinic",
+   "lat": 39.9388172,
+   "lon": -75.1927271,
+   "distKm": 2.8,
+   "address": "2900 Grays Ferry Avenue, Philadelphia, PA 19146",
+   "tags": {
+    "phone": "+1 215 298 9680",
+    "website": "https://phillypaws.org/locations/spay-neuter-and-wellness-clinic/"
+   }
+  },
+  {
+   "id": "relation/1594372",
+   "name": "Ryan Veterinary Hospital",
+   "lat": 39.9507035,
+   "lon": -75.2005287,
+   "distKm": 3,
+   "address": "3900 Spruce Street, 19104",
+   "tags": {}
+  },
+  {
+   "id": "node/10962846395",
+   "name": "O'Neal Animal Hospital",
+   "lat": 39.9579558,
+   "lon": -75.2104561,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11019835699",
+   "name": "Love City Vet",
+   "lat": 39.9127593,
+   "lon": -75.1548093,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "phone": "+1 267-225-3500",
+    "website": "https://lovecityvet.com/"
+   }
+  },
+  {
+   "id": "node/6959225676",
+   "name": "Elmwood Central Animal Hospital",
+   "lat": 39.9247567,
+   "lon": -75.2264896,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7337232535",
+   "name": "Pennsylvania SPCA",
+   "lat": 40.0064092,
+   "lon": -75.1211837,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/266432570",
+   "name": "Collingswood Veterinery Hospital",
+   "lat": 39.9194861,
+   "lon": -75.0902389,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11979354966",
+   "name": "Rothman Animal Hospital",
+   "lat": 39.9162454,
+   "lon": -75.0897737,
+   "distKm": 7.6,
+   "address": "Collingswood, NJ 08107",
+   "tags": {
+    "phone": "+1 856-854-7575",
+    "website": "https://rothmananimalhospital.com/",
+    "opening_hours": "Mo,We 08:00-21:00; Tu,Th 08:00-19:00; Fr 08:00-19:30; Sa 08:00-15:00; Su off"
+   }
+  },
+  {
+   "id": "way/348218129",
+   "name": "Philadelphia Animal Hospital",
+   "lat": 39.9034057,
+   "lon": -75.2287248,
+   "distKm": 7.7,
+   "address": "7401 Holstein Avenue, Philadelphia, PA 19153",
+   "tags": {}
+  },
+  {
+   "id": "node/7221502003",
+   "name": "Chelwayne Animal Hospital",
+   "lat": 40.0308076,
+   "lon": -75.1777523,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11061539917",
+   "name": "Rox Falls Vet",
+   "lat": 40.0271308,
+   "lon": -75.2098564,
+   "distKm": 9.1,
+   "address": "5708 Ridge Avenue",
+   "tags": {
+    "phone": "+1-267-996-8838",
+    "website": "https://roxfallsvet.com/",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr-Su 09:00-17:00; PH off"
+   }
+  },
+  {
+   "id": "node/11459691250",
+   "name": "The Animedic",
+   "lat": 40.0232675,
+   "lon": -75.2191089,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12394998994",
+   "name": "Bond Vet",
+   "lat": 40.0093622,
+   "lon": -75.25566,
+   "distKm": 10,
+   "address": "650 Montgomery Avenue, Narberth, PA",
+   "tags": {
+    "phone": "+1-610-713-8034"
+   }
+  },
+  {
+   "id": "node/13438700764",
+   "name": "Hounds Town",
+   "lat": 40.0100428,
+   "lon": -75.2551627,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7297853029",
+   "name": "Broad Street Animal Hospital",
+   "lat": 40.04313,
+   "lon": -75.1435283,
+   "distKm": 10.2,
+   "address": "5905 North Broad Street, Philadelphia, PA",
+   "tags": {}
+  },
+  {
+   "id": "way/542461357",
+   "name": "Narberth Animal Hospital",
+   "lat": 40.0107226,
+   "lon": -75.2575453,
+   "distKm": 10.2,
+   "address": "East Montgomery Avenue, Penn Valley, PA 19072",
+   "tags": {
+    "website": "https://www.localvets.com/profile/narberth-animal-hospital-narberth-pennsylvania.html"
+   }
+  },
+  {
+   "id": "node/11225105216",
+   "name": "Roxborough Animal Hospital",
+   "lat": 40.0405302,
+   "lon": -75.2247883,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/446617861",
+   "name": "Garden State Animal Hospital",
+   "lat": 39.9305497,
+   "lon": -75.0313435,
+   "distKm": 11.7,
+   "address": "628 Haddonfield Road, Cherry Hill, NJ 08002",
+   "tags": {
+    "phone": "+1 856-662-4407",
+    "website": "https://vcahospitals.com/garden-state",
+    "opening_hours": "Mo-Th 08:00-19:30; Fr 08:00-15:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/13655127949",
+   "name": "Animedic",
+   "lat": 40.0585923,
+   "lon": -75.1897786,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13374994410",
+   "name": "Wissahickon Creek Veterinary Hospital",
+   "lat": 40.0478008,
+   "lon": -75.2353475,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1235541819",
+   "name": "Mount Airy Animal Hospital",
+   "lat": 40.0612491,
+   "lon": -75.189392,
+   "distKm": 12.3,
+   "address": "114 East Mount Airy Avenue, Philadelphia, PA 19119",
+   "tags": {
+    "phone": "+1 215-248-1886",
+    "website": "https://mtairyvet.com/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-16:00; Su 10:00-13:00"
+   }
+  },
+  {
+   "id": "way/484363365",
+   "name": "Schuykill Center Wildlife Clinic",
+   "lat": 40.0530391,
+   "lon": -75.2487237,
+   "distKm": 13.2,
+   "address": "101 Spring Lane, Philadelphia, PA",
+   "tags": {}
+  },
+  {
+   "id": "way/1454789830",
+   "name": "Keystone Veterinary Emergency and Referral",
+   "lat": 39.9724193,
+   "lon": -75.3174101,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13233480556",
+   "name": "Cottman Animal Hospital",
+   "lat": 40.0613963,
+   "lon": -75.0940142,
+   "distKm": 13.5,
+   "address": "421 Central Avenue, Cheltenham, PA 19012",
+   "tags": {
+    "phone": "+1 215-745-9030",
+    "website": "https://cottmanah.com/",
+    "opening_hours": "Mo-Th 09:00-17:00, Fr 08:00-14:00, Sa 08:30-14:00 Su Closed"
+   }
+  },
+  {
+   "id": "node/7164785632",
+   "name": "Liberty Veterinary Clinic",
+   "lat": 40.0696842,
+   "lon": -75.239661,
+   "distKm": 14.5,
+   "address": "8919 Ridge Avenue, Philadelphia, PA 19128",
+   "tags": {
+    "website": "https://www.libvetclinic.com/",
+    "opening_hours": "Mo-Th 08:00-12:00,14:00-17:00; Fr 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/556162135",
+   "name": "VCA Old Marple Animal Hospital",
+   "lat": 39.9432214,
+   "lon": -75.347729,
+   "distKm": 15.6,
+   "address": "820 West Springfield Road, Springfield Township, PA 19064",
+   "tags": {
+    "phone": "+1 610-328-1300",
+    "website": "https://vcahospitals.com/old-marple",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-14:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/440673125",
+   "name": "Cherry Hill Animal Hospital",
+   "lat": 39.9097376,
+   "lon": -74.9896325,
+   "distKm": 15.7,
+   "address": "1425 State Route 70, Cherry Hill, NJ 08034",
+   "tags": {}
+  },
+  {
+   "id": "way/1329526299",
+   "name": "Andorra Vet Clinic",
+   "lat": 40.0830555,
+   "lon": -75.2543318,
+   "distKm": 16.4,
+   "address": "638 Ridge Pike, Lafayette Hill, PA 19444",
+   "tags": {}
+  },
+  {
+   "id": "way/759043887",
+   "name": "Chestnut Hill Animal Hospital",
+   "lat": 40.096381,
+   "lon": -75.2134934,
+   "distKm": 16.5,
+   "address": "903 Bethlehem Pike, Erdenheim, PA 19038",
+   "tags": {
+    "phone": "+1 215-836-2950",
+    "website": "http://chestnuthillvet.com/",
+    "opening_hours": "Mo-We,Fr 09:00-18:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/1002168910",
+   "name": "Burl-Moor-Driben Animal Hospital",
+   "lat": 39.95012,
+   "lon": -74.9705742,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1338482645",
+   "name": "Broomall Animal Hospital",
+   "lat": 39.9823485,
+   "lon": -75.3624206,
+   "distKm": 17.1,
+   "address": "2518 West Chester Pike, Broomall, PA",
+   "tags": {
+    "phone": "+1 610-356-1758",
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-12:30; Su off"
+   }
+  },
+  {
+   "id": "way/1527953084",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.0932351,
+   "lon": -75.2844208,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/374158539",
+   "name": "Plymouth Animal Hospital",
+   "lat": 40.0947125,
+   "lon": -75.2858642,
+   "distKm": 18.8,
+   "address": "3004 Butler Pike, Conshohocken, PA 19428",
+   "tags": {
+    "phone": "+1 610-828-4788",
+    "website": "https://www.plymouthanimal.com/",
+    "opening_hours": "Mo-Tu,Th 10:30-13:00,16:30-19:00; We,Fr 09:30-13:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/12252372619",
+   "name": "The Cat Hospital of Media",
+   "lat": 39.9156899,
+   "lon": -75.3822268,
+   "distKm": 19,
+   "address": "102 West Baltimore Avenue, Media, PA 19063",
+   "tags": {
+    "phone": "+1 610-627-2287",
+    "website": "https://www.thecathospitalofmedia.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-11:00"
+   }
+  },
+  {
+   "id": "node/5713702990",
+   "name": "Providence Veterinary Hospital",
+   "lat": 39.8702308,
+   "lon": -75.362275,
+   "distKm": 19.1,
+   "address": "2400 Providence Avenue, Chester, PA 19013",
+   "tags": {}
+  },
+  {
+   "id": "node/11038397899",
+   "name": "BluePearl",
+   "lat": 40.0958988,
+   "lon": -75.2979009,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

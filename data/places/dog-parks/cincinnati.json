@@ -1,0 +1,179 @@
+{
+ "$schemaVersion": 1,
+ "city": "cincinnati",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:32:04.277Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "way/286204663",
+   "name": "Fido Field",
+   "lat": 39.1061395,
+   "lon": -84.5046241,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/280006169",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1087241,
+   "lon": -84.517846,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "surface": "paved",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/616462382",
+   "name": "Newport Dog Park",
+   "lat": 39.0973415,
+   "lon": -84.4877738,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1121920486",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.0845299,
+   "lon": -84.4660858,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1471843334",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1154136,
+   "lon": -84.4606402,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/264256898",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.0821205,
+   "lon": -84.4568398,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/13924498601",
+   "name": "Burwood Park",
+   "lat": 39.1467273,
+   "lon": -84.4553245,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1115331922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.0447985,
+   "lon": -84.4543826,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/19177018",
+   "name": "Doris Day Dog Park",
+   "lat": 39.1575402,
+   "lon": -84.5938915,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/16762719",
+   "name": "Armleder Dog Park",
+   "lat": 39.1209131,
+   "lon": -84.4051314,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "lit": "no",
+    "website": "https://www.greatparks.org/parks/otto-armleder-memorial-park/armleder-dog-park",
+    "opening_hours": "dawn-dusk"
+   }
+  },
+  {
+   "id": "way/1481055049",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1559172,
+   "lon": -84.4039926,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/136014359",
+   "name": "Kellogg Park Dog Field",
+   "lat": 39.0479363,
+   "lon": -84.3977363,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "website": "https://andersonparks.com/kellogg-park-dog-field-info/"
+   }
+  },
+  {
+   "id": "way/470405945",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1315228,
+   "lon": -84.355524,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1241545358",
+   "name": "Bark Park & Patio",
+   "lat": 39.0013335,
+   "lon": -84.6391814,
+   "distKm": 15.8,
+   "address": "7455 Burlington Pike, Florence, KY 41042",
+   "tags": {
+    "dog": "yes",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1330411149",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.0809073,
+   "lon": -84.3032768,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/616486986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2507945,
+   "lon": -84.3903782,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "$schemaVersion": 1,
+ "city": "auckland",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:23:05.438Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/9632312785",
+   "name": "Aqua Forest",
+   "lat": -36.8476842,
+   "lon": 174.7804729,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9380749000",
+   "name": "Pet Stock",
+   "lat": -36.8580591,
+   "lon": 174.7477733,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8657534571",
+   "name": "Pet.kiwi",
+   "lat": -36.8661182,
+   "lon": 174.7417541,
+   "distKm": 2.7,
+   "address": "381 Great North Road, 1021",
+   "tags": {
+    "website": "https://www.pet.kiwi/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-17:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/8343566239",
+   "name": "Ipet Store",
+   "lat": -36.8718317,
+   "lon": 174.7792588,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 869 2688",
+    "website": "https://www.ipetstorenewmarket.co.nz/"
+   }
+  },
+  {
+   "id": "node/7810960656",
+   "name": "Raw Essentials",
+   "lat": -36.8587813,
+   "lon": 174.7300132,
+   "distKm": 3.2,
+   "address": "401B Richmond Road",
+   "tags": {
+    "website": "https://www.rawessentials.co.nz"
+   }
+  },
+  {
+   "id": "node/13754032801",
+   "name": "ManeEvent",
+   "lat": -36.8804941,
+   "lon": 174.7968173,
+   "distKm": 4.6,
+   "address": "322 Remuera Road",
+   "tags": {
+    "phone": "+64 9 218 9719",
+    "website": "http://ManeEvent.co.nz",
+    "opening_hours": "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/12251110157",
+   "name": "Pet Stock",
+   "lat": -36.884154,
+   "lon": 174.7313918,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5080681470",
+   "name": "Animates",
+   "lat": -36.8855773,
+   "lon": 174.7307964,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "node/8305091971",
+   "name": "Nicsons Pet Store",
+   "lat": -36.8111956,
+   "lon": 174.7257538,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3745165048",
+   "name": "Animates",
+   "lat": -36.9090329,
+   "lon": 174.7555885,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 625 7915",
+    "website": "https://www.animates.co.nz/store-finder/three-kings",
+    "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:00-17:30, Su 09:00-17:00",
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "node/13898127601",
+   "name": "Pet Direct",
+   "lat": -36.9146481,
+   "lon": 174.7574041,
+   "distKm": 7.4,
+   "address": "15a Carr Road",
+   "tags": {}
+  },
+  {
+   "id": "node/13898127602",
+   "name": "Pet Direct",
+   "lat": -36.9149964,
+   "lon": 174.7549418,
+   "distKm": 7.4,
+   "address": "6a Carr Road",
+   "tags": {
+    "opening_hours": "Mo-Su 08:30-19:00"
+   }
+  },
+  {
+   "id": "node/13924447902",
+   "name": "Raw Essentials",
+   "lat": -36.8882228,
+   "lon": 174.8326365,
+   "distKm": 7.6,
+   "address": "87 Lunn Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/6167119419",
+   "name": "Animates",
+   "lat": -36.780305,
+   "lon": 174.7447216,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "node/13809546902",
+   "name": "Pet learn",
+   "lat": -36.9164004,
+   "lon": 174.7842784,
+   "distKm": 7.8,
+   "address": "368 Onehunga Mall",
+   "tags": {
+    "website": "http://seePetlearn.co.nz"
+   }
+  },
+  {
+   "id": "node/13924427109",
+   "name": "Animates",
+   "lat": -36.8907135,
+   "lon": 174.833652,
+   "distKm": 7.8,
+   "address": "Lunn Avenue",
+   "tags": {
+    "website": "http://Animates.co.nz",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:30; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13937342102",
+   "name": "Pet Stock",
+   "lat": -36.874652,
+   "lon": 174.8533352,
+   "distKm": 8.5,
+   "address": "Apirana Avenue",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:30-17:30; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13937348403",
+   "name": "Animates",
+   "lat": -36.8747607,
+   "lon": 174.8541028,
+   "distKm": 8.6,
+   "address": "152 Apirana Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/13921867801",
+   "name": "Petdirect",
+   "lat": -36.8997985,
+   "lon": 174.8458179,
+   "distKm": 9.3,
+   "address": "40 Mount Wellington Highway",
+   "tags": {}
+  },
+  {
+   "id": "node/4564481190",
+   "name": "Petware",
+   "lat": -36.8961571,
+   "lon": 174.8502185,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4560808092",
+   "name": "Pet Stop",
+   "lat": -36.9175765,
+   "lon": 174.825354,
+   "distKm": 9.5,
+   "address": "926 Great South Road",
+   "tags": {
+    "website": "http://PetStop.co.nz"
+   }
+  },
+  {
+   "id": "node/9611848658",
+   "name": "Animates",
+   "lat": -36.9100838,
+   "lon": 174.6890773,
+   "distKm": 9.5,
+   "address": "34 Clark Street",
+   "tags": {
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "node/8362848168",
+   "name": "Raw Essentials",
+   "lat": -36.9108829,
+   "lon": 174.6891569,
+   "distKm": 9.6,
+   "address": "2 Astley Avenue, Auckland, 0600",
+   "tags": {
+    "website": "https://www.rawessentials.co.nz/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/9518752472",
+   "name": "Animates",
+   "lat": -36.9173527,
+   "lon": 174.8382014,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "way/1116443916",
+   "name": "Petstock",
+   "lat": -36.7459259,
+   "lon": 174.7358916,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 479 7609",
+    "website": "https://www.petstock.co.nz/store/petstock-constellation-drive",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 09:00-17:00",
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/6888314564",
+   "name": "Bird Barn",
+   "lat": -36.8617168,
+   "lon": 174.6290535,
+   "distKm": 12,
+   "address": "158 Lincoln Road, Auckland, 0610",
+   "tags": {
+    "phone": "+64 9 838 8745",
+    "website": "https://birdbarn.nz/",
+    "opening_hours": "Mo-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13364769825",
+   "name": "Petstock",
+   "lat": -36.8662781,
+   "lon": 174.6307372,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13744200302",
+   "name": "Pet Shop Boyz",
+   "lat": -36.9108128,
+   "lon": 174.6510196,
+   "distKm": 12.2,
+   "address": "15 Glenmall Place",
+   "tags": {
+    "opening_hours": "Mo-We 10:00-17:00; Th,Fr 10:00-18:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13533585901",
+   "name": "Airbase that has no planes",
+   "lat": -36.7915197,
+   "lon": 174.626819,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5166973934",
+   "name": "Raw Essentials",
+   "lat": -36.9718215,
+   "lon": 174.778642,
+   "distKm": 13.8,
+   "address": "80 Ascot Road, Auckland, 2022",
+   "tags": {
+    "phone": "+64 9 275 7200",
+    "website": "https://rawessentials.co.nz/",
+    "opening_hours": "Mo-Fr 09:00-16:00; PH off"
+   }
+  },
+  {
+   "id": "node/1954276578",
+   "name": "Animates",
+   "lat": -36.8204942,
+   "lon": 174.6115319,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "website": "www.animates.com",
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "way/896041215",
+   "name": "Animates",
+   "lat": -36.7317673,
+   "lon": 174.707116,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "node/12492017065",
+   "name": "Animates",
+   "lat": -36.9290194,
+   "lon": 174.9036223,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "brand": "Animates"
+   }
+  },
+  {
+   "id": "node/12679446562",
+   "name": "Petstock Botany",
+   "lat": -36.9287786,
+   "lon": 174.914543,
+   "distKm": 16.1,
+   "address": "500 Ti Rakau Drive, Auckland, 2013",
+   "tags": {
+    "phone": "+64 9 265 1963",
+    "website": "https://www.petstock.co.nz/store/petstock-botany-8036",
+    "opening_hours": "Mo-Fr 08:30-18:00, Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/976138690",
+   "name": "Animates",
+   "lat": -36.9902409,
+   "lon": 174.8713674,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {
+    "brand": "Animates"
+   }
+  }
+ ]
+}

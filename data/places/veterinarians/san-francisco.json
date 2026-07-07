@@ -1,0 +1,668 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-francisco",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:25:35.497Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/3940894710",
+   "name": "San Francisco SPCA Veterinary Hospital - Mission Campus",
+   "lat": 37.7672325,
+   "lon": -122.4124314,
+   "distKm": 1,
+   "address": "201 Alabama Street, San Francisco, CA 94103",
+   "tags": {
+    "phone": "+1 415-554-3030",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "node/10607121851",
+   "name": "The Castro Animal Hospital",
+   "lat": 37.7690996,
+   "lon": -122.4292904,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12525217981",
+   "name": "Mission Pet Hospital",
+   "lat": 37.7613075,
+   "lon": -122.4216996,
+   "distKm": 1.5,
+   "address": "720 Valencia Street",
+   "tags": {
+    "phone": "+1 415-552-1969",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "node/9953617994",
+   "name": "Modern Animal",
+   "lat": 37.773247,
+   "lon": -122.4376452,
+   "distKm": 1.6,
+   "address": "401 Divisadero Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10635344677",
+   "name": "Sage veterinary center",
+   "lat": 37.7614721,
+   "lon": -122.4121895,
+   "distKm": 1.6,
+   "address": "600 Alabama Street",
+   "tags": {
+    "phone": "+1 415-566-0540",
+    "website": "https://sagecenters.com",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/3808454919",
+   "name": "Nob Hill Cat Clinic",
+   "lat": 37.7908263,
+   "lon": -122.4198021,
+   "distKm": 1.8,
+   "address": "1540 California Street, San Francisco, 94109",
+   "tags": {
+    "website": "https://nobhillcatclinic.com/",
+    "opening_hours": "Mo 09:00-18:00; Tu-Fr 08:30-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/4852550734",
+   "name": "San Francisco Pet Hospital",
+   "lat": 37.7766196,
+   "lon": -122.4393013,
+   "distKm": 1.8,
+   "address": "1371 Fulton Street, San Francisco, 94117",
+   "tags": {}
+  },
+  {
+   "id": "node/9696861037",
+   "name": "Polk Street Animal Hospital",
+   "lat": 37.7938531,
+   "lon": -122.4212269,
+   "distKm": 2.1,
+   "address": "Polk Street, San Francisco, CA",
+   "tags": {}
+  },
+  {
+   "id": "node/11523359210",
+   "name": "San Francisco Animal Medical Center",
+   "lat": 37.7912957,
+   "lon": -122.4346366,
+   "distKm": 2.3,
+   "address": "2343 Fillmore Street",
+   "tags": {
+    "phone": "+1 415-872-1872",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/10806697941",
+   "name": "Soma Animal Hospital",
+   "lat": 37.7740932,
+   "lon": -122.3917413,
+   "distKm": 2.4,
+   "address": "1110 4th Street",
+   "tags": {
+    "phone": "+1-415-727-9116",
+    "website": "https://www.somaanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/10869899313",
+   "name": "South Park Animal Hospital",
+   "lat": 37.7819839,
+   "lon": -122.3925388,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "phone": "+1 415-523-4404",
+    "opening_hours": "Tu-Fr 08:00-19:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/4564813980",
+   "name": "Urban Pet Hospital",
+   "lat": 37.7995453,
+   "lon": -122.4396343,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.sfurbanpethospital.com/index.html"
+   }
+  },
+  {
+   "id": "way/260053217",
+   "name": "Arguello Pet Hospital",
+   "lat": 37.7806368,
+   "lon": -122.4584651,
+   "distKm": 3.5,
+   "address": "530 Arguello Boulevard, San Francisco, CA 94118",
+   "tags": {
+    "website": "https://www.arguellopet.com/"
+   }
+  },
+  {
+   "id": "node/3523031625",
+   "name": "Seven Hills Veterinary Hospital",
+   "lat": 37.7434801,
+   "lon": -122.4396299,
+   "distKm": 3.9,
+   "address": "5264 Diamond Heights Boulevard, San Francisco, CA 94131",
+   "tags": {
+    "phone": "+1-415-642-7200",
+    "website": "https://www.sevenhillsvet.com/"
+   }
+  },
+  {
+   "id": "node/3658310643",
+   "name": "Omega",
+   "lat": 37.7633456,
+   "lon": -122.4664139,
+   "distKm": 4.3,
+   "address": "1333 9th Avenue, San Francisco, CA 94122",
+   "tags": {
+    "phone": "+1-415-527-3933",
+    "website": "https://omegavetsf.com",
+    "opening_hours": "Mo-Th 07:30-17:00; Fr-Su off"
+   }
+  },
+  {
+   "id": "node/3688683726",
+   "name": "Park Animal Hospital",
+   "lat": 37.7656793,
+   "lon": -122.4665873,
+   "distKm": 4.3,
+   "address": "1207 9th Avenue, San Francisco, CA 94122",
+   "tags": {
+    "phone": "+1 415-980-7393",
+    "website": "https://parkanimalvetsf.com/"
+   }
+  },
+  {
+   "id": "way/267692311",
+   "name": "Irving Pet Hospital",
+   "lat": 37.763982,
+   "lon": -122.473432,
+   "distKm": 4.9,
+   "address": "1434 Irving Street, San Francisco, CA 94122",
+   "tags": {
+    "phone": "+1 415-664-0191",
+    "website": "https://irvingpethospital.com/"
+   }
+  },
+  {
+   "id": "node/3540255700",
+   "name": "Healthy Pets",
+   "lat": 37.7369309,
+   "lon": -122.4700042,
+   "distKm": 6.1,
+   "address": "373 West Portal Avenue, San Francisco, CA 94127",
+   "tags": {
+    "website": "https://www.sfhealthypets.com/",
+    "opening_hours": "Mo-Fr 08:30-11:30,13:30-17:00; Tu,Th 08:30-12:30,13:30-17:00; Sa 09:30-16:00"
+   }
+  },
+  {
+   "id": "node/3781718563",
+   "name": "Veterinary Vision",
+   "lat": 37.7427552,
+   "lon": -122.4795574,
+   "distKm": 6.4,
+   "address": "1235 Taraval Street, San Francisco, CA 94116",
+   "tags": {}
+  },
+  {
+   "id": "way/173104353",
+   "name": "Especially Cats Veterinary Hospital",
+   "lat": 37.7426415,
+   "lon": -122.4806919,
+   "distKm": 6.5,
+   "address": "1339 Taraval Street, San Francisco, CA 94116",
+   "tags": {
+    "website": "https://especiallycats.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "way/282189753",
+   "name": "Ocean Avenue Veterinary Hospital",
+   "lat": 37.7230414,
+   "lon": -122.4533026,
+   "distKm": 6.5,
+   "address": "1001 Ocean Avenue, San Francisco, CA 94112",
+   "tags": {
+    "phone": "+1 415 5865327",
+    "website": "https://oceanavevethosp.com/",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 08:30-22:00"
+   }
+  },
+  {
+   "id": "way/287688535",
+   "name": "Balboa Pet Hospital",
+   "lat": 37.7756221,
+   "lon": -122.4946251,
+   "distKm": 6.6,
+   "address": "3329 Balboa Street, 94121",
+   "tags": {
+    "phone": "+1 415-752-3300",
+    "website": "https://balboapethospital.com",
+    "opening_hours": "Mo-Tu,Th-Fr 07:30-18:00; We 07:30-12:00,14:00-18:00; Sa 07:30-15:00; Su off"
+   }
+  },
+  {
+   "id": "way/288349742",
+   "name": "Avenues Pet Hospital",
+   "lat": 37.7421791,
+   "lon": -122.4900701,
+   "distKm": 7.2,
+   "address": "2221 Taraval Street, San Francisco, CA 94116",
+   "tags": {}
+  },
+  {
+   "id": "node/9951891978",
+   "name": "Animal Farm Pet Hospital",
+   "lat": 37.7112751,
+   "lon": -122.446421,
+   "distKm": 7.5,
+   "address": "5601 Mission Street, San Francisco, CA 94112",
+   "tags": {
+    "phone": "+1 415 333 0813",
+    "website": "https://animalfarmpethospital.com",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/4214359690",
+   "name": "Sunset Veterinary Hospital",
+   "lat": 37.7528858,
+   "lon": -122.503964,
+   "distKm": 7.8,
+   "address": "3741 Noriega Street, San Francisco, CA",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/4541749794",
+   "name": "St. Francis",
+   "lat": 37.6981139,
+   "lon": -122.4705571,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/9092892118",
+   "name": "Sausalito Animal Hospital",
+   "lat": 37.8596481,
+   "lon": -122.4863247,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8258306657",
+   "name": "Colma Animal Hospital",
+   "lat": 37.6750473,
+   "lon": -122.4569851,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473164522",
+   "name": "OakVet Animal Specialty Hospital",
+   "lat": 37.803472,
+   "lon": -122.2879224,
+   "distKm": 12,
+   "address": "1133 7th Street",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12321444091",
+   "name": "Providence Veterinary Clinic",
+   "lat": 37.7718163,
+   "lon": -122.2770417,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/724500311",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.667293,
+   "lon": -122.4667162,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/166672379",
+   "name": "Westborough Pet Hospital",
+   "lat": 37.6563721,
+   "lon": -122.4328446,
+   "distKm": 13.2,
+   "address": "45 Chestnut Avenue, South San Francisco, CA 94080",
+   "tags": {}
+  },
+  {
+   "id": "node/12586013989",
+   "name": "Jack London Pet Hospital",
+   "lat": 37.7958163,
+   "lon": -122.2708556,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8060668988",
+   "name": "Emeryville Vet Hospital",
+   "lat": 37.8304833,
+   "lon": -122.281221,
+   "distKm": 13.6,
+   "address": "3997 Emery Street, Emeryville, CA 94608",
+   "tags": {
+    "phone": "+1-510-338-3473",
+    "website": "http://www.emeryvillevet.com/"
+   }
+  },
+  {
+   "id": "node/6861718085",
+   "name": "Alameda Animal Shelter",
+   "lat": 37.7772429,
+   "lon": -122.2547039,
+   "distKm": 14.5,
+   "address": "2000 Alaska Packer Place, Alameda, CA 94501",
+   "tags": {}
+  },
+  {
+   "id": "node/8098733068",
+   "name": "Berkeley humane",
+   "lat": 37.857333,
+   "lon": -122.290975,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-510-845-7735",
+    "website": "https://berkeleyhumane.org/"
+   }
+  },
+  {
+   "id": "node/8105066497",
+   "name": "Berkeley Animal Hospital",
+   "lat": 37.857218,
+   "lon": -122.2880976,
+   "distKm": 14.7,
+   "address": "2709 San Pablo Avenue, Berkeley, CA 94702",
+   "tags": {
+    "website": "https://www.banimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/5233860338",
+   "name": "Modern Animal",
+   "lat": 37.8689262,
+   "lon": -122.2993948,
+   "distKm": 14.8,
+   "address": "760 Hearst Avenue, Berkeley, CA 94710",
+   "tags": {}
+  },
+  {
+   "id": "node/7681377974",
+   "name": "University Veterinary Hospital",
+   "lat": 37.8676299,
+   "lon": -122.2977654,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-510-841-4412",
+    "website": "https://www.uvhberkeley.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/12861672177",
+   "name": "VCA Bay Area Animal Hospital",
+   "lat": 37.8332642,
+   "lon": -122.263791,
+   "distKm": 15.1,
+   "address": "4501 Shattuck Avenue, Oakland",
+   "tags": {
+    "website": "https://vcahospitals.com/bay-area"
+   }
+  },
+  {
+   "id": "way/1122524653",
+   "name": "Adobe Pet Hospital",
+   "lat": 37.881496,
+   "lon": -122.525454,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1519114304",
+   "name": "PETS Emergency and Referral",
+   "lat": 37.8687032,
+   "lon": -122.2930908,
+   "distKm": 15.2,
+   "address": "1048 University Avenue, CA",
+   "tags": {
+    "phone": "+1-510-548-6684",
+    "website": "https://www.petsreferralcenter.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4049329113",
+   "name": "East Bay Veterinary Clinic",
+   "lat": 37.8091594,
+   "lon": -122.2502456,
+   "distKm": 15.3,
+   "address": "568 Grand Avenue",
+   "tags": {
+    "website": "https://www.eastbayvetclinic.com/site/home",
+    "opening_hours": "Su 10:00-17:00; Mo 08:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/12787040806",
+   "name": "Pets Referral Annex",
+   "lat": 37.8687488,
+   "lon": -122.2922593,
+   "distKm": 15.3,
+   "address": "2020 San Pablo Avenue, Berkeley, CA 94702",
+   "tags": {}
+  },
+  {
+   "id": "node/4432119617",
+   "name": "Grand Lake Veterinary Hospital",
+   "lat": 37.8132495,
+   "lon": -122.2471278,
+   "distKm": 15.7,
+   "address": "3331",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "way/465970674",
+   "name": "Alameda Pet Hospital",
+   "lat": 37.7691488,
+   "lon": -122.2413285,
+   "distKm": 15.7,
+   "address": "2275 Buena Vista Avenue, Alameda, CA 94501",
+   "tags": {
+    "phone": "+1-510-523-1626",
+    "website": "https://alamedapethospital.com",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-12:30,14:00-18:00; We 08:00-12:30,15:00-18:00; Sa,Su off"
+   }
+  },
+  {
+   "id": "node/3442060585",
+   "name": "Oceana Pet Hospital",
+   "lat": 37.644923,
+   "lon": -122.4911128,
+   "distKm": 15.8,
+   "address": "711 Oceana Boulevard, Pacifica, CA 94044",
+   "tags": {
+    "phone": "+1 650 355 6600",
+    "website": "http://www.oceanapet.com/"
+   }
+  },
+  {
+   "id": "node/6032721859",
+   "name": "Petvet Petfood Clinic",
+   "lat": 37.8334163,
+   "lon": -122.252794,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "phone": "+1-510-652-9822",
+    "opening_hours": "Su-Mo 10:00-15:00"
+   }
+  },
+  {
+   "id": "way/1004754020",
+   "name": "Broadway Pet Hospital",
+   "lat": 37.8337494,
+   "lon": -122.2523222,
+   "distKm": 16.1,
+   "address": "4920 Broadway, Oakland, CA 94611",
+   "tags": {
+    "phone": "+1 510 653 0212",
+    "website": "https://broadwaypethospital.com/",
+    "opening_hours": "Mo-Th 07:30-20:00; Fr 07:30-18:00; Sa 08:30-17:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/7109324496",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.8842596,
+   "lon": -122.2980794,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.banfield.com/",
+    "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/225638277",
+   "name": "Holistic Veterinary Care",
+   "lat": 37.829864,
+   "lon": -122.2474602,
+   "distKm": 16.3,
+   "address": "4382 Piedmont Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/4432132404",
+   "name": "Claremont Veterinary Hospital",
+   "lat": 37.8386757,
+   "lon": -122.2515846,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8736835308",
+   "name": "Codornices Veterinary Clinic",
+   "lat": 37.8887695,
+   "lon": -122.2989179,
+   "distKm": 16.5,
+   "address": "944, CA",
+   "tags": {
+    "phone": "+1-510-524-3062",
+    "website": "https://codornicesveterinaryclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/9210373604",
+   "name": "The Sams Clinic",
+   "lat": 37.8953653,
+   "lon": -122.5332185,
+   "distKm": 16.7,
+   "address": "489 Miller Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/9210373605",
+   "name": "Aggie Animal Dental Center",
+   "lat": 37.8950914,
+   "lon": -122.533484,
+   "distKm": 16.7,
+   "address": "487 Miller Avenue",
+   "tags": {
+    "opening_hours": "Mo-Th 7:30-17:00"
+   }
+  },
+  {
+   "id": "node/286081226",
+   "name": "Berkeley Dog and Cat Hospital",
+   "lat": 37.8648132,
+   "lon": -122.2662072,
+   "distKm": 16.8,
+   "address": "2126 Haste Street, Berkeley, CA",
+   "tags": {
+    "website": "https://www.berkeleydogandcat.com/site/home",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/778894154",
+   "name": "Campus Veterinary Clinic",
+   "lat": 37.8739401,
+   "lon": -122.2730972,
+   "distKm": 16.9,
+   "address": "1807 Martin Luther King Jr Way, Berkeley, CA",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:15-18:00; Sa 07:15-15:00"
+   }
+  },
+  {
+   "id": "node/1053632026",
+   "name": "Tamalpais Pet Hospital",
+   "lat": 37.9014535,
+   "lon": -122.5261777,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2877110037",
+   "name": "Cheshire Cat Clinic",
+   "lat": 37.8075014,
+   "lon": -122.2217997,
+   "distKm": 17.7,
+   "address": "4232 Park Blvd",
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 9:00-12:00, 14:00-17:00; We, Sa 9:00-13:00"
+   }
+  },
+  {
+   "id": "node/8759019760",
+   "name": "El cerito veterinary care",
+   "lat": 37.9066819,
+   "lon": -122.3052004,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

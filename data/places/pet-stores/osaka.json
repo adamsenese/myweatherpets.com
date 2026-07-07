@@ -1,0 +1,557 @@
+{
+ "$schemaVersion": 1,
+ "city": "osaka",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:23:36.938Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/5625565225",
+   "name": "GEORGE",
+   "lat": 34.6884632,
+   "lon": 135.4954098,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5673691823",
+   "name": "GILGIO",
+   "lat": 34.6875834,
+   "lon": 135.4906383,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4366587791",
+   "name": "P2 DOG&CAT",
+   "lat": 34.7042427,
+   "lon": 135.4947314,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "10:00-21:00"
+   }
+  },
+  {
+   "id": "node/5194081016",
+   "name": "P's first",
+   "lat": 34.7051805,
+   "lon": 135.4955174,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5670775521",
+   "name": "mole mole",
+   "lat": 34.6849603,
+   "lon": 135.4905572,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12153384718",
+   "name": "COO&RIKU",
+   "lat": 34.7065266,
+   "lon": 135.499461,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13516918769",
+   "name": "Coo&RIKU",
+   "lat": 34.7051913,
+   "lon": 135.4955763,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12153384714",
+   "name": "P’s-first",
+   "lat": 34.7070901,
+   "lon": 135.4995673,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2467422418",
+   "name": "ペットランド",
+   "lat": 34.6793869,
+   "lon": 135.5065757,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2300372679",
+   "name": "フレンド",
+   "lat": 34.706668,
+   "lon": 135.511409,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11645710254",
+   "name": "Rabit-Ruru",
+   "lat": 34.6773135,
+   "lon": 135.509212,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13446240395",
+   "name": "P's-first",
+   "lat": 34.6748077,
+   "lon": 135.5000664,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5627828021",
+   "name": "dog salon JAM",
+   "lat": 34.7139632,
+   "lon": 135.4948417,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2345136845",
+   "name": "ペットパラダイス",
+   "lat": 34.670325,
+   "lon": 135.501389,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5729544323",
+   "name": "犬のようちえん",
+   "lat": 34.6734195,
+   "lon": 135.4885506,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4327608691",
+   "name": "Fa.Fa",
+   "lat": 34.6709435,
+   "lon": 135.4906286,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5694092121",
+   "name": "Loro",
+   "lat": 34.6718435,
+   "lon": 135.4857427,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5406261936",
+   "name": "いぬの学校 ひまわり保育園",
+   "lat": 34.7089771,
+   "lon": 135.5296018,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9965071717",
+   "name": "Fa-Fa de rave",
+   "lat": 34.6686473,
+   "lon": 135.4897359,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5406277434",
+   "name": "ペットルーム パンサー",
+   "lat": 34.7089222,
+   "lon": 135.5312794,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6276380410",
+   "name": "日本愛犬社",
+   "lat": 34.6663733,
+   "lon": 135.5062465,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5377512242",
+   "name": "海水魚専門店 アキュリ",
+   "lat": 34.6817479,
+   "lon": 135.470544,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6068568990",
+   "name": "やどかり屋",
+   "lat": 34.6712303,
+   "lon": 135.5257773,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2052320503",
+   "name": "パピー",
+   "lat": 34.6762999,
+   "lon": 135.4720258,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4858038213",
+   "name": "◎SAKAPET",
+   "lat": 34.6769314,
+   "lon": 135.4707703,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2294536825",
+   "name": "マロン",
+   "lat": 34.662221,
+   "lon": 135.497675,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4327627792",
+   "name": "P2 Petshop",
+   "lat": 34.6616488,
+   "lon": 135.5022961,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4950156905",
+   "name": "いぬの赤ちゃん",
+   "lat": 34.6592552,
+   "lon": 135.5041828,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5997684685",
+   "name": "桃坂動物クリニック",
+   "lat": 34.6639089,
+   "lon": 135.5245948,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13394158789",
+   "name": "ペットスタイル",
+   "lat": 34.6577307,
+   "lon": 135.4969241,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "phone": "+81 6-6647-3988"
+   }
+  },
+  {
+   "id": "node/5389482023",
+   "name": "ハリネズミ ブリーダーズカフェ",
+   "lat": 34.7226826,
+   "lon": 135.4734274,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4759637720",
+   "name": "ペットサロンさくら",
+   "lat": 34.7036542,
+   "lon": 135.5481171,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5374586046",
+   "name": "リトルフィールド 此花店",
+   "lat": 34.6831454,
+   "lon": 135.4572491,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8395567718",
+   "name": "ペットスタイル",
+   "lat": 34.6843972,
+   "lon": 135.4563509,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5406680623",
+   "name": "遊遊",
+   "lat": 34.7252704,
+   "lon": 135.5307596,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2623366282",
+   "name": "A&ME",
+   "lat": 34.7147306,
+   "lon": 135.5443055,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "website": "http://www.pet-jp.com/"
+   }
+  },
+  {
+   "id": "node/5406680736",
+   "name": "ペットランド ピースワン 城北店",
+   "lat": 34.7261046,
+   "lon": 135.5324808,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2569415820",
+   "name": "ハイマート",
+   "lat": 34.714793,
+   "lon": 135.5467118,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5385207822",
+   "name": "ペット美容室 ウエストワン",
+   "lat": 34.7142814,
+   "lon": 135.4540327,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/578863385",
+   "name": "ペットパラダイス DX",
+   "lat": 34.6486535,
+   "lon": 135.5118762,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5380029334",
+   "name": "ドッグサロン チョコラ",
+   "lat": 34.706193,
+   "lon": 135.4479045,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11263761382",
+   "name": "淡路鳥園",
+   "lat": 34.7399847,
+   "lon": 135.5116302,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13898726591",
+   "name": "ペットの森",
+   "lat": 34.7387494,
+   "lon": 135.4852049,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5278731536",
+   "name": "ドックサロンRin",
+   "lat": 34.6469507,
+   "lon": 135.4940137,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5278731921",
+   "name": "ペット王国 鶴見橋店",
+   "lat": 34.6460557,
+   "lon": 135.4958175,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4090538622",
+   "name": "Happy Dogs",
+   "lat": 34.6625351,
+   "lon": 135.5470562,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5408687840",
+   "name": "ペットショップ ローズ",
+   "lat": 34.7244602,
+   "lon": 135.5473555,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3698203926",
+   "name": "ペットスーパー WAN",
+   "lat": 34.6446507,
+   "lon": 135.5120816,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5029738166",
+   "name": "ドッグハウス ごん",
+   "lat": 34.6481401,
+   "lon": 135.5265015,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2969764565",
+   "name": "ESP",
+   "lat": 34.7390746,
+   "lon": 135.5294985,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3281570361",
+   "name": "ワンニャンホンポ",
+   "lat": 34.723889,
+   "lon": 135.553093,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5389481821",
+   "name": "ペットハウス クララ",
+   "lat": 34.7296457,
+   "lon": 135.4571145,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4221742237",
+   "name": "あいらぶ ペット",
+   "lat": 34.6648902,
+   "lon": 135.5548316,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11205474047",
+   "name": "南国の熱帯魚",
+   "lat": 34.7402581,
+   "lon": 135.5305758,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/515490666",
+   "name": "ワンピカランド ラブ",
+   "lat": 34.6586802,
+   "lon": 135.5507114,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/422903558",
+   "name": "オセロ",
+   "lat": 34.6505742,
+   "lon": 135.5415248,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4815738120",
+   "name": "ペットのたまご",
+   "lat": 34.6643187,
+   "lon": 135.5590465,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/362193712",
+   "name": "DOG SALON guu",
+   "lat": 34.6606608,
+   "lon": 135.5566946,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/441755618",
+   "name": "エム・アール ドッグ",
+   "lat": 34.6492796,
+   "lon": 135.5435804,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2847630609",
+   "name": "ペット王国",
+   "lat": 34.6457266,
+   "lon": 135.5393104,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "$schemaVersion": 1,
+ "city": "rochester",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:36:03.076Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "node/2781277378",
+   "name": "Camp Bow-Wow",
+   "lat": 43.0897966,
+   "lon": -77.6178497,
+   "distKm": 7.5,
+   "address": "85 Mushroom Boulevard, Rochester, NY 14623",
+   "tags": {
+    "phone": "+1 585-613-9247",
+    "website": "https://www.campbowwow.com/us/ny/rochester/",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13730975701",
+   "name": "Paws and Claws Pet Care, Inc.",
+   "lat": 43.1234277,
+   "lon": -77.5009056,
+   "distKm": 9.5,
+   "address": "23 Linden Park, Rochester, NY 14625",
+   "tags": {
+    "phone": "+1-585-600-7297",
+    "website": "https://pawsandclaws585.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/851117906",
+   "name": "Green Valley K9",
+   "lat": 43.0702917,
+   "lon": -77.6095204,
+   "distKm": 9.6,
+   "address": "810 Calkins Road, Rochester, NY 14623",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1115106422",
+   "name": "Furry Paws Doggy Daycare",
+   "lat": 43.1914354,
+   "lon": -77.7995048,
+   "distKm": 15.9,
+   "address": "42 Slayton Avenue, Spencerport, NY 14559",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "$schemaVersion": 1,
+ "city": "jacksonville",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:22:45.556Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 14,
+ "places": [
+  {
+   "id": "node/3347361427",
+   "name": "BARK",
+   "lat": 30.3147405,
+   "lon": -81.6805444,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "phone": "+1 904-356-4530",
+    "website": "https://www.thebarkboutique.com/",
+    "opening_hours": "Mo,We,Fr 09:00-18:00; Tu,Th 08:00-18:00; Sa 09:00-17:00; Su 13:00-17:00"
+   }
+  },
+  {
+   "id": "node/7838457940",
+   "name": "Pro-Vet Supply Store",
+   "lat": 30.3177098,
+   "lon": -81.6827457,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6829254098",
+   "name": "Pet Supermarket",
+   "lat": 30.2873224,
+   "lon": -81.7214958,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/3539924908",
+   "name": "PetSmart",
+   "lat": 30.261854,
+   "lon": -81.5280396,
+   "distKm": 14.5,
+   "address": "10261 River Marsh Drive, Jacksonville, FL 32246",
+   "tags": {
+    "phone": "+1 904-997-1335",
+    "website": "https://www.petsmart.com/stores/us/fl/jacksonville-store0297.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/567634617",
+   "name": "PetSmart",
+   "lat": 30.4761571,
+   "lon": -81.6426968,
+   "distKm": 16.1,
+   "address": "13141 City Station Drive, Jacksonville, FL 32218",
+   "tags": {
+    "phone": "+1 904-696-0289",
+    "website": "https://www.petsmart.com/stores/us/fl/jacksonville-store1438.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/850313928",
+   "name": "Pet Supermarket",
+   "lat": 30.1875612,
+   "lon": -81.627015,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "way/236786346",
+   "name": "PetSmart",
+   "lat": 30.1887864,
+   "lon": -81.7353812,
+   "distKm": 17.7,
+   "address": "1919 Wells Road, Orange Park, FL 32073",
+   "tags": {
+    "phone": "+1 904-579-2362",
+    "website": "https://www.petsmart.com/stores/us/fl/orange-park-store2283.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5931694105",
+   "name": "PetSmart",
+   "lat": 30.1999124,
+   "lon": -81.550231,
+   "distKm": 17.9,
+   "address": "8801 Southside Boulevard, Jacksonville, FL 32256",
+   "tags": {
+    "phone": "+1 904-519-8878",
+    "website": "https://www.petsmart.com/stores/us/fl/jacksonville-store0300.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6226129603",
+   "name": "Petco",
+   "lat": 30.1720977,
+   "lon": -81.6267044,
+   "distKm": 18,
+   "address": "11111 San Jose Boulevard, Jacksonville, FL 32223",
+   "tags": {
+    "phone": "+1 904-260-3225",
+    "website": "https://stores.petco.com/fl/jacksonville/pet-supplies-jacksonville-fl-2789.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7089609047",
+   "name": "Pet Supermarket",
+   "lat": 30.192947,
+   "lon": -81.5486368,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "way/707068998",
+   "name": "PetSmart",
+   "lat": 30.159614,
+   "lon": -81.6339921,
+   "distKm": 19.3,
+   "address": "11700 San Jose Boulevard, Jacksonville, FL 32223",
+   "tags": {
+    "phone": "+1 904-831-3466",
+    "website": "https://www.petsmart.com/stores/us/fl/jacksonville-store2761.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6644655736",
+   "name": "Earth Pets Natural Pet Market",
+   "lat": 30.1586835,
+   "lon": -81.6334863,
+   "distKm": 19.4,
+   "address": "11740 San Jose Boulevard, Jacksonville, FL 32223",
+   "tags": {
+    "phone": "+1-904-677-4429",
+    "website": "http://www.earthpetsflorida.com",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:30-17:30; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/6644655738",
+   "name": "Mount Ruffmore",
+   "lat": 30.1588304,
+   "lon": -81.6336915,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13962688078",
+   "name": "Petland",
+   "lat": 30.2859936,
+   "lon": -81.455053,
+   "distKm": 19.9,
+   "address": "13740 Beach Boulevard, Jacksonville, FL 32224",
+   "tags": {
+    "phone": "+1-904-330-1555",
+    "website": "https://jaxpetland.com/",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+    "brand": "Petland"
+   }
+  }
+ ]
+}

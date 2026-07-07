@@ -1,0 +1,227 @@
+{
+ "$schemaVersion": 1,
+ "city": "cincinnati",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:32:04.277Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 19,
+ "places": [
+  {
+   "id": "node/12066590032",
+   "name": "Pet Wants",
+   "lat": 39.1108701,
+   "lon": -84.5155773,
+   "distKm": 0.9,
+   "address": "1409 Vine Street, Cincinnati, OH 45202",
+   "tags": {
+    "phone": "+1 513-621-3647",
+    "website": "https://www.petwantscincy.com/",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-19:00"
+   }
+  },
+  {
+   "id": "node/2748017973",
+   "name": "Pet Wants",
+   "lat": 39.1156561,
+   "lon": -84.5192352,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/142745226",
+   "name": "Strasse Dog",
+   "lat": 39.0838943,
+   "lon": -84.517721,
+   "distKm": 2.2,
+   "address": "605 Main Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10162438417",
+   "name": "PetSmart",
+   "lat": 39.089149,
+   "lon": -84.4777304,
+   "distKm": 3.3,
+   "address": "156 Pavillion Parkway, Newport, KY 41071",
+   "tags": {
+    "phone": "+1 859-814-0052",
+    "website": "https://www.petsmart.com/stores/us/ky/newport-store2344.html",
+    "opening_hours": "Su 10:00-19:00; Mo-Sa 09:00-21:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10014399351",
+   "name": "Argos",
+   "lat": 39.1290104,
+   "lon": -84.4772216,
+   "distKm": 4.2,
+   "address": "2801 Woodburn Avenue, Cincinnati, OH 45206",
+   "tags": {
+    "phone": "+1 513-221-4451",
+    "website": "https://www.argospet.com/"
+   }
+  },
+  {
+   "id": "way/69545868",
+   "name": "Petey's Pet Shop",
+   "lat": 39.1424237,
+   "lon": -84.5200356,
+   "distKm": 4.4,
+   "address": "311 Howell Avenue, Cincinnati, OH 45220",
+   "tags": {}
+  },
+  {
+   "id": "node/13411195028",
+   "name": "Hollywood Feed",
+   "lat": 39.1444724,
+   "lon": -84.4414545,
+   "distKm": 7.6,
+   "address": "3663 Michigan Avenue, Cincinnati, OH 45208",
+   "tags": {}
+  },
+  {
+   "id": "way/1058967483",
+   "name": "Petco",
+   "lat": 39.0509243,
+   "lon": -84.5742567,
+   "distKm": 7.9,
+   "address": "575 Clock Tower Way, Crescent Springs, KY 41017",
+   "tags": {
+    "phone": "+1 859-486-2094",
+    "website": "https://stores.petco.com/ky/crescentsprings/pet-supplies-crescentsprings-ky-2546.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8934738380",
+   "name": "Fuzzy Butts",
+   "lat": 39.1487525,
+   "lon": -84.5982141,
+   "distKm": 9,
+   "address": "3022 Harrison Avenue, Cincinnati, OH 45211",
+   "tags": {}
+  },
+  {
+   "id": "way/61358777",
+   "name": "PetSmart",
+   "lat": 39.1619553,
+   "lon": -84.4217211,
+   "distKm": 10.2,
+   "address": "3401 Alamo Avenue, Cincinnati, OH 45209",
+   "tags": {
+    "phone": "+1 513-731-9400",
+    "website": "https://www.petsmart.com/stores/us/oh/cincinnati-store1237.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/201065787",
+   "name": "Montfort Aquarium & Pets",
+   "lat": 39.2073138,
+   "lon": -84.5828492,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1352888274",
+   "name": "PetSmart",
+   "lat": 39.0201754,
+   "lon": -84.6319733,
+   "distKm": 13.9,
+   "address": "1060 Hansel Avenue, Florence, KY 41042",
+   "tags": {
+    "phone": "+1 859-525-9215",
+    "website": "https://www.petsmart.com/stores/us/ky/florence-store0672.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3503392696",
+   "name": "Petco",
+   "lat": 39.0758403,
+   "lon": -84.3531862,
+   "distKm": 14,
+   "address": "7769 Five Mile Road, Cincinnati, OH 45230",
+   "tags": {
+    "phone": "+1 513-624-9972",
+    "website": "https://stores.petco.com/oh/cincinnati/pet-supplies-cincinnati-oh-2827.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13866940032",
+   "name": "World of Pets",
+   "lat": 39.0081205,
+   "lon": -84.6240752,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/57767388",
+   "name": "Pet Supplies Plus",
+   "lat": 39.0725904,
+   "lon": -84.3177519,
+   "distKm": 17.1,
+   "address": "8544 Beechmont Avenue, Cincinnati, OH 45255",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/6919299057",
+   "name": "Pet Valu",
+   "lat": 39.2439404,
+   "lon": -84.5937012,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/3755431173",
+   "name": "Petco",
+   "lat": 39.2340279,
+   "lon": -84.3775573,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6919279688",
+   "name": "PetSmart",
+   "lat": 39.2592657,
+   "lon": -84.6002944,
+   "distKm": 19,
+   "address": "10164 Colerain Avenue, Cincinnati, OH 45251",
+   "tags": {
+    "phone": "+1 513-245-9500",
+    "website": "https://www.petsmart.com/stores/us/oh/cincinnati-store0539.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10964130315",
+   "name": "Pet Supplies Plus",
+   "lat": 38.9297547,
+   "lon": -84.5484442,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

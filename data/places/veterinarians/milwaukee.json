@@ -1,0 +1,340 @@
+{
+ "$schemaVersion": 1,
+ "city": "milwaukee",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:28:33.123Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "node/1316789605",
+   "name": "Cat Care Clinic",
+   "lat": 43.0333577,
+   "lon": -87.9089907,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We 07:30-19:00; Tu,Th-Fr 07:30-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/9641116117",
+   "name": "Milwaukee Vet Clinic",
+   "lat": 43.0302866,
+   "lon": -87.9102354,
+   "distKm": 1,
+   "address": "107 E Seeboth St, 53204",
+   "tags": {
+    "phone": "+1-414-310-8997"
+   }
+  },
+  {
+   "id": "node/3985443355",
+   "name": "Downtown Veterinary Clinic",
+   "lat": 43.0480046,
+   "lon": -87.8999266,
+   "distKm": 1.1,
+   "address": "931 East Ogden Avenue, Milwaukee, WI 53202",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/6348501142",
+   "name": "Small Animal Hospital",
+   "lat": 43.0610093,
+   "lon": -87.8901449,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We-Th 07:30-19:00; Tu,Fr 07:30-17:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/8920569738",
+   "name": "Bayshore Veterinary Clinic",
+   "lat": 43.0856171,
+   "lon": -87.8877268,
+   "distKm": 5.4,
+   "address": "3723 North Oakland Avenue, Shorewood, WI 53211",
+   "tags": {}
+  },
+  {
+   "id": "way/660495559",
+   "name": "Shorewood Animal Hospital",
+   "lat": 43.0895067,
+   "lon": -87.8785821,
+   "distKm": 6.1,
+   "address": "2500 East Capitol Drive, Shorewood, WI 53211",
+   "tags": {
+    "phone": "+1-414-962-6662"
+   }
+  },
+  {
+   "id": "node/11457726126",
+   "name": "St. Francis Animal Hospital",
+   "lat": 42.9742468,
+   "lon": -87.9092313,
+   "distKm": 7.2,
+   "address": "3860 South Howell Avenue, Milwaukee, WI 53207",
+   "tags": {
+    "phone": "+1-414-744-2240",
+    "website": "https://stfrancisvetmilwaukee.com/"
+   }
+  },
+  {
+   "id": "node/9546434589",
+   "name": "Center for Animal Health",
+   "lat": 43.0402196,
+   "lon": -87.9976307,
+   "distKm": 7.4,
+   "address": "827 North 68th Street, Wauwatosa, WI 53213",
+   "tags": {
+    "website": "https://centerforanimalhealth.net/",
+    "opening_hours": "Mo 10:00-16:00; Tu-Th 08:00-19:00; Fr 08:00-14:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/10049057490",
+   "name": "Milwaukee Animal Hospital",
+   "lat": 42.988547,
+   "lon": -87.9693264,
+   "distKm": 7.6,
+   "address": "4440 West Oklahoma Avenue",
+   "tags": {
+    "phone": "+1 414 545 5100"
+   }
+  },
+  {
+   "id": "node/9533429432",
+   "name": "Wauwatosa Veterinary Clinic",
+   "lat": 43.0663899,
+   "lon": -88.0071586,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10571035709",
+   "name": "Layton Animal Hospital",
+   "lat": 42.9598093,
+   "lon": -87.9280982,
+   "distKm": 9,
+   "address": "53221",
+   "tags": {
+    "phone": "+1-414-281-8270"
+   }
+  },
+  {
+   "id": "node/11984233224",
+   "name": "Spirit of 76th Veterinary Clinic",
+   "lat": 43.0030193,
+   "lon": -88.0077228,
+   "distKm": 9.1,
+   "address": "7606 South 76th Street, West Allis, WI 53219",
+   "tags": {
+    "phone": "+1-414-546-0750",
+    "website": "https://spiritof76thveterinaryclinic.com/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa,Su off"
+   }
+  },
+  {
+   "id": "node/13433192967",
+   "name": "Airport Animal Hospital",
+   "lat": 42.9593397,
+   "lon": -87.8749449,
+   "distKm": 9.2,
+   "address": "2746 East Layton Avenue, Saint Francis, WI 53235",
+   "tags": {
+    "phone": "+1 414-486-7700",
+    "website": "http://www.myairportanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/659723119",
+   "name": "BluePearl",
+   "lat": 43.1193471,
+   "lon": -87.9385367,
+   "distKm": 9.3,
+   "address": "2100 West Silver Spring Drive, Glendale, WI 53209",
+   "tags": {
+    "phone": "+1-414-540-6710",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/662971136",
+   "name": "Veterinary Surgery Specialists",
+   "lat": 43.0354004,
+   "lon": -88.0343448,
+   "distKm": 10.4,
+   "address": "9700 West Bluemound Road, Wauwatosa, WI 53226",
+   "tags": {
+    "phone": "+1-414-219-9990",
+    "website": "https://mypetsurgery.com/",
+    "opening_hours": "Mo-Th 08:00-17:00, PH off"
+   }
+  },
+  {
+   "id": "way/662971178",
+   "name": "Animal Health Center",
+   "lat": 43.0341315,
+   "lon": -88.0380263,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11932091958",
+   "name": "Alta View Veterinary Clinic",
+   "lat": 42.9662916,
+   "lon": -88.0053825,
+   "distKm": 11.4,
+   "address": "7330 West Forest Home Avenue, Greenfield, WI 53220",
+   "tags": {
+    "website": "https://altaviewveterinaryclinic.com/"
+   }
+  },
+  {
+   "id": "way/661597046",
+   "name": "EverVet",
+   "lat": 43.0358394,
+   "lon": -88.0525484,
+   "distKm": 11.9,
+   "address": "11120 West Bluemound Road, Wauwatosa, WI 53226",
+   "tags": {}
+  },
+  {
+   "id": "node/10570976309",
+   "name": "Greenfield Veterinary Clinic",
+   "lat": 42.9360703,
+   "lon": -87.9497479,
+   "distKm": 12,
+   "address": "53221",
+   "tags": {
+    "phone": "+1-414-282-5230"
+   }
+  },
+  {
+   "id": "node/10236334458",
+   "name": "Healty Paws",
+   "lat": 42.9572685,
+   "lon": -88.0066475,
+   "distKm": 12.2,
+   "address": "4805 South 74th Street, Greenfield, WI 53220",
+   "tags": {
+    "phone": "+1-414-323-7755",
+    "website": "https://www.healthypawsclinics.com/l",
+    "opening_hours": "Mo-Th 08:30-17:30; Fr 08:30-16:30; Sa 08:30-13:30; Su off"
+   }
+  },
+  {
+   "id": "node/11994036937",
+   "name": "Banfield Pet Hospital",
+   "lat": 42.9534998,
+   "lon": -88.0088809,
+   "distKm": 12.6,
+   "address": "5005 South 76th Street, Greenfield, WI 53220",
+   "tags": {
+    "phone": "+1-414-246-4380",
+    "website": "https://www.banfield.com/locations/veterinarians/wi/greenfield/adg",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/10027566617",
+   "name": "Greendale Village Vet",
+   "lat": 42.9315205,
+   "lon": -87.9943299,
+   "distKm": 13.9,
+   "address": "6210 Industrial Court, 53129",
+   "tags": {
+    "phone": "+14144211800"
+   }
+  },
+  {
+   "id": "way/664290133",
+   "name": "American Veterinary Hospital",
+   "lat": 42.9159325,
+   "lon": -87.9510884,
+   "distKm": 14.1,
+   "address": "2735C,2735A,2735B West Rawson Avenue, Franklin, WI 53132",
+   "tags": {}
+  },
+  {
+   "id": "node/13419281801",
+   "name": "Crawford Animal Hospital",
+   "lat": 42.9609461,
+   "lon": -88.0483429,
+   "distKm": 14.4,
+   "address": "4607 South 108th Street, 53228",
+   "tags": {
+    "website": "https://crawfordvet.com/"
+   }
+  },
+  {
+   "id": "way/436144267",
+   "name": "Oak Creek Veterinary Care",
+   "lat": 42.8990041,
+   "lon": -87.9110789,
+   "distKm": 15.6,
+   "address": "8000 South Howell Avenue, Oak Creek, WI 53154",
+   "tags": {
+    "phone": "+1-414-301-9113"
+   }
+  },
+  {
+   "id": "way/1040106782",
+   "name": "Brook-Falls Veterinary Hospital & Exotic Care, Inc.",
+   "lat": 43.1052005,
+   "lon": -88.0965398,
+   "distKm": 17.1,
+   "address": "N48W14850 Lisbon Road, Menomonee Falls, WI 53051",
+   "tags": {
+    "phone": "+1-262-781-5277",
+    "website": "https://brookfallsveterinary.com",
+    "opening_hours": "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/7473612748",
+   "name": "Bluemound Animal Hospital",
+   "lat": 43.0386,
+   "lon": -88.1184572,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/664508156",
+   "name": "Brentwood Animal Hospital",
+   "lat": 42.8726138,
+   "lon": -87.9174283,
+   "distKm": 18.5,
+   "address": "318 West Ryan Road, Oak Creek, WI 53154",
+   "tags": {}
+  },
+  {
+   "id": "node/9995252317",
+   "name": "BluePearl",
+   "lat": 42.873347,
+   "lon": -87.9501317,
+   "distKm": 18.7,
+   "address": "9472 South 27th Street, Oak Creek, WI 53154",
+   "tags": {
+    "phone": "+1-414-761-6333",
+    "website": "https://bluepearlvet.com/hospital/oak-creek-wi/"
+   }
+  },
+  {
+   "id": "way/1039315704",
+   "name": "Family Pet Clinic",
+   "lat": 43.150991,
+   "lon": -88.0792815,
+   "distKm": 18.8,
+   "address": "N73W13583 Appleton Avenue, Menomonee Falls, WI 53051",
+   "tags": {}
+  }
+ ]
+}

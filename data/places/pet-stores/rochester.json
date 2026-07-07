@@ -1,0 +1,170 @@
+{
+ "$schemaVersion": 1,
+ "city": "rochester",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:36:03.076Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "way/1133988387",
+   "name": "Pet Supplies Plus",
+   "lat": 43.1457358,
+   "lon": -77.5928334,
+   "distKm": 1.8,
+   "address": "531 Monroe Avenue, Rochester, NY 14607",
+   "tags": {
+    "phone": "+1-585-242-2072",
+    "website": "https://www.petsuppliesplus.com/store/ny/rochester/4054-rochester/4054",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13751481120",
+   "name": "Park Ave. Pets",
+   "lat": 43.1402427,
+   "lon": -77.5828611,
+   "distKm": 2.8,
+   "address": "993 Monroe Avenue, Rochester, NY 14620",
+   "tags": {
+    "phone": "+1-585-256-0006",
+    "website": "https://parkavepetsonmonroe.com/",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "way/126306068",
+   "name": "PetSmart",
+   "lat": 43.0887723,
+   "lon": -77.6182948,
+   "distKm": 7.6,
+   "address": "200 Jefferson Road, 14623",
+   "tags": {
+    "phone": "+1-585-272-8020",
+    "website": "https://www.petsmart.com/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/589878922",
+   "name": "Petco",
+   "lat": 43.1059039,
+   "lon": -77.5408158,
+   "distKm": 7.9,
+   "address": "3200 Monroe Avenue, Rochester, NY 14618",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/522269601",
+   "name": "Petco",
+   "lat": 43.2082444,
+   "lon": -77.6914558,
+   "distKm": 8.8,
+   "address": "2373 Ridge Road West, Rochester, NY 14626",
+   "tags": {
+    "phone": "+1 585-227-2180",
+    "website": "https://stores.petco.com/ny/greece/pet-supplies-greece-ny-1817.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12714843202",
+   "name": "Pet Supplies Plus",
+   "lat": 43.1911129,
+   "lon": -77.5010221,
+   "distKm": 9.5,
+   "address": "1900 Empire Boulevard, 14580",
+   "tags": {
+    "phone": "+1-585-670-6586",
+    "website": "https://www.petsuppliesplus.com/store/ny/webster/4264-webster/4264",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/872505147",
+   "name": "Pet World",
+   "lat": 43.2094472,
+   "lon": -77.7081721,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/562674847",
+   "name": "PetSmart",
+   "lat": 43.2122011,
+   "lon": -77.7110848,
+   "distKm": 10.3,
+   "address": "3042 West Ridge Road, Rochester, NY 14626",
+   "tags": {
+    "phone": "+1 585-227-6700",
+    "website": "https://www.petsmart.com/stores/us/ny/greece-store0774.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8786035935",
+   "name": "Pet World",
+   "lat": 43.1020927,
+   "lon": -77.4839307,
+   "distKm": 11.8,
+   "address": "835 Fairport Road, East Rochester, NY 14445",
+   "tags": {}
+  },
+  {
+   "id": "node/12088180848",
+   "name": "Pet Supplies Plus",
+   "lat": 43.1082997,
+   "lon": -77.7464631,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/549883337",
+   "name": "Pet Supplies Plus",
+   "lat": 43.2513493,
+   "lon": -77.699145,
+   "distKm": 12.8,
+   "address": "3177 Latta Road, Rochester, NY 14612",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/8786037398",
+   "name": "PetSmart",
+   "lat": 43.2136468,
+   "lon": -77.4524559,
+   "distKm": 14.2,
+   "address": "917 Holt Road, Webster, NY 14580",
+   "tags": {
+    "phone": "+1 585-872-0850",
+    "website": "https://www.petsmart.com/stores/us/ny/webster-store1296.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00; PH closed",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12943532038",
+   "name": "Pet Supplies Plus",
+   "lat": 43.070296,
+   "lon": -77.4435722,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

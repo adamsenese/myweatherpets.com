@@ -1,0 +1,600 @@
+{
+ "$schemaVersion": 1,
+ "city": "barcelona",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:37:44.690Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/7528220686",
+   "name": "Vet & stil Casp",
+   "lat": 41.3917158,
+   "lon": 2.1736345,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8939342341",
+   "name": "Kivet Clíniques Veterinàries",
+   "lat": 41.3868117,
+   "lon": 2.1612807,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.kivet.com/clinicas-veterinarias/kivet-barcelona-aribau/",
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/7860686199",
+   "name": "Hospital Veterinari Provença",
+   "lat": 41.3903991,
+   "lon": 2.1560354,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7996797885",
+   "name": "Bestioles",
+   "lat": 41.3969312,
+   "lon": 2.1754145,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9823306717",
+   "name": "don perro",
+   "lat": 41.3975087,
+   "lon": 2.1649397,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8169960618",
+   "name": "Els altres",
+   "lat": 41.3988492,
+   "lon": 2.1649047,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12279073201",
+   "name": "Urgències Veterinàries",
+   "lat": 41.3992463,
+   "lon": 2.1714134,
+   "distKm": 1.3,
+   "address": "317 Avinguda Diagonal",
+   "tags": {
+    "phone": "+34 934 59 45 00",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12603497857",
+   "name": "Hospital Veterinari Riera Alta",
+   "lat": 41.3773894,
+   "lon": 2.1617685,
+   "distKm": 1.3,
+   "address": "56 Carrer de Manso, Barcelona, 08015",
+   "tags": {
+    "website": "https://www.veterinaririeraalta.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00, Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/8170029218",
+   "name": "Centre caní Còrsega",
+   "lat": 41.3985574,
+   "lon": 2.1617947,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:30; Sa 10:00-14:00,17:00-20:00"
+   }
+  },
+  {
+   "id": "node/5791835553",
+   "name": "F. Florit-J.M.Casas",
+   "lat": 41.3922735,
+   "lon": 2.1512457,
+   "distKm": 1.5,
+   "address": "Carrer de París, Barcelona",
+   "tags": {}
+  },
+  {
+   "id": "node/11308435593",
+   "name": "SaluVet",
+   "lat": 41.4002602,
+   "lon": 2.1645045,
+   "distKm": 1.5,
+   "address": "402 Carrer de Còrsega",
+   "tags": {}
+  },
+  {
+   "id": "node/2969276711",
+   "name": "Lovedogs",
+   "lat": 41.4014964,
+   "lon": 2.1702563,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "website": "http://www.lovedogs.es"
+   }
+  },
+  {
+   "id": "way/1174827587",
+   "name": "Instal·lacions veterinàries del Zoo de Barcelona",
+   "lat": 41.3851039,
+   "lon": 2.1872098,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7550777585",
+   "name": "Grimm",
+   "lat": 41.4029782,
+   "lon": 2.1658584,
+   "distKm": 1.7,
+   "address": "18 Carrer de la Indústria",
+   "tags": {}
+  },
+  {
+   "id": "node/6538037915",
+   "name": "Veterinari del Mar",
+   "lat": 41.392258,
+   "lon": 2.1897605,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8236999158",
+   "name": "Balmesvet Veterinaris",
+   "lat": 41.3978898,
+   "lon": 2.151393,
+   "distKm": 1.8,
+   "address": "205 Carrer de Balmes",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/8237139416",
+   "name": "Yorky's Consultori Veterinari",
+   "lat": 41.3977198,
+   "lon": 2.151239,
+   "distKm": 1.8,
+   "address": "205, baixos Carrer de Balmes",
+   "tags": {}
+  },
+  {
+   "id": "node/1377225880",
+   "name": "Kiwi Mascotas",
+   "lat": 41.4026911,
+   "lon": 2.1596464,
+   "distKm": 1.9,
+   "address": "12 Carrer de Torrijos",
+   "tags": {}
+  },
+  {
+   "id": "node/8396371170",
+   "name": "Exomed",
+   "lat": 41.398405,
+   "lon": 2.1513032,
+   "distKm": 1.9,
+   "address": "222 Carrer de Balmes",
+   "tags": {}
+  },
+  {
+   "id": "node/9823542718",
+   "name": "Eixample Veterinaris",
+   "lat": 41.4040256,
+   "lon": 2.1718276,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11672348944",
+   "name": "Gràcia Veterinaris",
+   "lat": 41.401186,
+   "lon": 2.1553952,
+   "distKm": 1.9,
+   "address": "24 Carrer de Pere Serafí",
+   "tags": {}
+  },
+  {
+   "id": "node/4262017890",
+   "name": "Kiwi Vet",
+   "lat": 41.4026561,
+   "lon": 2.1567073,
+   "distKm": 2,
+   "address": "130 Carrer del Torrent de l'Olla, Barcelona, 08012",
+   "tags": {}
+  },
+  {
+   "id": "node/12209339002",
+   "name": "Sagrada Família",
+   "lat": 41.4057149,
+   "lon": 2.1713373,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/1377225823",
+   "name": "Centre Veterinari Joanic",
+   "lat": 41.4053182,
+   "lon": 2.1611846,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:30-13:30,17:00-20:30"
+   }
+  },
+  {
+   "id": "node/6166411587",
+   "name": "Clínica Veterinària Entença",
+   "lat": 41.3843341,
+   "lon": 2.1440233,
+   "distKm": 2.1,
+   "address": "171 Carrer d'Entença, Barcelona, 08029",
+   "tags": {}
+  },
+  {
+   "id": "node/11299883569",
+   "name": "Clínica veterinaria Marina",
+   "lat": 41.3885804,
+   "lon": 2.1958997,
+   "distKm": 2.3,
+   "address": "23 Carrer de Salvador Espriu, 08005",
+   "tags": {
+    "phone": "+34 932254938",
+    "website": "https://cvetmarina.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/12798527101",
+   "name": "Vetpet",
+   "lat": 41.3817372,
+   "lon": 2.1420445,
+   "distKm": 2.3,
+   "address": "9 Avinguda de Josep Tarradellas, 08029",
+   "tags": {
+    "phone": "+34930163744"
+   }
+  },
+  {
+   "id": "node/6195973814",
+   "name": "Odontovets",
+   "lat": 41.3901896,
+   "lon": 2.1403605,
+   "distKm": 2.4,
+   "address": "371 Travessera de les Corts, Barcelona, 08029",
+   "tags": {}
+  },
+  {
+   "id": "node/10839181572",
+   "name": "Taxdirt",
+   "lat": 41.4089261,
+   "lon": 2.1642371,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11116991544",
+   "name": "Clínica Providència",
+   "lat": 41.4078568,
+   "lon": 2.1584674,
+   "distKm": 2.4,
+   "address": "6 Plaça de Rovira i Trias",
+   "tags": {
+    "phone": "+34 932 18 23 15"
+   }
+  },
+  {
+   "id": "node/9825319817",
+   "name": "Clínica Veterinaria de Catalunya",
+   "lat": 41.3844481,
+   "lon": 2.1380907,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12195039001",
+   "name": "animalis",
+   "lat": 41.410356,
+   "lon": 2.1708489,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7124228885",
+   "name": "Mivet",
+   "lat": 41.3754156,
+   "lon": 2.1409502,
+   "distKm": 2.7,
+   "address": "130 Carrer de la Creu Coberta",
+   "tags": {
+    "opening_hours": "Mo-Su,PH 09:00+,00:00+"
+   }
+  },
+  {
+   "id": "node/12798457801",
+   "name": "Pecas",
+   "lat": 41.3887831,
+   "lon": 2.1366005,
+   "distKm": 2.7,
+   "address": "90 Carrer de Deu i Mata",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/6093789456",
+   "name": "Centre Veterinari",
+   "lat": 41.4075753,
+   "lon": 2.1881872,
+   "distKm": 2.8,
+   "address": "56 Carrer del Clot, Barcelona, 08018",
+   "tags": {}
+  },
+  {
+   "id": "node/6488829061",
+   "name": "GAREM",
+   "lat": 41.3782,
+   "lon": 2.1377504,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13082106304",
+   "name": "Salus Veterinària",
+   "lat": 41.3806181,
+   "lon": 2.1361535,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-13:30,16:30-20:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/3006305766",
+   "name": "Centre Veterinari Saluki",
+   "lat": 41.4130772,
+   "lon": 2.1638776,
+   "distKm": 2.9,
+   "address": "16 Carrer de Praga, 08024",
+   "tags": {}
+  },
+  {
+   "id": "node/5790107553",
+   "name": "VM veterinaris Meridiana",
+   "lat": 41.4123211,
+   "lon": 2.1864519,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7525186885",
+   "name": "Petjades",
+   "lat": 41.4089817,
+   "lon": 2.1932095,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6952198369",
+   "name": "Clínica Veterinària - perros y felinos",
+   "lat": 41.382528,
+   "lon": 2.128977,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8614544820",
+   "name": "Vetsants",
+   "lat": 41.3764095,
+   "lon": 2.1321374,
+   "distKm": 3.3,
+   "address": "25 Carrer del Tenor Masini, Barcelona, 08028",
+   "tags": {
+    "phone": "+34 934912003",
+    "website": "https://www.veteralia.com/inici/",
+    "opening_hours": "Mo-Fr 09:30-20:00; Sa 10:00-14:00; PH closed"
+   }
+  },
+  {
+   "id": "node/12697394357",
+   "name": "Clínica Veterinaria Aragó",
+   "lat": 41.4121872,
+   "lon": 2.1908191,
+   "distKm": 3.3,
+   "address": "659 Carrer d'Aragó",
+   "tags": {}
+  },
+  {
+   "id": "node/12875435475",
+   "name": "Bastet Veterinaris",
+   "lat": 41.3759128,
+   "lon": 2.1306792,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6382725618",
+   "name": "Clínica Veterinària Carles III",
+   "lat": 41.384234,
+   "lon": 2.1271543,
+   "distKm": 3.5,
+   "address": "67 Gran Via de Carles III, Barcelona",
+   "tags": {
+    "opening_hours": "Mo-Fr 16:30-20:30; Mo-Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/7525316786",
+   "name": "M. Ángeles Martinez",
+   "lat": 41.4189832,
+   "lon": 2.1741258,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7706832807",
+   "name": "Centre Veterinari Badal i botiga animalons",
+   "lat": 41.3738676,
+   "lon": 2.1302494,
+   "distKm": 3.5,
+   "address": "41 Carrer de Begur, Barcelona, 08028",
+   "tags": {
+    "phone": "+34934319798",
+    "website": "https://www.veterinariosants.com/"
+   }
+  },
+  {
+   "id": "node/4860084431",
+   "name": "Bonavet",
+   "lat": 41.4062309,
+   "lon": 2.1333341,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7760747518",
+   "name": "Canisants Centre Veterinari",
+   "lat": 41.3750876,
+   "lon": 2.127643,
+   "distKm": 3.7,
+   "address": "7 Carrer de Sugranyes, Barcelona, 08028",
+   "tags": {
+    "phone": "+34934321660"
+   }
+  },
+  {
+   "id": "node/13152221801",
+   "name": "Centre Veterinari Navas",
+   "lat": 41.419174,
+   "lon": 2.1828843,
+   "distKm": 3.7,
+   "address": "46 Carrer de Juan de Garay",
+   "tags": {}
+  },
+  {
+   "id": "node/5922267085",
+   "name": "Nexo",
+   "lat": 41.416707,
+   "lon": 2.197189,
+   "distKm": 4,
+   "address": "08020",
+   "tags": {}
+  },
+  {
+   "id": "node/3755072576",
+   "name": "Gàtika",
+   "lat": 41.3768079,
+   "lon": 2.1209296,
+   "distKm": 4.1,
+   "address": "10,12 Carrer de l'Onze de Setembre, l'Hospitalet de Llobregat, 08903",
+   "tags": {
+    "phone": "+34656600562",
+    "opening_hours": "Mo-Fr 10:00-14:00; Mo-Fr 17:00-20:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/11141889982",
+   "name": "Clínica veterinaria Artviu",
+   "lat": 41.376759,
+   "lon": 2.1210954,
+   "distKm": 4.1,
+   "address": "5 Carrer de l'Onze de Setembre, l'Hospitalet de Llobregat, 08903",
+   "tags": {
+    "phone": "+34934496937"
+   }
+  },
+  {
+   "id": "node/1337087170",
+   "name": "Consultori Veterinari Amazonas",
+   "lat": 41.4205916,
+   "lon": 2.1407432,
+   "distKm": 4.4,
+   "address": "262 Avinguda de Vallcarca",
+   "tags": {}
+  },
+  {
+   "id": "node/4350349092",
+   "name": "Veterinaria Horta",
+   "lat": 41.4253434,
+   "lon": 2.1556342,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8709754526",
+   "name": "Lladrucs",
+   "lat": 41.4254333,
+   "lon": 2.1537289,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9695204269",
+   "name": "Centre Veterinari 2015",
+   "lat": 41.4284484,
+   "lon": 2.1674374,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6174650157",
+   "name": "Centre Veterinari L'Hospitalet",
+   "lat": 41.3737392,
+   "lon": 2.1058469,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10586977073",
+   "name": "Bitxos",
+   "lat": 41.3535811,
+   "lon": 2.1181278,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10761438066",
+   "name": "Centre veterinari de Bellvitge",
+   "lat": 41.3564545,
+   "lon": 2.1125021,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

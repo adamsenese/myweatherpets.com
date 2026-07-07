@@ -1,0 +1,441 @@
+{
+ "$schemaVersion": 1,
+ "city": "columbus",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:24:54.165Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 43,
+ "places": [
+  {
+   "id": "way/908587018",
+   "name": "German Village Veterinary Hospital",
+   "lat": 39.9375694,
+   "lon": -82.9957206,
+   "distKm": 2.6,
+   "address": "1200 South High Street, Columbus, OH 43206",
+   "tags": {
+    "phone": "+1-614-444-9696",
+    "website": "https://www.germanvillageveterinaryhospital.com/",
+    "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-18:00, Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/166892293",
+   "name": "Health & Harmony Animal Hospital",
+   "lat": 39.9795257,
+   "lon": -83.0344232,
+   "distKm": 3.7,
+   "address": "1117 West First Avenue, Grandview, 43212",
+   "tags": {
+    "website": "https://www.healthandharmonyanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/984556698",
+   "name": "Chittenden Veterinary Clinic",
+   "lat": 39.9952526,
+   "lon": -83.0006427,
+   "distKm": 3.8,
+   "address": "239 Chittenden Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/4229205396",
+   "name": "Purrfect Care",
+   "lat": 39.9912974,
+   "lon": -83.040849,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "website": "https://purrfectcarevet.com/"
+   }
+  },
+  {
+   "id": "way/1363416294",
+   "name": "Purrfect Care Feline Medical Center",
+   "lat": 39.9911731,
+   "lon": -83.0408855,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3802910772",
+   "name": "Veterinary Medical Center",
+   "lat": 40.0009174,
+   "lon": -83.0275265,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/849834795",
+   "name": "Frank Stanton Veterinary Spectrum of Care Clinic",
+   "lat": 40.0010571,
+   "lon": -83.0261577,
+   "distKm": 5,
+   "address": "655 Vernon L Tharp Street, Columbus, OH",
+   "tags": {}
+  },
+  {
+   "id": "way/154204424",
+   "name": "OSU Veterinary Medical Center",
+   "lat": 40.000896,
+   "lon": -83.0279271,
+   "distKm": 5.1,
+   "address": "601 Vernon L Tharp Street, Columbus, OH 43210",
+   "tags": {}
+  },
+  {
+   "id": "way/431906975",
+   "name": "Upper Arlington Veterinary Hospital",
+   "lat": 40.0067468,
+   "lon": -83.0502683,
+   "distKm": 6.7,
+   "address": "1515 West Lane Avenue, Upper Arlington, OH 43221",
+   "tags": {
+    "phone": "+1-614-481-8014",
+    "website": "https://www.uavethospital.com/",
+    "opening_hours": "Mo-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/5582451900",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.0068881,
+   "lon": -83.0516146,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1395757242",
+   "name": "Clintonville Animal Hospital",
+   "lat": 40.0242231,
+   "lon": -83.0141708,
+   "distKm": 7.1,
+   "address": "3045 North High Street, Columbus, OH 43202",
+   "tags": {
+    "phone": "+1 614-263-6730",
+    "website": "https://www.clintonvilleah.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/6786941385",
+   "name": "COVE Pet Care - Columbus",
+   "lat": 40.0260489,
+   "lon": -83.0141967,
+   "distKm": 7.3,
+   "address": "3134 North High Street, Columbus, OH 43202",
+   "tags": {
+    "phone": "+1-740-481-2683",
+    "website": "https://covepetcare.com"
+   }
+  },
+  {
+   "id": "way/546378104",
+   "name": "Knapp Vererinary Hospital",
+   "lat": 40.033603,
+   "lon": -82.9996521,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/747464043",
+   "name": "Berwick Animal Clinic",
+   "lat": 39.9180088,
+   "lon": -82.91444,
+   "distKm": 8.6,
+   "address": "3272 Refugee Road, Columbus, OH 43232",
+   "tags": {}
+  },
+  {
+   "id": "way/1225502604",
+   "name": "Obetz Animal Hospital",
+   "lat": 39.8877088,
+   "lon": -82.9307568,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "phone": "+1-614-491-5676",
+    "website": "https://www.obetzah.com/"
+   }
+  },
+  {
+   "id": "way/1199635402",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.8774282,
+   "lon": -83.0448066,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/738325773",
+   "name": "Hamilton Road Animal Hospital",
+   "lat": 39.9522228,
+   "lon": -82.8778586,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/361611483",
+   "name": "Beechwold Veterinary Hospital",
+   "lat": 40.0580779,
+   "lon": -83.0001505,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7783533503",
+   "name": "Morse Road Veterinary Clinic",
+   "lat": 40.0611447,
+   "lon": -82.9818628,
+   "distKm": 11.2,
+   "address": "1388 Morse Road, Columbus, OH 43229",
+   "tags": {}
+  },
+  {
+   "id": "way/673775266",
+   "name": "North Kenny Veterinary Hospital",
+   "lat": 40.0576788,
+   "lon": -83.0484881,
+   "distKm": 11.5,
+   "address": "4590 Kenny Road, Columbus, OH 43220",
+   "tags": {
+    "phone": "+1-614-515-6696",
+    "website": "https://northkennyveterinaryhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/618620309",
+   "name": "Gahanna Animal Hospital",
+   "lat": 40.0184974,
+   "lon": -82.8829494,
+   "distKm": 11.7,
+   "address": "144 Johnstown Road, Gahanna, OH 43230",
+   "tags": {
+    "website": "https://gahannaanimalhospital.org/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/6965045600",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.0500246,
+   "lon": -82.9235177,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13086900820",
+   "name": "Animal Medical Center",
+   "lat": 40.0051894,
+   "lon": -82.8621372,
+   "distKm": 12.6,
+   "address": "Officenter Place 555",
+   "tags": {
+    "phone": "+1-614-755-4900",
+    "website": "https://www.amcgahanna.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/6355383990",
+   "name": "Animal Medical Center",
+   "lat": 40.0023008,
+   "lon": -82.8591004,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6964046850",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.9849878,
+   "lon": -83.1467847,
+   "distKm": 12.9,
+   "address": "5336 Westpointe Plaza Drive, Columbus, OH 43228",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "way/1259084373",
+   "name": "Vet Clinic East",
+   "lat": 39.9151185,
+   "lon": -82.8600768,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/547511902",
+   "name": "The Vet Clinic",
+   "lat": 40.0768672,
+   "lon": -83.0193528,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/699149368",
+   "name": "Healthy Pets of Hilliard-Rome",
+   "lat": 39.9953665,
+   "lon": -83.1519024,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1367377999",
+   "name": "Groveport Animal Clinic",
+   "lat": 39.8558673,
+   "lon": -82.8964232,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/845862115",
+   "name": "Concord Chapel Animal Hospital",
+   "lat": 39.8386074,
+   "lon": -83.0733599,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1199658183",
+   "name": "Total Veterinary Care",
+   "lat": 39.8401258,
+   "lon": -83.080309,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/595580024",
+   "name": "Rosehill Veterinary Hospital",
+   "lat": 39.955501,
+   "lon": -82.8175462,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9091629977",
+   "name": "Groveport-Canal Animal Hospital",
+   "lat": 39.8511289,
+   "lon": -82.8825985,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/549456165",
+   "name": "Dog's Only Medical Center",
+   "lat": 40.0546157,
+   "lon": -82.8575613,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/481183255",
+   "name": "MedVet Columbus",
+   "lat": 40.110036,
+   "lon": -83.0061824,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6981268170",
+   "name": "Vetcare",
+   "lat": 40.0727706,
+   "lon": -82.8633686,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/562151552",
+   "name": "WestVets Westerville Veterinary Clinic",
+   "lat": 40.1041396,
+   "lon": -82.92434,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/427485378",
+   "name": "Dublin Veterinary Clinic",
+   "lat": 40.0996521,
+   "lon": -83.1146969,
+   "distKm": 18.3,
+   "address": "32 West Bridge Street, Dublin, OH 43017",
+   "tags": {
+    "phone": "+1-614-889-2196",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/13621155974",
+   "name": "Healthy Pets of Hayden Run",
+   "lat": 40.0593579,
+   "lon": -83.1749586,
+   "distKm": 18.6,
+   "address": "6488 Hayden Run Road, Hilliard, OH 43026-9720",
+   "tags": {
+    "phone": "+16143898608",
+    "website": "https://healthypetsofohio.com/healthy-pets-of-hayden-run/"
+   }
+  },
+  {
+   "id": "node/11328095801",
+   "name": "Annehurst Veterinary Hospital",
+   "lat": 40.124789,
+   "lon": -82.9448561,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12729229301",
+   "name": "Cross Creeks Animal Hospital",
+   "lat": 39.9201014,
+   "lon": -82.7831257,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/561690217",
+   "name": "Lifetime Pet Wellness Center",
+   "lat": 40.1364309,
+   "lon": -82.9950731,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1198546368",
+   "name": "Winchester Veterinary Clinic",
+   "lat": 39.8426929,
+   "lon": -82.8237493,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

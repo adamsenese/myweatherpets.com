@@ -1,0 +1,617 @@
+{
+ "$schemaVersion": 1,
+ "city": "edinburgh",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:38:39.176Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 56,
+ "places": [
+  {
+   "id": "node/1233912313",
+   "name": "Dundas Veterinary Group",
+   "lat": 55.9591669,
+   "lon": -3.199985,
+   "distKm": 1,
+   "address": "99 Dundas Street, Edinburgh",
+   "tags": {
+    "phone": "+44 131 557 1819"
+   }
+  },
+  {
+   "id": "node/2718835146",
+   "name": "Dick Vet in the Community",
+   "lat": 55.9439796,
+   "lon": -3.1837552,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2382624253",
+   "name": "West End Vets",
+   "lat": 55.9456887,
+   "lon": -3.2047601,
+   "distKm": 1.3,
+   "address": "12 Bread Street, Edinburgh, EH3 9AF",
+   "tags": {
+    "phone": "+44 131 229 7619",
+    "website": "https://www.westendvets.co.uk"
+   }
+  },
+  {
+   "id": "node/2992761156",
+   "name": "Braid Vets",
+   "lat": 55.9646046,
+   "lon": -3.1765461,
+   "distKm": 1.5,
+   "address": "319 Leith Walk, Edinburgh, EH6 8SA",
+   "tags": {
+    "phone": "+44 131 553 1366; +44 131 662 1689",
+    "website": "https://www.braidvet.co.uk/locations/leith-walk",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:30; Su off"
+   }
+  },
+  {
+   "id": "node/726796582",
+   "name": "Abercorn Veterinary Clinics",
+   "lat": 55.959245,
+   "lon": -3.2132296,
+   "distKm": 1.7,
+   "address": "82 Raeburn Place, Edinburgh",
+   "tags": {
+    "phone": "+44 131 332 9207",
+    "opening_hours": "Mo,We,Fr 09:00-13:00, Mo,We,Fr 16:30-18:30, Tu,Th 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/3354477957",
+   "name": "Dundas Veterinary Group",
+   "lat": 55.959476,
+   "lon": -3.1563114,
+   "distKm": 2.1,
+   "address": "10 Lochend Road South, Edinburgh",
+   "tags": {
+    "phone": "+44 131 659 6648",
+    "website": "https://www.dundasvetgroup.co.uk/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/3974215862",
+   "name": "BDW Veterinary Surgeons",
+   "lat": 55.9737208,
+   "lon": -3.1886228,
+   "distKm": 2.3,
+   "address": "124 Newhaven Road, Edinburgh",
+   "tags": {
+    "phone": "+44 131 553 6017",
+    "website": "https://www.bdwvets.co.uk/"
+   }
+  },
+  {
+   "id": "node/3487555485",
+   "name": "Happy Pets",
+   "lat": 55.9373763,
+   "lon": -3.2172122,
+   "distKm": 2.5,
+   "address": "5 Polwarth Gardens, Edinburgh, EH11 1JS",
+   "tags": {
+    "phone": "+44 131 221 1110",
+    "website": "https://happypets-edinburgh.co.uk/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
+   }
+  },
+  {
+   "id": "node/4733951327",
+   "name": "Dundas Veterinary Group",
+   "lat": 55.9725035,
+   "lon": -3.2149312,
+   "distKm": 2.7,
+   "address": "34 Granton Road, Edinburgh",
+   "tags": {
+    "phone": "+44 131 551 1407",
+    "website": "https://www.dundasvetgroup.co.uk/"
+   }
+  },
+  {
+   "id": "node/10215251656",
+   "name": "Stay on Track",
+   "lat": 55.9733103,
+   "lon": -3.1616396,
+   "distKm": 2.8,
+   "address": "1A Ropemaker Street",
+   "tags": {
+    "phone": "+44 7449 720812",
+    "website": "https://www.stayontrackvetphysiotherapy.co.uk"
+   }
+  },
+  {
+   "id": "node/12090370001",
+   "name": "Leith Vets",
+   "lat": 55.9735885,
+   "lon": -3.1614348,
+   "distKm": 2.8,
+   "address": "11 Salamander Place, EH6 7GA",
+   "tags": {
+    "phone": "+44 131 516 1550",
+    "website": "https://www.leithvets.co.uk",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
+   }
+  },
+  {
+   "id": "node/2548444237",
+   "name": "The Cat Clinic",
+   "lat": 55.9273394,
+   "lon": -3.1875852,
+   "distKm": 2.9,
+   "address": "36 Blackford Avenue, Edinburgh",
+   "tags": {
+    "phone": "+44 131 466 7110",
+    "website": "https://www.catclinic.co.uk/",
+    "opening_hours": "Mo-Sa 08:30-18:30, Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/2399961316",
+   "name": "West End Vets",
+   "lat": 55.9269409,
+   "lon": -3.2090541,
+   "distKm": 3.2,
+   "address": "261-263 Morningside Road, Edinburgh, EH10 4RD",
+   "tags": {
+    "phone": "+44 131 447 8323",
+    "website": "https://westendvets.co.uk/practice/morningside/",
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/3379592941",
+   "name": "Hill City Vets",
+   "lat": 55.9344638,
+   "lon": -3.2318848,
+   "distKm": 3.4,
+   "address": "1A Shandon Crescent, Edinburgh",
+   "tags": {
+    "phone": "+44 131 259 2202",
+    "website": "https://hillcityvets.co.uk",
+    "opening_hours": "Mo-Th 09:00-16:30, Fr 09:00-15:30"
+   }
+  },
+  {
+   "id": "node/3575016953",
+   "name": "Braid Veterinary Hospital",
+   "lat": 55.9240585,
+   "lon": -3.1713578,
+   "distKm": 3.4,
+   "address": "171 Mayfield Road, Edinburgh",
+   "tags": {
+    "phone": "+44 131 667 2478",
+    "website": "https://www.braidvet.co.uk/locations/mayfield-road/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:00"
+   }
+  },
+  {
+   "id": "node/3700074861",
+   "name": "Animac Vets",
+   "lat": 55.9210255,
+   "lon": -3.212081,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-12:00"
+   }
+  },
+  {
+   "id": "way/361610449",
+   "name": "PDSA Pet Hospital",
+   "lat": 55.9308087,
+   "lon": -3.2396917,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We-Fr 09:00-18:00; Tu 01:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/2369894327",
+   "name": "Batchelor, Davidson & Watson - Veterinary Surgeons",
+   "lat": 55.959349,
+   "lon": -3.2550186,
+   "distKm": 4.2,
+   "address": "19 Hillhouse Road, Edinburgh",
+   "tags": {
+    "phone": "+44 131 332 0458",
+    "website": "https://bdwvets.co.uk/"
+   }
+  },
+  {
+   "id": "node/3634841521",
+   "name": "Abercorn Veterinary Clinic",
+   "lat": 55.9525675,
+   "lon": -3.113983,
+   "distKm": 4.6,
+   "address": "175 Portobello High Street, Edinburgh",
+   "tags": {
+    "phone": "+44 131 669 3790",
+    "website": "https://www.abercornvets.co.uk/"
+   }
+  },
+  {
+   "id": "node/3961446434",
+   "name": "Thistle Vets",
+   "lat": 55.9282009,
+   "lon": -3.24741,
+   "distKm": 4.6,
+   "address": "2a New Mart Road, Edinburgh",
+   "tags": {
+    "phone": "+44 131 443 4400",
+    "opening_hours": "Mo-Fr 08:15-06:45, Sa 09:00-04:45, Su 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/10702546294",
+   "name": "West Edinburgh Vets",
+   "lat": 55.9427176,
+   "lon": -3.282954,
+   "distKm": 6,
+   "address": "163 St John's Road, Edinburgh, EH12 7SD",
+   "tags": {
+    "phone": "+44 131 560 2770",
+    "website": "https://www.westedinburghvets.co.uk/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-12:30"
+   }
+  },
+  {
+   "id": "way/217443824",
+   "name": "inglisVETS",
+   "lat": 55.9432362,
+   "lon": -3.2860847,
+   "distKm": 6.2,
+   "address": "160 St John's Road, Edinburgh, EH12 8AY",
+   "tags": {
+    "phone": "+44 131 334 4577"
+   }
+  },
+  {
+   "id": "node/4206527564",
+   "name": "Abercorn Veterinary Clinic",
+   "lat": 55.9055511,
+   "lon": -3.1330419,
+   "distKm": 6.3,
+   "address": "Drum Street, Edinburgh, EH17 8QH",
+   "tags": {
+    "opening_hours": "\"by appointment\""
+   }
+  },
+  {
+   "id": "node/2267254387",
+   "name": "Westport Veterinary Clinic",
+   "lat": 55.9513362,
+   "lon": -3.2950492,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8660205226",
+   "name": "Canine Reproduction Scotland",
+   "lat": 55.9244934,
+   "lon": -3.2813649,
+   "distKm": 6.6,
+   "address": "367 Broomhouse Road, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/9689802995",
+   "name": "The Veterinary Wellness Centre",
+   "lat": 55.9357244,
+   "lon": -3.0874264,
+   "distKm": 6.6,
+   "address": "73-77 Whitehill Street, Musselburgh, EH21 8QZ",
+   "tags": {
+    "website": "https://veterinarywellnesscentre.com/"
+   }
+  },
+  {
+   "id": "node/2388577580",
+   "name": "Oak Tree Veterinary Centre",
+   "lat": 55.9600495,
+   "lon": -3.2976774,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "phone": "+44 131 539 7539",
+    "website": "https://www.oaktreevet.co.uk/"
+   }
+  },
+  {
+   "id": "way/322700331",
+   "name": "Thistle Vets",
+   "lat": 55.9107068,
+   "lon": -3.2780981,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3962540483",
+   "name": "Gordon Vets",
+   "lat": 55.9437641,
+   "lon": -3.06542,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/624704427",
+   "name": "ICR Vets",
+   "lat": 55.8805656,
+   "lon": -3.1507445,
+   "distKm": 8.4,
+   "address": "44 Fountain Place, Loanhead, EH20 9DU",
+   "tags": {}
+  },
+  {
+   "id": "node/4294321136",
+   "name": "Links Veterinary Group",
+   "lat": 55.9434384,
+   "lon": -3.0475329,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1535731959",
+   "name": "Pentland Veterinary Clinic",
+   "lat": 55.8970163,
+   "lon": -3.3086957,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3716332887",
+   "name": "Market Cross Veterinary Clinic",
+   "lat": 55.8953678,
+   "lon": -3.0702211,
+   "distKm": 9.8,
+   "address": "18 Edinburgh Road, Dalkeith, EH22 1JZ",
+   "tags": {
+    "website": "https://www.marketcrossveterinaryclinic.co.uk/"
+   }
+  },
+  {
+   "id": "way/61588684",
+   "name": "Hospital for Small Animals",
+   "lat": 55.865107,
+   "lon": -3.2023466,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "phone": "+44 131 650 7650",
+    "opening_hours": "Mo,Tu,Th,Fr 09:00-19:00; We,Fr 09:00-18:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/2363801902",
+   "name": "Braid Vets",
+   "lat": 55.89252,
+   "lon": -3.072899,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3974967030",
+   "name": "Albavet",
+   "lat": 56.0594687,
+   "lon": -3.2316078,
+   "distKm": 12.1,
+   "address": "190 High Street, Burntisland, KY3 9AP",
+   "tags": {
+    "website": "https://www.albavet.co.uk/",
+    "opening_hours": "Mo-Fr 09:00-13:00,14:00-18:00"
+   }
+  },
+  {
+   "id": "node/9079501879",
+   "name": "ICR Vets",
+   "lat": 55.8833844,
+   "lon": -3.3387896,
+   "distKm": 12.2,
+   "address": "44b Main Street, Balerno, EH14 7EH",
+   "tags": {
+    "website": "https://www.icrvets.com/branches/balerno-clinic"
+   }
+  },
+  {
+   "id": "node/5410077129",
+   "name": "Dunedin Vets",
+   "lat": 55.9590737,
+   "lon": -2.9852313,
+   "distKm": 12.7,
+   "address": "151 High Street, Prestonpans, EH32 9AX",
+   "tags": {
+    "website": "https://dunedinvets.co.uk/our-practices/prestonpans-practice/"
+   }
+  },
+  {
+   "id": "node/4798296451",
+   "name": "Links Vet Group",
+   "lat": 55.9530732,
+   "lon": -2.9765438,
+   "distKm": 13.2,
+   "address": "Mid Road, Prestonpans, EH32 9ER",
+   "tags": {
+    "phone": "+44 187 581 4772",
+    "website": "https://www.linksvet.co.uk/about-us/prestonpans-vet-surgery"
+   }
+  },
+  {
+   "id": "node/2421506944",
+   "name": "Veterinary Surgery",
+   "lat": 55.9562379,
+   "lon": -3.4023747,
+   "distKm": 13.3,
+   "address": "29 Main Street, Kirkliston, EH29 9AE",
+   "tags": {
+    "phone": "+44 131 333 3203"
+   }
+  },
+  {
+   "id": "node/691865233",
+   "name": "Carnethy Veterinary Clinic",
+   "lat": 55.8322094,
+   "lon": -3.222832,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3113142094",
+   "name": "Westport Veterinary Clinic",
+   "lat": 55.9891541,
+   "lon": -3.398758,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "phone": "+44 131 331 3451"
+   }
+  },
+  {
+   "id": "node/7795456711",
+   "name": "Albavet",
+   "lat": 56.0413031,
+   "lon": -3.3427753,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7795456849",
+   "name": "Forth Coast Veterinary Clinic",
+   "lat": 56.0370312,
+   "lon": -3.3564265,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7091841621",
+   "name": "Gordon Vets",
+   "lat": 55.826261,
+   "lon": -3.2224341,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1075570762",
+   "name": "ICR Vets",
+   "lat": 55.8426784,
+   "lon": -3.0480623,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/263994081",
+   "name": "Dunedin Veterinary Centre",
+   "lat": 55.9428344,
+   "lon": -2.9442773,
+   "distKm": 15.2,
+   "address": "16 Haddington Road, Tranent, EH33 1HW",
+   "tags": {
+    "website": "https://dunedinvets.co.uk/"
+   }
+  },
+  {
+   "id": "node/4107688889",
+   "name": "Inglis Pet Supplies and Clinic",
+   "lat": 56.0304504,
+   "lon": -3.3978262,
+   "distKm": 15.6,
+   "address": "28 High Street, Inverkeithing, KY11 1NN",
+   "tags": {}
+  },
+  {
+   "id": "way/1175607493",
+   "name": "3 Bridges Vets",
+   "lat": 56.0558462,
+   "lon": -3.3825675,
+   "distKm": 16.6,
+   "address": "KY11 7HQ",
+   "tags": {
+    "website": "https://3bridgesvets.co.uk/"
+   }
+  },
+  {
+   "id": "node/4053834388",
+   "name": "Albavet",
+   "lat": 56.1062212,
+   "lon": -3.1630152,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13814943602",
+   "name": "Westport Vetinary Clinic",
+   "lat": 55.9603783,
+   "lon": -3.4667322,
+   "distKm": 17.3,
+   "address": "Canal View, EH52 6FE",
+   "tags": {}
+  },
+  {
+   "id": "node/1190761864",
+   "name": "Vetrica",
+   "lat": 56.0407982,
+   "lon": -3.4224579,
+   "distKm": 17.5,
+   "address": "4/5 Queen's Buildings, Rosyth, KY11 2RA",
+   "tags": {
+    "phone": "+44 1383 418558",
+    "website": "https://vetrica.com/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-11:00"
+   }
+  },
+  {
+   "id": "way/996656980",
+   "name": "Village Vets",
+   "lat": 55.9748708,
+   "lon": -2.8948026,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6933210877",
+   "name": "Iglis Care & Save Vet",
+   "lat": 56.1100844,
+   "lon": -3.3437927,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4447342692",
+   "name": "Inglis Vets",
+   "lat": 56.0613429,
+   "lon": -3.4446112,
+   "distKm": 20,
+   "address": "142 Hospital Hill, Dunfermline, KY11 3AU",
+   "tags": {}
+  },
+  {
+   "id": "node/5414510081",
+   "name": "Inglis Vets",
+   "lat": 56.1330269,
+   "lon": -3.1816653,
+   "distKm": 20,
+   "address": "Chapel Level, Kirkcaldy",
+   "tags": {}
+  }
+ ]
+}

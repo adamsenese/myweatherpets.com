@@ -1,0 +1,703 @@
+{
+ "$schemaVersion": 1,
+ "city": "berlin",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:37:17.720Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12108668170",
+   "name": "Tierarztpraxis - Dr. med. vet. Dirk Emmelmann, Dr. med. vet. Albrecht Fengler",
+   "lat": 52.5251722,
+   "lon": 13.408013,
+   "distKm": 0.6,
+   "address": "7 Max-Beer-Straße",
+   "tags": {
+    "phone": "+49 30 2426512",
+    "website": "https://www.augentierarzt-berlin.de",
+    "opening_hours": "Mo, Tu, Th, Fr 09:00-12:00, 15:00-19:00; We 15:00-19:00"
+   }
+  },
+  {
+   "id": "node/5190500390",
+   "name": "Tierarztpraxis Ralf Neuer",
+   "lat": 52.5140108,
+   "lon": 13.408851,
+   "distKm": 0.7,
+   "address": "2 Fischerinsel, Berlin, 10179",
+   "tags": {}
+  },
+  {
+   "id": "node/3098125229",
+   "name": "Kleintierpraxis in der Torstraße",
+   "lat": 52.5288283,
+   "lon": 13.4082068,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1244610778",
+   "name": "Dipl.-vet.-med. Jörg Porada",
+   "lat": 52.5121271,
+   "lon": 13.4195273,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12989186501",
+   "name": "Tierarztpraxis am Wasserturm",
+   "lat": 52.5350637,
+   "lon": 13.419688,
+   "distKm": 1.9,
+   "address": "4 Rykestraße, 10405",
+   "tags": {
+    "website": "https://www.tierarztpraxis-wasserturm.de/"
+   }
+  },
+  {
+   "id": "node/13830667055",
+   "name": "Natalia Rotgang",
+   "lat": 52.53103,
+   "lon": 13.4275723,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "phone": "+49 30 4254696",
+    "opening_hours": "Mo-Th 09:00-13:00,17:00-19:00; Fr 09:00-13:00; Sa 13:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/7211094992",
+   "name": "Rex Tierarztpraxis",
+   "lat": 52.5333026,
+   "lon": 13.4292251,
+   "distKm": 2.2,
+   "address": "204 Greifswalder Straße, Berlin, 10405",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/7310483025",
+   "name": "Tierarztpraxis Claudia Handke",
+   "lat": 52.5407903,
+   "lon": 13.4154364,
+   "distKm": 2.4,
+   "address": "15 Danziger Straße, Berlin, 10435",
+   "tags": {
+    "phone": "+49 30 4421760",
+    "website": "https://www.tierarztpraxis-prenzlauerberg.de",
+    "opening_hours": "Mo 10:00-13:00, 16:00-20:00; Tu 10:00-15:00; We 10:00-15:00; Th 10:00-13:00, 15:00-19:00; Fr 10:00-13:00, 15:00-18:00"
+   }
+  },
+  {
+   "id": "node/268917040",
+   "name": "Tierarztpraxis am Urban",
+   "lat": 52.4956842,
+   "lon": 13.4052329,
+   "distKm": 2.7,
+   "address": "69 Baerwaldstraße, Berlin, 10961",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-12:00, Mo 17:00-19:00, Tu,We,Fr 16:00-18:00, Th 17:00-19:00"
+   }
+  },
+  {
+   "id": "node/9400600599",
+   "name": "Tierarztpraxis Friedrichshain",
+   "lat": 52.5208823,
+   "lon": 13.4462478,
+   "distKm": 2.8,
+   "address": "44 Auerstraße, Berlin, 10249",
+   "tags": {
+    "phone": "+49 30 78 08 34 85",
+    "website": "https://www.tierarztpraxis-friedrichshain.de",
+    "opening_hours": "Mo 09:00-15:00; Tu-We 12:00-15:00; Th 10:30-15:00; Fr 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/5357470034",
+   "name": "Tierarztpraxis am Mauerpark",
+   "lat": 52.5470756,
+   "lon": 13.4082736,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/1169112227",
+   "name": "Tierarztpraxis am Velodrom",
+   "lat": 52.5281462,
+   "lon": 13.4501959,
+   "distKm": 3.2,
+   "address": "4 Conrad-Blenkle-Straße, Berlin, 10407",
+   "tags": {
+    "opening_hours": "Mo,Th 12:00-19:00; Tu,Fr 09:00-15:00; We,Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/1965863459",
+   "name": "Dr. Demmler, Dr. Wehming",
+   "lat": 52.4969564,
+   "lon": 13.4325994,
+   "distKm": 3.2,
+   "address": "25 Wiener Straße, Berlin, 10999",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-12:00,16:00-19:00; Sa 10:00-12:00; Su 10:00-11:00"
+   }
+  },
+  {
+   "id": "node/3906998156",
+   "name": "Tierheilpraxis Kreuzberg",
+   "lat": 52.5097882,
+   "lon": 13.4509749,
+   "distKm": 3.3,
+   "address": "29 Warschauer Straße, Berlin, 10243",
+   "tags": {
+    "opening_hours": "Mo,We,Fr 11:00-17:00; Tu,Th 14:00-20:00"
+   }
+  },
+  {
+   "id": "node/3649210316",
+   "name": "Tierarztpraxis an den Allee-Arcaden",
+   "lat": 52.5496022,
+   "lon": 13.4168501,
+   "distKm": 3.4,
+   "address": "45 Greifenhagener Straße, Berlin, 10437",
+   "tags": {
+    "website": "https://www.tierarztpraxis-allee-arcaden.de/",
+    "opening_hours": "Mo,Tu,Th 09:00-12:00,16:00-18:00; Fr 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/4462896482",
+   "name": "Tierphysiotherapeut Lenk",
+   "lat": 52.5509615,
+   "lon": 13.4068685,
+   "distKm": 3.4,
+   "address": "30 Schivelbeiner Straße, Berlin, 10439",
+   "tags": {}
+  },
+  {
+   "id": "node/5326151790",
+   "name": "Tierarztpraxis Lenk",
+   "lat": 52.5502349,
+   "lon": 13.408248,
+   "distKm": 3.4,
+   "address": "1 Schönfließer Straße",
+   "tags": {
+    "phone": "+49304469769",
+    "website": "https://tierarztpraxis-lenk.de/",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa 09:00-18:00, Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/9038458603",
+   "name": "Tierärzte-Kreuzberg",
+   "lat": 52.4929733,
+   "lon": 13.4338357,
+   "distKm": 3.6,
+   "address": "19 Liegnitzer Straße, Berlin, 10999",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-24:00,16:00-20:00; PH,Sa,Su 10:00-24:00"
+   }
+  },
+  {
+   "id": "node/1352697273",
+   "name": "DVM J. Rafael",
+   "lat": 52.5525185,
+   "lon": 13.4154857,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We 09:00-12:00,15:00-19:00, Tu,Th 09:00-11:00,14:00-18:00, Fr 09:00-12:00, Sa 09:00-11:00"
+   }
+  },
+  {
+   "id": "node/11345799891",
+   "name": "Rex",
+   "lat": 52.5073508,
+   "lon": 13.4569833,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.rex.app/",
+    "opening_hours": "Mo-Fr 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/7937984201",
+   "name": "Tierarztpraxis am Hermannplatz",
+   "lat": 52.4863263,
+   "lon": 13.4233555,
+   "distKm": 3.9,
+   "address": "1 Lucy-Lameck-Straße, Berlin, 12049",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-12:00, 15:00-18:00; Sa 10:00-11:00; Su, PH off"
+   }
+  },
+  {
+   "id": "node/3080776284",
+   "name": "Tierärzliche Praxis am Lützowufer",
+   "lat": 52.5061832,
+   "lon": 13.3494203,
+   "distKm": 4.1,
+   "address": "26 Lützowufer, Berlin, 10787",
+   "tags": {
+    "website": "https://www.vet-berlin.de/"
+   }
+  },
+  {
+   "id": "node/6509362833",
+   "name": "Tierarztpraxis Laskawy",
+   "lat": 52.5177488,
+   "lon": 13.4661107,
+   "distKm": 4.1,
+   "address": "58 Bänschstraße, Berlin",
+   "tags": {
+    "phone": "+49 30 4267684",
+    "website": "http://www.laskawy-berlin.de",
+    "opening_hours": "Mo,We 14:00-19:00; Tu,Th 08:00-13:00; Fr 08:00-13:00,14:00-19:00"
+   }
+  },
+  {
+   "id": "node/6705031970",
+   "name": "Kleintierpraxis Dirk Oschika",
+   "lat": 52.5094514,
+   "lon": 13.4645357,
+   "distKm": 4.2,
+   "address": "35A Krossener Straße, Berlin, 10245",
+   "tags": {
+    "opening_hours": "Mo,Tu,Th 09:00-11:00,15:00-19:00"
+   }
+  },
+  {
+   "id": "node/8579480418",
+   "name": "Tierärzteteam Hansavet GmbH",
+   "lat": 52.5189471,
+   "lon": 13.3427257,
+   "distKm": 4.2,
+   "address": "5 Bartningallee, Berlin, 10557",
+   "tags": {
+    "phone": "+49 30 39886966",
+    "website": "https://www.vetpraxis-schirow.de/",
+    "opening_hours": "Mo-Fr 10:00-15:00,16:00-19:00"
+   }
+  },
+  {
+   "id": "node/12238881093",
+   "name": "Janine Bräuer",
+   "lat": 52.4922101,
+   "lon": 13.447823,
+   "distKm": 4.2,
+   "address": "5 Krüllsstraße, Berlin, 12435",
+   "tags": {
+    "opening_hours": "Mo 10:00-12:00,13:00-16:00; Tu 16:00-19:00; We 12:00-17:00; Fr,Sa 10:00-12:00; Th,Su off"
+   }
+  },
+  {
+   "id": "node/9432134789",
+   "name": "Praxis für Kleintiermedizin Janine Lenk",
+   "lat": 52.556357,
+   "lon": 13.4245524,
+   "distKm": 4.3,
+   "address": "47 Eschengraben, Berlin, 13189",
+   "tags": {
+    "opening_hours": "Mo,Tu,Th 13:00-19:00; We 17:00-21:00; Fr 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9456247850",
+   "name": "Peter Vogel",
+   "lat": 52.5111185,
+   "lon": 13.4668484,
+   "distKm": 4.3,
+   "address": "14 Finowstraße",
+   "tags": {
+    "phone": "+49 30 29776835",
+    "website": "https://www.drpetervogel.de/",
+    "opening_hours": "Tu, We 10:00-15:00; Th 10:00-12:00; Mo, Fr 10:00-12:00, 16:00-19:00"
+   }
+  },
+  {
+   "id": "node/9786575482",
+   "name": "Tierärztliche Praxis Beck",
+   "lat": 52.4870325,
+   "lon": 13.4368022,
+   "distKm": 4.3,
+   "address": "25 Weichselstraße, Berlin, 12045",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-11:00,15:00-19:00"
+   }
+  },
+  {
+   "id": "node/1247761224",
+   "name": "Tierarztpraxis",
+   "lat": 52.5290099,
+   "lon": 13.4684992,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 09:30-11:00,16:30-19:00; We 17:00-20:00; Sa 10:00-12:00"
+   }
+  },
+  {
+   "id": "node/2420872095",
+   "name": "Dr. Wolfgang Hoffmann",
+   "lat": 52.5286363,
+   "lon": 13.3412782,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-12:00,15:00-18:00"
+   }
+  },
+  {
+   "id": "node/3826013974",
+   "name": "Tierarztpraxis am Nollendorfplatz",
+   "lat": 52.4976524,
+   "lon": 13.3504475,
+   "distKm": 4.5,
+   "address": "20 Nollendorfstraße, Berlin, 10777",
+   "tags": {
+    "opening_hours": "Mo-Tu 10:00-12:00,17:00-19:00; We 17:00-19:00; Th 10:00-12:00,16:00-18:00; Fr 10:00-14:00; Sa \"by appointment\""
+   }
+  },
+  {
+   "id": "node/5090019016",
+   "name": "Tierarztpraxis",
+   "lat": 52.5488636,
+   "lon": 13.4513273,
+   "distKm": 4.5,
+   "address": "2 Max-Steinke-Straße, Berlin, 13086",
+   "tags": {
+    "phone": "+49 30 9252160",
+    "opening_hours": "Mo-Fr 09:00-11:00, Mo,Tu,Th,Fr 16:00-18:00, Sa 10:00-12:00"
+   }
+  },
+  {
+   "id": "node/9166121510",
+   "name": "Tierarztpraxis Dr. Dirk Mauch",
+   "lat": 52.5600099,
+   "lon": 13.4154386,
+   "distKm": 4.5,
+   "address": "13 Elsa-Brändström-Straße, Berlin, 13189",
+   "tags": {
+    "phone": "+49 30 4710133",
+    "website": "http://www.elsavet.de/"
+   }
+  },
+  {
+   "id": "node/9516282788",
+   "name": "Tierarztpraxis im Komponistenviertel",
+   "lat": 52.5476848,
+   "lon": 13.4541052,
+   "distKm": 4.5,
+   "address": "48 Bizetstraße, Berlin, 13088",
+   "tags": {
+    "phone": "+49309273441",
+    "website": "https://www.tierarztpraxis-peters-weissensee.de/",
+    "opening_hours": "Mo,Fr 09:00-16:00; Tu,Th 12:00-18:00; We 10:00-12:00"
+   }
+  },
+  {
+   "id": "node/11717159971",
+   "name": "Rex Tierarztpraxis",
+   "lat": 52.4807206,
+   "lon": 13.425592,
+   "distKm": 4.6,
+   "address": "227 Hermannstraße, Berlin, 12049",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/13602185590",
+   "name": "Steffen Wiesner",
+   "lat": 52.5479758,
+   "lon": 13.3557329,
+   "distKm": 4.6,
+   "address": "145 Müllerstraße",
+   "tags": {
+    "phone": "+49 30 4556020"
+   }
+  },
+  {
+   "id": "node/3754655246",
+   "name": "Tierarzt Dr. Ferencz",
+   "lat": 52.5241824,
+   "lon": 13.3359576,
+   "distKm": 4.7,
+   "address": "3 Elberfelder Straße, Berlin, 10555",
+   "tags": {
+    "website": "http://www.tierarztpraxis-moabit.de",
+    "opening_hours": "\"'Weiter Terminsprechstunde. Bitte rufen Sie an 030-3988 9278'\""
+   }
+  },
+  {
+   "id": "node/5514404517",
+   "name": "Tierarztpraxis Dr. Klaus Lendner",
+   "lat": 52.4990938,
+   "lon": 13.344571,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 09:00-12:00,16:00-19:00; We,Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/12851066023",
+   "name": "Dr. Pastor",
+   "lat": 52.5486928,
+   "lon": 13.3531883,
+   "distKm": 4.7,
+   "address": "52a Brüsseler Straße, Berlin, 13353",
+   "tags": {
+    "website": "https://www.tierarztpraxis-pastor.de/",
+    "opening_hours": "Mo-Fr 09:00-11:00,16:00-19:00; Sa,Su 14:00-16:00"
+   }
+  },
+  {
+   "id": "node/1464419364",
+   "name": "Ullrich Mattke",
+   "lat": 52.5536467,
+   "lon": 13.4483752,
+   "distKm": 4.8,
+   "address": "5 Gäblerstraße, Berlin, 13086",
+   "tags": {
+    "opening_hours": "Mo-Th 09:00-12:00,15:00-19:00; Sa 10:00-12:00; Fr 09:00-12:00,15:00-17:00"
+   }
+  },
+  {
+   "id": "node/4789962778",
+   "name": "Tierarztpraxis Oldenburger Straße",
+   "lat": 52.5289464,
+   "lon": 13.3357023,
+   "distKm": 4.8,
+   "address": "44 Oldenburger Straße, Berlin, 10551",
+   "tags": {
+    "phone": "+49303951555",
+    "website": "https://www.tierarztpraxis-oldenburger-strasse.de",
+    "opening_hours": "Mo 10:00-12:00,15:00-18:00; Tu 10:00-14:00,18:00-20:00; We 10:00-12:00,15:00-18:00; Th 10:00-14:00,18:00-20:00; Fr 10:00-12:00,15:00-18:00; Sa 09:00-11:00"
+   }
+  },
+  {
+   "id": "node/3694035418",
+   "name": "Tierarztpraxis Dr. med. vet. Gerald Schmid",
+   "lat": 52.4897759,
+   "lon": 13.3488311,
+   "distKm": 5.1,
+   "address": "40 Eisenacher Straße, Berlin, 10781",
+   "tags": {
+    "phone": "+49 30 211 17 79",
+    "opening_hours": "Mo-We,Fr 10:00-14:00; Th 15:00-18:00"
+   }
+  },
+  {
+   "id": "node/4174131466",
+   "name": "Tierarztpraxis Dr. med. vet. Joachim Kirchner",
+   "lat": 52.5661672,
+   "lon": 13.4090789,
+   "distKm": 5.1,
+   "address": "43 Florastraße, Berlin, 13187",
+   "tags": {
+    "phone": "+49 30 49 50 09 49",
+    "website": "http://www.tierarzt-in-pankow.de/",
+    "opening_hours": "Mo-Fr 14:00-18:00; Tu,Th 09:00-12:00,14:00-18:00"
+   }
+  },
+  {
+   "id": "node/13903589972",
+   "name": "Dr. J. Bauer",
+   "lat": 52.5174713,
+   "lon": 13.4798037,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 09:00-11:00,16:00-19:00; We 09:00-11:00"
+   }
+  },
+  {
+   "id": "node/3444597275",
+   "name": "Tierarztpraxis am Südkreuz",
+   "lat": 52.4807694,
+   "lon": 13.3623013,
+   "distKm": 5.2,
+   "address": "19 Gustav-Müller-Straße, Berlin, 10829",
+   "tags": {
+    "website": "https://www.tierarztpraxis-am-suedkreuz.de/",
+    "opening_hours": "Mo-Fr 10:00-12:00, Mo,We 16:00-19:00, Tu,Th,Fr 16:00-18:00"
+   }
+  },
+  {
+   "id": "node/7609585407",
+   "name": "Tierarztpraxis Denisse Barrera",
+   "lat": 52.4774124,
+   "lon": 13.439113,
+   "distKm": 5.3,
+   "address": "133 Karl-Marx-Straße, Berlin, 12043",
+   "tags": {
+    "opening_hours": "Mo-Sa 16:00-20:00"
+   }
+  },
+  {
+   "id": "node/4809992565",
+   "name": "Tierarztpraxis am Burgerpark",
+   "lat": 52.5694182,
+   "lon": 13.4001258,
+   "distKm": 5.5,
+   "address": "1 Wilhelm-Kuhr-Straße, Berlin, 13187",
+   "tags": {
+    "phone": "+49 30 48479400",
+    "website": "https://www.tierarzt-pankow.de/",
+    "opening_hours": "Mo,We 14:00-19:00; Tu,Th 09:00-14:00; Fr 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/5297162644",
+   "name": "Vets for cats",
+   "lat": 52.4897098,
+   "lon": 13.3392413,
+   "distKm": 5.6,
+   "address": "2 Bayerischer Platz, Berlin, 10779",
+   "tags": {
+    "opening_hours": "Mo-Th 09:00-19:00; Fr,Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/7623775572",
+   "name": "Tierarztpraxis S. Lattermann",
+   "lat": 52.5519001,
+   "lon": 13.3411969,
+   "distKm": 5.6,
+   "address": "14 Transvaalstraße, Berlin, 13351",
+   "tags": {
+    "opening_hours": "Mo,We 08:00-14:00,13:30-18:30; Tu,Th-Fr 14:00-20:00; PH closed"
+   }
+  },
+  {
+   "id": "node/6603772445",
+   "name": "neko Tiergesundheit",
+   "lat": 52.5687932,
+   "lon": 13.3794234,
+   "distKm": 5.7,
+   "address": "47 Provinzstraße",
+   "tags": {
+    "phone": "+49 30 54814390",
+    "website": "https://www.neko-tiergesundheit.de",
+    "opening_hours": "Tu 15:00-19:00; We 10:00-15:00; Th 15:00-19:00"
+   }
+  },
+  {
+   "id": "node/3284006061",
+   "name": "Tierarztpraxis Andrea Reich",
+   "lat": 52.561957,
+   "lon": 13.353401,
+   "distKm": 5.8,
+   "address": "95 Holländerstraße, Berlin, 13407",
+   "tags": {
+    "phone": "+49304557051",
+    "website": "https://www.tierarztpraxis-reinickendorf.de/",
+    "opening_hours": "Mo 10:00-18:00; Th,Fr 10:00-16:00; Tu 10:00-14:00; We 14:00-18:00"
+   }
+  },
+  {
+   "id": "node/6344954141",
+   "name": "Tierarztpraxis Hohenzollerndamm 3",
+   "lat": 52.4954404,
+   "lon": 13.3293192,
+   "distKm": 5.8,
+   "address": "3 Hohenzollerndamm, Berlin, 10717",
+   "tags": {
+    "opening_hours": "Mo-Tu,Th-Fr 10:00-12:30,17:00-19:00; We 18:00-20:00; Sa 11:00-13:00"
+   }
+  },
+  {
+   "id": "node/9221860122",
+   "name": "Tierarztpraxis am Amalienpark",
+   "lat": 52.5721186,
+   "lon": 13.4135786,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.tierarztpraxis-amalienpark.de/",
+    "opening_hours": "Mo,Tu,Th 09:00-12:00,15:00-18:00; We 09:00-12:00; Fr 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/12849196704",
+   "name": "Praxis für Kleine Haustiere Dr. Niels Lösch",
+   "lat": 52.5399544,
+   "lon": 13.4849492,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "phone": "+49309866411",
+    "website": "https://tierarzt-drloesch.de",
+    "opening_hours": "Mo-We, Fr 10:00-12:00; Mo, Tu, Th 16:00-19:00; Fr 16:00-18:00; Sa 11:00-12:30"
+   }
+  },
+  {
+   "id": "node/1905963733",
+   "name": "Tierarztpraxis Bärenwiese/ Tiernotarzt Berlin",
+   "lat": 52.497396,
+   "lon": 13.3245464,
+   "distKm": 6,
+   "address": "151 Uhlandstraße, Berlin, 10719",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/6470421529",
+   "name": "Tierarztpraxis Sonnenallee",
+   "lat": 52.4748376,
+   "lon": 13.4534973,
+   "distKm": 6,
+   "address": "204 Sonnenallee, Berlin, 12059",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-12:00,16:00-20:00; Sa 11:00-13:00 || \"und nach Vereinbarung\""
+   }
+  },
+  {
+   "id": "node/8691573555",
+   "name": "Dr. Kurt Helmich;Dr. Dieter Oelke",
+   "lat": 52.4854474,
+   "lon": 13.3367552,
+   "distKm": 6,
+   "address": "22 Kufsteiner Straße, Berlin, 10825",
+   "tags": {
+    "website": "https://tiermedizinzentrum.de/"
+   }
+  },
+  {
+   "id": "node/9238314072",
+   "name": "Tierarztpraxis Sarah Watson",
+   "lat": 52.468653,
+   "lon": 13.4330363,
+   "distKm": 6,
+   "address": "29 Altenbraker Straße, Berlin, 12051",
+   "tags": {
+    "opening_hours": "We,Fr 09:00-15:00; Sa 10:00-12:00; Mo 09:00-17:00; Tu,Th 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/13874042051",
+   "name": "BerlinVets Zentrum für Kleintiermedizin Adam&Lehmann GbR",
+   "lat": 52.5120624,
+   "lon": 13.4932951,
+   "distKm": 6,
+   "address": "213-217 Frankfurter Allee",
+   "tags": {
+    "phone": "+49 30 50178500",
+    "website": "https://www.berlinvets.de",
+    "opening_hours": "Mo-Tu,Th-Fr 09:00-20:00; We 15:00-20:00"
+   }
+  }
+ ]
+}

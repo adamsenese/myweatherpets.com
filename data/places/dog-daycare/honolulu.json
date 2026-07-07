@@ -1,0 +1,25 @@
+{
+ "$schemaVersion": 1,
+ "city": "honolulu",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:31:46.873Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/11430462410",
+   "name": "Tails of Hawaii",
+   "lat": 21.391435,
+   "lon": -157.9536976,
+   "distKm": 13.6,
+   "address": "98-751 Kuahao Place, Pearl City, HI 96782",
+   "tags": {
+    "phone": "+1-808-676-9663",
+    "website": "https://www.tailsofhawaii.com/index.html",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 09:00-15:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

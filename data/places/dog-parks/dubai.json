@@ -1,0 +1,103 @@
+{
+ "$schemaVersion": 1,
+ "city": "dubai",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:24:06.155Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 10,
+ "places": [
+  {
+   "id": "node/10679928342",
+   "name": "BBET Dog Park",
+   "lat": 25.1886547,
+   "lon": 55.2649641,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1528337950",
+   "name": "Downtown Dog Park",
+   "lat": 25.1861245,
+   "lon": 55.2769104,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/930168196",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.091102,
+   "lon": 55.1756271,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11566433693",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.0651713,
+   "lon": 55.20558,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11198371727",
+   "name": "Eisbej Dog Park",
+   "lat": 25.0544282,
+   "lon": 55.2193926,
+   "distKm": 17.5,
+   "address": "شارع 3, Jumeirah Village Circle",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/11521157194",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.0577082,
+   "lon": 55.2024896,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1243100061",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.0491723,
+   "lon": 55.21178,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11505259673",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.0471265,
+   "lon": 55.2022296,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/795896088",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.064885,
+   "lon": 55.1572831,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/930169131",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.0701511,
+   "lon": 55.1455504,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

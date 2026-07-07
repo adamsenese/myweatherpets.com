@@ -1,0 +1,630 @@
+{
+ "$schemaVersion": 1,
+ "city": "chicago",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:20:10.492Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/10824701925",
+   "name": "Partners Animal Hopsital",
+   "lat": 41.8746648,
+   "lon": -87.6293944,
+   "distKm": 0.4,
+   "address": "550 South Dearborn Street, Chicago, IL 60605",
+   "tags": {
+    "phone": "+1-312-319-8004",
+    "website": "https://partnersvetsl.com"
+   }
+  },
+  {
+   "id": "node/11065360977",
+   "name": "Burnham Park Animal Hospital",
+   "lat": 41.8693557,
+   "lon": -87.6272808,
+   "distKm": 1,
+   "address": "1025 South State Street, Chicago, IL 60605",
+   "tags": {
+    "website": "https://www.burnhamparkvet.com/"
+   }
+  },
+  {
+   "id": "node/13474977203",
+   "name": "Veterinary Emergency Group",
+   "lat": 41.8683546,
+   "lon": -87.6410624,
+   "distKm": 1.4,
+   "address": "1114 South Clinton Street, Chicago, IL 60607",
+   "tags": {}
+  },
+  {
+   "id": "way/210679604",
+   "name": "Anti-Cruelty Society",
+   "lat": 41.8913679,
+   "lon": -87.63305,
+   "distKm": 1.5,
+   "address": "153 West Grand Avenue, Chicago, IL 60654",
+   "tags": {}
+  },
+  {
+   "id": "node/12282640324",
+   "name": "Bond Vet",
+   "lat": 41.8815376,
+   "lon": -87.6491294,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10045011965",
+   "name": "Banfield Pet Hospital",
+   "lat": 41.8669839,
+   "lon": -87.6439065,
+   "distKm": 1.7,
+   "address": "645 West Roosevelt Road, Chicago, IL 60607",
+   "tags": {}
+  },
+  {
+   "id": "node/11883807755",
+   "name": "GoodVets Streeterville",
+   "lat": 41.8916373,
+   "lon": -87.6210338,
+   "distKm": 1.7,
+   "address": "227 East Grand Avenue, Chicago, IL 60611",
+   "tags": {
+    "website": "https://goodvets.com/locations/chicago/streeterville",
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/11949220389",
+   "name": "GoodVets",
+   "lat": 41.8777753,
+   "lon": -87.6499469,
+   "distKm": 1.7,
+   "address": "901 West Jackson Boulevard, Chicago, IL 60607",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-15:00"
+   }
+  },
+  {
+   "id": "way/1504713100",
+   "name": "West Loop Veterinary Care",
+   "lat": 41.8841047,
+   "lon": -87.6482305,
+   "distKm": 1.7,
+   "address": "815 West Randolph Street, Chicago, IL 60607",
+   "tags": {}
+  },
+  {
+   "id": "node/12481098295",
+   "name": "Lovet Pet Health Care",
+   "lat": 41.8869739,
+   "lon": -87.6478067,
+   "distKm": 1.8,
+   "address": "802 West Fulton Market",
+   "tags": {}
+  },
+  {
+   "id": "node/12156189901",
+   "name": "BLVD Vet River North",
+   "lat": 41.8937195,
+   "lon": -87.6390254,
+   "distKm": 1.9,
+   "address": "375 West Erie Street",
+   "tags": {
+    "phone": "+1 312-888-3630",
+    "website": "https://www.blvd.vet/",
+    "opening_hours": "Mo-Tu 08:00-20:00; We-Fr 08:00-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/11088290354",
+   "name": "Companion Animal Hospital River North",
+   "lat": 41.896265,
+   "lon": -87.631027,
+   "distKm": 2,
+   "address": "749 North Clark Street, Chicago, IL 60654",
+   "tags": {
+    "phone": "+1 312-643-2901",
+    "website": "https://companionrn.com",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-16:00; Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/12424738441",
+   "name": "Animal Advocate Pet Hospital",
+   "lat": 41.8776968,
+   "lon": -87.6543974,
+   "distKm": 2,
+   "address": "1061 West Jackson Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/12871473871",
+   "name": "Metropolitan Veterinary Clinic",
+   "lat": 41.8603445,
+   "lon": -87.6243795,
+   "distKm": 2,
+   "address": "1556 South Michigan Avenue, Chicago, IL 60605",
+   "tags": {}
+  },
+  {
+   "id": "node/11883789043",
+   "name": "Vetique",
+   "lat": 41.8978421,
+   "lon": -87.631089,
+   "distKm": 2.2,
+   "address": "77 West Chestnut Street, Chicago, IL 60610",
+   "tags": {
+    "phone": "+1 312-291-9656",
+    "website": "https://vetique.com/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/210308479",
+   "name": "VCA Lake Shore Animal Hospital",
+   "lat": 41.8965674,
+   "lon": -87.6521308,
+   "distKm": 2.8,
+   "address": "960 West Chicago Avenue, Chicago, IL 60642",
+   "tags": {}
+  },
+  {
+   "id": "node/11883789044",
+   "name": "Near North Animal Hospital",
+   "lat": 41.9040761,
+   "lon": -87.6342978,
+   "distKm": 2.9,
+   "address": "1207 North Wells Street, Chicago, IL 60610",
+   "tags": {
+    "phone": "+1-312-944-5350",
+    "website": "https://www.nearnorthanimalhospital.com/",
+    "opening_hours": "Mo-Tu 08:00-19:30; We 08:00-18:00; Th 08:00-19:30; Fr 08:00-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/210679725",
+   "name": "Banfield Pet Hospital",
+   "lat": 41.9036449,
+   "lon": -87.6356442,
+   "distKm": 2.9,
+   "address": "225 West Division Street, Chicago, IL 60610",
+   "tags": {
+    "phone": "+1-312-337-7387"
+   }
+  },
+  {
+   "id": "node/6187928566",
+   "name": "Banfield Pet Hospital",
+   "lat": 41.9065136,
+   "lon": -87.6501432,
+   "distKm": 3.6,
+   "address": "1415 North Kingsbury Street, Chicago, IL 60642",
+   "tags": {
+    "phone": "+1-312-642-2194",
+    "website": "https://www.banfield.com/veterinarians/il/chicago/slp"
+   }
+  },
+  {
+   "id": "node/12150364202",
+   "name": "Old Town Animal Care Center",
+   "lat": 41.9107518,
+   "lon": -87.6417533,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.oldtownvetcare.com/",
+    "opening_hours": "Mo, We, Fr 06:30-19:00; Tu, Th 06:30-20:00; Sa 06:30-15:00; Su 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/10049890211",
+   "name": "Veterinary Emergency Group",
+   "lat": 41.9107376,
+   "lon": -87.6477159,
+   "distKm": 3.9,
+   "address": "755 West North Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/3652941310",
+   "name": "Wicker Park Veterinary Clinic",
+   "lat": 41.9028966,
+   "lon": -87.6660127,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12165975100",
+   "name": "Bronzeville Animal Clinic",
+   "lat": 41.8382198,
+   "lon": -87.6217386,
+   "distKm": 4.5,
+   "address": "203 East 31st Street, Chicago, IL 60616",
+   "tags": {}
+  },
+  {
+   "id": "node/9929776582",
+   "name": "Oz Animal Hospital",
+   "lat": 41.9220263,
+   "lon": -87.6445715,
+   "distKm": 5,
+   "address": "620 West Webster Avenue, Chicago, IL 60614",
+   "tags": {}
+  },
+  {
+   "id": "node/9982632037",
+   "name": "Village West Veterinary",
+   "lat": 41.8967954,
+   "lon": -87.6871381,
+   "distKm": 5.2,
+   "address": "840 North Western Avenue, Chicago, IL 60622",
+   "tags": {
+    "website": "https://www.villagewestvet.com/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/463772275",
+   "name": "Family Pet Animal Hospital",
+   "lat": 41.9214436,
+   "lon": -87.6634286,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13579020009",
+   "name": "Boulevard Veterinary",
+   "lat": 41.9329957,
+   "lon": -87.6419053,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/210325308",
+   "name": "Belmont Animal Hospital",
+   "lat": 41.9400986,
+   "lon": -87.6595991,
+   "distKm": 7.3,
+   "address": "1212 West Belmont Avenue, Chicago, IL 60657",
+   "tags": {}
+  },
+  {
+   "id": "node/5694736437",
+   "name": "Pets First",
+   "lat": 41.9436974,
+   "lon": -87.6448975,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/165150812",
+   "name": "Brighton Park Animal Hospital",
+   "lat": 41.8245899,
+   "lon": -87.6867187,
+   "distKm": 7.6,
+   "address": "3779 South Archer Avenue, Chicago, IL 60632",
+   "tags": {}
+  },
+  {
+   "id": "node/11232689032",
+   "name": "Wrigglyville Veterinary",
+   "lat": 41.9487266,
+   "lon": -87.6493938,
+   "distKm": 8,
+   "address": "3651 North Halsted Street, Chicago, IL 60613",
+   "tags": {
+    "phone": "+1 773-698-7525",
+    "website": "https://wrigleyvillevet.com",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/11763378104",
+   "name": "Sploot Veterinary Care - Logan Square",
+   "lat": 41.9268368,
+   "lon": -87.7040868,
+   "distKm": 8.2,
+   "address": "2510 North Milwaukee Avenue, Chicago, IL 60647",
+   "tags": {
+    "phone": "+1 312-779-0720",
+    "website": "https://www.splootvets.com/locations/chicago/logan-square",
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "way/209457460",
+   "name": "Roscoe Village Animal Hospital",
+   "lat": 41.9386038,
+   "lon": -87.6863722,
+   "distKm": 8.2,
+   "address": "3131 North Clybourn Avenue, Chicago, IL 60618",
+   "tags": {
+    "phone": "+17735493131",
+    "website": "https://www.roscoevillageanimalhospital.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/3551784088",
+   "name": "Logan Square Animal Hospital",
+   "lat": 41.9275891,
+   "lon": -87.7047107,
+   "distKm": 8.3,
+   "address": "2543 North Milwaukee Avenue, Chicago, IL 60647",
+   "tags": {}
+  },
+  {
+   "id": "node/13157190801",
+   "name": "North Center Animal Hospital",
+   "lat": 41.9470536,
+   "lon": -87.6743634,
+   "distKm": 8.5,
+   "address": "1800-1808 West Addison Street",
+   "tags": {}
+  },
+  {
+   "id": "node/8223104137",
+   "name": "MedVet Chicago",
+   "lat": 41.9423443,
+   "lon": -87.6968746,
+   "distKm": 9,
+   "address": "3305 North California Avenue, Chicago, IL 60618",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13147944703",
+   "name": "Precious Bond Animal Hospital",
+   "lat": 41.9525159,
+   "lon": -87.6774261,
+   "distKm": 9.2,
+   "address": "3901 North Lincoln Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/13143196002",
+   "name": "VSx Veterinary Surgery",
+   "lat": 41.953967,
+   "lon": -87.6796696,
+   "distKm": 9.4,
+   "address": "2015-2025 West Irving Park Road, Chicago, IL 60618",
+   "tags": {}
+  },
+  {
+   "id": "node/3291788174",
+   "name": "VCA Animal Hospital",
+   "lat": 41.9535742,
+   "lon": -87.700306,
+   "distKm": 10.2,
+   "address": "2851 West Irving Park Road, Chicago, IL 60618",
+   "tags": {}
+  },
+  {
+   "id": "way/209477544",
+   "name": "Lincoln Square Animal Hospital",
+   "lat": 41.9634389,
+   "lon": -87.6847925,
+   "distKm": 10.5,
+   "address": "4501 North Lincoln Avenue, Chicago, IL 60625",
+   "tags": {
+    "phone": "+1 773-271-5901",
+    "website": "https://lincolnsquareanimalhospital.com/",
+    "opening_hours": "Mo,Tu,We,Th 09:00-19:00; Fr,Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/3187516102",
+   "name": "Ravenswood Animal Hospital LLC",
+   "lat": 41.9615612,
+   "lon": -87.6980295,
+   "distKm": 10.9,
+   "address": "2752 West Montrose Avenue, Chicago, IL 60618",
+   "tags": {
+    "phone": "+1-773-539-7387",
+    "website": "http://www.ravenswoodvet.com"
+   }
+  },
+  {
+   "id": "node/4630597391",
+   "name": "Pet Vets Animal Hospital",
+   "lat": 41.872817,
+   "lon": -87.7835608,
+   "distKm": 12.7,
+   "address": "342 Harrison Street, Oak Park, IL 60304",
+   "tags": {
+    "phone": "+1-708-445-9988",
+    "website": "https://www.petvets-oakpark.com/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "way/446617851",
+   "name": "Hyde Park Animal Hospital",
+   "lat": 41.7686614,
+   "lon": -87.5856243,
+   "distKm": 12.7,
+   "address": "6937 South Stony Island Avenue, Chicago, IL 60649",
+   "tags": {}
+  },
+  {
+   "id": "way/771974700",
+   "name": "Carlson Animal Hospital",
+   "lat": 41.8889439,
+   "lon": -87.7853712,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13689191670",
+   "name": "Broadway Animal Hospital",
+   "lat": 41.9947939,
+   "lon": -87.6601695,
+   "distKm": 13.2,
+   "address": "6211 North Broadway, Chicago, IL 60660",
+   "tags": {
+    "phone": "+1-773-262-5445",
+    "website": "https://broadwayanimalhosp.com/"
+   }
+  },
+  {
+   "id": "node/11337004569",
+   "name": "VCA Animal Hospital",
+   "lat": 41.9979692,
+   "lon": -87.6697493,
+   "distKm": 13.7,
+   "address": "1545 West Devon Avenue, Chicago, IL 60660",
+   "tags": {
+    "website": "https://vcahospitals.com/misener-holley"
+   }
+  },
+  {
+   "id": "way/1126747287",
+   "name": "VCA Animal Hospital",
+   "lat": 41.8396986,
+   "lon": -87.8028521,
+   "distKm": 15,
+   "address": "2845 South Harlem Avenue, Berwyn, IL 60402",
+   "tags": {}
+  },
+  {
+   "id": "way/477410959",
+   "name": "River Forest Animal Hospital",
+   "lat": 41.8873375,
+   "lon": -87.8120686,
+   "distKm": 15.1,
+   "address": "7515 Lake Street, River Forest, IL 60305",
+   "tags": {}
+  },
+  {
+   "id": "node/10250137535",
+   "name": "Forest Glen Animal Hospital",
+   "lat": 41.9779841,
+   "lon": -87.7565904,
+   "distKm": 15.3,
+   "address": "5330 North Elston Avenue, Chicago, IL 60630",
+   "tags": {
+    "phone": "+1-773-283-2443",
+    "website": "https://www.forestglenanimalhospital.com/",
+    "opening_hours": "Mo, Tu 08:00-19:00; We-Fr 08:00-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/12884637185",
+   "name": "Park Animal Hospital",
+   "lat": 41.9269266,
+   "lon": -87.8065148,
+   "distKm": 15.6,
+   "address": "2540 North Harlem Avenue, Elmwood Park, IL 60707",
+   "tags": {
+    "website": "https://www.parksanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/823635260",
+   "name": "Howard Street Animal Hospital",
+   "lat": 42.0196647,
+   "lon": -87.6812078,
+   "distKm": 16.3,
+   "address": "715 Howard Street, Evanston, IL 60202",
+   "tags": {
+    "website": "https://howard-hospital.edan.io/"
+   }
+  },
+  {
+   "id": "way/162849209",
+   "name": "Abbot Animal Hospital",
+   "lat": 41.7919763,
+   "lon": -87.7900611,
+   "distKm": 16.4,
+   "address": "6721 West Archer Avenue",
+   "tags": {}
+  },
+  {
+   "id": "way/162836587",
+   "name": "Chicago Cat Clinic",
+   "lat": 41.997121,
+   "lon": -87.761135,
+   "distKm": 17.1,
+   "address": "5301 West Devon Avenue, Chicago, IL 60646",
+   "tags": {}
+  },
+  {
+   "id": "way/878421849",
+   "name": "Companion Animal Hospital of Norridge",
+   "lat": 41.9593935,
+   "lon": -87.8069034,
+   "distKm": 17.2,
+   "address": "4321 North Harlem Avenue, Norridge, IL 60706",
+   "tags": {}
+  },
+  {
+   "id": "way/282577567",
+   "name": "Summit Animal Hospital",
+   "lat": 41.7812095,
+   "lon": -87.8014932,
+   "distKm": 17.8,
+   "address": "6050 South Harlem Avenue, Summit, IL 60501",
+   "tags": {
+    "website": "https://www.summitanimalhospitals.com/"
+   }
+  },
+  {
+   "id": "way/31466823",
+   "name": "CZS Vetranary Hospital",
+   "lat": 41.8307556,
+   "lon": -87.8370676,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/429751696",
+   "name": "Skokie Animal Hospital",
+   "lat": 42.0182645,
+   "lon": -87.7481055,
+   "distKm": 18.4,
+   "address": "7550 Lincoln Avenue, Skokie, IL 60077",
+   "tags": {}
+  },
+  {
+   "id": "way/1431892034",
+   "name": "Riser Animal Hospital",
+   "lat": 42.0116187,
+   "lon": -87.7609305,
+   "distKm": 18.4,
+   "address": "5335 West Touhy Avenue, Skokie, IL 60077",
+   "tags": {
+    "website": "https://www.riserah.com/"
+   }
+  },
+  {
+   "id": "node/13161397114",
+   "name": "Banfield Pet Hospital",
+   "lat": 42.0104298,
+   "lon": -87.7656699,
+   "distKm": 18.5,
+   "address": "5485 West Touhy Avenue, Skokie, IL 60077",
+   "tags": {}
+  },
+  {
+   "id": "way/213941793",
+   "name": "Evanston Animal Hospital",
+   "lat": 42.041026,
+   "lon": -87.6799209,
+   "distKm": 18.6,
+   "address": "516 Dempster Street, Evanston, IL 60202",
+   "tags": {}
+  }
+ ]
+}

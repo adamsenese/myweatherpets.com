@@ -1,0 +1,248 @@
+{
+ "$schemaVersion": 1,
+ "city": "miami",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:29:36.454Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 24,
+ "places": [
+  {
+   "id": "way/1161844915",
+   "name": "Bayfront Park DEog Park",
+   "lat": 25.7731582,
+   "lon": -80.1853445,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1161845310",
+   "name": "Maurice A Ferre Dog Park",
+   "lat": 25.7836017,
+   "lon": -80.1874448,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/625369088",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.7942771,
+   "lon": -80.1861104,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/356970240",
+   "name": "Dog park (large dogs)",
+   "lat": 25.7344917,
+   "lon": -80.2270863,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/356970263",
+   "name": "Dog Park (small dogs)",
+   "lat": 25.7343811,
+   "lon": -80.2273642,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1180302689",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.7769776,
+   "lon": -80.1414393,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6096703508",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.8136493,
+   "lon": -80.1939572,
+   "distKm": 5.8,
+   "address": "81 Northeast 40th Street, Miami, FL 33137",
+   "tags": {}
+  },
+  {
+   "id": "way/237435648",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.7851416,
+   "lon": -80.138245,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "designated",
+    "access": "yes",
+    "opening_hours": "Mo-Su 07:00-21:00"
+   }
+  },
+  {
+   "id": "way/494862696",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.7625405,
+   "lon": -80.2575761,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/405180512",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.762297,
+   "lon": -80.2599674,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/1441864636",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.8018531,
+   "lon": -80.1306809,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/728061328",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.6948945,
+   "lon": -80.1636318,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1531679817",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.7646416,
+   "lon": -80.2986705,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1334664038",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.7275293,
+   "lon": -80.306872,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1311067326",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.6939609,
+   "lon": -80.3095631,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1011840246",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.889069,
+   "lon": -80.1678113,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1427385367",
+   "name": "Bark Park",
+   "lat": 25.8825196,
+   "lon": -80.1295177,
+   "distKm": 14.8,
+   "address": "East Bay Harbor Drive, Bay Harbor Islands, FL 33154",
+   "tags": {}
+  },
+  {
+   "id": "way/1306073754",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.8121448,
+   "lon": -80.3337782,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1408656337",
+   "name": "98th Street Dog Park",
+   "lat": 25.8889662,
+   "lon": -80.13175,
+   "distKm": 15.4,
+   "address": "98th Street, Bay Harbor Islands, FL 33154",
+   "tags": {}
+  },
+  {
+   "id": "way/1041983398",
+   "name": "Large Dogs Park",
+   "lat": 25.6407077,
+   "lon": -80.2741673,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1041983399",
+   "name": "Small Dogs Park",
+   "lat": 25.6406117,
+   "lon": -80.27366,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/382290458",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 25.8879052,
+   "lon": -80.2737255,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/757380201",
+   "name": "Bark Park",
+   "lat": 25.9020338,
+   "lon": -80.1238019,
+   "distKm": 17,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "designated",
+    "access": "yes",
+    "opening_hours": "Mo-Su sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/1441497117",
+   "name": "Haulover Park Dog Beach",
+   "lat": 25.9026141,
+   "lon": -80.121949,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "$schemaVersion": 1,
+ "city": "cleveland",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:31:28.358Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "node/6135518870",
+   "name": "Luca's Barkery",
+   "lat": 41.4894789,
+   "lon": -81.7115302,
+   "distKm": 1.8,
+   "address": "2929 Detroit Avenue, Cleveland, OH 44113",
+   "tags": {
+    "phone": "+12162790000"
+   }
+  },
+  {
+   "id": "node/8562037936",
+   "name": "Lake Erie Pet Food",
+   "lat": 41.4800189,
+   "lon": -81.7147368,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/824909529",
+   "name": "Lakeshore Feed and Seed Pet Food and Supplies",
+   "lat": 41.4697943,
+   "lon": -81.7222925,
+   "distKm": 4,
+   "address": "5116 Clark Avenue, Cleveland",
+   "tags": {}
+  },
+  {
+   "id": "way/1159226978",
+   "name": "Petco",
+   "lat": 41.460954,
+   "lon": -81.6883034,
+   "distKm": 4.3,
+   "address": "3387 Steelyard Drive, Cleveland, OH 44109",
+   "tags": {
+    "phone": "+1 216-635-1485",
+    "website": "https://stores.petco.com/oh/cleveland/pet-supplies-cleveland-oh-1666.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5462640917",
+   "name": "Pet-Tique",
+   "lat": 41.4863155,
+   "lon": -81.7606824,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5219925928",
+   "name": "Scales and Tales",
+   "lat": 41.485421,
+   "lon": -81.7872398,
+   "distKm": 7.9,
+   "address": "13618 Detroit Avenue, Lakewood, OH 44107",
+   "tags": {}
+  },
+  {
+   "id": "node/2273741049",
+   "name": "Something Fishy",
+   "lat": 41.4233864,
+   "lon": -81.6962373,
+   "distKm": 8.4,
+   "address": "4873 Broadview Road, Cleveland, OH 44109",
+   "tags": {}
+  },
+  {
+   "id": "way/539473500",
+   "name": "Something Fishy",
+   "lat": 41.424921,
+   "lon": -81.7101157,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3835047463",
+   "name": "Pet Supplies Plus",
+   "lat": 41.4839228,
+   "lon": -81.800406,
+   "distKm": 9,
+   "address": "14839 Detroit Avenue, Lakewood, OH 44107",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/6171430872",
+   "name": "Pet Supplies Plus",
+   "lat": 41.4243812,
+   "lon": -81.7355036,
+   "distKm": 9,
+   "address": "4808 Ridge Road, Brooklyn, OH 44144",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/2611715943",
+   "name": "Pet's General Store",
+   "lat": 41.4773784,
+   "lon": -81.8147356,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1184597696",
+   "name": "Kamm’s Corner Pet Shop",
+   "lat": 41.4518329,
+   "lon": -81.8186739,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5525622520",
+   "name": "Hollywood Feed",
+   "lat": 41.4797771,
+   "lon": -81.8394106,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3556569517",
+   "name": "PetSmart",
+   "lat": 41.5024316,
+   "lon": -81.5388497,
+   "distKm": 13,
+   "address": "13923 Cedar Road, South Euclid, OH 44118",
+   "tags": {
+    "phone": "+1 216-258-0643",
+    "website": "https://www.petsmart.com/stores/us/oh/south-euclid-store2313.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8910122472",
+   "name": "PetPeople",
+   "lat": 41.5009661,
+   "lon": -81.538389,
+   "distKm": 13,
+   "address": "13932 Cedar Road, University Heights, OH 44118",
+   "tags": {}
+  },
+  {
+   "id": "node/11745938792",
+   "name": "Petland",
+   "lat": 41.3832716,
+   "lon": -81.7376391,
+   "distKm": 13.4,
+   "address": "7651 West Ridgewood Drive, Parma, OH 44129",
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/4351912868",
+   "name": "Petco",
+   "lat": 41.4579486,
+   "lon": -81.8523414,
+   "distKm": 13.9,
+   "address": "20980 Westgate Mall, Fairview Park, OH 44126",
+   "tags": {
+    "phone": "+1 440-356-9570",
+    "website": "https://stores.petco.com/oh/fairviewpark/pet-supplies-fairviewpark-oh-1976.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5205002085",
+   "name": "Pet Supplies Plus",
+   "lat": 41.3978812,
+   "lon": -81.5955404,
+   "distKm": 14,
+   "address": "12662 Rockside Road, Garfield Heights, OH 44125",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/8781361247",
+   "name": "PetSmart",
+   "lat": 41.3775904,
+   "lon": -81.7392709,
+   "distKm": 14,
+   "address": "6870 Ridge Road, Parma, OH 44129",
+   "tags": {
+    "phone": "+1 440-845-9592",
+    "website": "https://www.petsmart.com/stores/us/oh/parma-store0532.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5567870612",
+   "name": "Pet Supplies Plus",
+   "lat": 41.3599532,
+   "lon": -81.6876507,
+   "distKm": 15.5,
+   "address": "1301 West Pleasant Valley Road, Parma, OH 44134",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/5206533101",
+   "name": "Pet Supplies Plus",
+   "lat": 41.4412666,
+   "lon": -81.8642217,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/8156138924",
+   "name": "Moore Pet Supply",
+   "lat": 41.5918777,
+   "lon": -81.5497379,
+   "distKm": 15.8,
+   "address": "567 East 185th Street, Euclid, OH 44119",
+   "tags": {}
+  },
+  {
+   "id": "node/8807168055",
+   "name": "Petco",
+   "lat": 41.3769932,
+   "lon": -81.7899471,
+   "distKm": 15.8,
+   "address": "6885 Southland Drive, Middleburg Heights, OH 44130",
+   "tags": {
+    "phone": "+1 440-788-2625",
+    "website": "https://stores.petco.com/oh/middleburgheights/pet-supplies-middleburgheights-oh-3822.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8812037713",
+   "name": "Petco",
+   "lat": 41.4657004,
+   "lon": -81.5089615,
+   "distKm": 15.9,
+   "address": "24001 Chagrin Boulevard, Beachwood, OH 44122",
+   "tags": {
+    "phone": "+1 216-595-2869",
+    "website": "https://stores.petco.com/oh/beachwood/pet-supplies-beachwood-oh-1957.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3328524378",
+   "name": "RMS Aquaculture",
+   "lat": 41.3882925,
+   "lon": -81.8225498,
+   "distKm": 16.3,
+   "address": "6629 Engle Road, Middleburg Heights, OH 44130",
+   "tags": {
+    "website": "https://www.rmsaquaculture.com/"
+   }
+  },
+  {
+   "id": "node/12286336737",
+   "name": "Pet Supplies Plus",
+   "lat": 41.5193595,
+   "lon": -81.4964684,
+   "distKm": 16.6,
+   "address": "5092 Mayfield Road, Lyndhurst, OH 44124",
+   "tags": {
+    "phone": "+1-440-473-9998",
+    "website": "https://www.petsuppliesplus.com/Store/OH/Lyndhurst/Lyndhurst/83",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11527352552",
+   "name": "Blue Fish Aquariums",
+   "lat": 41.5201999,
+   "lon": -81.4856631,
+   "distKm": 17.5,
+   "address": "5379 Mayfield Road, Lyndhurst, OH 44124",
+   "tags": {
+    "opening_hours": "Tu-Fr 11:00-19:00; Sa 11:00-18:00; Su 12:00-17:00; Mo off"
+   }
+  },
+  {
+   "id": "node/12959565853",
+   "name": "Hollywood Feed",
+   "lat": 41.463331,
+   "lon": -81.4857206,
+   "distKm": 17.8,
+   "address": "27299 Chagrin Boulevard, Woodmere, OH 44122",
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "$schemaVersion": 1,
+ "city": "charleston",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:35:29.237Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "node/13457135679",
+   "name": "K9 Resorts",
+   "lat": 32.8023873,
+   "lon": -79.8918009,
+   "distKm": 4.7,
+   "address": "918 Houston Northcutt Boulevard, Mount Pleasant, SC 29464",
+   "tags": {
+    "phone": "+1-843-806-0178",
+    "website": "https://www.k9resorts.com/mount-pleasant/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1466071494",
+   "name": "My Three Dogs Coleman",
+   "lat": 32.7969552,
+   "lon": -79.8866524,
+   "distKm": 4.7,
+   "address": "350 West Coleman Boulevard, Mount Pleasant, SC 29464",
+   "tags": {
+    "phone": "+1-843-881-7245",
+    "website": "https://mythreedogs.com/location/mt-pleasant-sc-coleman/",
+    "opening_hours": "Mo-Fr 7:00-19:00; Sa 10:00-19:00; Su 10:00-12:00,17:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/993880605",
+   "name": "Playful Pack Dog Daycare & Boarding",
+   "lat": 32.8228979,
+   "lon": -79.952039,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9935318224",
+   "name": "Dog Daze",
+   "lat": 32.7941728,
+   "lon": -80.0253163,
+   "distKm": 9,
+   "address": "820 Dupont Road, Charleston, SC 29407",
+   "tags": {
+    "phone": "+1 843-571-4433",
+    "website": "https://dogdazeboarding.com",
+    "opening_hours": "Mo-Fr 07:00-12:00,15:00-18:30, Sa 10:00-18:30; Su 10:00-11:00, 18:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/569044485",
+   "name": "In The Dog House",
+   "lat": 32.894707,
+   "lon": -79.929196,
+   "distKm": 13.1,
+   "address": "1032 Legrand Boulevard, Daniel Island, SC 29492",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-12:00,14:00-19:00; Sa 08:00-12:00,14:00-19:00; Su 08:00-11:00,16:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

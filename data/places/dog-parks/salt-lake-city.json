@@ -1,0 +1,216 @@
+{
+ "$schemaVersion": 1,
+ "city": "salt-lake-city",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:32:44.928Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "node/3032912444",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7614256,
+   "lon": -111.90041,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "website": "http://www.slcgov.com/node/768"
+   }
+  },
+  {
+   "id": "way/1381552533",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7582074,
+   "lon": -111.901288,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1479808284",
+   "name": "Mead Ave. Underpass Dog Park",
+   "lat": 40.7473797,
+   "lon": -111.8964091,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/472651954",
+   "name": "Pup Club",
+   "lat": 40.7428115,
+   "lon": -111.8972361,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/134168617",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.77781,
+   "lon": -111.8649965,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/502759649",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7402371,
+   "lon": -111.8691256,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "website": "http://www.slcgov.com/cityparks/parks-herman-franks-park"
+   }
+  },
+  {
+   "id": "way/1002140933",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7864106,
+   "lon": -111.8973714,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/120052028",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7787159,
+   "lon": -111.9374516,
+   "distKm": 4.4,
+   "address": "Salt Lake City, UT 84116",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/962317193",
+   "name": "Lions Dog Park",
+   "lat": 40.7178461,
+   "lon": -111.8805756,
+   "distKm": 4.9,
+   "address": "311 East Robert Avenue, South Salt Lake, UT 84115",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "id": "way/963261334",
+   "name": "Fairmont Dog Park",
+   "lat": 40.7201756,
+   "lon": -111.8612514,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1022090610",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.8000758,
+   "lon": -111.9238626,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/176874991",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7496999,
+   "lon": -111.8069959,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/14899316",
+   "name": "West Off-Leash Dog Area",
+   "lat": 40.7121482,
+   "lon": -111.8123905,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/14899315",
+   "name": "Central Off-Leash Dog Area",
+   "lat": 40.7109355,
+   "lon": -111.8083336,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/14899313",
+   "name": "East Off-Leash Dog Area",
+   "lat": 40.7103192,
+   "lon": -111.8034909,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/565185355",
+   "name": "Millrace Dog Park",
+   "lat": 40.6538519,
+   "lon": -111.9246448,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.taylorsvilleut.gov/our-city/parks-and-recreation/dog-park",
+    "opening_hours": "sunrise-sunset open; Tu off; PH sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/1018362589",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6486373,
+   "lon": -111.9356194,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1338483600",
+   "name": "Brickyard Bark Park",
+   "lat": 40.8774516,
+   "lon": -111.8869532,
+   "distKm": 13,
+   "address": "1050 200 West, Bountiful, UT 84010",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1328860916",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.7124249,
+   "lon": -112.0716379,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/636193606",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.5944228,
+   "lon": -111.9706937,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

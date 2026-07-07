@@ -1,0 +1,240 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-orleans",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:31:15.382Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/12752506371",
+   "name": "Southern Paws",
+   "lat": 29.9571568,
+   "lon": -90.0652276,
+   "distKm": 0.9,
+   "address": "633 Toulouse Street",
+   "tags": {
+    "website": "https://shopsouthernpaws.com/"
+   }
+  },
+  {
+   "id": "node/3753518475",
+   "name": "Cresent City Cat Club",
+   "lat": 29.9681429,
+   "lon": -90.0553655,
+   "distKm": 2.5,
+   "address": "1021 Marigny Street, 70117",
+   "tags": {
+    "phone": "+1 833-665-2228",
+    "website": "http://crescentcitycatclub.com/",
+    "opening_hours": "Th-Fr 12:00-18:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10174785494",
+   "name": "PetSmart",
+   "lat": 29.9405921,
+   "lon": -90.0952504,
+   "distKm": 2.6,
+   "address": "2900 South Claiborne Avenue, New Orleans, LA 70115",
+   "tags": {
+    "phone": "+1 504-249-6305",
+    "website": "https://www.petsmart.com/stores/us/la/new-orleans-store2375.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/326305516",
+   "name": "Petco",
+   "lat": 29.976782,
+   "lon": -90.0958433,
+   "distKm": 3.7,
+   "address": "550 North Carrollton Avenue, New Orleans, LA 70119",
+   "tags": {
+    "phone": "+1 504-226-2030",
+    "website": "https://stores.petco.com/la/neworleans/pet-supplies-neworleans-la-2511.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13409855227",
+   "name": "Jefferson Feed Pet and Garden Center",
+   "lat": 29.9767862,
+   "lon": -90.0992243,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/6410703789",
+   "name": "Petco",
+   "lat": 29.9043106,
+   "lon": -90.0689642,
+   "distKm": 5.2,
+   "address": "1629 Westbank Expressway, Harvey, LA 70058-4312",
+   "tags": {
+    "phone": "+1 504-362-6711",
+    "website": "https://stores.petco.com/la/harvey/pet-supplies-harvey-la-1404.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6750332581",
+   "name": "Petco",
+   "lat": 29.9160195,
+   "lon": -90.1151326,
+   "distKm": 5.7,
+   "address": "5300 Tchoupitoulas Street, New Orleans, LA 70115",
+   "tags": {
+    "phone": "+1 504-899-6122",
+    "website": "https://stores.petco.com/la/neworleans/pet-supplies-neworleans-la-1431.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3342573994",
+   "name": "Jefferson Feed Uptown",
+   "lat": 29.922764,
+   "lon": -90.1225474,
+   "distKm": 5.8,
+   "address": "6047 Magazine Street, New Orleans, LA 70118",
+   "tags": {
+    "phone": "+1-504-218-4220",
+    "website": "https://jeffersonfeed.com/locations/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/3502137480",
+   "name": "Petco",
+   "lat": 29.9230555,
+   "lon": -90.0118904,
+   "distKm": 6.5,
+   "address": "3018 Holiday Drive, New Orleans, LA 70131",
+   "tags": {
+    "phone": "+1 504-392-0956",
+    "website": "https://stores.petco.com/la/neworleans/pet-supplies-neworleans-la-1569.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7552874710",
+   "name": "Jefferson Feed",
+   "lat": 30.0044819,
+   "lon": -90.1519082,
+   "distKm": 9.8,
+   "address": "2949 Veterans Memorial Boulevard",
+   "tags": {
+    "phone": "+1-504-875-4810",
+    "website": "https://jeffersonfeed.com/",
+    "opening_hours": "Mo-Su 08:00-21:00"
+   }
+  },
+  {
+   "id": "way/796340646",
+   "name": "Jefferson Feed",
+   "lat": 29.9599494,
+   "lon": -90.1725369,
+   "distKm": 9.8,
+   "address": "4421 Jefferson Highway",
+   "tags": {
+    "phone": "+1-504-733-8572",
+    "website": "https://jeffersonfeed.com/"
+   }
+  },
+  {
+   "id": "node/4576252312",
+   "name": "Petco",
+   "lat": 30.0028269,
+   "lon": -90.1609368,
+   "distKm": 10.4,
+   "address": "3520 Veterans Memorial Boulevard, Metairie, LA 70002-5859",
+   "tags": {
+    "phone": "+1 504-454-0468",
+    "website": "https://stores.petco.com/la/metairie/pet-supplies-metairie-la-1436.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6199856988",
+   "name": "PetSmart",
+   "lat": 29.9586218,
+   "lon": -90.1850827,
+   "distKm": 11,
+   "address": "1000 South Clearview Parkway, Harahan, LA 70123",
+   "tags": {
+    "phone": "+1 504-733-2016",
+    "website": "https://www.petsmart.com/stores/us/la/harahan-store1023.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7447819641",
+   "name": "Reef Geeks",
+   "lat": 29.9825921,
+   "lon": -90.2121325,
+   "distKm": 14,
+   "address": "651 David Drive",
+   "tags": {
+    "phone": "+1-504-733-8560",
+    "website": "https://www.reefgeeksnola.com/"
+   }
+  },
+  {
+   "id": "node/4576630507",
+   "name": "PetSmart",
+   "lat": 30.006282,
+   "lon": -90.2170441,
+   "distKm": 15.3,
+   "address": "6851 Veterans Memorial Boulevard, Metairie, LA 70003",
+   "tags": {
+    "phone": "+1 504-455-2222",
+    "website": "https://www.petsmart.com/stores/us/la/metairie-store1175.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7443616907",
+   "name": "Aquatic Sealife",
+   "lat": 30.0030465,
+   "lon": -90.2190496,
+   "distKm": 15.3,
+   "address": "7008 Veterans Memorial Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/6453516330",
+   "name": "Petco",
+   "lat": 30.0200379,
+   "lon": -90.237696,
+   "distKm": 17.7,
+   "address": "3500 Williams Boulevard, Kenner, LA 70065-3415",
+   "tags": {
+    "phone": "+1 504-469-1880",
+    "website": "https://stores.petco.com/la/kenner/pet-supplies-kenner-la-1417.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11094226518",
+   "name": "The Dog Stop",
+   "lat": 30.0228089,
+   "lon": -90.2550187,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

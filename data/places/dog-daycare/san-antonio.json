@@ -1,0 +1,25 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-antonio",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:21:57.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "way/1241240588",
+   "name": "PetSuites",
+   "lat": 29.4463703,
+   "lon": -98.6613807,
+   "distKm": 16.4,
+   "address": "1123 Richland Hills Drive, San Antonio, TX 78251",
+   "tags": {
+    "phone": "+1-726-400-9079",
+    "website": "https://westoverhills.petsuitesofamerica.com/",
+    "opening_hours": "Mo-Su 06:30-20:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

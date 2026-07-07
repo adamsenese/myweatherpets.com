@@ -1,0 +1,235 @@
+{
+ "$schemaVersion": 1,
+ "city": "orlando",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:32:40.069Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "node/8674708774",
+   "name": "Petco",
+   "lat": 28.5517969,
+   "lon": -81.351632,
+   "distKm": 3.1,
+   "address": "2410 East Colonial Drive, Orlando, FL 32803-5019",
+   "tags": {
+    "phone": "+1 407-228-4340",
+    "website": "https://stores.petco.com/fl/orlando/pet-supplies-orlando-fl-1752.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6903802627",
+   "name": "Petco",
+   "lat": 28.4961161,
+   "lon": -81.4298083,
+   "distKm": 6.8,
+   "address": "4616 Millenia Plaza Way, Orlando, FL 32839-2434",
+   "tags": {
+    "phone": "+1 407-370-9119",
+    "website": "https://stores.petco.com/fl/orlando/pet-supplies-orlando-fl-1748.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7722906350",
+   "name": "Petland",
+   "lat": 28.5040372,
+   "lon": -81.3127008,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "way/858721551",
+   "name": "Petco",
+   "lat": 28.4648942,
+   "lon": -81.3047313,
+   "distKm": 10.9,
+   "address": "6751 Eagle Watch Drive, Orlando, FL 32822",
+   "tags": {
+    "phone": "+1 407-241-1646",
+    "website": "https://stores.petco.com/fl/orlando/pet-supplies-orlando-fl-2519.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5654894521",
+   "name": "PetSmart",
+   "lat": 28.4459752,
+   "lon": -81.4254456,
+   "distKm": 11.2,
+   "address": "8231 John Young Parkway, Orlando, FL 32819",
+   "tags": {
+    "phone": "+1 407-351-2336",
+    "website": "https://www.petsmart.com/stores/us/fl/orlando-store0309.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8677030437",
+   "name": "Pet Supermarket",
+   "lat": 28.649858,
+   "lon": -81.3244446,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/6238860920",
+   "name": "PetSmart",
+   "lat": 28.6568586,
+   "lon": -81.4216981,
+   "distKm": 13.8,
+   "address": "380 South State Road 434, Altamonte Springs, FL 32714",
+   "tags": {
+    "phone": "+1 407-682-7220",
+    "website": "https://www.petsmart.com/stores/us/fl/altamonte-springs-store0305.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8677292280",
+   "name": "Petco",
+   "lat": 28.6650061,
+   "lon": -81.3807763,
+   "distKm": 14.1,
+   "address": "375 East Altamonte Drive, Altamonte Springs, FL 32701",
+   "tags": {
+    "phone": "+1 407-551-2217",
+    "website": "https://stores.petco.com/fl/altamontesprings/pet-supplies-altamontesprings-fl-2504.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1093360050",
+   "name": "Mr. Pet",
+   "lat": 28.6671353,
+   "lon": -81.3775733,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2964611220",
+   "name": "PetSmart",
+   "lat": 28.6706599,
+   "lon": -81.3405077,
+   "distKm": 15.2,
+   "address": "4510 South Highway 17-92, Casselberry, FL 32707",
+   "tags": {
+    "phone": "+1 407-331-8991",
+    "website": "https://www.petsmart.com/stores/us/fl/casselberry-store0306.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1088278386",
+   "name": "Pet Supermarket",
+   "lat": 28.6718955,
+   "lon": -81.4512369,
+   "distKm": 16.4,
+   "address": "534 S Hunt Club Boulevard, Apopka, 32703",
+   "tags": {
+    "phone": "+1-407-682-2020",
+    "website": "https://storelocator.petsupermarket.com/fl-apopka-534-s-hunt-club-blvd-248",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/3950622818",
+   "name": "D'Tails",
+   "lat": 28.6488531,
+   "lon": -81.2667668,
+   "distKm": 16.5,
+   "address": "5904 Red Bug Lake Road, Winter Springs, FL 32708",
+   "tags": {
+    "phone": "+1-407-332-4400",
+    "website": "http://www.dtails.net/",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su closed"
+   }
+  },
+  {
+   "id": "node/364613149",
+   "name": "PetSmart",
+   "lat": 28.555385,
+   "lon": -81.2040663,
+   "distKm": 17.2,
+   "address": "731 North Alafaya Trail, Orlando, FL 32828",
+   "tags": {
+    "phone": "+1 407-275-0799",
+    "website": "https://www.petsmart.com/stores/us/fl/orlando-store0310.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4289173613",
+   "name": "Petco",
+   "lat": 28.6750785,
+   "lon": -81.4695211,
+   "distKm": 17.6,
+   "address": "2227 East Semoran Boulevard, Apopka, FL 32703",
+   "tags": {
+    "phone": "+1 407-880-0250",
+    "website": "https://stores.petco.com/fl/apopka/pet-supplies-apopka-fl-1548.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12459355695",
+   "name": "PetSmart",
+   "lat": 28.65415,
+   "lon": -81.2386917,
+   "distKm": 18.8,
+   "address": "1115 Vidina Place, Oviedo, FL 32765",
+   "tags": {
+    "phone": "+1 407 365 1029",
+    "opening_hours": "Mo 9:00-21:00, Tu 9:00-18:00, We 10:00-18:00, Th-Sa 9:00-21:00, Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4926354069",
+   "name": "Family K9 Training",
+   "lat": 28.3611444,
+   "lon": -81.3595843,
+   "distKm": 19.8,
+   "address": "1616 Brook Hollow Dr, Orlando, FL 32824",
+   "tags": {
+    "phone": "+1-407-710-2952",
+    "website": "https://www.familyk9training.com/",
+    "opening_hours": "Mo-Su 07:00-19:00"
+   }
+  },
+  {
+   "id": "node/2265500651",
+   "name": "PetSmart",
+   "lat": 28.5250173,
+   "lon": -81.5819012,
+   "distKm": 19.9,
+   "address": "3077 Daniels Road, Winter Garden, FL 34787",
+   "tags": {
+    "phone": "+1 407-905-9955",
+    "website": "https://www.petsmart.com/stores/us/fl/winter-garden-store1680.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

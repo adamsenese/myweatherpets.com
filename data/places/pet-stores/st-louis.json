@@ -1,0 +1,255 @@
+{
+ "$schemaVersion": 1,
+ "city": "st-louis",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:32:21.847Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "way/563130245",
+   "name": "4 Muddy Paws",
+   "lat": 38.616816,
+   "lon": -90.2104896,
+   "distKm": 1.5,
+   "address": "1711 Park Avenue, Saint Louis, MO 63104",
+   "tags": {
+    "phone": "+13147737297"
+   }
+  },
+  {
+   "id": "node/2893495846",
+   "name": "Pets in the City",
+   "lat": 38.6146013,
+   "lon": -90.2401218,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4790075223",
+   "name": "Murphy's Mutts",
+   "lat": 38.5932605,
+   "lon": -90.2244766,
+   "distKm": 4.3,
+   "address": "2307 Cherokee Street, Saint Louis, MO 63118",
+   "tags": {
+    "phone": "+1-314-771-3338",
+    "website": "https://murphysmutts.com/"
+   }
+  },
+  {
+   "id": "node/12532320987",
+   "name": "Treats Unleashed",
+   "lat": 38.640806,
+   "lon": -90.2618883,
+   "distKm": 5.6,
+   "address": "22 North Euclid Avenue, Saint Louis, MO 63108",
+   "tags": {
+    "phone": "+13148990966",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/12532257446",
+   "name": "Wolfgang's Pet Stop",
+   "lat": 38.6455735,
+   "lon": -90.2612266,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6550433677",
+   "name": "Aqua World",
+   "lat": 38.5909916,
+   "lon": -90.2519355,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/872106452",
+   "name": "PetSmart",
+   "lat": 38.5917416,
+   "lon": -90.2701236,
+   "distKm": 7.3,
+   "address": "4621 Chippewa Street, Saint Louis, MO 63116",
+   "tags": {
+    "phone": "+1 314-776-7608",
+    "website": "https://www.petsmart.com/stores/us/mo/saint-louis-store1234.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/374848805",
+   "name": "Airedale Antics",
+   "lat": 38.6129554,
+   "lon": -90.3177664,
+   "distKm": 10.4,
+   "address": "Manchester Road, Maplewood, MO",
+   "tags": {}
+  },
+  {
+   "id": "node/10928907060",
+   "name": "Petco",
+   "lat": 38.583339,
+   "lon": -90.3205864,
+   "distKm": 11.6,
+   "address": "7279 Watson Road, Saint Louis, MO 63119-4401",
+   "tags": {
+    "phone": "+1 314-352-1150",
+    "website": "https://stores.petco.com/mo/stlouis/pet-supplies-stlouis-mo-1689.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7885528686",
+   "name": "Treats Unleashed",
+   "lat": 38.6247671,
+   "lon": -90.3344715,
+   "distKm": 11.7,
+   "address": "1620 South Hanley Road, Richmond Heights, MO 63144",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00, Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/584651428",
+   "name": "Petco",
+   "lat": 38.6287559,
+   "lon": -90.3388344,
+   "distKm": 12.1,
+   "address": "8404 Eager Road, Brentwood, MO 63144",
+   "tags": {
+    "phone": "+1 314-962-0034",
+    "website": "https://stores.petco.com/mo/brentwood/pet-supplies-brentwood-mo-1688.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7895623324",
+   "name": "PetSmart",
+   "lat": 38.6270221,
+   "lon": -90.3412187,
+   "distKm": 12.3,
+   "address": "62 Brentwood Promenade Court, Brentwood, MO 63144",
+   "tags": {
+    "phone": "+1 314-918-9123",
+    "website": "https://www.petsmart.com/stores/us/mo/saint-louis-store0255.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13684948430",
+   "name": "Xtreme Xotics",
+   "lat": 38.554757,
+   "lon": -90.3135039,
+   "distKm": 12.8,
+   "address": "5241 Weber Road, St. Louis, MO 63123-3420",
+   "tags": {
+    "phone": "+1-314-922-1970",
+    "website": "https://xtreme-xotics.square.site",
+    "opening_hours": "Tu-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/3524473488",
+   "name": "Gina's Pet Grooming",
+   "lat": 38.7490919,
+   "lon": -90.2175288,
+   "distKm": 13.7,
+   "address": "703 Chambers Road, Riverview, 63137",
+   "tags": {
+    "phone": "+1 314-869-9366"
+   }
+  },
+  {
+   "id": "node/10882106981",
+   "name": "Tropical World Pets",
+   "lat": 38.5652208,
+   "lon": -90.3530777,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9768322351",
+   "name": "Pet Supplies Plus",
+   "lat": 38.5263764,
+   "lon": -90.3596193,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/5276447829",
+   "name": "PetSmart",
+   "lat": 38.527279,
+   "lon": -90.0335552,
+   "distKm": 18.2,
+   "address": "5801 Belleville Crossing Street, Belleville, IL 62226",
+   "tags": {
+    "phone": "+1 618-222-1634",
+    "website": "https://www.petsmart.com/stores/us/il/belleville-store1853.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/387969792",
+   "name": "The Little House of Dogs",
+   "lat": 38.599885,
+   "lon": -90.4060781,
+   "distKm": 18.2,
+   "address": "1050 North Kirkwood Road, Kirkwood, 63122",
+   "tags": {
+    "phone": "+1 314 909 7833"
+   }
+  },
+  {
+   "id": "node/874914416",
+   "name": "PetSmart",
+   "lat": 38.5008796,
+   "lon": -90.3356084,
+   "distKm": 18.4,
+   "address": "4451 Lemay Ferry Road, Saint Louis, MO 63129",
+   "tags": {
+    "phone": "+1 314-416-4251",
+    "website": "https://www.petsmart.com/stores/us/mo/saint-louis-store1134.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5168326811",
+   "name": "Petco",
+   "lat": 38.595368,
+   "lon": -89.9873022,
+   "distKm": 18.8,
+   "address": "6595 North Illinois Street, Fairview Heights, IL 62208",
+   "tags": {
+    "phone": "+1 618-398-1430",
+    "website": "https://stores.petco.com/il/fairviewhts/pet-supplies-fairviewhts-il-1921.html",
+    "opening_hours": "Mo-Sa 09:00-20:00, Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11421869115",
+   "name": "Treats Unleashed",
+   "lat": 38.4683416,
+   "lon": -90.3043939,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

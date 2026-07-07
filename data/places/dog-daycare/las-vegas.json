@@ -1,0 +1,64 @@
+{
+ "$schemaVersion": 1,
+ "city": "las-vegas",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:27:45.585Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/715585710",
+   "name": "BratPak Dog Kamp",
+   "lat": 36.0705454,
+   "lon": -115.0734895,
+   "distKm": 12.6,
+   "address": "4601 East Sunset Road, Las Vegas, NV 89014",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa 08:00-17:00, Su 08:00-12:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13206796176",
+   "name": "Dogtopia",
+   "lat": 36.2073935,
+   "lon": -115.3027201,
+   "distKm": 15.2,
+   "address": "9436 West Lake Mead Boulevard, Las Vegas, NV 89134",
+   "tags": {
+    "website": "https://www.dogtopia.com/lasvegas-suncity/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su 10:00-14:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12695647541",
+   "name": "Dogtopia",
+   "lat": 36.0717941,
+   "lon": -115.2986764,
+   "distKm": 18,
+   "address": "6415 South Fort Apache Road, Las Vegas, NV 89148",
+   "tags": {
+    "phone": "+1-702-659-5169",
+    "website": "https://www.dogtopia.com/vegas-southsummerlin/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12776463774",
+   "name": "Hound House",
+   "lat": 36.0002058,
+   "lon": -115.2059593,
+   "distKm": 19.8,
+   "address": "10430 South Decatur Boulevard, Las Vegas, NV 89141",
+   "tags": {
+    "phone": "+1-702-952-1705",
+    "website": "https://www.houndhouselv.com/",
+    "opening_hours": "Mo-Fr 06:00-19:00; Sa-Su 08:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

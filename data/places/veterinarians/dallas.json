@@ -1,0 +1,603 @@
+{
+ "$schemaVersion": 1,
+ "city": "dallas",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:22:22.800Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 57,
+ "places": [
+  {
+   "id": "node/13428729614",
+   "name": "ReadyVet",
+   "lat": 32.7991781,
+   "lon": -96.8055366,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/464132298",
+   "name": "CityVet",
+   "lat": 32.7987818,
+   "lon": -96.7846422,
+   "distKm": 2.7,
+   "address": "3900 Ross Avenue",
+   "tags": {
+    "website": "https://www.cityvet.com/location/old-east-dallas/"
+   }
+  },
+  {
+   "id": "way/1017894283",
+   "name": "Metro Paws Animal Hospital",
+   "lat": 32.7688582,
+   "lon": -96.8382025,
+   "distKm": 3.9,
+   "address": "1021 Fort Worth Avenue, Dallas, TX 75208",
+   "tags": {}
+  },
+  {
+   "id": "way/465743234",
+   "name": "Vickery Place Animal Hospital",
+   "lat": 32.8179181,
+   "lon": -96.7817145,
+   "distKm": 4.8,
+   "address": "2720 North Henderson Avenue",
+   "tags": {
+    "website": "http://vickeryplaceanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/13669823502",
+   "name": "Petfolk Veterinary & Urgent Care - Lakewood",
+   "lat": 32.8135675,
+   "lon": -96.7525235,
+   "distKm": 5.8,
+   "address": "1904 Abrams Parkway, 75214",
+   "tags": {
+    "phone": "+1 682-339-7822",
+    "website": "https://petfolk.com/locations/dallas-tx/vet-clinics/lakewood",
+    "opening_hours": "Mo-Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/13669826801",
+   "name": "Petfolk Veterinary & Urgent Care",
+   "lat": 32.8135675,
+   "lon": -96.7525235,
+   "distKm": 5.8,
+   "address": "1904 Abrams Parkway, 75214",
+   "tags": {
+    "opening_hours": "Mo-Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/465726464",
+   "name": "VCA Lakewood Animal Hospital",
+   "lat": 32.8165658,
+   "lon": -96.7534587,
+   "distKm": 6,
+   "address": "6363 Richmond Avenue",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/467216937",
+   "name": "Edgefield Animal Clinic",
+   "lat": 32.7271781,
+   "lon": -96.8448502,
+   "distKm": 7.1,
+   "address": "1827 South Edgefield Avenue",
+   "tags": {
+    "phone": "+1 214 946 4146"
+   }
+  },
+  {
+   "id": "way/560296531",
+   "name": "Metro Paws Animal Hospital - White Rock",
+   "lat": 32.809437,
+   "lon": -96.7306215,
+   "distKm": 7.2,
+   "address": "7446 East Grand Avenue, Dallas, TX 75214",
+   "tags": {}
+  },
+  {
+   "id": "way/545931397",
+   "name": "City Vet",
+   "lat": 32.8117312,
+   "lon": -96.7311486,
+   "distKm": 7.3,
+   "address": "7324 Gaston Avenue, Dallas, TX 75214",
+   "tags": {}
+  },
+  {
+   "id": "way/545931399",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.812907,
+   "lon": -96.7301048,
+   "distKm": 7.4,
+   "address": "7331 Gaston Avenue, Dallas, TX 75214",
+   "tags": {}
+  },
+  {
+   "id": "way/465743313",
+   "name": "Hillside Veterinary Clinic",
+   "lat": 32.8361814,
+   "lon": -96.7591381,
+   "distKm": 7.5,
+   "address": "6150 East Mockingbird Lane",
+   "tags": {}
+  },
+  {
+   "id": "node/11575700970",
+   "name": "UrgentVet - Lakewood",
+   "lat": 32.8372561,
+   "lon": -96.7546033,
+   "distKm": 7.8,
+   "address": "6333 East Mockingbird Lane, Dallas, TX 75214",
+   "tags": {
+    "phone": "+1 469-902-4600",
+    "website": "https://urgentvet.com/location/lakewood/",
+    "opening_hours": "Mo-Fr 15:00-23:00; Sa,Su 10:00-20:00; PH 12:00-20:00"
+   }
+  },
+  {
+   "id": "node/12040538523",
+   "name": "Modern Animal",
+   "lat": 32.8377883,
+   "lon": -96.7523547,
+   "distKm": 8,
+   "address": "6465 East Mockingbird Lane",
+   "tags": {
+    "phone": "+1 866-505-8755",
+    "website": "https://www.modernanimal.com/locations/dallas-fort-worth/lakewood",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/13599247501",
+   "name": "Modern Animal - Park Cities",
+   "lat": 32.851448,
+   "lon": -96.8207153,
+   "distKm": 8.6,
+   "address": "5301 West Lovers Lane, 75209",
+   "tags": {
+    "phone": "+1 469-373-9338",
+    "website": "https://www.modernanimal.com/clinics/park-cities/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/466717058",
+   "name": "Love Freeway Animal Clinic",
+   "lat": 32.702088,
+   "lon": -96.8356926,
+   "distKm": 9.1,
+   "address": "3435 Marvin D Love Freeway, Dallas, TX 75224",
+   "tags": {}
+  },
+  {
+   "id": "node/13652524701",
+   "name": "East Dallas Veterinary Clinic",
+   "lat": 32.811473,
+   "lon": -96.7026702,
+   "distKm": 9.6,
+   "address": "8541 Ferguson Road, 75228",
+   "tags": {
+    "phone": "+1 214-328-9935",
+    "website": "https://www.eastdallasvetclinic.com/",
+    "opening_hours": "Mo, Th 07:30-20:00; Tu-We, Fr 07:30-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/13754179835",
+   "name": "A&B Animal Clinic",
+   "lat": 32.8281487,
+   "lon": -96.709584,
+   "distKm": 10,
+   "address": "9027 Garland Road",
+   "tags": {
+    "website": "https://www.aandbanimalclinic.com/"
+   }
+  },
+  {
+   "id": "way/466718476",
+   "name": "SPCA of Texas' Mary Spencer Spay/Neuter & Wellness Clinic at Village Fair",
+   "lat": 32.6896241,
+   "lon": -96.8248023,
+   "distKm": 10,
+   "address": "4830 Village Fair Drive",
+   "tags": {}
+  },
+  {
+   "id": "way/466984055",
+   "name": "Midway Hollow Veterinary Clinic",
+   "lat": 32.8612653,
+   "lon": -96.8528127,
+   "distKm": 10.8,
+   "address": "3780 West Northwest Highway",
+   "tags": {}
+  },
+  {
+   "id": "node/13155244548",
+   "name": "Spay Neuter Network",
+   "lat": 32.751716,
+   "lon": -96.6835103,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468095513",
+   "name": "East Lake Veterinary Hospital",
+   "lat": 32.8645715,
+   "lon": -96.7126104,
+   "distKm": 12.6,
+   "address": "10101 East Northwest Highway",
+   "tags": {
+    "website": "https://www.eastlakeveterinaryhospital.com/",
+    "opening_hours": "Mo-Su 07:00-21:00"
+   }
+  },
+  {
+   "id": "way/1534489762",
+   "name": "East Lake Cat Care Center",
+   "lat": 32.8654911,
+   "lon": -96.7134268,
+   "distKm": 12.6,
+   "address": "10040 Shoreview Road",
+   "tags": {
+    "website": "https://www.eastlakecatcarecenter.com/"
+   }
+  },
+  {
+   "id": "node/13252381918",
+   "name": "Meadow Central Veterinary Clinic",
+   "lat": 32.888582,
+   "lon": -96.7717019,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/13415662246",
+   "name": "Preston Royal Animal Clinic",
+   "lat": 32.8937058,
+   "lon": -96.8023153,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13699280684",
+   "name": "My Village Pet Clinic",
+   "lat": 32.8011867,
+   "lon": -96.9331641,
+   "distKm": 13,
+   "address": "East Shady Grove Road, Irving, TX",
+   "tags": {}
+  },
+  {
+   "id": "node/10767513784",
+   "name": "Skillman Animal Clinic",
+   "lat": 32.8772705,
+   "lon": -96.7187369,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13870915229",
+   "name": "Abrams Royal Animal Clinic",
+   "lat": 32.8923267,
+   "lon": -96.7407295,
+   "distKm": 13.9,
+   "address": "8244 Abrams Road",
+   "tags": {}
+  },
+  {
+   "id": "way/468043098",
+   "name": "White Rock Animal Hospital",
+   "lat": 32.8636861,
+   "lon": -96.6824074,
+   "distKm": 14.4,
+   "address": "11414 East Northwest Highway",
+   "tags": {}
+  },
+  {
+   "id": "node/13265962936",
+   "name": "CityVet + Urgent Care",
+   "lat": 32.9073713,
+   "lon": -96.8045644,
+   "distKm": 14.5,
+   "address": "11661 Preston Road, Dallas, TX 75230",
+   "tags": {
+    "phone": "+1-214-361-0444",
+    "website": "https://www.cityvet.com/location/preston-forest/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/454784209",
+   "name": "VCA Central Expressway Animal Hospital",
+   "lat": 32.9057781,
+   "lon": -96.7650619,
+   "distKm": 14.7,
+   "address": "11680 Forest Central Drive",
+   "tags": {
+    "phone": "+1 214-341-3322",
+    "website": "https://vcahospitals.com",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/10245712677",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.9099457,
+   "lon": -96.8027335,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13265757587",
+   "name": "Cornerstone Animal Clinic",
+   "lat": 32.9113384,
+   "lon": -96.8061248,
+   "distKm": 15,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Tu 07:30-17:30; We 07:30-18:30; Th-Fr 07:30-17:30; Sa 09:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/7763484713",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.9129091,
+   "lon": -96.817124,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8392686742",
+   "name": "Summertree Animal & Bird Clinic",
+   "lat": 32.9161834,
+   "lon": -96.8180119,
+   "distKm": 15.6,
+   "address": "12300 Inwood Road, Dallas, TX 75244",
+   "tags": {
+    "website": "https://summertreevet.com",
+    "opening_hours": "Mo-Fr 07:45-17:00"
+   }
+  },
+  {
+   "id": "way/661277989",
+   "name": "Town East Animal Hospital",
+   "lat": 32.7855239,
+   "lon": -96.6283476,
+   "distKm": 15.8,
+   "address": "1600 Gross Road, Mesquite, TX 75149",
+   "tags": {}
+  },
+  {
+   "id": "way/663233764",
+   "name": "Rodeo Drive Veterinary Hospital",
+   "lat": 32.7632675,
+   "lon": -96.6261335,
+   "distKm": 16,
+   "address": "1919 Rodeo Drive, Mesquite, TX 75149",
+   "tags": {}
+  },
+  {
+   "id": "way/468133082",
+   "name": "Veterinarians Dental",
+   "lat": 32.9205678,
+   "lon": -96.7687168,
+   "distKm": 16.2,
+   "address": "12600 Coit Road, 75251",
+   "tags": {
+    "phone": "+1 972-385-8400",
+    "opening_hours": "Mo,We,Fr 09:00-17:00; Tu 08:00-18:00; Th,Sa-Su off"
+   }
+  },
+  {
+   "id": "node/13382505748",
+   "name": "Dallas Animal Urgent Care",
+   "lat": 32.9240084,
+   "lon": -96.8061331,
+   "distKm": 16.4,
+   "address": "12835 Preston Road, Dallas, TX 75230",
+   "tags": {
+    "phone": "+1 972-910-2890",
+    "website": "https://dallasanimalurgentcare.com/",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "id": "node/13873711536",
+   "name": "Story Road Animal Hospital",
+   "lat": 32.8211757,
+   "lon": -96.975978,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4689347363",
+   "name": "The Animal Care Center",
+   "lat": 32.647391,
+   "lon": -96.9087779,
+   "distKm": 17.8,
+   "address": "511 South Main Street, Duncanville, TX 75116",
+   "tags": {
+    "phone": "+1-972-298-2898",
+    "website": "http://theanimalcarecenter.net/"
+   }
+  },
+  {
+   "id": "way/470788407",
+   "name": "Northwood Veterinary Clinic",
+   "lat": 32.9393557,
+   "lon": -96.771429,
+   "distKm": 18.2,
+   "address": "13949 Peyton Drive, Dallas, TX 75240",
+   "tags": {
+    "phone": "+1 972-233-8161"
+   }
+  },
+  {
+   "id": "node/3833228580",
+   "name": "Cottonwood Animal Hospital",
+   "lat": 32.9389603,
+   "lon": -96.7644445,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10276856993",
+   "name": "Pet Vet",
+   "lat": 32.9379175,
+   "lon": -96.8395189,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/437818157",
+   "name": "Pet Medical Center of Duncanville",
+   "lat": 32.6513738,
+   "lon": -96.9246509,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.pmcod.net/"
+   }
+  },
+  {
+   "id": "node/7722216497",
+   "name": "Valley View Pet Health Center",
+   "lat": 32.9243435,
+   "lon": -96.8934677,
+   "distKm": 18.7,
+   "address": "2561 Valley View Lane, Farmers Branch, TX 75234",
+   "tags": {
+    "phone": "+1 972-247-2242",
+    "website": "www.vvphc.com",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/667339935",
+   "name": "South Mesquite Veterinary Hospital",
+   "lat": 32.760798,
+   "lon": -96.5975385,
+   "distKm": 18.7,
+   "address": "615 South Bryan - Belt Line Road, Mesquite, TX 75149",
+   "tags": {}
+  },
+  {
+   "id": "node/12026904399",
+   "name": "Isla Veterinary",
+   "lat": 32.9395866,
+   "lon": -96.8536648,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/652961435",
+   "name": "VCA Animal Hospital",
+   "lat": 32.8003375,
+   "lon": -96.5965349,
+   "distKm": 18.9,
+   "address": "2555 North Belt Line Road, Sunnyvale, TX 75182",
+   "tags": {}
+  },
+  {
+   "id": "node/13980821347",
+   "name": "Low Cost Pet Vet",
+   "lat": 32.8338481,
+   "lon": -96.9893947,
+   "distKm": 19.1,
+   "address": "Irving, TX",
+   "tags": {}
+  },
+  {
+   "id": "way/220360704",
+   "name": "Richardson Veterinary Clinic",
+   "lat": 32.9432355,
+   "lon": -96.7435497,
+   "distKm": 19.2,
+   "address": "733 South Floyd Road",
+   "tags": {}
+  },
+  {
+   "id": "node/5844877607",
+   "name": "Buckingham Plano Road",
+   "lat": 32.9334713,
+   "lon": -96.7006094,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/671664684",
+   "name": "BluePearl",
+   "lat": 32.8278667,
+   "lon": -96.5963874,
+   "distKm": 19.6,
+   "address": "4651 North Belt Line Road, Mesquite, TX 75150",
+   "tags": {}
+  },
+  {
+   "id": "node/11809864137",
+   "name": "Modern Animal - Addisom",
+   "lat": 32.9527899,
+   "lon": -96.8167615,
+   "distKm": 19.7,
+   "address": "5290 Belt Line Road, Dallas, TX 75254",
+   "tags": {
+    "phone": "+1 469-373-9338",
+    "website": "https://www.modernanimal.com/clinics/addison",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/13014748429",
+   "name": "CityVet",
+   "lat": 32.9536548,
+   "lon": -96.8155842,
+   "distKm": 19.8,
+   "address": "5320 Belt Line Road, Dallas, TX 75254",
+   "tags": {
+    "phone": "+12142392346",
+    "website": "https://www.cityvet.com/cityvet/addison/"
+   }
+  },
+  {
+   "id": "node/13650142181",
+   "name": "Petmobile Pet Hospital",
+   "lat": 32.8378367,
+   "lon": -96.5985643,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/706321969",
+   "name": "Dallas County Veterinary Hospital",
+   "lat": 32.7211619,
+   "lon": -96.5950988,
+   "distKm": 19.9,
+   "address": "3475 South Belt Line Road, Balch Springs, TX 75181",
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,309 @@
+{
+ "$schemaVersion": 1,
+ "city": "mexico-city",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:39:43.196Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 31,
+ "places": [
+  {
+   "id": "way/1107267568",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4209641,
+   "lon": -99.1546332,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1117014330",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4332997,
+   "lon": -99.1619457,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1110160384",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4101922,
+   "lon": -99.1572673,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/556965686",
+   "name": "Iztaccihuatl paseo canino",
+   "lat": 19.4202189,
+   "lon": -99.0993109,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/611247541",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4002936,
+   "lon": -99.1500708,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/585504351",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.3948782,
+   "lon": -99.134937,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3776008587",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.3948254,
+   "lon": -99.1423904,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/544668814",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4110234,
+   "lon": -99.1697868,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel"
+   }
+  },
+  {
+   "id": "way/1163083564",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4243435,
+   "lon": -99.1766581,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1416395906",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4663728,
+   "lon": -99.1580199,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10841317677",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4074753,
+   "lon": -99.0934558,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/551018739",
+   "name": "Parque Canino",
+   "lat": 19.4196203,
+   "lon": -99.0879627,
+   "distKm": 5,
+   "address": "Plaza del Ejecutivo, Ciudad de México, 15730",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/733434996",
+   "name": "Parque paseo canino razas pequeñas",
+   "lat": 19.4198138,
+   "lon": -99.0878632,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/5763234356",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4139541,
+   "lon": -99.0837951,
+   "distKm": 5.6,
+   "address": "Calz. Ignacio Zaragoza, Ciudad de México, 15730",
+   "tags": {}
+  },
+  {
+   "id": "way/551018741",
+   "name": "Baldio",
+   "lat": 19.4139197,
+   "lon": -99.0838479,
+   "distKm": 5.6,
+   "address": "Calz. Ignacio Zaragoza, Ciudad de México, 15730",
+   "tags": {}
+  },
+  {
+   "id": "way/1250094499",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4417402,
+   "lon": -99.1856325,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1166282986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.3918088,
+   "lon": -99.1000801,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9723551570",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4886627,
+   "lon": -99.1231775,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/664750286",
+   "name": "Pérgola en Parque Lira",
+   "lat": 19.4065842,
+   "lon": -99.1902908,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "surface": "paved",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/479771511",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.3732704,
+   "lon": -99.1564685,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10844622445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.4133459,
+   "lon": -99.0679896,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1176705405",
+   "name": "Parque Canino",
+   "lat": 19.4632869,
+   "lon": -99.0703641,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/929886247",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.3760465,
+   "lon": -99.1902837,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/696705534",
+   "name": "Parque Perros",
+   "lat": 19.3640446,
+   "lon": -99.1744206,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/847838052",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.5022411,
+   "lon": -99.1765164,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/552942642",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.5277035,
+   "lon": -99.1526435,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1172334833",
+   "name": "Parque Canino",
+   "lat": 19.3107536,
+   "lon": -99.1660906,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/569414925",
+   "name": "Área de entrenamiento canino",
+   "lat": 19.3030007,
+   "lon": -99.137433,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473224994",
+   "name": "Parque Canino Bellavista",
+   "lat": 19.5259098,
+   "lon": -99.2326574,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1354353828",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 19.5515677,
+   "lon": -99.2124157,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/719957484",
+   "name": "Jardín Canino",
+   "lat": 19.3589044,
+   "lon": -99.2689815,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "opening_hours": "Mo-Su 05:00-22:00"
+   }
+  }
+ ]
+}

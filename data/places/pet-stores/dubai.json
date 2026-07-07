@@ -1,0 +1,386 @@
+{
+ "$schemaVersion": 1,
+ "city": "dubai",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:24:06.155Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 38,
+ "places": [
+  {
+   "id": "node/4736771921",
+   "name": "Emirta Horse Centre",
+   "lat": 25.2076506,
+   "lon": 55.273953,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4573836320",
+   "name": "Creatures Oasis",
+   "lat": 25.2294627,
+   "lon": 55.263609,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4898199708",
+   "name": "Animal World",
+   "lat": 25.2311129,
+   "lon": 55.2624991,
+   "distKm": 3,
+   "address": "Jumeira Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4919142612",
+   "name": "Pets Plus",
+   "lat": 25.1765444,
+   "lon": 55.2449311,
+   "distKm": 4.1,
+   "address": "Sheikh Zayed Road, دبي",
+   "tags": {
+    "website": "https://www.petsplus.ae"
+   }
+  },
+  {
+   "id": "node/4881787921",
+   "name": "advance pet clinic",
+   "lat": 25.1745565,
+   "lon": 55.2308245,
+   "distKm": 5.2,
+   "address": "vet16 Al Wasl Road, 97140",
+   "tags": {
+    "phone": "043212535",
+    "opening_hours": "Mo-Su 09:00-05:00"
+   }
+  },
+  {
+   "id": "node/10127679987",
+   "name": "Aqua Land Aquarium",
+   "lat": 25.244342,
+   "lon": 55.2985359,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "phone": "+971 50 370 0209",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4904384882",
+   "name": "World of Fishes",
+   "lat": 25.2448549,
+   "lon": 55.3061943,
+   "distKm": 5.7,
+   "address": "Kuwait Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10311355550",
+   "name": "Pet's Delight",
+   "lat": 25.16854,
+   "lon": 55.2278775,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Fr-Th 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/4902399714",
+   "name": "H&H",
+   "lat": 25.2572756,
+   "lon": 55.2860369,
+   "distKm": 6,
+   "address": "AL Rolla Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4587050776",
+   "name": "Green Desert Aquarium",
+   "lat": 25.2464978,
+   "lon": 55.3095518,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4660452391",
+   "name": "مركز الصقور",
+   "lat": 25.1520272,
+   "lon": 55.2902191,
+   "distKm": 6.2,
+   "address": "شارع الميدان",
+   "tags": {}
+  },
+  {
+   "id": "node/4941254815",
+   "name": "Arowana",
+   "lat": 25.2631223,
+   "lon": 55.3318346,
+   "distKm": 8.9,
+   "address": "108/1 Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4913408747",
+   "name": "Jassina Fish Aquarium",
+   "lat": 25.2743102,
+   "lon": 55.3296798,
+   "distKm": 9.7,
+   "address": "Abu Baker al Siddique road",
+   "tags": {}
+  },
+  {
+   "id": "node/4915273881",
+   "name": "The Petshop",
+   "lat": 25.1305167,
+   "lon": 55.2128815,
+   "distKm": 10.1,
+   "address": "15A Street",
+   "tags": {
+    "website": "https://www.dubaipetfood.com/",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "id": "node/4917741417",
+   "name": "Pet Grooming Spa",
+   "lat": 25.1354034,
+   "lon": 55.1969285,
+   "distKm": 10.7,
+   "address": "Wisadeh Street",
+   "tags": {}
+  },
+  {
+   "id": "node/11830019307",
+   "name": "Fins & Tails Pets",
+   "lat": 25.2775534,
+   "lon": 55.3504138,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4897839054",
+   "name": "Petzone",
+   "lat": 25.1134377,
+   "lon": 55.2053497,
+   "distKm": 12.1,
+   "address": "16 Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4898449936",
+   "name": "Pets Habitat",
+   "lat": 25.1114601,
+   "lon": 55.1958091,
+   "distKm": 12.8,
+   "address": "Al Barsha 1 Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4898449944",
+   "name": "Pet Corner",
+   "lat": 25.1133995,
+   "lon": 55.1942121,
+   "distKm": 12.8,
+   "address": "Al Barsha 1 Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4924988751",
+   "name": "Kangar Pet Shop",
+   "lat": 25.289872,
+   "lon": 55.3647291,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12294192405",
+   "name": "Blue Water",
+   "lat": 25.2989815,
+   "lon": 55.3677813,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13665687843",
+   "name": "Al Mizan",
+   "lat": 25.3010805,
+   "lon": 55.3727288,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11064683497",
+   "name": "Pet's Delight",
+   "lat": 25.1273498,
+   "lon": 55.3973311,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/4529984389",
+   "name": "Exotic Pets Uptown Mirdif",
+   "lat": 25.2243448,
+   "lon": 55.4245323,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8658653009",
+   "name": "Beauty Pets",
+   "lat": 25.0971857,
+   "lon": 55.1687157,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/4493755790",
+   "name": "Livestock market, Al Qusais Industrial 2",
+   "lat": 25.2896255,
+   "lon": 55.3978377,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4446867894",
+   "name": "Petzone",
+   "lat": 25.2220402,
+   "lon": 55.4336987,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11064683496",
+   "name": "Pet's Delight",
+   "lat": 25.0568255,
+   "lon": 55.2706459,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/11558723587",
+   "name": "Dog spot",
+   "lat": 25.0608221,
+   "lon": 55.2100935,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12831684918",
+   "name": "Pet World - The Springs Souk",
+   "lat": 25.0648594,
+   "lon": 55.1932944,
+   "distKm": 17.4,
+   "address": "Ground Floor The Springs Souk, Dubai",
+   "tags": {
+    "phone": "+971 4 241 4340",
+    "website": "https://petworlduae.com/",
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "id": "node/5920024116",
+   "name": "al hadiqah al maeyah ornamental fish tr.",
+   "lat": 25.3224844,
+   "lon": 55.3871981,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4911659931",
+   "name": "Pet Emporium",
+   "lat": 25.0526655,
+   "lon": 55.2142583,
+   "distKm": 17.8,
+   "address": "Qmasha",
+   "tags": {}
+  },
+  {
+   "id": "node/11064683492",
+   "name": "Pet's Delight",
+   "lat": 25.0415248,
+   "lon": 55.2294356,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/8658653002",
+   "name": "Aquarium Lives Centre",
+   "lat": 25.3352737,
+   "lon": 55.3905418,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Fr 15:00-23:00;Mo-Th,Sa-Su 09:00-23:00"
+   }
+  },
+  {
+   "id": "node/11064683494",
+   "name": "Pet's Delight",
+   "lat": 25.0318822,
+   "lon": 55.2826104,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/11064683495",
+   "name": "Pet's Delight",
+   "lat": 25.0540734,
+   "lon": 55.1714501,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/11064683498",
+   "name": "Pet's Delight",
+   "lat": 25.0291993,
+   "lon": 55.2709598,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "way/502424416",
+   "name": "Sharjah Bird and Animal Market",
+   "lat": 25.3549262,
+   "lon": 55.3802401,
+   "distKm": 20,
+   "address": "Saleem Bin Al Hareth Street",
+   "tags": {}
+  }
+ ]
+}

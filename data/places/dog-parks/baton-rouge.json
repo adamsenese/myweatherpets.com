@@ -1,0 +1,93 @@
+{
+ "$schemaVersion": 1,
+ "city": "baton-rouge",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:36:40.270Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/12514531543",
+   "name": "Raising Cane's Dog Park",
+   "lat": 30.4346765,
+   "lon": -91.1692752,
+   "distKm": 2.5,
+   "address": "1442 City Park Avenue, Baton Rouge, LA 70808",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1430452108",
+   "name": "West Baton Rouge Dog Park",
+   "lat": 30.4660305,
+   "lon": -91.2078748,
+   "distKm": 2.6,
+   "address": "610 Rosedale Road, Port Allen, LA",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.westbatonrougemuseum.com/781/Dog-Park"
+   }
+  },
+  {
+   "id": "way/468573437",
+   "name": "The Gates at Citiplace Dog Park",
+   "lat": 30.4220156,
+   "lon": -91.124437,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/801902567",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.380324,
+   "lon": -91.0923688,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1107183376",
+   "name": "Raising Cane's Dog Park",
+   "lat": 30.5651437,
+   "lon": -91.1699876,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/556026718",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3425418,
+   "lon": -91.1035386,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4854495717",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.4285328,
+   "lon": -91.0256089,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12514523311",
+   "name": "Lovett Dog Park",
+   "lat": 30.5240268,
+   "lon": -91.0372122,
+   "distKm": 16.5,
+   "address": "13443 Lovett Road, Central, LA 70818",
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

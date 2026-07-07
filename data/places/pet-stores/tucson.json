@@ -1,0 +1,208 @@
+{
+ "$schemaVersion": 1,
+ "city": "tucson",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:28:49.168Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "way/229483233",
+   "name": "Tropical Kingdom",
+   "lat": 32.2735961,
+   "lon": -110.9456867,
+   "distKm": 6.3,
+   "address": "1761 East Prince Road, Tucson, AZ 85719",
+   "tags": {}
+  },
+  {
+   "id": "way/865780178",
+   "name": "D'oggee's Place",
+   "lat": 32.2644031,
+   "lon": -110.9264322,
+   "distKm": 6.5,
+   "address": "3102 East Fort Lowell Road, Tucson, AZ 85716",
+   "tags": {
+    "phone": "+1 520-703-4669",
+    "website": "https://www.dogeesplace.com/",
+    "opening_hours": "Tu-Fr 10:00-17:00; Sa 10:00-15:00"
+   }
+  },
+  {
+   "id": "way/865780197",
+   "name": "Wild Bird",
+   "lat": 32.2647674,
+   "lon": -110.9251271,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/229968598",
+   "name": "PetSmart",
+   "lat": 32.2851463,
+   "lon": -110.9747057,
+   "distKm": 7,
+   "address": "4374 North Oracle Road, Tucson, AZ 85705",
+   "tags": {
+    "phone": "+1 520-407-0146",
+    "website": "https://www.petsmart.com/stores/us/az/tucson-store1196.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13095171779",
+   "name": "PetSmart",
+   "lat": 32.1581731,
+   "lon": -110.987122,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13372100701",
+   "name": "Ok Feed & Supply",
+   "lat": 32.2653668,
+   "lon": -110.9140862,
+   "distKm": 7.4,
+   "address": "3701 East Fort Lowell Road, 85716",
+   "tags": {
+    "phone": "+1-520-325-0122",
+    "website": "https://okfeedaz.com/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-17:00"
+   }
+  },
+  {
+   "id": "way/230776950",
+   "name": "PetSmart",
+   "lat": 32.2492322,
+   "lon": -110.8915076,
+   "distKm": 8.4,
+   "address": "4740 East Grant Road, Tucson, AZ 85712",
+   "tags": {
+    "phone": "+1 520-322-5080",
+    "website": "https://www.petsmart.com/stores/us/az/tucson-store0164.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/847264745",
+   "name": "Petco",
+   "lat": 32.2226507,
+   "lon": -110.8763951,
+   "distKm": 9.2,
+   "address": "5405 East Broadway Boulevard, Tucson, AZ 85711",
+   "tags": {
+    "phone": "+1 520-571-1772",
+    "website": "https://stores.petco.com/az/tucson/pet-supplies-tucson-az-574.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4363769447",
+   "name": "A Puppy Bath Pet Grooming Salon",
+   "lat": 32.1869131,
+   "lon": -111.09244,
+   "distKm": 11.8,
+   "address": "3059 South Kinney Road, Tucson, AZ 85713",
+   "tags": {
+    "phone": "+1 507 578 2201"
+   }
+  },
+  {
+   "id": "node/11696818256",
+   "name": "PetSmart",
+   "lat": 32.3354316,
+   "lon": -110.9756218,
+   "distKm": 12.5,
+   "address": "7090 North Oracle Road, Tucson, AZ 85704",
+   "tags": {
+    "phone": "+1 520-809-6008",
+    "website": "https://www.petsmart.com/stores/us/az/tucson-store2582.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1061544624",
+   "name": "PetSmart",
+   "lat": 32.3218361,
+   "lon": -111.0434015,
+   "distKm": 12.8,
+   "address": "3850 West River Road, Tucson, AZ 85741",
+   "tags": {
+    "phone": "+1 520-742-1296",
+    "website": "https://www.petsmart.com/stores/us/az/tucson-store1908.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/677769099",
+   "name": "Ever Evolving Exotics",
+   "lat": 32.220683,
+   "lon": -110.8357183,
+   "distKm": 13.1,
+   "address": "7320 East Broadway Boulevard, Tucson, AZ 85710",
+   "tags": {
+    "phone": "+1 520-326-0114",
+    "opening_hours": "We-Fr 11:00-18:00; Sa 11:00-17:00; Su,Mo 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/12111506173",
+   "name": "PetSmart",
+   "lat": 32.2225702,
+   "lon": -110.826398,
+   "distKm": 14,
+   "address": "7727 East Broadway Boulevard, Tucson, AZ 85710",
+   "tags": {
+    "phone": "+1-520-290-0776",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10899556713",
+   "name": "Rosie's Barket",
+   "lat": 32.3510899,
+   "lon": -110.9732276,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1283052091",
+   "name": "Petco",
+   "lat": 32.3530933,
+   "lon": -111.0938012,
+   "distKm": 18.3,
+   "address": "8050 North Cortaro Road, Tucson, AZ 85743",
+   "tags": {
+    "phone": "+1 520-719-6110",
+    "website": "https://stores.petco.com/az/tucson/pet-supplies-tucson-az-2142.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/387038321",
+   "name": "PetSmart",
+   "lat": 32.4002212,
+   "lon": -110.9586027,
+   "distKm": 19.8,
+   "address": "10625 North Oracle Road, Oro Valley, AZ 85737",
+   "tags": {
+    "phone": "+1 520-797-0008",
+    "website": "https://www.petsmart.com/stores/us/az/oro-valley-store1003.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

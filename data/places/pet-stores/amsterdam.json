@@ -1,0 +1,700 @@
+{
+ "$schemaVersion": 1,
+ "city": "amsterdam",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:38:26.065Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12118891417",
+   "name": "4 Cats",
+   "lat": 52.3683999,
+   "lon": 4.9025631,
+   "distKm": 0.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6302280235",
+   "name": "Dierenwinkel Koeka",
+   "lat": 52.3698333,
+   "lon": 4.9009439,
+   "distKm": 0.3,
+   "address": "75 Sint Antoniesbreestraat, Amsterdam, 1011HB",
+   "tags": {
+    "opening_hours": "Mo 12:00-18:00, Tu-Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4194052482",
+   "name": "Poopy Cat",
+   "lat": 52.361366,
+   "lon": 4.8910861,
+   "distKm": 1.1,
+   "address": "8 Vijzelgracht, Amsterdam, 1017HR",
+   "tags": {
+    "phone": "+31 20 261 0936",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2817557985",
+   "name": "Exotica",
+   "lat": 52.3567288,
+   "lon": 4.89956,
+   "distKm": 1.2,
+   "address": "22-H Van Woustraat, Amsterdam, 1073LL",
+   "tags": {
+    "phone": "+31 20 6794274",
+    "website": "https://dierenhandelexotica.nl",
+    "opening_hours": "Mo 12:00-18:00; Tu-Sa 09:00-18:00; PH off"
+   }
+  },
+  {
+   "id": "node/2366101473",
+   "name": "Dierenwinkel Amsterdam",
+   "lat": 52.3570031,
+   "lon": 4.9127373,
+   "distKm": 1.3,
+   "address": "151-155 Eerste Oosterparkstraat, Amsterdam, 1091GZ",
+   "tags": {
+    "phone": "+31 20 693 7518",
+    "website": "https://dierenwinkelamsterdam.nl/",
+    "opening_hours": "Mo-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2817557426",
+   "name": "De Vergulde Hond En De Wijze Kater",
+   "lat": 52.3547682,
+   "lon": 4.9004778,
+   "distKm": 1.4,
+   "address": "185-H Ceintuurbaan, Amsterdam, 1073EK",
+   "tags": {
+    "phone": "+31 20 775 0970",
+    "website": "https://www.verguldehond.nl",
+    "opening_hours": "Tu-We,Fr 10:30-17:00; Sa 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/2721940163",
+   "name": "Koko von Knebel",
+   "lat": 52.3723455,
+   "lon": 4.8835094,
+   "distKm": 1.5,
+   "address": "25-H Reestraat, Amsterdam, 1016DM",
+   "tags": {}
+  },
+  {
+   "id": "node/2817512377",
+   "name": "Boef's Beestenbazaar",
+   "lat": 52.3557459,
+   "lon": 4.8938583,
+   "distKm": 1.5,
+   "address": "163-H Albert Cuypstraat, Amsterdam, 1073BC",
+   "tags": {
+    "website": "https://boefsbeestenbazaar.nl",
+    "opening_hours": "Tu-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/12744714609",
+   "name": "Dierenspeciaalzaak Oscar",
+   "lat": 52.3651861,
+   "lon": 4.926293,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/10992715730",
+   "name": "Petopia",
+   "lat": 52.3787906,
+   "lon": 4.8846924,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/2826191760",
+   "name": "Glamour pets",
+   "lat": 52.3559267,
+   "lon": 4.9262968,
+   "distKm": 2,
+   "address": "21-H Pretoriusstraat, Amsterdam, 1092EX",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2754640987",
+   "name": "Pets Place",
+   "lat": 52.3570651,
+   "lon": 4.9304094,
+   "distKm": 2.1,
+   "address": "210 Waldenlaan, Amsterdam",
+   "tags": {
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/11415082390",
+   "name": "Het Vachtje",
+   "lat": 52.3830512,
+   "lon": 4.8863303,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2848661639",
+   "name": "Ambulia Dierenwinkel",
+   "lat": 52.3857722,
+   "lon": 4.9157518,
+   "distKm": 2.2,
+   "address": "9 Havikslaan, Amsterdam, 1021EH",
+   "tags": {
+    "website": "https://ambulia.nl",
+    "opening_hours": "Mo-Sa 09:30-17:30"
+   }
+  },
+  {
+   "id": "node/11411995698",
+   "name": "Salty",
+   "lat": 52.3667938,
+   "lon": 4.8721916,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2816336840",
+   "name": "Pets Place",
+   "lat": 52.3745138,
+   "lon": 4.9362611,
+   "distKm": 2.3,
+   "address": "1244 Veemkade, Amsterdam, 1019CZ",
+   "tags": {
+    "phone": "+31 20 419 6634",
+    "website": "https://www.petsplace.nl/winkelzoeker/l/amsterdam/veemkade-1244/2254675",
+    "opening_hours": "Mo-Sa 09:30-18:00; Su 12:00-17:00",
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/12160371750",
+   "name": "Pets Place",
+   "lat": 52.3667171,
+   "lon": 4.8697821,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.petsplace.nl/dierenwinkel-amsterdam",
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/2817926041",
+   "name": "De Beestenboel",
+   "lat": 52.3466078,
+   "lon": 4.8908096,
+   "distKm": 2.5,
+   "address": "38 Scheldestraat, Amsterdam, 1078GL",
+   "tags": {
+    "website": "https://debeestenboel.net/",
+    "opening_hours": "Mo 11:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/9498690252",
+   "name": "Maxi Zoo",
+   "lat": 52.3575153,
+   "lon": 4.9398584,
+   "distKm": 2.7,
+   "address": "306 Molukkenstraat, Amsterdam, 1098TW",
+   "tags": {
+    "phone": "+31 20 224 0640",
+    "website": "https://www.maxizoo.nl/winkels/maxi-zoo-amsterdam-molukkenstraat",
+    "opening_hours": "Mo-We,Fr-Sa 09:00-18:00; Th 09:00-21:00; Su 12:00-17:00",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/1687475226",
+   "name": "Kwispel",
+   "lat": 52.3642362,
+   "lon": 4.8632583,
+   "distKm": 2.8,
+   "address": "77 Jan Pieter Heijestraat, Amsterdam, 1053GM",
+   "tags": {
+    "phone": "+31 20 618 3091",
+    "website": "https://dierenwinkelkwispel.nl",
+    "opening_hours": "Mo 12:00-18:00; Tu-Fr 09:00-18:00; Sa 09:30-17:00"
+   }
+  },
+  {
+   "id": "node/4294260137",
+   "name": "LA CHIC",
+   "lat": 52.3750521,
+   "lon": 4.8601022,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.lachic.nl/"
+   }
+  },
+  {
+   "id": "node/2848351675",
+   "name": "Dierenvoeding Vermeulen",
+   "lat": 52.3915713,
+   "lon": 4.9439539,
+   "distKm": 3.8,
+   "address": "9 Purmerplein, Amsterdam, 1023BC",
+   "tags": {}
+  },
+  {
+   "id": "node/2814629506",
+   "name": "'t Dierenhoekje",
+   "lat": 52.3506896,
+   "lon": 4.8535812,
+   "distKm": 3.9,
+   "address": "53-H Zeilstraat, Amsterdam, 1075SC",
+   "tags": {}
+  },
+  {
+   "id": "node/5763768184",
+   "name": "Cinderella",
+   "lat": 52.3789923,
+   "lon": 4.8500681,
+   "distKm": 3.9,
+   "address": "234 Bos en Lommerweg, Amsterdam, 1055EJ",
+   "tags": {
+    "website": "https://www.cinderella-dieren.nl"
+   }
+  },
+  {
+   "id": "node/2848300926",
+   "name": "Pets Place",
+   "lat": 52.3979842,
+   "lon": 4.9371978,
+   "distKm": 4.1,
+   "address": "156 Buikslotermeerplein, Amsterdam, 1025EZ",
+   "tags": {
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/2818830419",
+   "name": "Pets Place",
+   "lat": 52.3314235,
+   "lon": 4.8764384,
+   "distKm": 4.4,
+   "address": "227 Gelderlandplein, Amsterdam, 1082LX",
+   "tags": {
+    "website": "https://www.petsplace.nl/winkelzoeker/l/amsterdam/gelderlandplein-227/3486348",
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/2848275758",
+   "name": "Maxi Zoo",
+   "lat": 52.3923187,
+   "lon": 4.9563796,
+   "distKm": 4.5,
+   "address": "5 Waterlandplein, Amsterdam, 1024LL",
+   "tags": {
+    "phone": "+31 20 2111334",
+    "website": "https://www.maxizoo.nl/winkels/maxi-zoo-amsterdam-waterlandplein",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; PH closed",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/2793642977",
+   "name": "Animal Attraction",
+   "lat": 52.3802736,
+   "lon": 4.8321066,
+   "distKm": 5.1,
+   "address": "53 Burgemeester Fockstraat, Amsterdam, 1063CP",
+   "tags": {
+    "website": "https://animalattraction.nl/",
+    "opening_hours": "Tu-Sa 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/13057665254",
+   "name": "Dierenspeciaalzaak De Ara",
+   "lat": 52.4128836,
+   "lon": 4.8913235,
+   "distKm": 5.1,
+   "address": "22A Zonneplein",
+   "tags": {}
+  },
+  {
+   "id": "node/427970064",
+   "name": "Dierenasiel Amsterdam Noord Oostzaan",
+   "lat": 52.4257097,
+   "lon": 4.8873648,
+   "distKm": 6.6,
+   "address": "220 Zuideinde, Oostzaan, 1511GM",
+   "tags": {
+    "phone": "+31 20 633 5400",
+    "website": "https://dierenasieloostzaan.nl/"
+   }
+  },
+  {
+   "id": "node/2842367605",
+   "name": "Dierenparadijs",
+   "lat": 52.3540256,
+   "lon": 4.9981031,
+   "distKm": 6.6,
+   "address": "1307 IJburglaan, Amsterdam, 1087JJ",
+   "tags": {
+    "phone": "+31 20 331 1179"
+   }
+  },
+  {
+   "id": "node/2874123173",
+   "name": "Rentenaar",
+   "lat": 52.4283706,
+   "lon": 4.9142418,
+   "distKm": 6.8,
+   "address": "16 Nieuwe Gouw, Landsmeer, 1121GX",
+   "tags": {
+    "phone": "+31 20 482 4258",
+    "website": "http://www.rentenaar.com",
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/2793396745",
+   "name": "Care4cats",
+   "lat": 52.3753146,
+   "lon": 4.7937905,
+   "distKm": 7.5,
+   "address": "8 Cort van der Lindenkade, Amsterdam, 1067LJ",
+   "tags": {
+    "website": "https://care4cats.nl/"
+   }
+  },
+  {
+   "id": "node/2827409926",
+   "name": "Aboriginal Art Amsterdam",
+   "lat": 52.2962875,
+   "lon": 4.9028687,
+   "distKm": 7.9,
+   "address": "31 Kerkstraat, Ouderkerk aan de Amstel, 1191JD",
+   "tags": {
+    "website": "https://www.aboriginal-art-amsterdam.nl/"
+   }
+  },
+  {
+   "id": "node/2797549792",
+   "name": "Maxi Zoo",
+   "lat": 52.360965,
+   "lon": 4.7827986,
+   "distKm": 8.3,
+   "address": "400 Ookmeerweg, Amsterdam, 1069CG",
+   "tags": {
+    "phone": "+31 20 410 1511",
+    "website": "https://www.maxizoo.nl/winkels/maxi-zoo-amsterdam-osdorp",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/631592593",
+   "name": "Pets Place",
+   "lat": 52.3343955,
+   "lon": 5.0205133,
+   "distKm": 8.7,
+   "address": "5 Pampusweg, Muiden, 1398PT",
+   "tags": {
+    "phone": "+31 294 458 588",
+    "website": "https://www.petsplace.nl/winkelzoeker/l/muiden/pampusweg-5/2254506",
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/2744770262",
+   "name": "Pets Place",
+   "lat": 52.3356826,
+   "lon": 4.7793927,
+   "distKm": 9.2,
+   "address": "43 Pa Verkuijllaan, Badhoevedorp, 1171EA",
+   "tags": {
+    "website": "https://petsplace.nl/pets-place-badhoevedorp",
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/2862336363",
+   "name": "Dierenspeciaalzaak Reigersbos",
+   "lat": 52.2967416,
+   "lon": 4.9753549,
+   "distKm": 9.2,
+   "address": "8 Reigersbos, Amsterdam, 1106AS",
+   "tags": {}
+  },
+  {
+   "id": "node/5033106287",
+   "name": "Dennis Papegaaien",
+   "lat": 52.4544381,
+   "lon": 4.9074122,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.papegaaien.nl/"
+   }
+  },
+  {
+   "id": "node/2809166375",
+   "name": "Dierplezier",
+   "lat": 52.2797304,
+   "lon": 4.8621702,
+   "distKm": 10.2,
+   "address": "55 Parlevinker, Amstelveen, 1186ZB",
+   "tags": {
+    "website": "https://www.dierplezier.net"
+   }
+  },
+  {
+   "id": "node/2893600305",
+   "name": "Maxi Zoo",
+   "lat": 52.4436479,
+   "lon": 4.8194373,
+   "distKm": 10.2,
+   "address": "9 Klokbaai, Zaandam, 1506VE",
+   "tags": {
+    "phone": "+31 75 6228531",
+    "website": "https://www.maxizoo.nl/winkels/maxi-zoo-zaandam",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/2860106191",
+   "name": "Black and White",
+   "lat": 52.3056514,
+   "lon": 5.0400607,
+   "distKm": 11.5,
+   "address": "12 Groeneweg, Weesp, 1381CM",
+   "tags": {
+    "phone": "+31 294 410 792",
+    "website": "https://www.blackenwhiteweesp.nl/"
+   }
+  },
+  {
+   "id": "node/13690369649",
+   "name": "Dierenbenodigdheden Aqua Fauna Natura",
+   "lat": 52.4575383,
+   "lon": 4.8079148,
+   "distKm": 11.9,
+   "address": "59 Leliestraat, Koog aan de Zaan, 1541CK",
+   "tags": {
+    "phone": "+31 75 870 0027",
+    "opening_hours": "Mo-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00; Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/2889487633",
+   "name": "Rentenaar",
+   "lat": 52.462399,
+   "lon": 4.8107359,
+   "distKm": 12.3,
+   "address": "43 Raadhuisstraat, Koog aan de Zaan, 1541JB",
+   "tags": {
+    "website": "http://www.rentenaar.com"
+   }
+  },
+  {
+   "id": "node/3151408991",
+   "name": "Arts&Ants",
+   "lat": 52.2789878,
+   "lon": 4.7821782,
+   "distKm": 12.9,
+   "address": "213 Oosteinderweg, Aalsmeer, 1432AS",
+   "tags": {
+    "website": "http://www.koi2buy.nl/site/",
+    "opening_hours": "We-Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2876347181",
+   "name": "Discus Bormann",
+   "lat": 52.4943033,
+   "lon": 4.9686945,
+   "distKm": 14.8,
+   "address": "20 Van Burgplein, Purmerend, 1447KR",
+   "tags": {
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00 - 17:00"
+   }
+  },
+  {
+   "id": "node/3781930072",
+   "name": "Van Tol Dier XL",
+   "lat": 52.239625,
+   "lon": 4.8368377,
+   "distKm": 14.9,
+   "address": "83 Wiegerbruinlaan, Uithoorn, 1422CB",
+   "tags": {
+    "phone": "+31 297 56 41 26",
+    "website": "https://www.vantoldierxl.nl/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/2767064478",
+   "name": "Discus J.J. van der Zwaard",
+   "lat": 52.2675528,
+   "lon": 4.7483123,
+   "distKm": 15.4,
+   "address": "71 Zijdstraat, Aalsmeer, 1431EB",
+   "tags": {
+    "website": "https://www.discus.nl/dierenwinkel/aalsmeer/"
+   }
+  },
+  {
+   "id": "node/2733563984",
+   "name": "Discus",
+   "lat": 52.3039482,
+   "lon": 4.6962567,
+   "distKm": 15.8,
+   "address": "989 Kruisweg, Hoofddorp, 2132CE",
+   "tags": {
+    "website": "https://www.discus.nl/dierenwinkel/hoofddorp/"
+   }
+  },
+  {
+   "id": "node/2881318575",
+   "name": "Rentenaar",
+   "lat": 52.4985419,
+   "lon": 4.8118845,
+   "distKm": 15.8,
+   "address": "111 Faunastraat, Wormer, 1531WE",
+   "tags": {
+    "website": "http://www.rentenaar.com"
+   }
+  },
+  {
+   "id": "node/6909315293",
+   "name": "De Boer Dier & Ruiter",
+   "lat": 52.3110823,
+   "lon": 5.12058,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "phone": "+31 35 632 1021",
+    "website": "https://www.deboerdierenruiter.nl",
+    "opening_hours": "Mo-We 09:00-18:00, Th,Fr 09:00-20:00, Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/2875946565",
+   "name": "Pets Place",
+   "lat": 52.5058393,
+   "lon": 4.9850405,
+   "distKm": 16.3,
+   "address": "44 Gildeplein, Purmerend, 1445BM",
+   "tags": {
+    "phone": "+31 299 644 485",
+    "website": "https://www.petsplace.nl/winkelzoeker/l/purmerend/gildeplein-44-46/2254677",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/1902846954",
+   "name": "Dierentoko Poort",
+   "lat": 52.3462268,
+   "lon": 5.1504689,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2714755675",
+   "name": "Pets Place",
+   "lat": 52.3598151,
+   "lon": 4.6538845,
+   "distKm": 17,
+   "address": "11A Rivièradreef, Haarlem, 2037AC",
+   "tags": {
+    "brand": "Pets Place"
+   }
+  },
+  {
+   "id": "node/2885892171",
+   "name": "Igor's",
+   "lat": 52.4965602,
+   "lon": 4.7670223,
+   "distKm": 17.1,
+   "address": "2A Zuiderhoofdstraat, Krommenie, 1561AL",
+   "tags": {}
+  },
+  {
+   "id": "node/2875613164",
+   "name": "Koi Vijvercentrum Waterland",
+   "lat": 52.5143137,
+   "lon": 4.9927438,
+   "distKm": 17.4,
+   "address": "14 Maxwellstraat, Purmerend, 1446TA",
+   "tags": {
+    "phone": "+31 299 477 633",
+    "website": "https://www.koi-vijvercentrum.nl/"
+   }
+  },
+  {
+   "id": "node/2877537012",
+   "name": "Maxi Zoo",
+   "lat": 52.5172138,
+   "lon": 4.9816494,
+   "distKm": 17.4,
+   "address": "405 Van IJsendijkstraat, Purmerend, 1442LB",
+   "tags": {
+    "phone": "+31 299 784012",
+    "website": "https://www.maxizoo.nl/winkels/maxi-zoo-purmerend",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/2885892833",
+   "name": "Rentenaar",
+   "lat": 52.5005664,
+   "lon": 4.7663623,
+   "distKm": 17.5,
+   "address": "31 Heiligeweg, Krommenie, 1561DD",
+   "tags": {
+    "phone": "+31 75 640 1361",
+    "website": "http://www.rentenaar.com"
+   }
+  },
+  {
+   "id": "node/9228155503",
+   "name": "Discus Bormann",
+   "lat": 52.5210851,
+   "lon": 4.9614326,
+   "distKm": 17.5,
+   "address": "19 Leeuwerikplein, Purmerend, 1444HW",
+   "tags": {
+    "phone": "+31 299 769078",
+    "website": "https://www.discus.nl/dierenwinkel/discus-bormann-purmerend/",
+    "opening_hours": "Mo 13:00-18:00; Tu-Fr 09:00-18:00; Sa 09:00-17:00",
+    "brand": "Discus"
+   }
+  },
+  {
+   "id": "node/2844618828",
+   "name": "Dierenspeciaalzaak De Dierentuin",
+   "lat": 52.4982017,
+   "lon": 5.0534266,
+   "distKm": 17.7,
+   "address": "11a De Stient, Volendam, 1132BE",
+   "tags": {}
+  }
+ ]
+}

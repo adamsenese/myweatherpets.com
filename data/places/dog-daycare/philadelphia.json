@@ -1,0 +1,92 @@
+{
+ "$schemaVersion": 1,
+ "city": "philadelphia",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:21:41.134Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "node/2247020278",
+   "name": "Z Dog Daycare",
+   "lat": 39.9519636,
+   "lon": -75.1769652,
+   "distKm": 1,
+   "address": "115 South 22nd Street",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12609920573",
+   "name": "The Dog Alley",
+   "lat": 39.9502472,
+   "lon": -75.1450189,
+   "distKm": 1.7,
+   "address": "239 Market Street, Philadelphia, PA 19106",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9443725621",
+   "name": "Andrew's Pack",
+   "lat": 39.9741816,
+   "lon": -75.1794906,
+   "distKm": 2.7,
+   "address": "2617 West Girard Avenue",
+   "tags": {
+    "website": "https://www.andrewspack.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1320175679",
+   "name": "WagDays Philly",
+   "lat": 39.9255297,
+   "lon": -75.1605601,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11072156883",
+   "name": "Scallywags Dog Daycare",
+   "lat": 40.0250882,
+   "lon": -75.2229412,
+   "distKm": 9.4,
+   "address": "4324 Main Street, Philadelphia, PA 19127",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/951332676",
+   "name": "Villa La Paws Pet Resort",
+   "lat": 39.9473009,
+   "lon": -74.976326,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13124421651",
+   "name": "Dogtopia",
+   "lat": 39.8960732,
+   "lon": -74.9489764,
+   "distKm": 19.5,
+   "address": "2095 Marlton Pike East, Cherry Hill, NJ 08003",
+   "tags": {
+    "phone": "+1-856-254-3555",
+    "website": "https://www.dogtopia.com/cherryhill",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

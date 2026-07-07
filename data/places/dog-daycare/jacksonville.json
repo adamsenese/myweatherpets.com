@@ -1,0 +1,45 @@
+{
+ "$schemaVersion": 1,
+ "city": "jacksonville",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:22:45.556Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "way/497403295",
+   "name": "The Barking Lot",
+   "lat": 30.3251973,
+   "lon": -81.7053301,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/736673027",
+   "name": "Camp Bow Wow",
+   "lat": 30.2216097,
+   "lon": -81.5816939,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/365134943",
+   "name": "Pet Paradise Resort and Day Spa",
+   "lat": 30.4956956,
+   "lon": -81.6702296,
+   "distKm": 18.2,
+   "address": "14272 Pecan Park Road, Jacksonville, 32218",
+   "tags": {
+    "website": "https://www.petparadise.com/jacksonville-airport.htm",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

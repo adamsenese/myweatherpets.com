@@ -1,0 +1,89 @@
+{
+ "$schemaVersion": 1,
+ "city": "dublin",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:38:32.533Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "way/1375677597",
+   "name": "Shampoodles",
+   "lat": 53.4114517,
+   "lon": -6.2157174,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5381670519",
+   "name": "Deerfield Kennels",
+   "lat": 53.2676364,
+   "lon": -6.2577114,
+   "distKm": 9.1,
+   "address": "Harolds Grange Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1111979047",
+   "name": "Kilshane Dog & Cat Boarding Kennels",
+   "lat": 53.4185114,
+   "lon": -6.343232,
+   "distKm": 9.4,
+   "address": "Kilshane Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1054835193",
+   "name": "West City Kennels and Cattery",
+   "lat": 53.3018552,
+   "lon": -6.417905,
+   "distKm": 11.7,
+   "address": "Old Naas Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3091511768",
+   "name": "Kennels.ie",
+   "lat": 53.220606,
+   "lon": -6.2287908,
+   "distKm": 14.5,
+   "address": "Ballybrack Road",
+   "tags": {
+    "website": "https://www.kennels.ie/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/161881769",
+   "name": "Beeches Brook Boarding Kennels",
+   "lat": 53.2061465,
+   "lon": -6.1676268,
+   "distKm": 17.1,
+   "address": "Barnaslingan Lane",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7423743975",
+   "name": "Hollygrove Kennels",
+   "lat": 53.2963834,
+   "lon": -6.5201999,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "$schemaVersion": 1,
+ "city": "detroit",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:27:19.364Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/9395657712",
+   "name": "Canine to Five",
+   "lat": 42.3449164,
+   "lon": -83.0607262,
+   "distKm": 1.9,
+   "address": "3443 Cass Avenue, Detroit, MI 48201",
+   "tags": {
+    "website": "https://www.caninetofive.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4957405050",
+   "name": "Canine To Five Ferndale",
+   "lat": 42.461313,
+   "lon": -83.1185788,
+   "distKm": 15.6,
+   "address": "1221 East 9 Mile Road, Ferndale, MI 48220",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4962249600",
+   "name": "Bubble & Bark",
+   "lat": 42.4519108,
+   "lon": -83.1422799,
+   "distKm": 15.6,
+   "address": "686 Livernois Street, Ferndale, MI 48220",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/882118850",
+   "name": "Puppy Love Dog Socialization Center & Spa",
+   "lat": 42.4646598,
+   "lon": -83.1236526,
+   "distKm": 16.1,
+   "address": "2221 Hilton Road, Ferndale, MI 48220",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 10:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4970732728",
+   "name": "Fido Personal Dog Training",
+   "lat": 42.4665274,
+   "lon": -83.1381114,
+   "distKm": 16.8,
+   "address": "23440 Woodward Avenue, Ferndale, MI 48220",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/678697934",
+   "name": "The Golden Leash",
+   "lat": 42.1880102,
+   "lon": -83.1693083,
+   "distKm": 18.9,
+   "address": "4450 13th Street, Wyandotte, MI 48192",
+   "tags": {
+    "phone": "+1-313-401-9884",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

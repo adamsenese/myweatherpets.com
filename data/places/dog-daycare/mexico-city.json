@@ -1,0 +1,23 @@
+{
+ "$schemaVersion": 1,
+ "city": "mexico-city",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:39:43.196Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/5355814718",
+   "name": "Estetica Animal",
+   "lat": 19.4162989,
+   "lon": -99.0841482,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-20:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

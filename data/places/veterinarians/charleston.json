@@ -1,0 +1,212 @@
+{
+ "$schemaVersion": 1,
+ "city": "charleston",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:35:29.237Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "node/12786848144",
+   "name": "Mobile Veterinary Surgery LLC",
+   "lat": 32.7773424,
+   "lon": -79.936609,
+   "distKm": 0.5,
+   "address": "145 Queen Street, Charleston, SC 29401",
+   "tags": {}
+  },
+  {
+   "id": "node/12851572028",
+   "name": "All Creatures Veterinary Clinic",
+   "lat": 32.7843051,
+   "lon": -79.9421765,
+   "distKm": 1.4,
+   "address": "224 Calhoun Street, Charleston, SC 29403",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/669604181",
+   "name": "Charleston Harbor Veterinarians",
+   "lat": 32.7929783,
+   "lon": -79.9483883,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1361596373",
+   "name": "Animal Medical Center of Mt. Pleasant",
+   "lat": 32.8000481,
+   "lon": -79.891172,
+   "distKm": 4.6,
+   "address": "958 Houston Northcutt Boulevard, Mount Pleasant, SC 29464",
+   "tags": {
+    "phone": "+1-843-881-5858",
+    "website": "https://www.amcmp.com",
+    "opening_hours": "Mo-Fr 8:00-18:00; Sa 8:00-13:00"
+   }
+  },
+  {
+   "id": "node/13740456226",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.8024773,
+   "lon": -79.8882234,
+   "distKm": 4.9,
+   "address": "911 Houston Northcutt Boulevard, Mount Pleasant, SC 29464",
+   "tags": {
+    "phone": "+1-843-971-7460",
+    "website": "https://www.banfield.com/locations/veterinarians/sc/mt--pleasant",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 09:30-17:00"
+   }
+  },
+  {
+   "id": "node/10164706917",
+   "name": "VCA Animal Hospital",
+   "lat": 32.7827064,
+   "lon": -79.9884281,
+   "distKm": 5.4,
+   "address": "850 Savannah Highway, Charleston, 29407",
+   "tags": {
+    "website": "https://vcahospitals.com/charles-towne"
+   }
+  },
+  {
+   "id": "node/10164705626",
+   "name": "GoodVets",
+   "lat": 32.7837354,
+   "lon": -79.9964018,
+   "distKm": 6.2,
+   "address": "1129 Savannah Highway",
+   "tags": {}
+  },
+  {
+   "id": "node/13954668070",
+   "name": "BluePearl",
+   "lat": 32.8103147,
+   "lon": -79.8687829,
+   "distKm": 6.9,
+   "address": "985 Johnnie Dodds Boulevard, Mount Pleasant, SC 29464",
+   "tags": {}
+  },
+  {
+   "id": "way/1525648770",
+   "name": "East Cooper Animal Hospital",
+   "lat": 32.8104837,
+   "lon": -79.8682895,
+   "distKm": 7,
+   "address": "993 Johnnie Dodds Boulevard, Mount Pleasant, SC 29464",
+   "tags": {}
+  },
+  {
+   "id": "node/13030522610",
+   "name": "Daniel Island Animal Hospital",
+   "lat": 32.8586937,
+   "lon": -79.9109566,
+   "distKm": 9.3,
+   "address": "291 Seven Farms Drive, Daniel Island, SC 29492",
+   "tags": {}
+  },
+  {
+   "id": "way/1122957508",
+   "name": "Charleston Heights Vetinary Clinic",
+   "lat": 32.8557016,
+   "lon": -79.9794486,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473375399",
+   "name": "Riverbank Veterinary Clinic",
+   "lat": 32.7432107,
+   "lon": -80.0398787,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/858319149",
+   "name": "Carolina Veterinary",
+   "lat": 32.8636275,
+   "lon": -80.0155251,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473371909",
+   "name": "Angel Oak Animal Hospital",
+   "lat": 32.7336768,
+   "lon": -80.0578308,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473363367",
+   "name": "Bohicket Veterinary Clinic",
+   "lat": 32.7253247,
+   "lon": -80.0735682,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1123115400",
+   "name": "Charleston Animal Hospital",
+   "lat": 32.8628942,
+   "lon": -80.0496854,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12285776750",
+   "name": "Grand Oaks Animal Hospital",
+   "lat": 32.8250357,
+   "lon": -80.0852151,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1122532703",
+   "name": "Hanahan Veterinary Clinic",
+   "lat": 32.9014938,
+   "lon": -80.0096754,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13046898845",
+   "name": "Cainhoy Veterinary Hospital",
+   "lat": 32.9213553,
+   "lon": -79.8693962,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12106800244",
+   "name": "Best Friends Animal Clinic",
+   "lat": 32.9343147,
+   "lon": -79.9995597,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1249784543",
+   "name": "Park West Veterinary",
+   "lat": 32.8815829,
+   "lon": -79.7735957,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

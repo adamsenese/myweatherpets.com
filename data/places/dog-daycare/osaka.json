@@ -1,0 +1,78 @@
+{
+ "$schemaVersion": 1,
+ "city": "osaka",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:23:36.938Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/12076411015",
+   "name": "PAWAMI STAY",
+   "lat": 34.7045482,
+   "lon": 135.5262915,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12541913154",
+   "name": "TAP",
+   "lat": 34.7064749,
+   "lon": 135.5261165,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12756911953",
+   "name": "ONE LUKE",
+   "lat": 34.7382896,
+   "lon": 135.5013329,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1097707094",
+   "name": "ペットホテル マルキ",
+   "lat": 34.7198391,
+   "lon": 135.413832,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4659037778",
+   "name": "Dog Salon Clair",
+   "lat": 34.809226,
+   "lon": 135.5174264,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7884017962",
+   "name": "A-Love",
+   "lat": 34.7416959,
+   "lon": 135.3348028,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.aeonpet.com/shop/a-love/shukugawa.html",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

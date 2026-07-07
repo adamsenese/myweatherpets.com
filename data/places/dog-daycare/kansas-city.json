@@ -1,0 +1,92 @@
+{
+ "$schemaVersion": 1,
+ "city": "kansas-city",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:29:12.068Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "node/2955197928",
+   "name": "Dog Pawz",
+   "lat": 39.0911272,
+   "lon": -94.5871819,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "website": "https://dogpawz.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11611737711",
+   "name": "Canine Capital",
+   "lat": 39.048654,
+   "lon": -94.586811,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10782525748",
+   "name": "A Dog's Fun Playce",
+   "lat": 38.9856334,
+   "lon": -94.5943372,
+   "distKm": 12.8,
+   "address": "7833 Wornall Road, Kansas City, MO 64114",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/620728966",
+   "name": "Woof's Stay & Play",
+   "lat": 39.0117146,
+   "lon": -94.6926342,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1466588570",
+   "name": "Camp Bow Wow Kansas City Northland",
+   "lat": 39.2495809,
+   "lon": -94.6325515,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/707208586",
+   "name": "Country Kennels",
+   "lat": 39.0339133,
+   "lon": -94.3921991,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13175398104",
+   "name": "Dogtopia",
+   "lat": 38.9367636,
+   "lon": -94.6690261,
+   "distKm": 19.7,
+   "address": "10556 Metcalf Avenue, Overland Park, KS 66212",
+   "tags": {
+    "phone": "+1-913-346-2822",
+    "website": "https://www.dogtopia.com/north-overlandpark/",
+    "opening_hours": "Mo-Tu 06:30-19:00; We 06:30-18:00; Th off; Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

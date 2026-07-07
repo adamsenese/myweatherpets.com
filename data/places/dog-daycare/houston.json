@@ -1,0 +1,106 @@
+{
+ "$schemaVersion": 1,
+ "city": "houston",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:21:08.344Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/438716030",
+   "name": "Dogtopia",
+   "lat": 29.7679605,
+   "lon": -95.382289,
+   "distKm": 1.5,
+   "address": "2311 Washington Avenue, Houston, TX 77007",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1099854648",
+   "name": "The Best Little Dog House In Texas",
+   "lat": 29.7482572,
+   "lon": -95.3907696,
+   "distKm": 2.4,
+   "address": "902 Fairview Street, Houston, TX 77006",
+   "tags": {
+    "website": "https://www.thebestlittledoghouseintexas.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/589070622",
+   "name": "The Green Bone",
+   "lat": 29.7487412,
+   "lon": -95.3471617,
+   "distKm": 2.5,
+   "address": "2901 Rusk Street, Houston, TX",
+   "tags": {
+    "website": "https://www.thegreenbone.net/",
+    "opening_hours": "Mo-Fr 07:00-18:30, Sa 10:00-17:30, Su \"on appointment\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6989032890",
+   "name": "Molly's Mutt House",
+   "lat": 29.8180324,
+   "lon": -95.4099262,
+   "distKm": 7.5,
+   "address": "3410 North Shepherd Drive, Houston, TX 77018",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su 14:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9383071421",
+   "name": "Dogtopia",
+   "lat": 29.7380728,
+   "lon": -95.4942041,
+   "distKm": 12.3,
+   "address": "6240 Westheimer Road, Houston, TX",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1092201690",
+   "name": "You Lucky Dog Pet Resort",
+   "lat": 29.6575809,
+   "lon": -95.4761824,
+   "distKm": 15.4,
+   "address": "11403 Chimney Rock Road, Houston, TX 77035",
+   "tags": {
+    "phone": "+1-713-668-7297",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13535517148",
+   "name": "The Fritz Kennel",
+   "lat": 29.7996893,
+   "lon": -95.5279467,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {
+    "phone": "+1 713-464-9852",
+    "website": "https://fritzkennel.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13535517142",
+   "name": "Peace Love Dogs",
+   "lat": 29.7993355,
+   "lon": -95.5299077,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,609 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-francisco",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:25:35.497Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 58,
+ "places": [
+  {
+   "id": "way/909411961",
+   "name": "SoMa West Dog Park",
+   "lat": 37.7702913,
+   "lon": -122.4219889,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/128534082",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7805666,
+   "lon": -122.413677,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/551837087",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7816627,
+   "lon": -122.4263609,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/421567986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.777249,
+   "lon": -122.4061212,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/251442759",
+   "name": "Dog Play Area",
+   "lat": 37.7696327,
+   "lon": -122.432351,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/547224409",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7762441,
+   "lon": -122.4353469,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/1427215209",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7792252,
+   "lon": -122.4012086,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "access": "no"
+   }
+  },
+  {
+   "id": "way/56645382",
+   "name": "Mission Bay Dog Park",
+   "lat": 37.770686,
+   "lon": -122.3991458,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes",
+    "access": "yes",
+    "website": "https://sfrecpark.org/Facilities/Facility/Details/Berry-Street-Dog-Park-452",
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/1075265279",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7910889,
+   "lon": -122.4268656,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/38025784",
+   "name": "Corona Heights Dog Play Area",
+   "lat": 37.7655424,
+   "lon": -122.4398144,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "surface": "woodchips",
+    "barrier": "fence",
+    "website": "https://sfrecpark.org/Facilities/Facility/Details/Corona-Heights-Dog-Play-Area-5"
+   }
+  },
+  {
+   "id": "way/480149175",
+   "name": "Buena Vista Dog Run",
+   "lat": 37.7687283,
+   "lon": -122.442784,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/967119898",
+   "name": "Daggett Plaza Dog Run",
+   "lat": 37.7670603,
+   "lon": -122.3960562,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/249654585",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7597544,
+   "lon": -122.4364863,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/573287809",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7723632,
+   "lon": -122.3935246,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/174826283",
+   "name": "Rincon Hill Dog Park",
+   "lat": 37.7859383,
+   "lon": -122.3904146,
+   "distKm": 2.8,
+   "address": "486",
+   "tags": {}
+  },
+  {
+   "id": "way/1365464724",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7760705,
+   "lon": -122.3880762,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/908908429",
+   "name": "Avalon Dogpatch Dog Park",
+   "lat": 37.7603216,
+   "lon": -122.3918374,
+   "distKm": 2.9,
+   "address": "791-785 Indiana Street, San Francisco, 94107",
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/551990539",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.8014687,
+   "lon": -122.4323486,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1055773989",
+   "name": "Pepi's Dog Park",
+   "lat": 37.8044894,
+   "lon": -122.4211186,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/382085619",
+   "name": "Progress Park",
+   "lat": 37.7531898,
+   "lon": -122.3910735,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/576099480",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7518902,
+   "lon": -122.3929564,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1119773696",
+   "name": "Upper Douglass Dog Play Area",
+   "lat": 37.7467953,
+   "lon": -122.439075,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://sfrecpark.org/Facilities/Facility/Details/Upper-Douglass-Dog-Play-Area-7"
+   }
+  },
+  {
+   "id": "way/417184097",
+   "name": "Joby's Dog Run",
+   "lat": 37.7424666,
+   "lon": -122.4273908,
+   "distKm": 3.7,
+   "address": "San Francisco",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://sfrecpark.org/Facilities/Facility/Details/Upper-Noe-Dog-Play-Area-27"
+   }
+  },
+  {
+   "id": "way/375333476",
+   "name": "Walter Haas Dog Park",
+   "lat": 37.7404294,
+   "lon": -122.435395,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "website": "https://sfrecpark.org/Facilities/Facility/Details/Walter-Haas-Dog-Play-Areas-28"
+   }
+  },
+  {
+   "id": "way/1056552552",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7874567,
+   "lon": -122.4668934,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/402067892",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7327469,
+   "lon": -122.4208916,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/264552589",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7403686,
+   "lon": -122.3759672,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "surface": "compacted",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1232534974",
+   "name": "The Rocks Dog Park",
+   "lat": 37.8107735,
+   "lon": -122.3680329,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/13567393701",
+   "name": "McLaren Park Dog Play Area",
+   "lat": 37.7194526,
+   "lon": -122.4187836,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/427290243",
+   "name": "Off-leash Dog Area",
+   "lat": 37.7149751,
+   "lon": -122.4275938,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/389128196",
+   "name": "Golden Gate Park Dog Training Area",
+   "lat": 37.7710198,
+   "lon": -122.4995275,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "website": "https://sfrecpark.org/Facilities/Facility/Details/GGP-Dog-Training-Area-13"
+   }
+  },
+  {
+   "id": "node/1229112075",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7361936,
+   "lon": -122.4848346,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/395490068",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.70776,
+   "lon": -122.4411533,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1099949743",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7120695,
+   "lon": -122.4650445,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/577621111",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7182896,
+   "lon": -122.4812917,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/847869212",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7147146,
+   "lon": -122.4764955,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468619330",
+   "name": "Brisbane Dog Park",
+   "lat": 37.6869454,
+   "lon": -122.403963,
+   "distKm": 9.9,
+   "address": "173 Park Lane, Brisbane, CA 94005",
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes",
+    "website": "https://www.brisbaneca.gov/Facilities/Facility/Details/Dog-Park-6"
+   }
+  },
+  {
+   "id": "way/1204981752",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7846026,
+   "lon": -122.3020782,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/396592732",
+   "name": "Bark Park",
+   "lat": 37.6841666,
+   "lon": -122.4630016,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {
+    "lit": "no",
+    "website": "https://www.colma.ca.gov/park-facilities/",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/440872582",
+   "name": "Main Street Dog Park",
+   "lat": 37.7901143,
+   "lon": -122.2960664,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/395487345",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6894843,
+   "lon": -122.4954073,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/865922242",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7880885,
+   "lon": -122.2888269,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/498945335",
+   "name": "Dog Park",
+   "lat": 37.7783122,
+   "lon": -122.2817687,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/440874983",
+   "name": "Alameda Small Dog Park",
+   "lat": 37.7677138,
+   "lon": -122.2726423,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/440874984",
+   "name": "Alameda Large Dog Park",
+   "lat": 37.767552,
+   "lon": -122.2731807,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1346439959",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.8345309,
+   "lon": -122.2904343,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/942087414",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.8426995,
+   "lon": -122.2951017,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/170150745",
+   "name": "Centennial Dog Park",
+   "lat": 37.6537449,
+   "lon": -122.4305856,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/10320862",
+   "name": "César Chávez Dog Park",
+   "lat": 37.8732301,
+   "lon": -122.3199272,
+   "distKm": 14,
+   "address": "Berkeley",
+   "tags": {}
+  },
+  {
+   "id": "way/686838656",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.8370216,
+   "lon": -122.2778493,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/460494855",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.8257856,
+   "lon": -122.2686331,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/397739350",
+   "name": "Commodore Park Dog Exercise Area",
+   "lat": 37.6312743,
+   "lon": -122.4251559,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/10853503127",
+   "name": "Point Isabel Dog Park",
+   "lat": 37.8989507,
+   "lon": -122.324812,
+   "distKm": 16.1,
+   "address": "2701 Isabel Street, Richmond, CA 94804",
+   "tags": {
+    "barrier": "no",
+    "dog": "yes",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://www.ebparks.org/parks/point-isabel"
+   }
+  },
+  {
+   "id": "way/665735808",
+   "name": "Linda Off Leash Dog Park",
+   "lat": 37.8223468,
+   "lon": -122.24583,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1001606531",
+   "name": "Hardy Dog Park",
+   "lat": 37.8424969,
+   "lon": -122.2575375,
+   "distKm": 16.1,
+   "address": "491 Hardy Street, Oakland, CA 94618",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/69020797",
+   "name": "Ohlone Dog Park",
+   "lat": 37.8734022,
+   "lon": -122.27468,
+   "distKm": 16.8,
+   "address": "Berkeley",
+   "tags": {
+    "website": "https://berkeleyca.gov/community-recreation/parks-recreation/parks/ohlone-park"
+   }
+  },
+  {
+   "id": "way/1131292546",
+   "name": "Dracena Dog Park",
+   "lat": 37.8278777,
+   "lon": -122.2385048,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1503195760",
+   "name": "Bruce King Memorial Dog Park",
+   "lat": 37.9217324,
+   "lon": -122.3140031,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "surface": "woodchips",
+    "barrier": "fence",
+    "opening_hours": "07:00-21:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "$schemaVersion": 1,
+ "city": "virginia-beach",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:30:30.306Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/7946026093",
+   "name": "Wild Birds Unlimited",
+   "lat": 36.8521598,
+   "lon": -76.0201767,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/3075905169",
+   "name": "PetSmart",
+   "lat": 36.8488349,
+   "lon": -76.0242006,
+   "distKm": 4.1,
+   "address": "501 Hilltop Plaza, Virginia Beach, VA 23454",
+   "tags": {
+    "phone": "+1 757-425-0286",
+    "website": "https://www.petsmart.com/stores/us/va/virginia-beach-store1987.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7946026053",
+   "name": "Pet Valu",
+   "lat": 36.8515834,
+   "lon": -76.0248263,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7946395222",
+   "name": "Fur Frenzy",
+   "lat": 36.8487453,
+   "lon": -76.0364334,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7946399809",
+   "name": "Preppie Pooch",
+   "lat": 36.8426631,
+   "lon": -76.0645959,
+   "distKm": 7.8,
+   "address": "2684 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-631-5900",
+    "opening_hours": "Tu-Sa 08:00-16:30"
+   }
+  },
+  {
+   "id": "node/7949690260",
+   "name": "Pets-Go-Round",
+   "lat": 36.8148292,
+   "lon": -76.070047,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12750710798",
+   "name": "PetSmart",
+   "lat": 36.839979,
+   "lon": -76.0911884,
+   "distKm": 10.2,
+   "address": "3413 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-486-1233",
+    "opening_hours": "Mo-Sa 09:00-21:00; Sa 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2049319810",
+   "name": "Petco",
+   "lat": 36.7596586,
+   "lon": -76.0063848,
+   "distKm": 10.7,
+   "address": "2277 Upton Drive, Virginia Beach, VA",
+   "tags": {
+    "phone": "+1 757-716-6128",
+    "website": "https://stores.petco.com/va/virginiabeach/pet-supplies-virginiabeach-va-3852.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8220413355",
+   "name": "Aquarium Store",
+   "lat": 36.8114248,
+   "lon": -76.0988575,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2067338109",
+   "name": "PetSmart",
+   "lat": 36.7770418,
+   "lon": -76.0868483,
+   "distKm": 12.8,
+   "address": "3364 Princess Anne Road, Virginia Beach, VA 23456",
+   "tags": {
+    "phone": "+1 757-368-3606",
+    "website": "https://www.petsmart.com/stores/us/va/virginia-beach-store1838.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/747458528",
+   "name": "Zoom Room Dog Training",
+   "lat": 36.7723569,
+   "lon": -76.0889349,
+   "distKm": 13.3,
+   "address": "1925 Landstown Centre Way, Virginia Beach, VA 23456",
+   "tags": {}
+  },
+  {
+   "id": "node/7946400028",
+   "name": "PetSmart",
+   "lat": 36.8423163,
+   "lon": -76.1282539,
+   "distKm": 13.4,
+   "address": "4421 Virginia Beach Boulevard, Virginia Beach, VA 23462",
+   "tags": {
+    "phone": "+1 757-497-1279",
+    "website": "https://www.petsmart.com/stores/us/va/virginia-beach-store1171.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12763021001",
+   "name": "Fear Not Tarantulas",
+   "lat": 36.8203846,
+   "lon": -76.1233282,
+   "distKm": 13.4,
+   "address": "4291 Holland Road",
+   "tags": {
+    "phone": "+1-757-657-8113",
+    "website": "https://fearnottarantulas.com/",
+    "opening_hours": "Sa-Tu 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/3552517677",
+   "name": "Fish Safari",
+   "lat": 36.7925763,
+   "lon": -76.1232267,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-757-416-1600",
+    "website": "http://www.fishsafari.com"
+   }
+  },
+  {
+   "id": "node/8238327717",
+   "name": "Petco",
+   "lat": 36.8076526,
+   "lon": -76.1315578,
+   "distKm": 14.6,
+   "address": "4540 Princess Anne Road, Virginia Beach, VA 23462-7962",
+   "tags": {
+    "phone": "+1 757-474-1018",
+    "website": "https://stores.petco.com/va/virginiabeach/pet-supplies-virginiabeach-va-2810.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/837281656",
+   "name": "Tropical Fish by Jungle Aquatics",
+   "lat": 36.8124156,
+   "lon": -76.168599,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12511045374",
+   "name": "Pet Supplies Plus",
+   "lat": 36.8001571,
+   "lon": -76.1794702,
+   "distKm": 18.9,
+   "address": "5394 Kempsriver Drive, Virginia Beach, VA 23464",
+   "tags": {
+    "phone": "+1-757-424-8448",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/402683704",
+   "name": "Care-A-Lot Pet Supply",
+   "lat": 36.7996626,
+   "lon": -76.1808772,
+   "distKm": 19,
+   "address": "5457 Indian River Road, Virginia Beach, VA 23464",
+   "tags": {
+    "phone": "+1-757-395-4800",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-18:00"
+   }
+  }
+ ]
+}

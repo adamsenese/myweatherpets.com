@@ -1,0 +1,136 @@
+{
+ "$schemaVersion": 1,
+ "city": "baton-rouge",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:36:40.270Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 11,
+ "places": [
+  {
+   "id": "way/886802896",
+   "name": "Animal Health Clinic of Baton Rouge",
+   "lat": 30.4152359,
+   "lon": -91.1394995,
+   "distKm": 6.1,
+   "address": "4803 Perkins Road",
+   "tags": {}
+  },
+  {
+   "id": "way/888448185",
+   "name": "Perkins Road Veterinary Hospital",
+   "lat": 30.4134016,
+   "lon": -91.1350034,
+   "distKm": 6.5,
+   "address": "Moss Side Lane",
+   "tags": {}
+  },
+  {
+   "id": "way/832324093",
+   "name": "Bocage Animal Hospital",
+   "lat": 30.434713,
+   "lon": -91.112316,
+   "distKm": 7.4,
+   "address": "7353 Jefferson Highway, Baton Rouge, LA 70806",
+   "tags": {
+    "phone": "+1-225-928-7550",
+    "website": "https://bocageanimalhospital.com/",
+    "opening_hours": "Mo-We 08:00-17:00; Th 08:00-13:00; Fr 08:00-17:00; Sa[1,3] 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1213753330",
+   "name": "Helouin Veterinary Hospital",
+   "lat": 30.4697119,
+   "lon": -91.1070271,
+   "distKm": 7.9,
+   "address": "7821 Airline Highway, Baton Rouge, LA 70815",
+   "tags": {
+    "phone": "+1-225-924-2471",
+    "website": "https://www.helouin.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/1456619475",
+   "name": "Bluebonnet Veterinary Hospital",
+   "lat": 30.3985059,
+   "lon": -91.0855045,
+   "distKm": 11.4,
+   "address": "5454 Bluebonnet Boulevard, Baton Rouge, LA 70809",
+   "tags": {
+    "phone": "+1-225-296-0488",
+    "website": "https://bluebonnetvethospital.com/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1254525959",
+   "name": "Sherwood Forest Animal Hospital",
+   "lat": 30.4583017,
+   "lon": -91.0564461,
+   "distKm": 12.5,
+   "address": "11472 Florida Boulevard, Baton Rouge, LA 70815",
+   "tags": {}
+  },
+  {
+   "id": "way/1208419428",
+   "name": "Sherwood South Animal Hospital",
+   "lat": 30.4186636,
+   "lon": -91.0510564,
+   "distKm": 13.5,
+   "address": "3803 South Sherwood Forest Boulevard, Baton Rouge, LA 70816",
+   "tags": {
+    "phone": "+1-225-293-6440",
+    "website": "https://www.thrivepetcare.com/locations/louisiana/baton-rouge/sherwood-south-animal-hospital-emergency",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1115814161",
+   "name": "Coursey Blvd. Animal Hospital",
+   "lat": 30.4119789,
+   "lon": -91.0448654,
+   "distKm": 14.3,
+   "address": "12137 Coursey Boulevard, Baton Rouge, LA 70816",
+   "tags": {
+    "phone": "+1 225-292-4392",
+    "website": "https://courseyblvdanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1051197078",
+   "name": "White Oak Animal Hospital",
+   "lat": 30.4292851,
+   "lon": -91.0070597,
+   "distKm": 17.4,
+   "address": "2721 O'Neal Lane",
+   "tags": {
+    "phone": "+1 225-751-2345",
+    "website": "https://whiteoakah.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/840728590",
+   "name": "Shenandoah South Veterinary Hospital",
+   "lat": 30.389211,
+   "lon": -91.0069142,
+   "distKm": 18.6,
+   "address": "16044 Tiger Bend Road",
+   "tags": {
+    "phone": "+1 225-752-3979"
+   }
+  },
+  {
+   "id": "node/12986196736",
+   "name": "Pet Well Clinic",
+   "lat": 30.3476002,
+   "lon": -91.0229894,
+   "distKm": 19.5,
+   "address": "18303 Perkins Road East, Baton Rouge, LA 70810",
+   "tags": {}
+  }
+ ]
+}

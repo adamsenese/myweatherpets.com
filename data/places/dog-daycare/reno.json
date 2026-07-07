@@ -1,0 +1,10 @@
+{
+ "$schemaVersion": 1,
+ "city": "reno",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:36:20.063Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 0,
+ "places": []
+}

@@ -1,0 +1,34 @@
+{
+ "$schemaVersion": 1,
+ "city": "auckland",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:23:05.438Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "node/8010998650",
+   "name": "Central Bark",
+   "lat": -36.8518688,
+   "lon": 174.7827578,
+   "distKm": 1.8,
+   "address": "99 Saint Georges Bay Road, Auckland, 1052",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/26988943",
+   "name": "Barkley Manor",
+   "lat": -36.8676379,
+   "lon": 174.7422216,
+   "distKm": 2.8,
+   "address": "398 Great North Road, Auckland, 1021",
+   "tags": {
+    "website": "https://barkleymanor.co.nz/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

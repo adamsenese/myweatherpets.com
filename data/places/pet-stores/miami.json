@@ -1,0 +1,261 @@
+{
+ "$schemaVersion": 1,
+ "city": "miami",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:29:36.454Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/1179534177",
+   "name": "Kanu",
+   "lat": 25.7646819,
+   "lon": -80.1939319,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3219625112",
+   "name": "PetSmart",
+   "lat": 25.8059936,
+   "lon": -80.1949421,
+   "distKm": 4.9,
+   "address": "3101 North Miami Avenue, Miami, FL 33127",
+   "tags": {
+    "phone": "+1 305-573-8026",
+    "website": "https://www.petsmart.com/stores/us/fl/miami-store1412.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6076491366",
+   "name": "Pet Supermarket",
+   "lat": 25.7391095,
+   "lon": -80.2390149,
+   "distKm": 5.4,
+   "address": "2720 South Dixie Highway, Miami, FL 33133",
+   "tags": {
+    "phone": "+1-305-529-1800",
+    "website": "https://www.petsupermarket.com/storelocator/?storeId=136",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/12173836109",
+   "name": "Petco",
+   "lat": 25.7748722,
+   "lon": -80.1401546,
+   "distKm": 5.4,
+   "address": "1121 5th Street, Miami Beach, FL 33139",
+   "tags": {
+    "phone": "+1 305-531-1678",
+    "website": "https://stores.petco.com/fl/miamibeach/pet-supplies-miamibeach-fl-1521.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7194556913",
+   "name": "Le Vie Pet Salon · Daycare",
+   "lat": 25.7879636,
+   "lon": -80.1416146,
+   "distKm": 5.8,
+   "address": "1538 Alton Road",
+   "tags": {}
+  },
+  {
+   "id": "node/12058198666",
+   "name": "PetSmart",
+   "lat": 25.7504102,
+   "lon": -80.250006,
+   "distKm": 6,
+   "address": "3301 Southwest 22nd Street, Coral Gables, FL 33145",
+   "tags": {
+    "phone": "+1 305-448-4403",
+    "website": "https://www.petsmart.com/stores/us/fl/coral-gables-store1411.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7141837786",
+   "name": "DogBar",
+   "lat": 25.7913729,
+   "lon": -80.1378531,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4003589889",
+   "name": "BONEFLY",
+   "lat": 25.7907697,
+   "lon": -80.1343721,
+   "distKm": 6.6,
+   "address": "601B Lincoln Road, Miami Beach, FL 33139",
+   "tags": {
+    "website": "https://bonefly.com/"
+   }
+  },
+  {
+   "id": "node/12058198659",
+   "name": "PetSmart",
+   "lat": 25.6934759,
+   "lon": -80.3057748,
+   "distKm": 13.7,
+   "address": "8302 South Dixie Highway, Miami, FL 33143",
+   "tags": {
+    "phone": "+1 305-714-8948",
+    "website": "https://www.petsmart.com/stores/us/fl/miami-store2440.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2836498231",
+   "name": "PetSmart",
+   "lat": 25.7714076,
+   "lon": -80.3291341,
+   "distKm": 13.8,
+   "address": "8241 West Flagler Street, Miami, FL 33144",
+   "tags": {
+    "phone": "+1 786-275-8300",
+    "website": "https://www.petsmart.com/stores/us/fl/miami-store0348.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9335252340",
+   "name": "Pet Supermarket",
+   "lat": 25.8912873,
+   "lon": -80.1627812,
+   "distKm": 14.7,
+   "address": "12553 Biscayne Boulevard, North Miami, FL 33181",
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/8237120172",
+   "name": "Pooch Perks",
+   "lat": 25.8240751,
+   "lon": -80.3229911,
+   "distKm": 14.9,
+   "address": "7760 Northwest 56th Street, Doral, FL 33166",
+   "tags": {
+    "phone": "+1 786-534-7057",
+    "website": "https://poochperks.com/",
+    "opening_hours": "Mo-Fr 07:00-17:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/12024071236",
+   "name": "Puppies by Z",
+   "lat": 25.7010068,
+   "lon": -80.3351367,
+   "distKm": 15.9,
+   "address": "8730 Southwest 72nd Street, Miami, fl 33173",
+   "tags": {
+    "phone": "+1 786-881-7665",
+    "website": "https://puppiesbyz.com",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 00:00-16:30"
+   }
+  },
+  {
+   "id": "node/9680107381",
+   "name": "Bark Square",
+   "lat": 25.8237617,
+   "lon": -80.3366826,
+   "distKm": 16.1,
+   "address": "8600 Northwest 56th Street, Doral, FL 33166",
+   "tags": {
+    "phone": "+1-786-401-7748",
+    "website": "https://www.barksquare.com",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/435518813",
+   "name": "Pet Supermarket",
+   "lat": 25.8670047,
+   "lon": -80.3104316,
+   "distKm": 16.7,
+   "address": "1375 West 49th Street, Hialeah, 33012",
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/6366329030",
+   "name": "Petco",
+   "lat": 25.9108977,
+   "lon": -80.1558969,
+   "distKm": 17,
+   "address": "14601 Biscayne Boulevard, North Miami Beach, FL 33181",
+   "tags": {
+    "phone": "+1 305-940-2840",
+    "website": "https://stores.petco.com/fl/northmiamibeach/pet-supplies-northmiamibeach-fl-2744.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3356342969",
+   "name": "Pet Supermarket",
+   "lat": 25.7330604,
+   "lon": -80.3666264,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/4301308581",
+   "name": "Petco",
+   "lat": 25.7900907,
+   "lon": -80.3677891,
+   "distKm": 17.9,
+   "address": "10610 Northwest 19th Street, Doral, FL 33172-2542",
+   "tags": {
+    "phone": "+1 305-513-8464",
+    "website": "https://stores.petco.com/fl/doral/pet-supplies-doral-fl-1539.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10028411792",
+   "name": "Pet Supermarket",
+   "lat": 25.6845514,
+   "lon": -80.3650789,
+   "distKm": 19.4,
+   "address": "9003 Southwest 107th Avenue, Miami, FL 33176",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/11014596883",
+   "name": "PetSmart",
+   "lat": 25.641778,
+   "lon": -80.3328822,
+   "distKm": 19.4,
+   "address": "13621 South Dixie Highway, Miami, FL 33176",
+   "tags": {
+    "phone": "+1 305-253-5943",
+    "website": "https://www.petsmart.com/stores/us/fl/miami-store0352.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

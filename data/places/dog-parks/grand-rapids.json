@@ -1,0 +1,142 @@
+{
+ "$schemaVersion": 1,
+ "city": "grand-rapids",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:35:11.528Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "way/1078684756",
+   "name": "Downtown Westside Dog Park",
+   "lat": 42.968785,
+   "lon": -85.6803254,
+   "distKm": 1.2,
+   "address": "307 Summer Avenue Northwest, Grand Rapids, MI 49504",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/312341199",
+   "name": "Hillcrest Dog Park",
+   "lat": 42.9674895,
+   "lon": -85.6374685,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1138962010",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9397317,
+   "lon": -85.6959832,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/273270545",
+   "name": "Covell Dog Park",
+   "lat": 42.9730586,
+   "lon": -85.7157015,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "website": "https://www.grandrapidsmi.gov/Directory/Places/Parks/Covell-Dog-Park"
+   }
+  },
+  {
+   "id": "way/967593173",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9970071,
+   "lon": -85.6309943,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/647539420",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.0015405,
+   "lon": -85.6226848,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/647539395",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.0142366,
+   "lon": -85.6265989,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1057049252",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9063873,
+   "lon": -85.5668424,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1057049253",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.9051896,
+   "lon": -85.5617788,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/522320431",
+   "name": "Cascade Hospital for Animals Dog Park",
+   "lat": 42.8934972,
+   "lon": -85.5061372,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/16863905",
+   "name": "Grand Ravines Dog Park",
+   "lat": 42.9460165,
+   "lon": -85.8818892,
+   "distKm": 17.5,
+   "address": "3991 Fillmore, Jenison, MI 49428",
+   "tags": {
+    "access": "yes",
+    "website": "https://miottawa.org/park-locations/grand-ravines/"
+   }
+  },
+  {
+   "id": "way/548268371",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.8948206,
+   "lon": -85.4636278,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/548268369",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.8946541,
+   "lon": -85.4617228,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  }
+ ]
+}

@@ -1,0 +1,615 @@
+{
+ "$schemaVersion": 1,
+ "city": "minneapolis",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:30:43.009Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 57,
+ "places": [
+  {
+   "id": "way/1509670381",
+   "name": "205 Bark",
+   "lat": 44.9780423,
+   "lon": -93.2575581,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://thevicinitympls.com/205-bark/"
+   }
+  },
+  {
+   "id": "way/295712487",
+   "name": "Gateway Play Area",
+   "lat": 44.9708478,
+   "lon": -93.2697107,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1523301199",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9845951,
+   "lon": -93.2748179,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1463248419",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.97666,
+   "lon": -93.2504369,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/126010862",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9810258,
+   "lon": -93.2461544,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/347948724",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.971896,
+   "lon": -93.2841035,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1229133153",
+   "name": "North Loop Dog Park",
+   "lat": 44.9881711,
+   "lon": -93.2793497,
+   "distKm": 1.6,
+   "address": "790 North 3rd Street, Minneapolis, MN 55401",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1232323526",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9859874,
+   "lon": -93.2377386,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1202670656",
+   "name": "Franklin Terrace Off-Leash Dog Park",
+   "lat": 44.9644589,
+   "lon": -93.2275875,
+   "distKm": 3.3,
+   "address": "925 Franklin Terrace, Minneapolis, MN 55406",
+   "tags": {
+    "access": "permit",
+    "website": "https://www.minneapolisparks.org/parks-destinations/dog-parks/franklin_terrace_off-leash_dog_park/",
+    "opening_hours": "06:00-24:00"
+   }
+  },
+  {
+   "id": "way/556490923",
+   "name": "Nicollet Dog Park",
+   "lat": 44.9422239,
+   "lon": -93.2782892,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/61910686",
+   "name": "Lake of the Isles Off-Leash Dog Park",
+   "lat": 44.9510913,
+   "lon": -93.309272,
+   "distKm": 4.6,
+   "address": "2845 West Lake of the Isles Parkway, Minneapolis, MN 55405",
+   "tags": {
+    "small_dog": "separate",
+    "access": "permit",
+    "website": "https://www.minneapolisparks.org/parks-destinations/dog-parks/lake_of_the_isles_off-leash_dog_park/",
+    "opening_hours": "06:00-24:00"
+   }
+  },
+  {
+   "id": "way/310502448",
+   "name": "St. Anthony Parkway Off-Leash Recreation Area",
+   "lat": 45.0242424,
+   "lon": -93.2556469,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1363647939",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9501856,
+   "lon": -93.3195482,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/234897580",
+   "name": "Lyndale Farmstead Off-Leash Dog Park",
+   "lat": 44.9324771,
+   "lon": -93.2927917,
+   "distKm": 5.5,
+   "address": "3845 King's Highway, Minneapolis, 55409",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/9053664",
+   "name": "Meeker Island Dog Park",
+   "lat": 44.9529965,
+   "lon": -93.2044393,
+   "distKm": 5.5,
+   "address": "486 Mississippi River Boulevard North, Saint Paul, MN 55104",
+   "tags": {
+    "website": "https://www.stpaul.gov/facilities/meeker-island-dog-park"
+   }
+  },
+  {
+   "id": "way/1199966119",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9984251,
+   "lon": -93.1978227,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1199679312",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9775272,
+   "lon": -93.3492482,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1220686921",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.0181664,
+   "lon": -93.3332872,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "node/13143587197",
+   "name": "Saint Bark",
+   "lat": 44.9756894,
+   "lon": -93.1681876,
+   "distKm": 7.6,
+   "address": "1145 Snelling Avenue",
+   "tags": {
+    "website": "https://saintbarkmn.com/",
+    "opening_hours": "Mo-Fr 15:00-20:00; Sa 10:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/341824578",
+   "name": "Dakota Dog Park",
+   "lat": 44.9557649,
+   "lon": -93.358412,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/480933817",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.939071,
+   "lon": -93.349112,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/114551824",
+   "name": "Victory Prairie Off-Leash Dog Park",
+   "lat": 45.0407071,
+   "lon": -93.3144257,
+   "distKm": 8,
+   "address": "4701 North Russell Avenue",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.minneapolisparks.org/parks-destinations/dog-parks/victory_prairie_off-leash_dog_park/"
+   }
+  },
+  {
+   "id": "way/828546580",
+   "name": "Bassett Creek Dog Park",
+   "lat": 45.0139965,
+   "lon": -93.3526658,
+   "distKm": 8,
+   "address": "6001 32nd Avenue North, Crystal, MN 55422",
+   "tags": {
+    "access": "yes",
+    "website": "https://parksrecreation.hosted.civiclive.com/recreation/parks_and_trails/dog_park",
+    "opening_hours": "Mo-Su 06:00-22:00"
+   }
+  },
+  {
+   "id": "way/1372258310",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9401661,
+   "lon": -93.3514563,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1207813838",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9567481,
+   "lon": -93.3730478,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/17344460",
+   "name": "Uŋči Makȟa Dog Park",
+   "lat": 44.9124111,
+   "lon": -93.1930685,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.stpaul.gov/departments/parks-and-recreation/parks/leash-dog-parks"
+   }
+  },
+  {
+   "id": "way/61852717",
+   "name": "Airport Dog Park",
+   "lat": 44.892469,
+   "lon": -93.2362991,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/154130172",
+   "name": "Minnehaha Off-Leash Dog Park",
+   "lat": 44.9037314,
+   "lon": -93.1949265,
+   "distKm": 9.9,
+   "address": "5399 South Minnehaha Park Drive, Minneapolis, MN 55417",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.minneapolisparks.org/parks__destinations/dog_parks/minnehaha_off-leash_dog_park/"
+   }
+  },
+  {
+   "id": "way/1328610546",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9098008,
+   "lon": -93.3496923,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/1327354852",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9096123,
+   "lon": -93.354038,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11203119806",
+   "name": "Woodview Off-Leash Dog Park",
+   "lat": 44.9922063,
+   "lon": -93.1203194,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1108829940",
+   "name": "Lilydale Off-Leash Dog Park",
+   "lat": 44.9154476,
+   "lon": -93.1292653,
+   "distKm": 12.7,
+   "address": "1700 Lilydale Road, St Paul, MN 55118",
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/991806742",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9337771,
+   "lon": -93.41821,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/478373879",
+   "name": "Locke County Dog Park",
+   "lat": 45.0964925,
+   "lon": -93.2535802,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/188447306",
+   "name": "High Bridge Dog Park",
+   "lat": 44.9362316,
+   "lon": -93.1056385,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.stpaul.gov/facilities/high-bridge-dog-park"
+   }
+  },
+  {
+   "id": "way/1025728919",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.8770836,
+   "lon": -93.1659482,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13234483645",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9508936,
+   "lon": -93.0945315,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/651180754",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.8581554,
+   "lon": -93.2252685,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1418196087",
+   "name": "Brookdale Off Leash Dog Park",
+   "lat": 45.0929304,
+   "lon": -93.3333479,
+   "distKm": 13.9,
+   "address": "7650 June Avenue North, Brooklyn Park, MN 55443",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.brooklynpark.org/parks/dog-parks-2/"
+   }
+  },
+  {
+   "id": "node/13393784494",
+   "name": "Kellogg Mall Dog Park",
+   "lat": 44.9453463,
+   "lon": -93.0892748,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/15017793",
+   "name": "Lower Landing Dog Park",
+   "lat": 44.947638,
+   "lon": -93.0808133,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1014199906",
+   "name": "Brew Park",
+   "lat": 45.008404,
+   "lon": -93.462718,
+   "distKm": 15.9,
+   "address": "2605 Fernbrook Ln N, Plymouth, Minnesota 55447",
+   "tags": {
+    "website": "https://www.brewparkplymouth.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=3599692256935847641"
+   }
+  },
+  {
+   "id": "way/863652160",
+   "name": "Flying Cloud Dog Park",
+   "lat": 44.8737469,
+   "lon": -93.4143366,
+   "distKm": 16.5,
+   "address": "7171 Flying Cloud Drive, Eden Prairie, MN 55344",
+   "tags": {}
+  },
+  {
+   "id": "way/167713885",
+   "name": "Small Frail Dog Area",
+   "lat": 44.8864449,
+   "lon": -93.4323097,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "separate",
+    "website": "https://www.threeriversparks.org/location/bryant-lake-dog-leash-area",
+    "opening_hours": "05:00-22:00;PH open"
+   }
+  },
+  {
+   "id": "way/167713882",
+   "name": "Bryant Lake Dog Off-leash Area",
+   "lat": 44.8860775,
+   "lon": -93.4329646,
+   "distKm": 16.7,
+   "address": "6402 Rowland Road, Eden Prairie, MN 55344",
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "separate",
+    "access": "permit",
+    "website": "https://www.threeriversparks.org/location/bryant-lake-dog-leash-area",
+    "opening_hours": "05:00-22:00;PH open"
+   }
+  },
+  {
+   "id": "way/782439705",
+   "name": "Rice Creek North Regional Trail Off Leash Dog Area",
+   "lat": 45.1169663,
+   "lon": -93.1658298,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/611659152",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.1376353,
+   "lon": -93.2366574,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1435557097",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.0788833,
+   "lon": -93.0855463,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12982956119",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.1389653,
+   "lon": -93.3183593,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/771645583",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.9116671,
+   "lon": -93.0500909,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/998928908",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 44.8173889,
+   "lon": -93.2042943,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/763960990",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.1302319,
+   "lon": -93.3643959,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1427770150",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.0656953,
+   "lon": -93.0578054,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/686143523",
+   "name": "Thresher Fields Off-Leash Small Dog Park",
+   "lat": 44.8378017,
+   "lon": -93.124649,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/686143522",
+   "name": "Thresher Fields Off-Leash Dog Park",
+   "lat": 44.8368494,
+   "lon": -93.1243082,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/11072438",
+   "name": "Fish Lake Off-Leash Dog Park",
+   "lat": 45.0818524,
+   "lon": -93.4654032,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1313338123",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.122119,
+   "lon": -93.1211928,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  }
+ ]
+}

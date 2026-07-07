@@ -1,0 +1,153 @@
+{
+ "$schemaVersion": 1,
+ "city": "orlando",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:32:40.069Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "node/766448226",
+   "name": "Orange County Animal Services",
+   "lat": 28.4898157,
+   "lon": -81.4270453,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11698776159",
+   "name": "Veterinary Dermatology Center",
+   "lat": 28.6403908,
+   "lon": -81.3554234,
+   "distKm": 11.6,
+   "address": "9901 Orlando Avenue, Maitland, FL 32751",
+   "tags": {}
+  },
+  {
+   "id": "node/13891944745",
+   "name": "McAbee Veterinary Hospital",
+   "lat": 28.6068579,
+   "lon": -81.2889246,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "phone": "+14076715858",
+    "website": "https://www.mcabeeveterinary.com",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "way/754719604",
+   "name": "Veternary Emergency Clinic of Central Florida",
+   "lat": 28.5427504,
+   "lon": -81.2253624,
+   "distKm": 15,
+   "address": "11011 Lake Underhill Road, Orlando, FL 32825",
+   "tags": {
+    "phone": "+1-407-644-4449",
+    "website": "https://veconline.com/"
+   }
+  },
+  {
+   "id": "way/973950971",
+   "name": "Animal Clinic of Windermere",
+   "lat": 28.5185782,
+   "lon": -81.5410773,
+   "distKm": 16,
+   "address": "1909 maguire road",
+   "tags": {}
+  },
+  {
+   "id": "node/12784118180",
+   "name": "UrgentVet",
+   "lat": 28.5512739,
+   "lon": -81.542761,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12845387007",
+   "name": "Bear Lake Veterinary Clinic",
+   "lat": 28.6694029,
+   "lon": -81.4523888,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "phone": "+1-407-801-2727",
+    "website": "https://www.bearlakevet.com/"
+   }
+  },
+  {
+   "id": "way/824220153",
+   "name": "Waterford Lakes Animal Hospital",
+   "lat": 28.5472826,
+   "lon": -81.2132429,
+   "distKm": 16.2,
+   "address": "11951 Lake Underhill Road, Orlando, FL 32825",
+   "tags": {
+    "phone": "+1-407-382-3818",
+    "website": "https://www.waterfordlakesvet.com/?utm_source=gmb&utm_medium=organic&y_source=1_MTE2Njg5NjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+   }
+  },
+  {
+   "id": "node/3937076585",
+   "name": "Banfield Pet Hospital",
+   "lat": 28.6488264,
+   "lon": -81.2673991,
+   "distKm": 16.4,
+   "address": "5864 Red Bug Lake Road, Winter Springs, FL 32708",
+   "tags": {
+    "phone": "+1-407-388-0529",
+    "website": "https://www.banfield.com/our-hospitals/hospital-locations/location-pages/wsp",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "relation/1121089",
+   "name": "Sand Lake Animal Clinic",
+   "lat": 28.4372463,
+   "lon": -81.5045774,
+   "distKm": 16.7,
+   "address": "8932 Apopka Vineland Road, Orlando, FL",
+   "tags": {}
+  },
+  {
+   "id": "way/832969502",
+   "name": "VCA Animal Hospital",
+   "lat": 28.668612,
+   "lon": -81.467387,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10982339318",
+   "name": "VCA Sheeler Road Animal Hospital",
+   "lat": 28.6714973,
+   "lon": -81.4921799,
+   "distKm": 18.5,
+   "address": "547 Sheeler Avenue",
+   "tags": {
+    "phone": "+1 407-889-0513",
+    "website": "https://vcahospitals.com/sheeler-road",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/9386985269",
+   "name": "Animal Clinic of Wekiva",
+   "lat": 28.7064388,
+   "lon": -81.4435477,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "phone": "+1 407-862-4466",
+    "website": "https://www.animalclinicwekiva.com",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+   }
+  }
+ ]
+}

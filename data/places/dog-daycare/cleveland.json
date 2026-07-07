@@ -1,0 +1,66 @@
+{
+ "$schemaVersion": 1,
+ "city": "cleveland",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:31:28.358Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "way/465443769",
+   "name": "Cleveland Metrobark",
+   "lat": 41.5105178,
+   "lon": -81.6606043,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/393282602",
+   "name": "Inn The DogHouse",
+   "lat": 41.4793851,
+   "lon": -81.7691981,
+   "distKm": 6.6,
+   "address": "1548 West 117th Street",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5060901967",
+   "name": "Merry-Go-Hound",
+   "lat": 41.4849449,
+   "lon": -81.7819302,
+   "distKm": 7.5,
+   "address": "13308 Detroit Avenue, Lakewood, 44107",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11999708737",
+   "name": "Heights Canine",
+   "lat": 41.5192985,
+   "lon": -81.5361294,
+   "distKm": 13.4,
+   "address": "1495 Warrensville Center Road, South Euclid, OH 44121",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8795598495",
+   "name": "Guiding Eyes",
+   "lat": 41.4286322,
+   "lon": -81.5275365,
+   "distKm": 16,
+   "address": "21639 Miles Road, North Randall, OH 44128",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

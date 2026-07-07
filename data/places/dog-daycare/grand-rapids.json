@@ -1,0 +1,35 @@
+{
+ "$schemaVersion": 1,
+ "city": "grand-rapids",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:35:11.528Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "way/1004806105",
+   "name": "The Paw Place",
+   "lat": 42.91105,
+   "lon": -85.7578425,
+   "distKm": 9.3,
+   "address": "3782 Chicago Drive Southwest, Grandville, MI 49418",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/967653627",
+   "name": "The Pack Indoor Dog Park",
+   "lat": 43.0581537,
+   "lon": -85.6433021,
+   "distKm": 10.7,
+   "address": "5205 West River Drive Northeast, Grand Rapids",
+   "tags": {
+    "phone": "+1-616-236-3254",
+    "website": "https://thepackdogpark.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

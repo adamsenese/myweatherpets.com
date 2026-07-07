@@ -1,0 +1,166 @@
+{
+ "$schemaVersion": 1,
+ "city": "omaha",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:30:14.794Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "way/1205056650",
+   "name": "South Omaha Animal Hospital",
+   "lat": 41.2057873,
+   "lon": -95.9657586,
+   "distKm": 6.2,
+   "address": "NE",
+   "tags": {}
+  },
+  {
+   "id": "way/806248563",
+   "name": "Sirius Veterinary Orthopedic Center",
+   "lat": 41.2302153,
+   "lon": -96.0065442,
+   "distKm": 6.7,
+   "address": "3125 South 61st Avenue, Omaha, NE 68106",
+   "tags": {
+    "phone": "+1-402-934-1332",
+    "website": "https://siriusvet.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/1289003070",
+   "name": "VCA Animal Medical Center of Omaha",
+   "lat": 41.2371628,
+   "lon": -96.0116323,
+   "distKm": 6.8,
+   "address": "2323 South 64th Avenue, Omaha, NE 68106",
+   "tags": {
+    "phone": "+1-402-558-1522",
+    "website": "https://vcahospitals.com/animal-medical-omaha",
+    "opening_hours": "Mo: 07:00-20:00, Tu-Fr 07:00-18:00, Sa 07:00-13:00"
+   }
+  },
+  {
+   "id": "way/774870891",
+   "name": "VCA 80 Dodge Animal Hospital",
+   "lat": 41.2614307,
+   "lon": -96.0411315,
+   "distKm": 8.9,
+   "address": "8022 West Dodge Street, Omaha, NE 68114",
+   "tags": {
+    "phone": "+1-402-391-8800",
+    "website": "https://vcahospitals.com/80-dodge",
+    "opening_hours": "Mo-Sa 07:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/382594240",
+   "name": "Nebraska Humane Society",
+   "lat": 41.3054153,
+   "lon": -96.0509213,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11768231590",
+   "name": "Urgent Pet Care of Papillion",
+   "lat": 41.1750054,
+   "lon": -96.025321,
+   "distKm": 11.8,
+   "address": "8455 South 73rd Plaza, Papillion, NE 68046",
+   "tags": {}
+  },
+  {
+   "id": "node/11768230917",
+   "name": "Papillion Animal Hospital",
+   "lat": 41.1758534,
+   "lon": -96.0273192,
+   "distKm": 11.9,
+   "address": "8410 South 73rd Plaza, Papillion, NE 68046",
+   "tags": {}
+  },
+  {
+   "id": "node/7074106030",
+   "name": "Twin Creek Animal Hospital",
+   "lat": 41.1415078,
+   "lon": -95.9734216,
+   "distKm": 13.2,
+   "address": "4006 Twin Creek Drive, Bellevue, NE 68123",
+   "tags": {
+    "phone": "+14025059033",
+    "website": "https://twincreekah.com/"
+   }
+  },
+  {
+   "id": "way/190154974",
+   "name": "Veterinary Clinic",
+   "lat": 41.1101203,
+   "lon": -95.9127907,
+   "distKm": 16.4,
+   "address": "403 Butler Boulevard, Offutt AFB, NE 68113",
+   "tags": {
+    "phone": "+1 402-294-6141",
+    "website": "https://offutt.tricare.mil/Health-Services/Other/Veterinary-Services"
+   }
+  },
+  {
+   "id": "node/1819639536",
+   "name": "Banfield Animal Hospital",
+   "lat": 41.22913,
+   "lon": -96.1301651,
+   "distKm": 16.6,
+   "address": "3103 Oak View Drive, 68144",
+   "tags": {
+    "website": "https://www.banfield.com/"
+   }
+  },
+  {
+   "id": "node/11507777293",
+   "name": "Walnet Creek Veterinary Clinic",
+   "lat": 41.1448992,
+   "lon": -96.0655248,
+   "distKm": 16.6,
+   "address": "11336 South 96th Street, Papillion, NE 68046",
+   "tags": {}
+  },
+  {
+   "id": "way/602240252",
+   "name": "Goodrich Veterinary Clinic",
+   "lat": 41.2044914,
+   "lon": -96.1346023,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/180772776",
+   "name": "Harvey Oaks Animal Hospital",
+   "lat": 41.2335523,
+   "lon": -96.1479877,
+   "distKm": 18,
+   "address": "2706 South 148th Avenue Circle, 68144",
+   "tags": {}
+  },
+  {
+   "id": "way/614597322",
+   "name": "Millard Veterinay Clinic",
+   "lat": 41.2010609,
+   "lon": -96.1381168,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8604522504",
+   "name": "Animal Center of West Omaha",
+   "lat": 41.2620303,
+   "lon": -96.1618632,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

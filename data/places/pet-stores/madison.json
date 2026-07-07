@@ -1,0 +1,227 @@
+{
+ "$schemaVersion": 1,
+ "city": "madison",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:35:07.307Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "node/5574746240",
+   "name": "MadCat Pet Supplies",
+   "lat": 43.0566128,
+   "lon": -89.4291322,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/444453053",
+   "name": "Madcat",
+   "lat": 43.0876788,
+   "lon": -89.3582598,
+   "distKm": 3.8,
+   "address": "1525 Williamson Street",
+   "tags": {
+    "opening_hours": "Sa,Su 10:00-18:00; Mo-Fr 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/11748473894",
+   "name": "Tabby & Jack's Pet Supplies and Grooming",
+   "lat": 43.0921108,
+   "lon": -89.3601197,
+   "distKm": 3.9,
+   "address": "1892 East Washington Avenue, Madison, WI 53704",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:100; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2845346992",
+   "name": "Nutzy Mutz & Crazy Catz",
+   "lat": 43.0540619,
+   "lon": -89.4508003,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6795569428",
+   "name": "bad dog frida",
+   "lat": 43.0927962,
+   "lon": -89.3520004,
+   "distKm": 4.6,
+   "address": "2094 Atwood Avenue",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/13020189323",
+   "name": "Tabby and Jacks",
+   "lat": 43.0788708,
+   "lon": -89.3239991,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7161467791",
+   "name": "Tabby Jack's",
+   "lat": 43.0173342,
+   "lon": -89.4235705,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13816263753",
+   "name": "The Golden Guppy",
+   "lat": 43.0482862,
+   "lon": -89.3237932,
+   "distKm": 6.9,
+   "address": "115 East Broadway, Monona, WI 53716",
+   "tags": {
+    "phone": "+1-608-405-5548",
+    "website": "https://thegoldenguppy.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "way/438196736",
+   "name": "Mounds Pet Food Warehouse",
+   "lat": 43.0673557,
+   "lon": -89.3105824,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12142980716",
+   "name": "Red Fish Blue Fish Aquatics",
+   "lat": 43.0853036,
+   "lon": -89.3006877,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3289280964",
+   "name": "Tabby & Jack's",
+   "lat": 43.0965736,
+   "lon": -89.5013621,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469597382",
+   "name": "Pet Supplies Plus",
+   "lat": 43.0134849,
+   "lon": -89.4780325,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/956780152",
+   "name": "Animart",
+   "lat": 43.1218004,
+   "lon": -89.3066777,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4010472331",
+   "name": "Mad Cat Pet Supplies",
+   "lat": 43.0612069,
+   "lon": -89.5182048,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10174707223",
+   "name": "Mounds Pet Food Warehouse",
+   "lat": 43.0637225,
+   "lon": -89.5245194,
+   "distKm": 10.1,
+   "address": "231 Junction Road, Madison, WI 53717",
+   "tags": {
+    "phone": "+16088313000"
+   }
+  },
+  {
+   "id": "way/26742760",
+   "name": "PetSmart",
+   "lat": 43.0571723,
+   "lon": -89.5247093,
+   "distKm": 10.2,
+   "address": "8210 Plaza Drive, Madison, WI 53719",
+   "tags": {
+    "phone": "+1 608-833-6446",
+    "website": "https://www.petsmart.com/stores/us/wi/madison-store0605.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10125218881",
+   "name": "Wild Birds Unlimited",
+   "lat": 43.0753161,
+   "lon": -89.5280117,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Sa 10:00-17:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/171235744",
+   "name": "Mounds Pet Food Warehouse",
+   "lat": 43.0961766,
+   "lon": -89.5258513,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/105681451",
+   "name": "PetSmart",
+   "lat": 43.1285617,
+   "lon": -89.2964586,
+   "distKm": 10.5,
+   "address": "2216 East Springs Drive, Madison, WI 53704",
+   "tags": {
+    "phone": "+1 608-246-0813",
+    "website": "https://www.petsmart.com/stores/us/wi/madison-store0604.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5305008183",
+   "name": "Animart",
+   "lat": 43.1698914,
+   "lon": -89.4612935,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5752967474",
+   "name": "Mounds Pet Food Warehouse",
+   "lat": 43.1866671,
+   "lon": -89.259513,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

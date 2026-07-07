@@ -1,0 +1,430 @@
+{
+ "$schemaVersion": 1,
+ "city": "madison",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:35:07.307Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 42,
+ "places": [
+  {
+   "id": "way/38019751",
+   "name": "Veterinary Medicine South",
+   "lat": 43.0751298,
+   "lon": -89.420272,
+   "distKm": 1.6,
+   "address": "2015 Linden Drive, Madison, WI",
+   "tags": {}
+  },
+  {
+   "id": "relation/17899257",
+   "name": "Veterinary Medicine North",
+   "lat": 43.0758639,
+   "lon": -89.4207475,
+   "distKm": 1.6,
+   "address": "515 Easterday Lane, Madison, WI 53706",
+   "tags": {}
+  },
+  {
+   "id": "node/12164684038",
+   "name": "Whole Pet Veterinary Clinic",
+   "lat": 43.0532932,
+   "lon": -89.3962853,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8969922203",
+   "name": "Cat Care Clinic",
+   "lat": 43.0838529,
+   "lon": -89.3716705,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8969922204",
+   "name": "City Dog Vet & Grooming",
+   "lat": 43.0839173,
+   "lon": -89.3715793,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.gracecoffeewi.com/"
+   }
+  },
+  {
+   "id": "node/12793289009",
+   "name": "Petinary",
+   "lat": 43.0811816,
+   "lon": -89.3674742,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "phone": "+1 608 255 1239",
+    "opening_hours": "Mo-Fr 07:30-13:00; Sa 08:00-11:00"
+   }
+  },
+  {
+   "id": "node/6740372508",
+   "name": "Animal Hospital At Hillshore",
+   "lat": 43.0743539,
+   "lon": -89.4378206,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-We,Fr 08:00-18:00; Th 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/158311463",
+   "name": "Lakeview Veterinary Clinic",
+   "lat": 43.0525655,
+   "lon": -89.4361041,
+   "distKm": 3.6,
+   "address": "3518 Monroe Street",
+   "tags": {
+    "website": "https://www.lakeviewvetclinic.com/"
+   }
+  },
+  {
+   "id": "way/158311469",
+   "name": "Lakeview Veterinary Clinic Cat Annex",
+   "lat": 43.0527266,
+   "lon": -89.4359156,
+   "distKm": 3.6,
+   "address": "3506 Monroe Street, Madison, WI 53711",
+   "tags": {}
+  },
+  {
+   "id": "node/5529339718",
+   "name": "Isthmus Veterinary Care - Marc Siegel, DVM",
+   "lat": 43.0947156,
+   "lon": -89.3641012,
+   "distKm": 3.9,
+   "address": "1730 Fordem Avenue, Madison, WI 53704",
+   "tags": {
+    "website": "https://isthmusvetcare.com/",
+    "opening_hours": "Mo-Tu 08:00-17:30; We 08:00-19:00; Th 08:00-13:00; Fr 08:00-17:30; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/417990988",
+   "name": "Madison Veterinary Specialists",
+   "lat": 43.0371033,
+   "lon": -89.3864983,
+   "distKm": 4.2,
+   "address": "229 West Beltline Highway, Madison, WI 53713",
+   "tags": {
+    "phone": "+1-608-274-7772",
+    "website": "https://www.mvsvets.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/678049972",
+   "name": "Community Care Veterinary Clinic",
+   "lat": 43.0935896,
+   "lon": -89.3438729,
+   "distKm": 5.2,
+   "address": "2733 Atwood Avenue, Madison, WI 53704",
+   "tags": {}
+  },
+  {
+   "id": "node/8988609431",
+   "name": "Healthy Pet Veterinary",
+   "lat": 43.1018071,
+   "lon": -89.3456394,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-608-294-9494",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su closed"
+   }
+  },
+  {
+   "id": "way/293321933",
+   "name": "Spring Harbor Animal Hospital",
+   "lat": 43.0770785,
+   "lon": -89.4702575,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "website": "http://www.springharboranimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/4972490076",
+   "name": "Monona Veterinary Clinic",
+   "lat": 43.0623586,
+   "lon": -89.3265201,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/303962770",
+   "name": "Northside Animal Hospital",
+   "lat": 43.1220101,
+   "lon": -89.3632924,
+   "distKm": 6.2,
+   "address": "2121 North Sherman Avenue, Madison, WI 53704",
+   "tags": {
+    "phone": "+1 608 204 2700"
+   }
+  },
+  {
+   "id": "node/10259601009",
+   "name": "Citywide Pet Clinic",
+   "lat": 43.0539786,
+   "lon": -89.3259211,
+   "distKm": 6.5,
+   "address": "6009 Monona Drive, 53716",
+   "tags": {}
+  },
+  {
+   "id": "node/13982110721",
+   "name": "Sandhill Pet Clinic",
+   "lat": 43.1099274,
+   "lon": -89.3339001,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-608-241-7600",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa-Su closed"
+   }
+  },
+  {
+   "id": "way/479823662",
+   "name": "Odyssey Veterinary Care",
+   "lat": 43.0142502,
+   "lon": -89.4309775,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "website": "https://www.odysseyvetcare.com/"
+   }
+  },
+  {
+   "id": "node/13777628091",
+   "name": "Precision Veterinary",
+   "lat": 43.0526216,
+   "lon": -89.4862707,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10259588310",
+   "name": "Beltline Animal Hospital Ltd",
+   "lat": 43.047882,
+   "lon": -89.3169522,
+   "distKm": 7.4,
+   "address": "800 East Broadway, 53716",
+   "tags": {
+    "phone": "+16082221515"
+   }
+  },
+  {
+   "id": "node/4003413200",
+   "name": "And Dogs Too",
+   "lat": 43.1014575,
+   "lon": -89.4871802,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/333932002",
+   "name": "West Towne Veterinary Center",
+   "lat": 43.0604253,
+   "lon": -89.4956642,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11697658921",
+   "name": "Cat Care Clinic",
+   "lat": 43.0569105,
+   "lon": -89.498494,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4217643174",
+   "name": "All Pets Veterinary Clinic",
+   "lat": 43.0841448,
+   "lon": -89.5015483,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4600797633",
+   "name": "A Breed Apart",
+   "lat": 43.0642202,
+   "lon": -89.5036331,
+   "distKm": 8.4,
+   "address": "202 South Gammon Road, 53717",
+   "tags": {
+    "phone": "+1-608-827-8555"
+   }
+  },
+  {
+   "id": "node/3935991849",
+   "name": "Companion Animal Hospital",
+   "lat": 43.0503851,
+   "lon": -89.5039217,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11681927401",
+   "name": "Veterinary Emergency Group",
+   "lat": 43.0610049,
+   "lon": -89.5120639,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/396107751",
+   "name": "Petcare Animal Hospital",
+   "lat": 43.0608697,
+   "lon": -89.5142057,
+   "distKm": 9.3,
+   "address": "7530 Mineral Point Road, 53717",
+   "tags": {
+    "phone": "+1-608-833-6585"
+   }
+  },
+  {
+   "id": "node/5415065038",
+   "name": "Fitchburg Veterinary Hospital",
+   "lat": 43.0098125,
+   "lon": -89.4783175,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5363782829",
+   "name": "Sauk Point Veterinary Clinic",
+   "lat": 43.0758026,
+   "lon": -89.5175001,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/91084811",
+   "name": "Middleton Veterinary Hospital",
+   "lat": 43.1047245,
+   "lon": -89.510253,
+   "distKm": 9.5,
+   "address": "2705 Parmenter Street",
+   "tags": {}
+  },
+  {
+   "id": "node/5499721924",
+   "name": "McFarland Animal Hospital",
+   "lat": 43.0163928,
+   "lon": -89.3021346,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8421030931",
+   "name": "Passion for Paws",
+   "lat": 43.0581236,
+   "lon": -89.5271587,
+   "distKm": 10.4,
+   "address": "437 Junction Road",
+   "tags": {}
+  },
+  {
+   "id": "way/243104587",
+   "name": "Waunakee Veterinary Clinic",
+   "lat": 43.1800592,
+   "lon": -89.4303611,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9414181397",
+   "name": "Luna Pet Resort",
+   "lat": 43.1862703,
+   "lon": -89.4288385,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10093102517",
+   "name": "Fisher Valley Felines",
+   "lat": 42.9507568,
+   "lon": -89.4349194,
+   "distKm": 13.9,
+   "address": "5644 County Highway M, 53575",
+   "tags": {}
+  },
+  {
+   "id": "node/10302843009",
+   "name": "Verona Veterinary Medical Service S.C.",
+   "lat": 42.9872309,
+   "lon": -89.5476408,
+   "distKm": 15.3,
+   "address": "655 Half Mile Road, Verona, WI 53593",
+   "tags": {
+    "phone": "+1-608-845-6512",
+    "website": "https://veronavetmed.com/"
+   }
+  },
+  {
+   "id": "way/682559623",
+   "name": "Token Creek Veterinary Clinic",
+   "lat": 43.1946681,
+   "lon": -89.2911135,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/682178847",
+   "name": "Country View Veterinary Service",
+   "lat": 42.9281398,
+   "lon": -89.4369318,
+   "distKm": 16.4,
+   "address": "1350 South Fish Hatchery Road, Oregon, WI 53575",
+   "tags": {
+    "website": "https://countryviewvets.com/oregon/"
+   }
+  },
+  {
+   "id": "node/2245080878",
+   "name": "Animal Hospital-Sun Prairie",
+   "lat": 43.1743934,
+   "lon": -89.2497532,
+   "distKm": 16.7,
+   "address": "2125 McCoy Rd., 53590",
+   "tags": {
+    "website": "http://www.animalhospitalofsunprairie.com/"
+   }
+  },
+  {
+   "id": "node/7486288112",
+   "name": "Prairie Veterinary Associates",
+   "lat": 43.1866883,
+   "lon": -89.258821,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

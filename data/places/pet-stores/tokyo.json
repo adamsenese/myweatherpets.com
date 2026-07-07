@@ -1,0 +1,572 @@
+{
+ "$schemaVersion": 1,
+ "city": "tokyo",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:23:18.961Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/7944016537",
+   "name": "ペットの専門店コジマ 西新宿店",
+   "lat": 35.6875813,
+   "lon": 139.6889208,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7943618766",
+   "name": "トータルペットケアスペース ＤＯＧｓ’ 西新宿店",
+   "lat": 35.6914862,
+   "lon": 139.68773,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6116062593",
+   "name": "ペットショップCoo&RIKU",
+   "lat": 35.701692,
+   "lon": 139.6959707,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2425345379",
+   "name": "COCOe",
+   "lat": 35.68093,
+   "lon": 139.679571,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5420275040",
+   "name": "タィニィ",
+   "lat": 35.69139,
+   "lon": 139.675688,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11126754031",
+   "name": "まっかちん",
+   "lat": 35.6980931,
+   "lon": 139.6793013,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5463555236",
+   "name": "柳沢鳥獣店",
+   "lat": 35.6978057,
+   "lon": 139.6771834,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2425350991",
+   "name": "AQUA PET JOY",
+   "lat": 35.679609,
+   "lon": 139.676452,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6329595985",
+   "name": "龍の子",
+   "lat": 35.6702031,
+   "lon": 139.7065005,
+   "distKm": 2.5,
+   "address": "渋谷区神宮前1-8-5 B1",
+   "tags": {
+    "phone": "05055951151",
+    "opening_hours": "Mo-We, Fr-Sa 11:30-15:00, 17:30-21:30"
+   }
+  },
+  {
+   "id": "node/7232478867",
+   "name": "P's-first",
+   "lat": 35.6701755,
+   "lon": 139.7065004,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5036925527",
+   "name": "爬虫類倶楽部",
+   "lat": 35.7084322,
+   "lon": 139.6755001,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6141495688",
+   "name": "Snake Center Café",
+   "lat": 35.6678374,
+   "lon": 139.7052684,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3824263260",
+   "name": "duke",
+   "lat": 35.6908103,
+   "lon": 139.7221688,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5038733165",
+   "name": "PARO",
+   "lat": 35.6925446,
+   "lon": 139.7229558,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5036925537",
+   "name": "IKOI",
+   "lat": 35.7095764,
+   "lon": 139.670115,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6261477355",
+   "name": "D&C",
+   "lat": 35.6975577,
+   "lon": 139.6600906,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8516253396",
+   "name": "P’s-first",
+   "lat": 35.7083588,
+   "lon": 139.6655716,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2425376758",
+   "name": "金魚一道",
+   "lat": 35.6767386,
+   "lon": 139.6587096,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1618477753",
+   "name": "ベビードール",
+   "lat": 35.6591747,
+   "lon": 139.6976544,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4961719445",
+   "name": "Petit HEAVEN",
+   "lat": 35.7009581,
+   "lon": 139.6565666,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5130993628",
+   "name": "P's-first",
+   "lat": 35.6630018,
+   "lon": 139.7100833,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5131038744",
+   "name": "アオヤマケンネル",
+   "lat": 35.6614979,
+   "lon": 139.7076456,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5608314579",
+   "name": "Bellfriend",
+   "lat": 35.7128669,
+   "lon": 139.6672211,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/693070017",
+   "name": "Love Rabbit",
+   "lat": 35.7154129,
+   "lon": 139.6672958,
+   "distKm": 3.6,
+   "address": "15, 中野区, 165-0026",
+   "tags": {
+    "phone": "+81-3-6240-5771",
+    "website": "https://love-r.jp/",
+    "opening_hours": "Th-Tu 12:00-20:00"
+   }
+  },
+  {
+   "id": "node/5032508919",
+   "name": "フェレットワールド",
+   "lat": 35.7156977,
+   "lon": 139.6674962,
+   "distKm": 3.6,
+   "address": "18 野村Vビル, 中野区, 165-0026",
+   "tags": {
+    "phone": "+81-3-5345-5944",
+    "website": "http://www.ferret-world.jp/about/nakano-info",
+    "opening_hours": "11:00-20:00"
+   }
+  },
+  {
+   "id": "node/5108777122",
+   "name": "JARDEN DOG美容室",
+   "lat": 35.7145251,
+   "lon": 139.6662569,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7270749344",
+   "name": "チワワとプードル",
+   "lat": 35.6978327,
+   "lon": 139.6533008,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3136233391",
+   "name": "ジプシー",
+   "lat": 35.6915443,
+   "lon": 139.6505804,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6141495686",
+   "name": "Fukuro Cafe Hoot Hoot",
+   "lat": 35.6556496,
+   "lon": 139.6928955,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4548498159",
+   "name": "ゆーほ",
+   "lat": 35.701174,
+   "lon": 139.6493608,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6242986839",
+   "name": "PET SMILE",
+   "lat": 35.6594775,
+   "lon": 139.6675086,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6944367485",
+   "name": "市ヶ谷フィッシュセンターIchiga",
+   "lat": 35.6918502,
+   "lon": 139.7357257,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "phone": "+81332601324",
+    "opening_hours": "Mo-Fr 09:30-20:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/2697748778",
+   "name": "ゆーほ",
+   "lat": 35.7071199,
+   "lon": 139.6502347,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4868612624",
+   "name": "Coo&RIKU",
+   "lat": 35.7039096,
+   "lon": 139.6489356,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6279832295",
+   "name": "富士ストア",
+   "lat": 35.7086219,
+   "lon": 139.6516083,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12215439045",
+   "name": "WAN",
+   "lat": 35.6642704,
+   "lon": 139.7313904,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4327623893",
+   "name": "Kitty Diamond",
+   "lat": 35.6607245,
+   "lon": 139.7292799,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5397182408",
+   "name": "Doｇ＆Cat",
+   "lat": 35.6537267,
+   "lon": 139.6647795,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5397165892",
+   "name": "PET COMPANY PINE",
+   "lat": 35.6543424,
+   "lon": 139.6608503,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1737255602",
+   "name": "M-Style",
+   "lat": 35.6465882,
+   "lon": 139.6781592,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8829201752",
+   "name": "Pet Paradise",
+   "lat": 35.7297478,
+   "lon": 139.7152698,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "brand": "Calzedonia"
+   }
+  },
+  {
+   "id": "node/1594738675",
+   "name": "ANGIE PET CLINIC",
+   "lat": 35.6920552,
+   "lon": 139.6352547,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5825299654",
+   "name": "One Hundred",
+   "lat": 35.701,
+   "lon": 139.6370655,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6387097875",
+   "name": "P's First",
+   "lat": 35.6505732,
+   "lon": 139.7220239,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11508783071",
+   "name": "ペッツファースト",
+   "lat": 35.6505204,
+   "lon": 139.7221127,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3540412838",
+   "name": "ハートランド",
+   "lat": 35.7042473,
+   "lon": 139.6372699,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3951070292",
+   "name": "らびっとわぁるど",
+   "lat": 35.695011,
+   "lon": 139.6335047,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4889738259",
+   "name": "Good Morning",
+   "lat": 35.7025131,
+   "lon": 139.6356344,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "phone": "03-6383-5578",
+    "website": "http://www.b-goodmorning.com/"
+   }
+  },
+  {
+   "id": "node/4476661158",
+   "name": "Kojima",
+   "lat": 35.6553147,
+   "lon": 139.7347654,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5433296318",
+   "name": "Terrier Style",
+   "lat": 35.6636722,
+   "lon": 139.6415299,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4939871887",
+   "name": "石と泉",
+   "lat": 35.7075703,
+   "lon": 139.6351279,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5020280670",
+   "name": "シーザーハウス",
+   "lat": 35.7131074,
+   "lon": 139.6383943,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5398119748",
+   "name": "COCO&RIKU",
+   "lat": 35.6431292,
+   "lon": 139.6690091,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "brand": "COCO&RIKU"
+   }
+  },
+  {
+   "id": "node/3340953070",
+   "name": "Dog Palace",
+   "lat": 35.6441728,
+   "lon": 139.7186149,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5046081686",
+   "name": "にこにこペット",
+   "lat": 35.7243085,
+   "lon": 139.646262,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5398170638",
+   "name": "KOJIMA",
+   "lat": 35.6433728,
+   "lon": 139.6652349,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9726029876",
+   "name": "パピーランド",
+   "lat": 35.7268716,
+   "lon": 139.7342955,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1976637127",
+   "name": "さくら",
+   "lat": 35.6551354,
+   "lon": 139.6426682,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4978638451",
+   "name": "KOjIMA",
+   "lat": 35.7137571,
+   "lon": 139.6348767,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5046081706",
+   "name": "DIZZY POINT",
+   "lat": 35.7255807,
+   "lon": 139.6418275,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

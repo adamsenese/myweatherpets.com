@@ -1,0 +1,697 @@
+{
+ "$schemaVersion": 1,
+ "city": "seattle",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:25:52.487Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/8366589086",
+   "name": "Dogtopia",
+   "lat": 47.6067562,
+   "lon": -122.338708,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {
+    "brand": "Dogtopia"
+   }
+  },
+  {
+   "id": "node/2397460919",
+   "name": "Merry Tails",
+   "lat": 47.6088025,
+   "lon": -122.3411698,
+   "distKm": 0.7,
+   "address": "1501 Pike Place, Seattle, WA 98101",
+   "tags": {
+    "phone": "+1-206-623-4142"
+   }
+  },
+  {
+   "id": "node/2968333233",
+   "name": "Mud Bay",
+   "lat": 47.6120696,
+   "lon": -122.3446315,
+   "distKm": 1.1,
+   "address": "2119 1st Avenue",
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/2159322994",
+   "name": "Woof Gang",
+   "lat": 47.6138141,
+   "lon": -122.3214918,
+   "distKm": 1.2,
+   "address": "1422 Harvard Avenue, Seattle, 98122",
+   "tags": {}
+  },
+  {
+   "id": "node/2158750469",
+   "name": "Mud Bay",
+   "lat": 47.6146157,
+   "lon": -122.320575,
+   "distKm": 1.3,
+   "address": "1514 Broadway, Seattle, 98122",
+   "tags": {
+    "website": "https://www.mudbay.com",
+    "opening_hours": "Mo-Fr 09:30-20:30; Sa,Su 09:00-19:30",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/2158750335",
+   "name": "Rex",
+   "lat": 47.6131506,
+   "lon": -122.3166228,
+   "distKm": 1.4,
+   "address": "1402 12th Avenue, Seattle, 98122",
+   "tags": {}
+  },
+  {
+   "id": "way/206047749",
+   "name": "All The Best",
+   "lat": 47.6194242,
+   "lon": -122.3250657,
+   "distKm": 1.6,
+   "address": "1600 East Olive Way, Seattle, WA 98102",
+   "tags": {
+    "website": "https://www.allthebestpetcare.com/locations-and-hours/best-pet-store-on-capitol-hill-seattle/"
+   }
+  },
+  {
+   "id": "node/2077272342",
+   "name": "Mud Bay",
+   "lat": 47.6208253,
+   "lon": -122.321096,
+   "distKm": 1.8,
+   "address": "231 Broadway East, Seattle, WA 98102",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:30, Sa-Su 09:00-19:00",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/10941210408",
+   "name": "Just Food For Dogs",
+   "lat": 47.6238073,
+   "lon": -122.3386803,
+   "distKm": 2,
+   "address": "513 Westlake Avenue North, WA",
+   "tags": {}
+  },
+  {
+   "id": "node/10968249308",
+   "name": "All The Best",
+   "lat": 47.6121775,
+   "lon": -122.3025526,
+   "distKm": 2.3,
+   "address": "1122 23rd Avenue",
+   "tags": {
+    "phone": "+1 206-258-2215",
+    "website": "https://allthebestpetcare.com",
+    "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2374409934",
+   "name": "All the Best",
+   "lat": 47.6227652,
+   "lon": -122.2969544,
+   "distKm": 3.2,
+   "address": "2713 East Madison Street, Seattle, 98112",
+   "tags": {}
+  },
+  {
+   "id": "node/2048590852",
+   "name": "Dog Mania",
+   "lat": 47.589518,
+   "lon": -122.2922214,
+   "distKm": 3.5,
+   "address": "1428 31st Avenue South, WA",
+   "tags": {
+    "website": "http://www.dogmaniaseattle.com/"
+   }
+  },
+  {
+   "id": "node/2015644328",
+   "name": "All The Best Pet Care",
+   "lat": 47.6379911,
+   "lon": -122.3571118,
+   "distKm": 4,
+   "address": "2127 Queen Anne Avenue North, Seattle, 98109",
+   "tags": {
+    "website": "https://allthebestpetcare.com/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2349894875",
+   "name": "Emerald City Pet Rescue & Store",
+   "lat": 47.56489,
+   "lon": -122.3408936,
+   "distKm": 4.6,
+   "address": "20 South Idaho Street, Seattle, WA 98134",
+   "tags": {
+    "phone": "+1-206-557-4661",
+    "website": "https://www.emeraldcitypetrescue.org",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/2081763606",
+   "name": "Petco",
+   "lat": 47.6369893,
+   "lon": -122.3771714,
+   "distKm": 4.8,
+   "address": "2001 15th Avenue West, Seattle, WA 98119",
+   "tags": {
+    "phone": "+1-206-216-2267",
+    "website": "https://stores.petco.com",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2445204053",
+   "name": "Mud Bay",
+   "lat": 47.5813805,
+   "lon": -122.3862313,
+   "distKm": 4.9,
+   "address": "2358 California Avenue Southwest, Seattle, WA 98116",
+   "tags": {
+    "website": "https://www.mudbay.com",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/2135542299",
+   "name": "All the Best Pet Care",
+   "lat": 47.6537734,
+   "lon": -122.3422786,
+   "distKm": 5.3,
+   "address": "3830 Stone Way North, Seattle, 98103",
+   "tags": {
+    "phone": "+1-206-547-0366",
+    "website": "https://www.allthebestpetcare.com/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/2144365254",
+   "name": "EarthWise Pet",
+   "lat": 47.6529456,
+   "lon": -122.3568348,
+   "distKm": 5.5,
+   "address": "114 North 36th Street, Seattle, 98103",
+   "tags": {
+    "brand": "EarthWise Pet"
+   }
+  },
+  {
+   "id": "node/3033233525",
+   "name": "Wally Pets",
+   "lat": 47.6607563,
+   "lon": -122.3363877,
+   "distKm": 6.1,
+   "address": "4411 Wallingford Avenue North, Seattle, 98103",
+   "tags": {
+    "phone": "+1-206-547-0301",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2669581783",
+   "name": "Pet Pros",
+   "lat": 47.6392527,
+   "lon": -122.3980293,
+   "distKm": 6.2,
+   "address": "2236 32nd Avenue West, Seattle, 98199",
+   "tags": {}
+  },
+  {
+   "id": "node/5695366073",
+   "name": "All The Best Pet Care",
+   "lat": 47.559319,
+   "lon": -122.2861092,
+   "distKm": 6.3,
+   "address": "4805 Rainier Avenue South, Seattle, 98118",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2320948009",
+   "name": "Petco",
+   "lat": 47.5612646,
+   "lon": -122.3847211,
+   "distKm": 6.4,
+   "address": "4100 Southwest Alaska Street, Seattle, WA 98116",
+   "tags": {
+    "phone": "+1-206-937-0575",
+    "website": "https://stores.petco.com/wa/seattle/pet-supplies-seattle-wa-1256.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2396891244",
+   "name": "A Dog's Dream",
+   "lat": 47.5497222,
+   "lon": -122.3176024,
+   "distKm": 6.4,
+   "address": "5913 Airport Way South, Seattle, WA 98108",
+   "tags": {
+    "phone": "+1 206-763-1546",
+    "website": "https://adogsdreamseattle.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-20:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/2397401945",
+   "name": "Next to Nature",
+   "lat": 47.5616866,
+   "lon": -122.3870074,
+   "distKm": 6.4,
+   "address": "4543 California Avenue Southwest, Seattle, WA 98116",
+   "tags": {
+    "website": "https://next-to-nature.com"
+   }
+  },
+  {
+   "id": "node/1721406957",
+   "name": "Mud Bay",
+   "lat": 47.6621495,
+   "lon": -122.3003827,
+   "distKm": 6.7,
+   "address": "4612 25th Avenue Northeast, Seattle, 98105",
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/5238761509",
+   "name": "Paws Cat City Adoption Center",
+   "lat": 47.6666956,
+   "lon": -122.3171958,
+   "distKm": 6.8,
+   "address": "5200 Roosevelt Way Northeast",
+   "tags": {}
+  },
+  {
+   "id": "node/12793473160",
+   "name": "Just Food For Dogs",
+   "lat": 47.6620549,
+   "lon": -122.3740622,
+   "distKm": 7,
+   "address": "1401 Northwest 46th Street, Seattle, 98107",
+   "tags": {
+    "website": "https://www.justfoodfordogs.com/store/1416-nw-46th-st-suite-120-seattle-wa-98107.html"
+   }
+  },
+  {
+   "id": "node/5755271077",
+   "name": "Denise's Parrot Place",
+   "lat": 47.5863697,
+   "lon": -122.235951,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/228012673",
+   "name": "Seward Park Pet",
+   "lat": 47.5536786,
+   "lon": -122.2683581,
+   "distKm": 7.5,
+   "address": "5370 Wilson Avenue South, Seattle, WA 98118",
+   "tags": {
+    "website": "https://www.sewardparkpet.com/",
+    "opening_hours": "Tu-Fr 09:00-18:00, Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "way/161679449",
+   "name": "Mud Bay",
+   "lat": 47.6675984,
+   "lon": -122.3757689,
+   "distKm": 7.6,
+   "address": "Seattle, WA 98107",
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/2434504527",
+   "name": "Aquarium Zen",
+   "lat": 47.6750995,
+   "lon": -122.3176305,
+   "distKm": 7.7,
+   "address": "920 Northeast 64th Street, Seattle, 98115",
+   "tags": {
+    "phone": "+1-206-499-1372",
+    "website": "https://www.aquariumzen.net/",
+    "opening_hours": "We-Fr 13:00-19:00; Sa,Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/2529586928",
+   "name": "Mud Bay",
+   "lat": 47.5850611,
+   "lon": -122.234646,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/1982998654",
+   "name": "Health Mutt",
+   "lat": 47.6757046,
+   "lon": -122.3152865,
+   "distKm": 7.8,
+   "address": "1207 Northeast 65th Street, Seattle, 98115",
+   "tags": {
+    "phone": "+1 206-743-9792",
+    "website": "https://healthmuttseattle.com/",
+    "opening_hours": "Grooming We 10:00-15:00, Tu Su 10:00-18:00, Th Fr Sa 9:00-18:00; Retail Tu Th Fr 10:00-18:00, We 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/2434504283",
+   "name": "Mud Bay",
+   "lat": 47.6756343,
+   "lon": -122.316843,
+   "distKm": 7.8,
+   "address": "6415 12th Avenue Northeast, Seattle, 98115",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:30; Sa-Su 09:00-19:00",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/10160503782",
+   "name": "All The Best Pet Care",
+   "lat": 47.5825003,
+   "lon": -122.2346883,
+   "distKm": 7.8,
+   "address": "3037 78th Avenue Southeast, Mercer Island, WA 98040",
+   "tags": {}
+  },
+  {
+   "id": "node/4908347468",
+   "name": "All The Best Pet Care",
+   "lat": 47.6685224,
+   "lon": -122.3817887,
+   "distKm": 7.9,
+   "address": "1909 Northwest Market Street, Seattle, 98107",
+   "tags": {
+    "website": "https://allthebestpetcare.com",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3008869863",
+   "name": "Pet Elements",
+   "lat": 47.544542,
+   "lon": -122.3874117,
+   "distKm": 8,
+   "address": "6511 California Avenue Southwest, Seattle, 98136",
+   "tags": {
+    "phone": "+1-206-932-0457",
+    "website": "https://petelements.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Su 10:00-17:00; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/523095487",
+   "name": "All the Best Pet Care",
+   "lat": 47.6874966,
+   "lon": -122.311965,
+   "distKm": 9.2,
+   "address": "8050 Lake City Way Northeast, Seattle, 98115",
+   "tags": {}
+  },
+  {
+   "id": "node/2987900997",
+   "name": "Mud Bay",
+   "lat": 47.6915298,
+   "lon": -122.357686,
+   "distKm": 9.7,
+   "address": "8532 1st Avenue Northwest, Seattle, WA 98117",
+   "tags": {
+    "phone": "+1-206-789-7977",
+    "website": "https://www.mudbay.com/on/demandware.store/Sites-MudBay-Site/default/Stores-StoreDetails?storeID=015",
+    "opening_hours": "Mo-Fr 10:00-19:30, Sa-Su 09:00-19:00; Dec 24,Dec 31 10:00-18:00; May Mo[-1] 10:00-18:00; Sep Mo[1] 10:00-18:00; Nov Th[4] off; Jan 01 off; Jul 04 off; Dec 25 off",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/7600942147",
+   "name": "Aquaria",
+   "lat": 47.610393,
+   "lon": -122.2029991,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11137336257",
+   "name": "Pet Supplies Plus",
+   "lat": 47.5221551,
+   "lon": -122.3667817,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3139385733",
+   "name": "Pet Pros",
+   "lat": 47.620483,
+   "lon": -122.199851,
+   "distKm": 10,
+   "address": "1100",
+   "tags": {}
+  },
+  {
+   "id": "node/6120366973",
+   "name": "A Dog’s Dream",
+   "lat": 47.5166448,
+   "lon": -122.3524172,
+   "distKm": 10.1,
+   "address": "9620 14th Avenue Southwest, Seattle, WA 98106",
+   "tags": {}
+  },
+  {
+   "id": "way/218748568",
+   "name": "Petco",
+   "lat": 47.6933836,
+   "lon": -122.3758664,
+   "distKm": 10.2,
+   "address": "8728 Holman Road Northwest, Seattle, WA 98117",
+   "tags": {
+    "phone": "+1-206-784-0524",
+    "website": "https://stores.petco.com/wa/seattle/pet-supplies-seattle-wa-252.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2279900104",
+   "name": "Crown Hill Pet Supply",
+   "lat": 47.6955272,
+   "lon": -122.3747289,
+   "distKm": 10.4,
+   "address": "9053 Holman Road Northwest, Seattle, WA 98117",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-16:00; PH off"
+   }
+  },
+  {
+   "id": "node/2462238543",
+   "name": "Zoom Room",
+   "lat": 47.7029797,
+   "lon": -122.344066,
+   "distKm": 10.8,
+   "address": "10004 Aurora Avenue North, Seattle, WA 98133",
+   "tags": {
+    "phone": "+1-206-486-2104",
+    "website": "https://zoomroom.com/location/seattle/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/2328508346",
+   "name": "All The Best Pet Care",
+   "lat": 47.7018042,
+   "lon": -122.3626433,
+   "distKm": 10.9,
+   "address": "10005 Holman Road Northwest, Seattle, WA 98177",
+   "tags": {
+    "phone": "+1-206-783-2000",
+    "website": "https://www.allthebestpetcare.com/",
+    "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/4755655112",
+   "name": "Little Amazon",
+   "lat": 47.7037106,
+   "lon": -122.3443919,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.littleamazonfishandpets.com/"
+   }
+  },
+  {
+   "id": "way/221294703",
+   "name": "Pet Pros",
+   "lat": 47.7032236,
+   "lon": -122.3012765,
+   "distKm": 11,
+   "address": "10304 Lake City Way Northeast, Seattle, 98125",
+   "tags": {
+    "phone": "+1-206-525-4038",
+    "website": "https://www.petpros.net/",
+    "opening_hours": "Mo-Sa 09:30-19:30; Su 10:00-18:00",
+    "brand": "Pet Pros"
+   }
+  },
+  {
+   "id": "node/5278648251",
+   "name": "All The Best Pet Care",
+   "lat": 47.6202105,
+   "lon": -122.1850388,
+   "distKm": 11.1,
+   "address": "1048 116th Avenue Northeast, Bellevue, WA 98004",
+   "tags": {
+    "website": "https://www.allthebestpetcare.com/"
+   }
+  },
+  {
+   "id": "node/2433072408",
+   "name": "Petco",
+   "lat": 47.7088092,
+   "lon": -122.324842,
+   "distKm": 11.4,
+   "address": "318 Northeast Northgate Way, Seattle, WA 98125",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3336486927",
+   "name": "Nature's Pet Market",
+   "lat": 47.6658166,
+   "lon": -122.1977037,
+   "distKm": 12.1,
+   "address": "10635 Northeast 68th Street, Kirkland, 98033",
+   "tags": {
+    "phone": "+1-425-298-4480"
+   }
+  },
+  {
+   "id": "node/1234308082",
+   "name": "Scruff to Fluff",
+   "lat": 47.6772072,
+   "lon": -122.2050715,
+   "distKm": 12.4,
+   "address": "222 Central Way",
+   "tags": {
+    "opening_hours": "Tu-Sa 7:00-14:00"
+   }
+  },
+  {
+   "id": "node/9480351807",
+   "name": "Pet Supplies Plus",
+   "lat": 47.5756336,
+   "lon": -122.1710838,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 08:30-18:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/2462337987",
+   "name": "The Fish Store",
+   "lat": 47.7180102,
+   "lon": -122.2957254,
+   "distKm": 12.7,
+   "address": "12320 Lake City Way Northeast, Seattle, WA 98125",
+   "tags": {
+    "opening_hours": "Mo-Fr 11:00-21:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/3897394595",
+   "name": "Petco",
+   "lat": 47.5790425,
+   "lon": -122.1673909,
+   "distKm": 12.7,
+   "address": "3540 Factoria Boulevard Southeast, Bellevue, WA 98006",
+   "tags": {
+    "phone": "+1-425-641-4472",
+    "website": "https://stores.petco.com/wa/bellevue/pet-supplies-bellevue-wa-1279.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3324263494",
+   "name": "Dooley's Dog House",
+   "lat": 47.6870851,
+   "lon": -122.2102196,
+   "distKm": 12.8,
+   "address": "1421 Market Street, Kirkland, 98033",
+   "tags": {}
+  },
+  {
+   "id": "node/10767407568",
+   "name": "Mud Bay",
+   "lat": 47.6779228,
+   "lon": -122.1986841,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/3889968431",
+   "name": "Mud Bay",
+   "lat": 47.6277582,
+   "lon": -122.161522,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/13812645384",
+   "name": "Barrier Reef Aquariums",
+   "lat": 47.5313419,
+   "lon": -122.195228,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {
+    "phone": "+1-425-277-7670",
+    "website": "https://www.barrierreefaquariums.com",
+    "opening_hours": "We-Fr 12:00-19:00; Sa-Su 10:00-19:00"
+   }
+  }
+ ]
+}

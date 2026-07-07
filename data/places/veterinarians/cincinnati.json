@@ -1,0 +1,277 @@
+{
+ "$schemaVersion": 1,
+ "city": "cincinnati",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:32:04.277Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 27,
+ "places": [
+  {
+   "id": "way/176919700",
+   "name": "Alexandria Pike Animal Hospital",
+   "lat": 39.0751841,
+   "lon": -84.4772361,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/69545869",
+   "name": "Howell Avenue Pet Hospital",
+   "lat": 39.1424488,
+   "lon": -84.5202687,
+   "distKm": 4.4,
+   "address": "317 Howell Avenue, Cincinnati, OH 45220",
+   "tags": {}
+  },
+  {
+   "id": "way/119289062",
+   "name": "Park Hills Animal Hospital",
+   "lat": 39.066079,
+   "lon": -84.5300431,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/147781142",
+   "name": "Lewis Animal Hospital",
+   "lat": 39.1329972,
+   "lon": -84.4604131,
+   "distKm": 5.6,
+   "address": "2116 Madison Road, Cincinnati, OH 45208",
+   "tags": {
+    "phone": "+1 513 871 1114",
+    "website": "http://www.lewisanimal.com/"
+   }
+  },
+  {
+   "id": "way/319829153",
+   "name": "Fort Thomas Animal Hospital",
+   "lat": 39.0635173,
+   "lon": -84.4483896,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/148240322",
+   "name": "The Animal Hospital on Mt. Lookout Square",
+   "lat": 39.1296717,
+   "lon": -84.4306083,
+   "distKm": 7.6,
+   "address": "3175 Linwood Avenue, Cincinnati, OH 45208",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-14:00; Su closed"
+   }
+  },
+  {
+   "id": "node/13148315338",
+   "name": "Fort Mitchell Veterinary Center",
+   "lat": 39.0366415,
+   "lon": -84.5601429,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/85638448",
+   "name": "Oakley Square Vet",
+   "lat": 39.1508542,
+   "lon": -84.4343562,
+   "distKm": 8.5,
+   "address": "3000 Madison Road, Cincinnati, OH 45209",
+   "tags": {}
+  },
+  {
+   "id": "node/12950526708",
+   "name": "PetVet365",
+   "lat": 39.1460613,
+   "lon": -84.4257972,
+   "distKm": 8.8,
+   "address": "3866 Paxton Ave",
+   "tags": {}
+  },
+  {
+   "id": "way/116742134",
+   "name": "PetWow",
+   "lat": 39.0339301,
+   "lon": -84.4520857,
+   "distKm": 9.3,
+   "address": "2717 Alexandria Way, Highland Heights, KY 41076",
+   "tags": {}
+  },
+  {
+   "id": "way/74284013",
+   "name": "Red Bank Veterinary Hospital",
+   "lat": 39.1446864,
+   "lon": -84.4047218,
+   "distKm": 10.3,
+   "address": "3838 Red Bank Road, Fairfax, OH 45227",
+   "tags": {
+    "website": "https://www.cincinnatifamilyvet.com/locations/red-bank-veterinary-hospital"
+   }
+  },
+  {
+   "id": "node/6781684026",
+   "name": "Edgewood Animal Clinic",
+   "lat": 39.0208538,
+   "lon": -84.5946083,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6781632476",
+   "name": "Erlanger Pet Hospital",
+   "lat": 39.017239,
+   "lon": -84.5996854,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13995464189",
+   "name": "Heusing Veterinary Clinic",
+   "lat": 39.0148931,
+   "lon": -84.6043294,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/201065888",
+   "name": "Noah's Ark Animal Clinics",
+   "lat": 39.2061116,
+   "lon": -84.5825491,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1352888275",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.020167,
+   "lon": -84.6317588,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/258485532",
+   "name": "The Animal Eye Institute",
+   "lat": 39.0053111,
+   "lon": -84.6185387,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6781642263",
+   "name": "Pet 2 Vet",
+   "lat": 39.0097257,
+   "lon": -84.6290633,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/121049028",
+   "name": "Noah's Ark Animal Clinic",
+   "lat": 39.0067253,
+   "lon": -84.6299374,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6781642283",
+   "name": "Shelby Street Veterinary Hospital",
+   "lat": 39.0034767,
+   "lon": -84.6313489,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/57768136",
+   "name": "Animal Care Center",
+   "lat": 39.0734279,
+   "lon": -84.3305067,
+   "distKm": 16,
+   "address": "8094 Beechmont Avenue, Cincinnati, OH 45255",
+   "tags": {
+    "website": "https://anderson.animalcarecenters.net/"
+   }
+  },
+  {
+   "id": "way/1361765296",
+   "name": "Cherry Grove Animal Hospital",
+   "lat": 39.0720822,
+   "lon": -84.3215336,
+   "distKm": 16.8,
+   "address": "8407 Beechmont Avenue, Cincinnati, OH 45255",
+   "tags": {
+    "website": "https://cherrygroveanimalhospital.vet/"
+   }
+  },
+  {
+   "id": "node/11378669956",
+   "name": "The Cat Vet of Hebron",
+   "lat": 39.0838135,
+   "lon": -84.7114446,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/41934159",
+   "name": "Advanced Internal Medicine for Pets",
+   "lat": 39.2259181,
+   "lon": -84.3769185,
+   "distKm": 17.9,
+   "address": "9302 Towne Square Avenue, Blue Ash, OH 45242",
+   "tags": {
+    "phone": "+1-513-906-8444",
+    "website": "https://www.advancedimforpets.com/"
+   }
+  },
+  {
+   "id": "way/225409913",
+   "name": "Middendorf Animal Hospital",
+   "lat": 38.9585362,
+   "lon": -84.6250294,
+   "distKm": 18.8,
+   "address": "9930 Berberich Drive, Florence, KY 41042",
+   "tags": {
+    "phone": "+1 859 647 2007",
+    "website": "https://middendorfanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/13646127134",
+   "name": "PetWow",
+   "lat": 38.9733393,
+   "lon": -84.6597369,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-15:00; Su off"
+   }
+  },
+  {
+   "id": "node/4307229766",
+   "name": "Village Animal Hospital",
+   "lat": 39.2286495,
+   "lon": -84.353511,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {
+    "website": "https://villageanimalhospitalcincy.com/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "$schemaVersion": 1,
+ "city": "charlotte",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:25:10.472Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 36,
+ "places": [
+  {
+   "id": "node/11067241531",
+   "name": "Uptown Veterinary Hospital",
+   "lat": 35.2322826,
+   "lon": -80.8380148,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/12513705399",
+   "name": "CityVet",
+   "lat": 35.2186742,
+   "lon": -80.843531,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13850826476",
+   "name": "Livewell Animal Urgent Care",
+   "lat": 35.2127958,
+   "lon": -80.8570013,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1143170874",
+   "name": "Queen City Animal Hospital",
+   "lat": 35.2279449,
+   "lon": -80.821511,
+   "distKm": 2,
+   "address": "920 Belmont Avenue, Charlotte, NC 28205",
+   "tags": {}
+  },
+  {
+   "id": "way/1171754280",
+   "name": "Commonwealth Animal Hospital",
+   "lat": 35.2190597,
+   "lon": -80.8128262,
+   "distKm": 2.9,
+   "address": "1909 Commonwealth Avenue, Charlotte, NC 28205",
+   "tags": {
+    "phone": "+1 704 370 0767",
+    "website": "http://commonwealthanimalhospital.net/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/11989182565",
+   "name": "GoodVets",
+   "lat": 35.2205708,
+   "lon": -80.8098238,
+   "distKm": 3.1,
+   "address": "1713 Central Avenue, Charlotte, NC 28205",
+   "tags": {
+    "website": "https://goodvets.com"
+   }
+  },
+  {
+   "id": "way/323192275",
+   "name": "Partners Animal Hospital",
+   "lat": 35.2420216,
+   "lon": -80.8113352,
+   "distKm": 3.3,
+   "address": "2514 North Davidson Street, Charlotte, NC 28205",
+   "tags": {}
+  },
+  {
+   "id": "way/436323512",
+   "name": "Long Animal Hospital",
+   "lat": 35.2024043,
+   "lon": -80.8647048,
+   "distKm": 3.4,
+   "address": "2523 South Boulevard, Charlotte, NC 28203",
+   "tags": {}
+  },
+  {
+   "id": "way/894012007",
+   "name": "GoodVets",
+   "lat": 35.1942572,
+   "lon": -80.8255285,
+   "distKm": 4,
+   "address": "1057 Providence Road, Charlotte, NC 28207",
+   "tags": {}
+  },
+  {
+   "id": "node/6530706924",
+   "name": "Nicks Veterinary Hospital",
+   "lat": 35.2002172,
+   "lon": -80.8742847,
+   "distKm": 4.1,
+   "address": "3100 South Tryon Street, Charlotte, NC 28217",
+   "tags": {
+    "phone": "+1-704-523-8015",
+    "website": "https://www.nicksvet.com/",
+    "opening_hours": "Mo-Tu,Th-Fr 07:30-18:00"
+   }
+  },
+  {
+   "id": "way/553088116",
+   "name": "Parker Veterinary Hospital",
+   "lat": 35.2244997,
+   "lon": -80.8883537,
+   "distKm": 4.1,
+   "address": "2820 Wilkinson Boulevard, Charlotte, NC 28208",
+   "tags": {
+    "phone": "+1-704-399-8304"
+   }
+  },
+  {
+   "id": "way/836519324",
+   "name": "Monroe Road Animal Hospital",
+   "lat": 35.1991609,
+   "lon": -80.7957443,
+   "distKm": 5.3,
+   "address": "3736 Monroe Road, Charlotte, NC 28205",
+   "tags": {}
+  },
+  {
+   "id": "way/836521768",
+   "name": "CARE: Charlotte Animal Referral and Emergency",
+   "lat": 35.1944862,
+   "lon": -80.7974791,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/914488040",
+   "name": "Animal Medical Hospital",
+   "lat": 35.1977053,
+   "lon": -80.7942775,
+   "distKm": 5.5,
+   "address": "3832 Monroe Road, Charlotte, NC 28205",
+   "tags": {}
+  },
+  {
+   "id": "way/871406946",
+   "name": "Archdale Animal Hospital",
+   "lat": 35.153064,
+   "lon": -80.876984,
+   "distKm": 8.8,
+   "address": "1319 Archdale Drive, Charlotte, NC 28217",
+   "tags": {
+    "phone": "+1-704-552-2333",
+    "website": "https://www.archdaleanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/12289131454",
+   "name": "Petfolk",
+   "lat": 35.1553501,
+   "lon": -80.7951077,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12087779248",
+   "name": "East Side Animal Hospital",
+   "lat": 35.1776652,
+   "lon": -80.756203,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1152744292",
+   "name": "Ark Veterinary Services PLLC",
+   "lat": 35.2014843,
+   "lon": -80.7352839,
+   "distKm": 10.2,
+   "address": "6444 Albemarle Road, Charlotte, NC 28212",
+   "tags": {}
+  },
+  {
+   "id": "node/10112353549",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.3105044,
+   "lon": -80.7477978,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13610701951",
+   "name": "Hight Veterinary Hospital",
+   "lat": 35.3156772,
+   "lon": -80.739417,
+   "distKm": 13.6,
+   "address": "9528 N Tryon St, Charlotte, NC 28262",
+   "tags": {
+    "website": "https://www.hightvet.com/",
+    "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-12:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/876571775",
+   "name": "River Run Animal Hospital",
+   "lat": 35.1605363,
+   "lon": -80.974347,
+   "distKm": 14,
+   "address": "6250 Caden Road, Charlotte, NC 28278",
+   "tags": {}
+  },
+  {
+   "id": "node/7170537575",
+   "name": "Riverbend Veterinary PetCare Hospital",
+   "lat": 35.3262772,
+   "lon": -80.9415185,
+   "distKm": 14.2,
+   "address": "9511 Riverbend Village Drive, Charlotte, NC 28216",
+   "tags": {}
+  },
+  {
+   "id": "way/545763556",
+   "name": "Steele Creek Animal Hospital",
+   "lat": 35.1262568,
+   "lon": -80.9425601,
+   "distKm": 14.4,
+   "address": "9729 South Tryon Street, Charlotte, NC 28273",
+   "tags": {}
+  },
+  {
+   "id": "way/868167027",
+   "name": "Clear Creek Animal Hospital",
+   "lat": 35.2123763,
+   "lon": -80.6855685,
+   "distKm": 14.4,
+   "address": "9336 Parkton Road, Charlotte, NC 28227",
+   "tags": {}
+  },
+  {
+   "id": "way/324519037",
+   "name": "Stand For Animals Veterinary Clinic",
+   "lat": 35.0941703,
+   "lon": -80.8832474,
+   "distKm": 15.2,
+   "address": "10833 Pineville Road, Pineville, NC 28134",
+   "tags": {}
+  },
+  {
+   "id": "way/324774889",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.1357191,
+   "lon": -80.7091942,
+   "distKm": 15.9,
+   "address": "1815 Windsor Square Drive, Matthews, NC 28105",
+   "tags": {}
+  },
+  {
+   "id": "way/334568507",
+   "name": "Plantation Animal Clinic",
+   "lat": 35.1164478,
+   "lon": -80.723594,
+   "distKm": 16.4,
+   "address": "135 West John Street, Matthews, NC 28105",
+   "tags": {}
+  },
+  {
+   "id": "way/577896866",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.3703488,
+   "lon": -80.7841435,
+   "distKm": 16.8,
+   "address": "5815 Highland Shoppes Drive, Charlotte, NC 28269",
+   "tags": {}
+  },
+  {
+   "id": "node/4812415582",
+   "name": "Brookdale Animal Hospital",
+   "lat": 35.2834919,
+   "lon": -80.6703715,
+   "distKm": 16.9,
+   "address": "13521 Plaza Road Extension, Charlotte, NC 28215",
+   "tags": {}
+  },
+  {
+   "id": "way/577920274",
+   "name": "UrgentVet Pet Clinic",
+   "lat": 35.2520482,
+   "lon": -81.0264478,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/14129173",
+   "name": "Catawba Heights Animal Hospital",
+   "lat": 35.2642035,
+   "lon": -81.0269167,
+   "distKm": 17.2,
+   "address": "407 Pearl Beatty Road, Belmont, NC 28012",
+   "tags": {
+    "website": "https://www.catawbaheightsanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-17:30"
+   }
+  },
+  {
+   "id": "node/11586004564",
+   "name": "UrgentVet Pet Clinic",
+   "lat": 35.0687048,
+   "lon": -80.8425827,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10095777159",
+   "name": "South Point Pet Hospital",
+   "lat": 35.2426652,
+   "lon": -81.0381179,
+   "distKm": 17.8,
+   "address": "3 North Main Street, Belmont, NC 28012",
+   "tags": {
+    "phone": "+1-704-825-7774",
+    "website": "https://southpointpethospital.com/"
+   }
+  },
+  {
+   "id": "node/6474231460",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.3164086,
+   "lon": -80.674072,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1937572975",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.1030854,
+   "lon": -80.9827383,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/926813967",
+   "name": "Mint Hill Animal Hospital",
+   "lat": 35.179705,
+   "lon": -80.6453625,
+   "distKm": 18.7,
+   "address": "8101 Fairview Road, Mint Hill, NC 28227",
+   "tags": {
+    "phone": "+1-704-545-3422",
+    "website": "https://minthillanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off"
+   }
+  }
+ ]
+}

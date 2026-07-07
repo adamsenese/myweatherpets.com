@@ -1,0 +1,314 @@
+{
+ "$schemaVersion": 1,
+ "city": "columbus",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:24:54.165Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 31,
+ "places": [
+  {
+   "id": "way/762705951",
+   "name": "Spring & Fourth Dog Park",
+   "lat": 39.9666359,
+   "lon": -82.9966317,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1266530197",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9590919,
+   "lon": -83.0116583,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/574825286",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9518149,
+   "lon": -83.0076489,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1395641329",
+   "name": "Scioto Audubon Dog Park",
+   "lat": 39.945002,
+   "lon": -83.0021019,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.metroparks.net/parks-and-trails/scioto-audubon/#pets"
+   }
+  },
+  {
+   "id": "way/1365840605",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.972421,
+   "lon": -83.0381903,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1498680005",
+   "name": "Bumble's Back Yard",
+   "lat": 39.9305384,
+   "lon": -83.0376909,
+   "distKm": 4.8,
+   "address": "5550 Brown Road, Columbus, OH 43223",
+   "tags": {
+    "access": "customers",
+    "website": "https://www.bumblesbackyard.com/"
+   }
+  },
+  {
+   "id": "way/1361781850",
+   "name": "Small Dog Park",
+   "lat": 40.0047667,
+   "lon": -83.089726,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1361781849",
+   "name": "Large Dog Park",
+   "lat": 40.0045528,
+   "lon": -83.0901515,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/568554812",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9030777,
+   "lon": -82.9196319,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/477103578",
+   "name": "Easton Pointe Dog Park",
+   "lat": 40.0255667,
+   "lon": -82.9207348,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/481694047",
+   "name": "Dog Park",
+   "lat": 40.0261756,
+   "lon": -82.9155033,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/738297791",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0561608,
+   "lon": -83.0475005,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/545286322",
+   "name": "Pizzurro Dog Park",
+   "lat": 39.996364,
+   "lon": -82.8593581,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1124492055",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8600507,
+   "lon": -82.8944566,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1258258694",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.91234,
+   "lon": -82.8410356,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/280409166",
+   "name": "Spindler Dog Park",
+   "lat": 39.9968539,
+   "lon": -83.1671156,
+   "distKm": 14.9,
+   "address": "2121 Spindler Road, Hilliard, 43026",
+   "tags": {
+    "website": "https://www.columbus.gov/ColumbusDogParks/"
+   }
+  },
+  {
+   "id": "way/1258792922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8403236,
+   "lon": -83.0762811,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1422201531",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9082337,
+   "lon": -82.8361826,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/383709197",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0573322,
+   "lon": -83.1276423,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1124493112",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8262844,
+   "lon": -82.9504572,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1124493113",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8259805,
+   "lon": -82.9473316,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/426429098",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0934189,
+   "lon": -83.0771471,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/666477951",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.063891,
+   "lon": -82.8599713,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/507624533",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0971746,
+   "lon": -83.0776901,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1516627387",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.066364,
+   "lon": -83.1407094,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/599025275",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.090404,
+   "lon": -82.8893903,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/545403485",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.1084469,
+   "lon": -82.9358182,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1490202781",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.1155161,
+   "lon": -83.0044567,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1259144552",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8709059,
+   "lon": -82.8327345,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1133889168",
+   "name": "Dog Park",
+   "lat": 39.8441551,
+   "lon": -82.8505119,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1119409881",
+   "name": "BrewDog Dog Park",
+   "lat": 39.8461553,
+   "lon": -82.8260813,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  }
+ ]
+}

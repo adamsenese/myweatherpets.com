@@ -1,0 +1,650 @@
+{
+ "$schemaVersion": 1,
+ "city": "denver",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:26:12.840Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/4270153672",
+   "name": "CityVet",
+   "lat": 39.7398731,
+   "lon": -104.9804171,
+   "distKm": 0.8,
+   "address": "520 East Colfax Avenue, Denver, CO 80203",
+   "tags": {}
+  },
+  {
+   "id": "node/13773020504",
+   "name": "GoodVets",
+   "lat": 39.7316777,
+   "lon": -104.9900745,
+   "distKm": 0.8,
+   "address": "180 West 10th Avenue, Denver, CO 80204",
+   "tags": {
+    "phone": "+1 303-348-9590",
+    "website": "https://goodvets.com/locations/denver/golden-triangle"
+   }
+  },
+  {
+   "id": "node/3504900774",
+   "name": "Downtown Animal Care Center",
+   "lat": 39.732825,
+   "lon": -104.996842,
+   "distKm": 0.9,
+   "address": "1041 Galapago Street, Denver, 80204",
+   "tags": {}
+  },
+  {
+   "id": "node/3511110822",
+   "name": "Center For Animal Wellness",
+   "lat": 39.7347902,
+   "lon": -104.9990167,
+   "distKm": 0.9,
+   "address": "1167 Santa Fe Drive, Denver, CO 80204",
+   "tags": {}
+  },
+  {
+   "id": "node/3499393276",
+   "name": "Maxfund Cat Adoption Center",
+   "lat": 39.7319082,
+   "lon": -104.9974603,
+   "distKm": 1,
+   "address": "720 West 10th Avenue, Denver, CO 80204",
+   "tags": {}
+  },
+  {
+   "id": "node/3504992548",
+   "name": "MaxFund Wellness Center",
+   "lat": 39.7322842,
+   "lon": -104.997459,
+   "distKm": 1,
+   "address": "1000 Inca Street, Denver, CO 80204",
+   "tags": {}
+  },
+  {
+   "id": "node/3377493539",
+   "name": "Urban Dogg",
+   "lat": 39.7463342,
+   "lon": -104.9789019,
+   "distKm": 1.3,
+   "address": "695 East 19th Avenue, Denver, CO 80203",
+   "tags": {}
+  },
+  {
+   "id": "node/3497402923",
+   "name": "Woof In Boots",
+   "lat": 39.729036,
+   "lon": -104.9969462,
+   "distKm": 1.3,
+   "address": "719 West 8th Avenue, Denver, CO 80204",
+   "tags": {}
+  },
+  {
+   "id": "node/3472234638",
+   "name": "VCA Firehouse Animal Hospital",
+   "lat": 39.7253048,
+   "lon": -104.9743622,
+   "distKm": 2.1,
+   "address": "1038 East 6th Avenue, Denver, CO 80218",
+   "tags": {}
+  },
+  {
+   "id": "node/3527190094",
+   "name": "City Bark Doggie Day Care",
+   "lat": 39.7291835,
+   "lon": -105.0113786,
+   "distKm": 2.1,
+   "address": "2000 West 8th Avenue, Denver, CO 80204",
+   "tags": {}
+  },
+  {
+   "id": "node/13179431798",
+   "name": "GoodVets",
+   "lat": 39.7608841,
+   "lon": -104.982705,
+   "distKm": 2.5,
+   "address": "2819 Larimer Street, Denver, CO 80205",
+   "tags": {}
+  },
+  {
+   "id": "node/7463372860",
+   "name": "WellHaven Pet Health",
+   "lat": 39.7652862,
+   "lon": -104.993394,
+   "distKm": 2.9,
+   "address": "3480 Park Avenue West, Denver, CO 80216",
+   "tags": {}
+  },
+  {
+   "id": "node/3311631055",
+   "name": "City Bark Doggie Day Care",
+   "lat": 39.7671616,
+   "lon": -104.9825187,
+   "distKm": 3.2,
+   "address": "3150 Brighton Boulevard, Denver, CO 80216",
+   "tags": {}
+  },
+  {
+   "id": "node/3898578056",
+   "name": "Urban Vet Care",
+   "lat": 39.7574696,
+   "lon": -105.0209151,
+   "distKm": 3.3,
+   "address": "2815 Clay Street, Denver, CO 80211",
+   "tags": {}
+  },
+  {
+   "id": "node/12881482001",
+   "name": "Washington Park Veterinary Clinic",
+   "lat": 39.7094202,
+   "lon": -104.9805784,
+   "distKm": 3.4,
+   "address": "395 South Pearl Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10920214812",
+   "name": "Sploot Veterinary Care - RiNo",
+   "lat": 39.7695094,
+   "lon": -104.973702,
+   "distKm": 3.7,
+   "address": "3767 Downing Street, Denver, CO 80205",
+   "tags": {
+    "phone": "+1 720-730-8861",
+    "website": "https://www.splootvets.com/locations/denver/rino",
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/4142685976",
+   "name": "Highlands Animal Clinic",
+   "lat": 39.7623322,
+   "lon": -105.0364702,
+   "distKm": 4.7,
+   "address": "3727 West 32nd Avenue, Denver, CO 80211",
+   "tags": {}
+  },
+  {
+   "id": "node/11975281194",
+   "name": "Sploot Veterinary Care - Platt Park",
+   "lat": 39.6951206,
+   "lon": -104.9877442,
+   "distKm": 4.9,
+   "address": "1165 South Broadway, Denver, CO 80210",
+   "tags": {
+    "phone": "+1 720-730-8818",
+    "website": "https://www.splootvets.com/locations/denver/platt-park",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/10984730491",
+   "name": "Veterinary Emergency Group",
+   "lat": 39.7478811,
+   "lon": -105.0563769,
+   "distKm": 5.7,
+   "address": "5485 West 20th Avenue, Edgewater, CO 80214",
+   "tags": {
+    "phone": "+1-720-996-1200",
+    "website": "https://veterinaryemergencygroup.com/locations/edgewater-co/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4740904374",
+   "name": "Corrie's Pet Grooming",
+   "lat": 39.7736364,
+   "lon": -105.0438852,
+   "distKm": 6,
+   "address": "4162 Tennyson Street, Denver, CO 80212",
+   "tags": {}
+  },
+  {
+   "id": "way/193622162",
+   "name": "Overland Animal Hospital",
+   "lat": 39.6889225,
+   "lon": -105.0193821,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/257034212",
+   "name": "VCA Aspenwood Animal Hospital",
+   "lat": 39.6931683,
+   "lon": -104.9401608,
+   "distKm": 6.7,
+   "address": "1290 South Colorado Boulevard, Denver, CO 80246",
+   "tags": {
+    "phone": "+1 303 757 5646",
+    "website": "https://vcahospitals.com/"
+   }
+  },
+  {
+   "id": "node/9314291291",
+   "name": "Pets on Broadway",
+   "lat": 39.6759929,
+   "lon": -104.9873618,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2847503733",
+   "name": "Park Hill Veterinary",
+   "lat": 39.7507498,
+   "lon": -104.908628,
+   "distKm": 7.1,
+   "address": "2255 Oneida Street, 80207",
+   "tags": {
+    "phone": "+1-303-388-2255",
+    "website": "https://parkhillvet.com/"
+   }
+  },
+  {
+   "id": "node/967329230",
+   "name": "29th Avenue Animal Hospital",
+   "lat": 39.7583809,
+   "lon": -104.9025979,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/337113453",
+   "name": "Vida Veterinary Care",
+   "lat": 39.6768639,
+   "lon": -104.9387681,
+   "distKm": 8.2,
+   "address": "4175 East Warren Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1-303-843-7222",
+    "website": "https://vidavetcare.com/"
+   }
+  },
+  {
+   "id": "way/276697269",
+   "name": "Rising Sun Animal Care",
+   "lat": 39.7233998,
+   "lon": -104.8952142,
+   "distKm": 8.3,
+   "address": "106 Spruce Street, CO 80230",
+   "tags": {
+    "phone": "+1-303-577-0195",
+    "website": "https://risingsunanimalcare.com/"
+   }
+  },
+  {
+   "id": "way/1122785899",
+   "name": "Evans East Animal Hospital",
+   "lat": 39.6782511,
+   "lon": -104.9244059,
+   "distKm": 8.8,
+   "address": "5470 East Evans Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1-303-757-7881",
+    "website": "https://evanseastvet.com/",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 10:00-20:00; Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "way/1122786729",
+   "name": "Denver Cat Hospital",
+   "lat": 39.6787261,
+   "lon": -104.9247986,
+   "distKm": 8.8,
+   "address": "5353 East Evans Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1-303-757-7892",
+    "website": "https://www.denvercatvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/11581286945",
+   "name": "Brentwood Animal Hospital",
+   "lat": 39.6639063,
+   "lon": -105.0248019,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.brentwoodah.com/"
+   }
+  },
+  {
+   "id": "node/12631370281",
+   "name": "The Feline Fix",
+   "lat": 39.8076799,
+   "lon": -104.929783,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/143367320",
+   "name": "Stockton Pet Hospital",
+   "lat": 39.6945641,
+   "lon": -105.0811948,
+   "distKm": 9.2,
+   "address": "1234 South Wadsworth Boulevard, Lakewood, CO 80226",
+   "tags": {
+    "website": "https://stocktonpethospital.com/",
+    "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 08:00-16:00; Sa 08:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/12453739607",
+   "name": "Sploot Veterinary Care - Central Park",
+   "lat": 39.7476569,
+   "lon": -104.8782353,
+   "distKm": 9.6,
+   "address": "2000 Chester Street, Aurora, CO 80010",
+   "tags": {
+    "phone": "+1-720-730-6559",
+    "website": "https://www.splootvets.com/locations/denver/central-park"
+   }
+  },
+  {
+   "id": "node/12557313207",
+   "name": "VRCC Veterinary Specialty & Emergency Hospital",
+   "lat": 39.6524738,
+   "lon": -104.9987394,
+   "distKm": 9.7,
+   "address": "3550 S Jason St, Englewood, CO 80110",
+   "tags": {
+    "phone": "+1-303-874-7387",
+    "website": "https://www.vrcc.com/site/home",
+    "opening_hours": "Mo-Fr 07:00-17:00"
+   }
+  },
+  {
+   "id": "way/283884778",
+   "name": "Hampden Family Pet Hospital",
+   "lat": 39.6523763,
+   "lon": -104.9825982,
+   "distKm": 9.7,
+   "address": "3540 South Logan Street, Englewood, CO 80113",
+   "tags": {}
+  },
+  {
+   "id": "node/12670296139",
+   "name": "4 Paws Animal Clinic",
+   "lat": 39.7412778,
+   "lon": -105.1070487,
+   "distKm": 10,
+   "address": "9797 West Colfax Avenue, Lakewood, CO 80215",
+   "tags": {
+    "phone": "+1-303-232-2023",
+    "website": "https://pet.ltheme.com/explore/4-paws-animal-clinic-lakewood/"
+   }
+  },
+  {
+   "id": "way/360817278",
+   "name": "Front Range Veterinary Clinic",
+   "lat": 39.7126385,
+   "lon": -105.1021307,
+   "distKm": 10,
+   "address": "207 South Garland Street, Lakewood, CO 80226",
+   "tags": {
+    "phone": "+1-303-233-6322",
+    "website": "https://www.frontrangevet.com/"
+   }
+  },
+  {
+   "id": "node/5689353546",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.6908269,
+   "lon": -104.8908983,
+   "distKm": 10.1,
+   "address": "1402 South Parker Road, Denver, CO 80231",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-17:00, Su closed"
+   }
+  },
+  {
+   "id": "node/5471098282",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.8293137,
+   "lon": -105.0268628,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12967378601",
+   "name": "Olde Town Vet Clinic",
+   "lat": 39.8022348,
+   "lon": -105.0834433,
+   "distKm": 10.6,
+   "address": "7709",
+   "tags": {}
+  },
+  {
+   "id": "way/488130560",
+   "name": "Red Rocks Animal Center",
+   "lat": 39.7264754,
+   "lon": -105.1145476,
+   "distKm": 10.7,
+   "address": "620 Miller Court, Lakewood, CO 80215",
+   "tags": {
+    "phone": "+1-303-987-2026",
+    "website": "https://redrocksanimal.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 10:00-14:00, Su closed"
+   }
+  },
+  {
+   "id": "relation/8920906",
+   "name": "Wheat Ridge Animal Hospital",
+   "lat": 39.7771089,
+   "lon": -105.111089,
+   "distKm": 11.2,
+   "address": "10140 West 44th Avenue, Wheat Ridge, CO 80033",
+   "tags": {
+    "phone": "+1-303-424-3325",
+    "website": "https://www.wheatridgeanimal.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/3426238126",
+   "name": "Aspen Commons Animal Hospital",
+   "lat": 39.6834719,
+   "lon": -104.88039,
+   "distKm": 11.3,
+   "address": "1842 South Parker Road, Denver, CO 80231",
+   "tags": {
+    "phone": "+1-303-368-4171",
+    "website": "https://aspencommonsvet.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00, Sa 07:30-12:00"
+   }
+  },
+  {
+   "id": "node/2789589821",
+   "name": "Veterinary Emergency Group",
+   "lat": 39.6535168,
+   "lon": -104.917136,
+   "distKm": 11.4,
+   "address": "6305 East Hampden Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1 720-739-6003",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/577862349",
+   "name": "Pets R Us",
+   "lat": 39.6969989,
+   "lon": -104.8638429,
+   "distKm": 11.8,
+   "address": "10695 East Mississippi Avenue, Aurora, CO 80012",
+   "tags": {
+    "phone": "+1-720-859-7788",
+    "website": "http://www.petsrusco.com"
+   }
+  },
+  {
+   "id": "node/2879321428",
+   "name": "Cherrelyn Animal Hospital",
+   "lat": 39.6317145,
+   "lon": -104.9874544,
+   "distKm": 12,
+   "address": "4690 South Broadway, 80113",
+   "tags": {
+    "phone": "+1-303-781-7841",
+    "website": "http://www.myvetonline.com/chanhs/general-information.html"
+   }
+  },
+  {
+   "id": "node/6281926371",
+   "name": "Thrive",
+   "lat": 39.692631,
+   "lon": -104.863328,
+   "distKm": 12,
+   "address": "1350 South Ironton Street, Aurora, CO 80012",
+   "tags": {
+    "phone": "+1-720-279-8328",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/12874626155",
+   "name": "The Vets Animal Hospital",
+   "lat": 39.8487732,
+   "lon": -104.992815,
+   "distKm": 12.2,
+   "address": "8395 Elati Street, Thornton, CO 80221",
+   "tags": {
+    "phone": "+1-303-429-6594",
+    "website": "https://hiddenbrookveterinary.com/office/the-vets-animal-hospital/"
+   }
+  },
+  {
+   "id": "way/192007005",
+   "name": "VCA Southeast Area Animal Hospital",
+   "lat": 39.6750359,
+   "lon": -104.8737154,
+   "distKm": 12.3,
+   "address": "9801 East Iliff Avenue, Denver, CO 80231",
+   "tags": {
+    "phone": "+1-303-751-4954",
+    "website": "http://www.vcasoutheastarea.com"
+   }
+  },
+  {
+   "id": "way/1080429706",
+   "name": "Adams County Animal Hospital",
+   "lat": 39.8423742,
+   "lon": -105.0528429,
+   "distKm": 12.7,
+   "address": "8020 Sheridan Boulevard, Westminster, CO 80003",
+   "tags": {}
+  },
+  {
+   "id": "way/48665707",
+   "name": "Kipling Veterinary Hospital",
+   "lat": 39.6799946,
+   "lon": -105.1195216,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/270504301",
+   "name": "Gentle Touch Animal Hospital",
+   "lat": 39.6539478,
+   "lon": -104.8827069,
+   "distKm": 13.2,
+   "address": "8941 East Hampden Avenue, Denver, CO 80231",
+   "tags": {
+    "phone": "+1-303-691-3720",
+    "website": "https://gentletouchanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/4831206492",
+   "name": "VCA Littleton Animal Hospital",
+   "lat": 39.6217995,
+   "lon": -105.01836,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-20:00, Sa 08:00-16:00, Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/9837508054",
+   "name": "covetrus",
+   "lat": 39.7636298,
+   "lon": -104.8314691,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7018285110",
+   "name": "Foothills Animal Hospital",
+   "lat": 39.6995023,
+   "lon": -105.1447111,
+   "distKm": 13.9,
+   "address": "13015 West Alameda Parkway, Lakewood, CO 80228",
+   "tags": {
+    "phone": "+1-303-988-0403",
+    "website": "https://foothillsanimalsco.com",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/9888880909",
+   "name": "Altos Veterinary Clinic",
+   "lat": 39.7135644,
+   "lon": -104.8276053,
+   "distKm": 14.2,
+   "address": "176 South Potomac Street, 80012",
+   "tags": {
+    "phone": "+1-303-343-8796",
+    "website": "https://www.altosveterinaryclinic.com/"
+   }
+  },
+  {
+   "id": "node/5029710195",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.7156168,
+   "lon": -104.8256822,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5866527049",
+   "name": "Arvada Animal Hospital",
+   "lat": 39.8010217,
+   "lon": -105.1384184,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11114944129",
+   "name": "Monarch Animal Health Center",
+   "lat": 39.8621788,
+   "lon": -105.0517836,
+   "distKm": 14.6,
+   "address": "5044 West 92nd Avenue, Westminster, CO 80031",
+   "tags": {}
+  },
+  {
+   "id": "node/5322867791",
+   "name": "Cherry Hills Animal Hospital",
+   "lat": 39.6083956,
+   "lon": -104.9575667,
+   "distKm": 14.8,
+   "address": "5910 South University Boulevard, Greenwood Village, CO 80121",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-13:00, Su closed"
+   }
+  }
+ ]
+}

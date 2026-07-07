@@ -1,0 +1,139 @@
+{
+ "$schemaVersion": 1,
+ "city": "louisville",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:28:07.719Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "relation/11256074",
+   "name": "Old Louisville Dog Run",
+   "lat": 38.2331519,
+   "lon": -85.7529101,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "http://louisvilledogs.netfirms.com/index.html"
+   }
+  },
+  {
+   "id": "way/329958865",
+   "name": "PG&J's Dog Park Bar",
+   "lat": 38.242968,
+   "lon": -85.7269709,
+   "distKm": 3,
+   "address": "800 Baxter Avenue, Louisville, KY 40204",
+   "tags": {
+    "dog": "yes",
+    "access": "customers",
+    "website": "https://www.pgjdogbar.com/"
+   }
+  },
+  {
+   "id": "way/669627862",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.2123303,
+   "lon": -85.7638015,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1484678405",
+   "name": "Champions Dog Run",
+   "lat": 38.273596,
+   "lon": -85.7025464,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469803309",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.3018253,
+   "lon": -85.7323124,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1423334076",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.3181328,
+   "lon": -85.7178255,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1329699328",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.2865469,
+   "lon": -85.5808088,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1333601232",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.3008432,
+   "lon": -85.5620371,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/258553847",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.3244023,
+   "lon": -85.571931,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/258553845",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.3254201,
+   "lon": -85.5616345,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/832921548",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.3322389,
+   "lon": -85.5614737,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1481205340",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.2268054,
+   "lon": -85.537163,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/827797445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.1674366,
+   "lon": -85.5597572,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

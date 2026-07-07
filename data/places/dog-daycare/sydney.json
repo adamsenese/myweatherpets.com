@@ -1,0 +1,118 @@
+{
+ "$schemaVersion": 1,
+ "city": "sydney",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:40:24.853Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "node/8393390981",
+   "name": "Centennial Bark",
+   "lat": -33.90003,
+   "lon": 151.2117594,
+   "distKm": 3.5,
+   "address": "5 Potter Street",
+   "tags": {
+    "phone": "+61 2 9029 6882",
+    "website": "https://www.centennialbark.com.au/",
+    "opening_hours": "Mo-Fr 07:30-18:30; Th 07:30-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11256516002",
+   "name": "Aeropets",
+   "lat": -33.9078773,
+   "lon": 151.1695942,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "website": "https://aeropets.com.au/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7615756230",
+   "name": "Happy Paws Pethouse",
+   "lat": -33.9201317,
+   "lon": 151.1855631,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1355174210",
+   "name": "Hanrob Pet Hotel",
+   "lat": -33.9414964,
+   "lon": 151.1911073,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6952930512",
+   "name": "Dog day Spa & day stay",
+   "lat": -33.75512,
+   "lon": 151.275005,
+   "distKm": 14,
+   "address": "72",
+   "tags": {
+    "phone": "+61 2 8068 8120",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13452088424",
+   "name": "Lovely Pets",
+   "lat": -33.9667509,
+   "lon": 151.0884379,
+   "distKm": 15.6,
+   "address": "13 The Strand, 2222",
+   "tags": {
+    "phone": "+61 2 9570 3233",
+    "website": "https://www.instagram.com/lovelypets_sydney/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2328759318",
+   "name": "Cosy Cattery",
+   "lat": -33.9054653,
+   "lon": 151.0359987,
+   "distKm": 16.5,
+   "address": "14 Rookwood Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1210898530",
+   "name": "Kurnell Boarding Stables and Riding School",
+   "lat": -34.023288,
+   "lon": 151.188764,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10285525601",
+   "name": "Canine Kindergarten",
+   "lat": -33.7092097,
+   "lon": 151.2952749,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.caninekindergarten.com.au/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

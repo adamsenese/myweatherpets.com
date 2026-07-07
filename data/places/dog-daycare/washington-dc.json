@@ -1,0 +1,244 @@
+{
+ "$schemaVersion": 1,
+ "city": "washington-dc",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:26:20.042Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 19,
+ "places": [
+  {
+   "id": "node/807741274",
+   "name": "Itty Bitty & Kitty City",
+   "lat": 38.9158704,
+   "lon": -77.041858,
+   "distKm": 1.1,
+   "address": "1904 18th Street Northwest, Washington, DC 20009-5540",
+   "tags": {
+    "phone": "+1-202-855-4800",
+    "website": "http://www.ittybittykittycity.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6152434045",
+   "name": "Dogtopia",
+   "lat": 38.9065437,
+   "lon": -77.0241373,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "phone": "+1 202 789-0870",
+    "website": "https://www.dogtopia.com/downtown-washington-dc/",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11234957470",
+   "name": "Doozydog! club",
+   "lat": 38.9202585,
+   "lon": -77.0316466,
+   "distKm": 1.5,
+   "address": "2301 14th Street Northwest",
+   "tags": {
+    "phone": "+1 202-986-7679",
+    "website": "https://www.doozydogclub.com/",
+    "opening_hours": "07:00-21:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/829736162",
+   "name": "Patrick's Pet Care",
+   "lat": 38.9309543,
+   "lon": -77.0278536,
+   "distKm": 2.8,
+   "address": "3303 11th Street Northwest",
+   "tags": {
+    "website": "https://patrickspetcare.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3819453366",
+   "name": "Playful Pack",
+   "lat": 38.8935647,
+   "lon": -77.0752574,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11877559281",
+   "name": "Atlas Doghouse",
+   "lat": 38.8794554,
+   "lon": -77.0083699,
+   "distKm": 4,
+   "address": "4 I Street Southeast, Washington, DC 20003",
+   "tags": {
+    "opening_hours": "off",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/775709513",
+   "name": "Atlas Doghouse",
+   "lat": 38.9000347,
+   "lon": -76.9859562,
+   "distKm": 4.5,
+   "address": "1375 H Street Northeast, 20002",
+   "tags": {
+    "phone": "+1-202-450-6259",
+    "website": "https://www.atlasdoghouse.com/pagedc",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-17:00; Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13414015552",
+   "name": "Dogtopia",
+   "lat": 38.8766955,
+   "lon": -76.9935407,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10955889716",
+   "name": "District Dogs",
+   "lat": 38.8889262,
+   "lon": -77.0921366,
+   "distKm": 5.2,
+   "address": "2820 North Wilson Boulevard",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10977777115",
+   "name": "District Dogs",
+   "lat": 38.8604849,
+   "lon": -77.0540364,
+   "distKm": 5.4,
+   "address": "1450 South Eads Street",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa-Su 09:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/809010394",
+   "name": "The Dog Coop",
+   "lat": 38.9574917,
+   "lon": -77.0835793,
+   "distKm": 6.9,
+   "address": "5205 Wisconsin Avenue Northwest",
+   "tags": {
+    "phone": "+1-202-506-3693",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7802068528",
+   "name": "The Dog Stay",
+   "lat": 38.9912969,
+   "lon": -77.0275843,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13151944470",
+   "name": "Dogtopia",
+   "lat": 38.8866096,
+   "lon": -77.1652388,
+   "distKm": 11.3,
+   "address": "108 West Jefferson Street, Falls Church, VA 22046",
+   "tags": {
+    "phone": "+1-571-356-9223",
+    "website": "https://www.dogtopia.com/falls-church/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9258773056",
+   "name": "Blue Dog Boarding and Daycare",
+   "lat": 39.0305319,
+   "lon": -77.0803996,
+   "distKm": 14.2,
+   "address": "4101 Howard Avenue, Kensington, MD 20895",
+   "tags": {
+    "phone": "+1-301-217-0010",
+    "website": "https://www.dogboarding.net/",
+    "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 09:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2422932816",
+   "name": "Columbia",
+   "lat": 38.833849,
+   "lon": -77.186774,
+   "distKm": 15.3,
+   "address": "Evergreen Lane, Annandale, 22003",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13956533879",
+   "name": "Pet Grand Hotel — Dog Resort & Daycare",
+   "lat": 38.8755706,
+   "lon": -77.212624,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6993983112",
+   "name": "Dogtopia",
+   "lat": 38.9300263,
+   "lon": -77.2366342,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10560157476",
+   "name": "Pup Scouts Boarding and Daycamp",
+   "lat": 39.0555164,
+   "lon": -77.1195126,
+   "distKm": 18,
+   "address": "12222 Rockville Pike",
+   "tags": {
+    "phone": "+1-833-772-6887",
+    "website": "https://pupscoutsbosrding.com",
+    "opening_hours": "24/7",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10965936918",
+   "name": "Canine Comforts",
+   "lat": 38.8798307,
+   "lon": -77.2642205,
+   "distKm": 19.9,
+   "address": "9220 Brian Drive, Vienna, VA 22180",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

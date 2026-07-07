@@ -1,0 +1,275 @@
+{
+ "$schemaVersion": 1,
+ "city": "tampa",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:30:52.590Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 25,
+ "places": [
+  {
+   "id": "node/1034672827",
+   "name": "Hyde Park Veterinary Clinic",
+   "lat": 27.9374785,
+   "lon": -82.4715167,
+   "distKm": 2,
+   "address": "1111 W Swann Ave, Tampa, FL 33606",
+   "tags": {
+    "website": "https://www.hydeparkvet.com/"
+   }
+  },
+  {
+   "id": "node/7185557318",
+   "name": "Davis Island Animal Clinic",
+   "lat": 27.926809,
+   "lon": -82.4532356,
+   "distKm": 2.7,
+   "address": "225 East Davis Boulevard, Tampa, FL 33606",
+   "tags": {
+    "phone": "+1-813-251-4384",
+    "website": "https://www.davisislandanimalclinic.com/",
+    "opening_hours": "Mo 08:00-12:00, 13:00-17:30; Tu 08:00-12:00, 13:00-17:00; We 08:00-12:00, 13:00-17:30; Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-17:30; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/296880712",
+   "name": "Humane Society Tampa Bay Animal Health Center",
+   "lat": 27.9729855,
+   "lon": -82.4844858,
+   "distKm": 3.7,
+   "address": "3809 North Armenia Avenue, Tampa, FL 33607",
+   "tags": {
+    "phone": "+1-813-870-3304",
+    "website": "https://humanesocietytampa.org/animalhealthcenter",
+    "opening_hours": "Mo 12:00-19:00; Tu-Su 08:30-15:00"
+   }
+  },
+  {
+   "id": "way/372265312",
+   "name": "Wellswood Midtown Animal Hospital",
+   "lat": 27.978073,
+   "lon": -82.4844485,
+   "distKm": 4.1,
+   "address": "4145 North Armenia Avenue, Tampa, FL 33607",
+   "tags": {
+    "phone": "+1-813-877-1979",
+    "website": "http://wellswoodah.com/",
+    "opening_hours": "Mo-We 08:00-18:00; Th 08:00-16:00; Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/11002406082",
+   "name": "Coastal Animal Clinic",
+   "lat": 27.9654412,
+   "lon": -82.5038068,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2136837022",
+   "name": "Beach Park Animal Clinic",
+   "lat": 27.945175,
+   "lon": -82.517697,
+   "distKm": 6,
+   "address": "4347 West Kennedy Boulevard, Tampa",
+   "tags": {}
+  },
+  {
+   "id": "way/211032893",
+   "name": "Gandy Animal Hospital",
+   "lat": 27.8931134,
+   "lon": -82.5256064,
+   "distKm": 9.3,
+   "address": "4714 Gandy Boulevard, Tampa",
+   "tags": {}
+  },
+  {
+   "id": "way/311061595",
+   "name": "BluePearl Veternary Partners",
+   "lat": 28.0354502,
+   "lon": -82.4920512,
+   "distKm": 10,
+   "address": "3000 Busch Lake Boulevard, Tampa, FL 33614",
+   "tags": {
+    "phone": "+1-813-933-8944",
+    "website": "https://bluepearlvet.com/florida",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/523042333",
+   "name": "Baycrest Animal Clinic",
+   "lat": 27.983771,
+   "lon": -82.567992,
+   "distKm": 11.5,
+   "address": "5819 Memorial Highway, Tampa, FL 33615",
+   "tags": {
+    "phone": "+1-813-886-9866",
+    "website": "https://www.baycrestanimalclinic.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/398374202",
+   "name": "Barsch Animal Clinic",
+   "lat": 28.0415962,
+   "lon": -82.5264545,
+   "distKm": 12.2,
+   "address": "9999 Plantation Boulevard, Tampa, FL 33624",
+   "tags": {
+    "phone": "+1-813-962-7117",
+    "website": "https://www.barschanimalclinic.com/",
+    "opening_hours": "Mo-Tu 08:30-17:00; Th-Fr 08:30-17:00; Sa 08:30-12:00"
+   }
+  },
+  {
+   "id": "node/6580014869",
+   "name": "Banfield Pet Hospital",
+   "lat": 28.0661031,
+   "lon": -82.5061394,
+   "distKm": 13.7,
+   "address": "13112 Dale Mabry Highway, Tampa, FL 33618",
+   "tags": {}
+  },
+  {
+   "id": "node/825342641",
+   "name": "Safari Animal Clinic",
+   "lat": 28.0548014,
+   "lon": -82.3791202,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1103200000",
+   "name": "North Bay Animal Hospital",
+   "lat": 28.0028144,
+   "lon": -82.5953626,
+   "distKm": 14.8,
+   "address": "9801 West Hillsborough Avenue, Tampa, FL",
+   "tags": {}
+  },
+  {
+   "id": "node/8713044760",
+   "name": "Banfield Pet Hospital",
+   "lat": 27.9358707,
+   "lon": -82.3008017,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9923076925",
+   "name": "BluePearl",
+   "lat": 27.9235542,
+   "lon": -82.2922112,
+   "distKm": 16.5,
+   "address": "West Lumsden Road, FL",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/7118280767",
+   "name": "Boyette Animal Hospital Well Pet Center",
+   "lat": 27.8558907,
+   "lon": -82.321905,
+   "distKm": 17,
+   "address": "Boyette Road, Riverview, FL 33569",
+   "tags": {}
+  },
+  {
+   "id": "node/9380996677",
+   "name": "Animal Clinic",
+   "lat": 28.0853968,
+   "lon": -82.5388626,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/263299507",
+   "name": "Boyette Animal Hospital",
+   "lat": 27.8560149,
+   "lon": -82.3210807,
+   "distKm": 17,
+   "address": "10931 Boyette Road, Riverview, FL 33569",
+   "tags": {
+    "phone": "+1-813-671-3400",
+    "website": "https://www.boyetteanimalhospital.com/",
+    "opening_hours": "Mo-Th 7:00-19:00; Fr 7:00-18:30; Sa 8:00-16:00"
+   }
+  },
+  {
+   "id": "node/7610517841",
+   "name": "Banfield Pet Hospital",
+   "lat": 28.0170443,
+   "lon": -82.6145799,
+   "distKm": 17.1,
+   "address": "11665 West Hillsborough Avenue, Tampa, FL 33635",
+   "tags": {}
+  },
+  {
+   "id": "way/466981710",
+   "name": "Meadowrun Animal Hospital",
+   "lat": 27.925605,
+   "lon": -82.2730761,
+   "distKm": 18.3,
+   "address": "804 Lithia Pinecrest Road, Valrico, FL 33547",
+   "tags": {}
+  },
+  {
+   "id": "node/2210282586",
+   "name": "Cat Hospital",
+   "lat": 27.867539,
+   "lon": -82.622259,
+   "distKm": 18.7,
+   "address": "Gandy Boulevard, Saint Petersburg",
+   "tags": {}
+  },
+  {
+   "id": "way/680645584",
+   "name": "Care Animal Hospital",
+   "lat": 27.8931976,
+   "lon": -82.2756809,
+   "distKm": 18.9,
+   "address": "511 East Bloomingdale Avenue, Brandon, FL 33511",
+   "tags": {
+    "phone": "+1-813-684-7387",
+    "website": "http://careanimalhospital.org/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "way/680663440",
+   "name": "Brandon Equine Medical Center",
+   "lat": 27.8920369,
+   "lon": -82.2751902,
+   "distKm": 19,
+   "address": "605 East Bloomingdale Avenue, Brandon, FL 33511",
+   "tags": {
+    "phone": "+1-813-643-7177",
+    "website": "https://www.brandonequine.com/"
+   }
+  },
+  {
+   "id": "node/9316602516",
+   "name": "Banfield Pet Hospital",
+   "lat": 27.893057,
+   "lon": -82.2713023,
+   "distKm": 19.4,
+   "address": "973 East Bloomingdale Avenue, Brandon, FL 33511",
+   "tags": {}
+  },
+  {
+   "id": "way/1099374223",
+   "name": "Banfield Pet Hospital",
+   "lat": 28.0289371,
+   "lon": -82.6384899,
+   "distKm": 19.8,
+   "address": "FL",
+   "tags": {}
+  }
+ ]
+}

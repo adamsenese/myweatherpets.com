@@ -1,0 +1,600 @@
+{
+ "$schemaVersion": 1,
+ "city": "buenos-aires",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:40:19.095Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/11895223015",
+   "name": "Sebastián",
+   "lat": -34.5994913,
+   "lon": -58.3783497,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5029112109",
+   "name": "TotalPet",
+   "lat": -34.5967788,
+   "lon": -58.3858189,
+   "distKm": 0.9,
+   "address": "1010 Talcahuano, Ciudad Autónoma de Buenos Aires, 1013",
+   "tags": {
+    "phone": "+54 11 4813-6190",
+    "website": "https://www.totalpet.com.ar/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/6424342960",
+   "name": "CE. DI. A. P. Veterinaria",
+   "lat": -34.6094931,
+   "lon": -58.3945656,
+   "distKm": 1.4,
+   "address": "1988 Avenida Rivadavia, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4951-8132",
+    "opening_hours": "Mo-Fr 09:00-14:00, 17:00-20:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/13540284176",
+   "name": "Blinka",
+   "lat": -34.6165556,
+   "lon": -58.3774889,
+   "distKm": 1.5,
+   "address": "832 Chile, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "opening_hours": "We-Mo 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/2734365468",
+   "name": "San Andrés",
+   "lat": -34.618478,
+   "lon": -58.3768653,
+   "distKm": 1.7,
+   "address": "769 Estados Unidos, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/6420721044",
+   "name": "Veterinaria S.I.P.P.A.",
+   "lat": -34.6169482,
+   "lon": -58.3921325,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12307338302",
+   "name": "Veterinaria",
+   "lat": -34.5897587,
+   "lon": -58.3941011,
+   "distKm": 1.9,
+   "address": "Avenida General Las Heras",
+   "tags": {}
+  },
+  {
+   "id": "node/2722470798",
+   "name": "Neko",
+   "lat": -34.6206536,
+   "lon": -58.3738773,
+   "distKm": 2,
+   "address": "577 Humberto I, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/12156266901",
+   "name": "Azcuenaga",
+   "lat": -34.5919667,
+   "lon": -58.3985746,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4673201423",
+   "name": "Veterinaria",
+   "lat": -34.6213975,
+   "lon": -58.3914058,
+   "distKm": 2.2,
+   "address": "Avenida Entre Ríos, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/2366188725",
+   "name": "Sebastián",
+   "lat": -34.5901839,
+   "lon": -58.4001527,
+   "distKm": 2.3,
+   "address": "1801 Avenida Pueyrredón, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4806-4758",
+    "website": "http://www.sebastianonline.com.ar"
+   }
+  },
+  {
+   "id": "node/12032084569",
+   "name": "Felina",
+   "lat": -34.5907138,
+   "lon": -58.4038779,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11988624669",
+   "name": "CV Paunero",
+   "lat": -34.5896757,
+   "lon": -58.4046533,
+   "distKm": 2.6,
+   "address": "1884 Agüero",
+   "tags": {}
+  },
+  {
+   "id": "node/13787354301",
+   "name": "de Melo",
+   "lat": -34.5863863,
+   "lon": -58.4021601,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4676832848",
+   "name": "Animal World",
+   "lat": -34.6013791,
+   "lon": -58.4129452,
+   "distKm": 2.9,
+   "address": "Lavalle, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/12628546701",
+   "name": "Stephanus",
+   "lat": -34.5869508,
+   "lon": -58.4059713,
+   "distKm": 2.9,
+   "address": "3032 French",
+   "tags": {}
+  },
+  {
+   "id": "node/4689892661",
+   "name": "Medical Vet",
+   "lat": -34.6074404,
+   "lon": -58.4140646,
+   "distKm": 3,
+   "address": "3362 Teniente General Juan Domingo Perón, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/2778811567",
+   "name": "Clínica La Unión",
+   "lat": -34.5944606,
+   "lon": -58.4134964,
+   "distKm": 3.1,
+   "address": "1334 Billinghurst, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/11445124809",
+   "name": "Mima2",
+   "lat": -34.6265126,
+   "lon": -58.4030334,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11945257845",
+   "name": "Casper",
+   "lat": -34.5831043,
+   "lon": -58.4067622,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2755584770",
+   "name": "Las Marías",
+   "lat": -34.5939291,
+   "lon": -58.4151733,
+   "distKm": 3.3,
+   "address": "3731 Avenida Honduras, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/2793443782",
+   "name": "Piscu",
+   "lat": -34.5977127,
+   "lon": -58.4165551,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3120471629",
+   "name": "Clínica Veterinaria Vidt",
+   "lat": -34.5907983,
+   "lon": -58.4157128,
+   "distKm": 3.4,
+   "address": "1774 Vidt, Ciudad Autónoma de Buenos Aires, 1425",
+   "tags": {}
+  },
+  {
+   "id": "node/8986876215",
+   "name": "Scooby-Doo!",
+   "lat": -34.6244142,
+   "lon": -58.4087934,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4675341605",
+   "name": "Faunatikos",
+   "lat": -34.5819636,
+   "lon": -58.413496,
+   "distKm": 3.8,
+   "address": "3858 Avenida General Las Heras, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/5777066353",
+   "name": "Veterinaria Salguero",
+   "lat": -34.5929116,
+   "lon": -58.4207051,
+   "distKm": 3.8,
+   "address": "1599 Francisco Acuña de Figueroa, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/11877011708",
+   "name": "Centro Médico Veterinario de Buenos Aires",
+   "lat": -34.6229342,
+   "lon": -58.4161597,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5029112110",
+   "name": "TotalPet",
+   "lat": -34.6034574,
+   "lon": -58.424318,
+   "distKm": 3.9,
+   "address": "676 Gascón, Ciudad Autónoma de Buenos Aires, 1181",
+   "tags": {
+    "phone": "+54 11 4861-1294",
+    "website": "https://www.totalpet.com.ar/",
+    "opening_hours": "Mo-Fr 09:00-20:30; Sa 09:30-15:00"
+   }
+  },
+  {
+   "id": "node/8260892562",
+   "name": "Rural Palermo",
+   "lat": -34.5881857,
+   "lon": -58.4205012,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5093760993",
+   "name": "Colitas Felices",
+   "lat": -34.5980119,
+   "lon": -58.4262063,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8638514098",
+   "name": "El Parque",
+   "lat": -34.6344577,
+   "lon": -58.4057905,
+   "distKm": 4.1,
+   "address": "1982 La Rioja, Ciudad Autónoma de Buenos Aires, 1244",
+   "tags": {}
+  },
+  {
+   "id": "node/4709263856",
+   "name": "Veterinaria Exóticos",
+   "lat": -34.5915721,
+   "lon": -58.4256209,
+   "distKm": 4.2,
+   "address": "Honduras, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/4708710968",
+   "name": "Del Parque",
+   "lat": -34.6150694,
+   "lon": -58.426957,
+   "distKm": 4.3,
+   "address": "Avenida Hipólito Yrigoyen, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/5029112108",
+   "name": "TotalPet",
+   "lat": -34.5852571,
+   "lon": -58.4236246,
+   "distKm": 4.4,
+   "address": "4424 Paraguay, Ciudad Autónoma de Buenos Aires, 1425",
+   "tags": {
+    "phone": "+54 11 4833-9636",
+    "website": "https://www.totalpet.com.ar/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/4591320998",
+   "name": "Veterinaria Eros",
+   "lat": -34.6306387,
+   "lon": -58.4189975,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4708681620",
+   "name": "McScota",
+   "lat": -34.6183675,
+   "lon": -58.4283344,
+   "distKm": 4.6,
+   "address": "Avenida La Plata, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/3733574039",
+   "name": "Clínica Veterinaria Argentina",
+   "lat": -34.6236684,
+   "lon": -58.4272929,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-13:00,16:00-20:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/4600750044",
+   "name": "Entre Rios",
+   "lat": -34.6356553,
+   "lon": -58.415993,
+   "distKm": 4.7,
+   "address": "Avenida Boedo, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/4709300992",
+   "name": "TotalPet",
+   "lat": -34.5963546,
+   "lon": -58.43357,
+   "distKm": 4.8,
+   "address": "800 Avenida Raúl Scalabrini Ortiz, Ciudad Autónoma de Buenos Aires, 1414",
+   "tags": {
+    "phone": "+54 11 4777-4981",
+    "website": "https://www.totalpet.com.ar/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/11453900317",
+   "name": "Clínica Veterinaria Barracas",
+   "lat": -34.646404,
+   "lon": -58.3734446,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "10:00-19:00"
+   }
+  },
+  {
+   "id": "node/12270111001",
+   "name": "Veterinaria Oro",
+   "lat": -34.5810114,
+   "lon": -58.4258277,
+   "distKm": 4.8,
+   "address": "Fray Justo Santa María de Oro",
+   "tags": {}
+  },
+  {
+   "id": "node/12344643302",
+   "name": "Clinica Veterinaria Cilap",
+   "lat": -34.6027331,
+   "lon": -58.4335934,
+   "distKm": 4.8,
+   "address": "Avenida Ángel Gallardo",
+   "tags": {}
+  },
+  {
+   "id": "node/3346043737",
+   "name": "San Lázaro",
+   "lat": -34.6250546,
+   "lon": -58.4302674,
+   "distKm": 5,
+   "address": "681 Doblas, Ciudad Autónoma de Buenos Aires, 1424",
+   "tags": {
+    "phone": "+54 11 4923-4342"
+   }
+  },
+  {
+   "id": "node/3346143698",
+   "name": "Del Sol",
+   "lat": -34.6254235,
+   "lon": -58.4288405,
+   "distKm": 5,
+   "address": "Avenida Pedro Goyena, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4345844990",
+   "name": "Staff Kennel",
+   "lat": -34.5917019,
+   "lon": -58.4345595,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4700029910",
+   "name": "Dr. Groppo",
+   "lat": -34.6105523,
+   "lon": -58.4392235,
+   "distKm": 5.3,
+   "address": "Avenida Acoyte, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/6732452650",
+   "name": "Baby's",
+   "lat": -34.6206773,
+   "lon": -58.4355615,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12366190202",
+   "name": "Veterinaria",
+   "lat": -34.5811629,
+   "lon": -58.4320824,
+   "distKm": 5.3,
+   "address": "Soler",
+   "tags": {}
+  },
+  {
+   "id": "node/5093761001",
+   "name": "Veterinaria Pacalú",
+   "lat": -34.5960546,
+   "lon": -58.4399714,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6728493872",
+   "name": "Guayaquil",
+   "lat": -34.6212725,
+   "lon": -58.4370434,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9731378632",
+   "name": "Pet's Shop",
+   "lat": -34.613065,
+   "lon": -58.4391783,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6688385733",
+   "name": "Veterinaria Honorio",
+   "lat": -34.6156128,
+   "lon": -58.440349,
+   "distKm": 5.5,
+   "address": "315 Avenida Doctor Honorio Pueyrredón, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 5263-8681",
+    "website": "https://www.veterinariahonorio.com.ar/",
+    "opening_hours": "Mo-Sa 09:00-23:30; Su 12:00-21:30"
+   }
+  },
+  {
+   "id": "node/4693721985",
+   "name": "Kimey",
+   "lat": -34.6084131,
+   "lon": -58.4421311,
+   "distKm": 5.6,
+   "address": "Avenida Díaz Vélez, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4983-0987"
+   }
+  },
+  {
+   "id": "node/4944505464",
+   "name": "Boery",
+   "lat": -34.5787813,
+   "lon": -58.4350102,
+   "distKm": 5.6,
+   "address": "5849 Soler, Ciudad Autónoma de Buenos Aires, 1425",
+   "tags": {
+    "phone": "+54 11 4771-3528",
+    "opening_hours": "Mo-Fr 10:00-13:30,16:00-20:30; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/12386736125",
+   "name": "Vilaplana Veterinaria",
+   "lat": -34.5803513,
+   "lon": -58.4356484,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4604819976",
+   "name": "Picky - Pet",
+   "lat": -34.6510337,
+   "lon": -58.4067905,
+   "distKm": 5.7,
+   "address": "Avenida Amancio Alcorta, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/8260892558",
+   "name": "Pinky",
+   "lat": -34.5738194,
+   "lon": -58.4325018,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4691240820",
+   "name": "Sweet Dog Style",
+   "lat": -34.6070086,
+   "lon": -58.4450157,
+   "distKm": 5.8,
+   "address": "Avenida Ángel Gallardo, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4854-1235"
+   }
+  },
+  {
+   "id": "node/4699795571",
+   "name": "Life",
+   "lat": -34.6077537,
+   "lon": -58.4445562,
+   "distKm": 5.8,
+   "address": "Avenida Díaz Vélez, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4958-5963"
+   }
+  },
+  {
+   "id": "node/8410207041",
+   "name": "Veterinaria karmin",
+   "lat": -34.5953678,
+   "lon": -58.4438264,
+   "distKm": 5.8,
+   "address": "5726 Av. Corrientes, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 48579111"
+   }
+  }
+ ]
+}

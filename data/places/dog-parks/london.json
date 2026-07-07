@@ -1,0 +1,619 @@
+{
+ "$schemaVersion": 1,
+ "city": "london",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:36:49.092Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12651935357",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4962521,
+   "lon": -0.1077223,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/937422473",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4921582,
+   "lon": -0.1119433,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1012051871",
+   "name": "St George's Square Dog Park",
+   "lat": 51.4861531,
+   "lon": -0.1341798,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/44425765",
+   "name": "Newington Gardens Dog Area",
+   "lat": 51.4984186,
+   "lon": -0.0952599,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/519423019",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4832517,
+   "lon": -0.1230185,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1170409070",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.485118,
+   "lon": -0.1075241,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1174405832",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4862196,
+   "lon": -0.0999499,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/461671433",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4819668,
+   "lon": -0.1102175,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/15867493",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4816715,
+   "lon": -0.1048377,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1504046850",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4785129,
+   "lon": -0.1455679,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3975318048",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5382575,
+   "lon": -0.1009815,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1213872971",
+   "name": "Myatt Fields Dog Park",
+   "lat": 51.47483,
+   "lon": -0.1033593,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "website": "https://www.myattsfieldspark.info"
+   }
+  },
+  {
+   "id": "way/1016900548",
+   "name": "Camden Square Dog Park",
+   "lat": 51.5445287,
+   "lon": -0.132353,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/386522107",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5180582,
+   "lon": -0.0695138,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1017960349",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5467295,
+   "lon": -0.1339172,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "surface": "dirt"
+   }
+  },
+  {
+   "id": "way/461364597",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.468329,
+   "lon": -0.1054285,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/246212265",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5297803,
+   "lon": -0.1889901,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/246212257",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5317381,
+   "lon": -0.190845,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/246212259",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5289108,
+   "lon": -0.1923034,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "hedge"
+   }
+  },
+  {
+   "id": "way/481676043",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4614697,
+   "lon": -0.1288553,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4883636477",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4856153,
+   "lon": -0.0560675,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/958881894",
+   "name": "Stepney Green Dog Exercise Area",
+   "lat": 51.5170964,
+   "lon": -0.0481538,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1192032708",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5169934,
+   "lon": -0.0465204,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1306557662",
+   "name": "Approach Dog Walking Area",
+   "lat": 51.5309471,
+   "lon": -0.0539099,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/164104027",
+   "name": "Gwendwr Gardens Dog Exercise Area",
+   "lat": 51.490959,
+   "lon": -0.2085846,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/433225932",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4625109,
+   "lon": -0.0817324,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/368754800",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5286001,
+   "lon": -0.2081871,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/435111494",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4743133,
+   "lon": -0.1961096,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/938083766",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5159851,
+   "lon": -0.041312,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1042567900",
+   "name": "The Dog Pond",
+   "lat": 51.5613301,
+   "lon": -0.1546874,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/26120045",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.495431,
+   "lon": -0.2176015,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/415304947",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4679962,
+   "lon": -0.1945871,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/613145907",
+   "name": "Ropemakers Dog Park",
+   "lat": 51.5102938,
+   "lon": -0.0337479,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/412801004",
+   "name": "Mile End Park Dog Agility Trail",
+   "lat": 51.5210454,
+   "lon": -0.0353173,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "website": "https://thelondog.com/dog-agility-trails-london/"
+   }
+  },
+  {
+   "id": "way/613145916",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5102339,
+   "lon": -0.0305601,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/26455153",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4467742,
+   "lon": -0.1216546,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1186562118",
+   "name": "Dog pool",
+   "lat": 51.5619864,
+   "lon": -0.1741956,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/793382939",
+   "name": "Birchfield Dog Walking Area 1",
+   "lat": 51.5099489,
+   "lon": -0.024911,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/827424511",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4964424,
+   "lon": -0.0266605,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1182311096",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.498886,
+   "lon": -0.0245413,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/781277183",
+   "name": "Bartlett Dog Park",
+   "lat": 51.5139762,
+   "lon": -0.0210813,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1181162534",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4963473,
+   "lon": -0.0204054,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/972924307",
+   "name": "Duff Street Dog Park",
+   "lat": 51.5112831,
+   "lon": -0.0174501,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1316520323",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5200952,
+   "lon": -0.2376301,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1097340974",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5141781,
+   "lon": -0.0160223,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/101695494",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4984494,
+   "lon": -0.2409675,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/399913451",
+   "name": "Storey House Green Dog Park",
+   "lat": 51.5100778,
+   "lon": -0.014409,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/676520710",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4938436,
+   "lon": -0.239242,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/788299903",
+   "name": "Newby Place Dog Park",
+   "lat": 51.5090285,
+   "lon": -0.0122469,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/540537747",
+   "name": "Mudchute Dog Park",
+   "lat": 51.4925988,
+   "lon": -0.0131013,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1185280225",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5128304,
+   "lon": -0.0093434,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1286367432",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5027732,
+   "lon": -0.248407,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/1142161025",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4889947,
+   "lon": 0.0031082,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/794539317",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5244065,
+   "lon": 0.0141515,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1364307974",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4674806,
+   "lon": 0.0273909,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1374460319",
+   "name": "Dogs Off Lead Area",
+   "lat": 51.5588012,
+   "lon": -0.277225,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/216426684",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5981749,
+   "lon": -0.0367712,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/11777761258",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.4135106,
+   "lon": -0.0406525,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/852414432",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.5595623,
+   "lon": -0.2814695,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/425700594",
+   "name": "Dog Off-Lead Area",
+   "lat": 51.594466,
+   "lon": -0.0195389,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

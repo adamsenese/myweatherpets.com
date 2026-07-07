@@ -1,0 +1,563 @@
+{
+ "$schemaVersion": 1,
+ "city": "rome",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:37:50.605Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 52,
+ "places": [
+  {
+   "id": "node/10936332985",
+   "name": "Veterinario",
+   "lat": 41.897375,
+   "lon": 12.4956035,
+   "distKm": 0.6,
+   "address": "118 Via di Santa Maria Maggiore, Roma, 00184",
+   "tags": {}
+  },
+  {
+   "id": "node/3661058221",
+   "name": "Dr. Fabrizio Ragazzini",
+   "lat": 41.9207636,
+   "lon": 12.5051488,
+   "distKm": 2.1,
+   "address": "27 Via Tronto, Roma, 00198",
+   "tags": {}
+  },
+  {
+   "id": "node/5431690568",
+   "name": "Ambulatorio Veterinario Piazza Bologna",
+   "lat": 41.9102198,
+   "lon": 12.5226185,
+   "distKm": 2.3,
+   "address": "36 via Berengario",
+   "tags": {
+    "phone": "+39 06 4423 3826",
+    "website": "https://www.veterinariopiazzabologna.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/610303277",
+   "name": "Ambulatorio Veterinario Ricciotti",
+   "lat": 41.9144893,
+   "lon": 12.4659055,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "phone": "+39 063214242",
+    "website": "https://www.ambulatorioveterinarioricciotti.it/",
+    "opening_hours": "Mo-Fr 10:30-19:00; Sa 10:30-13:30"
+   }
+  },
+  {
+   "id": "node/1544664323",
+   "name": "Dott. Amerio Croce",
+   "lat": 41.8861258,
+   "lon": 12.5218272,
+   "distKm": 2.8,
+   "address": "9 Via Alghero, 00182",
+   "tags": {
+    "phone": "+390670301455;+393289386010",
+    "website": "https://www.veterinariaroma.it/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/1431023958",
+   "name": "Ambulatorio Veterinario",
+   "lat": 41.8780567,
+   "lon": 12.4772161,
+   "distKm": 3.2,
+   "address": "39 Via Galvani, Roma",
+   "tags": {}
+  },
+  {
+   "id": "node/13380799760",
+   "name": "Ambulatorio Veterinario Gattamelata",
+   "lat": 41.8881511,
+   "lon": 12.536484,
+   "distKm": 3.7,
+   "address": "120 Via Erasmo Gattamelata",
+   "tags": {
+    "phone": "+39 347 291 9336",
+    "website": "https://www.veterinariopigneto.it"
+   }
+  },
+  {
+   "id": "node/610302267",
+   "name": "Veterinaria Clodio",
+   "lat": 41.9150782,
+   "lon": 12.4522949,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2401416525",
+   "name": "Dottor Alessandro Criniti",
+   "lat": 41.8682482,
+   "lon": 12.4901983,
+   "distKm": 3.9,
+   "address": "40 Piazza Giovanni da Verrazzano, 00154",
+   "tags": {}
+  },
+  {
+   "id": "node/2002702292",
+   "name": "Ambulatorio Veterinario Associato \"Villa Lazzaroni\"",
+   "lat": 41.8725044,
+   "lon": 12.5214513,
+   "distKm": 4,
+   "address": "60 Via Raffaele de Cesare, Roma, 00179",
+   "tags": {}
+  },
+  {
+   "id": "node/7077571910",
+   "name": "Ambulatorio veterinario",
+   "lat": 41.8773863,
+   "lon": 12.5314883,
+   "distKm": 4.1,
+   "address": "61 Via Norcia, Roma, 00181",
+   "tags": {}
+  },
+  {
+   "id": "node/7711341085",
+   "name": "Asta Onlus",
+   "lat": 41.9100664,
+   "lon": 12.546235,
+   "distKm": 4.2,
+   "address": "18 Via Sante Bargellini, 00156",
+   "tags": {
+    "phone": "+39 06 450 6162",
+    "website": "https://www.associazioneasta.com/",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/687703644",
+   "name": "Ambulatorio Veterinario",
+   "lat": 41.9065943,
+   "lon": 12.444424,
+   "distKm": 4.3,
+   "address": "41 Via Sebastiano Ziani, Roma",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-12:30,16:00-19:30; Sa 10:00-12:30"
+   }
+  },
+  {
+   "id": "node/7112114382",
+   "name": "Centro Veterinario Cristoforo Colombo",
+   "lat": 41.8629143,
+   "lon": 12.4983947,
+   "distKm": 4.4,
+   "address": "193/c Via Cristoforo Colombo, Roma, 00147",
+   "tags": {
+    "phone": "+39 06 5126609"
+   }
+  },
+  {
+   "id": "node/1392777317",
+   "name": "Clinica Veterinaria",
+   "lat": 41.9240537,
+   "lon": 12.4467675,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1428103906",
+   "name": "Veterinario",
+   "lat": 41.9204114,
+   "lon": 12.4448095,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2064641693",
+   "name": "Ambulatorio Veterinario",
+   "lat": 41.9146788,
+   "lon": 12.4412862,
+   "distKm": 4.7,
+   "address": "24 Via Filippo Nicolai, Roma, 00136",
+   "tags": {
+    "phone": "+39 06 35451332",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/7935036310",
+   "name": "Clinica veterinaria Destrero",
+   "lat": 41.877957,
+   "lon": 12.4498409,
+   "distKm": 4.7,
+   "address": "9 Via Filippo Bottazzi",
+   "tags": {
+    "phone": "+390653273186",
+    "opening_hours": "Mo-Fr 09:30-13:00, 16:00-19:30; Sa 09:30-13:00"
+   }
+  },
+  {
+   "id": "node/3678013714",
+   "name": "Diagnostica Veterinaria",
+   "lat": 41.9190981,
+   "lon": 12.4397212,
+   "distKm": 5,
+   "address": "120 Via Attilio Friggeri",
+   "tags": {}
+  },
+  {
+   "id": "node/7175230068",
+   "name": "Ambulatorio veterinario",
+   "lat": 41.9454207,
+   "lon": 12.5261858,
+   "distKm": 5.3,
+   "address": "17 Piazzale Jonio, Roma, 00141",
+   "tags": {}
+  },
+  {
+   "id": "node/2141301716",
+   "name": "Ambulatorio Veterinario",
+   "lat": 41.8559582,
+   "lon": 12.4813673,
+   "distKm": 5.4,
+   "address": "12/14 Via Settimio Severo, Roma, 00145",
+   "tags": {
+    "phone": "+39 06 5430608"
+   }
+  },
+  {
+   "id": "node/4477441733",
+   "name": "SOS veterinaria",
+   "lat": 41.8695528,
+   "lon": 12.4431257,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/218479300",
+   "name": "Zoospedale Flaminio",
+   "lat": 41.9546095,
+   "lon": 12.4791074,
+   "distKm": 5.9,
+   "address": "36 Via Bomarzo, Roma, 00191",
+   "tags": {
+    "phone": "+39 06 3330186",
+    "website": "http://www.zoospedaleflaminio.it/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/8833503090",
+   "name": "Ambulatorio Veterinario Associato Pineto",
+   "lat": 41.9235567,
+   "lon": 12.4261173,
+   "distKm": 6.3,
+   "address": "25,27 Via Vittorio Montiglio",
+   "tags": {
+    "phone": "+39 06 89235429",
+    "website": "https://www.ambulatorioveterinariopineto.it/",
+    "opening_hours": "Mo-Fr 10:00-13:00,16:30-19:30; Sa 10:00-12:00; PH off"
+   }
+  },
+  {
+   "id": "node/1819985170",
+   "name": "Ambulatorio Veterinario",
+   "lat": 41.8614361,
+   "lon": 12.4422455,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3006491898",
+   "name": "Dott. Ciotti",
+   "lat": 41.9567946,
+   "lon": 12.5233838,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5516736848",
+   "name": "Clinica Veterinaria Aniene",
+   "lat": 41.9125603,
+   "lon": 12.5737055,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4217006476",
+   "name": "G. Grossi",
+   "lat": 41.9514229,
+   "lon": 12.544085,
+   "distKm": 6.7,
+   "address": "39 Via Alfredo Panzini, Roma",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/7124114150",
+   "name": "Ambulatorio veterinario",
+   "lat": 41.9615069,
+   "lon": 12.513152,
+   "distKm": 6.7,
+   "address": "122 Via Gaspare Pacchiarotti, Roma, 00139",
+   "tags": {}
+  },
+  {
+   "id": "node/8978217175",
+   "name": "Ambulatorio Tre Fontane",
+   "lat": 41.837861,
+   "lon": 12.4871676,
+   "distKm": 7.3,
+   "address": "70 Via Andrea Solario, 00142",
+   "tags": {
+    "phone": "+39 06 5943123"
+   }
+  },
+  {
+   "id": "node/8662350491",
+   "name": "Clinica Veterinaria NSL",
+   "lat": 41.8543622,
+   "lon": 12.5588157,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9201854789",
+   "name": "Veterinaria Appia 24 Ore",
+   "lat": 41.8446316,
+   "lon": 12.5495813,
+   "distKm": 7.8,
+   "address": "13 Via al Quarto Miglio, Roma, 00178",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11591932241",
+   "name": "Dr Tullio De Rose",
+   "lat": 41.9043199,
+   "lon": 12.5928086,
+   "distKm": 8,
+   "address": "295 Via Collatina",
+   "tags": {}
+  },
+  {
+   "id": "node/13304592202",
+   "name": "Policlinico Veterinario Gregorio VII - Gruppo Ca' Zampa",
+   "lat": 41.874158,
+   "lon": 12.4028678,
+   "distKm": 8.4,
+   "address": "151 Via della Vignaccia, 00163",
+   "tags": {
+    "phone": "+39 06 66081",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11748892121",
+   "name": "Ambulatorio veterinario Spiezia",
+   "lat": 41.8496028,
+   "lon": 12.4215785,
+   "distKm": 8.6,
+   "address": "803 Via Portuense, Roma, 00148",
+   "tags": {
+    "phone": "+39 06 6591366",
+    "website": "https://www.veterinarioportuense.it/",
+    "opening_hours": "Mo-Fr 09:30-13:00, 16:00-19:30; Sa 09:30-13:00; PH off"
+   }
+  },
+  {
+   "id": "node/5669406024",
+   "name": "Ambulatorio veterinario",
+   "lat": 41.9810806,
+   "lon": 12.5131206,
+   "distKm": 8.8,
+   "address": "103 Via Rapagnano, Roma, 00138",
+   "tags": {
+    "phone": "+39 06 8805445"
+   }
+  },
+  {
+   "id": "node/13243107255",
+   "name": "Clinica veterinaria",
+   "lat": 41.9796417,
+   "lon": 12.5217459,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4946951459",
+   "name": "Ambulatorio Veterinario Dottor Vinicio Bonifazi",
+   "lat": 41.8506109,
+   "lon": 12.5899636,
+   "distKm": 9.7,
+   "address": "125 Via Pietro Marchisio, Roma, 00173",
+   "tags": {}
+  },
+  {
+   "id": "node/5028815021",
+   "name": "Villa Flaviana",
+   "lat": 41.8498884,
+   "lon": 12.5903724,
+   "distKm": 9.8,
+   "address": "97 Viale Antonio Ciamarra, 00173",
+   "tags": {
+    "phone": "+39 06 96040881"
+   }
+  },
+  {
+   "id": "node/12953675888",
+   "name": "Centro Veterinario Cecchignola",
+   "lat": 41.8147909,
+   "lon": 12.5080817,
+   "distKm": 9.8,
+   "address": "26 Via Abigaille Zanetta, 00143",
+   "tags": {
+    "phone": "+39 06 5195 8587",
+    "website": "https://centroveterinariocecchignola.com/",
+    "opening_hours": "Mo-Fr 08:45-13:00,16:00-20:00"
+   }
+  },
+  {
+   "id": "node/4712126503",
+   "name": "Ambulatorio Veterinario Labaro",
+   "lat": 41.9923872,
+   "lon": 12.4910446,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "phone": "+39 06 332 1246"
+   }
+  },
+  {
+   "id": "node/8668773302",
+   "name": "Arca",
+   "lat": 41.8578844,
+   "lon": 12.6020453,
+   "distKm": 10.1,
+   "address": "189 Via di Giardinetti, Roma, 00133",
+   "tags": {
+    "phone": "+39 06 64835082"
+   }
+  },
+  {
+   "id": "node/7625648493",
+   "name": "CVRS Policlinico Veterinario Roma Sud",
+   "lat": 41.8413024,
+   "lon": 12.5926117,
+   "distKm": 10.5,
+   "address": "24 Via Pilade Mazza, Roma, 00173",
+   "tags": {
+    "phone": "+39 06 7236171",
+    "website": "https://www.cvrs.it/"
+   }
+  },
+  {
+   "id": "node/3921102107",
+   "name": "Ambulatorio veterinario",
+   "lat": 41.9440578,
+   "lon": 12.626047,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4503079244",
+   "name": "Ospedale Veterinario Croce Azzurra",
+   "lat": 41.8082448,
+   "lon": 12.4329972,
+   "distKm": 11.8,
+   "address": "68 Piazzale Cina",
+   "tags": {
+    "website": "https://www.ospedalecroceazzurra.it/"
+   }
+  },
+  {
+   "id": "node/1507307309",
+   "name": "Ambulatorio Veterinario",
+   "lat": 41.910628,
+   "lon": 12.6539803,
+   "distKm": 13.1,
+   "address": "414 Viale Francesco Caltagirone",
+   "tags": {
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/326137582",
+   "name": "Clinica Veterinaria Bruxelles",
+   "lat": 41.8180823,
+   "lon": 12.6475851,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1772546503",
+   "name": "Omniavet 24h",
+   "lat": 41.7733596,
+   "lon": 12.3783396,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/5779783492",
+   "name": "ProVet",
+   "lat": 42.0348247,
+   "lon": 12.3776651,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7804299520",
+   "name": "Clinica veterinaria Volpini",
+   "lat": 42.0489671,
+   "lon": 12.3993568,
+   "distKm": 18.1,
+   "address": "5a Via di Santa Cornelia",
+   "tags": {
+    "phone": "+39069089356",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/2290913351",
+   "name": "Veterinario le Quercie",
+   "lat": 41.8010248,
+   "lon": 12.669332,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13619502085",
+   "name": "Ambulatorio veterinario Belli-Lisi",
+   "lat": 42.057957,
+   "lon": 12.6171956,
+   "distKm": 19.9,
+   "address": "10 Via San Martino, Monterotondo, 00015",
+   "tags": {
+    "phone": "+39 06 90622294",
+    "website": "https://www.veterinari-bellilisi.it",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-12:30; PH off"
+   }
+  }
+ ]
+}

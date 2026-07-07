@@ -1,0 +1,57 @@
+{
+ "$schemaVersion": 1,
+ "city": "columbus",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:24:54.165Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "node/9278794717",
+   "name": "Dogtopia",
+   "lat": 39.9575298,
+   "lon": -82.9887168,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/231225390",
+   "name": "Doggie Daycare Center",
+   "lat": 39.9557435,
+   "lon": -82.9883899,
+   "distKm": 1.1,
+   "address": "401 East Mound Street, Columbus, OH 43215",
+   "tags": {
+    "phone": "+1-614-221-2251",
+    "website": "https://www.doggiedaycarecolumbus.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1422183576",
+   "name": "PetSuites",
+   "lat": 39.877127,
+   "lon": -83.0308415,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7090592443",
+   "name": "Top Dog Daycare",
+   "lat": 40.1166237,
+   "lon": -83.0685155,
+   "distKm": 18.3,
+   "address": "1965 Hard Road, Columbus, OH 43235",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

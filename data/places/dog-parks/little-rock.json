@@ -1,0 +1,103 @@
+{
+ "$schemaVersion": 1,
+ "city": "little-rock",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:34:56.305Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 10,
+ "places": [
+  {
+   "id": "way/1349285988",
+   "name": "Bark Bar & Grill",
+   "lat": 34.7375378,
+   "lon": -92.2758707,
+   "distKm": 1.6,
+   "address": "1201 South Spring Street, Little Rock, AR 72202",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/544855630",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.7603006,
+   "lon": -92.2686378,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/486801933",
+   "name": "MacArthur Unleashed Dog Park",
+   "lat": 34.7350215,
+   "lon": -92.2646155,
+   "distKm": 2.6,
+   "address": "Pulaski County Lane, Little Rock, AR 72202",
+   "tags": {}
+  },
+  {
+   "id": "way/486814871",
+   "name": "Paws Park at Murray",
+   "lat": 34.7844075,
+   "lon": -92.334187,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1359892871",
+   "name": "Northshore Dog Park",
+   "lat": 34.7973114,
+   "lon": -92.3411602,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/486708709",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.8102884,
+   "lon": -92.2252945,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1324430580",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6630112,
+   "lon": -92.4113854,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/579481899",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.8060484,
+   "lon": -92.4739358,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/487087186",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.8531114,
+   "lon": -92.1304629,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1159790712",
+   "name": "Housing Dog Park",
+   "lat": 34.8904888,
+   "lon": -92.1636831,
+   "distKm": 19.7,
+   "address": "100 Iowa Circle, Jacksonville, AR 72099",
+   "tags": {}
+  }
+ ]
+}

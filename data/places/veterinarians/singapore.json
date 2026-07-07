@@ -1,0 +1,447 @@
+{
+ "$schemaVersion": 1,
+ "city": "singapore",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:23:49.943Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 42,
+ "places": [
+  {
+   "id": "node/4712879492",
+   "name": "Jireh Veterinary Clinic",
+   "lat": 1.3584068,
+   "lon": 103.827552,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9271015949",
+   "name": "Paws N' Claws Veterinary Surgery",
+   "lat": 1.3529042,
+   "lon": 103.8360994,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-16:00,19:00-23:00; Sa 09:00-14:00,19:00-23:00; Su 19:00-23:00; PH closed"
+   }
+  },
+  {
+   "id": "node/7302291271",
+   "name": "Mount Pleasant Vet Centre",
+   "lat": 1.3730962,
+   "lon": 103.8298535,
+   "distKm": 2.6,
+   "address": "2 Jalan Gelenggang",
+   "tags": {}
+  },
+  {
+   "id": "node/8362841946",
+   "name": "Veterinary Emergency & Specialty Hospital",
+   "lat": 1.3256945,
+   "lon": 103.8271086,
+   "distKm": 3,
+   "address": "232 Whitley Road, 297834",
+   "tags": {
+    "phone": "+65 6266 0232",
+    "website": "https://www.veshospital.com.sg/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/6499063741",
+   "name": "Nam Sang Veterinary Clinic",
+   "lat": 1.3260923,
+   "lon": 103.8436001,
+   "distKm": 3.9,
+   "address": "2 Balestier Road",
+   "tags": {
+    "phone": "+65 6258 8138",
+    "website": "https://www.namsangvetclinic.com/",
+    "opening_hours": "Mo 10:00-13:00; Tu 10:00-14:00,15:00-18:00; We 10:00-14:00,15:00-17:00; Th 10:00-14:00,15:00-18:00; Fr 10:00-14:00,15:00-17:00; Sa 10:00-14:00,15:00-18:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/7139419646",
+   "name": "Advanced Vetcare",
+   "lat": 1.3268965,
+   "lon": 103.8443108,
+   "distKm": 3.9,
+   "address": "564A Balestier Road",
+   "tags": {
+    "phone": "+65 6565 1788",
+    "website": "https://www.advancedvetcare.sg/",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/3686363748",
+   "name": "Namly Animal Clinic",
+   "lat": 1.3241004,
+   "lon": 103.7967301,
+   "distKm": 4,
+   "address": "74 Namly Place, Singapore, 267223",
+   "tags": {
+    "phone": "+65 6469 4744"
+   }
+  },
+  {
+   "id": "node/11090494213",
+   "name": "Jireh Veterinary Clinic",
+   "lat": 1.327088,
+   "lon": 103.8455364,
+   "distKm": 4,
+   "address": "530 Balestier Road",
+   "tags": {}
+  },
+  {
+   "id": "node/6340941510",
+   "name": "Animal Ark Veterinary Clinic",
+   "lat": 1.3361308,
+   "lon": 103.7868529,
+   "distKm": 4.1,
+   "address": "11 Binjai Park",
+   "tags": {
+    "website": "https://www.arkvet.com.sg/"
+   }
+  },
+  {
+   "id": "node/12167974650",
+   "name": "Pets Avenue Veterinary Clinic",
+   "lat": 1.3164379,
+   "lon": 103.8054801,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-12:00,14:30-16:30,18:00-20:30"
+   }
+  },
+  {
+   "id": "node/8972109602",
+   "name": "Companion Animal Surgery",
+   "lat": 1.326221,
+   "lon": 103.8496302,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4740108446",
+   "name": "Animal Infirmary",
+   "lat": 1.3169625,
+   "lon": 103.8447166,
+   "distKm": 4.8,
+   "address": "Thomson Road",
+   "tags": {}
+  },
+  {
+   "id": "node/6652998951",
+   "name": "Visiting Vets Clinic",
+   "lat": 1.3084022,
+   "lon": 103.8190198,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6829867460",
+   "name": "The Visiting Vets Clinic",
+   "lat": 1.3083743,
+   "lon": 103.8190185,
+   "distKm": 4.9,
+   "address": "#01-09 9 Taman Serasi",
+   "tags": {
+    "phone": "+65 6475 3405",
+    "website": "https://thevisitingvets.com.sg/",
+    "opening_hours": "Mo-Sa 10:00-12:00; Mo-Th, Sa 14:00-19:00"
+   }
+  },
+  {
+   "id": "node/7302310342",
+   "name": "Pets Avenue",
+   "lat": 1.3404647,
+   "lon": 103.7743222,
+   "distKm": 5.2,
+   "address": "50 Jalan Jurong Kechil, 598578",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-12:30, 14:00-17:00, 18:00-21:30; Sa, Su 09:00-12:30, 14:00-17:00"
+   }
+  },
+  {
+   "id": "way/327193351",
+   "name": "Brighton Vet",
+   "lat": 1.3642405,
+   "lon": 103.8652321,
+   "distKm": 5.2,
+   "address": "74 Serangoon Garden Way",
+   "tags": {}
+  },
+  {
+   "id": "way/327193363",
+   "name": "Westside Emergency Vet",
+   "lat": 1.3644234,
+   "lon": 103.8648913,
+   "distKm": 5.2,
+   "address": "86 Serangoon Garden Way",
+   "tags": {}
+  },
+  {
+   "id": "way/327193364",
+   "name": "Westside Emergency",
+   "lat": 1.3644045,
+   "lon": 103.8649325,
+   "distKm": 5.2,
+   "address": "86 Serangoon Garden Way, Singapore, 555982",
+   "tags": {
+    "website": "https://www.westsideemergency.com.sg/"
+   }
+  },
+  {
+   "id": "node/12441359991",
+   "name": "Vet Practice",
+   "lat": 1.3408408,
+   "lon": 103.7730823,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10991987489",
+   "name": "Gaia Vets",
+   "lat": 1.3166204,
+   "lon": 103.7829365,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3805376148",
+   "name": "Gentle Oak Veterinary Clinic",
+   "lat": 1.3104517,
+   "lon": 103.7890583,
+   "distKm": 5.8,
+   "address": "#01-225, Block 21 Ghim Moh Road, Singapore, 270021",
+   "tags": {
+    "phone": "+65 6250 8001",
+    "website": "https://gentleoakvet.com.sg/"
+   }
+  },
+  {
+   "id": "node/11834966925",
+   "name": "Pet Space",
+   "lat": 1.3137803,
+   "lon": 103.8571485,
+   "distKm": 5.9,
+   "address": "482 Serangoon Road",
+   "tags": {}
+  },
+  {
+   "id": "node/12231269752",
+   "name": "RehabVet",
+   "lat": 1.3146063,
+   "lon": 103.8575149,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3306882408",
+   "name": "The Animal Clinic Pte Ltd",
+   "lat": 1.3222257,
+   "lon": 103.7707695,
+   "distKm": 6.4,
+   "address": "01-17/19 109 Clementi Street 11, Singapore, 120109",
+   "tags": {
+    "phone": "+65 67763450",
+    "website": "http://https://www.animalclinic.com.sg",
+    "opening_hours": "Mo,We,Fr 09:00-12:00,14:00-17:00,18:00-20:30; Tu,Th 09:00-13:00,14:00-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/3790575566",
+   "name": "Mount Pleasant Animal Medical Centre (Clementi)",
+   "lat": 1.3227493,
+   "lon": 103.7697051,
+   "distKm": 6.5,
+   "address": "#01-18/20, Sunset Way, Block 105 Clementi Street 12, Singapore, 120105",
+   "tags": {
+    "phone": "+65 6776 8858"
+   }
+  },
+  {
+   "id": "node/9882287718",
+   "name": "Barkway Pet Health",
+   "lat": 1.3298054,
+   "lon": 103.8739602,
+   "distKm": 6.5,
+   "address": "169 MacPherson Road, Singapore, 348535",
+   "tags": {
+    "opening_hours": "Mo-Su 09:30-12:30,14:00-16:30,18:00-20:00"
+   }
+  },
+  {
+   "id": "node/13833695301",
+   "name": "Apex Veterinary Clinic",
+   "lat": 1.2937931,
+   "lon": 103.8266581,
+   "distKm": 6.5,
+   "address": "462 River Valley Road, 248347",
+   "tags": {}
+  },
+  {
+   "id": "node/9621246496",
+   "name": "Animal Infirmary",
+   "lat": 1.3112177,
+   "lon": 103.8628075,
+   "distKm": 6.6,
+   "address": "112 Lavender Street",
+   "tags": {}
+  },
+  {
+   "id": "node/12005122423",
+   "name": "Kin Veterinary Clinic",
+   "lat": 1.3725808,
+   "lon": 103.7632833,
+   "distKm": 6.7,
+   "address": "780 Upper Bukit Timah Road, 678125",
+   "tags": {
+    "phone": "+65 6908 2980",
+    "website": "https://www.kinvet.sg/",
+    "opening_hours": "Mo-Fr 09:30-20:30; Sa-Su 09:30-17:30; PH off"
+   }
+  },
+  {
+   "id": "node/12475644783",
+   "name": "My Family Vet",
+   "lat": 1.3499475,
+   "lon": 103.759933,
+   "distKm": 6.7,
+   "address": "265 Bukit Batok East Avenue 4, Singapore, 650265",
+   "tags": {
+    "phone": "+6581026966",
+    "website": "https://myfamilyvetclinicandsurgery.com/",
+    "opening_hours": "Mo,Tu-Fr 11:00-21:00; Sa-Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/6405142319",
+   "name": "The Animal Doctors",
+   "lat": 1.2860961,
+   "lon": 103.8290166,
+   "distKm": 7.4,
+   "address": "11a Boon Tiong Road, Singapore, 161011",
+   "tags": {}
+  },
+  {
+   "id": "node/8578225061",
+   "name": "Stars Veterinary Clinic @ HG 21",
+   "lat": 1.3596274,
+   "lon": 103.887703,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8548350138",
+   "name": "Sunshine Vet Care",
+   "lat": 1.3727156,
+   "lon": 103.8858956,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4747751570",
+   "name": "The Paw House",
+   "lat": 1.3083229,
+   "lon": 103.762161,
+   "distKm": 8,
+   "address": "Taman Mas Merah",
+   "tags": {}
+  },
+  {
+   "id": "node/4704669692",
+   "name": "AAVC - Animals & Avian Veterinary Clinic",
+   "lat": 1.4266033,
+   "lon": 103.8274686,
+   "distKm": 8.3,
+   "address": "Blk 716, Yishun Street 71, #01-254, 760716",
+   "tags": {
+    "phone": "+65 6853 9397",
+    "website": "https://aavcsingapore.webs.com/"
+   }
+  },
+  {
+   "id": "node/9025813290",
+   "name": "Vet Affinity",
+   "lat": 1.3488734,
+   "lon": 103.7440458,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12348356530",
+   "name": "Beecroft Animal Specialist & Emergency Clinic",
+   "lat": 1.2732589,
+   "lon": 103.8026224,
+   "distKm": 9,
+   "address": "991E Alexandra Road, Singapore, 119973",
+   "tags": {
+    "phone": "+65 6996 1812",
+    "website": "https://beecroft.com.sg",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13620474199",
+   "name": "Island Veterinary Clinic",
+   "lat": 1.3391465,
+   "lon": 103.7345444,
+   "distKm": 9.6,
+   "address": "114 Jurong East Street 13, Singapore, 600114",
+   "tags": {}
+  },
+  {
+   "id": "node/8581504972",
+   "name": "Light of Life Veterinary Clinic",
+   "lat": 1.3371626,
+   "lon": 103.9199489,
+   "distKm": 11.3,
+   "address": "Blk 703 #01-3508 Bedok Reservoir Road, Singapore, 470703",
+   "tags": {}
+  },
+  {
+   "id": "node/9959126773",
+   "name": "Apex Veterinary Clinic",
+   "lat": 1.4179551,
+   "lon": 103.9013663,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4687316802",
+   "name": "Frankel Veterinary Centre",
+   "lat": 1.3145828,
+   "lon": 103.9193821,
+   "distKm": 11.8,
+   "address": "101 Frankel Avenue, Singapore, 458224",
+   "tags": {
+    "phone": "+65 68761212",
+    "website": "https://frankelvet.com.sg/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/4686080089",
+   "name": "Amber Vet",
+   "lat": 1.3127237,
+   "lon": 103.9226819,
+   "distKm": 12.2,
+   "address": "Burnfoot Terrace",
+   "tags": {}
+  }
+ ]
+}

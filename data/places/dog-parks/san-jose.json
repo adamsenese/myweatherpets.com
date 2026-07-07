@@ -1,0 +1,488 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-jose",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:32:54.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 50,
+ "places": [
+  {
+   "id": "way/619896347",
+   "name": "Saint James Dog Park",
+   "lat": 37.3391302,
+   "lon": -121.8905438,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/496389989",
+   "name": "Hart’s Dog Park",
+   "lat": 37.3344393,
+   "lon": -121.8934129,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/158755827",
+   "name": "Ryland Dog Park",
+   "lat": 37.3419056,
+   "lon": -121.8982138,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1043526459",
+   "name": "SoFA Pocket Park",
+   "lat": 37.3280239,
+   "lon": -121.8841216,
+   "distKm": 1.1,
+   "address": "540 South 1st Street, San Jose, 95112",
+   "tags": {}
+  },
+  {
+   "id": "way/358551010",
+   "name": "Discovery Dog Park",
+   "lat": 37.3283821,
+   "lon": -121.8958374,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1514009067",
+   "name": "RFRD Canine Recreation Center",
+   "lat": 37.3302676,
+   "lon": -121.8997003,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.rfrdacademy.com/book-online"
+   }
+  },
+  {
+   "id": "way/645479375",
+   "name": "Olinder Dog Park",
+   "lat": 37.3317982,
+   "lon": -121.8659928,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/739453276",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3554644,
+   "lon": -121.8924803,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/664207045",
+   "name": "808 West Pupvana Dog Park",
+   "lat": 37.3226146,
+   "lon": -121.9049083,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/417072061",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3203538,
+   "lon": -121.9039118,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/25966875",
+   "name": "Watson Dog Park",
+   "lat": 37.3596669,
+   "lon": -121.8751343,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/618750881",
+   "name": "The Standard Apartments' Dog Park",
+   "lat": 37.3200017,
+   "lon": -121.9096803,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1449487518",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3699773,
+   "lon": -121.8836085,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/880066677",
+   "name": "Pulte Dog Park",
+   "lat": 37.3724984,
+   "lon": -121.849864,
+   "distKm": 5,
+   "address": "Yogi Court, San Jose, CA 95133",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/927361838",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3548115,
+   "lon": -121.9438952,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1447035418",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3005398,
+   "lon": -121.9293378,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/42390448",
+   "name": "Raymond G. Gamma Reed Street Dog Park",
+   "lat": 37.3587063,
+   "lon": -121.9471747,
+   "distKm": 5.8,
+   "address": "888 Reed Street, Santa Clara, CA 95050",
+   "tags": {
+    "website": "http://santaclaraca.gov/index.aspx?page=2654&recordid=296"
+   }
+  },
+  {
+   "id": "way/1465215647",
+   "name": "Piedmont Road Dog Park",
+   "lat": 37.3915382,
+   "lon": -121.843666,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4221076410",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4003115,
+   "lon": -121.9199941,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1207853946",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3636314,
+   "lon": -121.9683511,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1445634494",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4076027,
+   "lon": -121.8980497,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/32823675",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.2879492,
+   "lon": -121.8102552,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/781449829",
+   "name": "Roy M. Butcher Dog Park",
+   "lat": 37.2600034,
+   "lon": -121.9171199,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/545793433",
+   "name": "Ames Humane Society Dog Park",
+   "lat": 37.4210304,
+   "lon": -121.8869823,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2117396131",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.271613,
+   "lon": -121.949287,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/670143837",
+   "name": "Los Gatos Creek County Dog Park (large)",
+   "lat": 37.2718409,
+   "lon": -121.949483,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/670143838",
+   "name": "Los Gatos Creek County Dog Park (small)",
+   "lat": 37.2718051,
+   "lon": -121.9493207,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12030201251",
+   "name": "Nuevo Community Dog Park (Large Dogs)",
+   "lat": 37.3768304,
+   "lon": -121.9937976,
+   "distKm": 10.4,
+   "address": "3000 Ryder Street, Santa Clara, CA 95050",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.santaclaraca.gov/Home/Components/FacilityDirectory/FacilityDirectory/165/15258?selamenityid=10",
+    "opening_hours": "Mo-Su 07:00-(sunset+00:30); Tu 12:00-(sunset+00:30)"
+   }
+  },
+  {
+   "id": "node/12030201252",
+   "name": "Nuevo Community Dog Park (Small Dogs)",
+   "lat": 37.377252,
+   "lon": -121.9937907,
+   "distKm": 10.4,
+   "address": "3000 Ryder Street, Santa Clara, CA 95050",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.santaclaraca.gov/Home/Components/FacilityDirectory/FacilityDirectory/165/15258?selamenityid=10",
+    "opening_hours": "Mu-Su 07:00-(sunset+00:30); Tu 12:00-(sunset+00:30)"
+   }
+  },
+  {
+   "id": "way/527654156",
+   "name": "Saratoga Creek Dog Park",
+   "lat": 37.2958489,
+   "lon": -121.9969387,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1289565687",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3871046,
+   "lon": -121.9991726,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/91270187",
+   "name": "Jeffrey Fontana Dog Park",
+   "lat": 37.2326728,
+   "lon": -121.8798514,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/823269840",
+   "name": "Sandalwood Dog Park",
+   "lat": 37.3734458,
+   "lon": -122.0174,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/995577016",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4091535,
+   "lon": -121.9962542,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1348161531",
+   "name": "Fair Oaks Dog Park",
+   "lat": 37.3845187,
+   "lon": -122.0152125,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/544702367",
+   "name": "Algonquin Dog Park",
+   "lat": 37.2711466,
+   "lon": -121.7671856,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1442225458",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3981664,
+   "lon": -122.0166653,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/197883812",
+   "name": "City of Milpitas Dog Park",
+   "lat": 37.4572128,
+   "lon": -121.8629933,
+   "distKm": 13.4,
+   "address": "Tularcitos Trail, Milpitas, CA 95035",
+   "tags": {}
+  },
+  {
+   "id": "way/36925620",
+   "name": "Raleigh Dog Park",
+   "lat": 37.2413004,
+   "lon": -121.7942011,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/26274198",
+   "name": "Miyuki Dog Park",
+   "lat": 37.239717,
+   "lon": -121.7937635,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/132686101",
+   "name": "Las Palmas Dog Park",
+   "lat": 37.3648285,
+   "lon": -122.0371897,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1408931453",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.2417845,
+   "lon": -121.7904491,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/514077542",
+   "name": "Mary Avenue Dog Park",
+   "lat": 37.3275421,
+   "lon": -122.0508624,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1289255631",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3930714,
+   "lon": -122.0559562,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1216768251",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4100525,
+   "lon": -122.0614241,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/551399620",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3714341,
+   "lon": -122.0813103,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1313903814",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4018269,
+   "lon": -122.0748247,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1418835655",
+   "name": "McKenzie Dog Park",
+   "lat": 37.3586768,
+   "lon": -122.0946934,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/264423564",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4283276,
+   "lon": -122.0772168,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/921897508",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.3987019,
+   "lon": -122.0962286,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

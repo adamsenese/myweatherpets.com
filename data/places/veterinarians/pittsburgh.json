@@ -1,0 +1,357 @@
+{
+ "$schemaVersion": 1,
+ "city": "pittsburgh",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:32:16.503Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 32,
+ "places": [
+  {
+   "id": "node/13186201312",
+   "name": "PetVet365",
+   "lat": 40.4514407,
+   "lon": -79.9855501,
+   "distKm": 1.5,
+   "address": "1821 Smallman Street, Pittsburgh, PA 15201",
+   "tags": {
+    "phone": "+1-724-221-7414",
+    "website": "https://www.petvet365.com/locations/the-terminal"
+   }
+  },
+  {
+   "id": "way/646450493",
+   "name": "Penn Animal Hospital",
+   "lat": 40.4525396,
+   "lon": -79.9822796,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/837921408",
+   "name": "City Vets",
+   "lat": 40.4290405,
+   "lon": -79.9727535,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/400072676",
+   "name": "Edgebrook Veterinary Clinic",
+   "lat": 40.4018888,
+   "lon": -80.0002025,
+   "distKm": 4.3,
+   "address": "1405 Saw Mill Run Boulevard, Pittsburgh, PA 15226",
+   "tags": {
+    "phone": "+1 412 621 2369"
+   }
+  },
+  {
+   "id": "node/11057760380",
+   "name": "Pet Vet 365",
+   "lat": 40.4570735,
+   "lon": -79.9401957,
+   "distKm": 5.1,
+   "address": "5247 Liberty Avenue, Pittsburgh, PA 15224",
+   "tags": {
+    "phone": "+1 412 912 8920",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa-Su 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/5145968323",
+   "name": "The Big Easy Animal Hospital",
+   "lat": 40.4835312,
+   "lon": -79.9555568,
+   "distKm": 5.9,
+   "address": "12 McCandless Avenue, Pittsburgh, PA 15201",
+   "tags": {
+    "phone": "+1-412-908-9301",
+    "website": "https://www.tbeah.com/",
+    "opening_hours": "Mo-Th 9:00-12:00, Mo-Th 14:00-19:00, Fr 9:00-12:00, Fr 14:00-18:00, Sa 9:00-12:00"
+   }
+  },
+  {
+   "id": "way/545289347",
+   "name": "East End Veterinary Medical Centre",
+   "lat": 40.4578242,
+   "lon": -79.9286283,
+   "distKm": 6,
+   "address": "5875 Ellsworth Avenue, Pittsburgh, PA 15232",
+   "tags": {
+    "phone": "+1 412 361 5000",
+    "website": "https://eevmc.com/",
+    "opening_hours": "Mo 09:00-17:00; Tu-Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-12:00; Su off; Tu 12:30-13:00 off"
+   }
+  },
+  {
+   "id": "way/554965746",
+   "name": "West Liberty Animal Hospital",
+   "lat": 40.3918435,
+   "lon": -80.0377656,
+   "distKm": 6.5,
+   "address": "3055 West Liberty Avenue, Pittsburgh, PA 15216",
+   "tags": {
+    "phone": "+1-412-341-3383"
+   }
+  },
+  {
+   "id": "way/562841154",
+   "name": "Rivers Veterinary Urgent Care",
+   "lat": 40.3834985,
+   "lon": -80.0196845,
+   "distKm": 6.7,
+   "address": "560 McNeilly Road, Pittsburgh, PA 15226",
+   "tags": {
+    "website": "https://www.riversvet.com/",
+    "opening_hours": "Mo-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/9453329831",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.4585367,
+   "lon": -79.9171097,
+   "distKm": 7,
+   "address": "6401 Penn Avenue, Pittsburgh, PA 15206",
+   "tags": {
+    "phone": "+1-412-362-0534",
+    "website": "https://www.banfield.com/locations/veterinarians/pa/pittsburgh/ely",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/368376602",
+   "name": "North Boros Veterinary Hospital",
+   "lat": 40.5129294,
+   "lon": -79.9990179,
+   "distKm": 8,
+   "address": "2255 Babcock Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "way/1075443435",
+   "name": "Greentree Animal Clinic",
+   "lat": 40.3922191,
+   "lon": -80.0691367,
+   "distKm": 8.2,
+   "address": "2080 Greentree Road, Pittsburgh, PA 15220",
+   "tags": {}
+  },
+  {
+   "id": "way/339298380",
+   "name": "Avalon Veterinary Hospital",
+   "lat": 40.4961745,
+   "lon": -80.0663533,
+   "distKm": 8.6,
+   "address": "120 Elizabeth Avenue, Pittsburgh, PA 15202",
+   "tags": {
+    "phone": "+1 412 761 9149",
+    "website": "https://avalonvh.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/567569888",
+   "name": "VCA Castle Shannon Animal Hospital",
+   "lat": 40.3654397,
+   "lon": -80.0182161,
+   "distKm": 8.6,
+   "address": "3610 Library Road, Pittsburgh, PA 15234",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/438018305",
+   "name": "Animal Medical Center",
+   "lat": 40.4758825,
+   "lon": -80.0986439,
+   "distKm": 9.5,
+   "address": "1746 Pine Hollow Road, McKees Rocks, 15136",
+   "tags": {}
+  },
+  {
+   "id": "way/363052424",
+   "name": "VCA Northview Animal Hospital Specialty Referral Center",
+   "lat": 40.5292066,
+   "lon": -80.0068774,
+   "distKm": 9.9,
+   "address": "223 Siebert Road, Pittsburgh, PA 15237",
+   "tags": {
+    "phone": "+1 412 364 5353",
+    "website": "https://vcahospitals.com/northview",
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/1281321109",
+   "name": "Bethel Park Animal Clinic",
+   "lat": 40.3478853,
+   "lon": -80.0278614,
+   "distKm": 10.7,
+   "address": "4792 Library Road, Bethel Park, PA 15102",
+   "tags": {
+    "phone": "+1-412-595-7843",
+    "website": "https://www.bethelparkanimalclinic.com/"
+   }
+  },
+  {
+   "id": "way/348879122",
+   "name": "Allegheny North Veterinary Hospital",
+   "lat": 40.5362603,
+   "lon": -80.0356357,
+   "distKm": 11.2,
+   "address": "954 Perry Highway",
+   "tags": {}
+  },
+  {
+   "id": "node/8691474050",
+   "name": "Family Vet Care Center",
+   "lat": 40.3446755,
+   "lon": -80.0510602,
+   "distKm": 11.6,
+   "address": "2402 Oxford Drive, Bethel Park, PA 15102",
+   "tags": {}
+  },
+  {
+   "id": "node/3763246163",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.5523857,
+   "lon": -80.0222817,
+   "distKm": 12.6,
+   "address": "6210 Northway Drive, Pittsburgh, PA 15237",
+   "tags": {
+    "phone": "+1 412 364 5669",
+    "website": "https://banfield.com/"
+   }
+  },
+  {
+   "id": "node/1181002615",
+   "name": "Cat Hospital of North Hills",
+   "lat": 40.5571852,
+   "lon": -79.9708896,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9918186416",
+   "name": "Bridgeville Animal Hospital",
+   "lat": 40.3593041,
+   "lon": -80.110598,
+   "distKm": 13.3,
+   "address": "420 Bower Hill Road, Bridgeville, PA 15017",
+   "tags": {
+    "phone": "+1-412-220-9400",
+    "website": "https://www.bridgevilleanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/305236820",
+   "name": "Bethel Park Cat Clinic",
+   "lat": 40.3084466,
+   "lon": -80.0326533,
+   "distKm": 15,
+   "address": "5861 Library Road, Bethel Park, PA 15102",
+   "tags": {}
+  },
+  {
+   "id": "node/9610658211",
+   "name": "Greentree Animal Clinic",
+   "lat": 40.3282298,
+   "lon": -80.1086976,
+   "distKm": 15.7,
+   "address": "1417 Hastings Crescent, Bridgeville, PA 15017",
+   "tags": {
+    "phone": "+1-412-276-3311"
+   }
+  },
+  {
+   "id": "way/255542834",
+   "name": "Allegheny Veterinary Associates",
+   "lat": 40.5779893,
+   "lon": -80.0371598,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/503896785",
+   "name": "Jefferson Veterinary Hospital",
+   "lat": 40.3011918,
+   "lon": -79.9299238,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13740062902",
+   "name": "Avets",
+   "lat": 40.4345468,
+   "lon": -79.7826539,
+   "distKm": 18.1,
+   "address": "2674 Monroeville Boulevard, 15146",
+   "tags": {
+    "phone": "+1 412-373-4200",
+    "website": "https://www.avets.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/541791812",
+   "name": "Sewickley Veterinary Hospital",
+   "lat": 40.5318057,
+   "lon": -80.1751971,
+   "distKm": 18.2,
+   "address": "1104 Ohio River Boulevard, Sewickley, PA 15143",
+   "tags": {}
+  },
+  {
+   "id": "way/352419589",
+   "name": "Wexford Veterinary Hospital",
+   "lat": 40.6034056,
+   "lon": -80.0508001,
+   "distKm": 18.7,
+   "address": "10309 Perry Highway",
+   "tags": {}
+  },
+  {
+   "id": "relation/6176475",
+   "name": "Spay Neuter Clinic",
+   "lat": 40.606823,
+   "lon": -80.052534,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "phone": "+1 724 719 6233",
+    "website": "https://spayaz.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00"
+   }
+  },
+  {
+   "id": "way/1524986336",
+   "name": "Monroeville Pet Hospital",
+   "lat": 40.4406531,
+   "lon": -79.7667788,
+   "distKm": 19.4,
+   "address": "232 Center Road, Monroeville, PA 15146",
+   "tags": {}
+  },
+  {
+   "id": "way/230509340",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.6140278,
+   "lon": -80.0544957,
+   "distKm": 19.9,
+   "address": "10650 Perry Highway, Wexford, PA 15090",
+   "tags": {
+    "phone": "+17249346801",
+    "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00"
+   }
+  }
+ ]
+}

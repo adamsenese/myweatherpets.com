@@ -1,0 +1,170 @@
+{
+ "$schemaVersion": 1,
+ "city": "tokyo",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:23:18.961Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 14,
+ "places": [
+  {
+   "id": "node/5421499201",
+   "name": "Ken21",
+   "lat": 35.6997084,
+   "lon": 139.7243888,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5053306620",
+   "name": "Birthday",
+   "lat": 35.7239663,
+   "lon": 139.6630501,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7271594050",
+   "name": "ペットシッターSOS",
+   "lat": 35.6977373,
+   "lon": 139.6402889,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4881560202",
+   "name": "AndyCafe Dog Salon",
+   "lat": 35.6999255,
+   "lon": 139.6339339,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "phone": "03-3220-4821",
+    "website": "https://www.andycafe.com/asagaya/dogsalon/",
+    "opening_hours": "10:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5046109969",
+   "name": "幸せのしっぽ",
+   "lat": 35.7219382,
+   "lon": 139.637954,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7657721825",
+   "name": "Mother Wolf",
+   "lat": 35.6206067,
+   "lon": 139.7186251,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5455712483",
+   "name": "オアシス",
+   "lat": 35.6198669,
+   "lon": 139.6672799,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5455662107",
+   "name": "coron",
+   "lat": 35.6135505,
+   "lon": 139.6699623,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13152560495",
+   "name": "犬のひみつきち",
+   "lat": 35.6872097,
+   "lon": 139.8004592,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11871747343",
+   "name": "Dog Life Planers",
+   "lat": 35.691008,
+   "lon": 139.8133228,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7146252280",
+   "name": "犬と猫の店　ペットボックス",
+   "lat": 35.7072546,
+   "lon": 139.5137207,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13741659836",
+   "name": "まるねこ",
+   "lat": 35.5459556,
+   "lon": 139.7436564,
+   "distKm": 16.6,
+   "address": "10, 大田区, 144-0043",
+   "tags": {
+    "website": "https://maruneco.jp/cathotel/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8401344300",
+   "name": "minakuru",
+   "lat": 35.8409441,
+   "lon": 139.6342912,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12845223326",
+   "name": "アイリードッグ",
+   "lat": 35.7742709,
+   "lon": 139.4997274,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "phone": "+81-42-495-7115",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

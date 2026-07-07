@@ -1,0 +1,85 @@
+{
+ "$schemaVersion": 1,
+ "city": "spokane",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:34:30.916Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/227416873",
+   "name": "SpokAnimal Dog Park at High Bridge",
+   "lat": 47.6536117,
+   "lon": -117.4577727,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/884572169",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6529716,
+   "lon": -117.5642348,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/549829301",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6720572,
+   "lon": -117.2511161,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/545337056",
+   "name": "Whimsical Pig Dog park",
+   "lat": 47.6721003,
+   "lon": -117.2237409,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1099633116",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6211107,
+   "lon": -117.2205478,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1225346323",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6299265,
+   "lon": -117.6657401,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1089957965",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6698699,
+   "lon": -117.1818397,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/991862612",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6732327,
+   "lon": -117.1778841,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

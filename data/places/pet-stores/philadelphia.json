@@ -1,0 +1,542 @@
+{
+ "$schemaVersion": 1,
+ "city": "philadelphia",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:21:41.134Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 45,
+ "places": [
+  {
+   "id": "node/419777551",
+   "name": "Doggie Style",
+   "lat": 39.9508443,
+   "lon": -75.1754925,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7953388781",
+   "name": "Doggie Style Pets",
+   "lat": 39.9607372,
+   "lon": -75.1703024,
+   "distKm": 1,
+   "address": "1901 Callowhill Street, Philadelphia, PA 19130",
+   "tags": {
+    "phone": "+12153727193",
+    "website": "https://www.doggiestylepets.com/",
+    "opening_hours": "Su 10:00-18:00; Mo-Sa 09:00-20:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/13256905852",
+   "name": "The Pet Snobs Boutique",
+   "lat": 39.9423238,
+   "lon": -75.1572344,
+   "distKm": 1.3,
+   "address": "606 South 9th Street, Philadelphia, PA 19147",
+   "tags": {
+    "phone": "+1 215-922-7662",
+    "website": "https://www.thepetsnobs.com/",
+    "opening_hours": "Mo-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/3092752777",
+   "name": "Doggie Style",
+   "lat": 39.950345,
+   "lon": -75.146334,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7393243142",
+   "name": "PetSmart",
+   "lat": 39.9381849,
+   "lon": -75.1678287,
+   "distKm": 1.6,
+   "address": "1415 Washington Avenue, Philadelphia, PA 19146",
+   "tags": {
+    "phone": "+1 215-201-3505",
+    "website": "https://www.petsmart.com/stores/us/pa/philadelphia-store3116.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11926176615",
+   "name": "Anima",
+   "lat": 39.9520985,
+   "lon": -75.1454732,
+   "distKm": 1.7,
+   "address": "304 Arch Street, Philadelphia, PA 19106",
+   "tags": {
+    "phone": "+1-215-800-1103",
+    "website": "https://www.animapets.com/bonejour-pet-supply/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/1314521380",
+   "name": "Fairmount Pet Shoppe",
+   "lat": 39.9670929,
+   "lon": -75.1711189,
+   "distKm": 1.7,
+   "address": "2024 Fairmount Avenue, Philadelphia, PA",
+   "tags": {}
+  },
+  {
+   "id": "node/4042975726",
+   "name": "Unleashed",
+   "lat": 39.9692832,
+   "lon": -75.139224,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/2179184403",
+   "name": "Tradewinds",
+   "lat": 39.956107,
+   "lon": -75.2020273,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/226306051",
+   "name": "Monster Pets",
+   "lat": 39.9216921,
+   "lon": -75.1441822,
+   "distKm": 3.9,
+   "address": "1946 South Christopher Columbus Boulevard, Philadelphia, PA 19148",
+   "tags": {
+    "website": "https://monsterpetsonline.com/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2105012239",
+   "name": "Baltimore Pet Shoppe",
+   "lat": 39.948847,
+   "lon": -75.213917,
+   "distKm": 4.2,
+   "address": "4532 Baltimore Avenue, Philadelphia, PA 19143",
+   "tags": {
+    "phone": "+1 215-222-7387",
+    "website": "http://www.baltimorepetshoppe.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su"
+   }
+  },
+  {
+   "id": "way/506883712",
+   "name": "PetSmart",
+   "lat": 39.9181402,
+   "lon": -75.1888904,
+   "distKm": 4.3,
+   "address": "2360 Oregon Avenue, Philadelphia, PA 19145",
+   "tags": {
+    "phone": "+1 215-462-2080",
+    "website": "https://www.petsmart.com/stores/us/pa/philadelphia-store1216.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6835931482",
+   "name": "PHilthy PAWS",
+   "lat": 39.9484201,
+   "lon": -75.217064,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-215-727-7297",
+    "website": "https://philthypaws.com/",
+    "opening_hours": "Tu-Fr 10:00-19:00; Sa 11:00-18:30"
+   }
+  },
+  {
+   "id": "node/3694398380",
+   "name": "Value Pet",
+   "lat": 39.9296706,
+   "lon": -75.0840509,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/348218127",
+   "name": "Philadelphia Pet Hotel & Villas",
+   "lat": 39.9030247,
+   "lon": -75.2286945,
+   "distKm": 7.7,
+   "address": "7401 Holstein Avenue, Philadelphia, PA 19153",
+   "tags": {}
+  },
+  {
+   "id": "node/12176633504",
+   "name": "Furville Pet Supplies",
+   "lat": 40.019886,
+   "lon": -75.2106334,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/11073875055",
+   "name": "City of Paws Pet Care",
+   "lat": 40.0236498,
+   "lon": -75.2199842,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/730200424",
+   "name": "Petco",
+   "lat": 39.8791631,
+   "lon": -75.1117687,
+   "distKm": 9.4,
+   "address": "700 Crescent Boulevard, Brooklawn, NJ 08030",
+   "tags": {
+    "phone": "+1 856-349-9152",
+    "website": "https://stores.petco.com/nj/brooklawn/pet-supplies-brooklawn-nj-3817.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13151180971",
+   "name": "Sport's The Place for Paws",
+   "lat": 40.0060272,
+   "lon": -75.2614858,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9318336087",
+   "name": "PetSmart",
+   "lat": 40.0318213,
+   "lon": -75.1004263,
+   "distKm": 10.4,
+   "address": "4640 Roosevelt Boulevard, Philadelphia, PA 19124",
+   "tags": {
+    "phone": "+1 215-743-9602",
+    "website": "https://www.petsmart.com/stores/us/pa/philadelphia-store0573.html",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9571672252",
+   "name": "Petco",
+   "lat": 39.9603698,
+   "lon": -75.2867733,
+   "distKm": 10.4,
+   "address": "815 North Lansdowne Avenue, Upper Darby, PA 19082",
+   "tags": {
+    "phone": "+1 610-446-3206",
+    "website": "https://stores.petco.com/pa/upperdarby/pet-supplies-upperdarby-pa-2897.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11260043158",
+   "name": "Across the Way",
+   "lat": 40.046115,
+   "lon": -75.1960655,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2599085497",
+   "name": "Petco",
+   "lat": 40.0035068,
+   "lon": -75.283741,
+   "distKm": 11.6,
+   "address": "270 East Lancaster Avenue, Wynnewood, PA 19096",
+   "tags": {
+    "phone": "+1 610-658-9710",
+    "website": "https://stores.petco.com/pa/wynnewood/pet-supplies-wynnewood-pa-1787.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11225105228",
+   "name": "Worldwide Aquarium & Pet Shop",
+   "lat": 40.0446068,
+   "lon": -75.2299039,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9928115498",
+   "name": "Ac'cent on Animals",
+   "lat": 40.0441895,
+   "lon": -75.2322275,
+   "distKm": 11.7,
+   "address": "Ridge Avenue, Philadelphia, PA 19128",
+   "tags": {}
+  },
+  {
+   "id": "way/549363251",
+   "name": "PetSmart",
+   "lat": 39.936043,
+   "lon": -75.0260573,
+   "distKm": 12,
+   "address": "2135 Route 38, Cherry Hill, NJ 08002",
+   "tags": {
+    "phone": "+1 856-910-1400",
+    "website": "https://www.petsmart.com/stores/us/nj/cherry-hill-store0575.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13655127939",
+   "name": "Queenuie's Pets",
+   "lat": 40.0598096,
+   "lon": -75.190889,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1012319760",
+   "name": "Petco",
+   "lat": 39.9258981,
+   "lon": -75.3058569,
+   "distKm": 12.4,
+   "address": "520 West Baltimore Pike, Clifton Heights, PA 19018",
+   "tags": {
+    "phone": "+1 610-259-2448",
+    "website": "https://stores.petco.com/pa/cliftonheights/pet-supplies-cliftonheights-pa-1724.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13389739159",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.9740245,
+   "lon": -75.3211013,
+   "distKm": 13.5,
+   "address": "1305 West Chester Pike, Havertown, PA 19083",
+   "tags": {
+    "phone": "+1 484-453-8721",
+    "website": "https://havertown.wbu.com/map",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-16:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/13990788502",
+   "name": "Doggie Style Pets",
+   "lat": 40.0720013,
+   "lon": -75.201947,
+   "distKm": 13.6,
+   "address": "8100 Germantown Avenue",
+   "tags": {
+    "website": "https://www.doggiestylepets.com/"
+   }
+  },
+  {
+   "id": "way/381330198",
+   "name": "Petco",
+   "lat": 40.0630104,
+   "lon": -75.2377183,
+   "distKm": 13.7,
+   "address": "8500 Henry Avenue, Philadelphia, PA 19128-2132",
+   "tags": {
+    "phone": "+1-215-483-4152",
+    "website": "https://stores.petco.com/pa/philadelphia/pet-supplies-philadelphia-pa-2860.html",
+    "opening_hours": "09:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13786954547",
+   "name": "Doggie Style Pets",
+   "lat": 39.9901915,
+   "lon": -75.0106705,
+   "distKm": 13.8,
+   "address": "141 Route 130 South, Cinnaminson, NJ 08077",
+   "tags": {
+    "phone": "+1 856-543-4023",
+    "website": "https://www.doggiestylepets.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/5277848678",
+   "name": "PetSmart",
+   "lat": 39.8409515,
+   "lon": -75.0907374,
+   "distKm": 13.9,
+   "address": "2000 Clements Bridge Road, Woodbury, NJ 08096",
+   "tags": {
+    "phone": "+1 856-848-2719",
+    "website": "https://www.petsmart.com/stores/us/nj/woodbury-store1225.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/584791056",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.9149202,
+   "lon": -75.007773,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/11194708412",
+   "name": "The Bone Appetite",
+   "lat": 40.0764164,
+   "lon": -75.206852,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/381574957",
+   "name": "PetSmart",
+   "lat": 40.052347,
+   "lon": -75.0584517,
+   "distKm": 14.3,
+   "address": "7422 Bustleton Avenue, Philadelphia, PA 19152",
+   "tags": {
+    "phone": "+1 215-728-6701",
+    "website": "https://www.petsmart.com/stores/us/pa/philadelphia-store1649.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/527051088",
+   "name": "PetSmart",
+   "lat": 39.9188472,
+   "lon": -75.3267201,
+   "distKm": 14.3,
+   "address": "641 Baltimore Pike, Springfield, PA 19064",
+   "tags": {
+    "phone": "+1 610-328-1510",
+    "website": "https://www.petsmart.com/stores/us/pa/springfield-store1804.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/479973524",
+   "name": "Puppies",
+   "lat": 39.912988,
+   "lon": -75.0019688,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/440674344",
+   "name": "Concord Pet Foods & Supplies",
+   "lat": 39.9110254,
+   "lon": -74.9977099,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4006743118",
+   "name": "PetSmart",
+   "lat": 39.942157,
+   "lon": -74.9600549,
+   "distKm": 17.5,
+   "address": "1331 Nixon Drive, Moorestown, NJ 08057",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7297992165",
+   "name": "PetSmart",
+   "lat": 40.1069359,
+   "lon": -75.1206167,
+   "distKm": 17.6,
+   "address": "901 Old York Road, Jenkintown, PA 19046",
+   "tags": {
+    "phone": "+1 215-885-3635",
+    "website": "https://www.petsmart.com/stores/us/pa/jenkintown-store1223.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/840299946",
+   "name": "PetSmart",
+   "lat": 39.9821427,
+   "lon": -75.3760519,
+   "distKm": 18.3,
+   "address": "2940 Springfield Road, Broomall, PA 19008",
+   "tags": {
+    "phone": "+1 610-353-4446",
+    "website": "https://www.petsmart.com/stores/us/pa/broomall-store0570.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 11:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/641689288",
+   "name": "Petco",
+   "lat": 40.081454,
+   "lon": -75.0264066,
+   "distKm": 18.6,
+   "address": "9717 Roosevelt Boulevard, Philadelphia, PA 19114",
+   "tags": {
+    "phone": "+1 215-671-9601",
+    "website": "https://stores.petco.com/pa/philadelphia/pet-supplies-philadelphia-pa-1768.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13081827816",
+   "name": "PetSmart",
+   "lat": 40.0125102,
+   "lon": -74.958187,
+   "distKm": 18.9,
+   "address": "4004 Burlington Pike, Delran, NJ 08075",
+   "tags": {
+    "phone": "+18564610353",
+    "website": "https://www.petsmart.com/stores/us/nj/delran-store1461.html",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13081827680",
+   "name": "Todd Marcus Birds Exotic",
+   "lat": 40.0179048,
+   "lon": -74.9531719,
+   "distKm": 19.5,
+   "address": "5029 Burlington Pike, Delran, NJ 08075",
+   "tags": {
+    "phone": "+1 856-764-2473",
+    "website": "https://thebirdstore.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-17:00"
+   }
+  }
+ ]
+}

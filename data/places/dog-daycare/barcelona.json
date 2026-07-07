@@ -1,0 +1,22 @@
+{
+ "$schemaVersion": 1,
+ "city": "barcelona",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:37:44.690Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/11006293831",
+   "name": "Casa Mel",
+   "lat": 41.5468806,
+   "lon": 2.1174989,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "$schemaVersion": 1,
+ "city": "richmond",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:33:39.772Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "way/298621401",
+   "name": "Church Hill Dog Park",
+   "lat": 37.5238806,
+   "lon": -77.4103864,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/761589495",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5172389,
+   "lon": -77.4058301,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/202547172",
+   "name": "Barker Field",
+   "lat": 37.5391077,
+   "lon": -77.4820658,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "separate",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/6073941089",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5592769,
+   "lon": -77.4774839,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1037171457",
+   "name": "Phideaux Field",
+   "lat": 37.5198994,
+   "lon": -77.481147,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1303144377",
+   "name": "Ruff Canine Club",
+   "lat": 37.5748612,
+   "lon": -77.4686865,
+   "distKm": 4.8,
+   "address": "1924 Ellen Road, Richmond, VA 23230",
+   "tags": {
+    "website": "https://www.ruffcanineclub.com/"
+   }
+  },
+  {
+   "id": "way/686723721",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5606766,
+   "lon": -77.4855308,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1052320039",
+   "name": "11 North Dog Park",
+   "lat": 37.5530501,
+   "lon": -77.370591,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1052186651",
+   "name": "Northside Dog Park",
+   "lat": 37.5982213,
+   "lon": -77.4410963,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1053432445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5171811,
+   "lon": -77.5143068,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/528897934",
+   "name": "Libbie Mill Dog Park",
+   "lat": 37.5887968,
+   "lon": -77.4961215,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1051583892",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5218437,
+   "lon": -77.5196562,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1443984445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5075737,
+   "lon": -77.534549,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/787012801",
+   "name": "Dorey Dog Park",
+   "lat": 37.4607412,
+   "lon": -77.339432,
+   "distKm": 12.3,
+   "address": "7399 Dorey Park Drive, Henrico, VA 23231",
+   "tags": {}
+  },
+  {
+   "id": "way/545083434",
+   "name": "Pole Green Dog Park",
+   "lat": 37.6440789,
+   "lon": -77.3049314,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/236143257",
+   "name": "Ruff House Dog Park",
+   "lat": 37.4478443,
+   "lon": -77.5803768,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1121505590",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6919288,
+   "lon": -77.4728269,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/694831441",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6464676,
+   "lon": -77.6132479,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

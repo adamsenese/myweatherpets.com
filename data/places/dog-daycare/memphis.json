@@ -1,0 +1,23 @@
+{
+ "$schemaVersion": 1,
+ "city": "memphis",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:27:51.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/9824307338",
+   "name": "Camp Bow Wow",
+   "lat": 35.0869968,
+   "lon": -89.85962,
+   "distKm": 18.6,
+   "address": "6108 Quince Road, Memphis, TN 38119",
+   "tags": {
+    "website": "https://www.campbowwow.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

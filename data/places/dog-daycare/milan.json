@@ -1,0 +1,174 @@
+{
+ "$schemaVersion": 1,
+ "city": "milan",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:38:07.683Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 14,
+ "places": [
+  {
+   "id": "node/11737352694",
+   "name": "La maison Sissy",
+   "lat": 45.4468994,
+   "lon": 9.2126529,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13015087110",
+   "name": "House of dogs",
+   "lat": 45.4163689,
+   "lon": 9.1773996,
+   "distKm": 5.4,
+   "address": "9 Via Ettore Bugatti, Milano, 20142",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-12:30,14:30-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13382050036",
+   "name": "Harmonia",
+   "lat": 45.4157727,
+   "lon": 9.1689292,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10825081234",
+   "name": "Asilo dei cani",
+   "lat": 45.463845,
+   "lon": 9.092934,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8586244183",
+   "name": "Il Condomicio",
+   "lat": 45.5332468,
+   "lon": 9.125138,
+   "distKm": 9.2,
+   "address": "53a Via Thomas Alva Edison, Novate Milanese, 20026",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13769344495",
+   "name": "Liberitutti",
+   "lat": 45.5289329,
+   "lon": 9.3140199,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "relation/6795447",
+   "name": "Pensione Cani Puttini",
+   "lat": 45.4055934,
+   "lon": 9.0089794,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.pensionecani.it/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9233124592",
+   "name": "Azienda Agricola La Quercia",
+   "lat": 45.5961212,
+   "lon": 9.1149643,
+   "distKm": 15.8,
+   "address": "25/27 Via Valcamonica, Limbiate, 20812",
+   "tags": {
+    "phone": "+390299480508",
+    "website": "https://icanidellaquercia.it/",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/460763571",
+   "name": "Cani e Gatti in pensione",
+   "lat": 45.3735991,
+   "lon": 9.0250402,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.caniegattiinpensione.it/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7653872394",
+   "name": "Fido Village",
+   "lat": 45.6088567,
+   "lon": 9.2328506,
+   "distKm": 16.4,
+   "address": "38 Via Giuseppe Verdi, Lissone, 20851",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9994885925",
+   "name": "Pequeños diablos",
+   "lat": 45.5829902,
+   "lon": 9.0428676,
+   "distKm": 17.5,
+   "address": "1179 Via Lainate, Lainate, 20045",
+   "tags": {
+    "website": "https://www.pequenosdiablos.it/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11513968345",
+   "name": "La casa del cane - la casa dei gatti",
+   "lat": 45.5827757,
+   "lon": 9.0427886,
+   "distKm": 17.5,
+   "address": "1179 Via Lainate, Lainate, 20045",
+   "tags": {
+    "website": "https://ondenere.it/pensione-cani/;https://ondenere.it/pensione-gatti/",
+    "opening_hours": "Mo-Sa 09:00-12:00,14:30-18:30; Su,PH off",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8588095603",
+   "name": "modernfamilydog",
+   "lat": 45.6370438,
+   "lon": 9.205751,
+   "distKm": 19.3,
+   "address": "119 Via Milano, Seregno, 20831",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10049086225",
+   "name": "Ivi 4 Pets",
+   "lat": 45.6379614,
+   "lon": 9.130972,
+   "distKm": 19.9,
+   "address": "Via Ronco Nuovo, Seveso, 20822",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

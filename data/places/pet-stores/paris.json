@@ -1,0 +1,678 @@
+{
+ "$schemaVersion": 1,
+ "city": "paris",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:36:59.180Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/3307941061",
+   "name": "Moustaches",
+   "lat": 48.8586529,
+   "lon": 2.35561,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:30-19:30, Su 12:00-19:00"
+   }
+  },
+  {
+   "id": "node/2003145826",
+   "name": "Animalis",
+   "lat": 48.8629863,
+   "lon": 2.3536248,
+   "distKm": 0.7,
+   "address": "16 Rue du Grenier Saint-Lazare",
+   "tags": {
+    "phone": "+33 1 87 76 25 60",
+    "website": "https://magasin.animalis.com/86-animalis-paris-3-rambuteau",
+    "opening_hours": "Mo-Sa 10:00-19:30",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/8450702350",
+   "name": "Caroline Coutret",
+   "lat": 48.8484096,
+   "lon": 2.3536434,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "website": "https://paradiscanin.com",
+    "opening_hours": "Tu,Th-Sa 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/10870607506",
+   "name": "Royal Canin",
+   "lat": 48.8529051,
+   "lon": 2.3376744,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo 13:00-19:00, Tu-Sa 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/10943139341",
+   "name": "Moustaches",
+   "lat": 48.8528192,
+   "lon": 2.3366422,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.moustaches.fr",
+    "opening_hours": "Mo-Sa 10:30-19:30"
+   }
+  },
+  {
+   "id": "node/3213896155",
+   "name": "ChaCabo",
+   "lat": 48.8627244,
+   "lon": 2.3665452,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-19:00"
+   }
+  },
+  {
+   "id": "node/10769184909",
+   "name": "City Pet Shop",
+   "lat": 48.8563921,
+   "lon": 2.3731541,
+   "distKm": 1.5,
+   "address": "23 Rue Sedaine, Paris, 75011",
+   "tags": {
+    "phone": "+33 1 82 28 12 24",
+    "opening_hours": "Mo-Su 11:00-21:00"
+   }
+  },
+  {
+   "id": "node/11286512667",
+   "name": "Animalis",
+   "lat": 48.8637739,
+   "lon": 2.3717232,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 87 76 08 63",
+    "website": "https://magasin.animalis.com/55-animalis-paris-11-richard-lenoir",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-14:00",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/7230164496",
+   "name": "Ziggy",
+   "lat": 48.853355,
+   "lon": 2.375932,
+   "distKm": 1.8,
+   "address": "33 Rue de Charonne, Paris, 75011",
+   "tags": {
+    "phone": "+33 142239918",
+    "website": "https://ziggyfamily.com/",
+    "opening_hours": "Mo-Sa 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/7403005341",
+   "name": "Animalis",
+   "lat": 48.869498,
+   "lon": 2.3363489,
+   "distKm": 1.8,
+   "address": "19 Rue du Quatre Septembre",
+   "tags": {
+    "phone": "+33 1 87 76 24 60",
+    "website": "https://magasin.animalis.com/67-animalis-paris-2-quatre-septembre",
+    "opening_hours": "Mo-Sa 10:00-19:30; Su off",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/13074467201",
+   "name": "Animalis",
+   "lat": 48.871033,
+   "lon": 2.3639552,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 87 76 29 90",
+    "opening_hours": "Mo-Sa 10:00-19:30",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/2558367461",
+   "name": "Animalis",
+   "lat": 48.8507067,
+   "lon": 2.3759892,
+   "distKm": 1.9,
+   "address": "76 Rue Traversière, Paris, 75012",
+   "tags": {
+    "phone": "+33 1 87 760560",
+    "website": "https://magasin.animalis.com/130-animalis-paris-12-traversiere",
+    "opening_hours": "Mo-Sa 10:00-19:30; Su 10:00-13:00",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/11234038346",
+   "name": "C4V",
+   "lat": 48.8437988,
+   "lon": 2.3310792,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "website": "https://nutrition-veterinaire.com",
+    "opening_hours": "Mo-Fr 10:00-19:30, Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/5531113040",
+   "name": "Mascottes",
+   "lat": 48.8459668,
+   "lon": 2.3799115,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 77 18 80 53",
+    "opening_hours": "Mo-Sa 09:30-19:30; Su,PH 11:30-18:30"
+   }
+  },
+  {
+   "id": "node/9183982077",
+   "name": "La Ferme Tropicale",
+   "lat": 48.8364291,
+   "lon": 2.3601709,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.lafermetropicale.com/",
+    "opening_hours": "Su-We 10:00-18:00; Th-Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/9558791598",
+   "name": "C4V",
+   "lat": 48.8773994,
+   "lon": 2.3428098,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-13:30,14:30-19:00"
+   }
+  },
+  {
+   "id": "node/2517201880",
+   "name": "Maxi Zoo",
+   "lat": 48.8541645,
+   "lon": 2.3858605,
+   "distKm": 2.5,
+   "address": "190 Boulevard Voltaire, Paris, 75011",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-19:30",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/4430517489",
+   "name": "Alimentation Accessoires",
+   "lat": 48.8453828,
+   "lon": 2.3830226,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10901400192",
+   "name": "Le Décor Exotique",
+   "lat": 48.8791377,
+   "lon": 2.3633361,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "phone": "+331 47 97 11 45",
+    "website": "https://www.paramountaquarium.com/",
+    "opening_hours": "Tu-Fr 10:00-12:30, 14:30-19:00; Sa 10:00-13:00, 14:00-19:00"
+   }
+  },
+  {
+   "id": "node/4415288799",
+   "name": "Aqualand",
+   "lat": 48.8322441,
+   "lon": 2.3592424,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 14:30-19:30, Tu-Fr 10:30-12:30, Sa 10:30-19:30"
+   }
+  },
+  {
+   "id": "node/4425232603",
+   "name": "Ambiance Toilettage",
+   "lat": 48.8321755,
+   "lon": 2.3702737,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13255596026",
+   "name": "Cayu",
+   "lat": 48.8815689,
+   "lon": 2.3744198,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7288585287",
+   "name": "Dog Club",
+   "lat": 48.829583,
+   "lon": 2.3335812,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 43 27 68 58",
+    "website": "https://dogclub.fr",
+    "opening_hours": "Mo-Sa 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/13875274605",
+   "name": "Cachou in Paris",
+   "lat": 48.8822497,
+   "lon": 2.3282962,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3282330111",
+   "name": "Animalis",
+   "lat": 48.8306295,
+   "lon": 2.328984,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "10:00-19:30; Su 10:00-14:00",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/12717907545",
+   "name": "Barkers and Brothers",
+   "lat": 48.8858484,
+   "lon": 2.3386242,
+   "distKm": 3.4,
+   "address": "8 Rue Androuet, Paris, 75018",
+   "tags": {}
+  },
+  {
+   "id": "node/3345653894",
+   "name": "Animalis",
+   "lat": 48.8827502,
+   "lon": 2.3247491,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1796716392",
+   "name": "Animalis",
+   "lat": 48.8337153,
+   "lon": 2.3863338,
+   "distKm": 3.6,
+   "address": "41 Rue de l'Ambroisie, 75012",
+   "tags": {
+    "phone": "+33 1 53 33 87 35",
+    "website": "https://magasin.animalis.com/1-animalis-paris-12-bercy",
+    "opening_hours": "Mo-Sa 10:00-19:45; Su 11:00-19:45",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/10791197365",
+   "name": "Pattes à Strass",
+   "lat": 48.828489,
+   "lon": 2.3245338,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "website": "https://pattes-a-strass.com",
+    "opening_hours": "Mo-Sa 10:30-19:00"
+   }
+  },
+  {
+   "id": "node/13978113978",
+   "name": "A 4 Pattes",
+   "lat": 48.8828281,
+   "lon": 2.3826973,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6842819723",
+   "name": "Les Ateliers du Toilettage",
+   "lat": 48.8247241,
+   "lon": 2.3701491,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "phone": "+33144248195"
+   }
+  },
+  {
+   "id": "node/11974951159",
+   "name": "La Bande a Cabot",
+   "lat": 48.8676126,
+   "lon": 2.4021302,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12321086709",
+   "name": "Le Paris Canin",
+   "lat": 48.882511,
+   "lon": 2.3166667,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-19:30"
+   }
+  },
+  {
+   "id": "node/9082433492",
+   "name": "À Plumes et à Poils",
+   "lat": 48.875106,
+   "lon": 2.3056621,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10858071173",
+   "name": "La réserve animale",
+   "lat": 48.8864478,
+   "lon": 2.383535,
+   "distKm": 4,
+   "address": "135 Avenue Jean Jaurès",
+   "tags": {
+    "opening_hours": "Mo 15:00-19:30; Tu-Sa 10:00-19:30; PH off"
+   }
+  },
+  {
+   "id": "node/2334286036",
+   "name": "Atelier Markiz",
+   "lat": 48.8349472,
+   "lon": 2.3971888,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "website": "https://ateliermarkiz.com/pages/points-de-vente",
+    "opening_hours": "We 16:00-19:00; Th-Fr 14:00-19:00; Sa 13:00-19:00"
+   }
+  },
+  {
+   "id": "node/7883344089",
+   "name": "Two Tails",
+   "lat": 48.8834009,
+   "lon": 2.3140176,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-19:30; Su 09:30-13:30"
+   }
+  },
+  {
+   "id": "node/8611325352",
+   "name": "Graineterie du petit zoo",
+   "lat": 48.8502718,
+   "lon": 2.2952072,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/7888322767",
+   "name": "C4V espace forme sante animaux de compagnie",
+   "lat": 48.888635,
+   "lon": 2.3193106,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11684625669",
+   "name": "Animalis",
+   "lat": 48.8941742,
+   "lon": 2.3365914,
+   "distKm": 4.3,
+   "address": "87 Rue Damrémont, 75018",
+   "tags": {
+    "phone": "+33 1 87 76 26 20",
+    "website": "https://magasin.animalis.com/90-animalis-paris-18-damremont",
+    "opening_hours": "Mo-Sa 10:00-19:30",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/5478948171",
+   "name": "La Boutique Miaou Waou",
+   "lat": 48.8434216,
+   "lon": 2.2958799,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11867026552",
+   "name": "The Doggy Shop",
+   "lat": 48.8867658,
+   "lon": 2.3114544,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11117198628",
+   "name": "Moustaches",
+   "lat": 48.8771357,
+   "lon": 2.2977687,
+   "distKm": 4.6,
+   "address": "42 Avenue de Wagram",
+   "tags": {
+    "phone": "+33 1 45 71 66 63",
+    "website": "https://www.moustaches.fr/",
+    "opening_hours": "Mo-Sa 10:30-19:30"
+   }
+  },
+  {
+   "id": "node/10982472943",
+   "name": "Two Tails",
+   "lat": 48.847436,
+   "lon": 2.2863653,
+   "distKm": 4.9,
+   "address": "79 Rue Saint-Charles",
+   "tags": {
+    "phone": "+33 1 40 55 90 35",
+    "opening_hours": "Mo-Sa 09:30-19:30"
+   }
+  },
+  {
+   "id": "node/2873095960",
+   "name": "La Tour Câline",
+   "lat": 48.8655339,
+   "lon": 2.2855792,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10049022958",
+   "name": "C4V",
+   "lat": 48.8773141,
+   "lon": 2.2919686,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-19:00; PH closed"
+   }
+  },
+  {
+   "id": "node/7267349078",
+   "name": "La Ménagerie",
+   "lat": 48.8410499,
+   "lon": 2.4176976,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9981608615",
+   "name": "Animalis",
+   "lat": 48.8428817,
+   "lon": 2.2843023,
+   "distKm": 5.2,
+   "address": "67 Rue de la Convention",
+   "tags": {
+    "phone": "+33 1 87 76 25 90",
+    "website": "https://magasin.animalis.com/88-animalis-paris-15-convention",
+    "opening_hours": "Mo-Sa 10:00-19:30",
+    "brand": "Animalis"
+   }
+  },
+  {
+   "id": "node/9983272393",
+   "name": "Papatte et Coussinet",
+   "lat": 48.8358068,
+   "lon": 2.2884808,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "website": "https://papatteetcoussinet.fr",
+    "opening_hours": "Tu-Sa 10:30-13:30,14:30-19:00; Sa 18:00-20:00 closed"
+   }
+  },
+  {
+   "id": "node/12396322035",
+   "name": "Animalis",
+   "lat": 48.815305,
+   "lon": 2.3180053,
+   "distKm": 5.2,
+   "address": "24-26 Avenue Verdier, Montrouge, 92120",
+   "tags": {
+    "website": "https://www.animalis.com/"
+   }
+  },
+  {
+   "id": "node/9365764838",
+   "name": "AquaDesignerShop - ADS",
+   "lat": 48.8142559,
+   "lon": 2.3171196,
+   "distKm": 5.4,
+   "address": "97 Avenue de la République, Montrouge, 92120",
+   "tags": {
+    "phone": "+33 9 81 06 11 12",
+    "website": "https://www.aquadesigner-shop.com/"
+   }
+  },
+  {
+   "id": "node/1453640792",
+   "name": "Les animaux de Paris",
+   "lat": 48.864769,
+   "lon": 2.2782382,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8811994017",
+   "name": "Wash Dog (toiletteur chien)",
+   "lat": 48.8423765,
+   "lon": 2.2779972,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2930819939",
+   "name": "Animalis",
+   "lat": 48.8911804,
+   "lon": 2.2902331,
+   "distKm": 5.9,
+   "address": "6 Rue Henri Barbusse, Levallois-Perret, 92300",
+   "tags": {
+    "phone": "+33 1 87 77 01 60",
+    "website": "https://magasin.animalis.com/129-animalis-levallois-perret",
+    "opening_hours": "Mo-Su 10:00-19:30"
+   }
+  },
+  {
+   "id": "node/2448380850",
+   "name": "Dog's Discount",
+   "lat": 48.8487623,
+   "lon": 2.432908,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3782375382",
+   "name": "Chiens Chats et les Autres",
+   "lat": 48.8581739,
+   "lon": 2.4349,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "website": "https://ccela.com/"
+   }
+  },
+  {
+   "id": "node/9734137738",
+   "name": "Mon Monsieur Hardi",
+   "lat": 48.8462237,
+   "lon": 2.4345628,
+   "distKm": 6.1,
+   "address": "11 Rue de Montreuil, Vincennes, 94300",
+   "tags": {}
+  },
+  {
+   "id": "node/12039947365",
+   "name": "Aqua Please",
+   "lat": 48.8939968,
+   "lon": 2.291807,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10977142418",
+   "name": "C4V Paris 16",
+   "lat": 48.8492129,
+   "lon": 2.2662009,
+   "distKm": 6.3,
+   "address": "130 Avenue Mozart, Paris, 75016",
+   "tags": {
+    "phone": "+33 1 45 25 45 75",
+    "website": "http://www.c4v.fr/"
+   }
+  },
+  {
+   "id": "node/10977163546",
+   "name": "Franck Philip",
+   "lat": 48.8510851,
+   "lon": 2.2669859,
+   "distKm": 6.3,
+   "address": "2 Rue Henri Heine, Paris, 75016",
+   "tags": {}
+  }
+ ]
+}

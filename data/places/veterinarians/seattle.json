@@ -1,0 +1,662 @@
+{
+ "$schemaVersion": 1,
+ "city": "seattle",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:25:52.487Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/2327741579",
+   "name": "Third & Stewart Animal Wellness Center",
+   "lat": 47.6119215,
+   "lon": -122.3404027,
+   "distKm": 0.9,
+   "address": "1919 3rd Avenue, Seattle, WA 98101",
+   "tags": {}
+  },
+  {
+   "id": "node/3637891560",
+   "name": "Citydog! Club",
+   "lat": 47.6142931,
+   "lon": -122.3330028,
+   "distKm": 0.9,
+   "address": "809 Olive Way, Seattle, WA 98101",
+   "tags": {
+    "phone": "+1-206-623-5395",
+    "website": "https://www.citydogclub.com/"
+   }
+  },
+  {
+   "id": "node/2375220695",
+   "name": "Jet City Animal Clinic",
+   "lat": 47.6098654,
+   "lon": -122.3165451,
+   "distKm": 1.2,
+   "address": "822 12th Avenue, Seattle, 98122",
+   "tags": {
+    "phone": "+1-206-329-0253",
+    "website": "https://jetcityanimalclinic.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/8597654296",
+   "name": "Banfield Pet Hospital",
+   "lat": 47.6137944,
+   "lon": -122.3216285,
+   "distKm": 1.2,
+   "address": "1426 Harvard Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/6543667004",
+   "name": "Urban Animal",
+   "lat": 47.6162752,
+   "lon": -122.3409796,
+   "distKm": 1.3,
+   "address": "2200 6th Avenue, Seattle, WA 98121",
+   "tags": {
+    "phone": "+1-206-319-5477",
+    "website": "https://urbananimalnw.com/locations/downtown/"
+   }
+  },
+  {
+   "id": "node/2158667243",
+   "name": "City Cat Mobile Vet",
+   "lat": 47.620203,
+   "lon": -122.3224117,
+   "distKm": 1.7,
+   "address": "207 Harvard Avenue East, Seattle, 98102",
+   "tags": {}
+  },
+  {
+   "id": "node/5152641322",
+   "name": "Broadway Veterinary Hospital",
+   "lat": 47.6183406,
+   "lon": -122.316699,
+   "distKm": 1.8,
+   "address": "1824 12th Avenue, Seattle, WA 98122",
+   "tags": {
+    "phone": "+1-206-322-5444",
+    "website": "https://www.broadwayvh.com/"
+   }
+  },
+  {
+   "id": "node/2399978749",
+   "name": "Dermatology Center for Animals",
+   "lat": 47.6228594,
+   "lon": -122.3302705,
+   "distKm": 1.9,
+   "address": "430 Yale Avenue North, Seattle, WA 98109",
+   "tags": {}
+  },
+  {
+   "id": "node/5367286449",
+   "name": "Urban Animal - Capitol Hill",
+   "lat": 47.6209594,
+   "lon": -122.320157,
+   "distKm": 1.9,
+   "address": "909 East Thomas Street, Seattle, WA 98102",
+   "tags": {
+    "phone": "+1-206-329-5337",
+    "website": "https://urbananimalnw.com/",
+    "opening_hours": "Mo-Sa 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/9660956425",
+   "name": "Lake Union Veterinary Clinic",
+   "lat": 47.6232704,
+   "lon": -122.3308543,
+   "distKm": 1.9,
+   "address": "1270 Republican Street, Seattle, WA 98109",
+   "tags": {}
+  },
+  {
+   "id": "node/4539170348",
+   "name": "Rainier Veterinary Hospital",
+   "lat": 47.5951577,
+   "lon": -122.3115355,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2375126674",
+   "name": "Madison Street Animal Hospital",
+   "lat": 47.6183568,
+   "lon": -122.3033747,
+   "distKm": 2.5,
+   "address": "2215 East Madison Street, Seattle, 98112",
+   "tags": {
+    "phone": "+1-206-538-0890",
+    "website": "https://madisonstreetanimalhospital.com",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/2400976418",
+   "name": "Banfield Pet Hospital",
+   "lat": 47.6237278,
+   "lon": -122.355255,
+   "distKm": 2.6,
+   "address": "512 1st Avenue North, Seattle, WA 98109",
+   "tags": {}
+  },
+  {
+   "id": "node/2400860481",
+   "name": "Mercer Street Veterinary Hospital",
+   "lat": 47.6251091,
+   "lon": -122.3545011,
+   "distKm": 2.7,
+   "address": "610 1st Avenue North, Seattle, WA 98109",
+   "tags": {}
+  },
+  {
+   "id": "node/9906911617",
+   "name": "Atlantic Veterinary Hospital",
+   "lat": 47.5839509,
+   "lon": -122.303357,
+   "distKm": 3.3,
+   "address": "2115 23rd Avenue South, WA 98144",
+   "tags": {
+    "phone": "+1-206-323-4433",
+    "website": "https://www.atlanticvetseattle.com/"
+   }
+  },
+  {
+   "id": "way/226145804",
+   "name": "Queen Anne Animal Clinic",
+   "lat": 47.6348902,
+   "lon": -122.3567175,
+   "distKm": 3.7,
+   "address": "1800 Queen Anne Avenue North, Seattle, WA 98109",
+   "tags": {}
+  },
+  {
+   "id": "node/12063264750",
+   "name": "Veterinary Emergency Group",
+   "lat": 47.6354803,
+   "lon": -122.3771818,
+   "distKm": 4.7,
+   "address": "1827 15th Avenue West, 98119",
+   "tags": {}
+  },
+  {
+   "id": "node/2332530314",
+   "name": "Elliott Bay Animal Hospital",
+   "lat": 47.6380651,
+   "lon": -122.375832,
+   "distKm": 4.8,
+   "address": "2042 15th Avenue West, Seattle, WA 98119",
+   "tags": {
+    "phone": "+1-206-285-7387",
+    "website": "https://elliottbayah.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00"
+   }
+  },
+  {
+   "id": "way/224059945",
+   "name": "Madison Park Veterinary Hospital",
+   "lat": 47.634325,
+   "lon": -122.2807143,
+   "distKm": 5,
+   "address": "4016 East Madison Street, Seattle, 98112",
+   "tags": {}
+  },
+  {
+   "id": "way/231265744",
+   "name": "Pet Care Center at Luna Park",
+   "lat": 47.5693839,
+   "lon": -122.3711209,
+   "distKm": 5,
+   "address": "2950 Southwest Avalon Way, Seattle, WA 98126",
+   "tags": {
+    "phone": "+1-206-935-3600",
+    "website": "https://petcarecenteratlunapark.com",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Sun closed"
+   }
+  },
+  {
+   "id": "node/13595845632",
+   "name": "Heal",
+   "lat": 47.6402491,
+   "lon": -122.3776328,
+   "distKm": 5.1,
+   "address": "1642 West Armory Way",
+   "tags": {}
+  },
+  {
+   "id": "node/10539843881",
+   "name": "Fremont Animal Hospital",
+   "lat": 47.6517628,
+   "lon": -122.3501951,
+   "distKm": 5.2,
+   "address": "3601 Fremont Avenue North, Seattle, 98103",
+   "tags": {}
+  },
+  {
+   "id": "way/216504382",
+   "name": "Cat Clinic of Seattle",
+   "lat": 47.6539885,
+   "lon": -122.3422146,
+   "distKm": 5.4,
+   "address": "3842 Stone Way North, Seattle, 98103",
+   "tags": {
+    "website": "https://catclinicofseattle.com/"
+   }
+  },
+  {
+   "id": "way/187512599",
+   "name": "Emerald City Emergency Clinic",
+   "lat": 47.6570064,
+   "lon": -122.3419901,
+   "distKm": 5.7,
+   "address": "4102 Stone Way North, Seattle, WA 98103",
+   "tags": {
+    "phone": "+1-206-634-9000",
+    "website": "https://emeraldcity24hrvet.com",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/221921407",
+   "name": "Interbay Veterinary Care Center",
+   "lat": 47.6478716,
+   "lon": -122.3771152,
+   "distKm": 5.7,
+   "address": "3040 16th Avenue West, Seattle, WA 98119",
+   "tags": {
+    "website": "https://www.interbayvet.com/"
+   }
+  },
+  {
+   "id": "way/231348832",
+   "name": "Greentree Animal Hospital",
+   "lat": 47.5635243,
+   "lon": -122.3864493,
+   "distKm": 6.3,
+   "address": "4440 California Avenue Southwest, Seattle, WA 98116",
+   "tags": {
+    "website": "http://greentreeanimalhospital.aahavet.org"
+   }
+  },
+  {
+   "id": "node/6315236485",
+   "name": "West Seattle Animal Hospital",
+   "lat": 47.5607301,
+   "lon": -122.3847778,
+   "distKm": 6.4,
+   "address": "4700 42nd Avenue Southwest, Seattle, WA",
+   "tags": {}
+  },
+  {
+   "id": "way/38654658",
+   "name": "VCA Animal Hospital",
+   "lat": 47.639359,
+   "lon": -122.4014199,
+   "distKm": 6.4,
+   "address": "2201 34th Avenue West, Seattle, WA 98199",
+   "tags": {}
+  },
+  {
+   "id": "node/2338546723",
+   "name": "Columbia City Veterinary",
+   "lat": 47.5579538,
+   "lon": -122.2842588,
+   "distKm": 6.5,
+   "address": "3810 South Ferdinand Street, Seattle, WA 98118",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:30"
+   }
+  },
+  {
+   "id": "way/224037731",
+   "name": "Northwest Veterinary Hospital",
+   "lat": 47.6647573,
+   "lon": -122.3400267,
+   "distKm": 6.5,
+   "address": "4922 Stone Way North, Seattle, 98103",
+   "tags": {}
+  },
+  {
+   "id": "node/3203598128",
+   "name": "Ballard Animal Hospital",
+   "lat": 47.6606206,
+   "lon": -122.3657226,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.ballardanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/5238769300",
+   "name": "Animal Eye Clinic, Inc.",
+   "lat": 47.6683536,
+   "lon": -122.3176603,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12134430241",
+   "name": "Ravenna Animal Hospital",
+   "lat": 47.6658289,
+   "lon": -122.2962685,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/228012551",
+   "name": "Four Paws Veterinary Center",
+   "lat": 47.5546417,
+   "lon": -122.2693788,
+   "distKm": 7.4,
+   "address": "5200 Wilson Avenue South, Seattle, WA 98118",
+   "tags": {
+    "phone": "+1-206-760-5200",
+    "website": "https://www.fourpawsvetcenter.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/12768391094",
+   "name": "MercyVet",
+   "lat": 47.5868537,
+   "lon": -122.2341608,
+   "distKm": 7.7,
+   "address": "2630 77th Avenue Southeast, Mercer Island, WA 98040",
+   "tags": {
+    "phone": "+1-206-232-7667",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/1298804234",
+   "name": "Roosevelt Animal Hospital",
+   "lat": 47.6756002,
+   "lon": -122.3164292,
+   "distKm": 7.8,
+   "address": "6417 12th Avenue Northeast, Seattle, 98115",
+   "tags": {
+    "phone": "+1 206-647-2242",
+    "website": "https://rooseveltah.com/",
+    "opening_hours": "Su-Th 08:00-12:30,13:30-18:00"
+   }
+  },
+  {
+   "id": "node/6793386807",
+   "name": "Island Cats Veterinary Hospital",
+   "lat": 47.5830998,
+   "lon": -122.2327797,
+   "distKm": 7.9,
+   "address": "3024 78th Avenue Southeast, Mercer Island, WA 98040",
+   "tags": {
+    "phone": "+1-206-232-2837",
+    "website": "https://islandcats.com",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/7504798502",
+   "name": "Hawthorne Hills Veterinary Hospital",
+   "lat": 47.6762684,
+   "lon": -122.315478,
+   "distKm": 7.9,
+   "address": "6512 12th Avenue Northeast, Seattle, WA 98115",
+   "tags": {
+    "website": "https://hhvh.net",
+    "opening_hours": "Mo-Th 08:00-12:30,13:45-05:30; Fr 08:00-12:30"
+   }
+  },
+  {
+   "id": "way/222567653",
+   "name": "Green Lake Animal Hospital",
+   "lat": 47.6778821,
+   "lon": -122.3270827,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/5678219121",
+   "name": "Roosevelt Station Vet Care",
+   "lat": 47.6781493,
+   "lon": -122.3172333,
+   "distKm": 8.1,
+   "address": "6800 Roosevelt Way Northeast, Seattle, 98115",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/217369959",
+   "name": "The Family Pet",
+   "lat": 47.6726343,
+   "lon": -122.3765325,
+   "distKm": 8.1,
+   "address": "6005 15th Avenue Northwest, Seattle, WA 98107",
+   "tags": {}
+  },
+  {
+   "id": "node/2140460290",
+   "name": "Banfield Pet Hospital",
+   "lat": 47.6691629,
+   "lon": -122.3878708,
+   "distKm": 8.2,
+   "address": "5511 24th Avenue Northwest, Seattle, 98107",
+   "tags": {
+    "phone": "+1-206-784-2741",
+    "website": "https://banfield.com",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "way/217372850",
+   "name": "Dog's Day Out",
+   "lat": 47.6787161,
+   "lon": -122.3770677,
+   "distKm": 8.7,
+   "address": "6733 15th Avenue Northwest, Seattle, WA 98117",
+   "tags": {
+    "phone": "+1-206-706-4875",
+    "website": "https://dogsdayoutseattle.com/"
+   }
+  },
+  {
+   "id": "way/235376715",
+   "name": "Maple Leaf Pet Corner",
+   "lat": 47.689655,
+   "lon": -122.3087513,
+   "distKm": 9.4,
+   "address": "8300 Lake City Way Northeast, Seattle, 98115",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/2420103521",
+   "name": "Phinney Veterinary",
+   "lat": 47.6907922,
+   "lon": -122.3541374,
+   "distKm": 9.5,
+   "address": "320 North 85th Street, Seattle, 98103",
+   "tags": {
+    "phone": "+1-206-746-2580",
+    "website": "https://phinneyveterinary.com/",
+    "opening_hours": "Tu-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/55360523",
+   "name": "Seatown Veterinary",
+   "lat": 47.6903906,
+   "lon": -122.3564372,
+   "distKm": 9.5,
+   "address": "201 North 85th Street, Seattle, WA 98103",
+   "tags": {
+    "phone": "+1-206-707-9090",
+    "website": "https://seatownvet.com",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa 09:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/7289652358",
+   "name": "Maple Leaf Veterinary Care Center",
+   "lat": 47.69207,
+   "lon": -122.3174333,
+   "distKm": 9.6,
+   "address": "8626 Roosevelt Way Northeast, Seattle, WA 98115",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/224051376",
+   "name": "Aurora Veterinary Hospital",
+   "lat": 47.6931866,
+   "lon": -122.345009,
+   "distKm": 9.7,
+   "address": "8821 Aurora Avenue North, Seattle, 98103",
+   "tags": {
+    "website": "https://auroraveterinaryhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/5608446856",
+   "name": "Cat Care Clinic",
+   "lat": 47.6201655,
+   "lon": -122.2024412,
+   "distKm": 9.8,
+   "address": "1105 Bellevue Way Northeast, Bellevue, 98004",
+   "tags": {}
+  },
+  {
+   "id": "node/2461796207",
+   "name": "Ancient Arts Holistic Veterinary",
+   "lat": 47.6949065,
+   "lon": -122.3551009,
+   "distKm": 10,
+   "address": "9020 Greenwood Avenue North, Seattle, 98103",
+   "tags": {
+    "phone": "+1-206-547-1025",
+    "website": "https://ancientartsvet.com",
+    "opening_hours": "Tu-Fr 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3608004063",
+   "name": "Urban Animal",
+   "lat": 47.5172343,
+   "lon": -122.3560588,
+   "distKm": 10.1,
+   "address": "9610 17th Avenue Southwest, Seattle, WA 98106",
+   "tags": {}
+  },
+  {
+   "id": "node/3086600547",
+   "name": "Sunset Hill Veterinary & Rehabilitation Center",
+   "lat": 47.6944737,
+   "lon": -122.375227,
+   "distKm": 10.3,
+   "address": "9000 Holman Road Northwest",
+   "tags": {
+    "website": "https://sunsethillvet.com",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "way/744493782",
+   "name": "Cascade Heights Veterinary Center",
+   "lat": 47.514448,
+   "lon": -122.3537303,
+   "distKm": 10.3,
+   "address": "9832 15th Avenue Southwest, Seattle, WA 98106",
+   "tags": {}
+  },
+  {
+   "id": "node/2279900361",
+   "name": "Crown Hill Animal Hospital",
+   "lat": 47.6958613,
+   "lon": -122.3743563,
+   "distKm": 10.5,
+   "address": "9069 Holman Road Northwest, Seattle, 98117",
+   "tags": {
+    "phone": "+1-206-782-6363",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/12208454128",
+   "name": "Northeast Veterinary Hospital",
+   "lat": 47.6976356,
+   "lon": -122.2909217,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-19:00; Sa 08:00-16:00; Su 10:00-15:00; We 08:00-12:00,13:30-19:00"
+   }
+  },
+  {
+   "id": "node/2409358407",
+   "name": "Greenwood Animal Hospital",
+   "lat": 47.7016476,
+   "lon": -122.344107,
+   "distKm": 10.7,
+   "address": "10000 Aurora Avenue North, Seattle, WA 98133",
+   "tags": {
+    "phone": "+1-206-528-3838",
+    "website": "https://www.mygreenwoodvet.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2328651061",
+   "name": "Banfield Pet Hospital",
+   "lat": 47.7006535,
+   "lon": -122.3638211,
+   "distKm": 10.8,
+   "address": "9756 Holman Road Northwest, Seattle, 98117",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "way/219057737",
+   "name": "Bird & Exotic Clinic of Seattle",
+   "lat": 47.7052641,
+   "lon": -122.3451277,
+   "distKm": 11.1,
+   "address": "10501 Aurora Avenue North, Seattle, 98133",
+   "tags": {}
+  },
+  {
+   "id": "node/3810597982",
+   "name": "Loyal Family Veterinary Hospital",
+   "lat": 47.6163205,
+   "lon": -122.1808163,
+   "distKm": 11.4,
+   "address": "677 120th Avenue Northeast, Bellevue, 98005",
+   "tags": {}
+  },
+  {
+   "id": "way/652546941",
+   "name": "South Seattle Veterinary Hospital",
+   "lat": 47.5039659,
+   "lon": -122.3340393,
+   "distKm": 11.4,
+   "address": "11033 1st Avenue South, Seattle, WA 98168",
+   "tags": {
+    "website": "https://www.southseattlevet.com",
+    "opening_hours": "24/7"
+   }
+  }
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "$schemaVersion": 1,
+ "city": "auckland",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:23:05.438Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 55,
+ "places": [
+  {
+   "id": "node/2082959396",
+   "name": "The Strand Vet",
+   "lat": -36.85054,
+   "lon": 174.7825092,
+   "distKm": 1.7,
+   "address": "1 Kenwyn Street, Auckland, 1010",
+   "tags": {
+    "phone": "+64 9 377 6667",
+    "website": "https://www.thestrandvet.co.nz/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00;PH off"
+   }
+  },
+  {
+   "id": "node/2847433256",
+   "name": "Auckland Pet Hospital",
+   "lat": -36.8583199,
+   "lon": 174.7478361,
+   "distKm": 1.8,
+   "address": "46 Pollen Street",
+   "tags": {
+    "phone": "+64 9 360 0961",
+    "website": "http://AucklandPetHospital.co.nz",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/262006625",
+   "name": "Normanby Road Vet Clinic",
+   "lat": -36.8686946,
+   "lon": 174.7645646,
+   "distKm": 2.2,
+   "address": "49 Normanby Road, Auckland, 1024",
+   "tags": {}
+  },
+  {
+   "id": "node/13946649401",
+   "name": "Broadway Vet",
+   "lat": -36.8666404,
+   "lon": 174.7788043,
+   "distKm": 2.4,
+   "address": "86 Broadway",
+   "tags": {}
+  },
+  {
+   "id": "node/5156242263",
+   "name": "Animates Vet Care",
+   "lat": -36.8553576,
+   "lon": 174.7309734,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13751668702",
+   "name": "Mt Eden Veterinary Clinic",
+   "lat": -36.88311,
+   "lon": 174.7616378,
+   "distKm": 3.9,
+   "address": "455 Mount Eden Road",
+   "tags": {
+    "phone": "+64 9 623 7387",
+    "website": "https://www.mtedenvet.nz/",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/4080874640",
+   "name": "Saint Lukes Vet",
+   "lat": -36.8766452,
+   "lon": 174.7354021,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1741256921",
+   "name": "Balmoral Veterinary Care",
+   "lat": -36.8833889,
+   "lon": 174.748831,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1406873679",
+   "name": "Green Lane Veterinary Clinic",
+   "lat": -36.886123,
+   "lon": 174.7887641,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13141932510",
+   "name": "Pet Doctors",
+   "lat": -36.8856601,
+   "lon": 174.7306898,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3979295000",
+   "name": "Onewa Road Veterinary Hospital",
+   "lat": -36.8096931,
+   "lon": 174.7305075,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/369786685",
+   "name": "Point Chevalier Veterinary Care",
+   "lat": -36.8687485,
+   "lon": 174.7093185,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4057751093",
+   "name": "The Vets",
+   "lat": -36.9006104,
+   "lon": 174.7737173,
+   "distKm": 5.9,
+   "address": "608 Manukau Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/2171010323",
+   "name": "Parkhill Veterinary Hospital",
+   "lat": -36.8022846,
+   "lon": 174.7244584,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11278190474",
+   "name": "Kiwi Vet Behaviour",
+   "lat": -36.8958551,
+   "lon": 174.8012748,
+   "distKm": 6.3,
+   "address": "584 Great South Road",
+   "tags": {
+    "phone": "+64 22 692 9751"
+   }
+  },
+  {
+   "id": "node/13751689801",
+   "name": "Vetcare",
+   "lat": -36.897216,
+   "lon": 174.8083075,
+   "distKm": 6.7,
+   "address": "2c Robert Street",
+   "tags": {}
+  },
+  {
+   "id": "way/355435468",
+   "name": "North Shore Veterinary Hospital",
+   "lat": -36.7881625,
+   "lon": 174.7591791,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3398948242",
+   "name": "Royal Oak Veterinary Care",
+   "lat": -36.9107467,
+   "lon": 174.7689141,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5063309120",
+   "name": "Abbotts Way Veterinary Clinic",
+   "lat": -36.8878978,
+   "lon": 174.8282163,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3353534880",
+   "name": "Kohimarama Vet Clinic",
+   "lat": -36.8674918,
+   "lon": 174.8447342,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3879177641",
+   "name": "Western Vets",
+   "lat": -36.8975791,
+   "lon": 174.6967844,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3458988560",
+   "name": "Glenfield Veterinary Clinic",
+   "lat": -36.7761407,
+   "lon": 174.7318203,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 444 9552",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/1852225188",
+   "name": "Lynfield Vets",
+   "lat": -36.919313,
+   "lon": 174.7201552,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 218 7809",
+    "website": "https://lynfieldvets.co.nz",
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa 09:00-13:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/3212135799",
+   "name": "Glendowie - Saint Heliers Veterinary Clinic",
+   "lat": -36.8594777,
+   "lon": 174.8609928,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3309329208",
+   "name": "Care Vets",
+   "lat": -36.9044051,
+   "lon": 174.840194,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9933027077",
+   "name": "North Shore Veterinary Emergency and Critical Care",
+   "lat": -36.7659733,
+   "lon": 174.7337205,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 443 5640",
+    "website": "https://emergencyvet.co.nz/",
+    "opening_hours": "Mo-Fr 18:00-08:00, Sa 12:00-24:00, Su 00:00-00:00, Mo 00:00-08:00"
+   }
+  },
+  {
+   "id": "node/906300820",
+   "name": "Forrest Hill Veterinary Clinic & Hospital",
+   "lat": -36.7616057,
+   "lon": 174.7485618,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 410 5169",
+    "website": "https://forresthillvet.co.nz/",
+    "opening_hours": "Mo,Tu,We,Fr 07:30-19:00; Th 07:30-17:00; Sa 09:00-17:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2685994310",
+   "name": "Vet Centre",
+   "lat": -36.9222865,
+   "lon": 174.7023965,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3269978629",
+   "name": "Greenhithe Vets",
+   "lat": -36.7797888,
+   "lon": 174.6721248,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/14657175",
+   "name": "VSA West Auckland",
+   "lat": -36.8531558,
+   "lon": 174.6371573,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.vsahospital.co.nz/"
+   }
+  },
+  {
+   "id": "node/778131213",
+   "name": "Auckland Veterinary Services",
+   "lat": -36.9010752,
+   "lon": 174.6545065,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3436746952",
+   "name": "Mangere Bridge Veterinary Hospital and Clinic",
+   "lat": -36.9478025,
+   "lon": 174.78979,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5237396064",
+   "name": "Green Bay Veterinary Clinic",
+   "lat": -36.929791,
+   "lon": 174.6851995,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/353564248",
+   "name": "North Harbour Veterinary Clinic",
+   "lat": -36.7474712,
+   "lon": 174.74234,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 479 6034",
+    "website": "https://nhvets.co.nz/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:30-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/1104413988",
+   "name": "Hobsonville Veterinary Hospital",
+   "lat": -36.7986181,
+   "lon": 174.6472958,
+   "distKm": 11.7,
+   "address": "403 Hobsonville Road, 0618",
+   "tags": {}
+  },
+  {
+   "id": "node/3053126014",
+   "name": "Care Vets",
+   "lat": -36.9118827,
+   "lon": 174.657621,
+   "distKm": 11.7,
+   "address": "69 West Coast Road, 0602",
+   "tags": {
+    "phone": "+64 9 818 7454",
+    "website": "https://carevets.co.nz/carevets-glen-eden",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "way/1116443915",
+   "name": "Petstock Vet",
+   "lat": -36.7459797,
+   "lon": 174.7360578,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {
+    "phone": "+64 9 479 7609",
+    "website": "https://www.petstock.co.nz/store/petstock-vet-constellation",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "way/318922280",
+   "name": "Animal Referral Centre Hospital",
+   "lat": -36.7543993,
+   "lon": 174.697785,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "website": "https://arcvets.co.nz"
+   }
+  },
+  {
+   "id": "way/318922292",
+   "name": "Rehab & Physio",
+   "lat": -36.7541916,
+   "lon": 174.6980666,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "website": "https://arcvets.co.nz"
+   }
+  },
+  {
+   "id": "node/2847433255",
+   "name": "Henderson Veterinary Clinic",
+   "lat": -36.873616,
+   "lon": 174.6274124,
+   "distKm": 12.4,
+   "address": "12 Lincoln Road, Auckland, 0610",
+   "tags": {}
+  },
+  {
+   "id": "way/1088063970",
+   "name": "Pakuranga Vet Clinic and Cattery",
+   "lat": -36.9092735,
+   "lon": 174.8841053,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/339907600",
+   "name": "BirdCare Aotearoa",
+   "lat": -36.9372878,
+   "lon": 174.6710158,
+   "distKm": 12.8,
+   "address": "74 Avonleigh Road, Auckland, 0604",
+   "tags": {
+    "website": "https://birdcareaotearoa.org.nz/"
+   }
+  },
+  {
+   "id": "way/474099231",
+   "name": "West Harbour Vets",
+   "lat": -36.8166462,
+   "lon": 174.6237353,
+   "distKm": 12.9,
+   "address": "77 Hobsonville Road",
+   "tags": {}
+  },
+  {
+   "id": "node/3663904491",
+   "name": "Bucklands Beach Veterinary Hospital",
+   "lat": -36.8895005,
+   "lon": 174.9093704,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3212032135",
+   "name": "Massey Heights Veterinary Hospital",
+   "lat": -36.8429459,
+   "lon": 174.6032646,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6952477929",
+   "name": "Henderson Valley Vet",
+   "lat": -36.8981423,
+   "lon": 174.6132475,
+   "distKm": 14.4,
+   "address": "225 Henderson Valley Road",
+   "tags": {}
+  },
+  {
+   "id": "node/3110814193",
+   "name": "West Coast Veterinary Clinic",
+   "lat": -36.9118077,
+   "lon": 174.6214173,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2008184454",
+   "name": "Great South Vets",
+   "lat": -36.9615124,
+   "lon": 174.8537693,
+   "distKm": 14.9,
+   "address": "785 Great South Road, Auckland, 2025",
+   "tags": {
+    "website": "https://www.greatsouthvets.co.nz/"
+   }
+  },
+  {
+   "id": "node/5057312361",
+   "name": "Bay Vet",
+   "lat": -36.7140948,
+   "lon": 174.7436119,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/361991514",
+   "name": "Howick Vets",
+   "lat": -36.8929964,
+   "lon": 174.9251362,
+   "distKm": 15.2,
+   "address": "48 Ridge Road, Auckland, 2014",
+   "tags": {}
+  },
+  {
+   "id": "node/3666557155",
+   "name": "Animates Vet Care",
+   "lat": -36.9288649,
+   "lon": 174.9035961,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/339665599",
+   "name": "The Pet Doctors",
+   "lat": -36.7096181,
+   "lon": 174.7276108,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13829269602",
+   "name": "Pet Vets",
+   "lat": -36.9666143,
+   "lon": 174.8645311,
+   "distKm": 15.9,
+   "address": "93 East Tāmaki Road, 2025",
+   "tags": {
+    "phone": "+64 9 250 0555",
+    "website": "http://petvets.nz"
+   }
+  },
+  {
+   "id": "node/3666604255",
+   "name": "Sommerville Veterinary Centre",
+   "lat": -36.9070215,
+   "lon": 174.9300199,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5314339451",
+   "name": "Pet Doctors",
+   "lat": -36.9596753,
+   "lon": 174.9024055,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

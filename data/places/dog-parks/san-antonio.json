@@ -1,0 +1,245 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-antonio",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:21:57.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 24,
+ "places": [
+  {
+   "id": "way/689165377",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.4284471,
+   "lon": -98.4892304,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469577491",
+   "name": "Madison Square Dog Park",
+   "lat": 29.4346118,
+   "lon": -98.4903268,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1112805847",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.4345132,
+   "lon": -98.4792992,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1349277501",
+   "name": "Hops and Hounds",
+   "lat": 29.4369743,
+   "lon": -98.4806004,
+   "distKm": 1.9,
+   "address": "1119 Avenue B, San Antonio, TX 78215",
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1423119422",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.427983,
+   "lon": -98.472777,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/746387454",
+   "name": "Woodlawn Lake Dog Park",
+   "lat": 29.4494272,
+   "lon": -98.5282432,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1113221268",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.4541544,
+   "lon": -98.4579616,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1307322834",
+   "name": "Alamo Heights Dog Park",
+   "lat": 29.4830567,
+   "lon": -98.4764982,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1348808006",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.3876826,
+   "lon": -98.4329874,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1328605953",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.435788,
+   "lon": -98.4145235,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1258141845",
+   "name": "Paw Park at Greenline",
+   "lat": 29.3443352,
+   "lon": -98.4536316,
+   "distKm": 9.7,
+   "address": "8020 Dave Erwin Drive, San Antonio, TX 78235",
+   "tags": {}
+  },
+  {
+   "id": "node/12620870913",
+   "name": "Bryan Curry Community Dog Park",
+   "lat": 29.3313867,
+   "lon": -98.4950507,
+   "distKm": 10.3,
+   "address": "350 Felps Blvd, San Antonio, TX 78221",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/337506688",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.3558097,
+   "lon": -98.6007876,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/500751930",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.4311034,
+   "lon": -98.6363113,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/468507166",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.5150115,
+   "lon": -98.5958647,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/617812127",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.5469065,
+   "lon": -98.5288683,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/291237955",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.5509244,
+   "lon": -98.5309647,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/155926739",
+   "name": "McAllister Dog Park",
+   "lat": 29.5505629,
+   "lon": -98.4450978,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/155926737",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.5600046,
+   "lon": -98.5191164,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1531676809",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.5695256,
+   "lon": -98.4893624,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/663641804",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.4469176,
+   "lon": -98.6661041,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1245420188",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.4832245,
+   "lon": -98.6572106,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1413449244",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.3105777,
+   "lon": -98.617249,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12445569119",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.5252193,
+   "lon": -98.6427473,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

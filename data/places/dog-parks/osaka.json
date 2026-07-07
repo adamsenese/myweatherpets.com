@@ -1,0 +1,154 @@
+{
+ "$schemaVersion": 1,
+ "city": "osaka",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:23:36.938Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "node/12247712954",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6811194,
+   "lon": 135.5299969,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1443001074",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6978669,
+   "lon": 135.4675497,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "id": "way/578863377",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6487112,
+   "lon": 135.5114787,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/481336140",
+   "name": "パートナードッグタウン",
+   "lat": 34.7081807,
+   "lon": 135.5807741,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1351539623",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6231313,
+   "lon": 135.5595126,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/683567294",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.7642786,
+   "lon": 135.4396287,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/807519001",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.7856401,
+   "lon": 135.516855,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/290548348",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6700081,
+   "lon": 135.6300166,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/13746608569",
+   "name": "ドッグラン",
+   "lat": 34.7259144,
+   "lon": 135.6307859,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {
+    "website": "https://fukakitaryokuchi.jp/page/about#dog"
+   }
+  },
+  {
+   "id": "way/568022416",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.6013502,
+   "lon": 135.4256497,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/584129214",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.7752685,
+   "lon": 135.3855468,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/381672585",
+   "name": "広場",
+   "lat": 34.7728638,
+   "lon": 135.3758797,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/307545306",
+   "name": "ランフォルセ枚方パークガーデン",
+   "lat": 34.8097558,
+   "lon": 135.629151,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1098144232",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.8593572,
+   "lon": 135.5122798,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/951514417",
+   "name": "WILD garden ぷらすわん",
+   "lat": 34.8507777,
+   "lon": 135.5693347,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

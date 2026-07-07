@@ -1,0 +1,71 @@
+{
+ "$schemaVersion": 1,
+ "city": "virginia-beach",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:30:30.306Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "way/1062411945",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.8361469,
+   "lon": -75.9913581,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3528709261",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.801473,
+   "lon": -75.9959956,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1336979991",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.7964208,
+   "lon": -75.9916832,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/402548634",
+   "name": "Pups and Pints",
+   "lat": 36.7710924,
+   "lon": -76.0222807,
+   "distKm": 9.9,
+   "address": "2413 London Bridge Road, Virginia Beach, 23456",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1463257174",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.7365313,
+   "lon": -76.0075743,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1095763764",
+   "name": "Outdoor Pet Recreation Area",
+   "lat": 36.8030552,
+   "lon": -76.1893764,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  }
+ ]
+}

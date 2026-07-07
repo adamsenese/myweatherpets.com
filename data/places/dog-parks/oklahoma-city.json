@@ -1,0 +1,198 @@
+{
+ "$schemaVersion": 1,
+ "city": "oklahoma-city",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:27:23.901Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/546957664",
+   "name": "Myriad Gardens Dog Park",
+   "lat": 35.4646641,
+   "lon": -97.5172483,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1242094269",
+   "name": "Deep Deuce Dog Park",
+   "lat": 35.4692116,
+   "lon": -97.5105622,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1081254610",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.4584993,
+   "lon": -97.5190219,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/345055852",
+   "name": "Midtown Mutts",
+   "lat": 35.4785227,
+   "lon": -97.5180284,
+   "distKm": 1.2,
+   "address": "301 West Park Place, Oklahoma City, OK 73103",
+   "tags": {}
+  },
+  {
+   "id": "way/345055028",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.47935,
+   "lon": -97.51975,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1309489272",
+   "name": "Bar K",
+   "lat": 35.4607448,
+   "lon": -97.4958858,
+   "distKm": 2,
+   "address": "901 Southeast 5th Street, Oklahoma City, OK 73129",
+   "tags": {
+    "access": "customers",
+    "website": "https://barkdogbar.com/locations/oklahoma-city-ok/"
+   }
+  },
+  {
+   "id": "way/468238133",
+   "name": "Cokesbury Dog Park",
+   "lat": 35.495021,
+   "lon": -97.5452049,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/489472188",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.4549018,
+   "lon": -97.437733,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/317951695",
+   "name": "OK PAW Park",
+   "lat": 35.5472185,
+   "lon": -97.5753759,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1017672921",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3734173,
+   "lon": -97.5281347,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1526560493",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3967391,
+   "lon": -97.4297241,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/587781875",
+   "name": "Fred Quinn Happy Tails Dog Park",
+   "lat": 35.4635246,
+   "lon": -97.3817689,
+   "distKm": 12.2,
+   "address": "East Reno Avenue, Midwest City, OK",
+   "tags": {}
+  },
+  {
+   "id": "way/585840151",
+   "name": "Happy Tails Dog Park",
+   "lat": 35.3496254,
+   "lon": -97.4629961,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19482837",
+   "name": "Solo's Park & Pub",
+   "lat": 35.6046057,
+   "lon": -97.535621,
+   "distKm": 15.3,
+   "address": "13310 Pawnee Drive, Oklahoma City, OK 73114",
+   "tags": {
+    "website": "https://solosparkandpub.com/"
+   }
+  },
+  {
+   "id": "way/1413441646",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.5944879,
+   "lon": -97.43651,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19731712",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.6153944,
+   "lon": -97.5568251,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/584759724",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.4477377,
+   "lon": -97.3256386,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/506210664",
+   "name": "Edmond Dog Park",
+   "lat": 35.6231202,
+   "lon": -97.4758468,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/845775928",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.6065579,
+   "lon": -97.6253814,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1444593690",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.304001,
+   "lon": -97.4884423,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

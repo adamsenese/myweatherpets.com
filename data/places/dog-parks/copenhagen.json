@@ -1,0 +1,736 @@
+{
+ "$schemaVersion": 1,
+ "city": "copenhagen",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:24:47.155Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/367473144",
+   "name": "Nørre Voldgade Hundepark",
+   "lat": 55.6798189,
+   "lon": 12.5670235,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/225625924",
+   "name": "Fritløbsområde Nørre Voldgade",
+   "lat": 55.6811224,
+   "lon": 12.5686646,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "node/9955296554",
+   "name": "Otto Krabbes Plads",
+   "lat": 55.6701383,
+   "lon": 12.5529554,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1414426477",
+   "name": "Hundegård Sønder Boulebard",
+   "lat": 55.6679228,
+   "lon": 12.5554891,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1414426478",
+   "name": "Hundegård Otto Krabbes Plads",
+   "lat": 55.6699943,
+   "lon": 12.5532377,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/810731381",
+   "name": "Saxoparken Hundegård",
+   "lat": 55.6700033,
+   "lon": 12.5513889,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1414426471",
+   "name": "Fritløbsområde Christianshavn Vold",
+   "lat": 55.6695171,
+   "lon": 12.5853112,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489675",
+   "name": "Fritløbsområde Sølvgade v. Botanisk Have",
+   "lat": 55.6880935,
+   "lon": 12.5767185,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "barrier": "no"
+   }
+  },
+  {
+   "id": "way/1414426472",
+   "name": "Hundegård Eidsvoll Plads",
+   "lat": 55.6907378,
+   "lon": 12.5874034,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/102344876",
+   "name": "Nørrebroparkens Hundegård Syd",
+   "lat": 55.690666,
+   "lon": 12.5435806,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/265147327",
+   "name": "Grønningen Hundegård",
+   "lat": 55.6588969,
+   "lon": 12.584789,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/47067223",
+   "name": "Ågade Fritløbsområde",
+   "lat": 55.689701,
+   "lon": 12.5383764,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/722794160",
+   "name": "Trondhjems Plads Løbegård",
+   "lat": 55.6941791,
+   "lon": 12.5884559,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "metal",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/760168048",
+   "name": "Aksel Møller Have Løbegård",
+   "lat": 55.6851903,
+   "lon": 12.5324324,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "surface": "gravel",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1021946711",
+   "name": "Trianglen Store Hundegård",
+   "lat": 55.6984255,
+   "lon": 12.5736517,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "surface": "gravel",
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1414426480",
+   "name": "Hundegård Guldbergs Plads",
+   "lat": 55.6974302,
+   "lon": 12.5542419,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/474447226",
+   "name": "Øselsgade Hundegård",
+   "lat": 55.661487,
+   "lon": 12.6014435,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/145745737",
+   "name": "Søndermarken Hundeskov",
+   "lat": 55.668759,
+   "lon": 12.5267936,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/720211860",
+   "name": "Den store hundegård i Nørrebroparken",
+   "lat": 55.6971273,
+   "lon": 12.5423466,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "bars",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489672",
+   "name": "Fritløbsområde Amager Fælled",
+   "lat": 55.6526822,
+   "lon": 12.5874339,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "barrier": "no"
+   }
+  },
+  {
+   "id": "way/1086489671",
+   "name": "Skotlands Plads Løbegård",
+   "lat": 55.657461,
+   "lon": 12.6043017,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1327266043",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 55.6540006,
+   "lon": 12.537617,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/299007401",
+   "name": "Hundegård Fælledparken Nord",
+   "lat": 55.7052713,
+   "lon": 12.5738359,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/333151594",
+   "name": "Sundby Kirkegård Løbegård",
+   "lat": 55.6582502,
+   "lon": 12.614059,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/627743141",
+   "name": "Sluseholmen hundepark",
+   "lat": 55.6467087,
+   "lon": 12.5483435,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/1414426476",
+   "name": "Trekronergade Løbegård",
+   "lat": 55.6611702,
+   "lon": 12.5190619,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "node/11171520653",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 55.7086181,
+   "lon": 12.5573106,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1021619570",
+   "name": "Grøndalsparken friluftsområde",
+   "lat": 55.6902956,
+   "lon": 12.5157763,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/12997345744",
+   "name": "Hundegård Sjælør Boulevard",
+   "lat": 55.6485314,
+   "lon": 12.5286287,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1044458222",
+   "name": "Amager Strand Hundefritløbsområde",
+   "lat": 55.6671447,
+   "lon": 12.6306819,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "barrier": "no"
+   }
+  },
+  {
+   "id": "way/1414426479",
+   "name": "Fritløbsområde Grøndalsparken",
+   "lat": 55.6893282,
+   "lon": 12.5087325,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1021694354",
+   "name": "Løbegård Kildevældsparken",
+   "lat": 55.7137517,
+   "lon": 12.5655712,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489676",
+   "name": "Steins Plads Løbegård",
+   "lat": 55.6617653,
+   "lon": 12.5038197,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1414426473",
+   "name": "Fritløbsområde Lersøparken",
+   "lat": 55.7159001,
+   "lon": 12.553498,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "barrier": "unknown",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/848524897",
+   "name": "Hundegård Bellahøj",
+   "lat": 55.7039709,
+   "lon": 12.5134725,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1327224082",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 55.6391923,
+   "lon": 12.5369185,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/417681038",
+   "name": "Ørestad Bypark Hundegård",
+   "lat": 55.6341062,
+   "lon": 12.5746954,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1086489679",
+   "name": "Fritløbsområde Valbyparken Øst",
+   "lat": 55.639553,
+   "lon": 12.5265665,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/472083047",
+   "name": "Fritløbsområde Scherfigsvej",
+   "lat": 55.7213804,
+   "lon": 12.578565,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "no",
+    "lit": "no",
+    "small_dog": "shared",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1042934133",
+   "name": "Kalvebod hundehegn",
+   "lat": 55.6304668,
+   "lon": 12.5639035,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "drinking_water": "no",
+    "small_dog": "shared",
+    "website": "https://udinaturen.dk/shelter/10733"
+   }
+  },
+  {
+   "id": "way/4349669",
+   "name": "Fritløbsområdet På Bjerget",
+   "lat": 55.7187447,
+   "lon": 12.5342924,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489680",
+   "name": "Fritløbsområde Valbyparken Vest",
+   "lat": 55.639583,
+   "lon": 12.5135968,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489674",
+   "name": "Kirkemosen Fritløbsområde",
+   "lat": 55.7096715,
+   "lon": 12.5042198,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/897196076",
+   "name": "Løbegård Utterslev Mose",
+   "lat": 55.7108152,
+   "lon": 12.5016654,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489683",
+   "name": "Hundegård Vigerslevparken",
+   "lat": 55.665799,
+   "lon": 12.4785366,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489681",
+   "name": "Fritløbsområde Vigerslevparken Syd",
+   "lat": 55.6449851,
+   "lon": 12.4942687,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489684",
+   "name": "Vigerslevparken Fritløbsområde Midt",
+   "lat": 55.6592979,
+   "lon": 12.4780755,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1234101502",
+   "name": "Kastrup Strandpark fritløbsområde",
+   "lat": 55.6425381,
+   "lon": 12.6466062,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "no",
+    "website": "https://www.taarnby.dk/kultur-og-fritid/ud-i-naturen/parker-og-skove/kastrup-strandpark/"
+   }
+  },
+  {
+   "id": "way/1086489686",
+   "name": "Damhusengen Fritløbsområde Syd",
+   "lat": 55.6857624,
+   "lon": 12.4688816,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1138306326",
+   "name": "Dyssegårdsparken hundeskov:",
+   "lat": 55.7294563,
+   "lon": 12.5368045,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/1086489687",
+   "name": "Damhusengen Fritløbsområde Nord",
+   "lat": 55.6893639,
+   "lon": 12.468364,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1414426474",
+   "name": "Hundegård Husumforbindelsen",
+   "lat": 55.7100284,
+   "lon": 12.4804015,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "node/12997345719",
+   "name": "Hundegård Husumparken",
+   "lat": 55.7052508,
+   "lon": 12.4727597,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1086489669",
+   "name": "Krogebjergparken Fritløbsområde",
+   "lat": 55.6989918,
+   "lon": 12.4647966,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1512063113",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 55.6645053,
+   "lon": 12.4519982,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/461128505",
+   "name": "Hundeskoven i Brøndby Kommune",
+   "lat": 55.6555702,
+   "lon": 12.451561,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://udinaturen.dk/shelter/10310"
+   }
+  },
+  {
+   "id": "way/1086489673",
+   "name": "Fritløbsområde Vestvolden",
+   "lat": 55.7091543,
+   "lon": 12.4587549,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "no",
+    "website": "https://www.kk.dk/brug-byen/natur-og-groenne-omraader/hunde-i-koebenhavn"
+   }
+  },
+  {
+   "id": "way/1050787991",
+   "name": "Charlottenlund Hundeskov",
+   "lat": 55.7503871,
+   "lon": 12.5815854,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "website": "https://udinaturen.dk/shelter/10664"
+   }
+  },
+  {
+   "id": "way/1072283716",
+   "name": "Oxbjerget Hundefold",
+   "lat": 55.6869438,
+   "lon": 12.4171024,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "wire",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/255265939",
+   "name": "Ordrup Krat",
+   "lat": 55.7704082,
+   "lon": 12.5622929,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "small_dog": "shared",
+    "website": "https://udinaturen.dk/shelter/11208"
+   }
+  }
+ ]
+}

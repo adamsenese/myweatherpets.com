@@ -1,0 +1,144 @@
+{
+ "$schemaVersion": 1,
+ "city": "hartford",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:33:49.584Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "way/1165977869",
+   "name": "West Hartford Dog Park",
+   "lat": 41.7359494,
+   "lon": -72.7350387,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "website": "https://westhartforddogpark.org/"
+   }
+  },
+  {
+   "id": "way/691985863",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.7535295,
+   "lon": -72.5987089,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/556829383",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8181342,
+   "lon": -72.7258614,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/435405975",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.6999633,
+   "lon": -72.7069681,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/859809524",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.7096997,
+   "lon": -72.6123101,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/489864234",
+   "name": "Wethersfield Dog Park",
+   "lat": 41.6896952,
+   "lon": -72.6677945,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "website": "http://wethersfieldct.com/content/398/422/5195.aspx"
+   }
+  },
+  {
+   "id": "way/1097417162",
+   "name": "Rocky Hill Dog Park",
+   "lat": 41.6601594,
+   "lon": -72.6482307,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/10853542109",
+   "name": "Manchester Dog Park",
+   "lat": 41.760069,
+   "lon": -72.5150582,
+   "distKm": 13.1,
+   "address": "155 Spring Street, Manchester, CT 06040",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/552167824",
+   "name": "South Windsor Bark Park",
+   "lat": 41.8419796,
+   "lon": -72.5453101,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://southwindsor.recdesk.com/Community/Facility/Detail?facilityId=93"
+   }
+  },
+  {
+   "id": "way/151873457",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8985734,
+   "lon": -72.7012109,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/377146051",
+   "name": "Paw Meadow Dog Park",
+   "lat": 41.8756186,
+   "lon": -72.7984368,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/718847271",
+   "name": "Cromwell Dog Park",
+   "lat": 41.6130319,
+   "lon": -72.6932806,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/492646604",
+   "name": "East Windsor Dog Park",
+   "lat": 41.9095706,
+   "lon": -72.5372223,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

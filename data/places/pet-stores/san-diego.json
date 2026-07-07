@@ -1,0 +1,430 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-diego",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:22:04.890Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 36,
+ "places": [
+  {
+   "id": "node/3884033565",
+   "name": "Bella Woof Spa",
+   "lat": 32.7249726,
+   "lon": -117.1684126,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6016767741",
+   "name": "Barkhouse",
+   "lat": 32.7312452,
+   "lon": -117.1609725,
+   "distKm": 1.7,
+   "address": "425 Laurel Street, San Diego, CA 92101",
+   "tags": {
+    "opening_hours": "Tu-Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/3884058830",
+   "name": "Hairy & Merry",
+   "lat": 32.7288343,
+   "lon": -117.1716421,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1834875847",
+   "name": "Unleashed",
+   "lat": 32.7502247,
+   "lon": -117.1625,
+   "distKm": 3.8,
+   "address": "308 Washington Street, San Diego, 92103",
+   "tags": {
+    "phone": "+1-619-725-0850",
+    "website": "http://www.unleashed.com",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/597071018",
+   "name": "South Bark",
+   "lat": 32.7391337,
+   "lon": -117.1251441,
+   "distKm": 4.3,
+   "address": "3298 32nd Street, San Diego, 92104",
+   "tags": {}
+  },
+  {
+   "id": "node/6568829951",
+   "name": "PetSmart",
+   "lat": 32.7510915,
+   "lon": -117.2066878,
+   "distKm": 5.8,
+   "address": "3610 Rosecrans Street, San Diego, CA 92110",
+   "tags": {
+    "phone": "+1 619-523-4177",
+    "website": "https://www.petsmart.com/stores/us/ca/san-diego-store0143.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6551619680",
+   "name": "Pet Kingdom",
+   "lat": 32.751551,
+   "lon": -117.2071972,
+   "distKm": 5.9,
+   "address": "3191 Sports Arena Boulevard, San Diego, 92110",
+   "tags": {
+    "phone": "+1-619-224-2841",
+    "website": "https://www.petkingdom.com/",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12585531115",
+   "name": "Point Loma Pet Pantry",
+   "lat": 32.7404771,
+   "lon": -117.2288389,
+   "distKm": 6.9,
+   "address": "3704 Voltaire Street, San Diego, CA 92107",
+   "tags": {
+    "phone": "+1-619-222-1986",
+    "website": "https://pointlomapetpantry.com/"
+   }
+  },
+  {
+   "id": "node/4327289291",
+   "name": "Tropical Island",
+   "lat": 32.7495833,
+   "lon": -117.2424638,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6568871592",
+   "name": "Shore Thing Pet Supply",
+   "lat": 32.746576,
+   "lon": -117.2515041,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7055381018",
+   "name": "Petco",
+   "lat": 32.6529067,
+   "lon": -117.090466,
+   "distKm": 9.6,
+   "address": "3426 Highland Avenue, National City, CA 91950",
+   "tags": {
+    "phone": "+1 619-420-1764",
+    "website": "https://stores.petco.com/ca/nationalcity/pet-supplies-nationalcity-ca-1196.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9345363996",
+   "name": "PetSmart",
+   "lat": 32.8064736,
+   "lon": -117.1161278,
+   "distKm": 10.9,
+   "address": "3396 Murphy Canyon Road, San Diego, CA 92123",
+   "tags": {
+    "phone": "+1 858-571-0300",
+    "website": "https://www.petsmart.com/stores/us/ca/san-diego-store0140.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13199465701",
+   "name": "Original Paw Pleasers - Chula Vista",
+   "lat": 32.6408703,
+   "lon": -117.079565,
+   "distKm": 11.3,
+   "address": "311 3rd Avenue, 91910",
+   "tags": {
+    "phone": "+1-619-500-5676",
+    "website": "https://pawpleasersca.com/"
+   }
+  },
+  {
+   "id": "node/12125695037",
+   "name": "Pet Zone Tropical Fish",
+   "lat": 32.8177928,
+   "lon": -117.1555131,
+   "distKm": 11.4,
+   "address": "4160 Convoy Street, San Diego, CA 92111-3702",
+   "tags": {
+    "phone": "+1 866-693-4749",
+    "website": "https://www.petzonesd.com",
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12724468377",
+   "name": "Petco",
+   "lat": 32.7440218,
+   "lon": -117.0437797,
+   "distKm": 11.4,
+   "address": "7128 Broadway, Lemon Grove, CA 91945",
+   "tags": {
+    "phone": "+1-619-589-0013",
+    "website": "https://stores.petco.com/ca/lemongrove/pet-supplies-lemongrove-ca-1199.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2990318084",
+   "name": "Omar's Exotic Birds",
+   "lat": 32.8196823,
+   "lon": -117.1749167,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6309979929",
+   "name": "Petco",
+   "lat": 32.8013272,
+   "lon": -117.2378763,
+   "distKm": 11.9,
+   "address": "1780 Garnet Avenue, San Diego, CA 92109",
+   "tags": {
+    "phone": "+1 858-270-3499",
+    "website": "https://stores.petco.com/ca/sandiego/pet-supplies-sandiego-ca-2152.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2990322315",
+   "name": "PetSmart",
+   "lat": 32.8222847,
+   "lon": -117.1798796,
+   "distKm": 12,
+   "address": "4253 Genesee Avenue, San Diego, CA 92117",
+   "tags": {
+    "phone": "+1 858-300-6501",
+    "website": "https://www.petsmart.com/stores/us/ca/san-diego-store2398.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6309142935",
+   "name": "PetSmart",
+   "lat": 32.801118,
+   "lon": -117.2400831,
+   "distKm": 12,
+   "address": "1660 Garnet Avenue, San Diego, CA 92109",
+   "tags": {
+    "phone": "+1 858-202-5269",
+    "website": "https://www.petsmart.com/stores/us/ca/san-diego-store2304.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1364642074",
+   "name": "Lemon Grove Pet Supplies and Exotics",
+   "lat": 32.7421368,
+   "lon": -117.0313045,
+   "distKm": 12.5,
+   "address": "3338 Main Street, Lemon Grove, CA 91945",
+   "tags": {
+    "phone": "+1-619-460-1963",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/654804698",
+   "name": "Petco",
+   "lat": 32.8285319,
+   "lon": -117.2034456,
+   "distKm": 13.2,
+   "address": "3994 Clairemont Mesa Boulevard, San Diego, CA 92117",
+   "tags": {
+    "phone": "+1 858-483-4100",
+    "website": "https://stores.petco.com/ca/sandiego/pet-supplies-sandiego-ca-583.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9530955265",
+   "name": "Unleashed",
+   "lat": 32.6404839,
+   "lon": -117.0524861,
+   "distKm": 13.2,
+   "address": "304 East H Street, Chula Vista, CA 91910",
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/4679675285",
+   "name": "Bonita Pet Supply",
+   "lat": 32.6603138,
+   "lon": -117.0315654,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3732382583",
+   "name": "Canine Cleaners",
+   "lat": 32.8302318,
+   "lon": -117.1044167,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12239920402",
+   "name": "Le Pooche Pet Spa",
+   "lat": 32.8357857,
+   "lon": -117.2227884,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6558380700",
+   "name": "African Chichlid Aquariums",
+   "lat": 32.8403823,
+   "lon": -117.0977278,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Sa 12:00-19:00"
+   }
+  },
+  {
+   "id": "node/12017399468",
+   "name": "IB Pet",
+   "lat": 32.5844464,
+   "lon": -117.1202337,
+   "distKm": 15.1,
+   "address": "600 Palm Avenue, Imperial Beach, CA 91932",
+   "tags": {}
+  },
+  {
+   "id": "way/492853005",
+   "name": "PetSmart",
+   "lat": 32.6377085,
+   "lon": -117.0240456,
+   "distKm": 15.5,
+   "address": "879 East H Street, Chula Vista, CA 91910",
+   "tags": {
+    "phone": "+1 619-210-1106",
+    "website": "https://www.petsmart.com/stores/us/ca/chula-vista-store2497.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/981837127",
+   "name": "Petco",
+   "lat": 32.7799646,
+   "lon": -117.0144244,
+   "distKm": 15.5,
+   "address": "8501 Fletcher Parkway, La Mesa, CA 91942-3006",
+   "tags": {
+    "phone": "+1 619-337-0701",
+    "website": "https://stores.petco.com/ca/lamesa/pet-supplies-lamesa-ca-1110.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7215383238",
+   "name": "Wee Companions",
+   "lat": 32.8513153,
+   "lon": -117.2142604,
+   "distKm": 15.9,
+   "address": "3368 Governor Drive, San Diego, CA",
+   "tags": {
+    "website": "https://weecompanions.org/"
+   }
+  },
+  {
+   "id": "way/993510029",
+   "name": "Beast Pets",
+   "lat": 32.748469,
+   "lon": -116.9865817,
+   "distKm": 16.7,
+   "address": "9722 Campo Road, Spring Valley, CA 91977",
+   "tags": {
+    "phone": "+1-619-944-7001"
+   }
+  },
+  {
+   "id": "node/274188768",
+   "name": "PetSmart",
+   "lat": 32.8646869,
+   "lon": -117.2318922,
+   "distKm": 17.8,
+   "address": "8657 Villa La Jolla Drive, La Jolla, CA 92037",
+   "tags": {
+    "phone": "+1 858-535-9175",
+    "website": "https://www.petsmart.com/stores/us/ca/la-jolla-store1158.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11969991116",
+   "name": "Woofpak",
+   "lat": 32.8707357,
+   "lon": -117.2101162,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8553644029",
+   "name": "PetSmart",
+   "lat": 32.5937166,
+   "lon": -117.0350831,
+   "distKm": 18,
+   "address": "1840 Main Court, Chula Vista, CA 91911",
+   "tags": {
+    "phone": "+1 619-397-0605",
+    "website": "https://www.petsmart.com/stores/us/ca/chula-vista-store1498.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1198002978",
+   "name": "Aspens",
+   "lat": 32.8690075,
+   "lon": -117.2325194,
+   "distKm": 18.3,
+   "address": "8867 Villa La Jolla Drive, San Diego, CA 92037",
+   "tags": {
+    "phone": "+1-858-412-4310",
+    "website": "https://aspens.com/"
+   }
+  },
+  {
+   "id": "node/9366452603",
+   "name": "IB Pet",
+   "lat": 32.7473383,
+   "lon": -116.9592246,
+   "distKm": 19.2,
+   "address": "3729 Avocado Boulevard, La Mesa, CA 91941",
+   "tags": {}
+  }
+ ]
+}

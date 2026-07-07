@@ -1,0 +1,80 @@
+{
+ "$schemaVersion": 1,
+ "city": "madrid",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:37:37.579Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/13516639204",
+   "name": "Guardería canina",
+   "lat": 40.3993842,
+   "lon": -3.6985604,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12137278505",
+   "name": "City Dog",
+   "lat": 40.4395126,
+   "lon": -3.7111695,
+   "distKm": 2.6,
+   "address": "75 Calle de Blasco de Garay",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11887061966",
+   "name": "Guardería y Peluquería Canina Días Perros",
+   "lat": 40.4640008,
+   "lon": -3.7216158,
+   "distKm": 5.5,
+   "address": "59 Calle de la Isla de Oza",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4901294341",
+   "name": "Mami Dogguies",
+   "lat": 40.4997329,
+   "lon": -3.6726657,
+   "distKm": 9.6,
+   "address": "Calle Navarrete, Madrid, 28050",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6761232529",
+   "name": "Residencia Canina Malilupus",
+   "lat": 40.3738974,
+   "lon": -3.8196144,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {
+    "phone": "+34 911 88 60 11",
+    "website": "https://www.malilupus.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/348872186",
+   "name": "Villamascota",
+   "lat": 40.3004483,
+   "lon": -3.6892055,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

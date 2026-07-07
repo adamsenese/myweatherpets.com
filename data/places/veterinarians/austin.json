@@ -1,0 +1,510 @@
+{
+ "$schemaVersion": 1,
+ "city": "austin",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:22:40.402Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 47,
+ "places": [
+  {
+   "id": "way/99868629",
+   "name": "Austin Urban Veterinary Center",
+   "lat": 30.2694317,
+   "lon": -97.7502825,
+   "distKm": 0.7,
+   "address": "701 West 5th Street, Austin, TX 78701",
+   "tags": {
+    "phone": "+1-512-476-2882",
+    "website": "https://austinurbanvet.com/"
+   }
+  },
+  {
+   "id": "node/9604359116",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.2631349,
+   "lon": -97.7303066,
+   "distKm": 1.3,
+   "address": "1211 East 5th Street, Austin, TX 78702",
+   "tags": {
+    "opening_hours": "Mo-Sa 07:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/12708385749",
+   "name": "Modern Animal Veterinary Care",
+   "lat": 30.2549935,
+   "lon": -97.7623897,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/12771163891",
+   "name": "Honnas Veterinary",
+   "lat": 30.2508531,
+   "lon": -97.7650834,
+   "distKm": 2.8,
+   "address": "1615 South Lamar Boulevard, Austin, TX",
+   "tags": {
+    "phone": "+1 512-518-5674",
+    "website": "www.honnas.vet",
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/5003857121",
+   "name": "Thrive Pet Healthcare",
+   "lat": 30.259563,
+   "lon": -97.709922,
+   "distKm": 3.3,
+   "address": "2795 East 7th Street, 78702",
+   "tags": {}
+  },
+  {
+   "id": "way/382444388",
+   "name": "Parker Animal Care",
+   "lat": 30.247108,
+   "lon": -97.774442,
+   "distKm": 3.7,
+   "address": "2239 South Lamar Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/12550243492",
+   "name": "PAZ Veterinary East",
+   "lat": 30.2579334,
+   "lon": -97.7041225,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/381788468",
+   "name": "Austin Vet Hospital",
+   "lat": 30.304995,
+   "lon": -97.712561,
+   "distKm": 5.1,
+   "address": "4701 North Interstate Highway 35 Service Road",
+   "tags": {}
+  },
+  {
+   "id": "node/11369882863",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.3044616,
+   "lon": -97.709184,
+   "distKm": 5.3,
+   "address": "1201 Barbara Jordan Boulevard, Austin, TX 78723",
+   "tags": {
+    "phone": "+1-512-469-0103",
+    "website": "https://www.banfield.com"
+   }
+  },
+  {
+   "id": "way/382723826",
+   "name": "Emancipet East",
+   "lat": 30.2531928,
+   "lon": -97.688792,
+   "distKm": 5.4,
+   "address": "7201 Levander Loop, Austin, TX 78702",
+   "tags": {
+    "phone": "+1 512-587-7729",
+    "website": "https://emancipet.org/"
+   }
+  },
+  {
+   "id": "way/382724159",
+   "name": "Emancipet East Clinic",
+   "lat": 30.2530796,
+   "lon": -97.6888133,
+   "distKm": 5.4,
+   "address": "7201 Levander Loop, Austin, TX 78702",
+   "tags": {}
+  },
+  {
+   "id": "way/381764304",
+   "name": "Hyde Park Animal Clinic",
+   "lat": 30.314623,
+   "lon": -97.7201625,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/381812058",
+   "name": "Rosedale Veterinary Clinic",
+   "lat": 30.3192105,
+   "lon": -97.7394584,
+   "distKm": 5.8,
+   "address": "4800 Burnet Road, Austin, TX 78756",
+   "tags": {}
+  },
+  {
+   "id": "way/383904116",
+   "name": "VCA Animal Hospital",
+   "lat": 30.232015,
+   "lon": -97.794355,
+   "distKm": 6.3,
+   "address": "2417 West Ben White Boulevard, Austin, TX 78704",
+   "tags": {}
+  },
+  {
+   "id": "node/13111665001",
+   "name": "Capital Veterinary Clinic",
+   "lat": 30.213876,
+   "lon": -97.770034,
+   "distKm": 6.5,
+   "address": "4800 South Congress Avenue, 78745",
+   "tags": {
+    "phone": "+1-512-442-1496",
+    "website": "https://capitalvet.com",
+    "opening_hours": "Mo-Fr 09:00-12:00,14:00-17:30; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/13143276948",
+   "name": "Westlake Animal Hospital",
+   "lat": 30.2824611,
+   "lon": -97.809409,
+   "distKm": 6.6,
+   "address": "3930 Westlake Drive, West Lake Hills, TX 78746",
+   "tags": {
+    "phone": "+1-512-327-1703",
+    "website": "https://www.thrivepetcare.com",
+    "opening_hours": "Mo-Fr 07:00-19:00"
+   }
+  },
+  {
+   "id": "node/5771447971",
+   "name": "Westgate Pet & Bird Hospital",
+   "lat": 30.2313033,
+   "lon": -97.801288,
+   "distKm": 6.9,
+   "address": "4534 West Gate Boulevard, Austin, 78745",
+   "tags": {
+    "website": "https://www.westgatepetandbird.com/"
+   }
+  },
+  {
+   "id": "node/8371448610",
+   "name": "Barton Creek Animal Clinic",
+   "lat": 30.2755822,
+   "lon": -97.8165058,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13027404038",
+   "name": "Austin Pets Alive! Medical Clinic",
+   "lat": 30.2340169,
+   "lon": -97.816271,
+   "distKm": 7.9,
+   "address": "4900 West US 290 Frontage Road, Austin, TX 78735",
+   "tags": {
+    "website": "https://www.austinpetsalive.org/"
+   }
+  },
+  {
+   "id": "node/5771772953",
+   "name": "Manchaca Road Animal Hospital",
+   "lat": 30.2147116,
+   "lon": -97.799724,
+   "distKm": 8,
+   "address": "5720 Manchaca Road, Austin, TX 78745",
+   "tags": {}
+  },
+  {
+   "id": "way/381838356",
+   "name": "Northwest Veterinary Hospital",
+   "lat": 30.3429325,
+   "lon": -97.76427,
+   "distKm": 8.7,
+   "address": "3817 Dry Creek Drive",
+   "tags": {}
+  },
+  {
+   "id": "node/10290347610",
+   "name": "Emancipet North Austin",
+   "lat": 30.340542,
+   "lon": -97.692601,
+   "distKm": 9.5,
+   "address": "1030 Suite 316 Norwood Park Boulevard, 78753",
+   "tags": {
+    "phone": "+1-512-587-7729",
+    "website": "https://emancipet.org/austin/",
+    "opening_hours": "Mo-Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/383133734",
+   "name": "Hill Country Animal Hospital",
+   "lat": 30.3019245,
+   "lon": -97.8401575,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10656055069",
+   "name": "Brodie Animal Hospital",
+   "lat": 30.2127395,
+   "lon": -97.8300738,
+   "distKm": 10.3,
+   "address": "3421 West William Cannon Drive, Austin, TX 78745",
+   "tags": {}
+  },
+  {
+   "id": "node/13647869802",
+   "name": "Burnet Road Animal Hospital",
+   "lat": 30.3668297,
+   "lon": -97.7276394,
+   "distKm": 11.2,
+   "address": "8511 Burnet Road, 78757",
+   "tags": {
+    "phone": "+1-512-342-1710",
+    "website": "https://burnetroadanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00"
+   }
+  },
+  {
+   "id": "way/383199748",
+   "name": "Spicewood Springs Animal Hospital",
+   "lat": 30.375513,
+   "lon": -97.760529,
+   "distKm": 12.2,
+   "address": "4606 Spicewood Springs Road",
+   "tags": {}
+  },
+  {
+   "id": "node/3930556075",
+   "name": "Veterinary Surgical Solutions",
+   "lat": 30.3767131,
+   "lon": -97.7251189,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8371362751",
+   "name": "Companion Animal Clinic",
+   "lat": 30.2359564,
+   "lon": -97.8768343,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13118621508",
+   "name": "Prickly Pear Pet Vaccines, PLLC",
+   "lat": 30.1555928,
+   "lon": -97.792722,
+   "distKm": 13.3,
+   "address": "9900 South Interstate 35, Austin, TX 78748",
+   "tags": {
+    "phone": "+1-737-202-4836",
+    "website": "https://pricklypearvetaustin.com",
+    "opening_hours": "Tu-We 10:00-14:00,16:00-18:00; Th-Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "way/1211276629",
+   "name": "Prairie Creek Animal Hospital",
+   "lat": 30.2521559,
+   "lon": -97.5961218,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9735974275",
+   "name": "Southwest Vet",
+   "lat": 30.2506078,
+   "lon": -97.8966697,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12594152151",
+   "name": "Circle C Animal Hospital",
+   "lat": 30.2039838,
+   "lon": -97.8793497,
+   "distKm": 14.9,
+   "address": "9600 H Escarpment Boulevard, Austin, TX 78749",
+   "tags": {
+    "website": "https://circlecanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/8410329812",
+   "name": "South Austin Cat Hospital",
+   "lat": 30.1377967,
+   "lon": -97.7960432,
+   "distKm": 15.3,
+   "address": "11215 South Interstate 35, Austin, TX 78747",
+   "tags": {
+    "phone": "+1-512-910-2287",
+    "website": "https://southaustincathospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/7297515282",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.4073978,
+   "lon": -97.7472331,
+   "distKm": 15.6,
+   "address": "11150 Research Boulevard, Austin, TX 78759",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2724700541",
+   "name": "Arbor Animal Clinic",
+   "lat": 30.4082416,
+   "lon": -97.7474067,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8067353597",
+   "name": "VCA Arbor Animal Hospital",
+   "lat": 30.4082065,
+   "lon": -97.7475023,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/382369169",
+   "name": "Dessau Veterinary Clinic",
+   "lat": 30.3883449,
+   "lon": -97.6472744,
+   "distKm": 16.3,
+   "address": "12315 Dessau Road",
+   "tags": {}
+  },
+  {
+   "id": "node/561487613",
+   "name": "Manchaca Village Veterinary Care",
+   "lat": 30.1414271,
+   "lon": -97.8327855,
+   "distKm": 16.4,
+   "address": "12117 Manchaca Road, Austin, 78748",
+   "tags": {
+    "phone": "+1-512-282-1326",
+    "website": "https://manchacavet.com/"
+   }
+  },
+  {
+   "id": "node/13386605320",
+   "name": "Crestview Veterinary Clinic at Tech Ridge",
+   "lat": 30.4044872,
+   "lon": -97.6733441,
+   "distKm": 16.7,
+   "address": "500 West Canyon Ridge Drive",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/383196948",
+   "name": "Wells Branch Pet & Bird Clinic",
+   "lat": 30.4145825,
+   "lon": -97.7081825,
+   "distKm": 16.7,
+   "address": "12200 North MoPac Expressway",
+   "tags": {
+    "phone": "+1-512-339-8472",
+    "website": "https://www.petandbirdclinic.com/"
+   }
+  },
+  {
+   "id": "node/12988996703",
+   "name": "Austin Vet Care @ Metric",
+   "lat": 30.4114285,
+   "lon": -97.6916129,
+   "distKm": 16.8,
+   "address": "12419 Metric Boulevard, Austin, TX 78758",
+   "tags": {
+    "phone": "+1-512-832-1088",
+    "website": "https://www.thrivepetcare.com",
+    "opening_hours": "Mo-Fr 07:30-18:00"
+   }
+  },
+  {
+   "id": "node/12988996705",
+   "name": "Eye Care for Animals",
+   "lat": 30.4113973,
+   "lon": -97.691598,
+   "distKm": 16.8,
+   "address": "12419 Metric Boulevard, Austin, TX 78758",
+   "tags": {
+    "phone": "+1-512-522-6920",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/72378684",
+   "name": "Pet & Bird Hospital",
+   "lat": 30.4180003,
+   "lon": -97.7458999,
+   "distKm": 16.8,
+   "address": "11679 Research Boulevard, Austin, TX 78759",
+   "tags": {}
+  },
+  {
+   "id": "node/7287247417",
+   "name": "Sunbury Vet Clinic",
+   "lat": 30.4170041,
+   "lon": -97.7036114,
+   "distKm": 17.1,
+   "address": "12407 North MoPac Expressway, Austin, TX 78758",
+   "tags": {
+    "phone": "+1-512-255-8387",
+    "website": "https://sunburyvet.com/",
+    "opening_hours": "Mo-We,Fr 07:00-18:00; Th 07:00-20:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/8083162517",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.4133,
+   "lon": -97.6702644,
+   "distKm": 17.7,
+   "address": "12901 North Interstate 35, Austin, TX 78753",
+   "tags": {
+    "phone": "+1-512-252-7070",
+    "website": "https://www.banfield.com/veterinarians/tx/austin/nea?cid=yext_local",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/5330270627",
+   "name": "Animal Hospital",
+   "lat": 30.3879174,
+   "lon": -97.885063,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10738390715",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.3064125,
+   "lon": -97.9414674,
+   "distKm": 19.5,
+   "address": "12812 Shops Parkway, Bee Cave, TX 78738",
+   "tags": {
+    "phone": "+1-512-263-6077",
+    "website": "https://www.banfield.com",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  }
+ ]
+}

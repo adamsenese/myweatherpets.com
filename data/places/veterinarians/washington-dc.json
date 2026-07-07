@@ -1,0 +1,676 @@
+{
+ "$schemaVersion": 1,
+ "city": "washington-dc",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:26:20.042Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/462044730",
+   "name": "Dupont Veterinary Clinic",
+   "lat": 38.9094595,
+   "lon": -77.0459469,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2719878404",
+   "name": "Adams Morgan Animal Hospital",
+   "lat": 38.9183268,
+   "lon": -77.0418341,
+   "distKm": 1.3,
+   "address": "2112 18th Street Northwest, Washington, DC 20009",
+   "tags": {
+    "phone": "+1 202-638-7470",
+    "website": "https://www.adamsmorganah.com/"
+   }
+  },
+  {
+   "id": "node/11038073148",
+   "name": "Small Door Veterinary",
+   "lat": 38.9188168,
+   "lon": -77.0321966,
+   "distKm": 1.4,
+   "address": "2110 14th Street Northwest, Washington, DC 20009",
+   "tags": {
+    "phone": "+1 202-773-4262",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/13374564281",
+   "name": "Livewell Animal Hospital",
+   "lat": 38.9192258,
+   "lon": -77.0246481,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/906299793",
+   "name": "Georgetown Veterinary Hospital",
+   "lat": 38.9062565,
+   "lon": -77.0638713,
+   "distKm": 2.3,
+   "address": "3251 Prospect Street Northwest, Washington, DC 20007",
+   "tags": {
+    "phone": "+1-202-333-2140",
+    "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-14:00; Sa 09:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/12688884457",
+   "name": "P Street Pet Practice",
+   "lat": 38.9097612,
+   "lon": -77.0075366,
+   "distKm": 2.6,
+   "address": "34 P Street Northeast, Washington, DC 20002",
+   "tags": {
+    "phone": "+12028273790",
+    "website": "https://pstreetpetpractice.com/"
+   }
+  },
+  {
+   "id": "node/724359620",
+   "name": "Collins Hospital for Animals",
+   "lat": 38.9149441,
+   "lon": -77.0675413,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-18:00; We,Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/13201832653",
+   "name": "Parker & Ace",
+   "lat": 38.9000521,
+   "lon": -76.9991257,
+   "distKm": 3.4,
+   "address": "501 H Street Northeast, Washington, DC 20002",
+   "tags": {}
+  },
+  {
+   "id": "node/13164135565",
+   "name": "GoodVets",
+   "lat": 38.8782434,
+   "lon": -77.0173411,
+   "distKm": 3.6,
+   "address": "1000 4th Street Southwest",
+   "tags": {
+    "phone": "+1 202-992-8810",
+    "website": "https://goodvets.com/locations/washington-d-c/the-wharf"
+   }
+  },
+  {
+   "id": "node/1066781439",
+   "name": "City Paws Animal Hospital",
+   "lat": 38.9361003,
+   "lon": -77.0581774,
+   "distKm": 3.7,
+   "address": "3513 Connecticut Avenue Northwest, Washington, DC 20008",
+   "tags": {
+    "website": "https://citypaws-uptown.com/"
+   }
+  },
+  {
+   "id": "node/11404991022",
+   "name": "Veterinary Emergency Group",
+   "lat": 38.9000503,
+   "lon": -76.9932966,
+   "distKm": 3.9,
+   "address": "925 H Street Northeast, Washington, DC 20002",
+   "tags": {
+    "phone": "+1 202-794-8002",
+    "website": "https://veterinaryemergencygroup.com/locations/h-street-washington-dc/",
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/11877559278",
+   "name": "Small Door Veterinary",
+   "lat": 38.8791287,
+   "lon": -77.0061941,
+   "distKm": 4.1,
+   "address": "949 1st Street Southeast, Washington, DC 20003",
+   "tags": {}
+  },
+  {
+   "id": "node/10261183958",
+   "name": "Bond Vet",
+   "lat": 38.8855208,
+   "lon": -76.9974619,
+   "distKm": 4.2,
+   "address": "600 Pennsylvania Avenue Southeast, Washington, 20003",
+   "tags": {
+    "phone": "+1-202-996-6737",
+    "website": "https://bondvet.com/c/capitol-hill-animal-hospital",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/10539843382",
+   "name": "District Veterinary Hospital",
+   "lat": 38.879467,
+   "lon": -77.0037622,
+   "distKm": 4.2,
+   "address": "801 2nd Street Southeast, 20003",
+   "tags": {
+    "website": "https://districtvetnavyyard.com/",
+    "opening_hours": "Mo-Tu, Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/10540098314",
+   "name": "District Veterinary Hospital",
+   "lat": 38.8862392,
+   "lon": -76.9959875,
+   "distKm": 4.2,
+   "address": "240 7th Street Southeast, 20003",
+   "tags": {
+    "website": "https://districtveteasternmarket.com/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/11483278530",
+   "name": "AtlasVet",
+   "lat": 38.900365,
+   "lon": -76.9872515,
+   "distKm": 4.4,
+   "address": "1326 H Street Northeast",
+   "tags": {
+    "phone": "+1 202-552-8600",
+    "website": "https://atlasvetdc.com/",
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/12885324653",
+   "name": "Bond Vet",
+   "lat": 38.9351333,
+   "lon": -77.0735516,
+   "distKm": 4.4,
+   "address": "3707 Newark Street Northwest, Washington, DC 20016",
+   "tags": {
+    "website": "https://bondvet.com/c/cathedral-heights-animal-hospital"
+   }
+  },
+  {
+   "id": "node/6141052646",
+   "name": "Caring Hands",
+   "lat": 38.8902391,
+   "lon": -77.0898826,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "phone": "+1 703-535-3100",
+    "website": "https://caringhandsvet.com/locations/arlington/",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-16:00; Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "way/297542320",
+   "name": "District Veterinary Hospital",
+   "lat": 38.9368134,
+   "lon": -76.9939613,
+   "distKm": 5,
+   "address": "3748 10th Street Northeast, Washington, DC 20017",
+   "tags": {
+    "website": "https://www.districtvet.com/"
+   }
+  },
+  {
+   "id": "node/10955889722",
+   "name": "Bond Vet",
+   "lat": 38.8881814,
+   "lon": -77.0928898,
+   "distKm": 5.3,
+   "address": "2871 Clarendon Boulevard, VA",
+   "tags": {
+    "phone": "+1 703-459-9383"
+   }
+  },
+  {
+   "id": "node/11825001729",
+   "name": "VCA MacArthur Animal Hospital",
+   "lat": 38.9169165,
+   "lon": -77.09657,
+   "distKm": 5.3,
+   "address": "4832 MacArthur Boulevard Northwest, Washington, DC 20007",
+   "tags": {
+    "phone": "+1 202-337-0120",
+    "website": "https://vcahospitals.com/macarthur",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/4840450161",
+   "name": "Clarendon Animal Care",
+   "lat": 38.8842765,
+   "lon": -77.0942845,
+   "distKm": 5.6,
+   "address": "3000 Suite B 10th Street North, Arlington, VA 22201",
+   "tags": {
+    "phone": "+1-703-997-9776",
+    "website": "https://www.clarendonanimalcare.com/",
+    "opening_hours": "Mo-Th 07:30-19:30; Fr 07:30-17:30; Sa 07:30-12:30; Su off"
+   }
+  },
+  {
+   "id": "node/13570775358",
+   "name": "GoodVets",
+   "lat": 38.8573164,
+   "lon": -77.0497152,
+   "distKm": 5.7,
+   "address": "269 19th Court South, Arlington, VA 22202",
+   "tags": {}
+  },
+  {
+   "id": "node/9965168808",
+   "name": "Friendship Hospital for Animals",
+   "lat": 38.9498713,
+   "lon": -77.0811559,
+   "distKm": 6.1,
+   "address": "4105 Brandywine Street Northwest",
+   "tags": {
+    "phone": "+1 202-363-7301",
+    "website": "https://friendshiphospital.com/"
+   }
+  },
+  {
+   "id": "way/80460911",
+   "name": "Palisades Veterinary Clinic",
+   "lat": 38.9258768,
+   "lon": -77.1028933,
+   "distKm": 6.1,
+   "address": "5138 MacArthur Boulevard Northwest",
+   "tags": {
+    "phone": "+1-202-363-1316",
+    "website": "https://palisadesvetclinic.com",
+    "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/2922205999",
+   "name": "Northside Veterinary Clinic",
+   "lat": 38.8972852,
+   "lon": -77.1079806,
+   "distKm": 6.2,
+   "address": "4003 Langston Boulevard, Arlington, VA 22207",
+   "tags": {
+    "phone": "+1-703-525-7115",
+    "website": "http://www.northsidevetclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-19:30; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/10560708719",
+   "name": "Arlington Animal Hospital",
+   "lat": 38.8641441,
+   "lon": -77.0824574,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.myarlingtonvet.com/",
+    "opening_hours": "Mo-Tu,Th 08:00-20:00; We,Fr 08:00-18:00; Sa 08:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/4640281769",
+   "name": "Animal Clinic of Anacostia",
+   "lat": 38.8644743,
+   "lon": -76.9898219,
+   "distKm": 6.3,
+   "address": "2210 Martin Luther King Junior Avenue Southeast, Washington, DC 20020",
+   "tags": {}
+  },
+  {
+   "id": "way/211213353",
+   "name": "Cherrydale Veterinary Clinic",
+   "lat": 38.8966669,
+   "lon": -77.1088556,
+   "distKm": 6.3,
+   "address": "4038 Cherry Hill Road, Arlington, VA 22207",
+   "tags": {
+    "phone": "+1-703-528-9001",
+    "website": "https://www.cherrydalevet.com/",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/12269600743",
+   "name": "Small Door",
+   "lat": 38.9445008,
+   "lon": -77.0965507,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/809008449",
+   "name": "Friendship Hospital for Animals",
+   "lat": 38.9555931,
+   "lon": -77.0827697,
+   "distKm": 6.7,
+   "address": "5025 Wisconsin Avenue Northwest, Washington, DC",
+   "tags": {
+    "website": "https://www.friendshiphospital.com/"
+   }
+  },
+  {
+   "id": "node/3366911494",
+   "name": "Caring Hands Animal Hospital",
+   "lat": 38.8455536,
+   "lon": -77.0675796,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10261232868",
+   "name": "Clarendon Animal Care",
+   "lat": 38.8595243,
+   "lon": -77.1022268,
+   "distKm": 7.8,
+   "address": "948 South George Mason Drive, Arlington, VA 22204",
+   "tags": {}
+  },
+  {
+   "id": "way/210671581",
+   "name": "Ballston Animal Hospital",
+   "lat": 38.8769562,
+   "lon": -77.1248323,
+   "distKm": 8.3,
+   "address": "5232 Wilson Boulevard, Arlington, VA 22205",
+   "tags": {
+    "phone": "+1 703-528-2776",
+    "website": "https://ballstonanimalhospital.com/",
+    "opening_hours": "Mo-Th 07:30-19:30; Fr 07:30-17:30; Sa 08:00-12:30"
+   }
+  },
+  {
+   "id": "way/257222468",
+   "name": "Takoma Park Animal Clinic",
+   "lat": 38.9788668,
+   "lon": -77.0056752,
+   "distKm": 8.4,
+   "address": "7330 Carroll Avenue, 20912",
+   "tags": {}
+  },
+  {
+   "id": "way/1105900033",
+   "name": "Kenwood Animal Hospital",
+   "lat": 38.9626396,
+   "lon": -77.1022629,
+   "distKm": 8.4,
+   "address": "5439 Butler Road, Bethesda, MD 20816",
+   "tags": {}
+  },
+  {
+   "id": "node/8860591234",
+   "name": "Shirlington Animal Hospital",
+   "lat": 38.8412785,
+   "lon": -77.0881969,
+   "distKm": 8.6,
+   "address": "2770 South Arlington Mill Drive, Arlington, VA 22206",
+   "tags": {
+    "phone": "+1 703-570-6600",
+    "website": "https://www.shirlingtonanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/2295017196",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.9774979,
+   "lon": -77.0914834,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/231654325",
+   "name": "Del Ray Animal Hospital",
+   "lat": 38.8262817,
+   "lon": -77.0509747,
+   "distKm": 9.1,
+   "address": "524 East Mount Ida Avenue, Alexandria, VA 22301",
+   "tags": {
+    "phone": "+1 703-739-0000",
+    "website": "https://www.delrayanimalhospital.com/",
+    "opening_hours": "Mo,We 07:00-18:00; Tu,Th,Fr 07:00-17:00"
+   }
+  },
+  {
+   "id": "node/1919611450",
+   "name": "Your Dog's Best Friend",
+   "lat": 38.8249594,
+   "lon": -77.0506444,
+   "distKm": 9.2,
+   "address": "2000 Richmond Highway, Alexandria, VA 22301",
+   "tags": {}
+  },
+  {
+   "id": "node/12332008904",
+   "name": "Bond Vet",
+   "lat": 38.9803006,
+   "lon": -77.0982135,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3909954214",
+   "name": "Small Door Veterinary",
+   "lat": 38.9197498,
+   "lon": -77.1498945,
+   "distKm": 9.9,
+   "address": "6224 Old Dominion Drive, McLean, VA 22101",
+   "tags": {
+    "phone": "+1-703-957-0947",
+    "website": "https://www.smalldoorvet.com/locations/washington-dc/mclean/"
+   }
+  },
+  {
+   "id": "node/9408773657",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.8685627,
+   "lon": -77.1430071,
+   "distKm": 10.1,
+   "address": "6100 Arlington Boulevard, Falls Church, VA 22044",
+   "tags": {
+    "phone": "+1-703-536-2708",
+    "website": "https://www.petsmart.com/stores/us/va/falls-church-store0442.html",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2467153422",
+   "name": "Lynn Animal Hospital Inc.",
+   "lat": 38.9636916,
+   "lon": -76.9390066,
+   "distKm": 10.5,
+   "address": "6215 Baltimore Avenue, 20737",
+   "tags": {}
+  },
+  {
+   "id": "node/9095808588",
+   "name": "PetsFirst TLC Veterinary Center",
+   "lat": 39.0089014,
+   "lon": -77.0409343,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "We,Th 11:00-19:00; Sa 09:00-17:00; Su 10:00-15:00"
+   }
+  },
+  {
+   "id": "way/217710623",
+   "name": "VCA Animal Hospital",
+   "lat": 38.8063202,
+   "lon": -77.0757757,
+   "distKm": 11.7,
+   "address": "2660 Duke Street, 22314",
+   "tags": {}
+  },
+  {
+   "id": "node/2367810356",
+   "name": "Animal Medical Center",
+   "lat": 38.9595105,
+   "lon": -76.9185841,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12013068551",
+   "name": "Cozy Cats Veterinary",
+   "lat": 39.0149736,
+   "lon": -77.0557961,
+   "distKm": 12.1,
+   "address": "10 Post Office Road",
+   "tags": {
+    "phone": "+1-301-587-0052",
+    "website": "https://cozycats.vet/"
+   }
+  },
+  {
+   "id": "node/10102282479",
+   "name": "Veterinary Emergency Group",
+   "lat": 38.8128804,
+   "lon": -77.1104105,
+   "distKm": 12.3,
+   "address": "4525 Duke Street, Alexandria, VA 22304",
+   "tags": {
+    "phone": "+1 571-899-4360"
+   }
+  },
+  {
+   "id": "way/315414554",
+   "name": "McLean Animal Hospital",
+   "lat": 38.9383691,
+   "lon": -77.1763974,
+   "distKm": 12.6,
+   "address": "1330 Old Chain Bridge Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/512962521",
+   "name": "Four Corners Animal Hospital",
+   "lat": 39.0218969,
+   "lon": -77.0147221,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6034927927",
+   "name": "Del ray animal hospital",
+   "lat": 39.0079,
+   "lon": -77.112503,
+   "distKm": 13,
+   "address": "9301 Old Georgetown Road",
+   "tags": {}
+  },
+  {
+   "id": "node/13132195658",
+   "name": "Value Vet",
+   "lat": 38.8913488,
+   "lon": -77.1859736,
+   "distKm": 13,
+   "address": "1053 West Broad Street, Falls Church, VA 22046",
+   "tags": {
+    "phone": "+1-703-982-7400",
+    "website": "https://valuevet.net/"
+   }
+  },
+  {
+   "id": "node/6190897820",
+   "name": "Falls Church Animal Hospital",
+   "lat": 38.8941757,
+   "lon": -77.1902298,
+   "distKm": 13.3,
+   "address": "1249 West Broad Street, Falls Church, VA 22046",
+   "tags": {
+    "phone": "+1-703-532-6121",
+    "website": "https://fallschurchanimalhospital.com/",
+    "opening_hours": "Mo-Fr 8:00-18:00, Sa 8:00-14:00"
+   }
+  },
+  {
+   "id": "node/12755490612",
+   "name": "Elpaw",
+   "lat": 38.8080859,
+   "lon": -77.1239199,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "website": "https://elpaw.net",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/5514947232",
+   "name": "Caring Hands Animal Hospital",
+   "lat": 38.8103172,
+   "lon": -77.1335265,
+   "distKm": 13.6,
+   "address": "295 South Van Dorn Street, Alexandria, VA 22304",
+   "tags": {}
+  },
+  {
+   "id": "node/13948244273",
+   "name": "Toebeans & Tails Veterinary Hospital",
+   "lat": 38.8074664,
+   "lon": -77.1280732,
+   "distKm": 13.6,
+   "address": "5561 Cardinal Place, Alexandria, VA 22304",
+   "tags": {
+    "website": "https://www.toebeansandtailsvet.com/"
+   }
+  },
+  {
+   "id": "node/7195970748",
+   "name": "Silver Spring Animal Hospital",
+   "lat": 39.0274171,
+   "lon": -77.0711637,
+   "distKm": 13.7,
+   "address": "10505 Metropolitan Avenue",
+   "tags": {
+    "opening_hours": "\"by appointment\""
+   }
+  },
+  {
+   "id": "way/112578556",
+   "name": "Apex Vets",
+   "lat": 39.0346536,
+   "lon": -77.0532143,
+   "distKm": 14.2,
+   "address": "11060 Veirs Mill Road, Silver Spring, MD 20902",
+   "tags": {
+    "phone": "+1 301 444 6500",
+    "website": "https://apex.vet",
+    "opening_hours": "Mo-Su 07:00-00:00 \"emergency\"; Mo-Th 09:00-17:00 \"specialty\""
+   }
+  },
+  {
+   "id": "way/853563757",
+   "name": "Belle Haven Animal Medical Center",
+   "lat": 38.7800842,
+   "lon": -77.0550683,
+   "distKm": 14.2,
+   "address": "1221 Belle Haven Road, Alexandria, VA 22307",
+   "tags": {
+    "phone": "+1 703-721-0088",
+    "website": "https://www.bhamc.com/",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 07:30-13:30"
+   }
+  }
+ ]
+}

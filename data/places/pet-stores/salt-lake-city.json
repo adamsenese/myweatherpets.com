@@ -1,0 +1,320 @@
+{
+ "$schemaVersion": 1,
+ "city": "salt-lake-city",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:32:44.928Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 26,
+ "places": [
+  {
+   "id": "node/9239196347",
+   "name": "Healthy Pets",
+   "lat": 40.77268,
+   "lon": -111.8683728,
+   "distKm": 2.3,
+   "address": "702 East 3rd Avenue, Salt Lake City, UT 84103",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 00:00-17:00"
+   }
+  },
+  {
+   "id": "way/613170011",
+   "name": "PetSmart",
+   "lat": 40.7294356,
+   "lon": -111.9022514,
+   "distKm": 3.6,
+   "address": "389 West 1830 South, Salt Lake City, UT 84115",
+   "tags": {
+    "phone": "+1 801-466-0313",
+    "website": "https://www.petsmart.com/stores/us/ut/salt-lake-city-store0172.html",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8143787448",
+   "name": "Healthy Pets",
+   "lat": 40.7313652,
+   "lon": -111.8598806,
+   "distKm": 4.2,
+   "address": "1790 South 1100 East, Salt Lake City, UT 84105",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/11381313620",
+   "name": "Petco",
+   "lat": 40.7240412,
+   "lon": -111.8575778,
+   "distKm": 5,
+   "address": "1165 East Wilmington Avenue, Salt Lake City, UT 84106",
+   "tags": {
+    "phone": "+1 801-474-2610",
+    "website": "https://stores.petco.com/ut/saltlakecity/pet-supplies-saltlakecity-ut-494.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7132955016",
+   "name": "Pet Door Products",
+   "lat": 40.7043713,
+   "lon": -111.9046237,
+   "distKm": 6.4,
+   "address": "3052 South Davis Drive, South Salt Lake, UT 84115",
+   "tags": {
+    "phone": "+1-801-973-8000",
+    "website": "https://petdoorproducts.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/10705358511",
+   "name": "Ma & Paws Bakery",
+   "lat": 40.7003506,
+   "lon": -111.8560671,
+   "distKm": 7.3,
+   "address": "1127 East 3300 South, Salt Lake City, UT 84106",
+   "tags": {
+    "phone": "+1 801 487 3838",
+    "opening_hours": "Mo-Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/5851850973",
+   "name": "The Dog's Meow",
+   "lat": 40.7003011,
+   "lon": -111.832526,
+   "distKm": 8.3,
+   "address": "2047 East 3300 South, Salt Lake City, UT 84109",
+   "tags": {}
+  },
+  {
+   "id": "way/522750576",
+   "name": "Fish 4 U",
+   "lat": 40.6847508,
+   "lon": -111.8446532,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/357488904",
+   "name": "Petco",
+   "lat": 40.6933417,
+   "lon": -111.957534,
+   "distKm": 9.4,
+   "address": "3637 South Constitution Boulevard, West Valley City, UT 84119",
+   "tags": {
+    "phone": "+1 801-968-7200",
+    "website": "https://stores.petco.com/ut/westvalleycity/pet-supplies-westvalleycity-ut-1246.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1134837629",
+   "name": "Operation Pawpulation",
+   "lat": 40.6759186,
+   "lon": -111.8660388,
+   "distKm": 9.7,
+   "address": "4392 South 900 East, Millcreek, UT 84124",
+   "tags": {}
+  },
+  {
+   "id": "node/3999878496",
+   "name": "PetSmart",
+   "lat": 40.7011595,
+   "lon": -111.8025863,
+   "distKm": 10,
+   "address": "3191 East 3300 South, Salt Lake City, UT 84109",
+   "tags": {
+    "phone": "+1 801-487-9290",
+    "website": "https://www.petsmart.com/stores/us/ut/salt-lake-city-store0169.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11845572970",
+   "name": "The Watetfront",
+   "lat": 40.6678483,
+   "lon": -111.9029435,
+   "distKm": 10.4,
+   "address": "4782 South Plum Street, 84123",
+   "tags": {
+    "website": "https://www.thewaterfrontslc.com/",
+    "opening_hours": "Mo-Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/9438490310",
+   "name": "Mark's Ark",
+   "lat": 40.6633897,
+   "lon": -111.9380621,
+   "distKm": 11.5,
+   "address": "4875 South Redwood Road, Taylorsville, UT 84123",
+   "tags": {
+    "phone": "+1-801-261-0466",
+    "website": "https://marksarkutah.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-19:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/3738280947",
+   "name": "Dog Stop Grooming",
+   "lat": 40.6669878,
+   "lon": -111.8231405,
+   "distKm": 11.9,
+   "address": "4724 South Holladay Boulevard, Holladay",
+   "tags": {}
+  },
+  {
+   "id": "node/6587926292",
+   "name": "Traci's Parrots 4U",
+   "lat": 40.6526111,
+   "lon": -111.9098223,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12099873346",
+   "name": "Petco",
+   "lat": 40.6544545,
+   "lon": -111.9405521,
+   "distKm": 12.5,
+   "address": "1786 West 5400 South, Taylorsville, UT 84129",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/33407245",
+   "name": "PetSmart",
+   "lat": 40.7041825,
+   "lon": -112.0221294,
+   "distKm": 12.7,
+   "address": "3081 South 5600 West, West Valley City, UT 84120",
+   "tags": {
+    "phone": "+1 801-840-2728",
+    "website": "https://www.petsmart.com/stores/us/ut/salt-lake-city-store1385.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1047682188",
+   "name": "PetSmart",
+   "lat": 40.6471261,
+   "lon": -111.942583,
+   "distKm": 13.4,
+   "address": "5748 South Redwood Road, Taylorsville, UT 84123",
+   "tags": {
+    "phone": "+1 801-840-2236",
+    "website": "https://www.petsmart.com/stores/us/ut/taylorsville-store1782.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4291155693",
+   "name": "Petco",
+   "lat": 40.8912605,
+   "lon": -111.8939074,
+   "distKm": 14.5,
+   "address": "181 North 545 West, Bountiful, UT 84010",
+   "tags": {
+    "phone": "+1 801-397-5287",
+    "website": "https://stores.petco.com/ut/bountiful/pet-supplies-bountiful-ut-1459.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4207702213",
+   "name": "Petco",
+   "lat": 40.6271006,
+   "lon": -111.9404584,
+   "distKm": 15.4,
+   "address": "6842 South Redwood Road, West Jordan, UT 84084",
+   "tags": {
+    "phone": "+1 801-561-0055",
+    "website": "https://stores.petco.com/ut/westjordan/pet-supplies-westjordan-ut-264.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2330759099",
+   "name": "Petco",
+   "lat": 40.6221063,
+   "lon": -111.8609448,
+   "distKm": 15.6,
+   "address": "1090 East Fort Union Boulevard, Midvale, UT 84047",
+   "tags": {
+    "phone": "+1 801-352-1510",
+    "website": "https://stores.petco.com/ut/midvale/pet-supplies-midvale-ut-211.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13931651612",
+   "name": "Rebel Paw",
+   "lat": 40.6114796,
+   "lon": -111.9100774,
+   "distKm": 16.7,
+   "address": "7681 South Main Street, Midvale",
+   "tags": {}
+  },
+  {
+   "id": "node/11663796012",
+   "name": "The Puppy Store",
+   "lat": 40.6203818,
+   "lon": -111.9788209,
+   "distKm": 17.3,
+   "address": "7211 South Plaza Center Drive, West Jordan, UT 84084",
+   "tags": {}
+  },
+  {
+   "id": "node/4131349013",
+   "name": "PetSmart",
+   "lat": 40.9169688,
+   "lon": -111.886569,
+   "distKm": 17.4,
+   "address": "100 North Marketplace Drive, Centerville, UT 84014",
+   "tags": {
+    "phone": "+1 801-294-3273",
+    "website": "https://www.petsmart.com/stores/us/ut/centerville-store2217.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12911658327",
+   "name": "The Fish Tank",
+   "lat": 40.5999672,
+   "lon": -111.9098111,
+   "distKm": 18,
+   "address": "8371 South 700 West, Midvale, UT 84047",
+   "tags": {}
+  },
+  {
+   "id": "way/315395622",
+   "name": "PetSmart",
+   "lat": 40.6122845,
+   "lon": -111.9822726,
+   "distKm": 18.2,
+   "address": "7654 South Campus View Drive, West Jordan, UT 84084",
+   "tags": {
+    "phone": "+1 801-280-0099",
+    "website": "https://www.petsmart.com/stores/us/ut/west-jordan-store1784.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

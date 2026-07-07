@@ -1,0 +1,56 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-diego",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:22:04.890Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "node/596662706",
+   "name": "Bark Boulevard",
+   "lat": 32.755677,
+   "lon": -117.141508,
+   "distKm": 4.8,
+   "address": "2144 El Cajon Boulevard, San Diego, 92104",
+   "tags": {
+    "phone": "+1-619-255-0980",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13366163122",
+   "name": "PetSmart Doggie Day Camp",
+   "lat": 32.8651888,
+   "lon": -117.2318553,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13634476803",
+   "name": "Dogtopia",
+   "lat": 32.8824101,
+   "lon": -117.195205,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8715376320",
+   "name": "Blanco Brothers Ranch",
+   "lat": 32.5578838,
+   "lon": -117.0837068,
+   "distKm": 19,
+   "address": "2181 Hollister Street, San Diego, CA 92154",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

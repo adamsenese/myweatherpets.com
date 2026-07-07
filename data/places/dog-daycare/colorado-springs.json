@@ -1,0 +1,36 @@
+{
+ "$schemaVersion": 1,
+ "city": "colorado-springs",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:29:41.883Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "node/12971204475",
+   "name": "Prime Time Pups",
+   "lat": 38.8464249,
+   "lon": -104.7314394,
+   "distKm": 7.9,
+   "address": "5221 Galley Road, Colorado Springs, CO 80915",
+   "tags": {
+    "phone": "+1 719 375 2888",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/643845704",
+   "name": "Bradley Stables",
+   "lat": 38.7710378,
+   "lon": -104.7518334,
+   "distKm": 9.2,
+   "address": "4070 Bradley Road, Colorado Springs, CO 80911",
+   "tags": {
+    "opening_hours": "6:00-21:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

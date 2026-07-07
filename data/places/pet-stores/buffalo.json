@@ -1,0 +1,384 @@
+{
+ "$schemaVersion": 1,
+ "city": "buffalo",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:33:02.930Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "node/11957650155",
+   "name": "Buffalo Barkery",
+   "lat": 42.8995609,
+   "lon": -78.8717904,
+   "distKm": 1.6,
+   "address": "47 Allen Street",
+   "tags": {}
+  },
+  {
+   "id": "node/9320476619",
+   "name": "Elmwood Pet Supplies",
+   "lat": 42.9163039,
+   "lon": -78.8772268,
+   "distKm": 3.3,
+   "address": "706 Elmwood Avenue, Buffalo, NY 14222",
+   "tags": {
+    "phone": "+17168831377",
+    "website": "https://www.elmwoodpetsupplies.com/"
+   }
+  },
+  {
+   "id": "node/7349691732",
+   "name": "Pet Valu",
+   "lat": 42.9047575,
+   "lon": -78.9261128,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2203",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "way/1009527074",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9427179,
+   "lon": -78.867363,
+   "distKm": 6.3,
+   "address": "2155 Delaware Avenue, Buffalo, NY 14216",
+   "tags": {
+    "phone": "+17168766663",
+    "website": "https://www.petsuppliesplus.com/store/ny/buffalo/buffalo/116",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9288696850",
+   "name": "Daisy's Doghouse",
+   "lat": 42.9478533,
+   "lon": -78.8546367,
+   "distKm": 7.1,
+   "address": "1448 Hertel Avenue, Buffalo, NY 14216",
+   "tags": {
+    "phone": "+1-716-322-1931",
+    "website": "https://www.buffalopetstore.com/"
+   }
+  },
+  {
+   "id": "node/9288817754",
+   "name": "Purrfect Cafe and Gallery",
+   "lat": 42.9475341,
+   "lon": -78.8522618,
+   "distKm": 7.1,
+   "address": "1507 Hertel Avenue, Buffalo, NY 14216",
+   "tags": {
+    "phone": "+17163227358",
+    "website": "https://www.purrfectbuffalo.com/"
+   }
+  },
+  {
+   "id": "node/8517942227",
+   "name": "PetSmart",
+   "lat": 42.9546172,
+   "lon": -78.8764245,
+   "distKm": 7.6,
+   "address": "2101 Elmwood Avenue, Buffalo, NY 14207",
+   "tags": {
+    "phone": "+1 716-447-2198",
+    "website": "https://www.petsmart.com/stores/us/ny/buffalo-store1813.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9190340251",
+   "name": "PetSmart",
+   "lat": 42.9096026,
+   "lon": -78.774034,
+   "distKm": 8.9,
+   "address": "1734 Walden Avenue, Buffalo, NY 14225",
+   "tags": {
+    "phone": "+1 716-893-2398",
+    "website": "https://www.petsmart.com/stores/us/ny/cheektowaga-store0776.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/49343585",
+   "name": "Petco",
+   "lat": 42.8366945,
+   "lon": -78.7865169,
+   "distKm": 9.3,
+   "address": "370 Orchard Park Road, Buffalo, NY 14224",
+   "tags": {
+    "phone": "+1 716-826-1500",
+    "website": "https://stores.petco.com/ny/buffalo/pet-supplies-buffalo-ny-1815.html",
+    "opening_hours": "Mo-Sa 10:30-19:30; Su 10:30-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10101881494",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9154383,
+   "lon": -78.7533588,
+   "distKm": 10.7,
+   "address": "3733 Union Road, Buffalo, NY 14225",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/1245904867",
+   "name": "Pet Supplies Plus",
+   "lat": 42.8305488,
+   "lon": -78.7555699,
+   "distKm": 11.8,
+   "address": "3984 Seneca Street, Buffalo, NY 14224",
+   "tags": {
+    "phone": "+1-716-677-4343",
+    "website": "https://www.petsuppliesplus.com/store/ny/west-seneca/113-west-seneca/113",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/10212548746",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9805871,
+   "lon": -78.809965,
+   "distKm": 11.9,
+   "address": "3340 Sheridan Drive, Buffalo, NY 14226",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/5474542901",
+   "name": "Pet Supplies Plus",
+   "lat": 42.7888253,
+   "lon": -78.8150559,
+   "distKm": 12,
+   "address": "4405 Milestrip Road, Buffalo, NY 14219",
+   "tags": {
+    "phone": "+1-716-464-1108",
+    "website": "https://www.petsuppliesplus.com/store/ny/blasdell/192-blasdell/192",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/637076943",
+   "name": "Treats Unleashed Inc",
+   "lat": 42.9782086,
+   "lon": -78.8004607,
+   "distKm": 12,
+   "address": "910 Millersport Highway, Buffalo, NY 14226",
+   "tags": {
+    "phone": "+1-716-831-1350",
+    "website": "https://www.treatsunleashed.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/10133870207",
+   "name": "Ruby's Healthy Pet Center",
+   "lat": 42.9988409,
+   "lon": -78.8503372,
+   "distKm": 12.7,
+   "address": "3165 Eggert Road, Tonawanda, NY 14150",
+   "tags": {}
+  },
+  {
+   "id": "node/9092575239",
+   "name": "Petco",
+   "lat": 42.9942413,
+   "lon": -78.8213609,
+   "distKm": 12.9,
+   "address": "1459 Niagara Falls Boulevard, Buffalo, NY 14228",
+   "tags": {
+    "phone": "+1 716-832-2373",
+    "website": "https://stores.petco.com/ny/buffalo/pet-supplies-buffalo-ny-1803.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8743779800",
+   "name": "Wild Birds Unlimited",
+   "lat": 42.7804921,
+   "lon": -78.810696,
+   "distKm": 13,
+   "address": "3835 McKinley Parkway, Hamburg, NY 14219",
+   "tags": {
+    "phone": "+17168237889",
+    "website": "https://blasdell.wbu.com/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-16:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/7205095512",
+   "name": "PetSmart",
+   "lat": 42.7912378,
+   "lon": -78.7790912,
+   "distKm": 13.3,
+   "address": "3425 Amelia Drive, Orchard Park, NY 14127",
+   "tags": {
+    "phone": "+1 716-825-6212",
+    "website": "https://www.petsmart.com/stores/us/ny/orchard-park-store1814.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/167540850",
+   "name": "PetSmart",
+   "lat": 42.9980216,
+   "lon": -78.8169508,
+   "distKm": 13.4,
+   "address": "1581 Niagara Falls Boulevard, Buffalo, NY 14228",
+   "tags": {
+    "phone": "+1 716-249-3197",
+    "website": "https://www.petsmart.com/stores/us/ny/amherst-store2479.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11090130189",
+   "name": "Sunny's Natural Pet Market",
+   "lat": 43.0092979,
+   "lon": -78.8727881,
+   "distKm": 13.7,
+   "address": "363 Delaware Street, Tonawanda, NY 14150",
+   "tags": {}
+  },
+  {
+   "id": "node/13120452526",
+   "name": "EarthWise Pet",
+   "lat": 42.7722942,
+   "lon": -78.8120295,
+   "distKm": 13.8,
+   "address": "4154 McKinley Parkway, Buffalo, NY 14219",
+   "tags": {
+    "phone": "+1-716-202-1320",
+    "website": "https://hamburg.earthwisepet.com/hamburg/",
+    "brand": "EarthWise Pet"
+   }
+  },
+  {
+   "id": "node/11483518106",
+   "name": "Dogs Eat Rite",
+   "lat": 42.9635907,
+   "lon": -78.7394907,
+   "distKm": 14.2,
+   "address": "5735 Main Street, Buffalo, NY 14221",
+   "tags": {}
+  },
+  {
+   "id": "node/9182824407",
+   "name": "Pet Supplies Plus",
+   "lat": 42.7952146,
+   "lon": -78.7490668,
+   "distKm": 14.6,
+   "address": "3213 Orchard Park Road, Orchard Park, NY 14127",
+   "tags": {
+    "phone": "+1-716-539-9910",
+    "website": "https://www.petsuppliesplus.com/store/ny/orchard-park/4527-orchard-park/4527",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/7209030175",
+   "name": "Salt Water Paradise",
+   "lat": 43.0191351,
+   "lon": -78.878558,
+   "distKm": 14.8,
+   "address": "54 Main Street, Tonawanda, NY 14150",
+   "tags": {}
+  },
+  {
+   "id": "node/6015675437",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9778414,
+   "lon": -78.7340413,
+   "distKm": 15.5,
+   "address": "5397 Sheridan Drive, Buffalo, NY 14221",
+   "tags": {
+    "phone": "+1-716-580-6825",
+    "website": "https://www.petsuppliesplus.com",
+    "opening_hours": "Su 10:00-18:00, Mo-Sa 09:00-21:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/98942290",
+   "name": "Purely Pets",
+   "lat": 42.9014142,
+   "lon": -78.6708031,
+   "distKm": 17,
+   "address": "5 West Main Street, Lancaster, NY 14086",
+   "tags": {
+    "phone": "+1-716-240-0669",
+    "website": "https://www.purelypetsstore.com/"
+   }
+  },
+  {
+   "id": "node/8996992133",
+   "name": "Pet Supplies Plus",
+   "lat": 43.0350195,
+   "lon": -78.8234615,
+   "distKm": 17.1,
+   "address": "2952 Niagara Falls Boulevard, Amherst, NY 14228",
+   "tags": {
+    "phone": "+1 716 695 3595",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/655278102",
+   "name": "Petco",
+   "lat": 42.9672101,
+   "lon": -78.6940114,
+   "distKm": 17.5,
+   "address": "4401 Transit Road, Buffalo, NY 14221",
+   "tags": {
+    "phone": "+1 716-634-2893",
+    "website": "https://stores.petco.com/ny/williamsville/pet-supplies-williamsville-ny-1863.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10700492459",
+   "name": "PetSmart",
+   "lat": 42.9852719,
+   "lon": -78.6942503,
+   "distKm": 18.6,
+   "address": "5061 Transit Road, Buffalo, NY 14221",
+   "tags": {
+    "phone": "+1 716-565-2398",
+    "website": "https://www.petsmart.com/stores/us/ny/buffalo-store0771.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13627046218",
+   "name": "Notorious D.O.G.",
+   "lat": 42.9650134,
+   "lon": -78.6720806,
+   "distKm": 18.9,
+   "address": "8625 Main Street, Williamsville, NY 14221",
+   "tags": {
+    "phone": "+1-716-631-2600",
+    "website": "https://notorious.dog/"
+   }
+  }
+ ]
+}

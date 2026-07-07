@@ -1,0 +1,725 @@
+{
+ "$schemaVersion": 1,
+ "city": "chicago",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:20:10.492Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/2379285534",
+   "name": "Kriser's",
+   "lat": 41.8691326,
+   "lon": -87.6272575,
+   "distKm": 1,
+   "address": "1103 South State Street, Chicago, IL 60605",
+   "tags": {
+    "website": "https://krisers.com/"
+   }
+  },
+  {
+   "id": "node/13322988706",
+   "name": "Barking Spot Bakery",
+   "lat": 41.884116,
+   "lon": -87.640921,
+   "distKm": 1.1,
+   "address": "131 North Clinton Street, Chicago, IL 60661",
+   "tags": {
+    "website": "https://frenchmarketchicago.com/vendor/barking-spot-bakery-and-boutique/"
+   }
+  },
+  {
+   "id": "node/2422411545",
+   "name": "PetSmart",
+   "lat": 41.8686902,
+   "lon": -87.6385139,
+   "distKm": 1.3,
+   "address": "1101 South Canal Street, Chicago, IL 60607",
+   "tags": {
+    "phone": "+1 312-588-0138",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store1658.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2478422405",
+   "name": "Petco",
+   "lat": 41.8903537,
+   "lon": -87.63724,
+   "distKm": 1.5,
+   "address": "440 North Orleans Street, Chicago, IL 60654",
+   "tags": {
+    "phone": "+1 312-670-3747",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1965.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11883789045",
+   "name": "Pups Pet Club",
+   "lat": 41.8909006,
+   "lon": -87.6360864,
+   "distKm": 1.5,
+   "address": "316 West Illinois Street, Chicago, IL 60654",
+   "tags": {
+    "phone": "+1-312-883-2340",
+    "website": "https://pupspetclub.com/clubs/river-north/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/8833158363",
+   "name": "Petco",
+   "lat": 41.8669896,
+   "lon": -87.643036,
+   "distKm": 1.7,
+   "address": "611 West Roosevelt Road, Chicago, IL 60607",
+   "tags": {
+    "phone": "+1 312-243-2620",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1989.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12087434069",
+   "name": "Paw Naturals",
+   "lat": 41.8805829,
+   "lon": -87.651089,
+   "distKm": 1.8,
+   "address": "932 West Monroe Street, Chicago, IL 60607",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/3664793223",
+   "name": "Kriser's",
+   "lat": 41.8928031,
+   "lon": -87.618516,
+   "distKm": 1.9,
+   "address": "356 East Ohio Street, Chicago, IL 60611",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13571650896",
+   "name": "Kriser's Natural Pet",
+   "lat": 41.8963009,
+   "lon": -87.6406059,
+   "distKm": 2.2,
+   "address": "453 West Chicago Avenue, Chicago, IL",
+   "tags": {
+    "website": "https://stores.krisers.com/il-chicago-414"
+   }
+  },
+  {
+   "id": "node/2480059857",
+   "name": "Bentley's Pet Stuff",
+   "lat": 41.9040036,
+   "lon": -87.6342888,
+   "distKm": 2.9,
+   "address": "1201 North Wells Street, Chicago, IL 60610",
+   "tags": {
+    "phone": "+1-312-255-1955",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/6187928567",
+   "name": "PetSmart",
+   "lat": 41.9066302,
+   "lon": -87.6499595,
+   "distKm": 3.6,
+   "address": "1415 North Kingsbury Street, Chicago, IL 60642",
+   "tags": {
+    "phone": "+1 312-279-2026",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store2262.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12625946046",
+   "name": "Old Town Aquarium",
+   "lat": 41.9102681,
+   "lon": -87.6349227,
+   "distKm": 3.6,
+   "address": "1538 North Wells Street, Chicago, IL 60610",
+   "tags": {
+    "website": "https://www.oldtownaquarium.com/"
+   }
+  },
+  {
+   "id": "way/1354203169",
+   "name": "Pet Supplies Plus",
+   "lat": 41.9053445,
+   "lon": -87.6691168,
+   "distKm": 4.4,
+   "address": "1289 North Milwaukee Avenue, Chicago, IL 60622",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/209865462",
+   "name": "Best Friends Pet Care",
+   "lat": 41.911425,
+   "lon": -87.6631202,
+   "distKm": 4.6,
+   "address": "1628 North Elston Avenue, Chicago, IL 60642",
+   "tags": {}
+  },
+  {
+   "id": "node/10121968307",
+   "name": "Doggy Style Pet Shop",
+   "lat": 41.903014,
+   "lon": -87.6782612,
+   "distKm": 4.9,
+   "address": "2023 West Division Street, Chicago, IL 60622",
+   "tags": {
+    "website": "https://doggystylepetshop.com",
+    "opening_hours": "Mo-Sa 10:30-18:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/11819718923",
+   "name": "Petco",
+   "lat": 41.9173991,
+   "lon": -87.6591087,
+   "distKm": 5,
+   "address": "2000 North Clybourn Avenue, Chicago, IL 60614",
+   "tags": {
+    "phone": "+1 773-665-1368",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-869.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13574784351",
+   "name": "JustFoodForDogs",
+   "lat": 41.9175226,
+   "lon": -87.6584307,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "phone": "+1-312-971-5724",
+    "website": "https://www.justfoodfordogs.com/"
+   }
+  },
+  {
+   "id": "node/9943957328",
+   "name": "Liz's Pet Shop",
+   "lat": 41.895603,
+   "lon": -87.6871158,
+   "distKm": 5.1,
+   "address": "2403 West Chicago Avenue, Chicago, IL 60622",
+   "tags": {
+    "website": "http://www.lizspetshop.com",
+    "opening_hours": "Mo-Sa 11:00-18:30; Su 11:00-16:30"
+   }
+  },
+  {
+   "id": "node/12434602345",
+   "name": "Kriser's Natural Pet",
+   "lat": 41.9189995,
+   "lon": -87.6601352,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8218212119",
+   "name": "Pet Supplies Plus",
+   "lat": 41.8366198,
+   "lon": -87.6638622,
+   "distKm": 5.4,
+   "address": "3145 South Ashland Avenue, Chicago, IL 60608",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/10649885923",
+   "name": "Bark N' Bites",
+   "lat": 41.8308883,
+   "lon": -87.6439284,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13501901700",
+   "name": "Kriser's Natural Pet",
+   "lat": 41.9117447,
+   "lon": -87.6800763,
+   "distKm": 5.6,
+   "address": "1658 North Milwaukee Avenue, Chicago, IL 60647",
+   "tags": {
+    "website": "https://stores.krisers.com/il-chicago-406/"
+   }
+  },
+  {
+   "id": "node/2295092736",
+   "name": "Petco",
+   "lat": 41.9376345,
+   "lon": -87.6499079,
+   "distKm": 6.8,
+   "address": "3046 North Halsted Street, Chicago, IL 60657",
+   "tags": {
+    "phone": "+1 773-935-7547",
+    "website": "https://stores.petco.com",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13141671101",
+   "name": "Barks N' Rec",
+   "lat": 41.936734,
+   "lon": -87.664787,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11289381044",
+   "name": "Jules Pet Shop",
+   "lat": 41.9209029,
+   "lon": -87.69449,
+   "distKm": 7.2,
+   "address": "2214 North Milwaukee Avenue, Chicago, IL 60647",
+   "tags": {}
+  },
+  {
+   "id": "way/209453782",
+   "name": "PetSmart",
+   "lat": 41.9305824,
+   "lon": -87.6845893,
+   "distKm": 7.4,
+   "address": "2257-2291 West Logan Boulevard, Chicago, IL 60647",
+   "tags": {
+    "phone": "+1 773-342-1300",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store0428.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4036939575",
+   "name": "For Dogs Sake",
+   "lat": 41.9132362,
+   "lon": -87.7113848,
+   "distKm": 7.8,
+   "address": "1757 North Kimball Avenue, Chicago, IL 60647",
+   "tags": {
+    "website": "https://www.fordogsake.com"
+   }
+  },
+  {
+   "id": "node/7393995561",
+   "name": "PetSmart",
+   "lat": 41.9420013,
+   "lon": -87.6684601,
+   "distKm": 7.8,
+   "address": "3319 North Ashland Avenue, Chicago, IL 60657",
+   "tags": {
+    "phone": "+1 773-289-5494",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store2554.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7393995556",
+   "name": "PetSmart",
+   "lat": 41.9502756,
+   "lon": -87.6497755,
+   "distKm": 8.2,
+   "address": "3736 North Halsted Street, Chicago, IL 60613",
+   "tags": {
+    "phone": "+1 773-289-5352",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store2525.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12718691701",
+   "name": "Chi-Town Dog House",
+   "lat": 41.9393767,
+   "lon": -87.6842669,
+   "distKm": 8.2,
+   "address": "2231 West Belmont Avenue, 60618",
+   "tags": {
+    "phone": "+1-773-348-9663",
+    "website": "https://www.chitowndoghouse.com/",
+    "opening_hours": "Mo-Fr 07:00-12:00, 14:00-19:00; Sa-Su 08:00-12:00, 14:00-18:00"
+   }
+  },
+  {
+   "id": "node/8704132331",
+   "name": "Bentley's Pet Stuff",
+   "lat": 41.9487481,
+   "lon": -87.6638749,
+   "distKm": 8.3,
+   "address": "3657 North Southport Avenue, Chicago, IL 60613",
+   "tags": {
+    "phone": "+1-773-857-7600",
+    "website": "https://petstuff.com/"
+   }
+  },
+  {
+   "id": "node/3551792493",
+   "name": "Logan Square PetShoppe",
+   "lat": 41.9277978,
+   "lon": -87.706657,
+   "distKm": 8.4,
+   "address": "3145 West Logan Boulevard, Chicago, IL 60647",
+   "tags": {
+    "phone": "+1 773-489-0712",
+    "opening_hours": "Mo,We 11:00-18:00; Th-Sa 11:00-20:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/8936283287",
+   "name": "Petco",
+   "lat": 41.9413613,
+   "lon": -87.6890533,
+   "distKm": 8.6,
+   "address": "3320 North Western Avenue, Chicago, IL 60618",
+   "tags": {
+    "phone": "+1 773-472-6186",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-5601.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9354635439",
+   "name": "Pet Supplies Plus",
+   "lat": 41.9501829,
+   "lon": -87.6751458,
+   "distKm": 8.9,
+   "address": "3757 North Lincoln Avenue, Chicago, IL 60613",
+   "tags": {
+    "phone": "+17733277314",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11234516057",
+   "name": "Curious Creatures",
+   "lat": 41.9578359,
+   "lon": -87.6524678,
+   "distKm": 9.1,
+   "address": "4133 North Broadway, Chicago, IL 60613",
+   "tags": {
+    "opening_hours": "Mo,We-Fr 11:00-18:00; Tu off; Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/11425924147",
+   "name": "Sprocket & Stone",
+   "lat": 41.7992806,
+   "lon": -87.6006842,
+   "distKm": 9.1,
+   "address": "1013 East 53rd Street, Chicago, IL 60615",
+   "tags": {
+    "opening_hours": "Tu-Fr 10:00-18:30; Sa 11:00-17:00; Su 12:00-20:00"
+   }
+  },
+  {
+   "id": "node/8017941529",
+   "name": "Petco",
+   "lat": 41.9311425,
+   "lon": -87.7286948,
+   "distKm": 10.1,
+   "address": "4039 West Diversey Avenue, Chicago, IL 60647",
+   "tags": {
+    "phone": "+1 773-687-0488",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1991.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/163907086",
+   "name": "Pet Supplies Plus",
+   "lat": 41.9471585,
+   "lon": -87.7101067,
+   "distKm": 10.2,
+   "address": "3640 North Elston Avenue, Chicago, IL 60618",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9054882217",
+   "name": "PetSmart",
+   "lat": 41.8170541,
+   "lon": -87.725551,
+   "distKm": 10.4,
+   "address": "4146 South Pulaski Road, Chicago, IL 60632",
+   "tags": {
+    "phone": "+1 773-299-9611",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store2458.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6269037795",
+   "name": "Ruff Haus Pets",
+   "lat": 41.9683893,
+   "lon": -87.6886004,
+   "distKm": 11.2,
+   "address": "4768 North Lincoln Avenue, Chicago, IL 60625",
+   "tags": {
+    "opening_hours": "Mo-Fr 11:00-20:00; Sa,Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "way/293387739",
+   "name": "PetSmart",
+   "lat": 41.976647,
+   "lon": -87.6602883,
+   "distKm": 11.2,
+   "address": "5210 North Broadway, Chicago, IL 60640",
+   "tags": {
+    "phone": "+1 773-250-0201",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store2524.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9219709805",
+   "name": "Kriser's Natural Pet",
+   "lat": 41.9795795,
+   "lon": -87.6681215,
+   "distKm": 11.7,
+   "address": "5353 North Clark Street, Chicago, IL 60640",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
+    "brand": "Kriser's Natural Pet"
+   }
+  },
+  {
+   "id": "node/13669577787",
+   "name": "Bark Bark Club",
+   "lat": 41.9903752,
+   "lon": -87.6600357,
+   "distKm": 12.7,
+   "address": "5943 North Broadway, Chicago, IL 60660",
+   "tags": {
+    "phone": "+1- 773-989-8807",
+    "website": "https://www.barkbarkclub.com/"
+   }
+  },
+  {
+   "id": "way/322172183",
+   "name": "PetSmart",
+   "lat": 41.9553467,
+   "lon": -87.7441597,
+   "distKm": 12.8,
+   "address": "4640 West Irving Park Road, Chicago, IL 60641",
+   "tags": {
+    "phone": "+1 773-272-9119",
+    "website": "https://www.petsmart.com/stores/us/il/chicago-store2526.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/162464246",
+   "name": "Petco",
+   "lat": 41.9696272,
+   "lon": -87.7285044,
+   "distKm": 13,
+   "address": "4840 North Pulaski Road, Chicago, IL 60630",
+   "tags": {
+    "phone": "+1 773-283-1248",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1987.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7232041442",
+   "name": "Petco",
+   "lat": 41.9949802,
+   "lon": -87.6901722,
+   "distKm": 13.9,
+   "address": "6236 North Western Avenue, Chicago, IL 60659",
+   "tags": {
+    "phone": "+1 773-274-1608",
+    "website": "https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1988.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7262581445",
+   "name": "Pet Supplies Plus",
+   "lat": 41.848755,
+   "lon": -87.8016317,
+   "distKm": 14.6,
+   "address": "7133 West Cermak Road, Berwyn, IL 60402",
+   "tags": {
+    "website": "https://www.petsuppliesplus.com/Store/IL/Berwyn/Berwyn/4246",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/4497833050",
+   "name": "PetSmart",
+   "lat": 41.8874584,
+   "lon": -87.8068811,
+   "distKm": 14.7,
+   "address": "7265 Lake Street, River Forest, IL 60305",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2535218176",
+   "name": "Grooming by Galdy",
+   "lat": 42.0095917,
+   "lon": -87.6619916,
+   "distKm": 14.9,
+   "address": "7011 North Sheridan Road, Chicago, IL 60626",
+   "tags": {
+    "phone": "+1-773-764-2275"
+   }
+  },
+  {
+   "id": "node/12599617760",
+   "name": "Petco",
+   "lat": 41.8492338,
+   "lon": -87.8060687,
+   "distKm": 14.9,
+   "address": "2204 South Harlem Avenue, North Riverside, IL 60546",
+   "tags": {
+    "website": "https://stores.petco.com/il/northriverside/pet-supplies-northriverside-il-648.html",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4238686933",
+   "name": "Pink Poodle Dog Grooming",
+   "lat": 41.9679257,
+   "lon": -87.7654987,
+   "distKm": 15,
+   "address": "5510 West Lawrence Avenue, Chicago, IL 60630",
+   "tags": {}
+  },
+  {
+   "id": "node/4238686934",
+   "name": "Re-tails",
+   "lat": 41.9679261,
+   "lon": -87.7656133,
+   "distKm": 15,
+   "address": "5514 West Lawrence Avenue, Chicago, IL 60630",
+   "tags": {}
+  },
+  {
+   "id": "node/2535218132",
+   "name": "Bark Place",
+   "lat": 42.010048,
+   "lon": -87.6752026,
+   "distKm": 15.1,
+   "address": "1775 West Greenleaf Avenue, Chicago, IL 60626",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-18:30; Sa 08:30-16:30"
+   }
+  },
+  {
+   "id": "way/683025011",
+   "name": "Pet Supplies Plus",
+   "lat": 41.9118706,
+   "lon": -87.8063641,
+   "distKm": 15.1,
+   "address": "1748 North Harlem Avenue, Elmwood Park, IL 60707",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13628529901",
+   "name": "The Real Meal",
+   "lat": 42.018328,
+   "lon": -87.68865,
+   "distKm": 16.3,
+   "address": "7529 North Claremont Avenue, Chicago, IL 60645",
+   "tags": {}
+  },
+  {
+   "id": "node/2300374928",
+   "name": "PetSmart",
+   "lat": 41.7527436,
+   "lon": -87.7433563,
+   "distKm": 16.8,
+   "address": "7730 South Cicero Avenue, Burbank, IL 60459",
+   "tags": {
+    "phone": "+1 708-346-9500",
+    "website": "https://www.petsmart.com/stores/us/il/burbank-store0423.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7456841270",
+   "name": "Petco",
+   "lat": 41.9568252,
+   "lon": -87.8035169,
+   "distKm": 16.8,
+   "address": "4161 North Harlem Avenue, Norridge, IL 60706",
+   "tags": {
+    "phone": "+1 708-457-8603",
+    "website": "https://stores.petco.com/il/norridge/pet-supplies-norridge-il-1980.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1468631278",
+   "name": "Pet Supplies Plus",
+   "lat": 42.0091352,
+   "lon": -87.7351356,
+   "distKm": 17,
+   "address": "7031 North Lincoln Avenue, Lincolnwood, IL 60712",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9402002256",
+   "name": "Pet Wants",
+   "lat": 41.9974845,
+   "lon": -87.7646295,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/33191969",
+   "name": "PetSmart",
+   "lat": 42.0276348,
+   "lon": -87.7051337,
+   "distKm": 17.8,
+   "address": "2221 Oakton Street, Evanston, IL 60202",
+   "tags": {
+    "phone": "+1 847-328-1814",
+    "website": "https://www.petsmart.com/stores/us/il/evanston-store0427.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "$schemaVersion": 1,
+ "city": "salt-lake-city",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:32:44.928Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "node/9733821652",
+   "name": "Avenues Pet Clinic",
+   "lat": 40.7669627,
+   "lon": -111.880724,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6069540960",
+   "name": "University Veterinary Hospital",
+   "lat": 40.7495369,
+   "lon": -111.86367,
+   "distKm": 2.6,
+   "address": "952 East 900 South, Salt Lake City, UT 84105",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/9121244667",
+   "name": "Sentrx Animal Care",
+   "lat": 40.7357463,
+   "lon": -111.9076745,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9750177322",
+   "name": "MedVet",
+   "lat": 40.719176,
+   "lon": -111.9001715,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/572978937",
+   "name": "Sugar House Veterinary Hospital",
+   "lat": 40.7230229,
+   "lon": -111.8616807,
+   "distKm": 4.9,
+   "address": "2206 South McClelland Street, Salt Lake City, UT 84106",
+   "tags": {}
+  },
+  {
+   "id": "node/9604343650",
+   "name": "Red Butte Veterinary Care",
+   "lat": 40.7409048,
+   "lon": -111.8310494,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "phone": "+1 801-583-1340"
+   }
+  },
+  {
+   "id": "node/5780659302",
+   "name": "Dermatology for Animals",
+   "lat": 40.7004204,
+   "lon": -111.862168,
+   "distKm": 7.1,
+   "address": "1021 East 3300 South, Salt Lake City, UT 84106",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/610359881",
+   "name": "Advanced Veterinary Care",
+   "lat": 40.7004291,
+   "lon": -111.8620524,
+   "distKm": 7.1,
+   "address": "1021 East 3300 South, Salt Lake City, UT 84106",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/610381254",
+   "name": "Brickyard Animal Hospital",
+   "lat": 40.7001719,
+   "lon": -111.857099,
+   "distKm": 7.3,
+   "address": "1213 East 3300 South, Salt Lake City, UT 84106",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/554455635",
+   "name": "East Valley Veterenary Clinic",
+   "lat": 40.71975,
+   "lon": -111.8151599,
+   "distKm": 7.9,
+   "address": "2675 East Parleys Way, Salt Lake City, UT 84109",
+   "tags": {}
+  },
+  {
+   "id": "node/3999878490",
+   "name": "Millcreek Veterinary Clinic",
+   "lat": 40.7000843,
+   "lon": -111.8230028,
+   "distKm": 8.9,
+   "address": "2361 East 3300 South, 84109",
+   "tags": {}
+  },
+  {
+   "id": "node/9403151996",
+   "name": "Olympus Cove Veterinary Clinic",
+   "lat": 40.7012912,
+   "lon": -111.802057,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3999878468",
+   "name": "Holladay Veterinary Hospital",
+   "lat": 40.6670205,
+   "lon": -111.8401343,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9986967113",
+   "name": "VCA All Pet Animal Hospital",
+   "lat": 40.6683204,
+   "lon": -111.9548043,
+   "distKm": 11.6,
+   "address": "2530 West 4700 South, Taylorsville, UT 84129",
+   "tags": {
+    "phone": "+1 801-966-4700",
+    "website": "https://vcahospitals.com/all-pet-taylorsville",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "way/768211181",
+   "name": "Redwood Veterinary Hospital",
+   "lat": 40.6614441,
+   "lon": -111.9394024,
+   "distKm": 11.8,
+   "address": "4958 South Redwood Road, Taylorsville, UT 84123",
+   "tags": {
+    "phone": "+1-801-966-3974",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/1018444329",
+   "name": "VCA Lakeview Animal Hospital",
+   "lat": 40.8685557,
+   "lon": -111.8773783,
+   "distKm": 12,
+   "address": "1975 Orchard Drive, Bountiful, UT 84010",
+   "tags": {
+    "phone": "+1 801-298-2314",
+    "website": "https://vcahospitals.com/lakeview-ut?utm_source=maps&utm_medium=organic&utm_campaign=VCA_Lakeview_Animal_Hospital",
+    "opening_hours": "Mo-Fr 08:00-17:30"
+   }
+  },
+  {
+   "id": "node/12030016224",
+   "name": "UrgentVet",
+   "lat": 40.6516061,
+   "lon": -111.9420756,
+   "distKm": 12.9,
+   "address": "5478 South Redwood Road, Taylorsville, UT 84123",
+   "tags": {
+    "phone": "+1 801-796-5050",
+    "website": "https://urgentvet.com/location/taylorsville-ut/",
+    "opening_hours": "Mo-Fr 15:00-23:00; Sa-su 10:00-20:00; PH 12:00-20:00"
+   }
+  },
+  {
+   "id": "way/432006805",
+   "name": "Bountiful Animal Hospital",
+   "lat": 40.8808261,
+   "lon": -111.8928292,
+   "distKm": 13.3,
+   "address": "880 South 500 West, Bountiful, UT 84010",
+   "tags": {
+    "phone": "+1 801-295-0733",
+    "website": "https://bountifulanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/972970676",
+   "name": "West Lake Animal Hospital",
+   "lat": 40.6538798,
+   "lon": -111.9823403,
+   "distKm": 14.2,
+   "address": "3800 West 5400 South, Taylorsville, UT 84129",
+   "tags": {
+    "phone": "+1 801-966-6348",
+    "website": "https://westlakeanimalutah.com/",
+    "opening_hours": "Mo-Th 07:00-17:30; Fr-Su off"
+   }
+  },
+  {
+   "id": "node/11284398918",
+   "name": "VetMed Consultants",
+   "lat": 40.6380369,
+   "lon": -111.83347,
+   "distKm": 14.5,
+   "address": "6221 South Highland Drive, Holladay, UT 84121",
+   "tags": {
+    "phone": "+1 801-889-0919",
+    "website": "https://www.vetmedutah.com",
+    "opening_hours": "\"appointment only\""
+   }
+  },
+  {
+   "id": "node/4305179037",
+   "name": "Cottonwood Animal Hospital",
+   "lat": 40.6359356,
+   "lon": -111.8349019,
+   "distKm": 14.7,
+   "address": "6360 South Highland Drive, UT",
+   "tags": {}
+  },
+  {
+   "id": "node/4660473449",
+   "name": "Union Park Veterinary Hospital",
+   "lat": 40.6285011,
+   "lon": -111.8543727,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10200455372",
+   "name": "BluePearl",
+   "lat": 40.6211198,
+   "lon": -111.9003151,
+   "distKm": 15.6,
+   "address": "308 West 7200 South",
+   "tags": {
+    "opening_hours": "Tu 08:00-24:00; We-Fr 00:00-24:00; Sa 00:00-18:00; Su, Mo off"
+   }
+  },
+  {
+   "id": "way/1028801183",
+   "name": "Wasatch Pet Care",
+   "lat": 40.6241863,
+   "lon": -111.837612,
+   "distKm": 15.8,
+   "address": "1892 East Fort Union Boulevard, Cottonwood Heights, UT 84121",
+   "tags": {}
+  },
+  {
+   "id": "way/423929788",
+   "name": "Parrish Creek Veterinary Clinic",
+   "lat": 40.9179012,
+   "lon": -111.8797625,
+   "distKm": 17.5,
+   "address": "86 N 70 West, Centerville, UT 84014",
+   "tags": {
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "id": "way/239142010",
+   "name": "Willow Creek Pet Center",
+   "lat": 40.6032285,
+   "lon": -111.8321648,
+   "distKm": 18.2,
+   "address": "2055 East Creek Road, Cottonwood Heights, UT 84093",
+   "tags": {}
+  },
+  {
+   "id": "node/9750437048",
+   "name": "Amor Animal Hospital",
+   "lat": 40.5954941,
+   "lon": -111.9393147,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4711888445",
+   "name": "Jordan River Animal Hospital",
+   "lat": 40.5874043,
+   "lon": -111.934378,
+   "distKm": 19.6,
+   "address": "1519 West 9000 South, West Jordan, UT 84088",
+   "tags": {}
+  }
+ ]
+}

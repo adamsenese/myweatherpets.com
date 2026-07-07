@@ -1,0 +1,686 @@
+{
+ "$schemaVersion": 1,
+ "city": "berlin",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:37:17.720Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/1053950766",
+   "name": "Stralauer Platz Hundeauslauf",
+   "lat": 52.5098064,
+   "lon": 13.4315464,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/49206047",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5414129,
+   "lon": 13.4048501,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/614979576",
+   "name": "Hundetoilette",
+   "lat": 52.4993666,
+   "lon": 13.3934928,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/108804960",
+   "name": "Volkspark Friedrichshain Hundeplatz",
+   "lat": 52.5266003,
+   "lon": 13.4409708,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/1430184481",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.498003,
+   "lon": 13.3972371,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/356890996",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4968016,
+   "lon": 13.3995618,
+   "distKm": 2.6,
+   "address": "34 Carl-Herz-Ufer, Berlin, 10961",
+   "tags": {
+    "surface": "dirt",
+    "lit": "no",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1158920461",
+   "name": "Weidenweg Hundeauslauf",
+   "lat": 52.5173958,
+   "lon": 13.449056,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/898574134",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5362779,
+   "lon": 13.4462381,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/5754872744",
+   "name": "Hundegarten Moabit",
+   "lat": 52.5293501,
+   "lon": 13.3577201,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "website": "http://hundegarten-moabit.de/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/273174971",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4966326,
+   "lon": 13.3724704,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1303111120",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4930591,
+   "lon": 13.3815002,
+   "distKm": 3.4,
+   "address": "10965 Yorckstraße, Berlin",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/strassen-und-gruenflaechenamt/gruenflaechen/gruenanlagen/artikel.146176.php"
+   }
+  },
+  {
+   "id": "way/83106451",
+   "name": "Hundeauslauf",
+   "lat": 52.4868119,
+   "lon": 13.4140745,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/123019433",
+   "name": "Hundeplatz Revaler Straße",
+   "lat": 52.5070105,
+   "lon": 13.4582636,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/977046596",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4940481,
+   "lon": 13.4429922,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1317597484",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4911607,
+   "lon": 13.3581633,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "surface": "dirt",
+    "barrier": "fence",
+    "fence_type": "bars",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/172077472",
+   "name": "Hundeauslaufgebiet Fennpfuhlpark",
+   "lat": 52.5302876,
+   "lon": 13.4737927,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-13:00,15:00-19:00"
+   }
+  },
+  {
+   "id": "way/59033969",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4762354,
+   "lon": 13.4139067,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1459800989",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5129374,
+   "lon": 13.475882,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/506236351",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4718269,
+   "lon": 13.4253396,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/59033967",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4699892,
+   "lon": 13.3912602,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/59478379",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4703274,
+   "lon": 13.4157342,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "designated",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/167906720",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4791017,
+   "lon": 13.3562394,
+   "distKm": 5.6,
+   "address": "63-64 Ella-Barowsky-Straße, Berlin, 10829",
+   "tags": {
+    "barrier": "fence",
+    "access": "no"
+   }
+  },
+  {
+   "id": "way/530432720",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5665163,
+   "lon": 13.365156,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/1053691209",
+   "name": "Hundegarten im Schäferseepark",
+   "lat": 52.566288,
+   "lon": 13.3581557,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/20298788",
+   "name": "Hundeauslaufgebiet im Volkspark Wilmersdorf",
+   "lat": 52.4825712,
+   "lon": 13.3317487,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/608111258",
+   "name": "Hundewiese Berlin Weiße Siedlung",
+   "lat": 52.4726854,
+   "lon": 13.4657431,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wire"
+   }
+  },
+  {
+   "id": "way/1115096868",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4603297,
+   "lon": 13.412424,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/134769134",
+   "name": "Hundeplatz Lichtenberg",
+   "lat": 52.4931437,
+   "lon": 13.5035076,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "no",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/1116347820",
+   "name": "Hundegarten Alt-Reinickendorf",
+   "lat": 52.5767226,
+   "lon": 13.3484306,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/13684907247",
+   "name": "Hundeauslaufgebiet",
+   "lat": 52.5318452,
+   "lon": 13.2941486,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/69547561",
+   "name": "Hundefreilauf",
+   "lat": 52.5425075,
+   "lon": 13.2881527,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/668108711",
+   "name": "Hundeauslaufgebiet Treptow-Köpenick",
+   "lat": 52.4594751,
+   "lon": 13.4774753,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1172182993",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.593707,
+   "lon": 13.3631791,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "wire"
+   }
+  },
+  {
+   "id": "way/1089481125",
+   "name": "PSK Ortsgruppe Berlin-Hohenschönhausen",
+   "lat": 52.5621295,
+   "lon": 13.5164505,
+   "distKm": 8.9,
+   "address": "120 Wartenberger Straße, Berlin, 13053",
+   "tags": {
+    "access": "customers",
+    "website": "https://www.psk-hohenschoenhausen.de"
+   }
+  },
+  {
+   "id": "way/258357798",
+   "name": "Little Big Dogs",
+   "lat": 52.5862584,
+   "lon": 13.4858204,
+   "distKm": 9.2,
+   "address": "10 Bundesstraße 2, Berlin, 13051",
+   "tags": {
+    "dog": "yes",
+    "website": "http://www.lbd-berlin.de/"
+   }
+  },
+  {
+   "id": "way/486146266",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5625049,
+   "lon": 13.5263691,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/9679841330",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5968378,
+   "lon": 13.3360612,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/115850680",
+   "name": "Hundegarten am Seggeluchbecken",
+   "lat": 52.6007925,
+   "lon": 13.3479109,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1193733105",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5974623,
+   "lon": 13.3237666,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/558490819",
+   "name": "Hundekurs Park",
+   "lat": 52.5694993,
+   "lon": 13.2745685,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {
+    "surface": "dirt",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/431539808",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5237573,
+   "lon": 13.2479018,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/693685698",
+   "name": "Hundesportverein Berlin-Nordost e.V.",
+   "lat": 52.5628559,
+   "lon": 13.544941,
+   "distKm": 10.6,
+   "address": "13 Nordring, Berlin, 12681",
+   "tags": {
+    "website": "http://www.hsv-berlin-nordost.de/"
+   }
+  },
+  {
+   "id": "way/1340152406",
+   "name": "Hundepark",
+   "lat": 52.598293,
+   "lon": 13.3128106,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1361891800",
+   "name": "Hundeauslaufgebiet Jungfernheide",
+   "lat": 52.563767,
+   "lon": 13.2631596,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.berlin.de/forsten/walderlebnis/hundeauslauf-im-wald/"
+   }
+  },
+  {
+   "id": "node/12944244102",
+   "name": "Hundestrand",
+   "lat": 52.4705359,
+   "lon": 13.2644241,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/532178133",
+   "name": "Hundeplatz Tierschutzverein Berlin",
+   "lat": 52.5758849,
+   "lon": 13.5409965,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.tierschutz-berlin.de/tierheim/stadt-der-tiere.html"
+   }
+  },
+  {
+   "id": "way/54436683",
+   "name": "Ein Centrum Deutscher Doggen OG Pankegrund",
+   "lat": 52.6190909,
+   "lon": 13.4568051,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1253642927",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.429874,
+   "lon": 13.3112546,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/48871169",
+   "name": "Hundeschule",
+   "lat": 52.4113555,
+   "lon": 13.4238769,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/111978121",
+   "name": "Hundeauslaufgebiet Arkenberge",
+   "lat": 52.6289241,
+   "lon": 13.4126451,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/685118383",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.6197738,
+   "lon": 13.3338659,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "surface": "woodchips",
+    "barrier": "fence",
+    "lit": "no",
+    "dog": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1108912748",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5035629,
+   "lon": 13.5854106,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/875820504",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5927328,
+   "lon": 13.2660748,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1043494966",
+   "name": "Hundesportverein Berlin Adlershof e. V.",
+   "lat": 52.4462107,
+   "lon": 13.5430567,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/6425259",
+   "name": "Hundeauslaufgebiet Grunewald",
+   "lat": 52.4638554,
+   "lon": 13.2409279,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.berlin.de/forsten/walderlebnis/hundeauslauf-im-wald/"
+   }
+  },
+  {
+   "id": "way/442746201",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5322358,
+   "lon": 13.5978521,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/13348930",
+   "name": "Hundeauslaufgebiet Pichelswerder",
+   "lat": 52.5087097,
+   "lon": 13.2071658,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/835410286",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.5162788,
+   "lon": 13.2037851,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/983225054",
+   "name": "Hundeauslaufgebiet Frohnau",
+   "lat": 52.6239793,
+   "lon": 13.2822486,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.berlin.de/forsten/walderlebnis/hundeauslauf-im-wald/"
+   }
+  },
+  {
+   "id": "way/685300531",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3984598,
+   "lon": 13.4914681,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "$schemaVersion": 1,
+ "city": "buffalo",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:33:02.930Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/8825877315",
+   "name": "Queen City Canine",
+   "lat": 42.8722745,
+   "lon": -78.8681979,
+   "distKm": 1.8,
+   "address": "303 South Park Avenue, Buffalo, NY 14204",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9314691753",
+   "name": "The Puppy Playpen",
+   "lat": 42.9465538,
+   "lon": -78.8680365,
+   "distKm": 6.7,
+   "address": "2293 Delaware Avenue, Buffalo, NY 14216",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1384229756",
+   "name": "Camp Bow Wow",
+   "lat": 42.847218,
+   "lon": -78.7518733,
+   "distKm": 11.2,
+   "address": "31 North America Drive, Buffalo, NY 14224",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

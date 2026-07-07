@@ -1,0 +1,598 @@
+{
+ "$schemaVersion": 1,
+ "city": "mexico-city",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:39:43.196Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/1237628615",
+   "name": "Veterinaria del Jardín Pushkin",
+   "lat": 19.4200673,
+   "lon": -99.154347,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/4829591842",
+   "name": "Can-Ito",
+   "lat": 19.4471744,
+   "lon": -99.1574103,
+   "distKm": 3,
+   "address": "122 Santa María Ribera, Ciudad de México, 06400",
+   "tags": {}
+  },
+  {
+   "id": "node/4022423653",
+   "name": "Centro Veterinario Norte",
+   "lat": 19.4599811,
+   "lon": -99.1271042,
+   "distKm": 3.1,
+   "address": "148 Calzada de Guadalupe, Cuauhtémoc, 06220",
+   "tags": {
+    "phone": "+5215555173665",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/4022406544",
+   "name": "Servicios Veterinarios Rodríguez",
+   "lat": 19.4616147,
+   "lon": -99.1365222,
+   "distKm": 3.2,
+   "address": "147 Calle Beethoven, Cuauhtémoc, 06220",
+   "tags": {}
+  },
+  {
+   "id": "node/3769868661",
+   "name": "Hospital Veterinario 24 hrs",
+   "lat": 19.4020585,
+   "lon": -99.145895,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12610806186",
+   "name": "La Botica Animal",
+   "lat": 19.4106867,
+   "lon": -99.1599375,
+   "distKm": 3.7,
+   "address": "4C Calle Campeche, Cuauhtémoc, CDMX 06760",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/3779138329",
+   "name": "Dr. Mascota Radio 1000 am",
+   "lat": 19.4007168,
+   "lon": -99.1504563,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5062146323",
+   "name": "Pet Care Store",
+   "lat": 19.428934,
+   "lon": -99.1713972,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5062146322",
+   "name": "Vets",
+   "lat": 19.4300855,
+   "lon": -99.1720169,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3779351834",
+   "name": "Hugh Sholder Estetica Canina",
+   "lat": 19.3989523,
+   "lon": -99.1519605,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5018956160",
+   "name": "ADOPTANDO UN CORAZON CANINO",
+   "lat": 19.4334118,
+   "lon": -99.1734046,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10949708605",
+   "name": "Clínica Veterinaria de Especialidades Inguarán",
+   "lat": 19.464324,
+   "lon": -99.1118571,
+   "distKm": 4.2,
+   "address": "5213 Avenida Congreso de la Unión, 07860",
+   "tags": {
+    "phone": "55 5551 6961",
+    "opening_hours": "Su-Fr 09:30-19:00; Sa 09:30-14:30"
+   }
+  },
+  {
+   "id": "node/3779168317",
+   "name": "Clinica Veterinaria Raindi",
+   "lat": 19.4000108,
+   "lon": -99.1546546,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3779353462",
+   "name": "Refugio Animal",
+   "lat": 19.3984142,
+   "lon": -99.1536818,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3779387428",
+   "name": "Mascoteria",
+   "lat": 19.397401,
+   "lon": -99.1532652,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5018967620",
+   "name": "Veterinaria Anzures",
+   "lat": 19.4369694,
+   "lon": -99.17606,
+   "distKm": 4.5,
+   "address": "61 Bahia Santa Barbara, Ciudad de México, 11300",
+   "tags": {}
+  },
+  {
+   "id": "node/11047392765",
+   "name": "Villa de Canes",
+   "lat": 19.3913695,
+   "lon": -99.1354184,
+   "distKm": 4.6,
+   "address": "207 Av. Xavier Sorondo, Ciudad de México, 03520",
+   "tags": {
+    "phone": "5571974115",
+    "website": "https://www.facebook.com/Villadecanes37?mibextid=LQQJ4d",
+    "opening_hours": "Mo-Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/8853079398",
+   "name": "VETME Hospital Veterinario Condesa",
+   "lat": 19.4186172,
+   "lon": -99.1758754,
+   "distKm": 4.7,
+   "address": "7 Calle Pachuca, Ciudad de México, 06140",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11770095170",
+   "name": "Veterinaria Guadalupe Insurgentes",
+   "lat": 19.4756517,
+   "lon": -99.1315152,
+   "distKm": 4.8,
+   "address": "Calle Ingeniero Carlos Daza",
+   "tags": {
+    "opening_hours": "Mo-Sa 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/13320273735",
+   "name": "Veterinario El Edén",
+   "lat": 19.443078,
+   "lon": -99.0888819,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6635589407",
+   "name": "La mascotita",
+   "lat": 19.4730831,
+   "lon": -99.1155444,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1447805638",
+   "name": "Veterinaria Postal",
+   "lat": 19.3884451,
+   "lon": -99.1425258,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5872963134",
+   "name": "Mas Cotas",
+   "lat": 19.4167543,
+   "lon": -99.0871417,
+   "distKm": 5.1,
+   "address": "Hacienda y Crédito Público, Ciudad de México, 15730",
+   "tags": {}
+  },
+  {
+   "id": "node/5526630124",
+   "name": "Delta",
+   "lat": 19.391358,
+   "lon": -99.1561954,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12610806184",
+   "name": "La Botica Animal",
+   "lat": 19.4742446,
+   "lon": -99.1557516,
+   "distKm": 5.2,
+   "address": "257 Calle 13, Azcapotzalco, CDMX 02600",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/12610806185",
+   "name": "La Botica Animal",
+   "lat": 19.4517949,
+   "lon": -99.1788052,
+   "distKm": 5.2,
+   "address": "18A Cerrada Mar de Kara, Miguel Hidalgo, CDMX 11400",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "way/571578975",
+   "name": "Centro Veterinario Raven",
+   "lat": 19.3884724,
+   "lon": -99.1531618,
+   "distKm": 5.3,
+   "address": "265 Petén, Benito Juarez, CDMX 03023",
+   "tags": {
+    "phone": "+525535433322",
+    "website": "https://centroveterinarioraven.com.mx/",
+    "opening_hours": "Mo-Fr 11:00-19:00, Sa 11:00-17:30"
+   }
+  },
+  {
+   "id": "node/10876844209",
+   "name": "Colibri",
+   "lat": 19.4176688,
+   "lon": -99.0846602,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 08:00-22:00"
+   }
+  },
+  {
+   "id": "node/10889001691",
+   "name": "Animal Medical Center",
+   "lat": 19.4158412,
+   "lon": -99.0853224,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10885731437",
+   "name": "Ñerik",
+   "lat": 19.4162219,
+   "lon": -99.0842112,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8685695254",
+   "name": "Hospital de Animales",
+   "lat": 19.4332248,
+   "lon": -99.1885317,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9862677194",
+   "name": "CEME Gatos",
+   "lat": 19.3834746,
+   "lon": -99.1518496,
+   "distKm": 5.8,
+   "address": "30 Calle Bonampak, 03600",
+   "tags": {
+    "phone": "+5215589369455",
+    "website": "https://www.cemegatos.com.mx/",
+    "opening_hours": "Mo-Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/4456402590",
+   "name": "+Kota",
+   "lat": 19.3792446,
+   "lon": -99.1609005,
+   "distKm": 6.6,
+   "address": "1166 E Matías Romero, 03100",
+   "tags": {}
+  },
+  {
+   "id": "way/1526530664",
+   "name": "Clínica Veterinatia Cliver",
+   "lat": 19.3932204,
+   "lon": -99.0857412,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4559468990",
+   "name": "Veterinaria Tacuba",
+   "lat": 19.4585468,
+   "lon": -99.190497,
+   "distKm": 6.7,
+   "address": "Calle Golfo de San Lorenzo",
+   "tags": {}
+  },
+  {
+   "id": "node/13909066726",
+   "name": "Lorvet",
+   "lat": 19.3940977,
+   "lon": -99.0844075,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8934215963",
+   "name": "Shambala",
+   "lat": 19.3744669,
+   "lon": -99.1535462,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "phone": "+521555532579"
+   }
+  },
+  {
+   "id": "way/790805483",
+   "name": "Centro Antirrabico Luis Pasteur",
+   "lat": 19.464551,
+   "lon": -99.0782067,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7151500144",
+   "name": "Clínica Veterinaria",
+   "lat": 19.3711844,
+   "lon": -99.1449777,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10258379614",
+   "name": "Peek",
+   "lat": 19.3883587,
+   "lon": -99.1791827,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4440647089",
+   "name": "Consultorío Veterinario",
+   "lat": 19.3738803,
+   "lon": -99.1565281,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6266122137",
+   "name": "Negra",
+   "lat": 19.3684992,
+   "lon": -99.1455386,
+   "distKm": 7.2,
+   "address": "Avenida Municipio Libre",
+   "tags": {}
+  },
+  {
+   "id": "node/13956256697",
+   "name": "The Guardian Veterinary Hospital",
+   "lat": 19.3968091,
+   "lon": -99.1899413,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8843502566",
+   "name": "PETZOA, Veterinaria",
+   "lat": 19.3668077,
+   "lon": -99.138027,
+   "distKm": 7.3,
+   "address": "7 av plutarco elias calles, CDMX, 03570",
+   "tags": {
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/13961113388",
+   "name": "Snoopets",
+   "lat": 19.3966886,
+   "lon": -99.1911239,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11879501370",
+   "name": "Veterinaria",
+   "lat": 19.3704147,
+   "lon": -99.1089409,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13089415923",
+   "name": "Clinica Veterinaria Legaria",
+   "lat": 19.4501394,
+   "lon": -99.2036841,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1424154117",
+   "name": "Clínica Veterinaria Legaria",
+   "lat": 19.450139,
+   "lon": -99.2036826,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8843502573",
+   "name": "Biopet Consultorio Veterinario",
+   "lat": 19.3626726,
+   "lon": -99.1404514,
+   "distKm": 7.8,
+   "address": "30 Avenida Repúblicas, Ciudad de México, 03570",
+   "tags": {
+    "emergency": "no"
+   }
+  },
+  {
+   "id": "node/13090462263",
+   "name": "Clínica Veterinaria Wolfy",
+   "lat": 19.4550839,
+   "lon": -99.2032674,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5667278593",
+   "name": "Hospital Veterinario de Medicina Preventiva",
+   "lat": 19.3623999,
+   "lon": -99.1488962,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "phone": "+525556052263",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12599925158",
+   "name": "Clínica Veterinaria Empire",
+   "lat": 19.3726689,
+   "lon": -99.175145,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12823596374",
+   "name": "Bienestar veterinario",
+   "lat": 19.3608274,
+   "lon": -99.1475761,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12823620012",
+   "name": "Atención Veterinaria Integral",
+   "lat": 19.3604342,
+   "lon": -99.1445908,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12968897501",
+   "name": "Animal Zone",
+   "lat": 19.3602887,
+   "lon": -99.1520894,
+   "distKm": 8.3,
+   "address": "158 Calle Nevado, 03300",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/8608521229",
+   "name": "Consultorio veterinario",
+   "lat": 19.3761422,
+   "lon": -99.1892775,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "phone": "0445532045611 - 55638091"
+   }
+  },
+  {
+   "id": "node/9925610445",
+   "name": "CEME Gatos",
+   "lat": 19.3590831,
+   "lon": -99.1594028,
+   "distKm": 8.6,
+   "address": "125 Calle General Manuel Rincón",
+   "tags": {
+    "phone": "+52 55 63639935;+52 55 63639940"
+   }
+  },
+  {
+   "id": "node/9959527258",
+   "name": "Mila Mascotas",
+   "lat": 19.3534661,
+   "lon": -99.1284446,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10170506342",
+   "name": "Medical Center",
+   "lat": 19.511622,
+   "lon": -99.1334118,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9976110171",
+   "name": "Mila Mascotas",
+   "lat": 19.3533653,
+   "lon": -99.124831,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

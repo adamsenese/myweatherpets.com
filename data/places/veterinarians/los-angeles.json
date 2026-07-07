@@ -1,0 +1,655 @@
+{
+ "$schemaVersion": 1,
+ "city": "los-angeles",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:20:46.782Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/8461651386",
+   "name": "Grand Park Animal Hospital",
+   "lat": 34.0450709,
+   "lon": -118.2388581,
+   "distKm": 0.9,
+   "address": "333 South Alameda Street, Los Angeles, CA 90013",
+   "tags": {}
+  },
+  {
+   "id": "node/11525812769",
+   "name": "Modern Animal",
+   "lat": 34.0419409,
+   "lon": -118.2586606,
+   "distKm": 1.8,
+   "address": "301 West Olympic Boulevard, 90015",
+   "tags": {
+    "phone": "+1-866-505-8755",
+    "website": "http://modernanimal.com"
+   }
+  },
+  {
+   "id": "node/3119815051",
+   "name": "Mohawk Alley Animal Hospital",
+   "lat": 34.0775456,
+   "lon": -118.2659713,
+   "distKm": 3.5,
+   "address": "2162 Sunset Boulevard, 90026",
+   "tags": {
+    "phone": "+1-213-201-7900",
+    "website": "https://www.mohawkalleyanimalhospital.com",
+    "opening_hours": "Su 08:00-18:00; Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/10733801606",
+   "name": "Wayfarer",
+   "lat": 34.0984172,
+   "lon": -118.2740093,
+   "distKm": 5.8,
+   "address": "2024 Hyperion Avenue, 90027",
+   "tags": {
+    "phone": "+1-323-662-8197",
+    "opening_hours": "Mo-Fr 07:00-12:00, 13:00-17:30; Sa-Su 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/7372989326",
+   "name": "Village Vet",
+   "lat": 34.1091809,
+   "lon": -118.2719393,
+   "distKm": 6.8,
+   "address": "2833,2835,2837,2839,2841,2843 Hyperion Avenue, 90027",
+   "tags": {
+    "phone": "+1-323-666-9838",
+    "website": "https://www.thrivepetcare.com/locations/california/los-angeles/the-village-vet",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/426966111",
+   "name": "Animal Hospital",
+   "lat": 34.108395,
+   "lon": -118.1945868,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3281084473",
+   "name": "Animal Hospital",
+   "lat": 34.0984758,
+   "lon": -118.3073303,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/409382693",
+   "name": "Animal Rescue Center",
+   "lat": 34.0213154,
+   "lon": -118.3274808,
+   "distKm": 8.4,
+   "address": "2901 Exposition Boulevard, Los Angeles, CA 90018",
+   "tags": {
+    "phone": "+1 323-402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+   }
+  },
+  {
+   "id": "way/429150933",
+   "name": "Highland Park Animal Hospital",
+   "lat": 34.1203546,
+   "lon": -118.2023158,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10687051355",
+   "name": "VCA Animal Hospital",
+   "lat": 34.1279396,
+   "lon": -118.2604189,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13453340710",
+   "name": "Monterey Park Animal Hospital",
+   "lat": 34.0368517,
+   "lon": -118.1468134,
+   "distKm": 9.1,
+   "address": "2314 South Atlantic Boulevard, Monterey Park, CA 91754",
+   "tags": {
+    "phone": "+1 323-722-9692",
+    "website": "https://mpah.com",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off"
+   }
+  },
+  {
+   "id": "node/11927055477",
+   "name": "Urgent Care Animal hostpital",
+   "lat": 34.1360477,
+   "lon": -118.2155657,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3849945981",
+   "name": "Melrose Pet Clinic",
+   "lat": 34.0832726,
+   "lon": -118.3448281,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/358857959",
+   "name": "Alhambra Veterinary Hospital",
+   "lat": 34.0827049,
+   "lon": -118.1400007,
+   "distKm": 10.1,
+   "address": "1501 West Mission Road, Alhambra, CA 91803",
+   "tags": {
+    "phone": "+1 626-289-9227",
+    "website": "https://alhambravets.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/2890873214",
+   "name": "TLC",
+   "lat": 34.1045203,
+   "lon": -118.1519579,
+   "distKm": 10.3,
+   "address": "1412 Huntington Drive, South Pasadena, CA 91030",
+   "tags": {
+    "phone": "+1 626-441-8555",
+    "website": "https://vcahospitals.com/tlc-pasadena",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/10692302505",
+   "name": "Paw Priority",
+   "lat": 34.0835834,
+   "lon": -118.3644981,
+   "distKm": 11.7,
+   "address": "8020 Melrose Avenue, Los Angeles, CA 90046",
+   "tags": {
+    "phone": "+1-310-776-5544",
+    "website": "https://pawpriority.vet",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/5496321015",
+   "name": "VCA Mission Animal Hospital",
+   "lat": 34.0895736,
+   "lon": -118.1237549,
+   "distKm": 11.8,
+   "address": "25 West Mission Road, Alhambra, CA 91801",
+   "tags": {
+    "phone": "+1 626-289-3643",
+    "website": "https://vcahospitals.com/mission-ca",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/9423765045",
+   "name": "Culver City Animal Hospital",
+   "lat": 34.033238,
+   "lon": -118.3721364,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13273880077",
+   "name": "VCA A Breed Apart Animal Hospital",
+   "lat": 34.1322899,
+   "lon": -118.1477872,
+   "distKm": 12.5,
+   "address": "777 South Arroyo Parkway, Pasadena, CA 91105",
+   "tags": {
+    "phone": "+1 626-795-4444",
+    "website": "https://vcahospitals.com/a-breed-apart",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "node/8435941818",
+   "name": "Beverly Robertson Veterinary Clinic",
+   "lat": 34.0463467,
+   "lon": -118.3858317,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8583889186",
+   "name": "VCA Century",
+   "lat": 34.0316491,
+   "lon": -118.3836431,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2603240835",
+   "name": "Los Angeles Veterinary Specialists",
+   "lat": 34.0874972,
+   "lon": -118.3809819,
+   "distKm": 13.2,
+   "address": "8723 Santa Monica Boulevard, Los Angeles, CA 90069",
+   "tags": {
+    "phone": "+1-310-659-5287",
+    "website": "https://vcahospitals.com/los-angeles-veterinary-specialists",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:30"
+   }
+  },
+  {
+   "id": "node/4285564891",
+   "name": "Miller Robertson Animal Hospital",
+   "lat": 34.0810475,
+   "lon": -118.385784,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/365021584",
+   "name": "West Hollywood Animal Hospital",
+   "lat": 34.0825641,
+   "lon": -118.3869509,
+   "distKm": 13.6,
+   "address": "9000 Santa Monica Boulevard, West Hollywood, CA 90069",
+   "tags": {
+    "phone": "+1-310-275-0055",
+    "website": "https://wh-ah.com/",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/8346283475",
+   "name": "City of Angels",
+   "lat": 34.0173785,
+   "lon": -118.3883443,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2271337048",
+   "name": "Beverly Hills Small Animal Hospital",
+   "lat": 34.075233,
+   "lon": -118.3963295,
+   "distKm": 14.3,
+   "address": "353 N Foothill Rd, 90210",
+   "tags": {
+    "website": "http://www.bhsah.com"
+   }
+  },
+  {
+   "id": "node/12377648885",
+   "name": "VCA Animal Hospital",
+   "lat": 34.1591384,
+   "lon": -118.3320079,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/471940261",
+   "name": "Animal Urgent Care",
+   "lat": 34.1737188,
+   "lon": -118.3002209,
+   "distKm": 14.5,
+   "address": "126 East Alameda Avenue, Burbank, CA 91502",
+   "tags": {
+    "phone": "+1-818-296-0700",
+    "website": "https://www.animalurgentcare.vet/burbank",
+    "opening_hours": "Mo-Su 12:00-22:00"
+   }
+  },
+  {
+   "id": "way/449978391",
+   "name": "Firestone Animal Hospital",
+   "lat": 33.9472016,
+   "lon": -118.1453418,
+   "distKm": 14.8,
+   "address": "7539 Firestone Boulevard, Downey, CA 90241",
+   "tags": {
+    "phone": "+1-562-528-0847",
+    "website": "https://firestoneanimalhospital.com/",
+    "opening_hours": "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/13342735878",
+   "name": "San Marino Veterinary Clinic",
+   "lat": 34.122605,
+   "lon": -118.1032455,
+   "distKm": 15.1,
+   "address": "2374 Huntington Drive, San Marino, CA 91108",
+   "tags": {}
+  },
+  {
+   "id": "node/9806940066",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.9983995,
+   "lon": -118.394834,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10724260107",
+   "name": "Bastet Cat Hospital",
+   "lat": 34.1798905,
+   "lon": -118.3095063,
+   "distKm": 15.4,
+   "address": "120 East Olive Avenue, 91502",
+   "tags": {
+    "phone": "+1 818-846-8600",
+    "website": "https://www.bastetcatz.com/",
+    "opening_hours": "Mo-Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/9922960565",
+   "name": "Fox Hills Animal Hospital",
+   "lat": 33.9917038,
+   "lon": -118.3950625,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8301071302",
+   "name": "Center Sinai Animal Hospital",
+   "lat": 34.0183686,
+   "lon": -118.4081396,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/455768529",
+   "name": "Hollydale Veterinary Hospital",
+   "lat": 33.9259546,
+   "lon": -118.1696857,
+   "distKm": 15.6,
+   "address": "11205 Garfield Avenue, South Gate, CA 90280",
+   "tags": {
+    "phone": "+1-562-862-2159",
+    "website": "https://www.hollydalevethospital.com/",
+    "opening_hours": "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/8287610952",
+   "name": "Overland Veterinary Clinic",
+   "lat": 34.0246766,
+   "lon": -118.41207,
+   "distKm": 15.8,
+   "address": "3465 Overland Avenue, Los Angeles, CA",
+   "tags": {}
+  },
+  {
+   "id": "node/9806940029",
+   "name": "Brent-Air Veterinary",
+   "lat": 34.0020642,
+   "lon": -118.4058171,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8301099752",
+   "name": "Sepulveda Animal Hospital",
+   "lat": 34.0047256,
+   "lon": -118.4095712,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8722546340",
+   "name": "Rancho Park Veterinary Clinic",
+   "lat": 34.0438434,
+   "lon": -118.421686,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3477020419",
+   "name": "Temple City Animal Hospital",
+   "lat": 34.0976158,
+   "lon": -118.0731643,
+   "distKm": 16.5,
+   "address": "5406 Rosemead Boulevard, Temple City, CA 91780",
+   "tags": {
+    "phone": "+1 626-287-1173",
+    "website": "https://www.templecityanimalhospital.com",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/2698285007",
+   "name": "Animal AM-Emergency Clinic of Pasadena",
+   "lat": 34.1498621,
+   "lon": -118.106435,
+   "distKm": 16.7,
+   "address": "2121 East Foothill Boulevard, Pasadena, CA 91107",
+   "tags": {
+    "phone": "+1-626-576-1725",
+    "website": "https://aaecp.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13438554988",
+   "name": "Toluca Burbank Dog & Cat Hospital",
+   "lat": 34.1765315,
+   "lon": -118.3452779,
+   "distKm": 16.7,
+   "address": "3121 Burbank Boulevard",
+   "tags": {
+    "phone": "+1 818-848-4202",
+    "website": "https://tolucaburbankpet.com/",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:00-17:30; Sa 08:00-12:30,13:00-17:00"
+   }
+  },
+  {
+   "id": "node/13475411652",
+   "name": "VCA Foothill Veterinary Hospital",
+   "lat": 34.1492691,
+   "lon": -118.1049479,
+   "distKm": 16.7,
+   "address": "2204 East Foothill Boulevard, Pasadena, CA 91107",
+   "tags": {
+    "phone": "+1 626-792-1187",
+    "website": "https://vcahospitals.com/foothill",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-12:30; Su off"
+   }
+  },
+  {
+   "id": "node/8490032372",
+   "name": "West LA Veterinary",
+   "lat": 34.041322,
+   "lon": -118.4263717,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8756227253",
+   "name": "Culver Palms Animal Hospital",
+   "lat": 34.0011378,
+   "lon": -118.4166083,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/369436469",
+   "name": "Montrose Pet Hospital",
+   "lat": 34.2067654,
+   "lon": -118.2323904,
+   "distKm": 17.2,
+   "address": "2444 Honolulu Avenue",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-12:00,13:00-17:00"
+   }
+  },
+  {
+   "id": "node/13411281593",
+   "name": "Eye Care for Animals",
+   "lat": 34.1484283,
+   "lon": -118.0942186,
+   "distKm": 17.4,
+   "address": "150 North San Gabriel Boulevard, Pasadena, CA 91107",
+   "tags": {
+    "phone": "+1 626-790-5964",
+    "website": "https://www.thrivepetcare.com/locations/california/pasadena/eye-care-for-animals-pasadena",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/11002091075",
+   "name": "Rose City Veterinary Hospital",
+   "lat": 34.1500705,
+   "lon": -118.0948244,
+   "distKm": 17.5,
+   "address": "2695 East Foothill Boulevard, Pasadena, CA 91107",
+   "tags": {
+    "phone": "+1-626-796-8387",
+    "website": "https://www.rosecityvets.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/9989523639",
+   "name": "Westchester Veterinary Center",
+   "lat": 33.9555848,
+   "lon": -118.3965008,
+   "distKm": 17.7,
+   "address": "8911 South Sepulveda Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/11375848646",
+   "name": "Modern Animal",
+   "lat": 34.0478366,
+   "lon": -118.4355046,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/425168451",
+   "name": "Animal Medical Center of Southern California",
+   "lat": 34.0378304,
+   "lon": -118.435435,
+   "distKm": 17.7,
+   "address": "2340 2340",
+   "tags": {}
+  },
+  {
+   "id": "node/8756227836",
+   "name": "VCA Animal Hospitals Urgent Care - Mar Vista",
+   "lat": 34.0053337,
+   "lon": -118.4300048,
+   "distKm": 17.9,
+   "address": "12108 Venice Boulevard, Los Angeles, CA 90066",
+   "tags": {
+    "phone": "+1-310-558-5121"
+   }
+  },
+  {
+   "id": "node/9453699409",
+   "name": "Mar Vista Animal Medical Center",
+   "lat": 34.0037014,
+   "lon": -118.4299578,
+   "distKm": 18,
+   "address": "3850 Grand View Boulevard, Los Angeles, CA 90066",
+   "tags": {
+    "website": "https://marvistavet.com/"
+   }
+  },
+  {
+   "id": "node/8707394243",
+   "name": "Pasternak Veterinary Center",
+   "lat": 34.0422507,
+   "lon": -118.4393454,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9382717155",
+   "name": "Carlsen Animal Hospital",
+   "lat": 34.0427202,
+   "lon": -118.4410771,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/422478588",
+   "name": "VCA West LA Animal Hospital",
+   "lat": 34.0443972,
+   "lon": -118.441083,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/424954275",
+   "name": "Shelter Veterinary",
+   "lat": 34.0348889,
+   "lon": -118.4400617,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13434545112",
+   "name": "Pasadena Veterinary Urgent Care",
+   "lat": 34.146794,
+   "lon": -118.0810968,
+   "distKm": 18.3,
+   "address": "3415 East Colorado Boulevard, Pasadena, CA 91107",
+   "tags": {
+    "phone": "+1 626-345-5418",
+    "website": "https://pasadenaveturgentcare.com/",
+    "opening_hours": "Mo-Tu,Fr 10:00-20:00; We-Th off; Sa-Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/8830476552",
+   "name": "Value Vet",
+   "lat": 34.0574249,
+   "lon": -118.4428257,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11891850484",
+   "name": "Papaya",
+   "lat": 34.0368622,
+   "lon": -118.4439181,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

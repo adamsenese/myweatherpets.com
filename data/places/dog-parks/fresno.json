@@ -1,0 +1,65 @@
+{
+ "$schemaVersion": 1,
+ "city": "fresno",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:36:07.752Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "way/708710183",
+   "name": "Dr. James W. Thornton Dog Park",
+   "lat": 36.7891391,
+   "lon": -119.7456764,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1370670619",
+   "name": "Letterman Park Dog Park",
+   "lat": 36.8183494,
+   "lon": -119.7150489,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1370669185",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.8328277,
+   "lon": -119.6920382,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/896808194",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.7870731,
+   "lon": -119.6406961,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/552937909",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.8703898,
+   "lon": -119.7806235,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/583838402",
+   "name": "Todd Beamer Dog Park",
+   "lat": 36.8778493,
+   "lon": -119.7490969,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

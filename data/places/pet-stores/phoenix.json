@@ -1,0 +1,488 @@
+{
+ "$schemaVersion": 1,
+ "city": "phoenix",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:21:30.421Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 42,
+ "places": [
+  {
+   "id": "way/124895980",
+   "name": "Ryan's Pet Supplies",
+   "lat": 33.4652063,
+   "lon": -112.0429342,
+   "distKm": 3.4,
+   "address": "1805 East McDowell Road, Phoenix, AZ 85006",
+   "tags": {}
+  },
+  {
+   "id": "way/1227040416",
+   "name": "Thompson's Veterinary Supplies",
+   "lat": 33.4639807,
+   "lon": -112.1219064,
+   "distKm": 4.8,
+   "address": "1340 North 29th Avenue, Phoenix, AZ 85009",
+   "tags": {}
+  },
+  {
+   "id": "way/1227498409",
+   "name": "Reptile Empress Exotic Pets & Supplies",
+   "lat": 33.4708975,
+   "lon": -112.1175591,
+   "distKm": 4.8,
+   "address": "2038 North 27th Avenue, Phoenix, AZ 85009",
+   "tags": {}
+  },
+  {
+   "id": "way/366004827",
+   "name": "Bark If You’re Dirty",
+   "lat": 33.4977562,
+   "lon": -112.0838749,
+   "distKm": 5.6,
+   "address": "4230 North 7th Avenue, Phoenix, AZ 85013",
+   "tags": {}
+  },
+  {
+   "id": "way/919030951",
+   "name": "My Pet Market",
+   "lat": 33.5069243,
+   "lon": -112.0377712,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11733075983",
+   "name": "Ruff Life Dog Bones",
+   "lat": 33.4652127,
+   "lon": -111.9925421,
+   "distKm": 7.8,
+   "address": "4107 East McDowell Road, Phoenix, AZ 85008",
+   "tags": {}
+  },
+  {
+   "id": "way/316667951",
+   "name": "Ray's Feed Store",
+   "lat": 33.3773088,
+   "lon": -112.0817463,
+   "distKm": 7.9,
+   "address": "643 West Baseline Road, Phoenix, AZ 85041",
+   "tags": {}
+  },
+  {
+   "id": "node/4784983213",
+   "name": "PetSmart",
+   "lat": 33.5226195,
+   "lon": -112.0974637,
+   "distKm": 8.5,
+   "address": "1745 West Bethany Home Road, Phoenix, AZ 85015",
+   "tags": {
+    "phone": "+1 602-841-2507",
+    "website": "https://www.petsmart.com/stores/us/az/phoenix-store1120.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/559808910",
+   "name": "Petco",
+   "lat": 33.4749784,
+   "lon": -111.9842177,
+   "distKm": 8.8,
+   "address": "4535 East Thomas Road, Phoenix, AZ 85008",
+   "tags": {
+    "phone": "+1 602-840-9113",
+    "website": "https://stores.petco.com/az/phoenix/pet-supplies-phoenix-az-575.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9012762139",
+   "name": "Fetch",
+   "lat": 33.5254128,
+   "lon": -112.0477717,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1124898584",
+   "name": "PetSmart",
+   "lat": 33.3760448,
+   "lon": -112.0282271,
+   "distKm": 9.1,
+   "address": "2475 East Baseline Road, Phoenix, AZ 85042",
+   "tags": {
+    "phone": "+1 602-232-1090",
+    "website": "https://www.petsmart.com/stores/us/az/phoenix-store1269.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1318022313",
+   "name": "Tempe Feed",
+   "lat": 33.4215882,
+   "lon": -111.9537117,
+   "distKm": 11.6,
+   "address": "1041 West University Drive, Tempe, AZ 85281",
+   "tags": {}
+  },
+  {
+   "id": "way/1123224505",
+   "name": "Petco",
+   "lat": 33.3784266,
+   "lon": -112.1739292,
+   "distKm": 12.1,
+   "address": "5260 West Baseline Road, Phoenix, AZ 85339",
+   "tags": {
+    "phone": "+1 602-237-0610",
+    "website": "https://stores.petco.com/az/laveen/pet-supplies-laveen-az-1156.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11936152274",
+   "name": "Vet Worthy",
+   "lat": 33.4031671,
+   "lon": -111.9475878,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4860843167",
+   "name": "Dogs Etc.",
+   "lat": 33.4985163,
+   "lon": -111.926939,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2925713678",
+   "name": "PetSmart",
+   "lat": 33.5513666,
+   "lon": -112.1824071,
+   "distKm": 15.2,
+   "address": "5707 West Northern Avenue, Glendale, AZ 85301",
+   "tags": {
+    "phone": "+1 623-931-6743",
+    "website": "https://www.petsmart.com/stores/us/az/glendale-store1145.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/972453072",
+   "name": "PetSmart",
+   "lat": 33.3508192,
+   "lon": -111.9570576,
+   "distKm": 15.3,
+   "address": "1140 West Elliot Road, Tempe, AZ 85284",
+   "tags": {
+    "phone": "+1 480-755-3324",
+    "website": "https://www.petsmart.com/stores/us/az/tempe-store2256.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1348848701",
+   "name": "PetSmart",
+   "lat": 33.580619,
+   "lon": -112.1250104,
+   "distKm": 15.4,
+   "address": "10405 North 31st Avenue, Phoenix, AZ 85051",
+   "tags": {
+    "phone": "+1 602-331-0131",
+    "website": "https://www.petsmart.com/stores/us/az/phoenix-store1099.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10297575794",
+   "name": "Pet Planet",
+   "lat": 33.3790377,
+   "lon": -111.9292679,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "way/1303335616",
+   "name": "PetSmart",
+   "lat": 33.4999859,
+   "lon": -111.9192164,
+   "distKm": 15.5,
+   "address": "4380 North Miller Road, Scottsdale, AZ 85251",
+   "tags": {
+    "phone": "+1 480-429-4519",
+    "website": "https://www.petsmart.com/stores/us/az/scottsdale-store1864.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11209363307",
+   "name": "Petco",
+   "lat": 33.5832417,
+   "lon": -112.1214307,
+   "distKm": 15.6,
+   "address": "2784 West Peoria Avenue, Phoenix, AZ 85029",
+   "tags": {
+    "phone": "+1 602-504-1202",
+    "website": "https://stores.petco.com/az/phoenix/pet-supplies-phoenix-az-591.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5826866140",
+   "name": "Kona Reef",
+   "lat": 33.5818806,
+   "lon": -112.0117106,
+   "distKm": 15.9,
+   "address": "3217 East Shea Boulevard, Phoenix, AZ 85028",
+   "tags": {
+    "phone": "+1-480-451-5440",
+    "website": "https://www.konareefaz.com",
+    "opening_hours": "Tu-Sa 11:00-19:00; Su 12:00-17:00;PH off"
+   }
+  },
+  {
+   "id": "node/11914857293",
+   "name": "Discount Aquarium Fish & Reef",
+   "lat": 33.4064335,
+   "lon": -111.9097801,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/779360180",
+   "name": "PetSmart",
+   "lat": 33.4301471,
+   "lon": -111.9012093,
+   "distKm": 16.2,
+   "address": "1900 East Rio Salado Parkway, Tempe, AZ 85281",
+   "tags": {
+    "phone": "+1 480-303-7262",
+    "website": "https://www.petsmart.com/stores/us/az/tempe-store1265.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3349662908",
+   "name": "Groom Express",
+   "lat": 33.5390898,
+   "lon": -112.2179099,
+   "distKm": 16.7,
+   "address": "7448 West Glendale Avenue, Glendale, AZ 85303",
+   "tags": {}
+  },
+  {
+   "id": "node/8666027337",
+   "name": "Wild Fire Coral",
+   "lat": 33.3922511,
+   "lon": -111.9073459,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12869395085",
+   "name": "Oaty Bear Dog Boutique",
+   "lat": 33.413681,
+   "lon": -111.8985661,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/965266573",
+   "name": "PetSmart",
+   "lat": 33.3189174,
+   "lon": -111.9836925,
+   "distKm": 16.7,
+   "address": "4609 Ray Road, Phoenix, AZ 85044",
+   "tags": {
+    "phone": "+1 480-718-6882",
+    "website": "https://www.petsmart.com/stores/us/az/phoenix-store2474.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/155728122",
+   "name": "Petco",
+   "lat": 33.3186066,
+   "lon": -111.9757318,
+   "distKm": 17.1,
+   "address": "5011 East Ray Road, Phoenix, AZ 85044",
+   "tags": {
+    "phone": "+1 480-893-3383",
+    "website": "https://stores.petco.com/az/phoenix/pet-supplies-phoenix-az-597.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3399307605",
+   "name": "Choice Pet Market",
+   "lat": 33.5843346,
+   "lon": -111.9794691,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-602-652-9000",
+    "website": "http://www.choicepetmarket.com"
+   }
+  },
+  {
+   "id": "node/6750621527",
+   "name": "Pet Planet",
+   "lat": 33.3045177,
+   "lon": -111.9945996,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/205078224",
+   "name": "Pet Club Ahwatukee",
+   "lat": 33.3055267,
+   "lon": -111.9926631,
+   "distKm": 17.6,
+   "address": "East Chandler Boulevard, Phoenix, AZ 85048",
+   "tags": {}
+  },
+  {
+   "id": "node/7257118391",
+   "name": "PetSmart",
+   "lat": 33.5848568,
+   "lon": -111.9753724,
+   "distKm": 17.7,
+   "address": "10825 North Tatum Boulevard, Phoenix, AZ 85028",
+   "tags": {
+    "phone": "+1 480-367-9680",
+    "website": "https://www.petsmart.com/stores/us/az/phoenix-store0131.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13046883970",
+   "name": "PetSmart",
+   "lat": 33.362964,
+   "lon": -111.9125806,
+   "distKm": 17.7,
+   "address": "6426 South McClintock Drive, Tempe, AZ 85283",
+   "tags": {
+    "phone": "+1 480 282 9016",
+    "website": "https://www.petsmart.com/stores/us/az/tempe-store3016.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10234859416",
+   "name": "Gordy's Goodies Pet Food & Supplies",
+   "lat": 33.3068746,
+   "lon": -111.9798757,
+   "distKm": 18,
+   "address": "15425 South 48th Street, Phoenix, AZ 85044",
+   "tags": {}
+  },
+  {
+   "id": "node/11337112516",
+   "name": "Puppyland",
+   "lat": 33.4642424,
+   "lon": -112.2704335,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1873746323",
+   "name": "Pet Food Depot",
+   "lat": 33.5983247,
+   "lon": -111.984057,
+   "distKm": 18.6,
+   "address": "4619 East Cactus Road, Phoenix, AZ 85032",
+   "tags": {
+    "website": "https://pfdepot.com/",
+    "opening_hours": "Tu-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00; Mo 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/895262571",
+   "name": "Arizona Reptile Center",
+   "lat": 33.406204,
+   "lon": -111.8750855,
+   "distKm": 19,
+   "address": "2025 West Broadway Road, Mesa, AZ 85202",
+   "tags": {}
+  },
+  {
+   "id": "way/153238887",
+   "name": "Petco",
+   "lat": 33.465245,
+   "lon": -112.2793668,
+   "distKm": 19.1,
+   "address": "10190 West McDowell Road, Avondale, AZ 85392",
+   "tags": {
+    "phone": "+1 623-936-4034",
+    "website": "https://stores.petco.com/az/avondale/pet-supplies-avondale-az-1132.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/179382217",
+   "name": "Petco",
+   "lat": 33.4328667,
+   "lon": -111.8690499,
+   "distKm": 19.1,
+   "address": "845 North Dobson Road, Mesa, AZ 85201",
+   "tags": {
+    "phone": "+1 480-833-5892",
+    "website": "https://stores.petco.com/az/mesa/pet-supplies-mesa-az-1157.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9206320419",
+   "name": "Chandler Dogs 24 7 Boarding and Day Care",
+   "lat": 33.3037671,
+   "lon": -111.9485904,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/93160831",
+   "name": "Petco",
+   "lat": 33.5389999,
+   "lon": -111.889253,
+   "distKm": 19.9,
+   "address": "8910 East Talking Stick Way, Scottsdale, AZ 85250",
+   "tags": {
+    "phone": "+1 480-368-8015",
+    "website": "https://stores.petco.com/az/scottsdale/pet-supplies-scottsdale-az-1109.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

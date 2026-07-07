@@ -1,0 +1,35 @@
+{
+ "$schemaVersion": 1,
+ "city": "oklahoma-city",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:27:23.901Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "way/547763129",
+   "name": "Delmar Smith Kennels",
+   "lat": 35.6095205,
+   "lon": -97.4532287,
+   "distKm": 16.8,
+   "address": "3509 East Memorial Road, Edmond, OK 73013",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13143913297",
+   "name": "Dogtopia",
+   "lat": 35.627524,
+   "lon": -97.4854214,
+   "distKm": 18,
+   "address": "3409 South Broadway, Edmond, OK 73013",
+   "tags": {
+    "phone": "+1-405-345-7268",
+    "website": "https://www.dogtopia.com/edmond/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

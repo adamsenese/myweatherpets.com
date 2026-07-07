@@ -1,0 +1,36 @@
+{
+ "$schemaVersion": 1,
+ "city": "tucson",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:28:49.168Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "way/1051909355",
+   "name": "Kennel Comfort Pet Motel",
+   "lat": 32.2904748,
+   "lon": -111.0208686,
+   "distKm": 8.7,
+   "address": "2509 West Zinnia Avenue, Tucson, AZ 85705",
+   "tags": {
+    "phone": "+1-520-887-7131",
+    "website": "http://kennelcomfort.com",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-24:00; Su 15:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11287438090",
+   "name": "Dogtopia",
+   "lat": 32.3456833,
+   "lon": -110.9777822,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

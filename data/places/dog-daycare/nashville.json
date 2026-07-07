@@ -1,0 +1,22 @@
+{
+ "$schemaVersion": 1,
+ "city": "nashville",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:26:46.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/13950384720",
+   "name": "Yardstick Dog Hotel",
+   "lat": 36.02524,
+   "lon": -86.7906899,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

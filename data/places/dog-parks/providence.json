@@ -1,0 +1,99 @@
+{
+ "$schemaVersion": 1,
+ "city": "providence",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:34:05.817Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "way/293082185",
+   "name": "Franciscan Park",
+   "lat": 41.8190551,
+   "lon": -71.4367259,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/298110704",
+   "name": "Gano Dog Park",
+   "lat": 41.8243234,
+   "lon": -71.387311,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/470062391",
+   "name": "Waterman Dog Park",
+   "lat": 41.8283484,
+   "lon": -71.3822958,
+   "distKm": 2.6,
+   "address": "320 Waterman Street, Providence, RI 02906",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/465177230",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8717951,
+   "lon": -71.3425749,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1022926878",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.7800165,
+   "lon": -71.5182937,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/658954213",
+   "name": "City Dog Park",
+   "lat": 41.6927732,
+   "lon": -71.4137446,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3381799018",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9515024,
+   "lon": -71.4575183,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1184489189",
+   "name": "Smithfield Dog Park",
+   "lat": 41.9160947,
+   "lon": -71.5467603,
+   "distKm": 15.1,
+   "address": "353 Farnum Pike, Smithfield, RI 02917",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/882489062",
+   "name": "Warren Dog Park",
+   "lat": 41.7272059,
+   "lon": -71.2801646,
+   "distKm": 15.4,
+   "address": "East Bay Bike Path, Warren, RI",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.townofwarren-ri.gov/town_government/departments/parks_and_recreation/index.php"
+   }
+  }
+ ]
+}

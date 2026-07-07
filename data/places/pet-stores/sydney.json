@@ -1,0 +1,520 @@
+{
+ "$schemaVersion": 1,
+ "city": "sydney",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:40:24.853Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 48,
+ "places": [
+  {
+   "id": "node/10650396146",
+   "name": "Petbarn",
+   "lat": -33.8711582,
+   "lon": 151.2254257,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/store-finder/potts-point",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/10948424184",
+   "name": "Petbarn",
+   "lat": -33.8842194,
+   "lon": 151.2098816,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/10580904979",
+   "name": "Pets Point",
+   "lat": -33.872023,
+   "lon": 151.227859,
+   "distKm": 1.8,
+   "address": "2011",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:30; Sa-Su 08:00-15:30"
+   }
+  },
+  {
+   "id": "node/12061321619",
+   "name": "Fuzzy Monsters",
+   "lat": -33.8863648,
+   "lon": 151.2017789,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5902885730",
+   "name": "Aquadisiac",
+   "lat": -33.8878458,
+   "lon": 151.2314133,
+   "distKm": 2.9,
+   "address": "2021",
+   "tags": {}
+  },
+  {
+   "id": "node/7726482861",
+   "name": "Pet O",
+   "lat": -33.8760765,
+   "lon": 151.1758722,
+   "distKm": 3.2,
+   "address": "1A The Crescent",
+   "tags": {
+    "website": "https://peto.com.au/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4925657661",
+   "name": "Petbarn",
+   "lat": -33.8774433,
+   "lon": 151.2444929,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/6779380538",
+   "name": "Pet Stock",
+   "lat": -33.8779123,
+   "lon": 151.2443505,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.petstock.com.au/store/petstock-double-bay-2206"
+   }
+  },
+  {
+   "id": "node/5902886018",
+   "name": "Dogue",
+   "lat": -33.8905695,
+   "lon": 151.2436647,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/61972938",
+   "name": "Petbarn",
+   "lat": -33.9039293,
+   "lon": 151.1935297,
+   "distKm": 4.2,
+   "address": "175 McEvoy Street",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-17:00; Su 09:00-17:00; PH 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/5338208460",
+   "name": "Aquapets Aquariums",
+   "lat": -33.8935295,
+   "lon": 151.2491021,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13707141470",
+   "name": "The Cat Protection Society of NSW",
+   "lat": -33.898657,
+   "lon": 151.174299,
+   "distKm": 4.6,
+   "address": "103 Enmore Road",
+   "tags": {}
+  },
+  {
+   "id": "node/5903363364",
+   "name": "Petbarn",
+   "lat": -33.8946355,
+   "lon": 151.2498808,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/3275282201",
+   "name": "Pets Palace",
+   "lat": -33.9065894,
+   "lon": 151.1812158,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su,PH 08:30-19:15"
+   }
+  },
+  {
+   "id": "node/2625901404",
+   "name": "Petbarn",
+   "lat": -33.822833,
+   "lon": 151.200736,
+   "distKm": 5.2,
+   "address": "160 Willoughby Road, NSW 2065",
+   "tags": {
+    "website": "https://www.petbarn.com.au/store-finder/crows-nest",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 08:30-17:00; Su 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/6004908494",
+   "name": "Puppy Parlour",
+   "lat": -33.9005095,
+   "lon": 151.2533907,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8784419349",
+   "name": "Petsville / Birdsville",
+   "lat": -33.9212098,
+   "lon": 151.1963567,
+   "distKm": 5.9,
+   "address": "684 Botany Road, NSW 2015",
+   "tags": {}
+  },
+  {
+   "id": "node/10786067064",
+   "name": "Petstock",
+   "lat": -33.8168902,
+   "lon": 151.188859,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/12706486443",
+   "name": "Petstock",
+   "lat": -33.9187638,
+   "lon": 151.1710925,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/13457737377",
+   "name": "Petbarn",
+   "lat": -33.9115046,
+   "lon": 151.1580891,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/279032942",
+   "name": "Slippery little suckers",
+   "lat": -33.9276307,
+   "lon": 151.2331422,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.slipperylittlesuckers.com/"
+   }
+  },
+  {
+   "id": "node/8886320365",
+   "name": "Dorgi Town",
+   "lat": -33.8092159,
+   "lon": 151.1850454,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-18:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/277751753",
+   "name": "Petstock",
+   "lat": -33.9282575,
+   "lon": 151.2326962,
+   "distKm": 7,
+   "address": "473-477 Anzac Parade, 2032",
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/10591120332",
+   "name": "PetO",
+   "lat": -33.8147827,
+   "lon": 151.1673294,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11815953161",
+   "name": "Crystal Palace Aquarium Five Dock",
+   "lat": -33.8698727,
+   "lon": 151.1307522,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1191359849",
+   "name": "PetO",
+   "lat": -33.8905958,
+   "lon": 151.1289155,
+   "distKm": 7.8,
+   "address": "146 Liverpool Road",
+   "tags": {
+    "phone": "+61 2 9799 7778",
+    "website": "https://peto.com.au",
+    "opening_hours": "Mo-We, Fr-Sa 09:00-18:00; Th 09:00-19:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/1185947109",
+   "name": "Fine Pebble Aquarium",
+   "lat": -33.8716983,
+   "lon": 151.1224408,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8401323691",
+   "name": "Pet Town",
+   "lat": -33.7973368,
+   "lon": 151.1841025,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/553375029",
+   "name": "Pet O",
+   "lat": -33.7926644,
+   "lon": 151.1938192,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11422600290",
+   "name": "DogTech Behaviour Training",
+   "lat": -33.9064164,
+   "lon": 151.1272277,
+   "distKm": 8.7,
+   "address": "36-38 Canterbury Road",
+   "tags": {
+    "phone": "+61 2 8018 5200",
+    "website": "https://dogtech.com.au/"
+   }
+  },
+  {
+   "id": "way/293252847",
+   "name": "Stefmar Pet Care",
+   "lat": -33.9596562,
+   "lon": 151.2317118,
+   "distKm": 10.3,
+   "address": "517-519 Bunnerong Road, NSW 2036",
+   "tags": {}
+  },
+  {
+   "id": "way/652184605",
+   "name": "Petstock",
+   "lat": -33.789202,
+   "lon": 151.2662446,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/13784635301",
+   "name": "Pet stock",
+   "lat": -33.8951207,
+   "lon": 151.0977081,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/401702209",
+   "name": "Petbarn",
+   "lat": -33.908079,
+   "lon": 151.102983,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/284764911",
+   "name": "Petbarn",
+   "lat": -33.8885182,
+   "lon": 151.0749672,
+   "distKm": 12.6,
+   "address": "Liverpool Road, 2136",
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/6037701516",
+   "name": "Petbarn",
+   "lat": -33.8086744,
+   "lon": 151.0924752,
+   "distKm": 12.7,
+   "address": "927 Victoria Road",
+   "tags": {
+    "website": "https://www.petbarn.com.au/store-finder/west-ryde",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/5907932712",
+   "name": "Petbarn",
+   "lat": -33.9664385,
+   "lon": 151.130961,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/13481047759",
+   "name": "Petstock",
+   "lat": -33.7769562,
+   "lon": 151.1212176,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "way/106227319",
+   "name": "Living Jungle",
+   "lat": -33.9849,
+   "lon": 151.1424029,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-17:30"
+   }
+  },
+  {
+   "id": "node/13639952515",
+   "name": "Animalia",
+   "lat": -33.966148,
+   "lon": 151.1047532,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4828675012",
+   "name": "Aquarium Empire",
+   "lat": -33.940697,
+   "lon": 151.0763109,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 9759 3009",
+    "website": "http://aquariumempire.com.au",
+    "opening_hours": "Mo-Sa 10:00-17:30, Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/13481081766",
+   "name": "The Pet Connection",
+   "lat": -33.7298378,
+   "lon": 151.1581105,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9308863640",
+   "name": "Cagemaster Pet Supplies",
+   "lat": -33.8545747,
+   "lon": 151.0255242,
+   "distKm": 17,
+   "address": "Rawson Street, NSW 2144",
+   "tags": {
+    "phone": "+61 481 245 845",
+    "website": "https://www.cagemaster.com.au/",
+    "opening_hours": "Mo-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/7176473942",
+   "name": "Petbarn",
+   "lat": -33.9343122,
+   "lon": 151.0394581,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/13700281289",
+   "name": "Petbarn",
+   "lat": -33.7038513,
+   "lon": 151.2120389,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/6008657251",
+   "name": "Petstock",
+   "lat": -33.7032267,
+   "lon": 151.2129241,
+   "distKm": 18.4,
+   "address": "4-6 Niangala Close, NSW 2085",
+   "tags": {
+    "website": "https://www.petstock.com.au/",
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/9427960248",
+   "name": "Padstow Pet Centre",
+   "lat": -33.9503697,
+   "lon": 151.03081,
+   "distKm": 18.8,
+   "address": "122 Cahors Road, NSW 2211",
+   "tags": {}
+  },
+  {
+   "id": "way/1225536107",
+   "name": "PetO",
+   "lat": -34.0299288,
+   "lon": 151.1202201,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

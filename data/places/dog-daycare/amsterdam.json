@@ -1,0 +1,35 @@
+{
+ "$schemaVersion": 1,
+ "city": "amsterdam",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:38:26.065Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "node/2892082519",
+   "name": "Kyno Connect Hondentraining & Opvang",
+   "lat": 52.4369706,
+   "lon": 4.7290958,
+   "distKm": 14.2,
+   "address": "99 Provincialeweg, Assendelft, 1566PT",
+   "tags": {
+    "phone": "+31 6 23004923",
+    "website": "https://www.kynoconnect.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2875357183",
+   "name": "de Kievitshoeve",
+   "lat": 52.2364838,
+   "lon": 4.8618698,
+   "distKm": 14.9,
+   "address": "22A Tienboerenweg, Mijdrecht, 3641RA",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

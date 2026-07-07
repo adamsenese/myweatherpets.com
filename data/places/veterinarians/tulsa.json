@@ -1,0 +1,357 @@
+{
+ "$schemaVersion": 1,
+ "city": "tulsa",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:31:10.056Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 34,
+ "places": [
+  {
+   "id": "node/13527463106",
+   "name": "Skyline Animal Hospital",
+   "lat": 36.1582414,
+   "lon": -95.988265,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-17:30"
+   }
+  },
+  {
+   "id": "way/496130507",
+   "name": "Elm Creek Animal Hospital",
+   "lat": 36.1452375,
+   "lon": -95.9753761,
+   "distKm": 1.8,
+   "address": "1219 South Peoria Avenue East, Tulsa, OK 74120",
+   "tags": {
+    "phone": "+1 918 508 7010",
+    "website": "https://elmcreekanimalhospital.net/"
+   }
+  },
+  {
+   "id": "way/575120441",
+   "name": "Pawsitive Veterinary Care",
+   "lat": 36.1557397,
+   "lon": -96.0210044,
+   "distKm": 2.5,
+   "address": "104 North Gilcrease Museum Road, Tulsa, OK 74127",
+   "tags": {
+    "phone": "+1 918 585 9369",
+    "website": "https://pawsitiveveterinarycare.us/"
+   }
+  },
+  {
+   "id": "way/1011538165",
+   "name": "STATVet Animal Urgent Care",
+   "lat": 36.1402503,
+   "lon": -95.9513219,
+   "distKm": 4,
+   "address": "2702 East 15th Street South, Tulsa, OK 74104",
+   "tags": {
+    "phone": "+1 918 398 0838",
+    "website": "https://statvet.com/",
+    "opening_hours": "Mo-Fr 12:00-22:00; Sa,Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "way/1011538139",
+   "name": "Jacox Animal Clinic",
+   "lat": 36.1402451,
+   "lon": -95.9500949,
+   "distKm": 4.1,
+   "address": "2732 East 15th Street South, Tulsa, OK 74104",
+   "tags": {}
+  },
+  {
+   "id": "way/1009158004",
+   "name": "Cedarwood Veterinary Clinic",
+   "lat": 36.1417033,
+   "lon": -95.9406621,
+   "distKm": 4.9,
+   "address": "1420 South Harvard Avenue East, Tulsa, 74112",
+   "tags": {}
+  },
+  {
+   "id": "way/1342541733",
+   "name": "City Veteranary Hospital",
+   "lat": 36.1118051,
+   "lon": -95.9761092,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13309111837",
+   "name": "Riverbrook Animal Hospital",
+   "lat": 36.1080707,
+   "lon": -95.975951,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13312440431",
+   "name": "Ranch Acres Veterinary Hospital",
+   "lat": 36.1155894,
+   "lon": -95.9400062,
+   "distKm": 6.4,
+   "address": "3241 South Harvard Avenue East, Tulsa, OK 74135",
+   "tags": {
+    "phone": "+1 918 747 5970",
+    "website": "http://www.ranchacresvet.net/index.html",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/13599386446",
+   "name": "Brookside Animal Hospital",
+   "lat": 36.0955009,
+   "lon": -95.9752925,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1084945547",
+   "name": "Carbondale Veterinary Hospital",
+   "lat": 36.0937158,
+   "lon": -96.012051,
+   "distKm": 6.9,
+   "address": "4750 South Union Avenue West, Tulsa, OK 74107",
+   "tags": {}
+  },
+  {
+   "id": "way/1289777331",
+   "name": "Tulsa Town Veterinary Hospital",
+   "lat": 36.1039282,
+   "lon": -95.9408073,
+   "distKm": 7.3,
+   "address": "3166 East 41st Street South, Tulsa, OK 74105",
+   "tags": {}
+  },
+  {
+   "id": "way/1188371175",
+   "name": "Small Animal Clinic of Tulsa",
+   "lat": 36.1153778,
+   "lon": -95.9230425,
+   "distKm": 7.6,
+   "address": "4820 East 33rd Street South, Tulsa, OK 74135",
+   "tags": {}
+  },
+  {
+   "id": "way/366750652",
+   "name": "Sheridan Road Veterinary Clinic",
+   "lat": 36.1682824,
+   "lon": -95.9049954,
+   "distKm": 8,
+   "address": "1010 North Sheridan Road East",
+   "tags": {
+    "website": "https://www.sheridanroadvet.com/"
+   }
+  },
+  {
+   "id": "way/618120225",
+   "name": "Southern Hills Veterinary Hospital",
+   "lat": 36.0811639,
+   "lon": -95.9587884,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "phone": "+1 918 747 1311",
+    "opening_hours": "Mo-Fr 07:30-17:30"
+   }
+  },
+  {
+   "id": "node/12015358145",
+   "name": "Woodland Central Animal Hospital",
+   "lat": 36.097489,
+   "lon": -95.9167878,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1240050363",
+   "name": "Alta Vista Animal Hospital",
+   "lat": 36.1338141,
+   "lon": -95.8902902,
+   "distKm": 9.5,
+   "address": "7717 East 21st Street South, Tulsa, OK 74129",
+   "tags": {}
+  },
+  {
+   "id": "way/826563732",
+   "name": "Hammond Animal Hospital",
+   "lat": 36.0613133,
+   "lon": -95.9599343,
+   "distKm": 10.7,
+   "address": "2301 East 71st Street South, Tulsa, OK 74136",
+   "tags": {}
+  },
+  {
+   "id": "node/12996715151",
+   "name": "Capron Veterinary Hospital",
+   "lat": 36.0903257,
+   "lon": -95.9022949,
+   "distKm": 10.8,
+   "address": "6705 East 51st Street South, Tulsa, OK 74145",
+   "tags": {}
+  },
+  {
+   "id": "way/1112554736",
+   "name": "Oklahoma Veterinary Specialists",
+   "lat": 36.0518047,
+   "lon": -96.0077251,
+   "distKm": 11.4,
+   "address": "1501 West 78th Street South, Tulsa, OK 74132",
+   "tags": {
+    "phone": "+1 918 299 4900",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/1315569031",
+   "name": "Tulsa Veterinary Specialists",
+   "lat": 36.1056641,
+   "lon": -95.8629796,
+   "distKm": 12.8,
+   "address": "4005 South 102nd Avenue East, Tulsa, OK 74146",
+   "tags": {}
+  },
+  {
+   "id": "way/1315569032",
+   "name": "Animal Emergency Center",
+   "lat": 36.1053993,
+   "lon": -95.8632618,
+   "distKm": 12.8,
+   "address": "4055 South 102nd Avenue East, Tulsa, OK 74146",
+   "tags": {
+    "phone": "+1 918 665 0508",
+    "website": "http://www.tulsaanimalemergency.com/",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/1060121372",
+   "name": "Applebaum Animal Clinic",
+   "lat": 36.0745001,
+   "lon": -95.8837391,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1237355951",
+   "name": "Veterinary Associates",
+   "lat": 36.061932,
+   "lon": -95.8994908,
+   "distKm": 13.2,
+   "address": "6925 South 69th East Avenue, 74133",
+   "tags": {}
+  },
+  {
+   "id": "node/12187344411",
+   "name": "Animal Medical and Surgical Hospital",
+   "lat": 36.061278,
+   "lon": -95.8891346,
+   "distKm": 13.9,
+   "address": "7811 East 71st Street South, Tulsa, 74133",
+   "tags": {
+    "phone": "+1 918 492 2674",
+    "website": "https://amshpetvet.com/",
+    "opening_hours": "Mo-Tu 07:30-19:00; We-Fr 07:30-18:00; Sa 08:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "way/1294626427",
+   "name": "VCA Animal Hospital",
+   "lat": 36.0756666,
+   "lon": -95.8701257,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12175413404",
+   "name": "Tulsa Animal Urgent Care",
+   "lat": 36.074717,
+   "lon": -95.8680908,
+   "distKm": 14.3,
+   "address": "6119 South Mingo Road East, Tulsa, 74133",
+   "tags": {
+    "phone": "+1 918 417 8887"
+   }
+  },
+  {
+   "id": "way/480060615",
+   "name": "Feline Specialties",
+   "lat": 36.0226451,
+   "lon": -95.9510585,
+   "distKm": 15.1,
+   "address": "9702 Riverside Parkway, Tulsa, OK 74137",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/4562043366",
+   "name": "Wynter Wheat Callison",
+   "lat": 36.0469821,
+   "lon": -95.8869535,
+   "distKm": 15.2,
+   "address": "8046 South Memorial Drive East",
+   "tags": {}
+  },
+  {
+   "id": "way/462176659",
+   "name": "Hunters Glen Veterinary Hospital",
+   "lat": 36.030186,
+   "lon": -95.9203072,
+   "distKm": 15.2,
+   "address": "9150 South Braden Avenue East, Tulsa, OK 74137",
+   "tags": {}
+  },
+  {
+   "id": "way/1009707957",
+   "name": "Woodland South Animal Hospital",
+   "lat": 36.0270942,
+   "lon": -95.8873762,
+   "distKm": 17,
+   "address": "9340 South Memorial Drive East, Tulsa, OK 74133",
+   "tags": {}
+  },
+  {
+   "id": "way/745077249",
+   "name": "CARE Animal Hospital",
+   "lat": 36.0286492,
+   "lon": -95.8669821,
+   "distKm": 17.9,
+   "address": "9717 East 93rd Street South, Tulsa, OK 74133",
+   "tags": {}
+  },
+  {
+   "id": "way/363494711",
+   "name": "Bent Arrow Veterinary",
+   "lat": 36.0312376,
+   "lon": -95.8494668,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/662531724",
+   "name": "Small Animal Hospital of Owasso",
+   "lat": 36.2797821,
+   "lon": -95.8339599,
+   "distKm": 20,
+   "address": "12555 East 86th Street North, Owasso, OK 74055",
+   "tags": {
+    "phone": "+1-918-274-8387",
+    "website": "https://sahovets.com/",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-20:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "$schemaVersion": 1,
+ "city": "sacramento",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:28:55.291Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "node/5072620420",
+   "name": "Allie's Paw Spa",
+   "lat": 38.5591077,
+   "lon": -121.4861668,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9702050490",
+   "name": "Pet Supplies Plus",
+   "lat": 38.5411832,
+   "lon": -121.4835185,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/618156391",
+   "name": "The Pet Department Store",
+   "lat": 38.567505,
+   "lon": -121.4441206,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/252925425",
+   "name": "Petco",
+   "lat": 38.5905326,
+   "lon": -121.5483993,
+   "distKm": 4.8,
+   "address": "795 Ikea Court, West Sacramento, CA 95605",
+   "tags": {
+    "phone": "+1 916-373-1485",
+    "website": "https://stores.petco.com/ca/westsacramento/pet-supplies-westsacramento-ca-1344.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6546335367",
+   "name": "Pet Supplies Plus",
+   "lat": 38.5379174,
+   "lon": -121.4919524,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13687899201",
+   "name": "China Prairie Products",
+   "lat": 38.5378613,
+   "lon": -121.5049204,
+   "distKm": 4.9,
+   "address": "1250 Suite 230 Sutterville Road, 95822",
+   "tags": {
+    "phone": "+1-916-917-5408",
+    "website": "http://chinaprairie.com",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/6546337097",
+   "name": "Pet Paradise",
+   "lat": 38.5359283,
+   "lon": -121.4931411,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8778043470",
+   "name": "Pet Food Express",
+   "lat": 38.5322366,
+   "lon": -121.4966435,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/5794960558",
+   "name": "Petco",
+   "lat": 38.5575686,
+   "lon": -121.4380459,
+   "distKm": 5.6,
+   "address": "5610 Folsom Boulevard, Sacramento, CA 95819-4606",
+   "tags": {
+    "phone": "+1 916-455-2531",
+    "website": "https://stores.petco.com/ca/sacramento/pet-supplies-sacramento-ca-1343.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2103909921",
+   "name": "PetSmart",
+   "lat": 38.6342713,
+   "lon": -121.505969,
+   "distKm": 5.9,
+   "address": "3641 Truxel Road, Sacramento, CA 95834",
+   "tags": {
+    "phone": "+1 916-928-0314",
+    "website": "https://www.petsmart.com/stores/us/ca/sacramento-store0053.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6791845775",
+   "name": "Petco",
+   "lat": 38.5960678,
+   "lon": -121.4250335,
+   "distKm": 6.2,
+   "address": "1878 Arden Way, Sacramento, CA 95815",
+   "tags": {
+    "phone": "+1 916-923-1082",
+    "website": "https://stores.petco.com/ca/sacramento/pet-supplies-sacramento-ca-371.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13840351714",
+   "name": "Gx3 Reptiles",
+   "lat": 38.524424,
+   "lon": -121.4792287,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "website": "https://www.gx3reptiles.com"
+   }
+  },
+  {
+   "id": "node/12675387504",
+   "name": "Waggers",
+   "lat": 38.6473231,
+   "lon": -121.5097848,
+   "distKm": 7.4,
+   "address": "2051 Arena Boulevard, Sacramento, CA 95834",
+   "tags": {}
+  },
+  {
+   "id": "node/12319721810",
+   "name": "Pet Food Express",
+   "lat": 38.5757175,
+   "lon": -121.4027444,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/11099604430",
+   "name": "Incredible Pets",
+   "lat": 38.5076577,
+   "lon": -121.5421723,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9891211195",
+   "name": "Petco",
+   "lat": 38.493761,
+   "lon": -121.5213296,
+   "distKm": 10,
+   "address": "1006 Florin Road, Sacramento, CA 95831",
+   "tags": {
+    "phone": "+1 916-395-4216",
+    "website": "https://stores.petco.com/ca/sacramento/pet-supplies-sacramento-ca-5301.html",
+    "opening_hours": "10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/403719728",
+   "name": "PetSmart",
+   "lat": 38.5974734,
+   "lon": -121.3813878,
+   "distKm": 10,
+   "address": "1738 Watt Avenue, Sacramento, CA 95825",
+   "tags": {
+    "phone": "+1 916-973-8391",
+    "website": "https://www.petsmart.com/stores/us/ca/sacramento-store0050.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12573388569",
+   "name": "PetSmart",
+   "lat": 38.496591,
+   "lon": -121.4313755,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6265129801",
+   "name": "PetSmart",
+   "lat": 38.4609929,
+   "lon": -121.4932816,
+   "distKm": 13.4,
+   "address": "8222 Delta Shores Circle South, Sacramento, CA 95832",
+   "tags": {
+    "phone": "+1 916-629-0082",
+    "website": "https://www.petsmart.com/stores/us/ca/sacramento-store2466.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5568106776",
+   "name": "The Bird Shop",
+   "lat": 38.6693191,
+   "lon": -121.3351407,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11108915205",
+   "name": "PetSmart",
+   "lat": 38.661238,
+   "lon": -121.3257951,
+   "distKm": 17.1,
+   "address": "5999 Madison Avenue, 95608",
+   "tags": {
+    "phone": "+1-916-621-2212",
+    "website": "https://www.petsmart.com/stores/us/ca/carmichael-store2581.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6441034088",
+   "name": "Petco",
+   "lat": 38.4509885,
+   "lon": -121.3713244,
+   "distKm": 18,
+   "address": "8447 Elk Grove Florin Road, Elk Grove, CA 95624-9519",
+   "tags": {
+    "phone": "+1 916-525-1210",
+    "website": "https://stores.petco.com/ca/elkgrove/pet-supplies-elkgrove-ca-5302.html",
+    "opening_hours": "Mo-We 10:00-19:00; Th 10:00-18:00; Fr-Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9982832294",
+   "name": "PetSmart",
+   "lat": 38.5935118,
+   "lon": -121.2847962,
+   "distKm": 18.3,
+   "address": "10830 Olson Drive, Rancho Cordova, CA 95670",
+   "tags": {
+    "phone": "+1 916-851-1813",
+    "website": "https://www.petsmart.com/stores/us/ca/rancho-cordova-store0049.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7537811539",
+   "name": "Petco",
+   "lat": 38.7153039,
+   "lon": -121.3658896,
+   "distKm": 18.6,
+   "address": "4207 Elverta Road, Antelope, CA 95843",
+   "tags": {
+    "phone": "+1 916-725-8555",
+    "website": "https://stores.petco.com/ca/antelope/pet-supplies-antelope-ca-1346.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/555658758",
+   "name": "Petco",
+   "lat": 38.6806317,
+   "lon": -121.3204375,
+   "distKm": 18.7,
+   "address": "6067 Greenback Lane, Citrus Heights, CA 95621",
+   "tags": {
+    "phone": "+1 916-725-2556",
+    "website": "https://stores.petco.com/ca/citrusheights/pet-supplies-citrusheights-ca-268.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/1777081321",
+   "name": "Petco",
+   "lat": 38.4247141,
+   "lon": -121.4127856,
+   "distKm": 18.8,
+   "address": "7715 Laguna Boulevard, Elk Grove, CA 95758",
+   "tags": {
+    "phone": "+1 916-683-5155",
+    "website": "https://stores.petco.com/ca/elkgrove/pet-supplies-elkgrove-ca-301.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/1777088736",
+   "name": "PetSmart",
+   "lat": 38.4236816,
+   "lon": -121.4056294,
+   "distKm": 19.2,
+   "address": "8215 Laguna Boulevard, Elk Grove, CA 95758",
+   "tags": {
+    "phone": "+1 916-691-3700",
+    "website": "https://www.petsmart.com/stores/us/ca/elk-grove-store1361.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12610894840",
+   "name": "The Serpentarium",
+   "lat": 38.4249675,
+   "lon": -121.3925619,
+   "distKm": 19.5,
+   "address": "9160 East Stockton Boulevard, Elk Grove, CA 95624",
+   "tags": {
+    "phone": "+1-916-686-1447",
+    "website": "https://www.snakemuseum.com/",
+    "opening_hours": "Mo-Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/12610894857",
+   "name": "Pet Club",
+   "lat": 38.425846,
+   "lon": -121.3875659,
+   "distKm": 19.7,
+   "address": "8515 Bond Rd, Elk Grove, CA 95624",
+   "tags": {
+    "phone": "+1-916-686-7808",
+    "website": "https://www.petclubstores.com/"
+   }
+  },
+  {
+   "id": "node/5258659056",
+   "name": "Pet Club",
+   "lat": 38.6161918,
+   "lon": -121.2706132,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "$schemaVersion": 1,
+ "city": "baton-rouge",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:36:40.270Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/8221337098",
+   "name": "Petz Plaza",
+   "lat": 30.415554,
+   "lon": -91.1400034,
+   "distKm": 6,
+   "address": "4765 Perkins Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/925432607",
+   "name": "PetSuites",
+   "lat": 30.3896344,
+   "lon": -91.106937,
+   "distKm": 10.3,
+   "address": "Perkins Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13663727600",
+   "name": "Sommerview Farm",
+   "lat": 30.3065856,
+   "lon": -91.0919023,
+   "distKm": 18.5,
+   "address": "6905 Bayou Paul Road, Saint Gabriel, LA 70776",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,188 @@
+{
+ "$schemaVersion": 1,
+ "city": "louisville",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:28:07.719Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "node/6800731299",
+   "name": "The Dog Shop",
+   "lat": 38.2532893,
+   "lon": -85.7372382,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3363734022",
+   "name": "Bourbon City Barkery",
+   "lat": 38.2357762,
+   "lon": -85.7391166,
+   "distKm": 2.5,
+   "address": "1001 Logan Street, Louisville, KY 40204",
+   "tags": {
+    "phone": "+1-502-919-1022",
+    "website": "https://www.bourboncitybarkery.com",
+    "opening_hours": "Tu-Sa 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/6757250968",
+   "name": "Pet Wants on the Avenue",
+   "lat": 38.2573615,
+   "lon": -85.7187564,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-502-627-0026",
+    "website": "https://petwantsontheavenue.com/",
+    "opening_hours": "Mo 10:00-18:00, Tu - Fr 11:00-23:00, Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13384463443",
+   "name": "Petco",
+   "lat": 38.3267595,
+   "lon": -85.7492799,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4780015134",
+   "name": "Feeder's Supply",
+   "lat": 38.306198,
+   "lon": -85.8421298,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1093670235",
+   "name": "Feeder's Supply",
+   "lat": 38.3357839,
+   "lon": -85.7087961,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3442311731",
+   "name": "Poe's Pet Depot",
+   "lat": 38.2596041,
+   "lon": -85.6372242,
+   "distKm": 10.6,
+   "address": "291 North Hubbards Lane, St Matthews, KY 40207",
+   "tags": {}
+  },
+  {
+   "id": "way/300587032",
+   "name": "Feeders Supply",
+   "lat": 38.2498988,
+   "lon": -85.6291492,
+   "distKm": 11.3,
+   "address": "4600 Shelbyville Road, Louisville, KY 40207",
+   "tags": {
+    "phone": "+1-502-893-5550",
+    "opening_hours": "Su 10:00-19:00; Mo-Sa 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/6391860392",
+   "name": "Feeder's Supply",
+   "lat": 38.2824195,
+   "lon": -85.6313102,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6077270998",
+   "name": "Feeders Supply",
+   "lat": 38.2162118,
+   "lon": -85.6254805,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12379116914",
+   "name": "Pet Wants",
+   "lat": 38.3168781,
+   "lon": -85.8999176,
+   "distKm": 14.3,
+   "address": "720 Highlander Point Drive",
+   "tags": {
+    "website": "https://www.petwants.com/clarksville/home"
+   }
+  },
+  {
+   "id": "node/3453099475",
+   "name": "PetSmart",
+   "lat": 38.1396718,
+   "lon": -85.6773492,
+   "distKm": 14.4,
+   "address": "4601 Outer Loop Road, Louisville, KY 40219",
+   "tags": {
+    "phone": "+1 502-969-8206",
+    "website": "https://www.petsmart.com/stores/us/ky/louisville-store1177.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3470245509",
+   "name": "Petco",
+   "lat": 38.2170347,
+   "lon": -85.5855892,
+   "distKm": 15.6,
+   "address": "1969 South Hurstbourne Parkway, Forest Hills, KY 40220",
+   "tags": {
+    "phone": "+1 502-715-4180",
+    "website": "https://stores.petco.com/ky/louisville/pet-supplies-louisville-ky-2540.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6069143775",
+   "name": "Feeders Pet Supply",
+   "lat": 38.3064723,
+   "lon": -85.5736535,
+   "distKm": 17.2,
+   "address": "9486 Brownsboro Road, Louisville, KY 40241",
+   "tags": {
+    "website": "https://feederspetsupply.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2496185755",
+   "name": "Noah's Ark Pets",
+   "lat": 38.138524,
+   "lon": -85.6196028,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3321208373",
+   "name": "PetSmart",
+   "lat": 38.292446,
+   "lon": -85.5595675,
+   "distKm": 17.9,
+   "address": "10308 Westport Road, Louisville, KY 40241",
+   "tags": {
+    "phone": "+1 502-326-0271",
+    "website": "https://www.petsmart.com/stores/us/ky/louisville-store1168.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

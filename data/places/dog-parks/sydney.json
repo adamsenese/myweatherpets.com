@@ -1,0 +1,634 @@
+{
+ "$schemaVersion": 1,
+ "city": "sydney",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:40:24.853Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/1481431940",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8899796,
+   "lon": 151.1982054,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/1203377865",
+   "name": "Steyne Park",
+   "lat": -33.8730542,
+   "lon": 151.2416185,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/273054497",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8904017,
+   "lon": 151.1738031,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/611927861",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8239796,
+   "lon": 151.2064616,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/482588232",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8172928,
+   "lon": 151.20916,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6202437632",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.816814,
+   "lon": 151.2158257,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/820958530",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9068538,
+   "lon": 151.2569625,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/362356727",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9021549,
+   "lon": 151.1529509,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "website": "http://www.marrickville.nsw.gov.au/en/community/community-services/pets-and-animals/dogs/dog-exercise-areas/?id=917"
+   }
+  },
+  {
+   "id": "way/27418922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8914074,
+   "lon": 151.1447875,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1035602259",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.916086,
+   "lon": 151.168389,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1456463385",
+   "name": "Lewisham West Off-Leash Dog Park",
+   "lat": -33.8934762,
+   "lon": 151.1438828,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "website": "https://www.innerwest.nsw.gov.au/about/news/media-releases/2024-media-releases/council-opens-new-off-leash-dog-park-the-first-greenway-link-open-to-the-public"
+   }
+  },
+  {
+   "id": "way/1423503073",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8662421,
+   "lon": 151.1357531,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/460876055",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.814847,
+   "lon": 151.1722942,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/455033033",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8094625,
+   "lon": 151.1720675,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1415126416",
+   "name": "Burrows Park off-leash area",
+   "lat": -33.9141149,
+   "lon": 151.2698266,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/998885286",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9266143,
+   "lon": 151.1645363,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "dog": "leashed"
+   }
+  },
+  {
+   "id": "way/172845320",
+   "name": "Firmstone Reserve",
+   "lat": -33.9370921,
+   "lon": 151.2283514,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/539169347",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7977015,
+   "lon": 151.193562,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "opening_hours": "15:00-10:00"
+   }
+  },
+  {
+   "id": "way/174710387",
+   "name": "Bede Spillane Gardens",
+   "lat": -33.8771034,
+   "lon": 151.1218824,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/977330451",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8142919,
+   "lon": 151.1450761,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1524832711",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8092606,
+   "lon": 151.2672377,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/1220194297",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.898657,
+   "lon": 151.1217525,
+   "distKm": 8.7,
+   "address": "Trevenar Street",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.cbcity.nsw.gov.au/environment/parks-reserves/peace-park"
+   }
+  },
+  {
+   "id": "way/957716905",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7971961,
+   "lon": 151.1679288,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "opening_hours": "15:00-11:00"
+   }
+  },
+  {
+   "id": "way/457196449",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7910023,
+   "lon": 151.1860841,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1221246114",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8475119,
+   "lon": 151.1143881,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/488621491",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7834703,
+   "lon": 151.1944658,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5416311719",
+   "name": "Close Street Reserve Dog Off Leash Area",
+   "lat": -33.9140278,
+   "lon": 151.1192342,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/186985384",
+   "name": "Dog Off Leash Area",
+   "lat": -33.7964975,
+   "lon": 151.1354134,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/476857719",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9034545,
+   "lon": 151.1023535,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1098995819",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8903223,
+   "lon": 151.0974761,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8829483762",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9239359,
+   "lon": 151.1126239,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/605447053",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8141998,
+   "lon": 151.1081219,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/764515990",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8620223,
+   "lon": 151.0857557,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1126466036",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9146396,
+   "lon": 151.0961974,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/13323300269",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7853149,
+   "lon": 151.2871449,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "node/8829376853",
+   "name": "Forestville War Memorial Playing Fields (Melwood Oval)",
+   "lat": -33.7624184,
+   "lon": 151.2098095,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11033633605",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8983462,
+   "lon": 151.0860102,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1160813032",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8541316,
+   "lon": 151.0785461,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/72997578",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9594245,
+   "lon": 151.1327609,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/812565762",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8196128,
+   "lon": 151.0901482,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1097610169",
+   "name": "Kingsgrove Avenue Reserve Off-leash Dog Area",
+   "lat": -33.9384137,
+   "lon": 151.1024343,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "metal",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1115172038",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8486912,
+   "lon": 151.0755815,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/582550836",
+   "name": "Killara Park/ Bert Oldfield Oval",
+   "lat": -33.760093,
+   "lon": 151.1708,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/955295024",
+   "name": "Scarborough Park Off Leash Dog Area",
+   "lat": -33.9679797,
+   "lon": 151.1435766,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/995972385",
+   "name": "Memorial Park Dog Off-Leash Trial",
+   "lat": -33.8201832,
+   "lon": 151.0865893,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.ryde.nsw.gov.au/haveyoursay/Have-your-Say/Memorial-Park-Dog-Off-Leash-Trial"
+   }
+  },
+  {
+   "id": "way/581709445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.785435,
+   "lon": 151.1121845,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1188911154",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8707654,
+   "lon": 151.0657779,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/815578724",
+   "name": "Dog Off-Leash Area",
+   "lat": -33.8165264,
+   "lon": 151.0783988,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 06:00-08:00,17:00-19:00; PH off"
+   }
+  },
+  {
+   "id": "way/954181535",
+   "name": "Adams Street Reserve (John Fisher Park) and Curl Curl Lagoon",
+   "lat": -33.7678892,
+   "lon": 151.2919921,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "lit": "no",
+    "website": "https://www.northernbeaches.nsw.gov.au/things-to-do/recreation-area/adams-street-reserve-john-fisher-park-and-curl-curl-lagoon"
+   }
+  },
+  {
+   "id": "way/123894348",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7642346,
+   "lon": 151.1311285,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/12669950",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8379135,
+   "lon": 151.0659915,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.sydneyolympicpark.com.au/Living/mysop/Dogs-in-the-Park"
+   }
+  },
+  {
+   "id": "node/12088572067",
+   "name": "Curl Curl off-leash dog area",
+   "lat": -33.7664285,
+   "lon": 151.2964624,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/180816309",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.7407588,
+   "lon": 151.2149829,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "lit": "sunset-21:30",
+    "dog": "unleashed",
+    "access": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/773749943",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.8368619,
+   "lon": 151.0582684,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/694969141",
+   "name": "Bona Dog Park",
+   "lat": -33.9895597,
+   "lon": 151.1382431,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/20147580",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.9852657,
+   "lon": 151.1201377,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/429999094",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -33.980482,
+   "lon": 151.0875607,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/341092302",
+   "name": "Riverwood Park",
+   "lat": -33.9483457,
+   "lon": 151.0450575,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/530732001",
+   "name": "Dog Ring 7",
+   "lat": -33.7076213,
+   "lon": 151.188716,
+   "distKm": 18,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/39585473",
+   "name": "Dog Ring 1",
+   "lat": -33.7073344,
+   "lon": 151.1880777,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

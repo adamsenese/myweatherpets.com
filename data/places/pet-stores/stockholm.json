@@ -1,0 +1,601 @@
+{
+ "$schemaVersion": 1,
+ "city": "stockholm",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:24:28.290Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 54,
+ "places": [
+  {
+   "id": "node/11913458462",
+   "name": "Ellios",
+   "lat": 59.323612,
+   "lon": 18.0681048,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 11:00-17:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/7489254866",
+   "name": "Södermalms zoo",
+   "lat": 59.3180094,
+   "lon": 18.060005,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/7489254864",
+   "name": "Södermalms Akvarieaffär",
+   "lat": 59.3176593,
+   "lon": 18.0596834,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 15:00-19:00; Sa 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/5890325408",
+   "name": "Arken Zoo",
+   "lat": 59.3141812,
+   "lon": 18.0764303,
+   "distKm": 1.7,
+   "address": "26 Östgötagatan",
+   "tags": {
+    "website": "https://www.arkenzoo.se/arken-zoo-stockholm-sodermalm",
+    "opening_hours": "Mo-Fr 10:00-19:00, Sa 10:00-17:00, Su 10:00-16:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/7648832809",
+   "name": "Södermalm Zoo",
+   "lat": 59.31731,
+   "lon": 18.0511015,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/2520320013",
+   "name": "Hund & Kattboden",
+   "lat": 59.3447663,
+   "lon": 18.0593195,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/3455950197",
+   "name": "The Pet Store",
+   "lat": 59.3130234,
+   "lon": 18.0655654,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:30-18:30; Sa-Su 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/769288209",
+   "name": "Arken Zoo",
+   "lat": 59.3434947,
+   "lon": 18.0501698,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "phone": "+468305635",
+    "website": "https://www.arkenzoo.se/arken-zoo-odenplan",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su 11:00-16:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/2852249665",
+   "name": "Ellios",
+   "lat": 59.3417848,
+   "lon": 18.0915361,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Mo,Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/4004444451",
+   "name": "Arken Zoo",
+   "lat": 59.3336891,
+   "lon": 18.03521,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su 11:00-16:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/2129439295",
+   "name": "Zooklubben",
+   "lat": 59.3412892,
+   "lon": 18.0380847,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7287797054",
+   "name": "Stor och liten tass",
+   "lat": 59.3418136,
+   "lon": 18.0384321,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.storochlitentass.se/"
+   }
+  },
+  {
+   "id": "node/8371274539",
+   "name": "Dog bakery",
+   "lat": 59.3083485,
+   "lon": 18.0665224,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo closed; Tu-Fr 11:00-18:00; Sa 10:00-17:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/10943744711",
+   "name": "Arken Zoo",
+   "lat": 59.3078874,
+   "lon": 18.0756405,
+   "distKm": 2.4,
+   "address": "111 Ringvägen",
+   "tags": {
+    "website": "https://www.arkenzoo.se/arken-zoo-stockholm-sodermalm-ringen",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-18:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/12565880495",
+   "name": "Hälsofoderbutiken",
+   "lat": 59.3156229,
+   "lon": 18.0321315,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 12:00-21:00; Sa 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/8907362422",
+   "name": "Sjöstadens hund & katt",
+   "lat": 59.3036082,
+   "lon": 18.099161,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "phone": "+4687029080",
+    "website": "www.sjostadenshundochkatt.se",
+    "opening_hours": "Mo-Th 11:00-18:00; Fr 11:00-14:00, 15:00-18:00; Sa 11:00-14:00"
+   }
+  },
+  {
+   "id": "node/6535579086",
+   "name": "DogCorner",
+   "lat": 59.2971743,
+   "lon": 18.0498902,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 11:00-15:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/12030865443",
+   "name": "Zoo Ett",
+   "lat": 59.2937697,
+   "lon": 18.0802446,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2528934577",
+   "name": "Simbi",
+   "lat": 59.3053004,
+   "lon": 18.1268007,
+   "distKm": 4.2,
+   "address": "10 Siroccogatan, Nacka",
+   "tags": {}
+  },
+  {
+   "id": "node/2962651034",
+   "name": "Dixies",
+   "lat": 59.3050128,
+   "lon": 17.9917769,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7077432012",
+   "name": "Arken Zoo",
+   "lat": 59.3599571,
+   "lon": 18.0003538,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/9800246412",
+   "name": "Arken Zoo",
+   "lat": 59.3647862,
+   "lon": 18.1289005,
+   "distKm": 5.2,
+   "address": "40 Stockholmsvägen, Lidingö, 181 32",
+   "tags": {
+    "phone": "+46 10 490 62 55",
+    "website": "https://www.arkenzoo.se/arken-zoo-stockholm-lidingo",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00, Su 11:00-16:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/1202986730",
+   "name": "Hundens Hörna i Solna HB",
+   "lat": 59.3625396,
+   "lon": 17.9997296,
+   "distKm": 5.4,
+   "address": "Solna",
+   "tags": {}
+  },
+  {
+   "id": "node/9625230252",
+   "name": "Arken Zoo",
+   "lat": 59.3101503,
+   "lon": 18.1655235,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/3378013556",
+   "name": "Akvarielagret",
+   "lat": 59.3372424,
+   "lon": 17.96056,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10852899512",
+   "name": "El Gato Invernal",
+   "lat": 59.3615677,
+   "lon": 17.9785936,
+   "distKm": 6.2,
+   "address": "2 Vintergatan",
+   "tags": {}
+  },
+  {
+   "id": "node/1300988582",
+   "name": "Hund & Kattbutiken",
+   "lat": 59.2717707,
+   "lon": 18.0843131,
+   "distKm": 6.5,
+   "address": "95-97 Tallkrogsplan",
+   "tags": {}
+  },
+  {
+   "id": "node/11536521043",
+   "name": "Arken Zoo",
+   "lat": 59.354968,
+   "lon": 17.9569147,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "way/204818834",
+   "name": "ZOO.se",
+   "lat": 59.3558425,
+   "lon": 17.9504722,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.zoo.se/",
+    "opening_hours": "10:00-20:00; PH 10:00-18:00; Jan 1 off"
+   }
+  },
+  {
+   "id": "node/12016576154",
+   "name": "Högdalen Zoo",
+   "lat": 59.2641721,
+   "lon": 18.040862,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11542968344",
+   "name": "Aquariatech",
+   "lat": 59.2665257,
+   "lon": 18.1231512,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9103600518",
+   "name": "Husdjursshopen",
+   "lat": 59.3415135,
+   "lon": 17.9348509,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.husdjursshopen.se",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/12016495825",
+   "name": "Crt Zoologiska",
+   "lat": 59.2596455,
+   "lon": 18.0508699,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13391218113",
+   "name": "Arken Zoo",
+   "lat": 59.3980417,
+   "lon": 18.0367548,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-17:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/9472425614",
+   "name": "Djurens Värld",
+   "lat": 59.2619211,
+   "lon": 18.0151467,
+   "distKm": 8.1,
+   "address": "40 Hagsätra Torg, Bandhagen, 124 73",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/13439692592",
+   "name": "Arken Zoo",
+   "lat": 59.2509388,
+   "lon": 18.0103897,
+   "distKm": 9.3,
+   "address": "1 Ågestavägen, Huddinge, 14137",
+   "tags": {
+    "website": "https://www.arkenzoo.se/arken-zoo-stockholm-huddinge",
+    "opening_hours": "Mo-Fr 10:00-19:00, Sa-Su 10:00-17:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/1233864674",
+   "name": "Arken Zoo",
+   "lat": 59.2427796,
+   "lon": 18.0887641,
+   "distKm": 9.7,
+   "address": "105 Farstavägen",
+   "tags": {
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/4417261227",
+   "name": "My One",
+   "lat": 59.4217287,
+   "lon": 18.0475112,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11939350669",
+   "name": "Orijen",
+   "lat": 59.236876,
+   "lon": 18.0935941,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12438597893",
+   "name": "ZOO.se",
+   "lat": 59.2734959,
+   "lon": 17.9211392,
+   "distKm": 10.4,
+   "address": "4 Jägerhorns väg, Kungens Kurva, 141 75",
+   "tags": {
+    "phone": "+46 8 13 81 34",
+    "website": "https://www.zoo.se/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/6773999012",
+   "name": "Torpets Zoo",
+   "lat": 59.3264083,
+   "lon": 18.2571953,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1311862235",
+   "name": "Kista Zoologiska",
+   "lat": 59.4025328,
+   "lon": 17.9459344,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12011781824",
+   "name": "Arken Zoo",
+   "lat": 59.363434,
+   "lon": 17.8745778,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/1194606901",
+   "name": "Vinsta Zoo",
+   "lat": 59.3718038,
+   "lon": 17.8607164,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/1769344388",
+   "name": "Arken Zoo",
+   "lat": 59.4374964,
+   "lon": 17.9312187,
+   "distKm": 14.3,
+   "address": "3 Mossvägen, Sollentuna, 19162",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/5775567411",
+   "name": "Arken Zoo",
+   "lat": 59.4130662,
+   "lon": 17.8620139,
+   "distKm": 15,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/5775567427",
+   "name": "Dogman",
+   "lat": 59.4142287,
+   "lon": 17.8620435,
+   "distKm": 15,
+   "address": "2 Majorsvägen, Järfälla, 177 44",
+   "tags": {
+    "website": "https://dogman.se/page/stockholm-barkarby",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00",
+    "brand": "Dogman"
+   }
+  },
+  {
+   "id": "node/11118221395",
+   "name": "Zoo Kompaniet",
+   "lat": 59.4598643,
+   "lon": 18.1391584,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/12026602157",
+   "name": "Arken Zoo",
+   "lat": 59.2899376,
+   "lon": 17.8117413,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su 11:00-16:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/1632945060",
+   "name": "ZOO.se",
+   "lat": 59.4143195,
+   "lon": 17.8557219,
+   "distKm": 15.3,
+   "address": "31A Enköpingsvägen, Järfälla, 177 38",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/11206000908",
+   "name": "Arken Zoo",
+   "lat": 59.4091969,
+   "lon": 17.8415479,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su 10:00-17:00",
+    "brand": "Arken Zoo"
+   }
+  },
+  {
+   "id": "node/7876167650",
+   "name": "Hööks Hästsport",
+   "lat": 59.1796644,
+   "lon": 18.1519583,
+   "distKm": 17.3,
+   "address": "21A Nynäsvägen, Haninge, 136 47",
+   "tags": {
+    "phone": "+46 8 684 046 72",
+    "opening_hours": "Mo-Su 10:00-20:00; Sa,Su,PH 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6553608588",
+   "name": "Mammut Zoo",
+   "lat": 59.4114147,
+   "lon": 17.8035258,
+   "distKm": 17.6,
+   "address": "2A Viksjöplan, Järfälla, 175 45",
+   "tags": {}
+  },
+  {
+   "id": "node/3068771011",
+   "name": "Gustavsbergs Zoo",
+   "lat": 59.3270455,
+   "lon": 18.3920733,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "phone": "+46 8 570 333 06",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su 11:00-15:00"
+   }
+  }
+ ]
+}

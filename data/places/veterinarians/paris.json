@@ -1,0 +1,677 @@
+{
+ "$schemaVersion": 1,
+ "city": "paris",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:36:59.180Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/3199947063",
+   "name": "Clinique Vétérinaire de l'Horloge",
+   "lat": 48.8616949,
+   "lon": 2.3539307,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11112752613",
+   "name": "Dr. Franz Cappé",
+   "lat": 48.8588358,
+   "lon": 2.3449451,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 40 26 20 02",
+    "website": "https://www.pilepoils.vet/veterinaires/paris/12942-1/cabinet-veterinaire-du-dr-frantz-cappe",
+    "opening_hours": "Mo-Fr 09:00-13:00,15:00-19:00 \"sur rendez-vous uniquement\""
+   }
+  },
+  {
+   "id": "node/7403324293",
+   "name": "Clinique Vétérinaire Saint-Germain",
+   "lat": 48.8496853,
+   "lon": 2.3494457,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/9905753634",
+   "name": "Cabinet Saint-Michel",
+   "lat": 48.8536666,
+   "lon": 2.3418077,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 46 33 92 31",
+    "website": "https://www.veto-saintmichel.fr",
+    "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:30-13:00"
+   }
+  },
+  {
+   "id": "node/1225461852",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8645811,
+   "lon": 2.3464775,
+   "distKm": 1,
+   "address": "32 Rue Étienne Marcel",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-12:30,14:00-19:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/7778236551",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.865228,
+   "lon": 2.3581071,
+   "distKm": 1.1,
+   "address": "28 Rue Réaumur",
+   "tags": {}
+  },
+  {
+   "id": "node/10716408832",
+   "name": "Ophtavet",
+   "lat": 48.849413,
+   "lon": 2.3619987,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:30"
+   }
+  },
+  {
+   "id": "node/2425348681",
+   "name": "AniCuea",
+   "lat": 48.8628292,
+   "lon": 2.366485,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8707366395",
+   "name": "Argos",
+   "lat": 48.8505082,
+   "lon": 2.3373334,
+   "distKm": 1.3,
+   "address": "17 Rue de Tournon, Paris, 75006",
+   "tags": {
+    "phone": "+33188615814",
+    "website": "https://www.argos-veterinaire.com/ma-clinique-favorite/clinique/cabinet-veterinaire-argos-paris-luxembourg-97",
+    "opening_hours": "Mo-Fr 09:00-12:30,14:30-19:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9659990017",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8437437,
+   "lon": 2.3521127,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3539242555",
+   "name": "Dr Mireille Boller",
+   "lat": 48.8455015,
+   "lon": 2.3412656,
+   "distKm": 1.5,
+   "address": "14 Rue Gay-Lussac, Paris, 75005",
+   "tags": {
+    "phone": "+33143262328",
+    "website": "https://www.veterinaireparis5.fr",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/10769184906",
+   "name": "Clinique vétérinaire",
+   "lat": 48.8562801,
+   "lon": 2.3732462,
+   "distKm": 1.5,
+   "address": "30 Rue Sedaine, Paris, 75011",
+   "tags": {
+    "phone": "+33 1 47 00 77 91",
+    "opening_hours": "Mo 08:30-12:30, 14:00-19:30; Tu-Fr 08:30-19:30; Sa 08:30-17:30"
+   }
+  },
+  {
+   "id": "node/3994346866",
+   "name": "Clinique Vétérinaire du Chat",
+   "lat": 48.8468661,
+   "lon": 2.3726615,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.veterinaire-monveto.com/cliniques/clinique-veterinaire-du-chat/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00; 2026 May 1 off; 2026 Apr 30 09:00-12:00,14:00-19:00; 2026 May 1,2026 May 4 off; 2026 May 5 09:00-12:00,14:00-19:00"
+   }
+  },
+  {
+   "id": "node/6538977186",
+   "name": "Assistance aux animaux",
+   "lat": 48.8660392,
+   "lon": 2.3714859,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.fondationassistanceauxanimaux.org/dispensaire-animaux-paris/"
+   }
+  },
+  {
+   "id": "node/12762787224",
+   "name": "VETINPARIS",
+   "lat": 48.8519702,
+   "lon": 2.3753656,
+   "distKm": 1.8,
+   "address": "89 rue du Faubourg Saint-Antoine, Paris, 75011",
+   "tags": {
+    "phone": "+33 1 43 07 01 06",
+    "website": "https://www.vetinparis.com/"
+   }
+  },
+  {
+   "id": "node/10807924218",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8407265,
+   "lon": 2.3445565,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 45 87 99 23",
+    "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-17:00; 12:30-14:00 closed"
+   }
+  },
+  {
+   "id": "node/13308846898",
+   "name": "Dr Dutter",
+   "lat": 48.8727098,
+   "lon": 2.3595594,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4750950091",
+   "name": "Clinique vétérinaire",
+   "lat": 48.8651137,
+   "lon": 2.3762075,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9563505595",
+   "name": "Urban Vet",
+   "lat": 48.8424608,
+   "lon": 2.3348947,
+   "distKm": 2,
+   "address": "81 Rue d'Assas, Paris, 75006",
+   "tags": {
+    "phone": "+33 1 42 22 37 47",
+    "website": "https://www.urbanvet.fr/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/4885133421",
+   "name": "Physio by Urban Vet",
+   "lat": 48.8412343,
+   "lon": 2.3357561,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.urbanvet.fr/centre-de-physiotherapie/"
+   }
+  },
+  {
+   "id": "node/5298356184",
+   "name": "Argos",
+   "lat": 48.8756071,
+   "lon": 2.3489281,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/763273690",
+   "name": "Cabinet Vétérinaire Garcia Hardy Spitz",
+   "lat": 48.8373131,
+   "lon": 2.3492164,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-19:00"
+   }
+  },
+  {
+   "id": "node/1403610341",
+   "name": "Sevetys",
+   "lat": 48.8489936,
+   "lon": 2.3797035,
+   "distKm": 2.2,
+   "address": "61 Rue Crozatier, Paris, 75012",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00,15:00-17:00"
+   }
+  },
+  {
+   "id": "node/11349888544",
+   "name": "Argos Stanislas",
+   "lat": 48.8440128,
+   "lon": 2.3283424,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 45 49 44 44",
+    "opening_hours": "Mo-Fr 09:00-13:00,15:00-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/4783191328",
+   "name": "Clinique vétérinaire Azzurra",
+   "lat": 48.8577857,
+   "lon": 2.3842578,
+   "distKm": 2.3,
+   "address": "83 Rue Léon Frot, Paris, 75011",
+   "tags": {
+    "phone": "+33 1 43 79 58 13",
+    "opening_hours": "Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-14:30"
+   }
+  },
+  {
+   "id": "node/3621414326",
+   "name": "Vétérinaire",
+   "lat": 48.862425,
+   "lon": 2.3851564,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "phone": "+33148063819"
+   }
+  },
+  {
+   "id": "node/4879415726",
+   "name": "Clinique Vétérinaire du Faubourg",
+   "lat": 48.8794476,
+   "lon": 2.3495487,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/4415288894",
+   "name": "Domvet nationale",
+   "lat": 48.8329651,
+   "lon": 2.3614252,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-13:00,14:30-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/877959081",
+   "name": "Clinique vétérinaire de La Chapelle",
+   "lat": 48.8833936,
+   "lon": 2.3599667,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/2587369147",
+   "name": "Clinique vétérinaire Montgallet",
+   "lat": 48.8437338,
+   "lon": 2.3880357,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "website": "https://www.cliniqueveterinairemontgallet-paris12.fr/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "node/12789644421",
+   "name": "Dom Vet",
+   "lat": 48.8294624,
+   "lon": 2.3517328,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7306036187",
+   "name": "Clinique vétérinaire",
+   "lat": 48.8325313,
+   "lon": 2.3299457,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/2942666051",
+   "name": "Docteur Margareth Plotnitzki",
+   "lat": 48.8806342,
+   "lon": 2.3760995,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-12:00,14:30-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/3240847005",
+   "name": "Docteur Ehrlich",
+   "lat": 48.8361058,
+   "lon": 2.3218415,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Sa 10:00-12:00,14:30-19:30, Fr 10:00-12:00, Fr 14:30-18:30"
+   }
+  },
+  {
+   "id": "node/3461708995",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8741335,
+   "lon": 2.317839,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4397381676",
+   "name": "Alizée Vet Clinic",
+   "lat": 48.8347805,
+   "lon": 2.3237633,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.veterinairefeveparis14.com/",
+    "opening_hours": "Mo-Fr 08:30-13:00,14:00-19:30; Sa 09:00-12:00,14:00-19:00"
+   }
+  },
+  {
+   "id": "node/8705795390",
+   "name": "Anne Caron et Sophie Bitté",
+   "lat": 48.8417885,
+   "lon": 2.3141926,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10022246884",
+   "name": "SpèNAC",
+   "lat": 48.8536682,
+   "lon": 2.3093615,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-19:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/10184516834",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8568248,
+   "lon": 2.3958027,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-13:00, 14:00-19:00; Sa 09:00-13:00, 14:00-17:00"
+   }
+  },
+  {
+   "id": "node/3664554925",
+   "name": "ACDV",
+   "lat": 48.8306427,
+   "lon": 2.3311809,
+   "distKm": 3.3,
+   "address": "1 Rue Sophie Germain, Paris, 75014",
+   "tags": {
+    "phone": "+33 1 43 20 55 19",
+    "website": "https://www.votreveto.net/acdvmonjeanpennequin/",
+    "opening_hours": "Mo-Fr 09:00-13:00,14:30-19:00; Sa 10:00-13:00,15:00-17:00"
+   }
+  },
+  {
+   "id": "node/4986474921",
+   "name": "VétoNation",
+   "lat": 48.8494676,
+   "lon": 2.3966677,
+   "distKm": 3.3,
+   "address": "11 Place de la Nation, Paris, 75011",
+   "tags": {
+    "phone": "+33143736704",
+    "website": "https://vetonation.fr/",
+    "opening_hours": "Mo-Fr 09:00-12:30,14:00-19:30; Sa 09:00-12:30,14:00-16:30",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/1234207338",
+   "name": "Dr. Marc Cantini",
+   "lat": 48.8831967,
+   "lon": 2.3294138,
+   "distKm": 3.4,
+   "address": "9 Place Adolphe Max",
+   "tags": {}
+  },
+  {
+   "id": "node/3159341221",
+   "name": "Clinique vétérinaire Nation Bel-Air",
+   "lat": 48.845753,
+   "lon": 2.3959415,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7778255919",
+   "name": "Dr Laurent Calvo",
+   "lat": 48.8829893,
+   "lon": 2.3278866,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 48 74 42 36",
+    "opening_hours": "Mo-Su 08:30-19:30"
+   }
+  },
+  {
+   "id": "node/1912213899",
+   "name": "Focteur Sophie dolparis",
+   "lat": 48.857769,
+   "lon": 2.399808,
+   "distKm": 3.5,
+   "address": "62 Rue de Bagnolet, Paris, 75020",
+   "tags": {
+    "phone": "+33 1 43 71 20 22",
+    "website": "https://votreveto.net/docteursophiedolparis20",
+    "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:30-19:00, Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/2604653851",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8262624,
+   "lon": 2.3422039,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+33145885509",
+    "opening_hours": "Mo-Fr 08:30-19:30; Sa 09:00-12:30,14:00-18:00"
+   }
+  },
+  {
+   "id": "node/4458863392",
+   "name": "Clinique Vétérinaire des Olympiades",
+   "lat": 48.8266627,
+   "lon": 2.36881,
+   "distKm": 3.5,
+   "address": "79 Rue du Château des Rentiers, 75013",
+   "tags": {
+    "phone": "+33 1 53 79 12 42",
+    "website": "https://www.veterinaire13.fr",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/5218708418",
+   "name": "Pascal Corbel",
+   "lat": 48.8863084,
+   "lon": 2.3352908,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6125509077",
+   "name": "Clinique vétérinaire Gambetta",
+   "lat": 48.8672802,
+   "lon": 2.3969165,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+33 1 46 36 84 21",
+    "website": "https://www.vetogambetta.com/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/773251494",
+   "name": "Urgences et consultants vétérinaires",
+   "lat": 48.8627531,
+   "lon": 2.4005845,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.urgences-et-consultants-veterinaires.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2134878817",
+   "name": "Rosenberg Vétérinaire",
+   "lat": 48.8244793,
+   "lon": 2.3544815,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 08:30-12:30,14:00-19:00; We,Sa 08:30-12:30"
+   }
+  },
+  {
+   "id": "node/3437806693",
+   "name": "UC Vet",
+   "lat": 48.8603417,
+   "lon": 2.4005966,
+   "distKm": 3.6,
+   "address": "175 Rue des Pyrénées, Paris, 75020",
+   "tags": {
+    "phone": "+33 171197010",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/4086332328",
+   "name": "Cabinet Vétérinaire",
+   "lat": 48.8826768,
+   "lon": 2.3222073,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/6278258515",
+   "name": "Clinique Vétérinaire Vetalesia",
+   "lat": 48.8296488,
+   "lon": 2.3258216,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12633981512",
+   "name": "Vétérinaires 2 toute urgence",
+   "lat": 48.8604066,
+   "lon": 2.4005516,
+   "distKm": 3.6,
+   "address": "175bis rue des Pyrénées, Paris, 75020",
+   "tags": {
+    "website": "https://veterinaires2touteurgence.com/urgence-veterinaire-paris/",
+    "opening_hours": "Mo-Su 00:00-24:00; 2026 May 1,2026 May 8,2026 May 14,2026 May 25 00:00-24:00; 2026 Jul 14 00:00-24:00; 2026 Aug 15 00:00-24:00; 2026 Nov 1,2026 Nov 11 00:00-24:00; 2026 Dec 25 00:00-24:00; 2027 Jan 1 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/12986009505",
+   "name": "La Clinique Vétérinaire de Bercy",
+   "lat": 48.8373481,
+   "lon": 2.3917692,
+   "distKm": 3.6,
+   "address": "4 Rue de la Lancette, Paris, 75012",
+   "tags": {
+    "phone": "+33 1 45 84 11 21",
+    "website": "https://www.vetbercy.com/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/373747848",
+   "name": "Cabinet vétérinaire",
+   "lat": 48.829754,
+   "lon": 2.3228523,
+   "distKm": 3.7,
+   "address": "36 Rue des Plantes, Paris, 75014",
+   "tags": {}
+  },
+  {
+   "id": "node/2991169221",
+   "name": "Cabinet Veterinaire",
+   "lat": 48.8830175,
+   "lon": 2.3829604,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:30; Sa 09:00-12:30"
+   }
+  },
+  {
+   "id": "node/10791197356",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.832581,
+   "lon": 2.3165677,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/2206863671",
+   "name": "Clinique Vétérinaire",
+   "lat": 48.8708386,
+   "lon": 2.3989241,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

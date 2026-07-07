@@ -1,0 +1,223 @@
+{
+ "$schemaVersion": 1,
+ "city": "miami",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:29:36.454Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "node/6079799046",
+   "name": "Parajon Animal Clinic",
+   "lat": 25.7653425,
+   "lon": -80.2399491,
+   "distKm": 4.8,
+   "address": "2751 Southwest 8th Street, Miami, FL 33135",
+   "tags": {
+    "phone": "+1-305-856-2885",
+    "website": "https://www.facebook.com/Parajon-Animal-Clinic-452648924756303/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/7206580398",
+   "name": "Eco Deco Pet Hospital",
+   "lat": 25.7885214,
+   "lon": -80.1407913,
+   "distKm": 5.9,
+   "address": "1539 Alton Road, Miami Beach, FL 33139",
+   "tags": {}
+  },
+  {
+   "id": "node/5623515721",
+   "name": "South Beach Animal Hospital",
+   "lat": 25.7944112,
+   "lon": -80.1427118,
+   "distKm": 6.1,
+   "address": "1874 West Avenue, Miami Beach, FL",
+   "tags": {}
+  },
+  {
+   "id": "way/396475618",
+   "name": "Alton Road Animal Hospital",
+   "lat": 25.7941841,
+   "lon": -80.141722,
+   "distKm": 6.2,
+   "address": "1828 Alton Road, Miami Beach, FL 33139",
+   "tags": {}
+  },
+  {
+   "id": "node/7390272506",
+   "name": "Red Bird Animal Clinic",
+   "lat": 25.7348097,
+   "lon": -80.2879352,
+   "distKm": 10.1,
+   "address": "5753 Southwest 40th Street, Miami, FL 33155",
+   "tags": {}
+  },
+  {
+   "id": "node/6060697692",
+   "name": "VCA Animal Hospital",
+   "lat": 25.7629147,
+   "lon": -80.2995471,
+   "distKm": 10.8,
+   "address": "6390 Southwest 8th Street, West Miami, FL 33144",
+   "tags": {
+    "phone": "+1-305-261-2374",
+    "website": "https://vcahospitals.com/cabrera",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/7524448780",
+   "name": "Trail Animal Hospital",
+   "lat": 25.7629393,
+   "lon": -80.3011102,
+   "distKm": 10.9,
+   "address": "6464 Southwest 8th Street, West Miami, FL 33144",
+   "tags": {
+    "phone": "+1-305-261-0793",
+    "website": "https://www.trailanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/7389693629",
+   "name": "Animal Clinic of Miami-Dade",
+   "lat": 25.7505745,
+   "lon": -80.30383,
+   "distKm": 11.3,
+   "address": "2134 Southwest 67th Avenue, Miami, FL 33155",
+   "tags": {}
+  },
+  {
+   "id": "way/576511003",
+   "name": "Pets and Vets Animal Clinic",
+   "lat": 25.8548952,
+   "lon": -80.1312183,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4183830069",
+   "name": "Pet House Animal Clinic",
+   "lat": 25.8521931,
+   "lon": -80.1207133,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4183829154",
+   "name": "Pets & Vets",
+   "lat": 25.8558475,
+   "lon": -80.1251228,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6028053069",
+   "name": "Biscayne Animal Hospital",
+   "lat": 25.8894955,
+   "lon": -80.1655563,
+   "distKm": 14.5,
+   "address": "1665 Northeast 123rd Street, North Miami, FL 33181",
+   "tags": {}
+  },
+  {
+   "id": "node/11979306511",
+   "name": "VCA Animal Hospital",
+   "lat": 25.6874947,
+   "lon": -80.3113796,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/435539763",
+   "name": "Westchester Animal Hospital",
+   "lat": 25.7447788,
+   "lon": -80.3360183,
+   "distKm": 14.6,
+   "address": "2730 Southwest 87th Avenue, Miami, 33165",
+   "tags": {}
+  },
+  {
+   "id": "way/435530964",
+   "name": "Dadeland Animal Hospital",
+   "lat": 25.6823611,
+   "lon": -80.3159508,
+   "distKm": 15.2,
+   "address": "9495 Old Dixie Highway, Miami, FL 33156",
+   "tags": {}
+  },
+  {
+   "id": "node/9397974398",
+   "name": "Miami Veterinary Specialists",
+   "lat": 25.7026706,
+   "lon": -80.3333289,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/12011121369",
+   "name": "Sunset Animal Clinic",
+   "lat": 25.7014124,
+   "lon": -80.3355747,
+   "distKm": 15.9,
+   "address": "8780 Southwest 72nd Street, 33173",
+   "tags": {
+    "phone": "+1 305-271-4011",
+    "website": "https://www.sunsetvets.com/",
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/436032170",
+   "name": "Bayshore Veterinary Clinic",
+   "lat": 25.9058472,
+   "lon": -80.1577247,
+   "distKm": 16.4,
+   "address": "2043 Northeast 140th Street, North Miami Beach, FL 33181",
+   "tags": {}
+  },
+  {
+   "id": "way/435566806",
+   "name": "Arch Creek Animal Clinic",
+   "lat": 25.914797,
+   "lon": -80.1573243,
+   "distKm": 17.4,
+   "address": "15090 Biscayne Boulevard, North Miami Beach, FL 33181",
+   "tags": {}
+  },
+  {
+   "id": "node/6047566580",
+   "name": "Veg",
+   "lat": 25.6596377,
+   "lon": -80.3257495,
+   "distKm": 17.6,
+   "address": "11921 South Dixie Highway, Pinecrest, FL 33156",
+   "tags": {
+    "phone": "+1-305-615-1665",
+    "website": "https://www.veg.com/locations/florida/pinecrest",
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/11828927480",
+   "name": "Kendal Animal Clinic",
+   "lat": 25.6876317,
+   "lon": -80.3634015,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

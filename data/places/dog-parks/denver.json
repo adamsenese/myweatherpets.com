@@ -1,0 +1,597 @@
+{
+ "$schemaVersion": 1,
+ "city": "denver",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:26:12.840Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/450912293",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7492504,
+   "lon": -104.9943105,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/326333215",
+   "name": "Benedict Park Place Dog Park",
+   "lat": 39.7501933,
+   "lon": -104.9785337,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "surface": "sand"
+   }
+  },
+  {
+   "id": "way/311776908",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7585874,
+   "lon": -104.9880488,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1521913167",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7592025,
+   "lon": -104.9992568,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12485207224",
+   "name": "Denver Beer Co.",
+   "lat": 39.7582067,
+   "lon": -105.007355,
+   "distKm": 2.6,
+   "address": "1695 Platte Street, Denver, CO 80202",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/663900710",
+   "name": "Carla Madison Dog Park",
+   "lat": 39.7413472,
+   "lon": -104.9587879,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/278146736",
+   "name": "Fuller Dog Park",
+   "lat": 39.757626,
+   "lon": -104.9677326,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "surface": "sand"
+   }
+  },
+  {
+   "id": "way/1216328106",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7568701,
+   "lon": -105.0133161,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/733805905",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.756223,
+   "lon": -105.0184566,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/554206781",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7564317,
+   "lon": -105.0209062,
+   "distKm": 3.2,
+   "address": "2711 West 27th Avenue, Denver, CO 80211",
+   "tags": {}
+  },
+  {
+   "id": "way/334273577",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7262245,
+   "lon": -105.0291093,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1206243365",
+   "name": "Barnum Dog Park",
+   "lat": 39.7239271,
+   "lon": -105.0303265,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1329968295",
+   "name": "Skiptown",
+   "lat": 39.7697005,
+   "lon": -104.9559748,
+   "distKm": 4.5,
+   "address": "3833 N. Steele St, Denver, CO 80205",
+   "tags": {
+    "website": "https://skiptown.io/co/denver/"
+   }
+  },
+  {
+   "id": "way/1355021232",
+   "name": "Mountair Dog Park",
+   "lat": 39.7376918,
+   "lon": -105.0587471,
+   "distKm": 5.9,
+   "address": "5620 W 14th Ave, Lakewood, CO 80214",
+   "tags": {}
+  },
+  {
+   "id": "way/1126538409",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7302623,
+   "lon": -104.9206452,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/360209044",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.739638,
+   "lon": -105.0659439,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/667796017",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6986446,
+   "lon": -104.9275458,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/417755943",
+   "name": "Berkeley Dog Park",
+   "lat": 39.7823033,
+   "lon": -105.0525101,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/280667667",
+   "name": "Stapleton Off-Leash Dog Park",
+   "lat": 39.7496893,
+   "lon": -104.8974706,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/617485848",
+   "name": "Northwest Greenbelt Off-Leash Dog Park",
+   "lat": 39.6694692,
+   "lon": -105.0133754,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5866275156",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7618685,
+   "lon": -104.9002231,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1355726795",
+   "name": "Lakeview Towers/ Belmar Dog Park",
+   "lat": 39.7044909,
+   "lon": -105.0768971,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "unknown"
+   }
+  },
+  {
+   "id": "way/791694325",
+   "name": "Midtown East Dog Park",
+   "lat": 39.8196007,
+   "lon": -105.0015594,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/856815197",
+   "name": "Midtown Dog Park",
+   "lat": 39.8176687,
+   "lon": -105.01607,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/276670977",
+   "name": "Lowry Dog Park",
+   "lat": 39.7186588,
+   "lon": -104.8816628,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/517846548",
+   "name": "Willow Bark Park",
+   "lat": 39.7943949,
+   "lon": -104.8969168,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/759365216",
+   "name": "Little Dry Creek Dog Park",
+   "lat": 39.8234835,
+   "lon": -105.0351931,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/209778359",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8040891,
+   "lon": -105.0745788,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/209778358",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8050216,
+   "lon": -105.0765995,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/579786738",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6905465,
+   "lon": -104.8834939,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1245972610",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.686798,
+   "lon": -104.8804131,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/700379557",
+   "name": "The Modern Apartments dog run",
+   "lat": 39.65479,
+   "lon": -105.065612,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/573000745",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6930259,
+   "lon": -104.8688806,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/544824806",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6512593,
+   "lon": -105.0647574,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/581480210",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6883022,
+   "lon": -104.8684971,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1205352370",
+   "name": "Elsie Duncan Dog Park",
+   "lat": 39.6290614,
+   "lon": -104.9814997,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "yes",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/284372670",
+   "name": "Englewood Unleashed Dog Park",
+   "lat": 39.6282205,
+   "lon": -105.0050913,
+   "distKm": 12.4,
+   "address": "4848 South Windermere Street, CO 80110",
+   "tags": {
+    "website": "https://www.englewoodunleashed.org/"
+   }
+  },
+  {
+   "id": "way/256925457",
+   "name": "Bark Park",
+   "lat": 39.6700159,
+   "lon": -104.8710976,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1106668820",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7141402,
+   "lon": -105.138126,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1445931707",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8463316,
+   "lon": -105.0516138,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/793326201",
+   "name": "Tangent Dog Park",
+   "lat": 39.6373203,
+   "lon": -104.9108851,
+   "distKm": 13.2,
+   "address": "4300 S Monaco St, Denver, CO 80237",
+   "tags": {}
+  },
+  {
+   "id": "way/543424162",
+   "name": "Dog Run",
+   "lat": 39.6955258,
+   "lon": -104.8436076,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1110445885",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6363203,
+   "lon": -104.9066077,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "access": "no"
+   }
+  },
+  {
+   "id": "way/1316814484",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8512314,
+   "lon": -105.0525538,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/364828963",
+   "name": "Bicentennial Park Off Leash Dog Area (Trial)",
+   "lat": 39.7145268,
+   "lon": -104.8319926,
+   "distKm": 13.8,
+   "address": "13600 East Alameda Avenue, Aurora, CO 80012",
+   "tags": {}
+  },
+  {
+   "id": "way/270483687",
+   "name": "Kennedy Dog Park",
+   "lat": 39.649236,
+   "lon": -104.8747543,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/415414837",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6570935,
+   "lon": -104.8607574,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/556171047",
+   "name": "Belleview Station Dog Park",
+   "lat": 39.6261975,
+   "lon": -104.9071861,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/11809508138",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7206659,
+   "lon": -104.8176244,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/589524092",
+   "name": "Wynetka Ponds Bark Park",
+   "lat": 39.6101491,
+   "lon": -105.0388051,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/230750298",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.866475,
+   "lon": -105.0490711,
+   "distKm": 15,
+   "address": null,
+   "tags": {
+    "surface": "gravel",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/539878543",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8801594,
+   "lon": -104.9770426,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/737680825",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8716057,
+   "lon": -105.0554188,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1370428525",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6991013,
+   "lon": -104.8142951,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1313881045",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7048254,
+   "lon": -104.8092309,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1072458461",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7610812,
+   "lon": -104.8042186,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/31551533",
+   "name": "Forsberg Dog Park",
+   "lat": 39.6791821,
+   "lon": -105.166767,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/810608792",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7794643,
+   "lon": -104.8049983,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4792323729",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.793699,
+   "lon": -104.8051503,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/44660645",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8894708,
+   "lon": -104.9627032,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

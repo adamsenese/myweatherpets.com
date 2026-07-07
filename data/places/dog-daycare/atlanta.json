@@ -1,0 +1,109 @@
+{
+ "$schemaVersion": 1,
+ "city": "atlanta",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:29:29.736Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/812914217",
+   "name": "WAG-A-LOT Downtown",
+   "lat": 33.7457572,
+   "lon": -84.3597927,
+   "distKm": 2.6,
+   "address": "840 Old Flat Shoals Road Southeast, Atlanta, GA 30316",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3396660793",
+   "name": "Spot for Dogs Atlanta",
+   "lat": 33.774957,
+   "lon": -84.364396,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13472583662",
+   "name": "Piedmont Bark Doggie Daycare",
+   "lat": 33.7879569,
+   "lon": -84.3701937,
+   "distKm": 4.6,
+   "address": "501 Amsterdam Avenue Northeast",
+   "tags": {
+    "phone": "+1-404-873-5400",
+    "website": "http://www.piedmontbark.com/",
+    "opening_hours": "Mo-Fr 07:00-19:30; Sa 08:00-17:00; Su 15:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/226576095",
+   "name": "Barking Hound Village",
+   "lat": 33.8104128,
+   "lon": -84.3602555,
+   "distKm": 7.3,
+   "address": "1918 Cheshire Bridge Road, Atlanta, 30324",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12030020205",
+   "name": "The Pet Set",
+   "lat": 33.8263716,
+   "lon": -84.3333029,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/846914205",
+   "name": "K-9 Coach",
+   "lat": 33.8357764,
+   "lon": -84.4726089,
+   "distKm": 12.4,
+   "address": "4870 South Atlanta Road, Atlanta, GA 30339",
+   "tags": {
+    "phone": "+1-404-603-9744",
+    "website": "https://www.k-9coach.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13168854927",
+   "name": "Dogtopia",
+   "lat": 33.8924547,
+   "lon": -84.3252672,
+   "distKm": 17,
+   "address": "2152 Johnson Ferry Road Northeast, Atlanta, GA 30319",
+   "tags": {
+    "phone": "+1-404-885-8655",
+    "website": "https://www.dogtopia.com/atlanta-northbrookhaven/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3314723663",
+   "name": "Sleepy Hollow Kennels",
+   "lat": 33.9000233,
+   "lon": -84.4901572,
+   "distKm": 19.3,
+   "address": "2170 Windy Hill Road Southeast, Smyrna, GA 30080",
+   "tags": {
+    "phone": "+1-770-435-5781",
+    "website": "http://www.sleepyhollowkennels.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

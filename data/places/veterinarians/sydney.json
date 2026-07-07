@@ -1,0 +1,632 @@
+{
+ "$schemaVersion": 1,
+ "city": "sydney",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:40:24.853Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/13937717363",
+   "name": "Pyrmont Vet",
+   "lat": -33.8667234,
+   "lon": 151.1925598,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11121100250",
+   "name": "Potts Point Veterniary Hospital",
+   "lat": -33.8721391,
+   "lon": 151.2276289,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 8097 0060",
+    "website": "https://pottspointvet.com.au",
+    "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/5898635855",
+   "name": "Paddington Cat Hospital",
+   "lat": -33.8847266,
+   "lon": 151.2252803,
+   "distKm": 2.3,
+   "address": "210 Oxford Street",
+   "tags": {}
+  },
+  {
+   "id": "way/1497224537",
+   "name": "Glebe Veterinary Hospital",
+   "lat": -33.8820555,
+   "lon": 151.1899376,
+   "distKm": 2.3,
+   "address": "113 Glebe Point Road",
+   "tags": {
+    "phone": "+61 2 9660 1771"
+   }
+  },
+  {
+   "id": "node/5608349161",
+   "name": "Surry Hills Vet",
+   "lat": -33.8917859,
+   "lon": 151.2135777,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/515929955",
+   "name": "University of Sydney Veterinary Clinic",
+   "lat": -33.8857851,
+   "lon": 151.1822375,
+   "distKm": 3.1,
+   "address": "65 Parramatta Road",
+   "tags": {}
+  },
+  {
+   "id": "node/13318563596",
+   "name": "Vet HQ",
+   "lat": -33.8785954,
+   "lon": 151.2429616,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/831608611",
+   "name": "Vet HQ Double Bay",
+   "lat": -33.878229,
+   "lon": 151.2428665,
+   "distKm": 3.3,
+   "address": "389 New South Head Road, 2028",
+   "tags": {
+    "phone": "+61 2 9326 1255",
+    "website": "https://vethq.com.au/"
+   }
+  },
+  {
+   "id": "node/11132952014",
+   "name": "Double Bay Vet",
+   "lat": -33.8864309,
+   "lon": 151.2463182,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 9363 4045",
+    "website": "https://doublebayvet.com.au"
+   }
+  },
+  {
+   "id": "node/9611865603",
+   "name": "Taronga Zoo Wildlife Hospital",
+   "lat": -33.8418455,
+   "lon": 151.2394564,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9296796312",
+   "name": "Greencross Vets",
+   "lat": -33.9039236,
+   "lon": 151.1934393,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/11028800693",
+   "name": "Sydney Animal Hospitals Inner West",
+   "lat": -33.8883399,
+   "lon": 151.1677633,
+   "distKm": 4.4,
+   "address": "1A Northumberland Avenue",
+   "tags": {
+    "phone": "+61 2 9516 1466",
+    "website": "https://www.sydneyanimalhospitals.com.au/locations/inner-west",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 08:00-18:00; PH 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/9571764392",
+   "name": "The Inner West Cat Hospital",
+   "lat": -33.9012892,
+   "lon": 151.1784842,
+   "distKm": 4.6,
+   "address": "451 King Street",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-13:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/9141060401",
+   "name": "myVet",
+   "lat": -33.9117927,
+   "lon": 151.2117055,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/110163974",
+   "name": "Cremorne Veterinary Hospital and Council Pound",
+   "lat": -33.8293275,
+   "lon": 151.230331,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/110163976",
+   "name": "Mosman Veterinary Clinic",
+   "lat": -33.8321442,
+   "lon": 151.2386066,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13428255941",
+   "name": "Cammeray Veterinary Hospital",
+   "lat": -33.8228278,
+   "lon": 151.2103877,
+   "distKm": 5.1,
+   "address": "427 Miller Street",
+   "tags": {
+    "website": "https://www.cammerayvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/4944004476",
+   "name": "Rose Bay Vet Hospital",
+   "lat": -33.8703123,
+   "lon": 151.2693645,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4743856021",
+   "name": "Petvet",
+   "lat": -33.8965346,
+   "lon": 151.1591289,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/110163975",
+   "name": "The Barracks Vet Surgery",
+   "lat": -33.8348467,
+   "lon": 151.2558284,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6004908589",
+   "name": "North Randwick Vetinary Clinic",
+   "lat": -33.9060401,
+   "lon": 151.2533649,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 9314 5112"
+   }
+  },
+  {
+   "id": "node/6822809949",
+   "name": "Bondi Vet",
+   "lat": -33.8842429,
+   "lon": 151.2687539,
+   "distKm": 5.8,
+   "address": "339 Old South Head Road, NSW 2026",
+   "tags": {
+    "phone": "+61 2 9130 2001"
+   }
+  },
+  {
+   "id": "node/5839753275",
+   "name": "Greencross Vets",
+   "lat": -33.8969865,
+   "lon": 151.1529382,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12976008981",
+   "name": "Pet Dentist",
+   "lat": -33.8153648,
+   "lon": 151.1906302,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6571450736",
+   "name": "North Shore Veterinary Hospital",
+   "lat": -33.8146646,
+   "lon": 151.1899676,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9460454333",
+   "name": "All Natural Vet Care",
+   "lat": -33.859489,
+   "lon": 151.1421957,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1272468347",
+   "name": "Haberfield Veterinary Hospital",
+   "lat": -33.8841466,
+   "lon": 151.1420915,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4927535468",
+   "name": "Vaucluse Veterinary Clinic",
+   "lat": -33.8593389,
+   "lon": 151.2784014,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8827458018",
+   "name": "Summer Hill Village Vet",
+   "lat": -33.890001,
+   "lon": 151.1389915,
+   "distKm": 6.9,
+   "address": "29 Grosvenor Crescent, 2130",
+   "tags": {
+    "phone": "+61 2 9797 2555",
+    "website": "https://summerhillvillagevet.com/",
+    "opening_hours": "Mo 08:00-21:00; Tu-Fr 08:00-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/13426113101",
+   "name": "Advanced Vet Care Lane Cove",
+   "lat": -33.8157925,
+   "lon": 151.1698953,
+   "distKm": 6.9,
+   "address": "143 Longueville Road",
+   "tags": {
+    "phone": "+61 2 8552 7800",
+    "website": "https://advancedvetcarelanecove.com.au"
+   }
+  },
+  {
+   "id": "way/506634774",
+   "name": "Dr Paws",
+   "lat": -33.8102182,
+   "lon": 151.17782,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/1272445700",
+   "name": "Five Dock Veterinary Hospital",
+   "lat": -33.8718098,
+   "lon": 151.1324871,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3888701089",
+   "name": "Hunters Hill Veterinary Clinic",
+   "lat": -33.8334876,
+   "lon": 151.1437128,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/275258950",
+   "name": "Anzac Parade Veterinary Hospital",
+   "lat": -33.9323106,
+   "lon": 151.2367511,
+   "distKm": 7.5,
+   "address": "577 Anzac Parade",
+   "tags": {
+    "opening_hours": "Mo-We,Fr 09:00-12:00,16:00-18:00"
+   }
+  },
+  {
+   "id": "way/277751494",
+   "name": "Greencross Vets",
+   "lat": -33.9354557,
+   "lon": 151.2372894,
+   "distKm": 7.8,
+   "address": "633 Anzac Parade",
+   "tags": {}
+  },
+  {
+   "id": "node/6717791068",
+   "name": "Hurlstone Park Vet Hospital",
+   "lat": -33.9050178,
+   "lon": 151.1332364,
+   "distKm": 8.1,
+   "address": "739 New Canterbury Road, NSW 2203",
+   "tags": {
+    "phone": "+61 2 9558 4181",
+    "website": "https://hurlstoneparkveterinaryhospital.com.au",
+    "opening_hours": "Mo-Fr 08:00-19:30; Sa-Su 09:30-12:00"
+   }
+  },
+  {
+   "id": "node/11137294643",
+   "name": "Willoughby Veterinary Hospital",
+   "lat": -33.7962569,
+   "lon": 151.2008756,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/609669880",
+   "name": "Southeast Sydney Veterinary Hospital",
+   "lat": -33.9421776,
+   "lon": 151.2407303,
+   "distKm": 8.7,
+   "address": "225 Maroubra Road, NSW 2035",
+   "tags": {}
+  },
+  {
+   "id": "way/1097876302",
+   "name": "Seaforth Veterinary Hospital",
+   "lat": -33.7978671,
+   "lon": 151.2504585,
+   "distKm": 8.8,
+   "address": "55 Ethel Street",
+   "tags": {
+    "phone": "+61 2 9949 1288",
+    "website": "https://www.svh55.com.au/"
+   }
+  },
+  {
+   "id": "node/2916728268",
+   "name": "Burwood & Bay",
+   "lat": -33.8651173,
+   "lon": 151.1061875,
+   "distKm": 9.5,
+   "address": "48 Burwood Road, 2137",
+   "tags": {}
+  },
+  {
+   "id": "node/13358372126",
+   "name": "Croydon park veterinary hospital",
+   "lat": -33.8949389,
+   "lon": 151.1094054,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9582148041",
+   "name": "SASH Vets",
+   "lat": -33.79693,
+   "lon": 151.1456712,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 9889 0289",
+    "website": "https://sashvets.com/locations/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1318023152",
+   "name": "Manly Veterinary Clinic",
+   "lat": -33.7957056,
+   "lon": 151.2761842,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/293252848",
+   "name": "Matraville Veterinary Practice",
+   "lat": -33.9599754,
+   "lon": 151.231651,
+   "distKm": 10.3,
+   "address": "525 Bunnerong Road, NSW 2036",
+   "tags": {
+    "phone": "+61 2 9189 4488"
+   }
+  },
+  {
+   "id": "node/6139557984",
+   "name": "Two by Two Vetinary Hospital",
+   "lat": -33.7886205,
+   "lon": 151.2677955,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4948186713",
+   "name": "Ark Veterinary Hospital",
+   "lat": -33.7748799,
+   "lon": 151.1682473,
+   "distKm": 11.1,
+   "address": "352 Pacific Highway",
+   "tags": {
+    "phone": "+61 2 9416 1300"
+   }
+  },
+  {
+   "id": "node/13676907049",
+   "name": "Enfield Veterinary Hospital",
+   "lat": -33.8930566,
+   "lon": 151.090892,
+   "distKm": 11.3,
+   "address": "94-124 Coronation Parade",
+   "tags": {
+    "phone": "+61 2 9747 3999"
+   }
+  },
+  {
+   "id": "way/667343228",
+   "name": "all paws vet",
+   "lat": -33.8471366,
+   "lon": 151.0896184,
+   "distKm": 11.3,
+   "address": "351B Concord Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/2741779522",
+   "name": "Macquarie Veterinary Hospital",
+   "lat": -33.7864371,
+   "lon": 151.1265461,
+   "distKm": 11.9,
+   "address": "384 Lane Cove Road",
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-20:00; We 08:00-19:00; Sa 09:00-17:00; Su 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/11237567356",
+   "name": "Allambie Vet",
+   "lat": -33.7665006,
+   "lon": 151.2549761,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 9905 0505",
+    "website": "https://allambievet.com.au/",
+    "opening_hours": "Mo-Fr 07:30-19:00, Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/1361353455",
+   "name": "VetMed",
+   "lat": -33.7605217,
+   "lon": 151.2169286,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "phone": "+61 2 9451 4840",
+    "website": "https://www.vetmed.com.au"
+   }
+  },
+  {
+   "id": "node/7912062700",
+   "name": "Harbord Veterinary Clinic",
+   "lat": -33.7786802,
+   "lon": 151.2861501,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/252957533",
+   "name": "Animal Referral Hospital",
+   "lat": -33.8603911,
+   "lon": 151.0732934,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1231621284",
+   "name": "Bexley Veterinary Hospital",
+   "lat": -33.9546139,
+   "lon": 151.1192713,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13394088022",
+   "name": "Kingsgrove Animal Hospital",
+   "lat": -33.9426112,
+   "lon": 151.1013145,
+   "distKm": 12.9,
+   "address": "267 Kingsgrove Road",
+   "tags": {
+    "phone": "+61 2 9789 6648",
+    "website": "https://kingsvet.com.au/contact/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/5829134018",
+   "name": "Princes Highway Vet",
+   "lat": -33.9702281,
+   "lon": 151.1348144,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9461862918",
+   "name": "The Village Vet",
+   "lat": -33.7534388,
+   "lon": 151.1758612,
+   "distKm": 13.2,
+   "address": "50 Koola Avenue",
+   "tags": {
+    "phone": "+61 2 8350 5678",
+    "website": "https://thevillagevet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-13:00; Su,PH off"
+   }
+  },
+  {
+   "id": "way/849401734",
+   "name": "Frenchs Forest Vet Hospital",
+   "lat": -33.7489645,
+   "lon": 151.2240244,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "website": "https://ffvh.com.au/"
+   }
+  },
+  {
+   "id": "node/5926809379",
+   "name": "West Ryde Veterinary Clinic",
+   "lat": -33.8069793,
+   "lon": 151.0825668,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7200328545",
+   "name": "Beacon Hill Veterinary Hospital",
+   "lat": -33.7542645,
+   "lon": 151.2599795,
+   "distKm": 13.6,
+   "address": "197 Warringah Road, 2100",
+   "tags": {
+    "phone": "+61 2 9452 5556",
+    "website": "https://beaconhillvet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:30-16:00; Su 09:30-13:00",
+    "emergency": "yes"
+   }
+  }
+ ]
+}

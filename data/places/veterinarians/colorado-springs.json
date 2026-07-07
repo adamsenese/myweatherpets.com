@@ -1,0 +1,393 @@
+{
+ "$schemaVersion": 1,
+ "city": "colorado-springs",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:29:41.883Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 34,
+ "places": [
+  {
+   "id": "node/12342382910",
+   "name": "VetIQ",
+   "lat": 38.8240587,
+   "lon": -104.8383571,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/13782076101",
+   "name": "Bear Creek Veterinary Care",
+   "lat": 38.8193741,
+   "lon": -104.8419507,
+   "distKm": 2.4,
+   "address": "960 Pico Point, 80905",
+   "tags": {
+    "phone": "+1-719-685-1177",
+    "website": "https://bearcreekvet.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-15:00"
+   }
+  },
+  {
+   "id": "node/4497398790",
+   "name": "Uintah Pet Emergency",
+   "lat": 38.8470773,
+   "lon": -104.8442738,
+   "distKm": 2.5,
+   "address": "1635 West Uintah Street, Colorado Springs, CO 80904",
+   "tags": {
+    "phone": "+1-719-633-3214",
+    "website": "https://www.uintahpetemergency.com/"
+   }
+  },
+  {
+   "id": "way/205311956",
+   "name": "Westside Animal Hospital",
+   "lat": 38.839252,
+   "lon": -104.8501574,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13522085777",
+   "name": "Mountain Pets Veterinary Clinic",
+   "lat": 38.8383157,
+   "lon": -104.8596458,
+   "distKm": 3.3,
+   "address": "1030 South 21st Street, Colorado Springs, CO 80904",
+   "tags": {
+    "phone": "+1-719-418-7387",
+    "website": "https://www.mountainpetsvet.com/",
+    "opening_hours": "Mo-Th 08:00-12:00,13:30-17:00, Fr 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/194699468",
+   "name": "Cheyenne Mountain Animal Hospital",
+   "lat": 38.807856,
+   "lon": -104.8414312,
+   "distKm": 3.4,
+   "address": "1716 South 8th Street, Colorado Springs, CO 80905",
+   "tags": {
+    "phone": "+1-719-475-1314",
+    "website": "https://cheyennepets.com/"
+   }
+  },
+  {
+   "id": "node/4226046850",
+   "name": "Pikes Peak Veterinary Clinic",
+   "lat": 38.8586208,
+   "lon": -104.7936084,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/832823332",
+   "name": "Our Family vet",
+   "lat": 38.8556035,
+   "lon": -104.775447,
+   "distKm": 4.7,
+   "address": "1607 North Circle Drive, Colorado Springs, 80909",
+   "tags": {}
+  },
+  {
+   "id": "way/187355737",
+   "name": "Animal Emergency Care Center",
+   "lat": 38.8249309,
+   "lon": -104.7582523,
+   "distKm": 5.6,
+   "address": "3775 Airport Road, Colorado Springs, CO 80910",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:00-24:00"
+   }
+  },
+  {
+   "id": "node/13440223158",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.8414064,
+   "lon": -104.7555114,
+   "distKm": 5.8,
+   "address": "571 North Academy Boulevard, Colorado Springs, CO 80909",
+   "tags": {
+    "phone": "+1-719-638-9631",
+    "website": "https://www.banfield.com/locations/veterinarians/co/colorado-springs/cos",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/5044943851",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.7764472,
+   "lon": -104.8113654,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6043075900",
+   "name": "CatTails Feline Health Center",
+   "lat": 38.775355,
+   "lon": -104.8154332,
+   "distKm": 6.5,
+   "address": "3625 Star Ranch Road, Colorado Springs, CO 80906",
+   "tags": {
+    "phone": "+1-719-575-0007",
+    "website": "https://www.cattailsfhc.com/"
+   }
+  },
+  {
+   "id": "node/11940602296",
+   "name": "Ridgewood Animal Hospital",
+   "lat": 38.7952406,
+   "lon": -104.7601067,
+   "distKm": 6.8,
+   "address": "3730 Astrozon Boulevard, Colorado Springs, 80910",
+   "tags": {}
+  },
+  {
+   "id": "node/10799702071",
+   "name": "VCA Northwest Animal Hospital",
+   "lat": 38.8977802,
+   "lon": -104.8353701,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/497463734",
+   "name": "Crossroads Animal Hospital",
+   "lat": 38.8902248,
+   "lon": -104.7553449,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7201104500",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.892858,
+   "lon": -104.757901,
+   "distKm": 8.6,
+   "address": "4276 North Academy Boulevard, Colorado Springs, CO 80918",
+   "tags": {
+    "phone": "+1 719-315-6092",
+    "website": "https://www.banfield.com/locations/veterinarians/co/colorado-springs/adc?cid=yext_local",
+    "opening_hours": "Mo-Fr 08:00-18:00 Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/199298858",
+   "name": "Faithful Friends Animal Hospital",
+   "lat": 38.8972477,
+   "lon": -104.7402192,
+   "distKm": 10,
+   "address": "4720 Barnes Road, Colorado Springs, 80917",
+   "tags": {}
+  },
+  {
+   "id": "way/192573927",
+   "name": "Yorkshire Veterinary Clinic",
+   "lat": 38.9248883,
+   "lon": -104.7932053,
+   "distKm": 10.4,
+   "address": "1815 Dublin Boulevard, CO 80918",
+   "tags": {
+    "phone": "+1-719-598-3192",
+    "website": "https://www.yorkshirevetclinic.com/"
+   }
+  },
+  {
+   "id": "node/12798526965",
+   "name": "Sploot Veterinary Care",
+   "lat": 38.8912926,
+   "lon": -104.7217076,
+   "distKm": 10.7,
+   "address": "5687 Barnes Road, Colorado Springs, CO 80917",
+   "tags": {
+    "phone": "+1 719-782-7950",
+    "website": "https://www.splootvets.com/colorado-springs/powers-pointe?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing&utm_content=powers-pointe",
+    "opening_hours": "Mo-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/2266553737",
+   "name": "York Road Pet Wellness",
+   "lat": 38.9295775,
+   "lon": -104.7963169,
+   "distKm": 10.9,
+   "address": "1565 York Road, 80918",
+   "tags": {
+    "phone": "+1-719-650-6991"
+   }
+  },
+  {
+   "id": "node/1797667729",
+   "name": "6190 Vet",
+   "lat": 38.7354244,
+   "lon": -104.7957865,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5794801023",
+   "name": "High Plains Veterinary Hospital",
+   "lat": 38.8897394,
+   "lon": -104.7138496,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/198504736",
+   "name": "Centennial Animal Hospital",
+   "lat": 38.9300622,
+   "lon": -104.8654998,
+   "distKm": 11.4,
+   "address": "6870 Centennial Boulevard, CO 80907",
+   "tags": {
+    "phone": "+1-719-344-2088",
+    "website": "https://centennialpets.com/"
+   }
+  },
+  {
+   "id": "node/12823619267",
+   "name": "Polo Springs Veterinary Hospital",
+   "lat": 38.9157923,
+   "lon": -104.7327954,
+   "distKm": 11.9,
+   "address": "5557 Austin Bluffs Parkway, Colorado Springs, CO 80918",
+   "tags": {
+    "phone": "+1 719-264-8384",
+    "website": "http://www.polosprings.com/"
+   }
+  },
+  {
+   "id": "node/12078794988",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.9423553,
+   "lon": -104.8018368,
+   "distKm": 12.2,
+   "address": "7680 North Academy Boulevard, Colorado Springs, CO 80920",
+   "tags": {
+    "phone": "+1-719-536-9594",
+    "website": "https://www.banfield.com/en/locations/veterinarians/co/colorado-springs/cdo",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/582795369",
+   "name": "Powers Pet Emergency and Spcialty",
+   "lat": 38.9160803,
+   "lon": -104.7179391,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7152775443",
+   "name": "Claremont Ranch Animal Hospital",
+   "lat": 38.8670134,
+   "lon": -104.6786075,
+   "distKm": 12.9,
+   "address": "7935 Constitution Avenue, Colorado Springs, CO 80951",
+   "tags": {
+    "phone": "+1-719-574-1228",
+    "website": "https://claremontranchvet.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/4702594647",
+   "name": "Pets First Animal Hospital",
+   "lat": 38.9020382,
+   "lon": -104.6845037,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12795230195",
+   "name": "North Powers Animal Hospital",
+   "lat": 38.9544274,
+   "lon": -104.7277305,
+   "distKm": 15.7,
+   "address": "5495 Powers Center Point, Colorado Springs, CO 80920",
+   "tags": {
+    "phone": "+1 719-282-1222",
+    "website": "https://npahvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/7154793321",
+   "name": "City Vet",
+   "lat": 38.9651952,
+   "lon": -104.7549015,
+   "distKm": 15.7,
+   "address": "9235 North Union Boulevard, Colorado Springs, CO 80920",
+   "tags": {
+    "phone": "+1-719-888-6546",
+    "website": "https://www.cityvet.com/location/briargate/",
+    "opening_hours": "Mo-Su 07:00-19:00"
+   }
+  },
+  {
+   "id": "way/230162883",
+   "name": "Pine Creek Veterinary Hospital",
+   "lat": 38.9737457,
+   "lon": -104.7523896,
+   "distKm": 16.7,
+   "address": "4120 Royal Pine Drive, Colorado Springs, CO 80920",
+   "tags": {
+    "phone": "+1-719-955-0966",
+    "website": "https://pinecreekvet.com",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 09:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/1329121624",
+   "name": "North Springs Veterinary Emergency & Specialty Center",
+   "lat": 38.9837722,
+   "lon": -104.7957589,
+   "distKm": 16.8,
+   "address": "10520 White Diamond Point, Colorado Springs, CO 80908",
+   "tags": {
+    "phone": "+1-719-920-4430",
+    "website": "https://northspringsvrc.com",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4917723051",
+   "name": "Timberview Animal Hospital",
+   "lat": 39.0024503,
+   "lon": -104.7993392,
+   "distKm": 18.8,
+   "address": "11550 Ridgeline Drive, Colorado Springs, CO 80921",
+   "tags": {
+    "phone": "+1-719-362-8880",
+    "website": "https://www.timberviewah.com",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-24:00"
+   }
+  },
+  {
+   "id": "node/4517779597",
+   "name": "Northgate Animal Hospital",
+   "lat": 39.0104586,
+   "lon": -104.8061144,
+   "distKm": 19.7,
+   "address": "12225 Voyager Parkway, 80921",
+   "tags": {
+    "phone": "+1-719-481-3080",
+    "website": "https://northgateanimalhospital.net/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 09:00-12:00"
+   }
+  }
+ ]
+}

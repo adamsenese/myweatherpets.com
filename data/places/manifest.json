@@ -1,0 +1,1046 @@
+{
+ "$schemaVersion": 1,
+ "cities": {
+  "chicago": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LOT/76,73/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 58,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 10
+   }
+  },
+  "new-york": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/OKX/33,42/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 60
+   }
+  },
+  "los-angeles": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LOX/155,45/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 36,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 19
+   }
+  },
+  "houston": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/HGX/63,95/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 30,
+    "veterinarians": 33,
+    "pet-stores": 28,
+    "dog-daycare": 8
+   }
+  },
+  "phoenix": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/PSR/159,58/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 43,
+    "veterinarians": 41,
+    "pet-stores": 42,
+    "dog-daycare": 12
+   }
+  },
+  "philadelphia": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/PHI/50,79/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 40,
+    "veterinarians": 47,
+    "pet-stores": 45,
+    "dog-daycare": 7
+   }
+  },
+  "san-antonio": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/EWX/126,54/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 24,
+    "veterinarians": 23,
+    "pet-stores": 17,
+    "dog-daycare": 1
+   }
+  },
+  "san-diego": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/SGX/57,14/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 33,
+    "veterinarians": 36,
+    "pet-stores": 36,
+    "dog-daycare": 4
+   }
+  },
+  "dallas": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/FWD/89,104/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 35,
+    "veterinarians": 57,
+    "pet-stores": 30,
+    "dog-daycare": 9
+   }
+  },
+  "austin": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/EWX/156,91/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 47,
+    "pet-stores": 32,
+    "dog-daycare": 8
+   }
+  },
+  "jacksonville": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/JAX/66,65/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 10,
+    "veterinarians": 12,
+    "pet-stores": 14,
+    "dog-daycare": 3
+   }
+  },
+  "auckland": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 15,
+    "veterinarians": 55,
+    "pet-stores": 35,
+    "dog-daycare": 2
+   }
+  },
+  "tokyo": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 24,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 14
+   }
+  },
+  "osaka": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 15,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 6
+   }
+  },
+  "seoul": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 8,
+    "veterinarians": 60,
+    "pet-stores": 46,
+    "dog-daycare": 2
+   }
+  },
+  "singapore": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 29,
+    "veterinarians": 42,
+    "pet-stores": 60,
+    "dog-daycare": 9
+   }
+  },
+  "hong-kong": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 33,
+    "veterinarians": 46,
+    "pet-stores": 60,
+    "dog-daycare": 1
+   }
+  },
+  "bangkok": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 9,
+    "veterinarians": 44,
+    "pet-stores": 26,
+    "dog-daycare": 4
+   }
+  },
+  "dubai": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 10,
+    "veterinarians": 24,
+    "pet-stores": 38,
+    "dog-daycare": 1
+   }
+  },
+  "stockholm": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 32,
+    "pet-stores": 54,
+    "dog-daycare": 13
+   }
+  },
+  "copenhagen": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 29,
+    "pet-stores": 41,
+    "dog-daycare": 0
+   }
+  },
+  "columbus": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/ILN/85,81/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 31,
+    "veterinarians": 43,
+    "pet-stores": 36,
+    "dog-daycare": 4
+   }
+  },
+  "charlotte": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/GSP/119,65/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 36,
+    "pet-stores": 25,
+    "dog-daycare": 13
+   }
+  },
+  "san-francisco": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MTR/85,105/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 58,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 13
+   }
+  },
+  "indianapolis": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/IND/58,69/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 16,
+    "veterinarians": 26,
+    "pet-stores": 22,
+    "dog-daycare": 4
+   }
+  },
+  "seattle": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/SEW/125,68/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 56,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 30
+   }
+  },
+  "denver": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BOU/63,62/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 18
+   }
+  },
+  "washington-dc": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LWX/96,72/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 19
+   }
+  },
+  "boston": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BOX/71,101/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 44,
+    "pet-stores": 46,
+    "dog-daycare": 5
+   }
+  },
+  "nashville": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/OHX/50,57/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 8,
+    "pet-stores": 6,
+    "dog-daycare": 1
+   }
+  },
+  "el-paso": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/EPZ/100,56/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 4,
+    "veterinarians": 5,
+    "pet-stores": 8,
+    "dog-daycare": 0
+   }
+  },
+  "detroit": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/DTX/66,34/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 23,
+    "veterinarians": 24,
+    "pet-stores": 38,
+    "dog-daycare": 6
+   }
+  },
+  "oklahoma-city": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/OUN/97,94/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 20,
+    "veterinarians": 20,
+    "pet-stores": 18,
+    "dog-daycare": 2
+   }
+  },
+  "portland": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/PQR/113,104/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 32
+   }
+  },
+  "las-vegas": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/VEF/123,98/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 38,
+    "veterinarians": 26,
+    "pet-stores": 39,
+    "dog-daycare": 4
+   }
+  },
+  "memphis": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MEG/42,67/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 3,
+    "veterinarians": 4,
+    "pet-stores": 7,
+    "dog-daycare": 1
+   }
+  },
+  "louisville": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LMK/50,78/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 13,
+    "veterinarians": 22,
+    "pet-stores": 16,
+    "dog-daycare": 3
+   }
+  },
+  "baltimore": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LWX/109,91/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 56,
+    "veterinarians": 60,
+    "pet-stores": 38,
+    "dog-daycare": 10
+   }
+  },
+  "milwaukee": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MKX/88,65/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 12,
+    "veterinarians": 30,
+    "pet-stores": 27,
+    "dog-daycare": 6
+   }
+  },
+  "albuquerque": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/ABQ/98,121/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 23,
+    "veterinarians": 19,
+    "pet-stores": 16,
+    "dog-daycare": 3
+   }
+  },
+  "tucson": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/TWC/91,49/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 45,
+    "veterinarians": 25,
+    "pet-stores": 16,
+    "dog-daycare": 2
+   }
+  },
+  "sacramento": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/STO/41,68/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 26,
+    "veterinarians": 21,
+    "pet-stores": 30,
+    "dog-daycare": 1
+   }
+  },
+  "kansas-city": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/EAX/44,51/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 28,
+    "veterinarians": 35,
+    "pet-stores": 31,
+    "dog-daycare": 7
+   }
+  },
+  "atlanta": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/FFC/51,87/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 45,
+    "veterinarians": 35,
+    "pet-stores": 30,
+    "dog-daycare": 8
+   }
+  },
+  "miami": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MFL/110,50/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 24,
+    "veterinarians": 21,
+    "pet-stores": 20,
+    "dog-daycare": 3
+   }
+  },
+  "colorado-springs": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/PUB/90,91/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 23,
+    "veterinarians": 34,
+    "pet-stores": 31,
+    "dog-daycare": 2
+   }
+  },
+  "raleigh": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/RAH/75,57/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 54,
+    "pet-stores": 29,
+    "dog-daycare": 8
+   }
+  },
+  "omaha": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/OAX/83,60/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 18,
+    "veterinarians": 15,
+    "pet-stores": 18,
+    "dog-daycare": 4
+   }
+  },
+  "virginia-beach": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/AKQ/101,53/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 6,
+    "veterinarians": 15,
+    "pet-stores": 18,
+    "dog-daycare": 4
+   }
+  },
+  "minneapolis": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MPX/108,72/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 57,
+    "veterinarians": 60,
+    "pet-stores": 54,
+    "dog-daycare": 20
+   }
+  },
+  "tampa": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/TBW/71,98/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 50,
+    "veterinarians": 25,
+    "pet-stores": 18,
+    "dog-daycare": 4
+   }
+  },
+  "tulsa": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/TSA/41,105/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 17,
+    "veterinarians": 34,
+    "pet-stores": 20,
+    "dog-daycare": 11
+   }
+  },
+  "new-orleans": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LIX/68,88/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 5,
+    "veterinarians": 21,
+    "pet-stores": 18,
+    "dog-daycare": 6
+   }
+  },
+  "wichita": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/ICT/62,34/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 12,
+    "veterinarians": 13,
+    "pet-stores": 9,
+    "dog-daycare": 2
+   }
+  },
+  "cleveland": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/CLE/83,65/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 17,
+    "veterinarians": 20,
+    "pet-stores": 28,
+    "dog-daycare": 5
+   }
+  },
+  "honolulu": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/HFO/154,145/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 11,
+    "veterinarians": 17,
+    "pet-stores": 16,
+    "dog-daycare": 1
+   }
+  },
+  "cincinnati": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/ILN/36,38/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 16,
+    "veterinarians": 27,
+    "pet-stores": 19,
+    "dog-daycare": 7
+   }
+  },
+  "pittsburgh": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/PBZ/78,66/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 41,
+    "veterinarians": 32,
+    "pet-stores": 41,
+    "dog-daycare": 6
+   }
+  },
+  "st-louis": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LSX/95,74/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 18,
+    "veterinarians": 20,
+    "pet-stores": 21,
+    "dog-daycare": 3
+   }
+  },
+  "orlando": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MLB/26,68/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 34,
+    "veterinarians": 13,
+    "pet-stores": 17,
+    "dog-daycare": 3
+   }
+  },
+  "salt-lake-city": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/SLC/100,175/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 20,
+    "veterinarians": 28,
+    "pet-stores": 26,
+    "dog-daycare": 9
+   }
+  },
+  "san-jose": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MTR/99,82/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 50,
+    "veterinarians": 60,
+    "pet-stores": 35,
+    "dog-daycare": 15
+   }
+  },
+  "buffalo": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BUF/36,47/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 9,
+    "veterinarians": 30,
+    "pet-stores": 30,
+    "dog-daycare": 3
+   }
+  },
+  "richmond": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/AKQ/46,77/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 18,
+    "veterinarians": 35,
+    "pet-stores": 33,
+    "dog-daycare": 5
+   }
+  },
+  "hartford": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BOX/22,65/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 13,
+    "veterinarians": 27,
+    "pet-stores": 18,
+    "dog-daycare": 2
+   }
+  },
+  "providence": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BOX/64,75/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 9,
+    "veterinarians": 15,
+    "pet-stores": 21,
+    "dog-daycare": 2
+   }
+  },
+  "boise": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BOI/133,86/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 17,
+    "veterinarians": 21,
+    "pet-stores": 16,
+    "dog-daycare": 4
+   }
+  },
+  "spokane": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/OTX/140,90/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 8,
+    "veterinarians": 28,
+    "pet-stores": 17,
+    "dog-daycare": 5
+   }
+  },
+  "des-moines": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/DMX/73,49/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 16,
+    "veterinarians": 28,
+    "pet-stores": 23,
+    "dog-daycare": 4
+   }
+  },
+  "little-rock": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LZK/82,73/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 10,
+    "veterinarians": 10,
+    "pet-stores": 6,
+    "dog-daycare": 0
+   }
+  },
+  "anchorage": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/AER/143,236/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 9,
+    "veterinarians": 12,
+    "pet-stores": 6,
+    "dog-daycare": 2
+   }
+  },
+  "madison": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/MKX/38,64/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 29,
+    "veterinarians": 42,
+    "pet-stores": 21,
+    "dog-daycare": 6
+   }
+  },
+  "grand-rapids": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/GRR/41,47/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 13,
+    "veterinarians": 21,
+    "pet-stores": 16,
+    "dog-daycare": 2
+   }
+  },
+  "charleston": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/CHS/87,77/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 44,
+    "veterinarians": 21,
+    "pet-stores": 8,
+    "dog-daycare": 5
+   }
+  },
+  "savannah": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/CHS/47,41/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 7,
+    "veterinarians": 8,
+    "pet-stores": 8,
+    "dog-daycare": 0
+   }
+  },
+  "birmingham": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BMX/59,84/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 16,
+    "veterinarians": 16,
+    "pet-stores": 7,
+    "dog-daycare": 3
+   }
+  },
+  "rochester": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/BUF/77,65/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 13,
+    "veterinarians": 17,
+    "pet-stores": 13,
+    "dog-daycare": 4
+   }
+  },
+  "fresno": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/HNX/52,100/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 6,
+    "veterinarians": 15,
+    "pet-stores": 9,
+    "dog-daycare": 1
+   }
+  },
+  "reno": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/REV/45,106/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 24,
+    "veterinarians": 15,
+    "pet-stores": 17,
+    "dog-daycare": 0
+   }
+  },
+  "baton-rouge": {
+   "nws": {
+    "hourlyUrl": "https://api.weather.gov/gridpoints/LIX/25,109/forecast/hourly"
+   },
+   "counts": {
+    "dog-parks": 8,
+    "veterinarians": 11,
+    "pet-stores": 3,
+    "dog-daycare": 3
+   }
+  },
+  "london": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 6
+   }
+  },
+  "paris": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 9
+   }
+  },
+  "berlin": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 14
+   }
+  },
+  "madrid": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 6
+   }
+  },
+  "barcelona": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 1
+   }
+  },
+  "rome": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 52,
+    "pet-stores": 60,
+    "dog-daycare": 0
+   }
+  },
+  "milan": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 14
+   }
+  },
+  "amsterdam": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 2
+   }
+  },
+  "dublin": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 20,
+    "veterinarians": 54,
+    "pet-stores": 35,
+    "dog-daycare": 7
+   }
+  },
+  "edinburgh": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 12,
+    "veterinarians": 56,
+    "pet-stores": 35,
+    "dog-daycare": 6
+   }
+  },
+  "toronto": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 18
+   }
+  },
+  "vancouver": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 28
+   }
+  },
+  "montreal": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 58,
+    "pet-stores": 60,
+    "dog-daycare": 1
+   }
+  },
+  "calgary": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 7
+   }
+  },
+  "mexico-city": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 31,
+    "veterinarians": 60,
+    "pet-stores": 53,
+    "dog-daycare": 1
+   }
+  },
+  "sao-paulo": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 42,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 8
+   }
+  },
+  "buenos-aires": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 0
+   }
+  },
+  "sydney": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 48,
+    "dog-daycare": 9
+   }
+  },
+  "melbourne": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 43,
+    "veterinarians": 60,
+    "pet-stores": 60,
+    "dog-daycare": 5
+   }
+  },
+  "brisbane": {
+   "nws": null,
+   "counts": {
+    "dog-parks": 60,
+    "veterinarians": 60,
+    "pet-stores": 35,
+    "dog-daycare": 8
+   }
+  }
+ },
+ "generatedAt": "2026-07-07"
+}

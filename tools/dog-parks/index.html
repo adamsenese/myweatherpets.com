@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dog Park Finder: Map + Today's Park Weather</title>
+  <meta name="description" content="Free dog park finder: enter a US zip code for a map of nearby dog parks with live weather and prep guidance, or browse 100 city guides.">
+  <meta name="author" content="WeatherPets">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://myweatherpets.com/tools/dog-parks/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="WeatherPets">
+  <meta property="og:title" content="Dog Park Finder: Map + Today's Park Weather">
+  <meta property="og:description" content="Free dog park finder: enter a US zip code for a map of nearby dog parks with live weather and prep guidance, or browse 100 city guides.">
+  <meta property="og:url" content="https://myweatherpets.com/tools/dog-parks/">
+  <meta property="og:image" content="https://myweatherpets.com/images/social-share.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="WeatherPets — turn your pet into your weather reporter">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Dog Park Finder: Map + Today's Park Weather">
+  <meta name="twitter:description" content="Free dog park finder: enter a US zip code for a map of nearby dog parks with live weather and prep guidance, or browse 100 city guides.">
+  <meta name="twitter:image" content="https://myweatherpets.com/images/social-share.png">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/images/favicon-512x512.png">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap"></noscript>
+  <link rel="stylesheet" href="/css/style.min.css">
+  <link rel="stylesheet" href="/js/vendor/leaflet/leaflet.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="/js/vendor/leaflet/leaflet.css"></noscript>
+  <script defer data-website-id="dfid_PXPPYXsnF2dcVHr4Xpu0t" data-domain="myweatherpets.com" src="https://datafa.st/js/script.js"></script>
+  <script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://myweatherpets.com/tools/dog-parks/",
+      "url": "https://myweatherpets.com/tools/dog-parks/",
+      "name": "Dog Park Finder: Map + Today's Park Weather",
+      "isPartOf": {
+        "@id": "https://myweatherpets.com/#website"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://myweatherpets.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pet Place Finder",
+          "item": "https://myweatherpets.com/tools/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dog Parks",
+          "item": "https://myweatherpets.com/tools/dog-parks/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I find a fenced dog park near me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Enter your zip code above: listings show a \"Fenced\" chip when OpenStreetMap records fencing for that park. No chip does not always mean no fence, since community data can lag, so verify with the park's official page for dogs who need containment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When is it too hot for the dog park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Above about 82 degrees Fahrenheit most dogs should keep park time short and shaded, and at 90 degrees or higher skip it. Humidity makes everything worse. The live verdict after you search applies those bands to your local right-now conditions, and suggests the best two-hour window today."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the dog park safe after rain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually, but expect mud and check for storm alerts first. Wet parks also concentrate dogs into the dry corners, which raises the tension level. Our verdict flags recent and incoming rain when it builds your day's park window."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where does the park data come from?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "OpenStreetMap, the community-built map of the world, under the ODbL license. Coverage is excellent in most US metros and improves constantly. If your local park is missing, anyone can add it to OpenStreetMap and it will appear here at the next data refresh."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this work outside the United States?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The city pages cover 100 world cities with mapped parks and climate guidance. Live weather verdicts currently use the US National Weather Service, so they are US-only for now, with international live weather coming with our next data upgrade."
+          }
+        }
+      ]
+    }
+  ]
+}
+  </script>
+</head>
+<body data-tool-category="dog-parks" data-lander="1" data-units-default="F">
+
+  <nav class="nav">
+    <div class="container">
+      <a href="/index.html" class="nav-logo"><img src="/images/logo.png" alt="WeatherPets" class="nav-logo-img" width="128" height="128">WeatherPets</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="/index.html">Home</a>
+        <a href="/weather/">Cities</a>
+        <a href="/tools/" class="active">Tools</a>
+        <a href="/blog/index.html">Blog</a>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="/images/app-store-badge.svg" alt="Download WeatherPets on the App Store" class="nav-badge-img" width="120" height="40"></a>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+
+  <section class="cw-page">
+    <div class="container cw-container">
+
+      <a href="/tools/" class="back-to-blog">&larr; All pet place finders</a>
+
+      <div class="tp-hero">
+        <h1>Dog Park Finder: map, distances, and today's park weather</h1>
+        <p class="cw-sub">Enter a zip code for nearby dog parks on a map, live National Weather Service conditions, and an honest verdict on whether today is the day. Built by the WeatherPets news team.</p>
+      </div>
+
+      <!-- Finder widget -->
+      <div class="tp-finder" id="tpFinder">
+        <form class="tp-finder-row" id="tpZipForm">
+          <input type="text" inputmode="numeric" pattern="[0-9]{5}" maxlength="5" id="tpZip" class="blog-search tp-zip" placeholder="Enter your US zip code" aria-label="Zip code">
+          <button type="submit" class="btn-primary tp-go" data-fast-goal="tools-zip-search">Find dog parks</button>
+          <button type="button" class="cw-toggle tp-locate" id="tpLocate" data-fast-goal="tools-geolocate">Use my location</button>
+        </form>
+        <p class="tp-finder-note" id="tpFinderNote">Search works for any US zip code. Live weather comes from the National Weather Service; place data is deepest in our <a href="#cities">100 covered metros</a>.</p>
+      </div>
+
+      <div class="tp-alert" id="tpAlert" hidden></div>
+
+      <!-- Results (client-rendered) -->
+      <div id="tpResults" hidden>
+        <div class="cw-verdict" id="tpVerdictPanel">
+          <h2 id="tpVerdictHeading">Is it dog park weather right now?</h2>
+          <div class="cw-verdict-body">
+            <span class="cw-verdict-pill" id="tpVerdictPill">Checking&hellip;</span>
+            <p class="cw-verdict-reason" id="tpVerdictReason"></p>
+          </div>
+          <p class="tp-window" id="tpWindow"></p>
+          <p class="cw-verdict-note">Verdicts use the same vet-sourced bands as our <a href="/blog/safe-walking-temperature-dogs.html">walking temperature guide</a>.</p>
+        </div>
+        <div class="tp-map" id="tpMap" aria-label="Results map"></div>
+        <p class="tp-map-attrib">Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a></p>
+        <ol class="tp-list" id="tpList"></ol>
+        <p class="tp-source-note" id="tpSourceNote"></p>
+      </div>
+
+      <!-- SEO copy -->
+      <div class="cw-block">
+        <h2>Finding a great dog park (not just a close one)</h2>
+        <p>A good dog park is more than a patch of grass. The features that matter most, and the ones our listings flag when OpenStreetMap has the data: <strong>fencing</strong> (a fully fenced park is non-negotiable for dogs without bulletproof recall), <strong>water</strong> (a fountain or spigot beats a shared communal bowl), <strong>surface</strong> (grass and wood chips are kind to paws; pea gravel drains well after rain; bare dirt turns to mud), and <strong>separate small-dog areas</strong>, which prevent the most common park conflicts.</p>
+        <p>Then there is the part most park finders ignore: <strong>the weather changes the answer</strong>. The perfect park at 8 AM in July is a paw-burn risk by noon. A fenced park with no shade is a different place at 90 degrees than at 70. Rain yesterday means mud today. That is why every search here comes with a live verdict built on the same vet-sourced temperature bands as our <a href="/blog/safe-walking-temperature-dogs.html">walking guide</a>, a best-window recommendation for the day, and storm alerts straight from the National Weather Service.</p>
+        <h2>Dog park etiquette, the short version</h2>
+        <p>Watch your dog, not your phone. Pick up every time. Skip the park if your dog is unwell, unvaccinated, or in heat. Leave the prong collars and harnesses off inside the fence (they snag in play). If your dog is the one making others miserable, be the owner who leaves early. And on hot days, the kindest etiquette of all: go at dawn or after dinner, when the <a href="/blog/hot-pavement-paw-safety.html">pavement has cooled</a> and the park is at its best.</p>
+      </div>
+
+      <!-- City index -->
+      <div class="cw-block" id="cities">
+        <h2>Dog Parks by city</h2>
+        <p>Deep-dive pages with every mapped dog park, distances from downtown, and weather-prep guidance for that city.</p>
+        <div class="blog-filter">
+          <div class="blog-filter-row">
+            <input type="search" id="citySearch" class="blog-search" placeholder="Search covered cities&hellip;" aria-label="Search cities">
+          </div>
+          <p class="blog-filter-count" id="cityFilterCount"></p>
+        </div>
+      <section class="cw-hub-group">
+      <h3 class="cw-hub-region">United States</h3>
+      <div class="blog-grid">
+        <a href="/tools/dog-parks/albuquerque/" class="blog-card cw-city-card" data-search="albuquerque albuquerque, new mexico new mexico">
+          <span class="blog-tag">New Mexico</span>
+          <h2>Albuquerque</h2>
+          <p>23 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/anchorage/" class="blog-card cw-city-card" data-search="anchorage anchorage, alaska alaska">
+          <span class="blog-tag">Alaska</span>
+          <h2>Anchorage</h2>
+          <p>9 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/atlanta/" class="blog-card cw-city-card" data-search="atlanta atlanta, georgia georgia">
+          <span class="blog-tag">Georgia</span>
+          <h2>Atlanta</h2>
+          <p>45 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/austin/" class="blog-card cw-city-card" data-search="austin austin, texas texas">
+          <span class="blog-tag">Texas</span>
+          <h2>Austin</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/baltimore/" class="blog-card cw-city-card" data-search="baltimore baltimore, maryland maryland">
+          <span class="blog-tag">Maryland</span>
+          <h2>Baltimore</h2>
+          <p>56 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/baton-rouge/" class="blog-card cw-city-card" data-search="baton rouge baton rouge, louisiana louisiana">
+          <span class="blog-tag">Louisiana</span>
+          <h2>Baton Rouge</h2>
+          <p>8 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/birmingham/" class="blog-card cw-city-card" data-search="birmingham birmingham, alabama alabama">
+          <span class="blog-tag">Alabama</span>
+          <h2>Birmingham</h2>
+          <p>16 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/boise/" class="blog-card cw-city-card" data-search="boise boise, idaho idaho">
+          <span class="blog-tag">Idaho</span>
+          <h2>Boise</h2>
+          <p>17 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/boston/" class="blog-card cw-city-card" data-search="boston boston, massachusetts massachusetts">
+          <span class="blog-tag">Massachusetts</span>
+          <h2>Boston</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/buffalo/" class="blog-card cw-city-card" data-search="buffalo buffalo, new york new york">
+          <span class="blog-tag">New York</span>
+          <h2>Buffalo</h2>
+          <p>9 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/charleston/" class="blog-card cw-city-card" data-search="charleston charleston, south carolina south carolina">
+          <span class="blog-tag">South Carolina</span>
+          <h2>Charleston</h2>
+          <p>44 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/charlotte/" class="blog-card cw-city-card" data-search="charlotte charlotte, north carolina north carolina">
+          <span class="blog-tag">North Carolina</span>
+          <h2>Charlotte</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/chicago/" class="blog-card cw-city-card" data-search="chicago chicago, illinois illinois">
+          <span class="blog-tag">Illinois</span>
+          <h2>Chicago</h2>
+          <p>58 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/cincinnati/" class="blog-card cw-city-card" data-search="cincinnati cincinnati, ohio ohio">
+          <span class="blog-tag">Ohio</span>
+          <h2>Cincinnati</h2>
+          <p>16 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/cleveland/" class="blog-card cw-city-card" data-search="cleveland cleveland, ohio ohio">
+          <span class="blog-tag">Ohio</span>
+          <h2>Cleveland</h2>
+          <p>17 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/colorado-springs/" class="blog-card cw-city-card" data-search="colorado springs colorado springs, colorado colorado">
+          <span class="blog-tag">Colorado</span>
+          <h2>Colorado Springs</h2>
+          <p>23 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/columbus/" class="blog-card cw-city-card" data-search="columbus columbus, ohio ohio">
+          <span class="blog-tag">Ohio</span>
+          <h2>Columbus</h2>
+          <p>31 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/dallas/" class="blog-card cw-city-card" data-search="dallas dallas, texas texas">
+          <span class="blog-tag">Texas</span>
+          <h2>Dallas</h2>
+          <p>35 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/denver/" class="blog-card cw-city-card" data-search="denver denver, colorado colorado">
+          <span class="blog-tag">Colorado</span>
+          <h2>Denver</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/des-moines/" class="blog-card cw-city-card" data-search="des moines des moines, iowa iowa">
+          <span class="blog-tag">Iowa</span>
+          <h2>Des Moines</h2>
+          <p>16 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/detroit/" class="blog-card cw-city-card" data-search="detroit detroit, michigan michigan">
+          <span class="blog-tag">Michigan</span>
+          <h2>Detroit</h2>
+          <p>23 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/el-paso/" class="blog-card cw-city-card" data-search="el paso el paso, texas texas">
+          <span class="blog-tag">Texas</span>
+          <h2>El Paso</h2>
+          <p>4 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/fresno/" class="blog-card cw-city-card" data-search="fresno fresno, california california">
+          <span class="blog-tag">California</span>
+          <h2>Fresno</h2>
+          <p>6 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/grand-rapids/" class="blog-card cw-city-card" data-search="grand rapids grand rapids, michigan michigan">
+          <span class="blog-tag">Michigan</span>
+          <h2>Grand Rapids</h2>
+          <p>13 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/hartford/" class="blog-card cw-city-card" data-search="hartford hartford, connecticut connecticut">
+          <span class="blog-tag">Connecticut</span>
+          <h2>Hartford</h2>
+          <p>13 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/honolulu/" class="blog-card cw-city-card" data-search="honolulu honolulu, hawaii hawaii">
+          <span class="blog-tag">Hawaii</span>
+          <h2>Honolulu</h2>
+          <p>11 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/houston/" class="blog-card cw-city-card" data-search="houston houston, texas texas">
+          <span class="blog-tag">Texas</span>
+          <h2>Houston</h2>
+          <p>30 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/indianapolis/" class="blog-card cw-city-card" data-search="indianapolis indianapolis, indiana indiana">
+          <span class="blog-tag">Indiana</span>
+          <h2>Indianapolis</h2>
+          <p>16 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/jacksonville/" class="blog-card cw-city-card" data-search="jacksonville jacksonville, florida florida">
+          <span class="blog-tag">Florida</span>
+          <h2>Jacksonville</h2>
+          <p>10 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/kansas-city/" class="blog-card cw-city-card" data-search="kansas city kansas city, missouri missouri">
+          <span class="blog-tag">Missouri</span>
+          <h2>Kansas City</h2>
+          <p>28 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/las-vegas/" class="blog-card cw-city-card" data-search="las vegas las vegas, nevada nevada">
+          <span class="blog-tag">Nevada</span>
+          <h2>Las Vegas</h2>
+          <p>38 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/little-rock/" class="blog-card cw-city-card" data-search="little rock little rock, arkansas arkansas">
+          <span class="blog-tag">Arkansas</span>
+          <h2>Little Rock</h2>
+          <p>10 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/los-angeles/" class="blog-card cw-city-card" data-search="los angeles los angeles, california california">
+          <span class="blog-tag">California</span>
+          <h2>Los Angeles</h2>
+          <p>36 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/louisville/" class="blog-card cw-city-card" data-search="louisville louisville, kentucky kentucky">
+          <span class="blog-tag">Kentucky</span>
+          <h2>Louisville</h2>
+          <p>13 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/madison/" class="blog-card cw-city-card" data-search="madison madison, wisconsin wisconsin">
+          <span class="blog-tag">Wisconsin</span>
+          <h2>Madison</h2>
+          <p>29 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/memphis/" class="blog-card cw-city-card" data-search="memphis memphis, tennessee tennessee">
+          <span class="blog-tag">Tennessee</span>
+          <h2>Memphis</h2>
+          <p>3 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/miami/" class="blog-card cw-city-card" data-search="miami miami, florida florida">
+          <span class="blog-tag">Florida</span>
+          <h2>Miami</h2>
+          <p>24 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/milwaukee/" class="blog-card cw-city-card" data-search="milwaukee milwaukee, wisconsin wisconsin">
+          <span class="blog-tag">Wisconsin</span>
+          <h2>Milwaukee</h2>
+          <p>12 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/minneapolis/" class="blog-card cw-city-card" data-search="minneapolis minneapolis, minnesota minnesota">
+          <span class="blog-tag">Minnesota</span>
+          <h2>Minneapolis</h2>
+          <p>57 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/nashville/" class="blog-card cw-city-card" data-search="nashville nashville, tennessee tennessee">
+          <span class="blog-tag">Tennessee</span>
+          <h2>Nashville</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/new-orleans/" class="blog-card cw-city-card" data-search="new orleans new orleans, louisiana louisiana">
+          <span class="blog-tag">Louisiana</span>
+          <h2>New Orleans</h2>
+          <p>5 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/new-york/" class="blog-card cw-city-card" data-search="new york city new york city, new york new york">
+          <span class="blog-tag">New York</span>
+          <h2>New York City</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/oklahoma-city/" class="blog-card cw-city-card" data-search="oklahoma city oklahoma city, oklahoma oklahoma">
+          <span class="blog-tag">Oklahoma</span>
+          <h2>Oklahoma City</h2>
+          <p>20 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/omaha/" class="blog-card cw-city-card" data-search="omaha omaha, nebraska nebraska">
+          <span class="blog-tag">Nebraska</span>
+          <h2>Omaha</h2>
+          <p>18 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/orlando/" class="blog-card cw-city-card" data-search="orlando orlando, florida florida">
+          <span class="blog-tag">Florida</span>
+          <h2>Orlando</h2>
+          <p>34 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/philadelphia/" class="blog-card cw-city-card" data-search="philadelphia philadelphia, pennsylvania pennsylvania">
+          <span class="blog-tag">Pennsylvania</span>
+          <h2>Philadelphia</h2>
+          <p>40 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/phoenix/" class="blog-card cw-city-card" data-search="phoenix phoenix, arizona arizona">
+          <span class="blog-tag">Arizona</span>
+          <h2>Phoenix</h2>
+          <p>43 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/pittsburgh/" class="blog-card cw-city-card" data-search="pittsburgh pittsburgh, pennsylvania pennsylvania">
+          <span class="blog-tag">Pennsylvania</span>
+          <h2>Pittsburgh</h2>
+          <p>41 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/portland/" class="blog-card cw-city-card" data-search="portland portland, oregon oregon">
+          <span class="blog-tag">Oregon</span>
+          <h2>Portland</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/providence/" class="blog-card cw-city-card" data-search="providence providence, rhode island rhode island">
+          <span class="blog-tag">Rhode Island</span>
+          <h2>Providence</h2>
+          <p>9 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/raleigh/" class="blog-card cw-city-card" data-search="raleigh raleigh, north carolina north carolina">
+          <span class="blog-tag">North Carolina</span>
+          <h2>Raleigh</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/reno/" class="blog-card cw-city-card" data-search="reno reno, nevada nevada">
+          <span class="blog-tag">Nevada</span>
+          <h2>Reno</h2>
+          <p>24 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/richmond/" class="blog-card cw-city-card" data-search="richmond richmond, virginia virginia">
+          <span class="blog-tag">Virginia</span>
+          <h2>Richmond</h2>
+          <p>18 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/rochester/" class="blog-card cw-city-card" data-search="rochester rochester, new york new york">
+          <span class="blog-tag">New York</span>
+          <h2>Rochester</h2>
+          <p>13 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/sacramento/" class="blog-card cw-city-card" data-search="sacramento sacramento, california california">
+          <span class="blog-tag">California</span>
+          <h2>Sacramento</h2>
+          <p>26 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/salt-lake-city/" class="blog-card cw-city-card" data-search="salt lake city salt lake city, utah utah">
+          <span class="blog-tag">Utah</span>
+          <h2>Salt Lake City</h2>
+          <p>20 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/san-antonio/" class="blog-card cw-city-card" data-search="san antonio san antonio, texas texas">
+          <span class="blog-tag">Texas</span>
+          <h2>San Antonio</h2>
+          <p>24 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/san-diego/" class="blog-card cw-city-card" data-search="san diego san diego, california california">
+          <span class="blog-tag">California</span>
+          <h2>San Diego</h2>
+          <p>33 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/san-francisco/" class="blog-card cw-city-card" data-search="san francisco san francisco, california california">
+          <span class="blog-tag">California</span>
+          <h2>San Francisco</h2>
+          <p>58 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/san-jose/" class="blog-card cw-city-card" data-search="san jose san jose, california california">
+          <span class="blog-tag">California</span>
+          <h2>San Jose</h2>
+          <p>50 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/savannah/" class="blog-card cw-city-card" data-search="savannah savannah, georgia georgia">
+          <span class="blog-tag">Georgia</span>
+          <h2>Savannah</h2>
+          <p>7 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/seattle/" class="blog-card cw-city-card" data-search="seattle seattle, washington washington">
+          <span class="blog-tag">Washington</span>
+          <h2>Seattle</h2>
+          <p>56 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/spokane/" class="blog-card cw-city-card" data-search="spokane spokane, washington washington">
+          <span class="blog-tag">Washington</span>
+          <h2>Spokane</h2>
+          <p>8 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/st-louis/" class="blog-card cw-city-card" data-search="st. louis st. louis, missouri missouri">
+          <span class="blog-tag">Missouri</span>
+          <h2>St. Louis</h2>
+          <p>18 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/tampa/" class="blog-card cw-city-card" data-search="tampa tampa, florida florida">
+          <span class="blog-tag">Florida</span>
+          <h2>Tampa</h2>
+          <p>50 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/tucson/" class="blog-card cw-city-card" data-search="tucson tucson, arizona arizona">
+          <span class="blog-tag">Arizona</span>
+          <h2>Tucson</h2>
+          <p>45 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/tulsa/" class="blog-card cw-city-card" data-search="tulsa tulsa, oklahoma oklahoma">
+          <span class="blog-tag">Oklahoma</span>
+          <h2>Tulsa</h2>
+          <p>17 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/virginia-beach/" class="blog-card cw-city-card" data-search="virginia beach virginia beach, virginia virginia">
+          <span class="blog-tag">Virginia</span>
+          <h2>Virginia Beach</h2>
+          <p>6 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/washington-dc/" class="blog-card cw-city-card" data-search="washington, d.c. washington, d.c. district of columbia">
+          <span class="blog-tag">District of Columbia</span>
+          <h2>Washington, D.C.</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/wichita/" class="blog-card cw-city-card" data-search="wichita wichita, kansas kansas">
+          <span class="blog-tag">Kansas</span>
+          <h2>Wichita</h2>
+          <p>12 mapped dog parks</p>
+        </a>
+      </div>
+      </section>
+      <section class="cw-hub-group">
+      <h3 class="cw-hub-region">Canada</h3>
+      <div class="blog-grid">
+        <a href="/tools/dog-parks/calgary/" class="blog-card cw-city-card" data-search="calgary calgary, alberta alberta">
+          <span class="blog-tag">Alberta</span>
+          <h2>Calgary</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/montreal/" class="blog-card cw-city-card" data-search="montreal montreal, quebec quebec">
+          <span class="blog-tag">Quebec</span>
+          <h2>Montreal</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/toronto/" class="blog-card cw-city-card" data-search="toronto toronto, ontario ontario">
+          <span class="blog-tag">Ontario</span>
+          <h2>Toronto</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/vancouver/" class="blog-card cw-city-card" data-search="vancouver vancouver, british columbia british columbia">
+          <span class="blog-tag">British Columbia</span>
+          <h2>Vancouver</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+      </div>
+      </section>
+      <section class="cw-hub-group">
+      <h3 class="cw-hub-region">Europe</h3>
+      <div class="blog-grid">
+        <a href="/tools/dog-parks/amsterdam/" class="blog-card cw-city-card" data-search="amsterdam amsterdam, netherlands netherlands">
+          <span class="blog-tag">Netherlands</span>
+          <h2>Amsterdam</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/barcelona/" class="blog-card cw-city-card" data-search="barcelona barcelona, spain spain">
+          <span class="blog-tag">Spain</span>
+          <h2>Barcelona</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/berlin/" class="blog-card cw-city-card" data-search="berlin berlin, germany germany">
+          <span class="blog-tag">Germany</span>
+          <h2>Berlin</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/copenhagen/" class="blog-card cw-city-card" data-search="copenhagen copenhagen, denmark denmark">
+          <span class="blog-tag">Denmark</span>
+          <h2>Copenhagen</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/dublin/" class="blog-card cw-city-card" data-search="dublin dublin, ireland ireland">
+          <span class="blog-tag">Ireland</span>
+          <h2>Dublin</h2>
+          <p>20 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/edinburgh/" class="blog-card cw-city-card" data-search="edinburgh edinburgh, united kingdom united kingdom">
+          <span class="blog-tag">United Kingdom</span>
+          <h2>Edinburgh</h2>
+          <p>12 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/london/" class="blog-card cw-city-card" data-search="london london, united kingdom united kingdom">
+          <span class="blog-tag">United Kingdom</span>
+          <h2>London</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/madrid/" class="blog-card cw-city-card" data-search="madrid madrid, spain spain">
+          <span class="blog-tag">Spain</span>
+          <h2>Madrid</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/milan/" class="blog-card cw-city-card" data-search="milan milan, italy italy">
+          <span class="blog-tag">Italy</span>
+          <h2>Milan</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/paris/" class="blog-card cw-city-card" data-search="paris paris, france france">
+          <span class="blog-tag">France</span>
+          <h2>Paris</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/rome/" class="blog-card cw-city-card" data-search="rome rome, italy italy">
+          <span class="blog-tag">Italy</span>
+          <h2>Rome</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/stockholm/" class="blog-card cw-city-card" data-search="stockholm stockholm, sweden sweden">
+          <span class="blog-tag">Sweden</span>
+          <h2>Stockholm</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+      </div>
+      </section>
+      <section class="cw-hub-group">
+      <h3 class="cw-hub-region">Asia &amp; Middle East</h3>
+      <div class="blog-grid">
+        <a href="/tools/dog-parks/bangkok/" class="blog-card cw-city-card" data-search="bangkok bangkok, thailand thailand">
+          <span class="blog-tag">Thailand</span>
+          <h2>Bangkok</h2>
+          <p>9 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/dubai/" class="blog-card cw-city-card" data-search="dubai dubai, united arab emirates united arab emirates">
+          <span class="blog-tag">United Arab Emirates</span>
+          <h2>Dubai</h2>
+          <p>10 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/hong-kong/" class="blog-card cw-city-card" data-search="hong kong hong kong hong kong">
+          <span class="blog-tag">Hong Kong</span>
+          <h2>Hong Kong</h2>
+          <p>33 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/osaka/" class="blog-card cw-city-card" data-search="osaka osaka, japan japan">
+          <span class="blog-tag">Japan</span>
+          <h2>Osaka</h2>
+          <p>15 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/seoul/" class="blog-card cw-city-card" data-search="seoul seoul, south korea south korea">
+          <span class="blog-tag">South Korea</span>
+          <h2>Seoul</h2>
+          <p>8 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/singapore/" class="blog-card cw-city-card" data-search="singapore singapore singapore">
+          <span class="blog-tag">Singapore</span>
+          <h2>Singapore</h2>
+          <p>29 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/tokyo/" class="blog-card cw-city-card" data-search="tokyo tokyo, japan japan">
+          <span class="blog-tag">Japan</span>
+          <h2>Tokyo</h2>
+          <p>24 mapped dog parks</p>
+        </a>
+      </div>
+      </section>
+      <section class="cw-hub-group">
+      <h3 class="cw-hub-region">Latin America</h3>
+      <div class="blog-grid">
+        <a href="/tools/dog-parks/buenos-aires/" class="blog-card cw-city-card" data-search="buenos aires buenos aires, argentina argentina">
+          <span class="blog-tag">Argentina</span>
+          <h2>Buenos Aires</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/mexico-city/" class="blog-card cw-city-card" data-search="mexico city mexico city, mexico mexico">
+          <span class="blog-tag">Mexico</span>
+          <h2>Mexico City</h2>
+          <p>31 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/sao-paulo/" class="blog-card cw-city-card" data-search="são paulo são paulo, brazil brazil">
+          <span class="blog-tag">Brazil</span>
+          <h2>São Paulo</h2>
+          <p>42 mapped dog parks</p>
+        </a>
+      </div>
+      </section>
+      <section class="cw-hub-group">
+      <h3 class="cw-hub-region">Oceania</h3>
+      <div class="blog-grid">
+        <a href="/tools/dog-parks/auckland/" class="blog-card cw-city-card" data-search="auckland auckland, new zealand new zealand">
+          <span class="blog-tag">New Zealand</span>
+          <h2>Auckland</h2>
+          <p>15 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/brisbane/" class="blog-card cw-city-card" data-search="brisbane brisbane, australia queensland">
+          <span class="blog-tag">Queensland</span>
+          <h2>Brisbane</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/melbourne/" class="blog-card cw-city-card" data-search="melbourne melbourne, australia victoria">
+          <span class="blog-tag">Victoria</span>
+          <h2>Melbourne</h2>
+          <p>43 mapped dog parks</p>
+        </a>
+        <a href="/tools/dog-parks/sydney/" class="blog-card cw-city-card" data-search="sydney sydney, australia new south wales">
+          <span class="blog-tag">New South Wales</span>
+          <h2>Sydney</h2>
+          <p>60 mapped dog parks</p>
+        </a>
+      </div>
+      </section>
+
+      </div>
+
+      <!-- FAQ -->
+      <div class="cw-block">
+        <h2 id="faq">Dog Parks questions</h2>
+        <div class="faq-list">
+          <div class="faq-item">
+            <button class="faq-question"><span>How do I find a fenced dog park near me?</span><span class="faq-icon">+</span></button>
+            <div class="faq-answer"><div class="faq-answer-inner">Enter your zip code above: listings show a &quot;Fenced&quot; chip when OpenStreetMap records fencing for that park. No chip does not always mean no fence, since community data can lag, so verify with the park's official page for dogs who need containment.</div></div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-question"><span>When is it too hot for the dog park?</span><span class="faq-icon">+</span></button>
+            <div class="faq-answer"><div class="faq-answer-inner">Above about 82 degrees Fahrenheit most dogs should keep park time short and shaded, and at 90 degrees or higher skip it. Humidity makes everything worse. The live verdict after you search applies those bands to your local right-now conditions, and suggests the best two-hour window today.</div></div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-question"><span>Is the dog park safe after rain?</span><span class="faq-icon">+</span></button>
+            <div class="faq-answer"><div class="faq-answer-inner">Usually, but expect mud and check for storm alerts first. Wet parks also concentrate dogs into the dry corners, which raises the tension level. Our verdict flags recent and incoming rain when it builds your day's park window.</div></div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-question"><span>Where does the park data come from?</span><span class="faq-icon">+</span></button>
+            <div class="faq-answer"><div class="faq-answer-inner">OpenStreetMap, the community-built map of the world, under the ODbL license. Coverage is excellent in most US metros and improves constantly. If your local park is missing, anyone can add it to OpenStreetMap and it will appear here at the next data refresh.</div></div>
+          </div>
+          <div class="faq-item">
+            <button class="faq-question"><span>Does this work outside the United States?</span><span class="faq-icon">+</span></button>
+            <div class="faq-answer"><div class="faq-answer-inner">The city pages cover 100 world cities with mapped parks and climate guidance. Live weather verdicts currently use the US National Weather Service, so they are US-only for now, with international live weather coming with our next data upgrade.</div></div>
+          </div>
+        </div>
+      </div>
+
+      <p class="tp-disclaimer">Place data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> (ODbL). Coverage varies; always call ahead. Weather guidance is general care information, not veterinary advice.</p>
+
+      <div class="app-cta cw-app-cta">
+        <div class="app-cta-head">
+          <span class="app-cta-eyebrow">WeatherPets for iPhone</span>
+          <h3>The park report, starring your own pet.</h3>
+          <p class="cw-cta-sub">WeatherPets turns your dog or cat into your personal weather reporter: AI scenes, morning briefings, and home screen widgets with real forecasts.</p>
+        </div>
+        <a class="app-cta-button" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" data-fast-goal="tools-app-cta"><img src="/images/app-store-badge.svg" alt="Download WeatherPets on the App Store" width="120" height="40"></a>
+      </div>
+
+      
+
+    </div>
+  </section>
+
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="nav-logo"><img src="/images/logo.png" alt="WeatherPets" class="nav-logo-img" width="128" height="128">WeatherPets</div>
+          <p>AI-powered weather scenes featuring your real pet. Available on iOS.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Product</h4>
+          <a href="/index.html">Home</a>
+          <a href="/weather/">City Weather</a>
+          <a href="/tools/">Pet Place Finder</a>
+          <a href="/blog/index.html">Blog</a>
+          <a href="/faq.html">FAQ</a>
+          <a href="/about.html">About</a>
+        </div>
+        <div class="footer-col">
+          <h4>Legal</h4>
+          <a href="/terms.html">Terms of Use</a>
+          <a href="/privacy.html">Privacy Policy</a>
+          <a href="/support.html">Contact</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2026 WeatherPets. All rights reserved.</span>
+        <a href="/support.html">Contact Support</a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="application/json" id="tpCityIndex">[{"slug":"chicago","name":"Chicago","lat":41.8781,"lon":-87.6298,"count":58,"us":true},{"slug":"new-york","name":"New York City","lat":40.7128,"lon":-74.006,"count":60,"us":true},{"slug":"los-angeles","name":"Los Angeles","lat":34.0522,"lon":-118.2437,"count":36,"us":true},{"slug":"houston","name":"Houston","lat":29.7604,"lon":-95.3698,"count":30,"us":true},{"slug":"phoenix","name":"Phoenix","lat":33.4484,"lon":-112.074,"count":43,"us":true},{"slug":"philadelphia","name":"Philadelphia","lat":39.9526,"lon":-75.1652,"count":40,"us":true},{"slug":"san-antonio","name":"San Antonio","lat":29.4241,"lon":-98.4936,"count":24,"us":true},{"slug":"san-diego","name":"San Diego","lat":32.7157,"lon":-117.1611,"count":33,"us":true},{"slug":"dallas","name":"Dallas","lat":32.7767,"lon":-96.797,"count":35,"us":true},{"slug":"austin","name":"Austin","lat":30.2672,"lon":-97.7431,"count":60,"us":true},{"slug":"jacksonville","name":"Jacksonville","lat":30.3322,"lon":-81.6557,"count":10,"us":true},{"slug":"auckland","name":"Auckland","lat":-36.8485,"lon":174.7633,"count":15,"us":false},{"slug":"tokyo","name":"Tokyo","lat":35.6895,"lon":139.6917,"count":24,"us":false},{"slug":"osaka","name":"Osaka","lat":34.6937,"lon":135.5023,"count":15,"us":false},{"slug":"seoul","name":"Seoul","lat":37.5665,"lon":126.978,"count":8,"us":false},{"slug":"singapore","name":"Singapore","lat":1.3521,"lon":103.8198,"count":29,"us":false},{"slug":"hong-kong","name":"Hong Kong","lat":22.3193,"lon":114.1694,"count":33,"us":false},{"slug":"bangkok","name":"Bangkok","lat":13.7563,"lon":100.5018,"count":9,"us":false},{"slug":"dubai","name":"Dubai","lat":25.2048,"lon":55.2708,"count":10,"us":false},{"slug":"stockholm","name":"Stockholm","lat":59.3293,"lon":18.0686,"count":60,"us":false},{"slug":"copenhagen","name":"Copenhagen","lat":55.6761,"lon":12.5683,"count":60,"us":false},{"slug":"columbus","name":"Columbus","lat":39.9612,"lon":-82.9988,"count":31,"us":true},{"slug":"charlotte","name":"Charlotte","lat":35.2271,"lon":-80.8431,"count":60,"us":true},{"slug":"san-francisco","name":"San Francisco","lat":37.7749,"lon":-122.4194,"count":58,"us":true},{"slug":"indianapolis","name":"Indianapolis","lat":39.7684,"lon":-86.1581,"count":16,"us":true},{"slug":"seattle","name":"Seattle","lat":47.6062,"lon":-122.3321,"count":56,"us":true},{"slug":"denver","name":"Denver","lat":39.7392,"lon":-104.9903,"count":60,"us":true},{"slug":"washington-dc","name":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"count":60,"us":true},{"slug":"boston","name":"Boston","lat":42.3601,"lon":-71.0589,"count":60,"us":true},{"slug":"nashville","name":"Nashville","lat":36.1627,"lon":-86.7816,"count":60,"us":true},{"slug":"el-paso","name":"El Paso","lat":31.7619,"lon":-106.485,"count":4,"us":true},{"slug":"detroit","name":"Detroit","lat":42.3314,"lon":-83.0458,"count":23,"us":true},{"slug":"oklahoma-city","name":"Oklahoma City","lat":35.4676,"lon":-97.5164,"count":20,"us":true},{"slug":"portland","name":"Portland","lat":45.5152,"lon":-122.6784,"count":60,"us":true},{"slug":"las-vegas","name":"Las Vegas","lat":36.1699,"lon":-115.1398,"count":38,"us":true},{"slug":"memphis","name":"Memphis","lat":35.1495,"lon":-90.049,"count":3,"us":true},{"slug":"louisville","name":"Louisville","lat":38.2527,"lon":-85.7585,"count":13,"us":true},{"slug":"baltimore","name":"Baltimore","lat":39.2904,"lon":-76.6122,"count":56,"us":true},{"slug":"milwaukee","name":"Milwaukee","lat":43.0389,"lon":-87.9065,"count":12,"us":true},{"slug":"albuquerque","name":"Albuquerque","lat":35.0844,"lon":-106.6504,"count":23,"us":true},{"slug":"tucson","name":"Tucson","lat":32.2226,"lon":-110.9747,"count":45,"us":true},{"slug":"sacramento","name":"Sacramento","lat":38.5816,"lon":-121.4944,"count":26,"us":true},{"slug":"kansas-city","name":"Kansas City","lat":39.0997,"lon":-94.5786,"count":28,"us":true},{"slug":"atlanta","name":"Atlanta","lat":33.749,"lon":-84.388,"count":45,"us":true},{"slug":"miami","name":"Miami","lat":25.7617,"lon":-80.1918,"count":24,"us":true},{"slug":"colorado-springs","name":"Colorado Springs","lat":38.8339,"lon":-104.8214,"count":23,"us":true},{"slug":"raleigh","name":"Raleigh","lat":35.7796,"lon":-78.6382,"count":60,"us":true},{"slug":"omaha","name":"Omaha","lat":41.2565,"lon":-95.9345,"count":18,"us":true},{"slug":"virginia-beach","name":"Virginia Beach","lat":36.8529,"lon":-75.978,"count":6,"us":true},{"slug":"minneapolis","name":"Minneapolis","lat":44.9778,"lon":-93.265,"count":57,"us":true},{"slug":"tampa","name":"Tampa","lat":27.9506,"lon":-82.4572,"count":50,"us":true},{"slug":"tulsa","name":"Tulsa","lat":36.154,"lon":-95.9928,"count":17,"us":true},{"slug":"new-orleans","name":"New Orleans","lat":29.9511,"lon":-90.0715,"count":5,"us":true},{"slug":"wichita","name":"Wichita","lat":37.6872,"lon":-97.3301,"count":12,"us":true},{"slug":"cleveland","name":"Cleveland","lat":41.4993,"lon":-81.6944,"count":17,"us":true},{"slug":"honolulu","name":"Honolulu","lat":21.3069,"lon":-157.8583,"count":11,"us":true},{"slug":"cincinnati","name":"Cincinnati","lat":39.1031,"lon":-84.512,"count":16,"us":true},{"slug":"pittsburgh","name":"Pittsburgh","lat":40.4406,"lon":-79.9959,"count":41,"us":true},{"slug":"st-louis","name":"St. Louis","lat":38.627,"lon":-90.1994,"count":18,"us":true},{"slug":"orlando","name":"Orlando","lat":28.5384,"lon":-81.3789,"count":34,"us":true},{"slug":"salt-lake-city","name":"Salt Lake City","lat":40.7608,"lon":-111.8911,"count":20,"us":true},{"slug":"san-jose","name":"San Jose","lat":37.3382,"lon":-121.8863,"count":50,"us":true},{"slug":"buffalo","name":"Buffalo","lat":42.8864,"lon":-78.8784,"count":9,"us":true},{"slug":"richmond","name":"Richmond","lat":37.5407,"lon":-77.436,"count":18,"us":true},{"slug":"hartford","name":"Hartford","lat":41.7658,"lon":-72.6734,"count":13,"us":true},{"slug":"providence","name":"Providence","lat":41.824,"lon":-71.4128,"count":9,"us":true},{"slug":"boise","name":"Boise","lat":43.615,"lon":-116.2023,"count":17,"us":true},{"slug":"spokane","name":"Spokane","lat":47.6588,"lon":-117.426,"count":8,"us":true},{"slug":"des-moines","name":"Des Moines","lat":41.5868,"lon":-93.625,"count":16,"us":true},{"slug":"little-rock","name":"Little Rock","lat":34.7465,"lon":-92.2896,"count":10,"us":true},{"slug":"anchorage","name":"Anchorage","lat":61.2181,"lon":-149.9003,"count":9,"us":true},{"slug":"madison","name":"Madison","lat":43.0731,"lon":-89.4012,"count":29,"us":true},{"slug":"grand-rapids","name":"Grand Rapids","lat":42.9634,"lon":-85.6681,"count":13,"us":true},{"slug":"charleston","name":"Charleston","lat":32.7765,"lon":-79.9311,"count":44,"us":true},{"slug":"savannah","name":"Savannah","lat":32.0809,"lon":-81.0912,"count":7,"us":true},{"slug":"birmingham","name":"Birmingham","lat":33.5186,"lon":-86.8104,"count":16,"us":true},{"slug":"rochester","name":"Rochester","lat":43.1566,"lon":-77.6088,"count":13,"us":true},{"slug":"fresno","name":"Fresno","lat":36.7378,"lon":-119.7871,"count":6,"us":true},{"slug":"reno","name":"Reno","lat":39.5296,"lon":-119.8138,"count":24,"us":true},{"slug":"baton-rouge","name":"Baton Rouge","lat":30.4515,"lon":-91.1871,"count":8,"us":true},{"slug":"london","name":"London","lat":51.5074,"lon":-0.1278,"count":60,"us":false},{"slug":"paris","name":"Paris","lat":48.8566,"lon":2.3522,"count":60,"us":false},{"slug":"berlin","name":"Berlin","lat":52.52,"lon":13.405,"count":60,"us":false},{"slug":"madrid","name":"Madrid","lat":40.4168,"lon":-3.7038,"count":60,"us":false},{"slug":"barcelona","name":"Barcelona","lat":41.3874,"lon":2.1686,"count":60,"us":false},{"slug":"rome","name":"Rome","lat":41.9028,"lon":12.4964,"count":60,"us":false},{"slug":"milan","name":"Milan","lat":45.4642,"lon":9.19,"count":60,"us":false},{"slug":"amsterdam","name":"Amsterdam","lat":52.3676,"lon":4.9041,"count":60,"us":false},{"slug":"dublin","name":"Dublin","lat":53.3498,"lon":-6.2603,"count":20,"us":false},{"slug":"edinburgh","name":"Edinburgh","lat":55.9533,"lon":-3.1883,"count":12,"us":false},{"slug":"toronto","name":"Toronto","lat":43.6532,"lon":-79.3832,"count":60,"us":false},{"slug":"vancouver","name":"Vancouver","lat":49.2827,"lon":-123.1207,"count":60,"us":false},{"slug":"montreal","name":"Montreal","lat":45.5019,"lon":-73.5674,"count":60,"us":false},{"slug":"calgary","name":"Calgary","lat":51.0447,"lon":-114.0719,"count":60,"us":false},{"slug":"mexico-city","name":"Mexico City","lat":19.4326,"lon":-99.1332,"count":31,"us":false},{"slug":"sao-paulo","name":"São Paulo","lat":-23.5505,"lon":-46.6333,"count":42,"us":false},{"slug":"buenos-aires","name":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"count":60,"us":false},{"slug":"sydney","name":"Sydney","lat":-33.8688,"lon":151.2093,"count":60,"us":false},{"slug":"melbourne","name":"Melbourne","lat":-37.8136,"lon":144.9631,"count":43,"us":false},{"slug":"brisbane","name":"Brisbane","lat":-27.4698,"lon":153.0251,"count":60,"us":false}]</script>
+  <script src="/js/vendor/leaflet/leaflet.js" defer></script>
+  <script src="/js/main.min.js" defer></script>
+  <script src="/js/tools-page.min.js" defer></script>
+</body>
+</html>

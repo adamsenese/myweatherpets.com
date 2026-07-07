@@ -1,0 +1,85 @@
+{
+ "$schemaVersion": 1,
+ "city": "pittsburgh",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:32:16.503Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/6073629872",
+   "name": "The Dog Stop",
+   "lat": 40.4552116,
+   "lon": -79.9795677,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/647474550",
+   "name": "Bow-Wow Doggie Day Care",
+   "lat": 40.4562387,
+   "lon": -79.9761108,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/537805798",
+   "name": "Camp Bow Wow",
+   "lat": 40.4144702,
+   "lon": -80.063687,
+   "distKm": 6.4,
+   "address": "710 Trumbull Drive, Pittsburgh, PA 15205",
+   "tags": {
+    "phone": "+1 412-775-2611",
+    "website": "https://www.campbowwow.com/pittsburgh-southwest/",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa 07:00-19:00; Su 07:00-10:00,16:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9108538076",
+   "name": "Camp Bow Wow",
+   "lat": 40.4684852,
+   "lon": -79.9091557,
+   "distKm": 8,
+   "address": "1325 Washington Boulevard, Pittsburgh, PA 15206",
+   "tags": {
+    "phone": "+1-412-362-7529",
+    "website": "https://www.campbowwow.com/pittsburgh-highland-park/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13739510691",
+   "name": "Pittsburgh Pet Concierge",
+   "lat": 40.4399002,
+   "lon": -79.7949572,
+   "distKm": 17,
+   "address": "227 Loretta Drive, Monroeville, PA 15146",
+   "tags": {
+    "phone": "+1-412-856-8505",
+    "website": "https://www.pghpetconcierge.com",
+    "opening_hours": "\"by appointment\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1204424906",
+   "name": "The Dog Stop",
+   "lat": 40.4437839,
+   "lon": -79.7696625,
+   "distKm": 19.1,
+   "address": "4375 Old William Penn Highway, Monroeville, PA 15146",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

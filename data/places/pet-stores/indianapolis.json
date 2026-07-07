@@ -1,0 +1,260 @@
+{
+ "$schemaVersion": 1,
+ "city": "indianapolis",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:25:43.102Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 22,
+ "places": [
+  {
+   "id": "node/12556961070",
+   "name": "Three Dog Bakery",
+   "lat": 39.7734402,
+   "lon": -86.1515453,
+   "distKm": 0.8,
+   "address": "444 Massachusetts Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/9538254036",
+   "name": "City Dogs Grocery",
+   "lat": 39.7534251,
+   "lon": -86.1410647,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1038087162",
+   "name": "My Pet Carnivore Food Inc",
+   "lat": 39.7485556,
+   "lon": -86.1401992,
+   "distKm": 2.7,
+   "address": "1402 Shelby Street, Indianapolis, IN 46203",
+   "tags": {}
+  },
+  {
+   "id": "node/6243676992",
+   "name": "Midwest Exotic Fish",
+   "lat": 39.7216356,
+   "lon": -86.0841796,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/624025969",
+   "name": "Animal House",
+   "lat": 39.7877068,
+   "lon": -86.2503832,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 10:00-20:00, Fr-Sa 10:00-21:00, Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/699397609",
+   "name": "Backyard Birds",
+   "lat": 39.8517177,
+   "lon": -86.1232523,
+   "distKm": 9.7,
+   "address": "2376 East 54th Street, Indianapolis, IN 46220",
+   "tags": {}
+  },
+  {
+   "id": "node/10882597067",
+   "name": "Pet Supplies Plus",
+   "lat": 39.8690951,
+   "lon": -86.1242018,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11975131076",
+   "name": "PetSmart",
+   "lat": 39.6531602,
+   "lon": -86.1360312,
+   "distKm": 13,
+   "address": "7801 Highway 31 South, Indianapolis, IN 46227",
+   "tags": {
+    "phone": "+1 317-865-3509",
+    "website": "https://www.petsmart.com/stores/us/in/indianapolis-store1065.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3479288294",
+   "name": "Petco",
+   "lat": 39.886243,
+   "lon": -86.120937,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4990177745",
+   "name": "PetSmart",
+   "lat": 39.7729649,
+   "lon": -85.9937396,
+   "distKm": 14.1,
+   "address": "9749 East Washington Street, Indianapolis, IN 46229",
+   "tags": {
+    "phone": "+1 317-898-3197",
+    "website": "https://www.petsmart.com/stores/us/in/indianapolis-store0514.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10302235219",
+   "name": "The Pet stylist LLC",
+   "lat": 39.6405657,
+   "lon": -86.1082107,
+   "distKm": 14.8,
+   "address": "8640 Pleasant Creek Court, Indianapolis, IN 46227",
+   "tags": {
+    "phone": "+1-317-444-9403",
+    "website": "https://thepetstylistllc.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00, Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/7653100374",
+   "name": "PetSmart",
+   "lat": 39.7622172,
+   "lon": -86.3321201,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2700663979",
+   "name": "PetSmart",
+   "lat": 39.9040884,
+   "lon": -86.081491,
+   "distKm": 16.4,
+   "address": "5151 East 82nd Street, Indianapolis, IN 46250",
+   "tags": {
+    "phone": "+1 317-579-0590",
+    "website": "http://stores.petsmart.com/Store/Details/510",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12745632500",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.9093589,
+   "lon": -86.0985411,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/12015412477",
+   "name": "Happiness is Pets.",
+   "lat": 39.904644,
+   "lon": -86.0668579,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13384444541",
+   "name": "Bird Fever",
+   "lat": 39.9115539,
+   "lon": -86.0680198,
+   "distKm": 17.7,
+   "address": "5921 East 86th Street",
+   "tags": {
+    "phone": "+1-317-845-7823",
+    "website": "http://www.birdfever.com/"
+   }
+  },
+  {
+   "id": "node/11396234003",
+   "name": "PetSmart",
+   "lat": 39.716571,
+   "lon": -86.3544664,
+   "distKm": 17.8,
+   "address": "2677 East Main Street, Plainfield, IN 46168",
+   "tags": {
+    "phone": "+1 317-837-9138",
+    "website": "https://www.petsmart.com/stores/us/in/plainfield-store0509.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5216696238",
+   "name": "PetPeople",
+   "lat": 39.6044306,
+   "lon": -86.1578894,
+   "distKm": 18.2,
+   "address": "Greenwood, IN",
+   "tags": {
+    "brand": "PetPeople"
+   }
+  },
+  {
+   "id": "node/3251571679",
+   "name": "PetSmart",
+   "lat": 39.9133374,
+   "lon": -86.2622254,
+   "distKm": 18.4,
+   "address": "5750 West 86th Street, Indianapolis, IN 46278",
+   "tags": {
+    "phone": "+1 317-802-9025",
+    "website": "https://www.petsmart.com/stores/us/in/indianapolis-store1475.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4968693770",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.9293969,
+   "lon": -86.2316901,
+   "distKm": 19,
+   "address": "9830 North Michigan Road, Carmel, IN 46032",
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/4968693777",
+   "name": "Platinum Paws",
+   "lat": 39.9306553,
+   "lon": -86.2323521,
+   "distKm": 19.1,
+   "address": "9860 North Michigan Road, Carmel, IN 46032",
+   "tags": {}
+  },
+  {
+   "id": "node/4916990743",
+   "name": "Petco",
+   "lat": 39.9343665,
+   "lon": -86.2304405,
+   "distKm": 19.5,
+   "address": "10025 North Michigan Road, Carmel, IN 46032",
+   "tags": {
+    "phone": "+1 317-337-9505",
+    "website": "https://stores.petco.com/in/carmel/pet-supplies-carmel-in-1648.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "$schemaVersion": 1,
+ "city": "dallas",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:22:22.800Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "node/11247505785",
+   "name": "BB & Co Dog Boutique",
+   "lat": 32.7771248,
+   "lon": -96.7891514,
+   "distKm": 0.7,
+   "address": "1011 South Pearl Expressway, Dallas, TX 75201",
+   "tags": {
+    "website": "https://www.bbandco-dogboutique.com/"
+   }
+  },
+  {
+   "id": "node/10208081955",
+   "name": "The Upper Paw",
+   "lat": 32.7834427,
+   "lon": -96.7829394,
+   "distKm": 1.5,
+   "address": "2809 Commerce Street, Dallas, TX 75226",
+   "tags": {
+    "phone": "+1 214-760-9991",
+    "website": "https://www.pointy.com/shops/usa/texas/dallas/the-upper-paw",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/9922520607",
+   "name": "Pet Supplies Plus",
+   "lat": 32.8105746,
+   "lon": -96.8195369,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/1569761367",
+   "name": "Green Pet",
+   "lat": 32.747778,
+   "lon": -96.8284905,
+   "distKm": 4.4,
+   "address": "315 North Bishop Avenue, Dallas, TX 75208",
+   "tags": {}
+  },
+  {
+   "id": "way/463908425",
+   "name": "Pet Supplies Plus",
+   "lat": 32.8114649,
+   "lon": -96.7698448,
+   "distKm": 4.6,
+   "address": "1704 Greenville Avenue",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13714331708",
+   "name": "DFW Reptile",
+   "lat": 32.7220803,
+   "lon": -96.8376955,
+   "distKm": 7.2,
+   "address": "2410 South Tyler Street, Dallas, TX 75224-1760",
+   "tags": {
+    "phone": "+1-717-521-8855",
+    "website": "https://www.dfwreptileco.com/",
+    "opening_hours": "Tu-We 17:00-21:00; Sa 10:00-15:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/5170071241",
+   "name": "PetSmart",
+   "lat": 32.8128,
+   "lon": -96.7301509,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Su 09:00-19:00; Mo-Sa 09:00-21:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8023055253",
+   "name": "Pet Supplies Plus",
+   "lat": 32.8362328,
+   "lon": -96.7622969,
+   "distKm": 7.4,
+   "address": "6060 East Mockingbird Lane, Dallas, TX 75206",
+   "tags": {
+    "phone": "+1 214-827-1248",
+    "website": "https://www.petsuppliesplus.com/store/tx/dallas/7002-dallas---mockingbird-ln/7002",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/2918076043",
+   "name": "Petco",
+   "lat": 32.8508707,
+   "lon": -96.8092099,
+   "distKm": 8.3,
+   "address": "4325 Lovers Lane, Dallas, TX 75225",
+   "tags": {
+    "phone": "+1 214-522-4893",
+    "website": "https://stores.petco.com/tx/dallas/pet-supplies-dallas-tx-426.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/463968647",
+   "name": "PetSmart",
+   "lat": 32.8545776,
+   "lon": -96.7684441,
+   "distKm": 9.1,
+   "address": "5500 Greenville Avenue",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1160794207",
+   "name": "Lucky Dog Barkery",
+   "lat": 32.8640347,
+   "lon": -96.8025701,
+   "distKm": 9.7,
+   "address": "8320 Preston Center Plaza, Dallas, TX 75225",
+   "tags": {
+    "phone": "+12143686000"
+   }
+  },
+  {
+   "id": "node/8022938880",
+   "name": "Petco",
+   "lat": 32.8349486,
+   "lon": -96.7014715,
+   "distKm": 11,
+   "address": "1152 North Buckner Boulevard, Dallas, TX 75218",
+   "tags": {
+    "phone": "+1 214-320-9116",
+    "website": "https://stores.petco.com/tx/dallas/pet-supplies-dallas-tx-440.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7920608609",
+   "name": "Hollyweed Feed",
+   "lat": 32.8766687,
+   "lon": -96.7335779,
+   "distKm": 12.6,
+   "address": "7150 Skillman Street, 75231",
+   "tags": {
+    "phone": "+1 469-453-6247",
+    "website": "https://locations.hollywoodfeed.com/tx/dallas/7150-skillman-st.html",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/13415662238",
+   "name": "Hollywood Feed",
+   "lat": 32.8934649,
+   "lon": -96.8032434,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13982316651",
+   "name": "Petco",
+   "lat": 32.8653201,
+   "lon": -96.7020867,
+   "distKm": 13.3,
+   "address": "10675 East Northwest Highway",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13991760355",
+   "name": "Pet Supplies Plus",
+   "lat": 32.8358993,
+   "lon": -96.6729419,
+   "distKm": 13.3,
+   "address": "2461 Gus Thomasson Road",
+   "tags": {
+    "website": "https://www.petsuppliesplus.com/store/tx/dallas/4234",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/631629361",
+   "name": "PetSmart",
+   "lat": 32.9130467,
+   "lon": -96.8168926,
+   "distKm": 15.3,
+   "address": "12100 Inwood Road, Dallas, TX 75244",
+   "tags": {
+    "phone": "+1 972-239-3554",
+    "website": "https://www.petsmart.com/stores/us/tx/dallas-store0622.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4349841650",
+   "name": "PetSmart",
+   "lat": 32.6492664,
+   "lon": -96.8606017,
+   "distKm": 15.4,
+   "address": "2525 West Wheatland Road, Dallas, TX 75237",
+   "tags": {
+    "phone": "+1 972-656-2352",
+    "website": "https://www.petsmart.com/stores/us/tx/dallas-store2133.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/467278854",
+   "name": "Professional Grooming Corner",
+   "lat": 32.6703749,
+   "lon": -96.9081109,
+   "distKm": 15.7,
+   "address": "1214 Duncanville Road",
+   "tags": {}
+  },
+  {
+   "id": "way/467534820",
+   "name": "Pet Supplies Plus",
+   "lat": 32.910047,
+   "lon": -96.8554716,
+   "distKm": 15.8,
+   "address": "3717 Forest Lane",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/677099684",
+   "name": "PetSmart",
+   "lat": 32.7945011,
+   "lon": -96.6279545,
+   "distKm": 15.9,
+   "address": "19175 Lyndon B Johnson Freeway, Mesquite, TX 75150",
+   "tags": {
+    "phone": "+1 972-686-3990",
+    "website": "https://www.petsmart.com/stores/us/tx/mesquite-store1775.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/565486356",
+   "name": "Saltwater Paradise",
+   "lat": 32.837637,
+   "lon": -96.9633036,
+   "distKm": 17,
+   "address": "1313 West Airport Freeway, Irving, TX 75062",
+   "tags": {}
+  },
+  {
+   "id": "node/10257527309",
+   "name": "Pet Supplies Plus",
+   "lat": 32.8628235,
+   "lon": -96.643631,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/467278720",
+   "name": "Pet Village",
+   "lat": 32.6527742,
+   "lon": -96.9080336,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13846483996",
+   "name": "Petco",
+   "lat": 32.8610492,
+   "lon": -96.9581106,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13659230211",
+   "name": "The Serpentarium",
+   "lat": 32.944437,
+   "lon": -96.741049,
+   "distKm": 19.4,
+   "address": "630 South Central Expressway",
+   "tags": {}
+  },
+  {
+   "id": "node/12329909243",
+   "name": "Pet Supplies Plus",
+   "lat": 32.9525624,
+   "lon": -96.8032843,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11575727648",
+   "name": "Fish Gallery",
+   "lat": 32.9517106,
+   "lon": -96.8302752,
+   "distKm": 19.7,
+   "address": "15003 Inwood Road, Dallas, TX 75244",
+   "tags": {
+    "phone": "+1-214-373-3474",
+    "website": "https://thefishgallery.com/"
+   }
+  },
+  {
+   "id": "node/13515134792",
+   "name": "Pet Supplies Plus",
+   "lat": 32.9534507,
+   "lon": -96.7685034,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/425018450",
+   "name": "PetSmart",
+   "lat": 32.9505847,
+   "lon": -96.8517871,
+   "distKm": 20,
+   "address": "3800 Belt Line Road, Addison, TX 75001",
+   "tags": {
+    "phone": "+1 972-919-4740",
+    "website": "https://www.petsmart.com/stores/us/tx/addison-store1242.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

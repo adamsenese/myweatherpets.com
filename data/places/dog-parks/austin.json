@@ -1,0 +1,581 @@
+{
+ "$schemaVersion": 1,
+ "city": "austin",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:22:40.402Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/751366424",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2661142,
+   "lon": -97.7528161,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12485227010",
+   "name": "Banger’s Sausage House & Beer Garden",
+   "lat": 30.2589765,
+   "lon": -97.7384943,
+   "distKm": 1,
+   "address": "79 Rainey Street, Austin, TX 78701",
+   "tags": {}
+  },
+  {
+   "id": "way/856490639",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.263615,
+   "lon": -97.7532074,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/781453225",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2701172,
+   "lon": -97.7595629,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/309267840",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2766398,
+   "lon": -97.7580066,
+   "distKm": 1.8,
+   "address": "1317 W 10th St, Austin, TX 78703",
+   "tags": {
+    "website": "http://www.austinparks.org/our-parks.html?parkid=373"
+   }
+  },
+  {
+   "id": "way/610918269",
+   "name": "Norwood Estate Dog Park",
+   "lat": 30.2491731,
+   "lon": -97.7365988,
+   "distKm": 2.1,
+   "address": "1009 Edgecliff Terrace, Austin, TX 78704",
+   "tags": {}
+  },
+  {
+   "id": "way/609522625",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2485233,
+   "lon": -97.7336209,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/906699655",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2472153,
+   "lon": -97.7324818,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/735290966",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2914396,
+   "lon": -97.723967,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/906380199",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2372286,
+   "lon": -97.7282378,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/907907339",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2386566,
+   "lon": -97.7223838,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1092749494",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2599454,
+   "lon": -97.7028539,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/906026868",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2321715,
+   "lon": -97.731602,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1422648793",
+   "name": "BARk House Social",
+   "lat": 30.2517251,
+   "lon": -97.6988739,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/715696466",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2312132,
+   "lon": -97.7183852,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/736647997",
+   "name": "Tree Apartments Dog Park",
+   "lat": 30.2282757,
+   "lon": -97.7665312,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/736648098",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2285758,
+   "lon": -97.7666738,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/746876622",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.301221,
+   "lon": -97.7028304,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1266285544",
+   "name": "Barkton Creek Dog Park (& Detention Pawnd)",
+   "lat": 30.2544035,
+   "lon": -97.7979935,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/470360396",
+   "name": "Quest Dog Park",
+   "lat": 30.2325907,
+   "lon": -97.7889191,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1351684705",
+   "name": "Work & Woof",
+   "lat": 30.2127574,
+   "lon": -97.7716353,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1123776406",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3304742,
+   "lon": -97.7316253,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1346654320",
+   "name": "Neighbors",
+   "lat": 30.2036766,
+   "lon": -97.7742351,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "access": "customers",
+    "website": "https://www.neighborsatx.com/"
+   }
+  },
+  {
+   "id": "way/1263317933",
+   "name": "The Acre",
+   "lat": 30.1980496,
+   "lon": -97.7686833,
+   "distKm": 8.1,
+   "address": "6201 Crow Lane, Austin, TX 78745",
+   "tags": {
+    "website": "https://www.theacreatcrow.com/?utm_source=google&utm_medium=local&utm_campaign=gbp"
+   }
+  },
+  {
+   "id": "way/1427215331",
+   "name": "The Acre",
+   "lat": 30.1970115,
+   "lon": -97.770814,
+   "distKm": 8.2,
+   "address": "6201 Crow Lane, Austin, TX 78745",
+   "tags": {
+    "dog": "unleashed",
+    "website": "https://www.theacreatcrow.com/?utm_source=google&utm_medium=local&utm_campaign=gbp"
+   }
+  },
+  {
+   "id": "way/381790192",
+   "name": "Yard Bar",
+   "lat": 30.3430338,
+   "lon": -97.7391986,
+   "distKm": 8.4,
+   "address": "6700 Burnet Road, Austin, TX",
+   "tags": {
+    "website": "https://www.yardbar.com/",
+    "opening_hours": "Su-We 12:00-21:00; Th-Sa 12:00-22:00"
+   }
+  },
+  {
+   "id": "way/477598545",
+   "name": "Midtown Bark Park",
+   "lat": 30.3417398,
+   "lon": -97.7187292,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "access": "residents",
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/1007551261",
+   "name": "Ridge Dog Park",
+   "lat": 30.349979,
+   "lon": -97.7530302,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1221646982",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2888528,
+   "lon": -97.6404235,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1349638075",
+   "name": "Rally's ReTREAT",
+   "lat": 30.3594091,
+   "lon": -97.7314071,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1267112107",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2760701,
+   "lon": -97.6349829,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1450759162",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2922222,
+   "lon": -97.6373748,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1213651725",
+   "name": "Onion Creek Dog Park",
+   "lat": 30.1721547,
+   "lon": -97.7425418,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1223344990",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3584034,
+   "lon": -97.7011304,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1298532735",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.248118,
+   "lon": -97.855175,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1262269486",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1673555,
+   "lon": -97.7316109,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1033679180",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2465103,
+   "lon": -97.8589779,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/873188700",
+   "name": "Windsor Oak Hill Dog Park",
+   "lat": 30.2478256,
+   "lon": -97.8609134,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1533151319",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3592569,
+   "lon": -97.6695021,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1262628540",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1553787,
+   "lon": -97.7198764,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1220022645",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3178749,
+   "lon": -97.624186,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1337279545",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3824564,
+   "lon": -97.7672937,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/928643219",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3769525,
+   "lon": -97.6857807,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1263864070",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1488639,
+   "lon": -97.7688959,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1530466608",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3859029,
+   "lon": -97.7179771,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/904631852",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1517118,
+   "lon": -97.796381,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/904629093",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1490646,
+   "lon": -97.7957655,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11107804805",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1412628,
+   "lon": -97.7817948,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/880697958",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3969012,
+   "lon": -97.7222514,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1308541348",
+   "name": "Double Creek Bark Park",
+   "lat": 30.1449264,
+   "lon": -97.7997451,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/880829228",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2311696,
+   "lon": -97.8902838,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/762093224",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2487846,
+   "lon": -97.8972266,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1530155297",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3993727,
+   "lon": -97.7163448,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/455334118",
+   "name": "Ascent North Dog Park",
+   "lat": 30.3777359,
+   "lon": -97.651852,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1316236094",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3774833,
+   "lon": -97.6494732,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/467853312",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3788401,
+   "lon": -97.6498494,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/903967006",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2471041,
+   "lon": -97.9010833,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6160675402",
+   "name": "Off-leash area",
+   "lat": 30.3956741,
+   "lon": -97.6844573,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/902808891",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3802593,
+   "lon": -97.648902,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6160675401",
+   "name": "Off-leash area",
+   "lat": 30.3981646,
+   "lon": -97.6851533,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,439 @@
+{
+ "$schemaVersion": 1,
+ "city": "phoenix",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:21:30.421Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 43,
+ "places": [
+  {
+   "id": "way/1012722878",
+   "name": "Paw Pup Park",
+   "lat": 33.4474703,
+   "lon": -112.0773119,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/932591634",
+   "name": "Hance Park Dog Park",
+   "lat": 33.4624053,
+   "lon": -112.0784396,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/11561831123",
+   "name": "Foothills Canine Academy Brenda Dreyer",
+   "lat": 33.4220703,
+   "lon": -112.0326217,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/13008362",
+   "name": "Steele Indian School Dog Park",
+   "lat": 33.501395,
+   "lon": -112.0678501,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "access": "yes",
+    "opening_hours": "Mo-Su 06:00-22:00"
+   }
+  },
+  {
+   "id": "way/1289579127",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.3997331,
+   "lon": -112.1084641,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1111122073",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5107466,
+   "lon": -112.0797836,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/935621586",
+   "name": "Esteban Dog Park",
+   "lat": 33.3979894,
+   "lon": -112.0066206,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/222275118",
+   "name": "PETsMART Dog Park",
+   "lat": 33.5321811,
+   "lon": -112.1047658,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/934477315",
+   "name": "Southern Hills Dog Park",
+   "lat": 33.3607257,
+   "lon": -112.1144276,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/12694260",
+   "name": "Cesar Chavez Dog Park",
+   "lat": 33.373579,
+   "lon": -112.1424356,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1223913795",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4193626,
+   "lon": -111.948199,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1482076853",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5559305,
+   "lon": -112.1005589,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468562396",
+   "name": "Apartment Dog Park",
+   "lat": 33.5602925,
+   "lon": -112.1006501,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1317061769",
+   "name": "Papago Dog Park",
+   "lat": 33.4382857,
+   "lon": -111.9312537,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1464895816",
+   "name": "Camden Tempe Dog Park",
+   "lat": 33.442377,
+   "lon": -111.9309862,
+   "distKm": 13.3,
+   "address": "1235 N College Ave, Tempe, AZ 85288",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1284683769",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4334292,
+   "lon": -111.9304399,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/486671480",
+   "name": "Rose Mofford Large Dog Park",
+   "lat": 33.5724846,
+   "lon": -112.1110529,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/486671481",
+   "name": "Rose Mofford Small Dog Park",
+   "lat": 33.5731352,
+   "lon": -112.1114693,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/674658205",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5064893,
+   "lon": -111.9302328,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1252284502",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4548366,
+   "lon": -111.9124168,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/554804298",
+   "name": "Optima Scottsdale Dog Run",
+   "lat": 33.5080243,
+   "lon": -111.9266129,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1281812576",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4122048,
+   "lon": -112.2323387,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/588272010",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4197974,
+   "lon": -111.912311,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/483601035",
+   "name": "909 West",
+   "lat": 33.3530828,
+   "lon": -111.9529612,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1304545141",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5649917,
+   "lon": -112.1720439,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/819218461",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.3809196,
+   "lon": -111.9232407,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/330176644",
+   "name": "Northern Horizon Dog Park",
+   "lat": 33.5513855,
+   "lon": -112.1961748,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1304010635",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5590027,
+   "lon": -112.1865598,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12847397631",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.593543,
+   "lon": -112.1031276,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/483603984",
+   "name": "Tempe Sports Complex Dog Park",
+   "lat": 33.3409973,
+   "lon": -111.9490363,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12869395089",
+   "name": "Culdesac Dog Park",
+   "lat": 33.413234,
+   "lon": -111.8982762,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12646621391",
+   "name": "Chaparral Dog Park",
+   "lat": 33.5229046,
+   "lon": -111.9078938,
+   "distKm": 17.5,
+   "address": "5777 North Hayden Road, Scottsdale, AZ 85250",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/544278492",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5224821,
+   "lon": -111.9077032,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8660506091",
+   "name": "All 4 Paws Training",
+   "lat": 33.3920117,
+   "lon": -111.8935416,
+   "distKm": 17.9,
+   "address": "3330 South Price Road, Tempe, AZ 85282",
+   "tags": {}
+  },
+  {
+   "id": "way/124782466",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5758292,
+   "lon": -112.1942417,
+   "distKm": 18,
+   "address": "Glendale",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1282577041",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5681633,
+   "lon": -112.213174,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1305351614",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.6130309,
+   "lon": -112.1183597,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1306275929",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5003105,
+   "lon": -112.2718319,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1306713956",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5030908,
+   "lon": -112.2719402,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1306023077",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4949114,
+   "lon": -112.276016,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/630840011",
+   "name": "RJ Dog Park",
+   "lat": 33.2929294,
+   "lon": -111.9752249,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/630840010",
+   "name": "RJ Dog Park",
+   "lat": 33.2917784,
+   "lon": -111.9742368,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/1095716950",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.5645629,
+   "lon": -112.2346677,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

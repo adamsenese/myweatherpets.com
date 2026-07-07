@@ -1,0 +1,403 @@
+{
+ "$schemaVersion": 1,
+ "city": "brisbane",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:40:49.290Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/5097622425",
+   "name": "My Pet Warehouse",
+   "lat": -27.455852,
+   "lon": 153.041195,
+   "distKm": 2.2,
+   "address": "18 Doggett Street, 4006",
+   "tags": {
+    "phone": "+61 7 3073 3880",
+    "website": "https://www.mypetwarehouse.com.au/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/10879904546",
+   "name": "Royal Fur Kids,  Saturdays",
+   "lat": -27.4780013,
+   "lon": 153.0045824,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Sa 06:00-14:00"
+   }
+  },
+  {
+   "id": "node/5767279832",
+   "name": "Petbarn",
+   "lat": -27.4905525,
+   "lon": 153.0401892,
+   "distKm": 2.7,
+   "address": "114 Logan Road",
+   "tags": {
+    "website": "https://www.petbarn.com.au/store-finder/woolloongabba",
+    "opening_hours": "Mo-We 08:30-18:00; Th 08:30-19:30; Sa 08:30-17:00; Su 09:00-17:00; Fr 08:30-18:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/533286187",
+   "name": "Chew, Chomp, Chill",
+   "lat": -27.4718911,
+   "lon": 152.9913862,
+   "distKm": 3.3,
+   "address": "54 Birdwood Terrace",
+   "tags": {}
+  },
+  {
+   "id": "node/13159712858",
+   "name": "Petbarn",
+   "lat": -27.4376676,
+   "lon": 153.0231513,
+   "distKm": 3.6,
+   "address": "142 Newmarket Road, QLD 4030",
+   "tags": {
+    "phone": "+61 7 3857 6222",
+    "website": "https://www.petbarn.com.au/store-finder/windsor",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:30-17:00; Su 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/163351172",
+   "name": "Annerley Aquarium",
+   "lat": -27.4991419,
+   "lon": 153.0502459,
+   "distKm": 4.1,
+   "address": "135 Old Cleveland Road, Brisbane, QLD 4120",
+   "tags": {
+    "phone": "+61 7 3397 6266",
+    "website": "https://www.annerleyaquarium.com.au/"
+   }
+  },
+  {
+   "id": "way/308995817",
+   "name": "Pet Cafe",
+   "lat": -27.4363646,
+   "lon": 153.0062957,
+   "distKm": 4.2,
+   "address": "176 Enoggera Road",
+   "tags": {}
+  },
+  {
+   "id": "way/60721666",
+   "name": "Puppy Shack",
+   "lat": -27.4263271,
+   "lon": 153.0161453,
+   "distKm": 4.9,
+   "address": "166",
+   "tags": {}
+  },
+  {
+   "id": "way/539763555",
+   "name": "Petstock",
+   "lat": -27.4950669,
+   "lon": 152.9765448,
+   "distKm": 5.6,
+   "address": "252 Moggill Road, Brisbane, 4068",
+   "tags": {
+    "opening_hours": "Mo-We,Fr 09:00-18:00; Th 09:00-19:00; Sa,Su 09:00-17:00",
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/5567935628",
+   "name": "Petbarn",
+   "lat": -27.4961909,
+   "lon": 152.9759542,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/5631760219",
+   "name": "Pampered Pets",
+   "lat": -27.4918748,
+   "lon": 152.9720698,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1078418092",
+   "name": "Complete Pet",
+   "lat": -27.419738,
+   "lon": 152.9985106,
+   "distKm": 6.2,
+   "address": "148 South Pine Road, QLD 4051",
+   "tags": {
+    "phone": "+61 7 3855 3555",
+    "website": "https://www.completepet.com.au/",
+    "opening_hours": "Mo-Fr 09:30-17:00; Sa 09:00-15:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "way/1425096663",
+   "name": "Petstock",
+   "lat": -27.4183566,
+   "lon": 153.0561305,
+   "distKm": 6.5,
+   "address": "739 Sandgate Road, Brisbane, 4011",
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/7777499582",
+   "name": "Mooey's Pet & Produce Marketplace",
+   "lat": -27.4471826,
+   "lon": 152.9591476,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1336386213",
+   "name": "Petbarn",
+   "lat": -27.472193,
+   "lon": 153.097903,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/1202290306",
+   "name": "Petbarn",
+   "lat": -27.4127432,
+   "lon": 152.9773991,
+   "distKm": 7.9,
+   "address": "45 Osborne Road, QLD 4053",
+   "tags": {
+    "phone": "+61 7 3354 1275",
+    "website": "https://www.petbarn.com.au/store-finder/mitchelton",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/9919244211",
+   "name": "Petbarn",
+   "lat": -27.5313826,
+   "lon": 153.0742518,
+   "distKm": 8.4,
+   "address": "1290 Logan Road, QLD 4122",
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/13140452346",
+   "name": "Petbarn",
+   "lat": -27.3945781,
+   "lon": 153.0313118,
+   "distKm": 8.4,
+   "address": "561 Mellor Street",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:30-17:00; Su 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/5229677340",
+   "name": "Petbarn",
+   "lat": -27.5089082,
+   "lon": 152.9473165,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/5940166599",
+   "name": "Petstock",
+   "lat": -27.4178089,
+   "lon": 152.9491404,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/5127575966",
+   "name": "Petbarn",
+   "lat": -27.5336644,
+   "lon": 152.9470083,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/12688788313",
+   "name": "Petbarn",
+   "lat": -27.3751189,
+   "lon": 153.0621105,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/1072839983",
+   "name": "Petbarn",
+   "lat": -27.5609683,
+   "lon": 153.0698434,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/10694430323",
+   "name": "Best Friends",
+   "lat": -27.5629525,
+   "lon": 153.0730777,
+   "distKm": 11.4,
+   "address": "587 Kessels Road",
+   "tags": {
+    "phone": "+61 7 3420 2800",
+    "website": "https://www.bestfriendspets.com.au/",
+    "opening_hours": "Mo-Fr 08:30-17:30; Th 08:30-19:00; Sa 09:00-17:00; Su 10:00-17:00",
+    "brand": "Best Friends"
+   }
+  },
+  {
+   "id": "node/5488713499",
+   "name": "Petstock",
+   "lat": -27.5672563,
+   "lon": 152.982332,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "way/452957316",
+   "name": "Brookies",
+   "lat": -27.4948559,
+   "lon": 152.9095281,
+   "distKm": 11.7,
+   "address": "612 Brookfield Road, 4069",
+   "tags": {
+    "phone": "+61 7 3374 1648",
+    "website": "https://brookiesruraltraders.com.au/",
+    "opening_hours": "Mo-Su 07:30-17:30"
+   }
+  },
+  {
+   "id": "node/12617063739",
+   "name": "Petbarn",
+   "lat": -27.4581566,
+   "lon": 153.1553116,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/4811438721",
+   "name": "Gallary Aquatica",
+   "lat": -27.4367423,
+   "lon": 153.158237,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1155155733",
+   "name": "Petbarn",
+   "lat": -27.3340875,
+   "lon": 153.0102301,
+   "distKm": 15.2,
+   "address": "1915 Gympie Road, QLD 4036",
+   "tags": {
+    "website": "https://www.petbarn.com.au/store-finder/bald-hills",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/1025089793",
+   "name": "Pet Superstore",
+   "lat": -27.5864953,
+   "lon": 152.9215272,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8581099252",
+   "name": "Pets of Sandgate",
+   "lat": -27.3175691,
+   "lon": 153.0677743,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13149256452",
+   "name": "Mad Aquariums",
+   "lat": -27.6089591,
+   "lon": 153.1135387,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13149256451",
+   "name": "Petbarn",
+   "lat": -27.6094901,
+   "lon": 153.1143294,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/1182187159",
+   "name": "Brighton Dog Groomers",
+   "lat": -27.3038017,
+   "lon": 153.0616163,
+   "distKm": 18.8,
+   "address": "14",
+   "tags": {
+    "phone": "+61 7 3269 5450"
+   }
+  },
+  {
+   "id": "node/9899628449",
+   "name": "Petbarn",
+   "lat": -27.2936098,
+   "lon": 152.9850726,
+   "distKm": 20,
+   "address": "640 Gympie Road, QLD 4501",
+   "tags": {
+    "phone": "+61 7 3205 7655",
+    "website": "https://www.petbarn.com.au/store-finder/lawnton",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su,PH 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  }
+ ]
+}

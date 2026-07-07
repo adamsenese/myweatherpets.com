@@ -1,0 +1,722 @@
+{
+ "$schemaVersion": 1,
+ "city": "berlin",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:37:17.720Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/4883296086",
+   "name": "Kiezhund",
+   "lat": 52.5322313,
+   "lon": 13.3962122,
+   "distKm": 1.5,
+   "address": "154 Invalidenstraße, Berlin, 10115",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:30; Sa 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/12201947236",
+   "name": "Pets Deli",
+   "lat": 52.535285,
+   "lon": 13.4198768,
+   "distKm": 2,
+   "address": "6 Rykestraße, 10405",
+   "tags": {
+    "phone": "+49 30 62963446",
+    "website": "https://www.petsdeli.de",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/1608667951",
+   "name": "Fressnapf",
+   "lat": 52.5031233,
+   "lon": 13.3843777,
+   "distKm": 2.3,
+   "address": "68 Stresemannstraße, Berlin, 10963",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/7211080884",
+   "name": "Strayz",
+   "lat": 52.5342436,
+   "lon": 13.4303255,
+   "distKm": 2.3,
+   "address": "198 Greifswalder Straße, Berlin, 10405",
+   "tags": {}
+  },
+  {
+   "id": "node/7025879200",
+   "name": "Schmackofatz Berlin Barf-Manufaktur",
+   "lat": 52.5352301,
+   "lon": 13.4357555,
+   "distKm": 2.7,
+   "address": "135 Danziger Straße, Berlin, 10407",
+   "tags": {
+    "website": "https://schmackofatz-berlin.de/",
+    "opening_hours": "Mo,Tu,Th,Fr 10:00-18:00; Sa 10:00-15:00; We 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/3264247871",
+   "name": "Van Loeper",
+   "lat": 52.5432971,
+   "lon": 13.4217267,
+   "distKm": 2.8,
+   "address": "16 Dunckerstraße, Berlin, 10437",
+   "tags": {
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 13:00-18:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/1471979114",
+   "name": "foten",
+   "lat": 52.5474722,
+   "lon": 13.4123034,
+   "distKm": 3.1,
+   "address": "28 Gleimstraße, Berlin, 10437",
+   "tags": {}
+  },
+  {
+   "id": "node/417360251",
+   "name": "Fressnapf",
+   "lat": 52.5336145,
+   "lon": 13.4519634,
+   "distKm": 3.5,
+   "address": "128b Storkower Straße, Berlin, 10407",
+   "tags": {
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/346138343",
+   "name": "Fressnapf",
+   "lat": 52.5425188,
+   "lon": 13.3675197,
+   "distKm": 3.6,
+   "address": "10-11 Müllerstraße, Berlin, 13353",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/1511328799",
+   "name": "Das Futterhaus",
+   "lat": 52.4878945,
+   "lon": 13.4243961,
+   "distKm": 3.8,
+   "address": "10 Hermannplatz",
+   "tags": {
+    "phone": "+493061209038",
+    "website": "https://www.futterhaus.de/",
+    "opening_hours": "Mo-Sa 10:00-20:00",
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/5077140160",
+   "name": "Fressnapf",
+   "lat": 52.5511155,
+   "lon": 13.4315402,
+   "distKm": 3.9,
+   "address": "5 Ostseestraße, Berlin, 10409",
+   "tags": {
+    "website": "https://www.fressnapf.de/stores/fressnapf-berlin-ostseestrasse/",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/9488186236",
+   "name": "Pets Deli",
+   "lat": 52.5096332,
+   "lon": 13.4604985,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/11248191700",
+   "name": "Das Futterhaus",
+   "lat": 52.5237681,
+   "lon": 13.4623137,
+   "distKm": 3.9,
+   "address": "38 Hermann-Blankenstein-Straße, Berlin, 10249",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/7029055204",
+   "name": "Kiez Hund",
+   "lat": 52.5074751,
+   "lon": 13.4608156,
+   "distKm": 4,
+   "address": "29 Simplonstraße, Berlin, 10245",
+   "tags": {
+    "opening_hours": "Mo,We-Fr 11:00-19:00; Sa 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/3398777046",
+   "name": "Fressnapf",
+   "lat": 52.5227409,
+   "lon": 13.464873,
+   "distKm": 4.1,
+   "address": "40 Hermann-Blankenstein-Straße, Berlin, 10249",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/4467742234",
+   "name": "Bones for Dogs",
+   "lat": 52.509616,
+   "lon": 13.465542,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "website": "http://www.bonesfordogs.de/",
+    "opening_hours": "Tu,We,Fr 11:00-18:00; Th 12:00-18:00; Sa 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/7636052255",
+   "name": "Pets Deli",
+   "lat": 52.4971354,
+   "lon": 13.3535702,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su off"
+   }
+  },
+  {
+   "id": "node/9919376562",
+   "name": "Bionapf",
+   "lat": 52.4932408,
+   "lon": 13.3538099,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Fr 13:00-19:00; Sa 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/3461708166",
+   "name": "Fressnapf",
+   "lat": 52.5027189,
+   "lon": 13.3328804,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.fressnapf.de/stores/fressnapf-berlin-kudamm/",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/1457600608",
+   "name": "Fressnapf",
+   "lat": 52.5647261,
+   "lon": 13.3707163,
+   "distKm": 5.5,
+   "address": "47 Pankower Allee, Berlin, 13409",
+   "tags": {
+    "phone": "+49 30 43724675",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "way/252360340",
+   "name": "Fressnapf",
+   "lat": 52.5639914,
+   "lon": 13.4432457,
+   "distKm": 5.5,
+   "address": "31- 35 Romain-Rolland-Straße",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/3404455305",
+   "name": "Alles für's Tier",
+   "lat": 52.5545963,
+   "lon": 13.3403714,
+   "distKm": 5.8,
+   "address": "15 Otawistraße, Berlin, 13351",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:30, Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/13064860585",
+   "name": "Gordi",
+   "lat": 52.506792,
+   "lon": 13.3200231,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8422865848",
+   "name": "Natural & B.A.R.F.ood",
+   "lat": 52.4875612,
+   "lon": 13.3337775,
+   "distKm": 6,
+   "address": "159 Berliner Straße, Berlin, 10715",
+   "tags": {
+    "website": "http://natural-barfood.de/",
+    "opening_hours": "Mo,Tu,Th,Fr 10:00-19:00; We 14:00-19:00; Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/5476711802",
+   "name": "Society Dog",
+   "lat": 52.5078162,
+   "lon": 13.3175218,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.societydog.de/",
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/701825313",
+   "name": "Natürlich Hund",
+   "lat": 52.4907856,
+   "lon": 13.326709,
+   "distKm": 6.2,
+   "address": "57 Nassauische Straße, Berlin, 10717",
+   "tags": {
+    "opening_hours": "Tu-Fr 11:00-18:00; Sa 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/4419037107",
+   "name": "Das Futterhaus",
+   "lat": 52.5614218,
+   "lon": 13.4662319,
+   "distKm": 6.2,
+   "address": "261 Berliner Allee, Berlin, 13088",
+   "tags": {
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/446899194",
+   "name": "Das Futterhaus",
+   "lat": 52.4686707,
+   "lon": 13.4480157,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "phone": "+49 30 68059666",
+    "website": "https://www.futterhaus.de/service/filialen/berlin-neukoelln/",
+    "opening_hours": "Mo-Sa 09:00-19:00",
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/5308919843",
+   "name": "Hundeatelier Josephine",
+   "lat": 52.5107073,
+   "lon": 13.5020466,
+   "distKm": 6.6,
+   "address": "268 Frankfurter Allee, Berlin, 10317",
+   "tags": {
+    "phone": "+49 30 5294186",
+    "website": "https://www.hundeatelier-josephine.de/",
+    "opening_hours": "Mo-Fr 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/1311479655",
+   "name": "Zoo fridolin",
+   "lat": 52.5255327,
+   "lon": 13.3064658,
+   "distKm": 6.7,
+   "address": "81 Kaiserin-Augusta-Allee, Berlin, 10589",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off, PH off"
+   }
+  },
+  {
+   "id": "node/2625367382",
+   "name": "Fressnapf",
+   "lat": 52.5561789,
+   "lon": 13.4870701,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/6577371662",
+   "name": "Das Futterhaus",
+   "lat": 52.5086957,
+   "lon": 13.304654,
+   "distKm": 6.9,
+   "address": "Wilmersdorfer Straße, Berlin",
+   "tags": {
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/10291352709",
+   "name": "B.A.R.F. Tierfutterkrippe",
+   "lat": 52.4603245,
+   "lon": 13.4318149,
+   "distKm": 6.9,
+   "address": "23 Germaniapromenade, 12347",
+   "tags": {
+    "website": "https://www.barf-tierfutterkrippe.de/",
+    "opening_hours": "We,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-13:00; Mo,Tu off"
+   }
+  },
+  {
+   "id": "node/800755193",
+   "name": "Hundesalon",
+   "lat": 52.5745973,
+   "lon": 13.3535032,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "phone": "+49 30 81612547",
+    "opening_hours": "\"nach Vereinbarung (Beschriftung der Öffnungszeiten wurde in Teilen entfernt)\""
+   }
+  },
+  {
+   "id": "node/10177821234",
+   "name": "Fatzke's Tierfutter",
+   "lat": 52.5228526,
+   "lon": 13.3016071,
+   "distKm": 7,
+   "address": "10 Mierendorffstraße, Berlin, 10589",
+   "tags": {
+    "phone": "+49 177 4219740",
+    "opening_hours": "Mo-Fr 16:00-19:00; Sa 11:00-13:00"
+   }
+  },
+  {
+   "id": "node/1774557661",
+   "name": "Steffis Futterkeks",
+   "lat": 52.4689259,
+   "lon": 13.3422181,
+   "distKm": 7.1,
+   "address": "63 Cranachstraße, Berlin, 12157",
+   "tags": {
+    "opening_hours": "Mo-Th 09:00-12:00,14:00-18:00; Fr 09:00-12:00,14:00-18:30; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/7553447540",
+   "name": "Soul Bits",
+   "lat": 52.4721758,
+   "lon": 13.3363092,
+   "distKm": 7.1,
+   "address": "80a Hauptstraße, Berlin, 12159",
+   "tags": {
+    "website": "https://www.soul-bits.dog"
+   }
+  },
+  {
+   "id": "way/120314898",
+   "name": "Fressnapf",
+   "lat": 52.4569769,
+   "lon": 13.3910257,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/9675659896",
+   "name": "Repti-Jungle",
+   "lat": 52.5750167,
+   "lon": 13.3486131,
+   "distKm": 7.2,
+   "address": "30a Alt-Reinickendorf, Berlin, 13407",
+   "tags": {
+    "opening_hours": "Th 14:00-17:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/1779217862",
+   "name": "Fressnapf",
+   "lat": 52.4992451,
+   "lon": 13.5072413,
+   "distKm": 7.3,
+   "address": "32 Volkradstraße, Berlin, 10319",
+   "tags": {
+    "phone": "+49 30 50018185",
+    "website": "https://www.fressnapf.de/stores/fressnapf-berlin-friedrichsfelde/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/3255164819",
+   "name": "Soul Bits",
+   "lat": 52.4740731,
+   "lon": 13.3287533,
+   "distKm": 7.3,
+   "address": "133 Bundesallee, Berlin, 12161",
+   "tags": {
+    "website": "https://www.soul-bits.de/",
+    "opening_hours": "Mo-Fr 12:00-18:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/7777530636",
+   "name": "Seewasser-Center",
+   "lat": 52.4746151,
+   "lon": 13.322874,
+   "distKm": 7.5,
+   "address": "11a Südwestkorso, Berlin, 12161",
+   "tags": {
+    "phone": "+49 30 8219614",
+    "opening_hours": "Mo,We-Fr 12:00-18:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "way/11777990",
+   "name": "Fressnapf",
+   "lat": 52.5686681,
+   "lon": 13.3276543,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "website": "https://www.fressnapf.de/stores/fressnapf-xxl-berlin-auguste-viktoria-allee/",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/6146118792",
+   "name": "Barfer's Wellfood GmbH",
+   "lat": 52.565423,
+   "lon": 13.3217397,
+   "distKm": 7.6,
+   "address": "117 Scharnweberstraße, Berlin, 13405",
+   "tags": {
+    "phone": "+49 30 92 35 18 46",
+    "website": "https://www.barfers-wellfood.de",
+    "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-16:00",
+    "brand": "BARF Hundefutter"
+   }
+  },
+  {
+   "id": "node/7075481734",
+   "name": "Fressnapf",
+   "lat": 52.5263876,
+   "lon": 13.5185174,
+   "distKm": 7.7,
+   "address": "25a Allee der Kosmonauten",
+   "tags": {
+    "phone": "+49 30 54700585",
+    "website": "https://www.fressnapf.de/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/3570845457",
+   "name": "Säbelzahn- und Schnabelbar",
+   "lat": 52.4689615,
+   "lon": 13.3267806,
+   "distKm": 7.8,
+   "address": "70 Stubenrauchstraße, Berlin, 12161",
+   "tags": {
+    "phone": "+49 30 85967417",
+    "website": "https://www.saebelzahn-und-schnabelbar.de/",
+    "opening_hours": "Mo-Fr 11:00-13:00,14:00-18:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "way/174724282",
+   "name": "Fressnapf",
+   "lat": 52.5882754,
+   "lon": 13.4295916,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/438385039",
+   "name": "Lucas Tierwelt",
+   "lat": 52.4788764,
+   "lon": 13.3084403,
+   "distKm": 8,
+   "address": "95 Forckenbeckstraße, Berlin, 14199",
+   "tags": {
+    "website": "https://www.lucas-tierwelt.de/",
+    "opening_hours": "Mo-Sa 08:00-20:00"
+   }
+  },
+  {
+   "id": "way/26285208",
+   "name": "Fressnapf",
+   "lat": 52.4528423,
+   "lon": 13.4526247,
+   "distKm": 8.1,
+   "address": "170 Späthstraße, Berlin, 12359",
+   "tags": {
+    "website": "https://www.fressnapf.de",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/111810614",
+   "name": "Fressnapf",
+   "lat": 52.4997351,
+   "lon": 13.288411,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/9270179405",
+   "name": "Das Futterhaus",
+   "lat": 52.5759496,
+   "lon": 13.3267438,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "phone": "+49 30 8321018 1",
+    "website": "https://www.zooundco24.de",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00",
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/12089253198",
+   "name": "Hopy's Futtertheke",
+   "lat": 52.4618173,
+   "lon": 13.4822003,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Th 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/3703479493",
+   "name": "Antstore - Fachhandel für Ameisen",
+   "lat": 52.4542839,
+   "lon": 13.3373299,
+   "distKm": 8.6,
+   "address": "41 Selerweg, Berlin, 12169",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-12:00,13:00-18:00; Sa[1] 12:00-16:00; PH off"
+   }
+  },
+  {
+   "id": "node/6503855624",
+   "name": "4 Pfoten-Feinkost",
+   "lat": 52.4578801,
+   "lon": 13.3272413,
+   "distKm": 8.7,
+   "address": "2 Bergstraße, Berlin, 12169",
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/3633890832",
+   "name": "Alles für das Tier",
+   "lat": 52.4509587,
+   "lon": 13.3407618,
+   "distKm": 8.8,
+   "address": "29 Steglitzer Damm, Berlin, 12169",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/276779526",
+   "name": "Das Futterhaus",
+   "lat": 52.4631906,
+   "lon": 13.5082587,
+   "distKm": 9.4,
+   "address": "32 Siemensstraße, Berlin, 12459",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:00",
+    "brand": "Das Futterhaus"
+   }
+  },
+  {
+   "id": "node/2431839621",
+   "name": "Fressnapf",
+   "lat": 52.5851788,
+   "lon": 13.313977,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa 09:00-18:00",
+    "brand": "Fressnapf"
+   }
+  },
+  {
+   "id": "node/1643105094",
+   "name": "Marine Aquarium Senior",
+   "lat": 52.5953256,
+   "lon": 13.3333768,
+   "distKm": 9.7,
+   "address": "85-86 Oranienburger Straße, Berlin, 13437",
+   "tags": {
+    "phone": "+49 30 40910702",
+    "website": "http://www.marine-aquarium-senior.net",
+    "opening_hours": "Mo-Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3360188500",
+   "name": "Garnelen Gümmer",
+   "lat": 52.4470536,
+   "lon": 13.3261473,
+   "distKm": 9.7,
+   "address": "63 Klingsorstraße, Berlin, 12167",
+   "tags": {
+    "opening_hours": "We, Fr 14:00-19:00; Th, Sa 10:00-19:00"
+   }
+  },
+  {
+   "id": "way/48848042",
+   "name": "Das Futterhaus",
+   "lat": 52.4357356,
+   "lon": 13.3706158,
+   "distKm": 9.7,
+   "address": "3 Lankwitzer Straße, Berlin, 12107",
+   "tags": {
+    "website": "https://www.futterhaus.de/service/filialen/berlin-mariendorf-lankwitzer-strasse/",
+    "brand": "Das Futterhaus"
+   }
+  }
+ ]
+}

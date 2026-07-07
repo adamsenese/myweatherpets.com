@@ -1,0 +1,191 @@
+{
+ "$schemaVersion": 1,
+ "city": "honolulu",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:31:46.873Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "node/5816750270",
+   "name": "Honolulu Pet Clinic",
+   "lat": 21.3009474,
+   "lon": -157.8450001,
+   "distKm": 1.5,
+   "address": "1115 Young Street, Honolulu, HI 96814",
+   "tags": {}
+  },
+  {
+   "id": "node/10767763393",
+   "name": "Blue Cross Animal Hospital",
+   "lat": 21.2945574,
+   "lon": -157.8452573,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1390958867",
+   "name": "Blue Corss Animal Hospital",
+   "lat": 21.2948733,
+   "lon": -157.8455421,
+   "distKm": 1.9,
+   "address": "608 Sheridan Street, Honolulu, HI 96814",
+   "tags": {}
+  },
+  {
+   "id": "way/1383311568",
+   "name": "The Pet Clinic",
+   "lat": 21.2965071,
+   "lon": -157.8302878,
+   "distKm": 3.1,
+   "address": "1947 South Beretania Street, Honolulu, HI 96826",
+   "tags": {}
+  },
+  {
+   "id": "way/1357138429",
+   "name": "King Street Pet Hospital",
+   "lat": 21.2950152,
+   "lon": -157.8296253,
+   "distKm": 3.3,
+   "address": "2016 South King Street, Honolulu, HI 96826",
+   "tags": {}
+  },
+  {
+   "id": "way/1510918091",
+   "name": "Admissions and Veterinary Center",
+   "lat": 21.2910773,
+   "lon": -157.8186705,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/174842172",
+   "name": "Manoa Valley Veterinary Clinic",
+   "lat": 21.3087423,
+   "lon": -157.8096845,
+   "distKm": 5,
+   "address": "2746 Woodlawn Drive, Honolulu, HI 96822",
+   "tags": {}
+  },
+  {
+   "id": "node/5519354789",
+   "name": "Purradise Cat Care",
+   "lat": 21.2885473,
+   "lon": -157.8125725,
+   "distKm": 5.2,
+   "address": "1131 Kapahulu Avenue, Honolulu, HI 96816",
+   "tags": {
+    "phone": "+1 808 732 8884",
+    "website": "https://www.purradisecatcare.com/",
+    "opening_hours": "Mo-Sa 08:30-17:00"
+   }
+  },
+  {
+   "id": "way/856153255",
+   "name": "Kaimuki Veterinary Urgent Care",
+   "lat": 21.284735,
+   "lon": -157.803305,
+   "distKm": 6.2,
+   "address": "3405 Waialae Avenue, Honolulu, HI 96816",
+   "tags": {
+    "phone": "+18087329111",
+    "website": "https://kaimukiurgentvet.com/",
+    "opening_hours": "Mo-Su 11:00-21:00"
+   }
+  },
+  {
+   "id": "way/1354540255",
+   "name": "Animal Clinic of Honolulu",
+   "lat": 21.2802318,
+   "lon": -157.7993614,
+   "distKm": 6.8,
+   "address": "1048 Koko Head Avenue, Honolulu, HI 96816",
+   "tags": {
+    "phone": "+18087340255",
+    "website": "https://www.achonolulu.com/",
+    "opening_hours": "Mo-Sa 08:00-17:30"
+   }
+  },
+  {
+   "id": "way/826318829",
+   "name": "PetVet Animal Hospital",
+   "lat": 21.3460583,
+   "lon": -157.9131764,
+   "distKm": 7.2,
+   "address": "848 Ala Lilikoi Street, Honolulu, HI 96818",
+   "tags": {
+    "website": "https://petvethawaii.com/"
+   }
+  },
+  {
+   "id": "node/13097745969",
+   "name": "Leeward Pet Clinic",
+   "lat": 21.389236,
+   "lon": -157.9518107,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11428211587",
+   "name": "VCA Family and Oahu Veterinary Specialty Center",
+   "lat": 21.3886866,
+   "lon": -157.953815,
+   "distKm": 13.4,
+   "address": "98-1254 Kaahumanu Street, Pearl City, HI 96782",
+   "tags": {
+    "phone": "+1 808-484-9070",
+    "website": "https://vcahospitals.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/7689658202",
+   "name": "Hawaiʻi Kai Vet Clinic",
+   "lat": 21.2786749,
+   "lon": -157.7039498,
+   "distKm": 16.3,
+   "address": "7192 Kalanianaʻole Highway, Honolulu, HI 96825",
+   "tags": {}
+  },
+  {
+   "id": "node/4641274823",
+   "name": "Feather & Fur Animal Hospital",
+   "lat": 21.4231053,
+   "lon": -157.7476477,
+   "distKm": 17.3,
+   "address": "25 Kaneohe Bay Drive, Kailua, HI 96734",
+   "tags": {
+    "website": "https://www.featherandfur.com/"
+   }
+  },
+  {
+   "id": "node/12282948870",
+   "name": "VCA Waipahu Animal Hospital",
+   "lat": 21.3844395,
+   "lon": -158.0042754,
+   "distKm": 17.4,
+   "address": "94-810 Moloalo Street, Waipahu, HI 96797",
+   "tags": {
+    "phone": "+1 808-671-1751",
+    "website": "https://vcahospitals.com/waipahu",
+    "opening_hours": "Mo-Su 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/1323277590",
+   "name": "Waipahu Waikele Pet Hospital",
+   "lat": 21.3900668,
+   "lon": -158.0065958,
+   "distKm": 17.9,
+   "address": "94-485 Koaki Street, Waipahu, HI 96797",
+   "tags": {
+    "phone": "+1 808-671-7387",
+    "website": "https://www.pethospitalsofhawaii.com/waipahu-waikele.html"
+   }
+  }
+ ]
+}

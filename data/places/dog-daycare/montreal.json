@@ -1,0 +1,23 @@
+{
+ "$schemaVersion": 1,
+ "city": "montreal",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:39:20.745Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/6685135397",
+   "name": "Arumee dog boarding",
+   "lat": 45.5137377,
+   "lon": -73.5541351,
+   "distKm": 1.7,
+   "address": "819 avenue viger est, Montréal, h2l2p5",
+   "tags": {
+    "opening_hours": "24/7",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

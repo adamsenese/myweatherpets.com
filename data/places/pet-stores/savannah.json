@@ -1,0 +1,97 @@
+{
+ "$schemaVersion": 1,
+ "city": "savannah",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:35:34.271Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/3698936243",
+   "name": "Woof Gang Bakery",
+   "lat": 32.0807766,
+   "lon": -81.0942925,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4026355189",
+   "name": "The Grateful Hound",
+   "lat": 32.080027,
+   "lon": -81.093837,
+   "distKm": 0.3,
+   "address": "32 Barnard Street, Savannah, 31401",
+   "tags": {}
+  },
+  {
+   "id": "node/3374421592",
+   "name": "Oliver Bentleys Barking Bakery",
+   "lat": 32.0777096,
+   "lon": -81.0929051,
+   "distKm": 0.4,
+   "address": "9-11 West York Street, Savannah, GA",
+   "tags": {
+    "website": "https://www.oliverbentleys.com/"
+   }
+  },
+  {
+   "id": "node/11417053907",
+   "name": "Bentley's PETstuff",
+   "lat": 32.0418286,
+   "lon": -81.0063729,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8904715893",
+   "name": "Wild Birds Unlimited",
+   "lat": 32.0018936,
+   "lon": -81.1225081,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/5731449461",
+   "name": "PetSmart",
+   "lat": 31.9820873,
+   "lon": -81.1425105,
+   "distKm": 12,
+   "address": "11132 Abercorn Street, Savannah, GA 31419",
+   "tags": {
+    "phone": "+1 912-925-1116",
+    "website": "https://www.petsmart.com/stores/us/ga/savannah-store0221.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4049771623",
+   "name": "PetSmart",
+   "lat": 32.1416985,
+   "lon": -81.251417,
+   "distKm": 16.5,
+   "address": "262 Pooler Parkway, Pooler, GA 31322",
+   "tags": {
+    "phone": "+1 912-988-4072",
+    "website": "https://www.petsmart.com/stores/us/ga/pooler-store2396.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8730786066",
+   "name": "Woofgang Bakery & Grooming",
+   "lat": 32.0807274,
+   "lon": -81.2849941,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

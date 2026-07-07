@@ -1,0 +1,692 @@
+{
+ "$schemaVersion": 1,
+ "city": "calgary",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:39:38.008Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/4935936954",
+   "name": "17th Avenue Animal Hospital",
+   "lat": 51.0376884,
+   "lon": -114.0677671,
+   "distKm": 0.8,
+   "address": "233 17 Avenue SW, Calgary, T2S 0A4",
+   "tags": {
+    "phone": "+1-403-228-4165",
+    "website": "https://vcacanada.com/17th/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/13880515801",
+   "name": "Animal Clinic",
+   "lat": 51.0460785,
+   "lon": -114.08602,
+   "distKm": 1,
+   "address": "820 Unit #1 10 Street SW",
+   "tags": {}
+  },
+  {
+   "id": "node/2704578466",
+   "name": "Westmount Animal Clinic",
+   "lat": 51.0522318,
+   "lon": -114.0953139,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/222584488",
+   "name": "VCA Western Veterinary Specialist & Emergency Centre",
+   "lat": 51.0446469,
+   "lon": -114.1019941,
+   "distKm": 2.1,
+   "address": "1802 10 Avenue SW, Calgary, T3C 0J8",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/9416647330",
+   "name": "Ramsay Animal Hospital",
+   "lat": 51.0349178,
+   "lon": -114.0420541,
+   "distKm": 2.4,
+   "address": "2012 Spiller Road SE, T2G 4G6",
+   "tags": {
+    "phone": "+1-587-480-8100",
+    "website": "https://www.ramsayanimalclinic.ca/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00; PH off"
+   }
+  },
+  {
+   "id": "way/770536538",
+   "name": "Royal Loop Vet Clinic",
+   "lat": 51.0279195,
+   "lon": -114.0951813,
+   "distKm": 2.5,
+   "address": "1508 29 Avenue SW, T2T 1M3",
+   "tags": {
+    "phone": "+1-403-255-0221",
+    "website": "https://royalloopvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 09:00-15:00; Su off"
+   }
+  },
+  {
+   "id": "node/13734859618",
+   "name": "PetDerm",
+   "lat": 51.0210214,
+   "lon": -114.0582038,
+   "distKm": 2.8,
+   "address": "3815 Manchester Road SE, T2G 3Z8",
+   "tags": {
+    "phone": "+1 403-370-8800",
+    "website": "https://petderm.ca/",
+    "opening_hours": "Mo-Th 08:00-18:30"
+   }
+  },
+  {
+   "id": "node/5781108737",
+   "name": "Calgary Holistic Veterinary Clinic",
+   "lat": 51.0672004,
+   "lon": -114.0993499,
+   "distKm": 3.2,
+   "address": "1640 16 Avenue NW, Calgary, T2M 0L6",
+   "tags": {}
+  },
+  {
+   "id": "node/13065987084",
+   "name": "Village Vet Animal Clinic",
+   "lat": 51.0707398,
+   "lon": -114.0944552,
+   "distKm": 3.3,
+   "address": "2102 14 Street NW, Calgary, T2M 3N5",
+   "tags": {
+    "phone": "+1 403-800-0392",
+    "website": "https://village-vet.ca/"
+   }
+  },
+  {
+   "id": "node/3503891911",
+   "name": "Calgary Avian & Exotic Pet Clinic",
+   "lat": 51.0333853,
+   "lon": -114.117291,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-240-3577",
+    "website": "http://www.calgarypetvet.com/"
+   }
+  },
+  {
+   "id": "node/6208713763",
+   "name": "Marda Loop Veterinary Centre",
+   "lat": 51.0186964,
+   "lon": -114.1002541,
+   "distKm": 3.5,
+   "address": "4016 16 Street SW, T2T 4H4",
+   "tags": {
+    "phone": "+1-403-243-8873",
+    "website": "https://vcacanada.com/mardaloop",
+    "opening_hours": "Mo-Tu, Fr 08:00-18:00; We-Th 08:00-21:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/13990872802",
+   "name": "Ramsay animal clinic",
+   "lat": 51.0383784,
+   "lon": -114.0182025,
+   "distKm": 3.8,
+   "address": "1639 17A Street SE",
+   "tags": {
+    "phone": "+1-587-480-8100",
+    "website": "http://ramsayanimalclinic.ca/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/12135929763",
+   "name": "Calgary Cat Clinic",
+   "lat": 51.0701964,
+   "lon": -114.1168726,
+   "distKm": 4.2,
+   "address": "2116 Crowchild Trail NW, Calgary, T2M 3Y7",
+   "tags": {
+    "phone": "+1 403-289-9999",
+    "website": "https://www.calgarycatclinic.com/",
+    "opening_hours": "Tu,We 10:00-17:00; Th 12:00-19:00; Fr 10:00-18:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/13846714581",
+   "name": "Cambrian Animal Hospital",
+   "lat": 51.0826313,
+   "lon": -114.0956823,
+   "distKm": 4.5,
+   "address": "765 Northmount Drive NW, T2L 0A1",
+   "tags": {
+    "phone": "+1 403-457-3911",
+    "website": "https://www.cambriananimalhospital.com/",
+    "opening_hours": "Mo-Th 08:30-19:00; Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4511034828",
+   "name": "Killarney Cat Hospital",
+   "lat": 51.029804,
+   "lon": -114.1349037,
+   "distKm": 4.7,
+   "address": "3315 26 Avenue SW, T3E 0N2",
+   "tags": {
+    "phone": "+1-403-246-1115",
+    "website": "https://www.killarneycat.com/",
+    "opening_hours": "Mo-We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "way/676396994",
+   "name": "VCA Canada Canada North Animal Hospital",
+   "lat": 51.0891283,
+   "lon": -114.071224,
+   "distKm": 4.9,
+   "address": "4204 4 Street NW, Calgary, T2K 1A2",
+   "tags": {
+    "website": "https://vcacanada.com/calgarynorth/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12058986884",
+   "name": "Westland Veterinary Hospital",
+   "lat": 51.0370778,
+   "lon": -114.1428647,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-246-2244",
+    "website": "https://www.westlandvet.ca/"
+   }
+  },
+  {
+   "id": "node/4767439574",
+   "name": "Alpine Veterinary Clinic",
+   "lat": 50.9968421,
+   "lon": -114.0685309,
+   "distKm": 5.3,
+   "address": "321 61 Avenue SW, T2H 2W7",
+   "tags": {
+    "phone": "+1-403-212-4008"
+   }
+  },
+  {
+   "id": "node/5474138071",
+   "name": "McKnight 24 Hour Veterinary Hospital",
+   "lat": 51.0972233,
+   "lon": -114.0529988,
+   "distKm": 6,
+   "address": "5010 4 Street NE, Calgary, T2K 5X8",
+   "tags": {}
+  },
+  {
+   "id": "node/11068033080",
+   "name": "BFL Health Clinic",
+   "lat": 51.0227802,
+   "lon": -113.9903047,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/225324335",
+   "name": "Calgary Animal Referral and Emergency Centre (C.A.R.E. Centre)",
+   "lat": 50.9913395,
+   "lon": -114.0369912,
+   "distKm": 6.4,
+   "address": "7140 12 Street SE, Calgary",
+   "tags": {
+    "phone": "+1-403-520-8387",
+    "website": "http://carecentre.ca/",
+    "opening_hours": "00:00-24:00"
+   }
+  },
+  {
+   "id": "way/540319194",
+   "name": "VCA Canada Forest Lawn Animal Hospital",
+   "lat": 51.036079,
+   "lon": -113.9812376,
+   "distKm": 6.4,
+   "address": "2002 36 Street SE, Calgary",
+   "tags": {
+    "phone": "+1 403 272 0115",
+    "website": "https://vcacanada.com/forestlawn",
+    "opening_hours": "Mo 08:30-17:30; Tu-Th 08:30-20:00; Fr-Sa 08:30-17:30;PH off"
+   }
+  },
+  {
+   "id": "node/4893710005",
+   "name": "Signal Hill Animal Clinic",
+   "lat": 51.0357731,
+   "lon": -114.1658591,
+   "distKm": 6.6,
+   "address": "1919 Sirocco Drive SW",
+   "tags": {
+    "phone": "+1-403-249-3411",
+    "website": "https://www.signalhillanimalclinic.com/"
+   }
+  },
+  {
+   "id": "node/4831757569",
+   "name": "Britannia - Kingsland Veterinary Clinic",
+   "lat": 50.9847045,
+   "lon": -114.082382,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-253-7044",
+    "opening_hours": "Mo-Tu 08:00-18:00; We 08:00-20:00; Th-Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/1379601615",
+   "name": "Veterinary Clinic",
+   "lat": 51.1077068,
+   "lon": -114.0638306,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11865669785",
+   "name": "Glamorgan Animal Clinic",
+   "lat": 51.0166666,
+   "lon": -114.1610471,
+   "distKm": 7,
+   "address": "5255 Richmond Road SW",
+   "tags": {
+    "phone": "+1-403-246-1774",
+    "website": "https://www.glamorgananimalclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/4990943828",
+   "name": "West Hills Veterinary Clinic",
+   "lat": 51.0143256,
+   "lon": -114.1709254,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/9574214019",
+   "name": "Paramount Varsity Animal Clinic",
+   "lat": 51.0917116,
+   "lon": -114.1535937,
+   "distKm": 7.7,
+   "address": "156 4625 Varsity Drive NW, T3A 0Z9",
+   "tags": {
+    "phone": "+1-403-300-9111",
+    "website": "https://www.paramount24hr.com/paramount-varsity-animal-clinic",
+    "opening_hours": "Mo-Sa 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/1253821150",
+   "name": "Paramount 24 Hour Animal Hospital",
+   "lat": 51.0977105,
+   "lon": -114.1437501,
+   "distKm": 7.7,
+   "address": "5111 Northland Drive NW, Calgary, T2L 2J8",
+   "tags": {
+    "phone": "+1 403-300-9111",
+    "website": "https://paramount24hr.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11044300212",
+   "name": "VCA Canada Coach Hill Animal Hospital",
+   "lat": 51.060844,
+   "lon": -114.1798823,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "phone": "+1 403-246-8418"
+   }
+  },
+  {
+   "id": "node/1837935915",
+   "name": "Macleod Trail Veterinary Clinic",
+   "lat": 50.9733016,
+   "lon": -114.0709513,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4804787472",
+   "name": "VCA Canada Landing Animal Hospital",
+   "lat": 50.9730548,
+   "lon": -114.0971497,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa,Su off"
+   }
+  },
+  {
+   "id": "node/13741793753",
+   "name": "VCA Animal Hospital",
+   "lat": 51.0636053,
+   "lon": -113.955803,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We,Fr,Sa 08:30-17:30; Tu,Th 08:30-20:00; Su off"
+   }
+  },
+  {
+   "id": "node/1320756038",
+   "name": "Riverbend Animal Clinic",
+   "lat": 50.9770184,
+   "lon": -114.0138492,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4772212756",
+   "name": "Wild Rose Cat Clinic",
+   "lat": 50.9671041,
+   "lon": -114.0736023,
+   "distKm": 8.6,
+   "address": "9737 Macleod Trail S, Calgary",
+   "tags": {
+    "phone": "+1-403-278-5533",
+    "website": "http://www.catmd.ca/"
+   }
+  },
+  {
+   "id": "node/2732570689",
+   "name": "Dalhousie Station Veterinary",
+   "lat": 51.1049394,
+   "lon": -114.1619676,
+   "distKm": 9.2,
+   "address": "5005 Dalhousie Drive NW, Calgary, T3A 5R8",
+   "tags": {
+    "phone": "+1-403-284-2265",
+    "website": "www.infovet.ca/dalhousiestationvet/",
+    "opening_hours": "Mo-Th 08:00-20:00; Sa 09:00-16:00; Su off; Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/8793422206",
+   "name": "Beddington Trail Animal Hospital",
+   "lat": 51.1270692,
+   "lon": -114.0561833,
+   "distKm": 9.2,
+   "address": "176 Bedford Drive NE, Calgary, T3K 2M9",
+   "tags": {
+    "phone": "+1-403-263-8101",
+    "website": "https://www.beddingtonvet.com/"
+   }
+  },
+  {
+   "id": "node/12875937365",
+   "name": "Properties Animal Clinic",
+   "lat": 51.0850032,
+   "lon": -113.9568276,
+   "distKm": 9.2,
+   "address": "5401 Temple Drive NE, Calgary, T1Y 3R7",
+   "tags": {
+    "phone": "+1 403 285 5111",
+    "website": "https://propertiesanimalclinic.com/",
+    "opening_hours": "Mo,We,Fr 08:00-17:00; Tu,Th 08:00-19:00; PH off"
+   }
+  },
+  {
+   "id": "node/13075350840",
+   "name": "Southwood Veterinary Hospital",
+   "lat": 50.9623404,
+   "lon": -114.0867166,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/2273027503",
+   "name": "Chinook Animal Clinic",
+   "lat": 50.9618426,
+   "lon": -114.0591678,
+   "distKm": 9.3,
+   "address": "9945 Fairmount Drive SE",
+   "tags": {
+    "website": "http://www.chinookvet.com/"
+   }
+  },
+  {
+   "id": "node/13099836723",
+   "name": "Oakridge Animal Clinic",
+   "lat": 50.9700525,
+   "lon": -114.1305201,
+   "distKm": 9.3,
+   "address": "3109 Palliser Drive SW, Calgary, T2V 4W5",
+   "tags": {
+    "phone": "+1-403-460-7541",
+    "website": "https://oakridgeanimalcliniccalgary.com/",
+    "opening_hours": "Mo-Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4455241060",
+   "name": "North East Animal Clinic",
+   "lat": 51.0710769,
+   "lon": -113.9443587,
+   "distKm": 9.4,
+   "address": "6208 Rundlehorn Drive NE",
+   "tags": {}
+  },
+  {
+   "id": "node/12101037720",
+   "name": "Trinity Hills 24hr Pet Hospital",
+   "lat": 51.0785078,
+   "lon": -114.1956644,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4995514811",
+   "name": "Acadia Drive Animal Clinic",
+   "lat": 50.9602109,
+   "lon": -114.0449716,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-278-3168"
+   }
+  },
+  {
+   "id": "node/5180508425",
+   "name": "Bowness Animal Hospital",
+   "lat": 51.090112,
+   "lon": -114.2002671,
+   "distKm": 10.3,
+   "address": "7930 Bowness Road NW, T3B 0H3",
+   "tags": {
+    "phone": "+1 587-391-3911",
+    "website": "https://bownessvet.ca/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/10600024602",
+   "name": "Silver Springs Animal Hospital",
+   "lat": 51.1047843,
+   "lon": -114.1877698,
+   "distKm": 10.5,
+   "address": "5720 Silver Springs Boulevard NW, Calgary, T3B 4N7",
+   "tags": {
+    "phone": "+1 403-288-2123",
+    "website": "https://www.silverspringsanimalhospital.ca/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Th 08:00-21:00; Sa 09:00-17:30"
+   }
+  },
+  {
+   "id": "node/8899816354",
+   "name": "Braeside Veterinary Clinic",
+   "lat": 50.9530039,
+   "lon": -114.1159025,
+   "distKm": 10.7,
+   "address": "11440 Braeside Drive SW",
+   "tags": {
+    "phone": "+1 403 281 1338"
+   }
+  },
+  {
+   "id": "node/13176969522",
+   "name": "Ranchlands Veterinary Clinic",
+   "lat": 51.1207836,
+   "lon": -114.1796132,
+   "distKm": 11.3,
+   "address": "7750 Ranchview Drive NW, Calgary, T3G 1Y9",
+   "tags": {
+    "phone": "+1 403-457-3558",
+    "website": "https://ranchlandveterinaryclinic.com/"
+   }
+  },
+  {
+   "id": "node/13502832175",
+   "name": "Pawmer Vet Clinic",
+   "lat": 51.088004,
+   "lon": -114.2201293,
+   "distKm": 11.4,
+   "address": "45 Greenbriar Lane NW, Calgary, T3B 6N4",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/4913454488",
+   "name": "Douglas Square Pet Clinic",
+   "lat": 50.9515744,
+   "lon": -114.000195,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4792471866",
+   "name": "Avenida Pet Clinic",
+   "lat": 50.940556,
+   "lon": -114.0679948,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-271-1121"
+   }
+  },
+  {
+   "id": "node/4833618669",
+   "name": "Canyon Meadows Veterinary Clinic",
+   "lat": 50.9386549,
+   "lon": -114.0837644,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-251-6926"
+   }
+  },
+  {
+   "id": "way/1257645750",
+   "name": "VCA Animal Hospital",
+   "lat": 51.1373464,
+   "lon": -114.1592454,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6338642879",
+   "name": "VCA Canada Harvest Hills Animal Hospital",
+   "lat": 51.1553752,
+   "lon": -114.0541447,
+   "distKm": 12.4,
+   "address": "500 Country Hills Boulevard NE, Calgary, T3K 4Y7",
+   "tags": {}
+  },
+  {
+   "id": "node/11639098294",
+   "name": "VCA Animal Hospital",
+   "lat": 51.1536496,
+   "lon": -114.0313081,
+   "distKm": 12.4,
+   "address": "11154",
+   "tags": {}
+  },
+  {
+   "id": "node/13108169834",
+   "name": "Petzoic Vet Hospital",
+   "lat": 50.9415768,
+   "lon": -114.1452512,
+   "distKm": 12.6,
+   "address": "11501 Buffalo Run Boulevard, T3T0E4",
+   "tags": {
+    "phone": "+1-403-453-9111",
+    "website": "https://petzoicvet.com/"
+   }
+  },
+  {
+   "id": "node/13004171226",
+   "name": "VCA Canada",
+   "lat": 51.1277654,
+   "lon": -114.1957642,
+   "distKm": 12.7,
+   "address": "150 Crowfoot Crescent NW, Calgary, T3G 3T2",
+   "tags": {
+    "phone": "+1 403-241-8944",
+    "website": "https://vcacanada.com/crowfoot",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4211244800",
+   "name": "Bow Bottom Veterinary Hospital",
+   "lat": 50.9284867,
+   "lon": -114.0271737,
+   "distKm": 13.3,
+   "address": "1186 137 Avenue SE, Calgary",
+   "tags": {
+    "phone": "+1-403-278-1984",
+    "website": "https://www.bowbottomvet.com/"
+   }
+  },
+  {
+   "id": "node/4453494639",
+   "name": "Stoney Trail Veterinary Clinic",
+   "lat": 51.0915001,
+   "lon": -114.247814,
+   "distKm": 13.3,
+   "address": "11245 Valley Ridge Drive NW",
+   "tags": {
+    "phone": "+1-403-247-2737"
+   }
+  },
+  {
+   "id": "node/1048239533",
+   "name": "Panorama Hills Animal Hospital",
+   "lat": 51.1679715,
+   "lon": -114.0913391,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

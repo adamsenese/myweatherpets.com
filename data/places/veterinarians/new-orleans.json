@@ -1,0 +1,232 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-orleans",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:31:15.382Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "node/1254389404",
+   "name": "French Quarter Vet",
+   "lat": 29.960021,
+   "lon": -90.0628463,
+   "distKm": 1.3,
+   "address": "922 Royal St",
+   "tags": {
+    "phone": "+1 504 3227030",
+    "website": "https://thefrenchquartervet.vetmatrixbase.com/"
+   }
+  },
+  {
+   "id": "node/3519577105",
+   "name": "Pet Care Center",
+   "lat": 29.9650967,
+   "lon": -90.0626406,
+   "distKm": 1.8,
+   "address": "938 Esplanade Avenue",
+   "tags": {
+    "phone": "+1 504-522-2997",
+    "website": "https://www.petcarecenternola.com/"
+   }
+  },
+  {
+   "id": "node/1235088039",
+   "name": "Canal Street Veterinary Hospital",
+   "lat": 29.9738855,
+   "lon": -90.1001934,
+   "distKm": 3.7,
+   "address": "4022 Canal Street",
+   "tags": {}
+  },
+  {
+   "id": "node/2391637592",
+   "name": "Villalobos Rescue Center",
+   "lat": 29.9695994,
+   "lon": -90.0283812,
+   "distKm": 4.6,
+   "address": "4525  North Claiborne Avenue, LA 70117",
+   "tags": {
+    "website": "www.vrcpitbull.net"
+   }
+  },
+  {
+   "id": "node/5070462935",
+   "name": "Primary Veterinary Care",
+   "lat": 29.9120918,
+   "lon": -90.0510457,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "website": "http://primaryveterinarycare.com/"
+   }
+  },
+  {
+   "id": "way/327275998",
+   "name": "Maple Small Animal Clinic",
+   "lat": 29.9412834,
+   "lon": -90.1291166,
+   "distKm": 5.7,
+   "address": "7608 Maple Street",
+   "tags": {
+    "phone": "+1 504 866 6316",
+    "website": "https://maplesmallanimalclinic.com/"
+   }
+  },
+  {
+   "id": "node/6750256011",
+   "name": "Crescent City Veterinary Hospital",
+   "lat": 29.917085,
+   "lon": -90.1164718,
+   "distKm": 5.8,
+   "address": "524 Jefferson Avenue, New Orleans, LA 70115",
+   "tags": {
+    "phone": "+1 504-894-0752",
+    "website": "https://crescentcityvet.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/7880002331",
+   "name": "MSAH",
+   "lat": 30.0191521,
+   "lon": -90.1052166,
+   "distKm": 8.2,
+   "address": "734 Allen Toussaint Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/6463215074",
+   "name": "Causeway Animal Hospital",
+   "lat": 29.9847327,
+   "lon": -90.1555149,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1064722338",
+   "name": "Southshore Animal Hospital",
+   "lat": 30.0182868,
+   "lon": -90.1240245,
+   "distKm": 9,
+   "address": "213 Live Oak Street, Metairie, LA 70005",
+   "tags": {
+    "phone": "+1-504-831-7724",
+    "website": "https://www.southshoreanimal.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1064686311",
+   "name": "MedVet",
+   "lat": 29.9951152,
+   "lon": -90.1542251,
+   "distKm": 9.4,
+   "address": "2315 North Causeway Boulevard, Metairie, LA 70001",
+   "tags": {
+    "phone": "+1 504-835-8508",
+    "website": "https://www.medvetforpets.com/location/new-orleans/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/7447601998",
+   "name": "Ark Animal Hospital",
+   "lat": 29.9608335,
+   "lon": -90.17045,
+   "distKm": 9.6,
+   "address": "4211 Jefferson Highway, 70121",
+   "tags": {
+    "phone": "+1-504-834-0906",
+    "website": "https://arkanimalnola.com/"
+   }
+  },
+  {
+   "id": "node/4576277529",
+   "name": "Animal Medical & Surgical Hospital",
+   "lat": 30.0052844,
+   "lon": -90.1546819,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/723925394",
+   "name": "Avian & Exotic Animal Hospital",
+   "lat": 29.9983998,
+   "lon": -90.1640871,
+   "distKm": 10.4,
+   "address": "3635 I-10 Service Road, Metairie, 70002",
+   "tags": {
+    "website": "https://gregrichdvm.com"
+   }
+  },
+  {
+   "id": "way/725692173",
+   "name": "VCA Animal Hospital",
+   "lat": 29.9765074,
+   "lon": -90.1876797,
+   "distKm": 11.5,
+   "address": "5105 Airline Drive, Metairie, 70001",
+   "tags": {}
+  },
+  {
+   "id": "way/1062699808",
+   "name": "River Ridge Veterinary Clinic",
+   "lat": 29.9475065,
+   "lon": -90.2132661,
+   "distKm": 13.7,
+   "address": "9019 Jefferson Highway, River Ridge, 70123",
+   "tags": {
+    "website": "http://riverridgeveterinaryclinic.com/"
+   }
+  },
+  {
+   "id": "node/6071479266",
+   "name": "Pet Care Center",
+   "lat": 29.9968941,
+   "lon": -90.2182238,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6228442135",
+   "name": "Low Cost Vaccinations",
+   "lat": 30.0068417,
+   "lon": -90.2198594,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8066935906",
+   "name": "Levy Veterinary Hospital",
+   "lat": 30.0185712,
+   "lon": -90.2342716,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6994219458",
+   "name": "Metairie Small Animal Hospital",
+   "lat": 30.0298662,
+   "lon": -90.240149,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/747419330",
+   "name": "Chateau Veterinary",
+   "lat": 30.0222536,
+   "lon": -90.2587043,
+   "distKm": 19.7,
+   "address": "704 West Esplanade Avenue, Kenner, 70065",
+   "tags": {}
+  }
+ ]
+}

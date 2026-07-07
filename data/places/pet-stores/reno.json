@@ -1,0 +1,207 @@
+{
+ "$schemaVersion": 1,
+ "city": "reno",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:36:20.063Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "node/11082221132",
+   "name": "Pettin' Place",
+   "lat": 39.5145984,
+   "lon": -119.8033925,
+   "distKm": 1.9,
+   "address": "1121 South Wells Avenue",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/12140500830",
+   "name": "Pet Station",
+   "lat": 39.5067428,
+   "lon": -119.8015719,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13348313255",
+   "name": "Parrot Connection",
+   "lat": 39.4931141,
+   "lon": -119.8066117,
+   "distKm": 4.1,
+   "address": "3382 Lakeside Court, Reno, NV 89509",
+   "tags": {}
+  },
+  {
+   "id": "way/668810375",
+   "name": "Petco",
+   "lat": 39.5581263,
+   "lon": -119.7811408,
+   "distKm": 4.2,
+   "address": "2970 Northtowne Lane, Reno, NV 89512",
+   "tags": {
+    "phone": "+1 775-673-9200",
+    "website": "https://stores.petco.com/nv/reno/pet-supplies-reno-nv-310.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/467676980",
+   "name": "PetSmart",
+   "lat": 39.5297744,
+   "lon": -119.8657741,
+   "distKm": 4.5,
+   "address": "5110 Mae Anne Avenue, Reno, NV 89523",
+   "tags": {
+    "phone": "+1 775-787-7833",
+    "website": "https://www.petsmart.com/stores/us/nv/reno-store1308.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11404644213",
+   "name": "Healthy Tails",
+   "lat": 39.506559,
+   "lon": -119.8593304,
+   "distKm": 4.7,
+   "address": "3892 Mayberry Drive, Reno, NV 89519",
+   "tags": {
+    "opening_hours": "Mo,Su 10:00-17:00; Tu-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/481148042",
+   "name": "Greens Feed",
+   "lat": 39.570272,
+   "lon": -119.8272373,
+   "distKm": 4.7,
+   "address": "75 Bailey Drive, Reno, NV 89503",
+   "tags": {}
+  },
+  {
+   "id": "way/1318885611",
+   "name": "Pet Station",
+   "lat": 39.5286301,
+   "lon": -119.8798216,
+   "distKm": 5.7,
+   "address": "1654 Robb Drive, Reno, NV 89523",
+   "tags": {}
+  },
+  {
+   "id": "way/1083601450",
+   "name": "Petco",
+   "lat": 39.4750466,
+   "lon": -119.7899431,
+   "distKm": 6.4,
+   "address": "5565 South Virginia Street, Reno, NV 89502",
+   "tags": {
+    "phone": "+1 775-829-9200",
+    "website": "https://stores.petco.com/nv/reno/pet-supplies-reno-nv-304.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9531181923",
+   "name": "PetSmart",
+   "lat": 39.4649815,
+   "lon": -119.78536,
+   "distKm": 7.6,
+   "address": "6675 South Virginia Street, Reno, NV 89511",
+   "tags": {
+    "phone": "+1 775-852-8490",
+    "website": "https://www.petsmart.com/stores/us/nv/reno-store1342.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6978708759",
+   "name": "Petco",
+   "lat": 39.5353963,
+   "lon": -119.7191307,
+   "distKm": 8.1,
+   "address": "1320 East Lincoln Way, Sparks, NV 89434",
+   "tags": {
+    "phone": "+1 775-386-1025",
+    "website": "https://stores.petco.com/nv/sparks/pet-supplies-sparks-nv-2144.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13421821001",
+   "name": "Pet Station",
+   "lat": 39.5553063,
+   "lon": -119.7233098,
+   "distKm": 8.3,
+   "address": "1219 Baring Boulevard, 89434",
+   "tags": {
+    "phone": "+1-775-331-5500",
+    "website": "https://tahoepetstation.com/a/pages/locations/475/east-sparks",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/11535049194",
+   "name": "Pet Station",
+   "lat": 39.6052721,
+   "lon": -119.8407716,
+   "distKm": 8.7,
+   "address": "1075 North Hills Boulevard, Reno, NV 89506",
+   "tags": {
+    "opening_hours": "10:00-19:00"
+   }
+  },
+  {
+   "id": "way/579767217",
+   "name": "PetSmart",
+   "lat": 39.5823458,
+   "lon": -119.738395,
+   "distKm": 8.7,
+   "address": "255 Los Altos Parkway, Sparks, NV 89436",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5575010625",
+   "name": "Reigning Cats & Dogs",
+   "lat": 39.5776479,
+   "lon": -119.7202472,
+   "distKm": 9.6,
+   "address": "1338 Disc Drive, Sparks, NV 89436",
+   "tags": {
+    "phone": "+1-775-626-3433"
+   }
+  },
+  {
+   "id": "node/10231813532",
+   "name": "Healthy Tails",
+   "lat": 39.4399496,
+   "lon": -119.7718935,
+   "distKm": 10.6,
+   "address": "55 Foothill Road",
+   "tags": {
+    "phone": "+1-775-851-2287",
+    "website": "https://www.healthytails.com/",
+    "opening_hours": "Tu-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/9799370033",
+   "name": "Pet Station",
+   "lat": 39.4396365,
+   "lon": -119.7605779,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "$schemaVersion": 1,
+ "city": "dublin",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:38:32.533Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/552236781",
+   "name": "Dog walking area of Belgrave Square",
+   "lat": 53.3222445,
+   "lon": -6.2602296,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/851450576",
+   "name": "Bark Park",
+   "lat": 53.3452537,
+   "lon": -6.3066042,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1427988841",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.4026137,
+   "lon": -6.2447337,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/335229648",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.372932,
+   "lon": -6.1733939,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1419329891",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.2954378,
+   "lon": -6.2142361,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/484770922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.3051536,
+   "lon": -6.343823,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/97980476",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.2706622,
+   "lon": -6.2642853,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "hedge"
+   }
+  },
+  {
+   "id": "way/1372774931",
+   "name": "Small Dog",
+   "lat": 53.2568372,
+   "lon": -6.2292168,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {
+    "dog": "small"
+   }
+  },
+  {
+   "id": "way/1372774933",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.257085,
+   "lon": -6.2289131,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {
+    "surface": "sand"
+   }
+  },
+  {
+   "id": "way/1372774932",
+   "name": "Large Dog",
+   "lat": 53.2566359,
+   "lon": -6.2289142,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "dog": "large"
+   }
+  },
+  {
+   "id": "way/1481659455",
+   "name": "Sean Walsh Dog Park",
+   "lat": 53.277687,
+   "lon": -6.3728797,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/868092854",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.3088003,
+   "lon": -6.4134448,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1138486752",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.3939304,
+   "lon": -6.4120906,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1527697959",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.2857236,
+   "lon": -6.3970738,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/924789679",
+   "name": "Dog run",
+   "lat": 53.3424309,
+   "lon": -6.4415176,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/125196252",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.2599821,
+   "lon": -6.1555592,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1473997716",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.2548461,
+   "lon": -6.1423838,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/930405503",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.3662429,
+   "lon": -6.4715438,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1241026060",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.4887885,
+   "lon": -6.1769873,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/374063781",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 53.2279414,
+   "lon": -6.1118786,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  }
+ ]
+}

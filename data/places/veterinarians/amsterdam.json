@@ -1,0 +1,694 @@
+{
+ "$schemaVersion": 1,
+ "city": "amsterdam",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:38:26.065Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/2737946212",
+   "name": "Dierenkliniek de Wetering",
+   "lat": 52.3600357,
+   "lon": 4.8894168,
+   "distKm": 1.3,
+   "address": "141A Weteringschans, Amsterdam, 1017SE",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-19:00, Sa 09:30-14:00"
+   }
+  },
+  {
+   "id": "node/2743194423",
+   "name": "Caressa Dierenkliniek Amsterdam Centrum Oost",
+   "lat": 52.3678923,
+   "lon": 4.9252244,
+   "distKm": 1.4,
+   "address": "183 Oostenburgergracht, Amsterdam, 1018ND",
+   "tags": {}
+  },
+  {
+   "id": "node/2817534253",
+   "name": "Dierenkliniek De Pijp",
+   "lat": 52.3551594,
+   "lon": 4.901734,
+   "distKm": 1.4,
+   "address": "199-H Ceintuurbaan, Amsterdam, 1074CV",
+   "tags": {
+    "phone": "+31 20 2619548",
+    "website": "https://dierenkliniekdepijp.nl",
+    "opening_hours": "Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/1208560339",
+   "name": "Sterkliniek dierenartsen",
+   "lat": 52.3542507,
+   "lon": 4.9205593,
+   "distKm": 1.9,
+   "address": "13 Krugerplein, Amsterdam, 1092KA",
+   "tags": {
+    "website": "https://www.sterkliniekamsterdam.nl/",
+    "opening_hours": "Mo,Th,Fr 09:00-19:00; Tu 09:00-14:00; We 14:00-19:00; Sa 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/2743658955",
+   "name": "DierenDokters",
+   "lat": 52.3724042,
+   "lon": 4.8750048,
+   "distKm": 2,
+   "address": "226 Rozengracht, Amsterdam, 1016SZ",
+   "tags": {
+    "phone": "+31 20 623 8596",
+    "website": "https://www.dierendokters.com/"
+   }
+  },
+  {
+   "id": "node/11733818954",
+   "name": "Dierenkliniek de Jordaan",
+   "lat": 52.380534,
+   "lon": 4.8841898,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11144492659",
+   "name": "Dierenkliniek Dockland",
+   "lat": 52.3872743,
+   "lon": 4.9055013,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "phone": "+31 20 636 1743",
+    "website": "https://www.dierenkliniekdockland.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/5243976908",
+   "name": "Dierenklliniek IJhavens",
+   "lat": 52.378353,
+   "lon": 4.9326342,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "website": "https://dierenkliniekijhavens.nl"
+   }
+  },
+  {
+   "id": "node/12055417841",
+   "name": "Dierenkliniek Amsterdam - Frederik Hendrikstraat",
+   "lat": 52.3758692,
+   "lon": 4.8738176,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2830027551",
+   "name": "Joyce Hofman Dierenklinieken",
+   "lat": 52.3653173,
+   "lon": 4.9397379,
+   "distKm": 2.4,
+   "address": "25 Molukkenstraat, Amsterdam, 1095AS",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4745134222",
+   "name": "Dierenkliniek Vondelpark",
+   "lat": 52.354099,
+   "lon": 4.8711394,
+   "distKm": 2.7,
+   "address": "115 HS Johannes Verhulststraat, Amsterdam, 1051MZ",
+   "tags": {
+    "phone": "+31 20 662 0101",
+    "website": "https://dierenkliniekvondelpark.nl/",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 10:30-12:00"
+   }
+  },
+  {
+   "id": "node/11733722850",
+   "name": "Dierenkliniek Amsterdam",
+   "lat": 52.387051,
+   "lon": 4.8815241,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We,Fr 09:00-20:00; Tu,Th 09:00-18:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/1794106440",
+   "name": "Dierenkliniek Europaplein",
+   "lat": 52.3435579,
+   "lon": 4.8916863,
+   "distKm": 2.8,
+   "address": "19 Europaplein, Amsterdam, 1078GS",
+   "tags": {
+    "website": "https://www.dierenkliniek-europaplein.com",
+    "opening_hours": "Mo-Fr 08:30-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/2818335056",
+   "name": "Sterkliniek",
+   "lat": 52.3426055,
+   "lon": 4.9060917,
+   "distKm": 2.8,
+   "address": "109 Uiterwaardenstraat, Amsterdam, 1079BV",
+   "tags": {
+    "website": "https://www.sterkliniekamsterdam.nl"
+   }
+  },
+  {
+   "id": "node/2818253102",
+   "name": "Natuurlijk Gezonde Dieren",
+   "lat": 52.341229,
+   "lon": 4.9073856,
+   "distKm": 2.9,
+   "address": "233-H Rijnstraat, Amsterdam, 1079HH",
+   "tags": {
+    "website": "https://www.natuurlijkgezondedieren.nl"
+   }
+  },
+  {
+   "id": "node/12730903211",
+   "name": "Joyce Hofman Dierenklinieken",
+   "lat": 52.3495542,
+   "lon": 4.9378968,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5101755624",
+   "name": "Dierenkliniek Overtoom",
+   "lat": 52.3580468,
+   "lon": 4.8572599,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12565719901",
+   "name": "Dierenkliniek Vondelpark",
+   "lat": 52.3522934,
+   "lon": 4.8568404,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2848406809",
+   "name": "Dierenkliniek Amsterdam Noord",
+   "lat": 52.3898734,
+   "lon": 4.9473931,
+   "distKm": 3.8,
+   "address": "18-H Oudorperstraat, Amsterdam, 1023SW",
+   "tags": {
+    "phone": "+31 20 636 4681",
+    "website": "https://www.dierenkliniekamsterdamnoord.nl",
+    "opening_hours": "Mo-Fr 08:30-17:00, 17:30-19:00"
+   }
+  },
+  {
+   "id": "node/12468962254",
+   "name": "Dierenkliniek Duivendrecht",
+   "lat": 52.3350107,
+   "lon": 4.9421745,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13605384301",
+   "name": "Joyce Hofman Dieren Klinieken",
+   "lat": 52.3404133,
+   "lon": 4.9557996,
+   "distKm": 4.6,
+   "address": "24 Arent Krijtsstraat",
+   "tags": {
+    "phone": "+31 20 694 7578",
+    "website": "https://jhdierenklinieken.nl/locaties/diemen/",
+    "opening_hours": "Mo, We-Th 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/2738247312",
+   "name": "Medisch Centrum voor Dieren",
+   "lat": 52.3945894,
+   "lon": 4.8501894,
+   "distKm": 4.7,
+   "address": "45 Isolatorweg, Amsterdam, 1014AS",
+   "tags": {
+    "phone": "+31 20 740 0600",
+    "website": "https://www.anicura.nl/klinieken/noord-holland/mcd/"
+   }
+  },
+  {
+   "id": "node/2818784928",
+   "name": "Dierenkliniek Buitenveldert",
+   "lat": 52.3261531,
+   "lon": 4.8749808,
+   "distKm": 5,
+   "address": "166 Kastelenstraat, Amsterdam, 1082EJ",
+   "tags": {
+    "website": "https://www.dkbuitenveldert.nl/"
+   }
+  },
+  {
+   "id": "node/2846858009",
+   "name": "Dierenkliniek de Zon",
+   "lat": 52.4133342,
+   "lon": 4.8904696,
+   "distKm": 5.2,
+   "address": "21 Zonneplein, Amsterdam, 1033EJ",
+   "tags": {}
+  },
+  {
+   "id": "node/4986899407",
+   "name": "Dierenziekenhuis Diemen",
+   "lat": 52.3499816,
+   "lon": 4.9774203,
+   "distKm": 5.4,
+   "address": "1 Gruttoplein, Diemen, 1113HL",
+   "tags": {
+    "phone": "+31 20 737 3170",
+    "website": "https://www.dierenziekenhuisdiemen.nl",
+    "opening_hours": "Mo-Fr 08:30-18:00"
+   }
+  },
+  {
+   "id": "node/2842363791",
+   "name": "Caressa Dierenkliniek IJburg",
+   "lat": 52.358454,
+   "lon": 4.9912012,
+   "distKm": 6,
+   "address": "108 Joris Ivensplein, Amsterdam, 1087BP",
+   "tags": {
+    "phone": "+31 20 472 1222",
+    "website": "https://dierenziekenhuizen.nl/locaties/dierenarts-dierenkliniek-amsterdam-ijburg/",
+    "opening_hours": "Tu-Fr 08:30-17:00"
+   }
+  },
+  {
+   "id": "node/2842400586",
+   "name": "Dierenkliniek IJburglaan",
+   "lat": 52.3559486,
+   "lon": 4.9944381,
+   "distKm": 6.3,
+   "address": "983 IJburglaan, Amsterdam, 1087EN",
+   "tags": {
+    "phone": "+31 20 416 1435",
+    "website": "https://www.dierenkliniekijburglaan.nl/",
+    "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-20:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/747367236",
+   "name": "Dierenziekenhuis Amsterdam",
+   "lat": 52.3456723,
+   "lon": 4.8165769,
+   "distKm": 6.4,
+   "address": "12 Leuvenstraat, Amsterdam, 1066HC",
+   "tags": {
+    "website": "https://dierenziekenhuizen.nl/dierenarts-dierenkliniek-amsterdam"
+   }
+  },
+  {
+   "id": "node/2795480794",
+   "name": "Dierenkliniek Osdorp",
+   "lat": 52.3549912,
+   "lon": 4.8115886,
+   "distKm": 6.4,
+   "address": "104 Pieter Calandlaan, Amsterdam, 1068NP",
+   "tags": {
+    "phone": "+31 20 619 1613",
+    "website": "https://dierenkliniekosdorp.nl/"
+   }
+  },
+  {
+   "id": "node/2874256070",
+   "name": "Stad & Land Landsmeer",
+   "lat": 52.4302257,
+   "lon": 4.9137274,
+   "distKm": 7,
+   "address": "64 Dorpsstraat, Landsmeer, 1121BZ",
+   "tags": {
+    "phone": "+31 20 482 1854",
+    "website": "https://www.dierenklinieken.net/site/dierenkliniek-landsmeer",
+    "opening_hours": "Mo,We,Fr 08:00-19:00; Tu, Th 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/2862572951",
+   "name": "Dierenartsenpraktijk Polanen",
+   "lat": 52.3220801,
+   "lon": 4.9780923,
+   "distKm": 7.1,
+   "address": "58 Grubbehoeve, Amsterdam, 1103GJ",
+   "tags": {
+    "phone": "+31 20 699 6959",
+    "website": "http://www.dierenarts.polanen.nl",
+    "opening_hours": "Mo,Tu,Th,Fr 09:15-16:30; We 09:15-15:00"
+   }
+  },
+  {
+   "id": "node/2862573088",
+   "name": "Heukels Orthomanuele Diergeneeskunde",
+   "lat": 52.3202124,
+   "lon": 4.9816349,
+   "distKm": 7.5,
+   "address": "7 Arènpalmstraat, Amsterdam, 1104DB",
+   "tags": {
+    "phone": "+31 20 211 79 49",
+    "website": "https://orthomanueeldierenarts.nl/"
+   }
+  },
+  {
+   "id": "node/2808316635",
+   "name": "Stad & Land Amstelveen Zuid",
+   "lat": 52.2956654,
+   "lon": 4.8647617,
+   "distKm": 8.4,
+   "address": "10 Maarten Lutherweg, Amstelveen, 1185AN",
+   "tags": {
+    "website": "https://www.dierenklinieken.net/site/dierenarts-amstelveen-maarten-lutherweg",
+    "opening_hours": "Mo,We,Fr 08:30-19:00; Tu,Th 08:30-17:00"
+   }
+  },
+  {
+   "id": "node/2895377093",
+   "name": "Plus Dierenkliniek De Saen",
+   "lat": 52.445948,
+   "lon": 4.8364259,
+   "distKm": 9.8,
+   "address": "14B Tjotterlaan, Zaandam, 1503LB",
+   "tags": {
+    "phone": "+31 75 617 3911",
+    "website": "https://www.plusdierenklinieken.nl/de-saen/",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa 11:00-16:00, Su 13:00-15:00"
+   }
+  },
+  {
+   "id": "node/12339998967",
+   "name": "Dierenartspraktijk Gein",
+   "lat": 52.2959617,
+   "lon": 4.9882231,
+   "distKm": 9.8,
+   "address": "65 Westbroekplein, 1107NK",
+   "tags": {
+    "phone": "+31 20 691 2347",
+    "website": "https://www.dierenartspraktijkgein.nl/",
+    "opening_hours": "Tu-Fr 09:30-13:00, Mo 08:30-13:00,13:30-18:00, Tu-Fr 13:30-18:00; Sa,Su off"
+   }
+  },
+  {
+   "id": "node/2788714380",
+   "name": "Stad & Land Amsterdam",
+   "lat": 52.3814745,
+   "lon": 4.7595743,
+   "distKm": 9.9,
+   "address": "102 Tom Schreursweg, Amsterdam, 1067MC",
+   "tags": {
+    "phone": "+31 20 585 4070",
+    "website": "https://www.dierenklinieken.net/site/dierenkliniek-amsterdam",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/10050773497",
+   "name": "Plus Dierenkliniek",
+   "lat": 52.4476604,
+   "lon": 4.8027525,
+   "distKm": 11.2,
+   "address": "166 Langeweide, Zaandam, 1507NH",
+   "tags": {
+    "phone": "+31 75 616 0761",
+    "website": "https://www.plusdierenklinieken.nl"
+   }
+  },
+  {
+   "id": "node/2860108627",
+   "name": "Het Grote Plein",
+   "lat": 52.3066825,
+   "lon": 5.0423526,
+   "distKm": 11.6,
+   "address": "2 Het Grote Plein, Weesp, 1381BE",
+   "tags": {
+    "phone": "+31 294 419 214",
+    "website": "https://dierenartsweesp.nl",
+    "opening_hours": "Mo-Fr 09:00-19:30; Sa 10:00-12:00"
+   }
+  },
+  {
+   "id": "node/2742061415",
+   "name": "Evidensia Dierenziekenhuis",
+   "lat": 52.3828758,
+   "lon": 4.7334994,
+   "distKm": 11.7,
+   "address": "10 De Heining, Zwanenburg, 1161PA",
+   "tags": {
+    "phone": "+31 20 308 0750",
+    "website": "https://www.edz-amsterdam.nl/"
+   }
+  },
+  {
+   "id": "node/2833805580",
+   "name": "Dierenarts Muiden",
+   "lat": 52.3313782,
+   "lon": 5.0710386,
+   "distKm": 12,
+   "address": "6 Ossenmarkt, Muiden, 1398AP",
+   "tags": {}
+  },
+  {
+   "id": "node/2878767399",
+   "name": "Dierenartspraktijk Purmerend Loc. Weidevenne",
+   "lat": 52.4921381,
+   "lon": 4.9451279,
+   "distKm": 14.1,
+   "address": "80B Gangeslaan, Purmerend, 1448BX",
+   "tags": {
+    "phone": "+31 299 47 10 74"
+   }
+  },
+  {
+   "id": "node/2767015325",
+   "name": "Dierenartsenpraktijk Westeinder",
+   "lat": 52.2639141,
+   "lon": 4.7561278,
+   "distKm": 15.3,
+   "address": "48 Hadleystraat, Aalsmeer, 1431SN",
+   "tags": {
+    "website": "https://www.dap-westeinder.nl/"
+   }
+  },
+  {
+   "id": "node/9394161882",
+   "name": "Dierenarts Purmerend",
+   "lat": 52.5003496,
+   "lon": 4.9652465,
+   "distKm": 15.3,
+   "address": "5 Kraggeveenstraat, Purmerend, 1441MK",
+   "tags": {
+    "phone": "+31 299 421 000",
+    "website": "https://www.dierenartspurmerend.nl/",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/2878225032",
+   "name": "Dierenkliniek Waterland",
+   "lat": 52.5035033,
+   "lon": 4.9591049,
+   "distKm": 15.6,
+   "address": "102 Waterlandlaan, Purmerend, 1441RW",
+   "tags": {
+    "phone": "+31 299 435 674",
+    "website": "https://www.dierenkliniekwaterland.nl/",
+    "opening_hours": "Mo-Fr 09:00-13:30; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/2733966988",
+   "name": "AniCura",
+   "lat": 52.3071575,
+   "lon": 4.6940849,
+   "distKm": 15.8,
+   "address": "665C Hoofdweg, Hoofddorp, 2131BB",
+   "tags": {
+    "phone": "+31 23 564 2626",
+    "website": "https://www.anicura.nl/klinieken/hoofddorp/hoofddorp-hoofdvaart/"
+   }
+  },
+  {
+   "id": "node/2881330126",
+   "name": "Dierenartspraktijk Wormer",
+   "lat": 52.4990189,
+   "lon": 4.8141833,
+   "distKm": 15.8,
+   "address": "85 Dorpsstraat, Wormer, 1531HB",
+   "tags": {
+    "phone": "+31 75 820 0265",
+    "website": "https://dapwormer.nl",
+    "opening_hours": "Mo-We 08:30-17:30; Th 08:30-19:00; Fr 08:30-17:30; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/6909315292",
+   "name": "De Boer Dier & Ruiter",
+   "lat": 52.3111805,
+   "lon": 5.1204246,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "phone": "+31 35 632 1021",
+    "website": "https://www.deboerdierenruiter.nl",
+    "opening_hours": "Mo-We 15:30-17:30, Th 17:30-19:30, Fr 16:00-17:00, Sa 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/1641728235",
+   "name": "DAP Dierenkliniek Vinkeveen",
+   "lat": 52.2183465,
+   "lon": 4.9335201,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2834467558",
+   "name": "AniCura",
+   "lat": 52.3464739,
+   "lon": 5.1470902,
+   "distKm": 16.7,
+   "address": "836 Europalaan, Almere, 1363BM",
+   "tags": {
+    "phone": "+31 36 536 9600",
+    "website": "https://www.anicura.nl/klinieken/flevoland/almere/"
+   }
+  },
+  {
+   "id": "node/4063885074",
+   "name": "Plus Dierenkliniek",
+   "lat": 52.488804,
+   "lon": 4.7532081,
+   "distKm": 16.9,
+   "address": "32 Kaaikhof, Assendelft, 1567JP",
+   "tags": {
+    "website": "https://www.plusdierenklinieken.nl"
+   }
+  },
+  {
+   "id": "node/2875613289",
+   "name": "Dierenambulance Purmerend",
+   "lat": 52.511615,
+   "lon": 5.0013789,
+   "distKm": 17.3,
+   "address": "24 Volume, Purmerend, 1446WJ",
+   "tags": {
+    "phone": "+31 299 436 084",
+    "website": "https://www.dierenambulance-purmerend.nl"
+   }
+  },
+  {
+   "id": "node/2885890275",
+   "name": "Dierenartspraktijk Krommenie",
+   "lat": 52.5003329,
+   "lon": 4.7697858,
+   "distKm": 17.3,
+   "address": "24 Noorderhoofdstraat, Krommenie, 1561AV",
+   "tags": {}
+  },
+  {
+   "id": "node/2711059458",
+   "name": "Dierenkliniek Kenaupark",
+   "lat": 52.387475,
+   "lon": 4.6346956,
+   "distKm": 18.4,
+   "address": "13 Kenaupark, Haarlem, 2011MP",
+   "tags": {
+    "phone": "+31 23 531 0880",
+    "website": "https://www.dierenkliniekkenaupark.nl",
+    "opening_hours": "Mo,Th 08:30-19:30; Tu,We,Fr 08:30-16:30; Sa,Su off"
+   }
+  },
+  {
+   "id": "node/2715103620",
+   "name": "Dierenkliniek Marnixstraat",
+   "lat": 52.4012636,
+   "lon": 4.6379675,
+   "distKm": 18.4,
+   "address": "71-ZW Berkenstraat, Haarlem, 2023SX",
+   "tags": {
+    "website": "https://dierenkliniekmarnixstraat.nl/"
+   }
+  },
+  {
+   "id": "node/13175419901",
+   "name": "Dierenartspraktijk Edam",
+   "lat": 52.5108848,
+   "lon": 5.0448034,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2772388129",
+   "name": "AniCura",
+   "lat": 52.4335888,
+   "lon": 4.6506587,
+   "distKm": 18.7,
+   "address": "98 Zadelmakerstraat, Velserbroek, 1991JE",
+   "tags": {
+    "phone": "+31 23 538 4444",
+    "website": "https://www.anicura.nl/klinieken/noord-holland/kennemerland-velserbroek/"
+   }
+  },
+  {
+   "id": "node/2776607890",
+   "name": "Spaarne",
+   "lat": 52.3599055,
+   "lon": 4.6289501,
+   "distKm": 18.7,
+   "address": "18 Jan van Goyenstraat, Heemstede, 2102CB",
+   "tags": {
+    "website": "https://de-dierenkliniek.nl/vestigingen/dierenkliniek-spaarne/"
+   }
+  },
+  {
+   "id": "node/2610980062",
+   "name": "Dierenkliniek Beter Dier",
+   "lat": 52.3627688,
+   "lon": 5.1836888,
+   "distKm": 19,
+   "address": "1 De Binderij, Almere, 1321EE",
+   "tags": {}
+  },
+  {
+   "id": "node/2711036540",
+   "name": "Merels Dierenkliniek",
+   "lat": 52.3847309,
+   "lon": 4.6255851,
+   "distKm": 19,
+   "address": "68 Zijlweg, Haarlem, 2013DK",
+   "tags": {
+    "phone": "+31 23 531 6033"
+   }
+  },
+  {
+   "id": "node/2711579055",
+   "name": "Harder",
+   "lat": 52.3714843,
+   "lon": 4.6240917,
+   "distKm": 19,
+   "address": "100 Wagenweg, Haarlem, 2012NH",
+   "tags": {}
+  }
+ ]
+}

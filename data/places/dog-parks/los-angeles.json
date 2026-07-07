@@ -1,0 +1,373 @@
+{
+ "$schemaVersion": 1,
+ "city": "los-angeles",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:20:46.782Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 36,
+ "places": [
+  {
+   "id": "way/192181276",
+   "name": "LAPD Lawn Park",
+   "lat": 34.0515858,
+   "lon": -118.245002,
+   "distKm": 0.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/958988203",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.0545502,
+   "lon": -118.2434535,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1155620902",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.048348,
+   "lon": -118.2525032,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5394688230",
+   "name": "Canvas LA Dog Park",
+   "lat": 34.0593211,
+   "lon": -118.2534311,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/356678085",
+   "name": "L.A. LIVE Dog Park",
+   "lat": 34.0456821,
+   "lon": -118.2693342,
+   "distKm": 2.5,
+   "address": "L. A. Live Way, Los Angeles, CA 90015",
+   "tags": {}
+  },
+  {
+   "id": "way/1324885087",
+   "name": "Ross Snyder Dog Park",
+   "lat": 34.0102786,
+   "lon": -118.248396,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/240887680",
+   "name": "Silver Lake Dog Park",
+   "lat": 34.0922605,
+   "lon": -118.2645499,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/154972854",
+   "name": "Hermon Dog Park",
+   "lat": 34.1073896,
+   "lon": -118.1852639,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/918457271",
+   "name": "South Pawsadena Dog Park",
+   "lat": 34.1173863,
+   "lon": -118.1673216,
+   "distKm": 10.1,
+   "address": "650 Stoney Drive, South Pasadena, CA 91030",
+   "tags": {
+    "website": "https://www.southpasadenaca.gov/government/departments/community-services/administration/dog-park"
+   }
+  },
+  {
+   "id": "way/729413690",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.1550619,
+   "lon": -118.2866002,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1332925844",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.0954884,
+   "lon": -118.3715577,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1147251402",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.083493,
+   "lon": -118.3847962,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/874422160",
+   "name": "Boneyard Dog Park",
+   "lat": 34.0137515,
+   "lon": -118.3863029,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/520624012",
+   "name": "Beverly Hills Dog Park",
+   "lat": 34.0749929,
+   "lon": -118.3957077,
+   "distKm": 14.2,
+   "address": "344 N Foothill Road, Beverly Hills, CA 90210",
+   "tags": {
+    "opening_hours": "08:00-20:00"
+   }
+  },
+  {
+   "id": "way/909786145",
+   "name": "St. Barks",
+   "lat": 34.1383432,
+   "lon": -118.3659109,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "website": "https://stbarks.com/"
+   }
+  },
+  {
+   "id": "way/1112756646",
+   "name": "Dog Park",
+   "lat": 33.9191932,
+   "lon": -118.2567491,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/835600658",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.0573912,
+   "lon": -118.4096496,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/895047925",
+   "name": "South Gate Dog Park",
+   "lat": 33.9183582,
+   "lon": -118.1762915,
+   "distKm": 16.1,
+   "address": "5400 Monroe Avenue, South Gate, CA 90280",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/3769876419",
+   "name": "Whitnall Highway Off-leash Dog Park",
+   "lat": 34.1762895,
+   "lon": -118.362165,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.laparks.org/dogpark/whitnall"
+   }
+  },
+  {
+   "id": "way/373360110",
+   "name": "Whitnall Highway Off-leash Dog Park",
+   "lat": 34.1773774,
+   "lon": -118.3634652,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/562941689",
+   "name": "Bluff Creek Dog Park",
+   "lat": 33.9750466,
+   "lon": -118.4134349,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1163644870",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.0716425,
+   "lon": -118.0471434,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1275952234",
+   "name": "David R. Gafin Dog Park",
+   "lat": 33.9299283,
+   "lon": -118.1083092,
+   "distKm": 18.5,
+   "address": "9612 Ardine Street, Downey, CA 90241",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.downeyca.org/Home/Components/FacilityDirectory/FacilityDirectory/12/199"
+   }
+  },
+  {
+   "id": "way/365931617",
+   "name": "Oberrieder Dog Park",
+   "lat": 33.9720232,
+   "lon": -118.4205047,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/412538983",
+   "name": "Dog Park Entrance",
+   "lat": 33.9721217,
+   "lon": -118.4204648,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/474953114",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.1567899,
+   "lon": -118.0866657,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/838002513",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.0539517,
+   "lon": -118.445556,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/864020022",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8903668,
+   "lon": -118.1893412,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/447878269",
+   "name": "Airport Dog Park",
+   "lat": 34.0171376,
+   "lon": -118.4447054,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/563202199",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.9734794,
+   "lon": -118.4265061,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1162221039",
+   "name": "DOG PPL",
+   "lat": 34.0222786,
+   "lon": -118.4492833,
+   "distKm": 19.2,
+   "address": "3440 Ocean Park Boulevard, Santa Monica, CA 90405",
+   "tags": {
+    "access": "customers",
+    "website": "https://www.dogppl.co/"
+   }
+  },
+  {
+   "id": "way/1409288007",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.9585515,
+   "lon": -118.4204644,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/369575463",
+   "name": "Crescenta Valley Dog Park",
+   "lat": 34.2264322,
+   "lon": -118.2587092,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/471602663",
+   "name": "Whittier Dog Club",
+   "lat": 33.979421,
+   "lon": -118.046187,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {
+    "website": "https://whittierdogclub.net/"
+   }
+  },
+  {
+   "id": "way/1087085362",
+   "name": "Dog Park",
+   "lat": 33.9781883,
+   "lon": -118.0462909,
+   "distKm": 20,
+   "address": "12206 Philadelphia Street, Whittier, CA 90602",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.whittierprcs.org/parks-center/dog-park"
+   }
+  },
+  {
+   "id": "way/1246173285",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 34.1818452,
+   "lon": -118.3938337,
+   "distKm": 20,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  }
+ ]
+}

@@ -125,9 +125,33 @@
     }
 
     /* View toggling — set synchronously in <head> to avoid any flash */
-    .creator-view, .notfound-view { display: none; }
+    .creator-view, .notfound-view, .share-view { display: none; }
     .view-creator .creator-view { display: flex; }
     .view-404 .notfound-view { display: flex; }
+    .view-share .share-view { display: block; }
+
+    /* ---- Shared pet page (/p/<shareId>) — client-rendered fallback.
+       This serves shared-pet links until the Cloudflare Worker route for
+       /p/* takes over after the DNS migration; the Worker serves the full
+       SSR page with per-share OG tags. Keep the visual language identical
+       to the rest of the site. ---- */
+    .share-view.cl-page { align-items: flex-start; }
+    .sp-wrap { max-width: 1000px; margin: 0 auto; width: 100%; padding: 24px 0 48px; position: relative; z-index: 1; }
+    .sp-hero { margin: 0 auto 34px; }
+    .sp-avatar { margin: 2px auto 16px; }
+    .sp-avatar img { width: 104px; height: 104px; image-rendering: pixelated; display: block; margin: 0 auto; }
+    .sp-breed { font-size: 15px; color: var(--text-secondary); margin: -6px 0 16px; }
+    .sp-traits { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 0 0 24px; }
+    .sp-trait { background: var(--indigo-soft); color: var(--indigo); font-size: 13px; font-weight: 600; padding: 6px 13px; border-radius: 999px; }
+    .sp-style { margin: 0 0 34px; }
+    .sp-style h2 { font-size: clamp(20px, 3.4vw, 26px); margin: 0 0 14px; text-align: left; }
+    .sp-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; }
+    .sp-grid figure { margin: 0; background: var(--white); border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); }
+    .sp-grid img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block; }
+    .sp-grid figcaption { padding: 10px 14px 12px; font-size: 14px; font-weight: 600; color: var(--text-secondary); }
+    .sp-footer { text-align: center; font-size: 14px; color: var(--text-tertiary); margin-top: 10px; }
+    .sp-footer a { color: var(--indigo); font-weight: 600; }
+    @media (max-width: 600px) { .sp-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
   </style>
 
   <script>
@@ -135,19 +159,28 @@
     (function () {
       var segs = location.pathname.split('/').filter(Boolean); // "/c/SARAH10" -> ["c","SARAH10"]
       var isCreator = segs[0] === 'c';
+      // Shared pet pages (/p/<shareId>) — client-rendered fallback until the
+      // Cloudflare Worker route serves /p/* with real SSR + per-share OG tags.
+      var shareSeg = (segs[0] === 'p' && segs[1]) ? segs[1].toLowerCase() : '';
+      var isShare = /^[a-z0-9-]{3,40}$/.test(shareSeg);
       window.__wpCode = isCreator ? (segs[1] || '') : '';
+      window.__wpShareId = isShare ? shareSeg : '';
       var APP_STORE = 'https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221';
       window.__wpAppStore = APP_STORE;
       document.documentElement.classList.remove('view-pending');
-      document.documentElement.classList.add(isCreator ? 'view-creator' : 'view-404');
+      document.documentElement.classList.add(isCreator ? 'view-creator' : (isShare ? 'view-share' : 'view-404'));
 
-      // Copy the creator URL (so the app can attribute the referral after install),
+      // Copy the referral URL (so the app can attribute the referral after install),
       // then send the user to the App Store. The copy needs this user gesture on iOS Safari.
+      // Share links reuse the exact same deferred-deep-link mechanism as creator links:
+      // the /p/ URL itself is the clipboard token the app parses on first launch.
       window.go = async function () {
-        var code = window.__wpCode;
-        if (code) {
+        var link = '';
+        if (window.__wpShareId) link = 'https://myweatherpets.com/p/' + window.__wpShareId;
+        else if (window.__wpCode) link = 'https://myweatherpets.com/c/' + window.__wpCode;
+        if (link) {
           try {
-            await navigator.clipboard.writeText('https://myweatherpets.com/c/' + code);
+            await navigator.clipboard.writeText(link);
           } catch (e) {
             // Clipboard denied — Universal Link (installed users) and the in-app
             // "who referred you?" picker still cover attribution. Continue regardless.
@@ -192,6 +225,35 @@
     </div>
   </main>
 
+  <!-- ============ SHARED PET PAGE (/p/<shareId>) — fallback renderer ============ -->
+  <main class="cl-page share-view">
+    <img src="/images/accent-sun.png" alt="" class="cl-accent cl-accent-sun" width="400" height="400">
+    <img src="/images/accent-cloud.png" alt="" class="cl-accent cl-accent-cloud" width="400" height="400">
+
+    <div class="sp-wrap">
+      <div class="cl-card sp-hero">
+        <img src="/images/logo.png" alt="WeatherPets" class="cl-logo" width="128" height="128">
+        <div class="cl-eyebrow"><span class="cl-dot"></span><span>Pet Report · WeatherPets</span></div>
+        <div class="sp-avatar" id="sp-avatar" hidden aria-hidden="true"><img id="sp-avatar-img" alt="" width="128" height="128"></div>
+        <h1 class="cl-headline" id="sp-name">Fetching this pet's report…</h1>
+        <p class="sp-breed" id="sp-breed" hidden></p>
+        <div class="sp-traits" id="sp-traits"></div>
+        <p class="cl-sub" id="sp-sub">A friend made their pet the weather reporter. Every scene below is their real pet, generated by WeatherPets.</p>
+        <div class="cl-actions">
+          <button type="button" class="btn-primary cl-cta" onclick="spCta();go()">Make Your Pet the Reporter</button>
+          <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="cl-badge" onclick="spCta();go(); return false;">
+            <img src="images/app-store-badge.svg" alt="Download on the App Store" width="120" height="40">
+          </a>
+          <p class="cl-note">Tap to save your invite, then grab the app — your friend's referral counts.</p>
+        </div>
+      </div>
+
+      <div id="sp-gallery"></div>
+
+      <p class="sp-footer">Made with <a href="/">WeatherPets</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a></p>
+    </div>
+  </main>
+
   <!-- ============ GENERIC 404 (any other dead link) ============ -->
   <main class="cl-page notfound-view">
     <img src="/images/accent-sun.png" alt="" class="cl-accent cl-accent-sun" width="400" height="400">
@@ -221,6 +283,170 @@
         if (codeEl) codeEl.textContent = code;
         if (refEl) refEl.hidden = false;
       }
+    })();
+  </script>
+
+  <script>
+    // ---- Shared pet page renderer (fallback) ----
+    // Reads the public sharedPets/{shareId} doc straight from the Firestore
+    // REST API (security rules allow unauthenticated reads of ACTIVE shares
+    // only; the API key below is the standard public Firebase client key).
+    // All user-controlled strings are set via textContent — never innerHTML.
+    (function () {
+      var shareId = window.__wpShareId;
+      if (!shareId) return;
+
+      var FIRESTORE_DOC = 'https://firestore.googleapis.com/v1/projects/weatherpets/databases/(default)/documents/sharedPets/'
+        + encodeURIComponent(shareId) + '?key=AIzaSyBfisQLd1npusH134C2nB68g5YSDVwf3G4';
+      var PH_HOST = 'https://us.i.posthog.com';
+      var PH_TOKEN = 'phc_kBmvCGXag6PsXaBy6w7AEpuwmBnsUPL8352BwboVGjh9';
+      var COND_ORDER = ['sunny', 'partlyCloudy', 'cloudy', 'rain', 'thunderstorm', 'snow', 'night'];
+      var COND_LABEL = {
+        sunny: '☀️ Sunny', partlyCloudy: '⛅ Partly Cloudy', cloudy: '☁️ Cloudy',
+        rain: '🌧️ Rain', thunderstorm: '⛈️ Thunderstorm', snow: '❄️ Snow', night: '🌙 Night'
+      };
+
+      function phDistinctId() {
+        try {
+          var k = 'wp_share_did';
+          var v = localStorage.getItem(k);
+          if (!v) { v = 'web-' + Math.random().toString(36).slice(2) + Date.now().toString(36); localStorage.setItem(k, v); }
+          return v;
+        } catch (e) { return 'web-anon'; }
+      }
+      function phCapture(event, props) {
+        try {
+          fetch(PH_HOST + '/i/v0/e/', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ api_key: PH_TOKEN, event: event, distinct_id: phDistinctId(), properties: props }),
+            keepalive: true
+          });
+        } catch (e) { /* analytics must never break the page */ }
+      }
+      window.spCta = function () {
+        phCapture('share_cta_tapped', { share_id: shareId, renderer: 'fallback' });
+      };
+
+      // Firestore typed-value JSON → plain JS.
+      function uv(v) {
+        if (v == null) return null;
+        if (v.stringValue !== undefined) return v.stringValue;
+        if (v.integerValue !== undefined) return parseInt(v.integerValue, 10);
+        if (v.doubleValue !== undefined) return v.doubleValue;
+        if (v.booleanValue !== undefined) return v.booleanValue;
+        if (v.nullValue !== undefined) return null;
+        if (v.timestampValue !== undefined) return v.timestampValue;
+        if (v.arrayValue) return (v.arrayValue.values || []).map(uv);
+        if (v.mapValue) return unwrapFields(v.mapValue.fields || {});
+        return null;
+      }
+      function unwrapFields(fields) {
+        var o = {};
+        for (var k in fields) o[k] = uv(fields[k]);
+        return o;
+      }
+
+      function showNotFound() {
+        document.documentElement.classList.remove('view-share');
+        document.documentElement.classList.add('view-404');
+      }
+
+      function startAvatar(lib) {
+        if (!lib) return;
+        var frames = null;
+        var anims = lib.animations || {};
+        var keys = Object.keys(anims).sort();
+        for (var i = 0; i < keys.length; i++) {
+          var f = anims[keys[i]] && anims[keys[i]].frameURLs;
+          if (f && f.length > 1) { frames = f; break; }
+        }
+        var img = document.getElementById('sp-avatar-img');
+        var wrap = document.getElementById('sp-avatar');
+        if (!img || !wrap) return;
+        if (!frames) {
+          if (lib.base) { img.src = lib.base; wrap.hidden = false; }
+          return;
+        }
+        var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        img.src = frames[0];
+        wrap.hidden = false;
+        if (reduced || frames.length < 2) return;
+        frames.slice(1).forEach(function (u) { new Image().src = u; }); // preload
+        var idx = 0;
+        setInterval(function () { idx = (idx + 1) % frames.length; img.src = frames[idx]; }, 320);
+      }
+
+      function render(share) {
+        var name = share.petName || 'This pet';
+        document.title = name + ' — WeatherPets';
+        document.getElementById('sp-name').textContent = name + ' reports every forecast.';
+        var breedBits = [share.breed, share.species].filter(Boolean);
+        if (breedBits.length) {
+          var breedEl = document.getElementById('sp-breed');
+          breedEl.textContent = breedBits.join(' · ');
+          breedEl.hidden = false;
+        }
+        var traits = share.personalityTraits || [];
+        var traitsEl = document.getElementById('sp-traits');
+        traits.slice(0, 6).forEach(function (t) {
+          var chip = document.createElement('span');
+          chip.className = 'sp-trait';
+          chip.textContent = t;
+          traitsEl.appendChild(chip);
+        });
+        document.getElementById('sp-sub').textContent =
+          'A friend made ' + name + ' the weather reporter. Every scene below is really ' + name + ', generated by WeatherPets.';
+
+        startAvatar(share.spriteLibrary);
+
+        var gallery = document.getElementById('sp-gallery');
+        (share.styles || []).forEach(function (style) {
+          var scenes = style.scenes || {};
+          var conds = COND_ORDER.filter(function (c) { return scenes[c]; });
+          if (!conds.length) return;
+          var section = document.createElement('section');
+          section.className = 'sp-style';
+          var h2 = document.createElement('h2');
+          h2.textContent = name + ' in ' + (style.displayName || style.stylePackId);
+          section.appendChild(h2);
+          var grid = document.createElement('div');
+          grid.className = 'sp-grid';
+          conds.forEach(function (c) {
+            var fig = document.createElement('figure');
+            var im = document.createElement('img');
+            im.src = scenes[c];
+            im.loading = 'lazy';
+            im.alt = name + ' — ' + (COND_LABEL[c] || c);
+            var cap = document.createElement('figcaption');
+            cap.textContent = COND_LABEL[c] || c;
+            fig.appendChild(im);
+            fig.appendChild(cap);
+            grid.appendChild(fig);
+          });
+          section.appendChild(grid);
+          gallery.appendChild(section);
+        });
+
+        phCapture('share_page_viewed', {
+          share_id: shareId,
+          renderer: 'fallback',
+          style_count: (share.styles || []).length,
+          $current_url: location.href
+        });
+      }
+
+      fetch(FIRESTORE_DOC)
+        .then(function (res) {
+          if (!res.ok) throw new Error('status ' + res.status);
+          return res.json();
+        })
+        .then(function (json) {
+          var share = unwrapFields(json.fields || {});
+          if (share.status !== 'active') throw new Error('not active');
+          render(share);
+        })
+        .catch(function () { showNotFound(); });
     })();
   </script>
 </body>

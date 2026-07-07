@@ -1,0 +1,609 @@
+{
+ "$schemaVersion": 1,
+ "city": "portland",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:27:32.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/609825374",
+   "name": "Dog Run",
+   "lat": 45.5093392,
+   "lon": -122.6743019,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/609825373",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5084925,
+   "lon": -122.6747874,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/345128600",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5336318,
+   "lon": -122.6820862,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/403363696",
+   "name": "Wallace Park Off-Leash Area",
+   "lat": 45.5336159,
+   "lon": -122.7031798,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9905044104",
+   "name": "Council Crest Off-Leash Area",
+   "lat": 45.4981011,
+   "lon": -122.7063781,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/39799548",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5469509,
+   "lon": -122.6576395,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/482738147",
+   "name": "Fido's Indoor Dog Park",
+   "lat": 45.48729,
+   "lon": -122.6410445,
+   "distKm": 4.3,
+   "address": "4949 Southeast 25th Avenue, Portland, OR 97202",
+   "tags": {
+    "website": "http://www.fidosindoordogpark.com/",
+    "opening_hours": "06:30-20:00"
+   }
+  },
+  {
+   "id": "relation/14645956",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.477378,
+   "lon": -122.6705353,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/6750950129",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5406091,
+   "lon": -122.6278233,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/203033389",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5585969,
+   "lon": -122.6720834,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4578000695",
+   "name": "Frazer Park off-leash dog area",
+   "lat": 45.5306219,
+   "lon": -122.6121147,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/837651621",
+   "name": "Sellwood Dog Park",
+   "lat": 45.4665237,
+   "lon": -122.6634184,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "no",
+    "website": "https://www.portland.gov/parks/sellwood-riverfront-park"
+   }
+  },
+  {
+   "id": "way/1228976952",
+   "name": "Off Leash Dog Park",
+   "lat": 45.4800931,
+   "lon": -122.625466,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/146690543",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4730691,
+   "lon": -122.7223887,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/281372468",
+   "name": "Wishire Off Leash Dog Park",
+   "lat": 45.5529265,
+   "lon": -122.6262147,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.portland.gov/parks/wilshire-park"
+   }
+  },
+  {
+   "id": "way/146690542",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4707667,
+   "lon": -122.7205208,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/507824616",
+   "name": "Normandale Park Off-Leash Area",
+   "lat": 45.531518,
+   "lon": -122.6062136,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4324633230",
+   "name": "Alberta Park Off-Leash Area",
+   "lat": 45.564905,
+   "lon": -122.6437414,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/272505205",
+   "name": "Arbor Lodge Park Off Leash Area",
+   "lat": 45.573122,
+   "lon": -122.6942373,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1498686098",
+   "name": "Mount Tabor Off-Leash Dog Area",
+   "lat": 45.5078458,
+   "lon": -122.5949002,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/99256833",
+   "name": "Fernhill City Dog Park",
+   "lat": 45.5667229,
+   "lon": -122.6226061,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/568861152",
+   "name": "Fernhill Dogpark",
+   "lat": 45.5676361,
+   "lon": -122.6230927,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/675755055",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.449668,
+   "lon": -122.71134,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1221939454",
+   "name": "Brentwood Dog Off-Leash Area",
+   "lat": 45.4723399,
+   "lon": -122.6003658,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/581312666",
+   "name": "Sacajawea Dog Park Off-Leash Area",
+   "lat": 45.559715,
+   "lon": -122.5860352,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1067038725",
+   "name": "Jackie Husen Dog Run",
+   "lat": 45.5291805,
+   "lon": -122.7889684,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1042088916",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5656101,
+   "lon": -122.5892783,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/93031873",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4853038,
+   "lon": -122.5716291,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/21054683",
+   "name": "Portland International Raceway Off Leash Area",
+   "lat": 45.5985842,
+   "lon": -122.6882946,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/131770319",
+   "name": "East Delta Park Off-Leash Area",
+   "lat": 45.5995597,
+   "lon": -122.6758547,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/437695507",
+   "name": "Off Leash Area",
+   "lat": 45.5869568,
+   "lon": -122.7597781,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4365457604",
+   "name": "Pet Relief Area",
+   "lat": 45.5885894,
+   "lon": -122.5953043,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/981877307",
+   "name": "Pet Area",
+   "lat": 45.4515606,
+   "lon": -122.7790712,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/988788383",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4276048,
+   "lon": -122.609016,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/837644000",
+   "name": "Schiffler Park Dog Run",
+   "lat": 45.4793294,
+   "lon": -122.8156424,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "wire",
+    "access": "yes",
+    "website": "https://www.thprd.org/parks-and-trails/dog-parks"
+   }
+  },
+  {
+   "id": "way/149066507",
+   "name": "Potso Dog Park",
+   "lat": 45.4255206,
+   "lon": -122.7600681,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1233920735",
+   "name": "East Holladay Dog Park",
+   "lat": 45.5320806,
+   "lon": -122.5292088,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/494926163",
+   "name": "Chimney Dog Park",
+   "lat": 45.6068463,
+   "lon": -122.7578745,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/130791864",
+   "name": "Ash Avenue Dog Park",
+   "lat": 45.4284272,
+   "lon": -122.7694394,
+   "distKm": 12,
+   "address": "9025 Southwest Burnham Street, Tigard, OR 97223",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/926856800",
+   "name": "Luuwit View Dog Park",
+   "lat": 45.5489306,
+   "lon": -122.5324365,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1207915907",
+   "name": "Waluga Dog Park",
+   "lat": 45.4114013,
+   "lon": -122.7291895,
+   "distKm": 12.2,
+   "address": "15775 Waluga Drive, Lake Oswego, OR 97035",
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/705315445",
+   "name": "Clark County Dog Park",
+   "lat": 45.619225,
+   "lon": -122.6248976,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/591594507",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.3960962,
+   "lon": -122.6879687,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/479748565",
+   "name": "Summerlake Dog Park",
+   "lat": 45.4365482,
+   "lon": -122.8094023,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13242247309",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.3941383,
+   "lon": -122.6916903,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1077781601",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5140844,
+   "lon": -122.5056067,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1421301079",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5738384,
+   "lon": -122.8296315,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1144245888",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5093757,
+   "lon": -122.8535279,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/772487587",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5115346,
+   "lon": -122.8550411,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/728149895",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.4493158,
+   "lon": -122.5224105,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1181902791",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.6445508,
+   "lon": -122.6916308,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/888793809",
+   "name": "Durham Park Off-leash dog area",
+   "lat": 45.3958611,
+   "lon": -122.7636424,
+   "distKm": 14.8,
+   "address": "17095 Southwest Arkenstone Drive, Portland, OR 97224",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/11140138698",
+   "name": "Pilkington Dog Park",
+   "lat": 45.3875408,
+   "lon": -122.7354011,
+   "distKm": 14.9,
+   "address": "19043 Pilkington Road, Lake Oswego, OR 97035",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.ci.oswego.or.us/parksrec/off-leash-dog-areas"
+   }
+  },
+  {
+   "id": "way/471865175",
+   "name": "PCC Rock Creek Dog Park",
+   "lat": 45.5636207,
+   "lon": -122.8566203,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/431480365",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.3841977,
+   "lon": -122.7425551,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/466581155",
+   "name": "Tualatin Dog Park",
+   "lat": 45.3890227,
+   "lon": -122.7640287,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/882595655",
+   "name": "Off Leash Area",
+   "lat": 45.3805866,
+   "lon": -122.6292663,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1082259929",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.3972366,
+   "lon": -122.7856203,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1303163056",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5288374,
+   "lon": -122.8788672,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1045976015",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 45.5285056,
+   "lon": -122.8807501,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

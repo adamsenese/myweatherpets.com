@@ -1,0 +1,484 @@
+{
+ "$schemaVersion": 1,
+ "city": "boston",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:26:30.325Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 44,
+ "places": [
+  {
+   "id": "node/7738279641",
+   "name": "Charles Street Animal Clinic",
+   "lat": 42.3602799,
+   "lon": -71.0709734,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th 11:00-18:00; We 08:30-14:00; Fr 11:00-16:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/13667285729",
+   "name": "Veg ER for Pets",
+   "lat": 42.3497016,
+   "lon": -71.0710108,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/393444230",
+   "name": "Boston Veterinary Clinic",
+   "lat": 42.3483168,
+   "lon": -71.0678296,
+   "distKm": 1.5,
+   "address": "363 Tremont Street, Boston, MA 02116",
+   "tags": {
+    "phone": "+1-857-362-8672",
+    "website": "https://www.bostonveterinary.com/",
+    "opening_hours": "Mo-Th 08:30-19:00; Fr 08:30-18:00; Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/10788561364",
+   "name": "Boston Veterinary Care",
+   "lat": 42.3470483,
+   "lon": -71.06998,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "phone": "+1-617-226-5605",
+    "website": "https://www.arlboston.org/bvc/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 08:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/7747648883",
+   "name": "South Boston Animal Hospital",
+   "lat": 42.3424618,
+   "lon": -71.0574279,
+   "distKm": 2,
+   "address": "9 West Broadway, Boston, MA 02127",
+   "tags": {
+    "phone": "+1-617-269-0610",
+    "website": "https://www.banfield.com/veterinarians/ma/boston/abp"
+   }
+  },
+  {
+   "id": "node/6181692219",
+   "name": "Back Bay Veterinary Clinic",
+   "lat": 42.3488223,
+   "lon": -71.0844757,
+   "distKm": 2.4,
+   "address": "288 Newbury Street, Boston, MA 02115",
+   "tags": {}
+  },
+  {
+   "id": "node/7804482662",
+   "name": "Boston Animal Hospital",
+   "lat": 42.3310213,
+   "lon": -71.0638199,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12771177637",
+   "name": "Huron Veterinary Hospital",
+   "lat": 42.3774938,
+   "lon": -71.093056,
+   "distKm": 3.4,
+   "address": "34 Allen Street, Somerville, MA 02143",
+   "tags": {
+    "website": "https://www.huronvethospital.com/",
+    "opening_hours": "Mo 08:00-17:00, Tu-We 08:00-18:00, Th 08:00-19:00, Fr 08:00-18:00, Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/11092661484",
+   "name": "Bond Vet - Somerville",
+   "lat": 42.3932296,
+   "lon": -71.0800089,
+   "distKm": 4.1,
+   "address": "320 Foley Street, Somerville, MA 02145",
+   "tags": {}
+  },
+  {
+   "id": "node/13175719101",
+   "name": "Tandem Vet Care",
+   "lat": 42.3779277,
+   "lon": -71.1061876,
+   "distKm": 4.4,
+   "address": "116 Beacon Street, 02143",
+   "tags": {
+    "website": "https://www.tandem.vet/"
+   }
+  },
+  {
+   "id": "way/29660623",
+   "name": "VCA Everett Animal Hospital",
+   "lat": 42.4028282,
+   "lon": -71.0454958,
+   "distKm": 4.9,
+   "address": "251 Chelsea Street, Everett, MA 02149",
+   "tags": {
+    "phone": "+1 617 394 0471",
+    "website": "https://vcahospitals.com/everett",
+    "opening_hours": "Mo-Fr 08:00-20:00, Sa-Su 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/12210052756",
+   "name": "Small Door Veterinary",
+   "lat": 42.3429249,
+   "lon": -71.1222023,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6101491946",
+   "name": "Cambridge Veterinary Care",
+   "lat": 42.3840381,
+   "lon": -71.1197019,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/29902793",
+   "name": "Angell Animal Medical Center",
+   "lat": 42.3229136,
+   "lon": -71.1111053,
+   "distKm": 6,
+   "address": "350 South Huntington Avenue, Boston, MA 02130-4803",
+   "tags": {
+    "phone": "+1-617-522-7282",
+    "website": "https://www.mspca.org/medical-centers/angell-animal-medical-center-boston/"
+   }
+  },
+  {
+   "id": "node/6542984855",
+   "name": "Porter Square Veterinarian",
+   "lat": 42.3937643,
+   "lon": -71.1200669,
+   "distKm": 6.3,
+   "address": "360 Summer Street, Somerville, MA 02144",
+   "tags": {}
+  },
+  {
+   "id": "node/13995513073",
+   "name": "Medford Pet Clinic",
+   "lat": 42.404697,
+   "lon": -71.1079049,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/29615064",
+   "name": "Emmerson Animal Hospital",
+   "lat": 42.3028213,
+   "lon": -71.0530022,
+   "distKm": 6.4,
+   "address": "255 Freeport Street, Dorchester, MA 02122",
+   "tags": {}
+  },
+  {
+   "id": "node/13165687701",
+   "name": "VCA Brookline",
+   "lat": 42.3300387,
+   "lon": -71.1269705,
+   "distKm": 6.5,
+   "address": "375 Boylston Street, 02445",
+   "tags": {
+    "phone": "+1 617-277-2030",
+    "website": "https://vcahospitals.com/brookline",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa 07:30-17:00; Su 07:30-15:00"
+   }
+  },
+  {
+   "id": "way/29789250",
+   "name": "Merwin Animal Clinic",
+   "lat": 42.3526329,
+   "lon": -71.1393012,
+   "distKm": 6.7,
+   "address": "542 Cambridge Street, 02134",
+   "tags": {
+    "phone": "+1 617-782-5420",
+    "website": "https://merwinclinic.org",
+    "opening_hours": "Mo-Th 12:00-15:00; Fr 11:00-15:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/2458520463",
+   "name": "Brookline Veterinary Center",
+   "lat": 42.3386228,
+   "lon": -71.1370223,
+   "distKm": 6.8,
+   "address": "1663 Beacon Street, Brookline, MA",
+   "tags": {}
+  },
+  {
+   "id": "node/4050865536",
+   "name": "Jamaica Plain Animal Clinic",
+   "lat": 42.3131629,
+   "lon": -71.113433,
+   "distKm": 6.9,
+   "address": "10A Green Street",
+   "tags": {
+    "phone": "+1 617 524-7300",
+    "website": "https://www.jpanimalclinic.com/",
+    "opening_hours": "Mo,We,Fr 08:00-17:00; Tu,Th 08:00-19:00; Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/13610776108",
+   "name": "Malden Animal Hospital",
+   "lat": 42.4300787,
+   "lon": -71.0590209,
+   "distKm": 7.8,
+   "address": "231 Salem Street",
+   "tags": {
+    "phone": "+1-781-322-8795",
+    "website": "https://www.maldenanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/10817054608",
+   "name": "Sleepy Dog Vetinary",
+   "lat": 42.4033512,
+   "lon": -71.139491,
+   "distKm": 8.2,
+   "address": "114 Massachusetts Avenue, Arlington, MA 02474",
+   "tags": {}
+  },
+  {
+   "id": "node/12812272901",
+   "name": "Bond Vet - Watertwon",
+   "lat": 42.3626809,
+   "lon": -71.1591102,
+   "distKm": 8.2,
+   "address": "537 Arsenal Street, 02472",
+   "tags": {
+    "website": "https://bondvet.com/",
+    "opening_hours": "Mo-Tu 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/13468886613",
+   "name": "Heal Veterinary Clinic",
+   "lat": 42.375547,
+   "lon": -71.1568695,
+   "distKm": 8.2,
+   "address": "150 Belmont Street, Watertown, MA",
+   "tags": {
+    "phone": "+1-617-932-5166",
+    "website": "https://www.heal.vet/"
+   }
+  },
+  {
+   "id": "node/10285316323",
+   "name": "METROVET Veterinary Clinic",
+   "lat": 42.2978508,
+   "lon": -71.1152041,
+   "distKm": 8.3,
+   "address": "93 Hyde Park Avenue",
+   "tags": {
+    "phone": "+1 857-277-7751",
+    "website": "https://metrovetclinic.com"
+   }
+  },
+  {
+   "id": "node/2760582115",
+   "name": "Pine Banks Animal Hospital",
+   "lat": 42.4402735,
+   "lon": -71.0679516,
+   "distKm": 8.9,
+   "address": "1130 Main Street, Malden, 02148",
+   "tags": {
+    "phone": "+1 7813211300",
+    "website": "https://pinebanksanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/2439296497",
+   "name": "Arlington Animal Clinic",
+   "lat": 42.4117559,
+   "lon": -71.1437198,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "website": "https://arlingtonanimalclinic.net/"
+   }
+  },
+  {
+   "id": "way/29887488",
+   "name": "Cushimg Square Veterinary Clinic",
+   "lat": 42.381367,
+   "lon": -71.1759129,
+   "distKm": 9.9,
+   "address": "131;133 Trapelo Road",
+   "tags": {}
+  },
+  {
+   "id": "node/464796766",
+   "name": "VCA City Cats Hospital",
+   "lat": 42.4160675,
+   "lon": -71.1544444,
+   "distKm": 10,
+   "address": "665 Massachusetts Avenue, Arlington, MA 02476",
+   "tags": {}
+  },
+  {
+   "id": "way/135620068",
+   "name": "Melrose Animal Clinic",
+   "lat": 42.4561993,
+   "lon": -71.0654664,
+   "distKm": 10.7,
+   "address": "26 Essex Street, Melrose, MA 02176",
+   "tags": {
+    "phone": "+1 781 6624888",
+    "website": "https://www.melroseanimalclinic.com/"
+   }
+  },
+  {
+   "id": "node/11139922489",
+   "name": "Watertown Animal Hospital",
+   "lat": 42.3700392,
+   "lon": -71.1937443,
+   "distKm": 11.1,
+   "address": "404 Main Street",
+   "tags": {
+    "phone": "+1617-926-8888",
+    "website": "https://watertownanimalhospitalma.com/"
+   }
+  },
+  {
+   "id": "way/196449914",
+   "name": "Mill Brook Animal Clinic",
+   "lat": 42.4236547,
+   "lon": -71.1752259,
+   "distKm": 11.9,
+   "address": "1183;1185;1187 Massachusetts Avenue, Arlington, MA 02476",
+   "tags": {}
+  },
+  {
+   "id": "node/10138392690",
+   "name": "Winchester Animal Clinic",
+   "lat": 42.4613625,
+   "lon": -71.1416735,
+   "distKm": 13.2,
+   "address": "874 Main Street, Winchester, MA 01890",
+   "tags": {
+    "phone": "+1-781-729-2610"
+   }
+  },
+  {
+   "id": "node/10780885303",
+   "name": "Winchester Veterinary Group",
+   "lat": 42.4672115,
+   "lon": -71.1298548,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/216428747",
+   "name": "Kindness Animal Hospital",
+   "lat": 42.378499,
+   "lon": -71.225093,
+   "distKm": 13.8,
+   "address": "20 Linden Street",
+   "tags": {}
+  },
+  {
+   "id": "way/29957592",
+   "name": "New England Aquarium Animal Care Center",
+   "lat": 42.2424926,
+   "lon": -70.9742872,
+   "distKm": 14.8,
+   "address": "551 South Street, Quincy, MA 02169",
+   "tags": {}
+  },
+  {
+   "id": "node/13696114702",
+   "name": "Commonwealth Vet",
+   "lat": 42.3470267,
+   "lon": -71.2560681,
+   "distKm": 16.3,
+   "address": "112 Woodbine Street, 02466",
+   "tags": {
+    "website": "https://commonwealthvet.com/"
+   }
+  },
+  {
+   "id": "way/214645595",
+   "name": "Highland Animal Hospital",
+   "lat": 42.3070714,
+   "lon": -71.2443698,
+   "distKm": 16.3,
+   "address": "31 Wellesley Avenue, Needham, MA 02494",
+   "tags": {
+    "phone": "+1-781-433-0467",
+    "website": "https://www.highlandanimalhospitalma.com/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/8857253725",
+   "name": "Blue Pearl Animal Hospital",
+   "lat": 42.3822992,
+   "lon": -71.2661625,
+   "distKm": 17.2,
+   "address": "180 Bear Hill Road, Waltham, MA 02451",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12986437025",
+   "name": "Burlington Veterinary Hospital",
+   "lat": 42.4748334,
+   "lon": -71.213775,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/215772725",
+   "name": "Compassionate Care Veterinary Center",
+   "lat": 42.1947573,
+   "lon": -71.0603213,
+   "distKm": 18.4,
+   "address": "1147 North Main Street",
+   "tags": {}
+  },
+  {
+   "id": "way/137759977",
+   "name": "The Cat's Hospital",
+   "lat": 42.3131207,
+   "lon": -71.2754361,
+   "distKm": 18.5,
+   "address": "459 Worcester Street, Wellesley, MA 02481",
+   "tags": {
+    "phone": "+1-781-237-6565",
+    "website": "https://www.thecatshospital.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/7890392088",
+   "name": "Quarry Hills Animal Hospital",
+   "lat": 42.1932503,
+   "lon": -71.0328544,
+   "distKm": 18.7,
+   "address": "77 Messina Drive",
+   "tags": {
+    "phone": "+1-781-817-6573",
+    "website": "https://www.quarryhillsvet.com/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-francisco",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:25:35.497Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "node/11558519666",
+   "name": "FUReverFUN",
+   "lat": 37.7719097,
+   "lon": -122.4119608,
+   "distKm": 0.7,
+   "address": "366 10th Street",
+   "tags": {
+    "phone": "+1 415-282-8282",
+    "website": "https://fureverfun.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13479802503",
+   "name": "EmBARKadero",
+   "lat": 37.7689039,
+   "lon": -122.4202117,
+   "distKm": 0.7,
+   "address": "1766 Mission Street",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/261095625",
+   "name": "Wag Hotels",
+   "lat": 37.7684237,
+   "lon": -122.4141655,
+   "distKm": 0.9,
+   "address": "25 14th Street, San Francisco, CA 94103",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10780794717",
+   "name": "Bark Avenue",
+   "lat": 37.7742284,
+   "lon": -122.395516,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/332787284",
+   "name": "PetsHotel",
+   "lat": 37.7880924,
+   "lon": -122.446176,
+   "distKm": 2.8,
+   "address": "3233 Sacramento Street, San Francisco, CA 94115",
+   "tags": {
+    "phone": "+1-415-567-0700",
+    "website": "https://petcamp.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/504333901",
+   "name": "Dan Perata Training",
+   "lat": 37.7369714,
+   "lon": -122.4042381,
+   "distKm": 4.4,
+   "address": "80 Elmira Street, San Francisco, CA 94124",
+   "tags": {
+    "phone": "+1-415-373-0889",
+    "website": "https://www.danperata.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13679585898",
+   "name": "Happy Hound",
+   "lat": 37.8160839,
+   "lon": -122.2900323,
+   "distKm": 12.3,
+   "address": "2101 Mandela Parkway, Oakland, CA 94607",
+   "tags": {
+    "phone": "+1-510-547-3647",
+    "website": "https://www.happyhound.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/149518778",
+   "name": "Just Pet Me",
+   "lat": 37.8147232,
+   "lon": -122.2650783,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6141498138",
+   "name": "The Barkmont",
+   "lat": 37.8570287,
+   "lon": -122.288458,
+   "distKm": 14.7,
+   "address": "2370 San Pablo Avenue, Berkeley, CA 94702",
+   "tags": {
+    "phone": "+1-510-900-1023",
+    "website": "https://the-barkmont.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5265426817",
+   "name": "Canine Cove",
+   "lat": 37.8807414,
+   "lon": -122.5238005,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6575573891",
+   "name": "The Pawington Pet Resort",
+   "lat": 37.6413066,
+   "lon": -122.403972,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 7:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6141499416",
+   "name": "Metro Dog",
+   "lat": 37.9006263,
+   "lon": -122.309721,
+   "distKm": 17,
+   "address": "3117 Pierce Street, Richmond, CA 98404",
+   "tags": {
+    "website": "https://www.metrodog.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6763077127",
+   "name": "When The Cat's Away",
+   "lat": 37.6118836,
+   "lon": -122.4894838,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-650-735-5049",
+    "website": "https://www.catsawaypacifica.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

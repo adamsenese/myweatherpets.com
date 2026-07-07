@@ -1,0 +1,223 @@
+{
+ "$schemaVersion": 1,
+ "city": "los-angeles",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:20:46.782Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 19,
+ "places": [
+  {
+   "id": "way/1370979524",
+   "name": "D Pet Hotels - Hollywood",
+   "lat": 34.0901065,
+   "lon": -118.3388577,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12688729870",
+   "name": "Dogdrop - Hollywood",
+   "lat": 34.1029635,
+   "lon": -118.3384668,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9525315825",
+   "name": "Dog Republic",
+   "lat": 34.0328046,
+   "lon": -118.38132,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8533441785",
+   "name": "LAK9s",
+   "lat": 34.0291425,
+   "lon": -118.3899763,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9904601203",
+   "name": "Wags 2 Whiskers",
+   "lat": 34.0270833,
+   "lon": -118.3902965,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9904601204",
+   "name": "City Dog Club LA",
+   "lat": 34.0255855,
+   "lon": -118.3898771,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9386609567",
+   "name": "Cagefree K9 Camp",
+   "lat": 34.02899,
+   "lon": -118.3922355,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1366093035",
+   "name": "Double Dog Dare Ya",
+   "lat": 34.1684124,
+   "lon": -118.3004028,
+   "distKm": 13.9,
+   "address": "122 Linden Court, Burbank, CA 91502",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9699245116",
+   "name": "K9VacayLA",
+   "lat": 34.0507674,
+   "lon": -118.4203827,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10844420831",
+   "name": "Doggie Goddess",
+   "lat": 34.0372873,
+   "lon": -118.4367088,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6564906178",
+   "name": "Paw-some Dog",
+   "lat": 34.0412301,
+   "lon": -118.4394147,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9382717163",
+   "name": "K9s Only",
+   "lat": 34.0412023,
+   "lon": -118.4407455,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10713201645",
+   "name": "Urban Dog",
+   "lat": 34.0439195,
+   "lon": -118.4420512,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10713201646",
+   "name": "Puparazzi",
+   "lat": 34.0432994,
+   "lon": -118.4415071,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5446122875",
+   "name": "Camp Best Friends",
+   "lat": 34.0450113,
+   "lon": -118.443005,
+   "distKm": 18.4,
+   "address": "1819 Pontius Avenue",
+   "tags": {
+    "phone": "+1 310-473-8585",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/422504646",
+   "name": "City Dog! Club",
+   "lat": 34.0450629,
+   "lon": -118.4432558,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.citydogclub.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10749020767",
+   "name": "West LA Dogs",
+   "lat": 34.0353056,
+   "lon": -118.4447046,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9435312545",
+   "name": "Wag Hotels",
+   "lat": 34.0332585,
+   "lon": -118.4465994,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10689297148",
+   "name": "Wags Club",
+   "lat": 34.0333508,
+   "lon": -118.4526334,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "$schemaVersion": 1,
+ "city": "little-rock",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:34:56.305Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 10,
+ "places": [
+  {
+   "id": "way/479086997",
+   "name": "Hillcrest Animal Hospital",
+   "lat": 34.7585375,
+   "lon": -92.3255659,
+   "distKm": 3.5,
+   "address": "2900 Kavanaugh Boulevard, Little Rock, AR 72205",
+   "tags": {}
+  },
+  {
+   "id": "node/972237344",
+   "name": "Park Hill Pet Clinic",
+   "lat": 34.7815337,
+   "lon": -92.2657543,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/918528770",
+   "name": "Vets and Pets Veterinary Clinic",
+   "lat": 34.7980106,
+   "lon": -92.2377849,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8530514411",
+   "name": "Banfield Pet Hospital",
+   "lat": 34.7864059,
+   "lon": -92.2232935,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/918528803",
+   "name": "Interstate Animal Clinic",
+   "lat": 34.8014844,
+   "lon": -92.2154282,
+   "distKm": 9.1,
+   "address": "Warden Road, North Little Rock, AR",
+   "tags": {}
+  },
+  {
+   "id": "node/10749506805",
+   "name": "Banfield Pet Hospital",
+   "lat": 34.7480723,
+   "lon": -92.4009285,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1000334822",
+   "name": "Kiehl Avenue Animal Clinic",
+   "lat": 34.8323687,
+   "lon": -92.1897117,
+   "distKm": 13.2,
+   "address": "3911 East Kiehl Avenue, Sherwood, AR 72120",
+   "tags": {}
+  },
+  {
+   "id": "node/4722439668",
+   "name": "Westrock Animal Hospital",
+   "lat": 34.7999027,
+   "lon": -92.4371935,
+   "distKm": 14.7,
+   "address": "14104 Taylor Loop Road, Little Rock, AR 72223",
+   "tags": {}
+  },
+  {
+   "id": "way/544577280",
+   "name": "Chenal Valley Animal Hospital",
+   "lat": 34.7678958,
+   "lon": -92.4556914,
+   "distKm": 15.4,
+   "address": "16 Rahling Circle, Little Rock, AR 72223",
+   "tags": {
+    "website": "http://chenalvalleyanimalhospital.vetstreet.com/"
+   }
+  },
+  {
+   "id": "way/1094898072",
+   "name": "Pet Care Veterinary Clinic",
+   "lat": 34.8694025,
+   "lon": -92.197707,
+   "distKm": 16,
+   "address": "14521 Highway 107, Jacksonville, AR 72076",
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,648 @@
+{
+ "$schemaVersion": 1,
+ "city": "london",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:36:49.092Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/553097401",
+   "name": "Bow Wow",
+   "lat": 51.5182888,
+   "lon": -0.1244841,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/159404459",
+   "name": "Mungo & Maud",
+   "lat": 51.4939907,
+   "lon": -0.1516599,
+   "distKm": 2.2,
+   "address": "79 Elizabeth Street, London, SW1W 9PJ",
+   "tags": {}
+  },
+  {
+   "id": "node/10814426219",
+   "name": "The Hound Hut",
+   "lat": 51.4807163,
+   "lon": -0.1138896,
+   "distKm": 3.1,
+   "address": "20 Clapham Road, London, SW9 0JG",
+   "tags": {
+    "website": "https://www.thehoundhut.dog",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "way/119775702",
+   "name": "Angel Pet Supplies",
+   "lat": 51.5333524,
+   "lon": -0.1090026,
+   "distKm": 3.2,
+   "address": "73 Chapel Market, London, N1 9ER",
+   "tags": {}
+  },
+  {
+   "id": "node/7285393688",
+   "name": "Pet Pavilion",
+   "lat": 51.4877457,
+   "lon": -0.1677412,
+   "distKm": 3.5,
+   "address": "163 King's Road",
+   "tags": {
+    "phone": "+44 20 4524 1000",
+    "website": "https://www.petpavilion.co.uk/"
+   }
+  },
+  {
+   "id": "node/8260173149",
+   "name": "Love My Human",
+   "lat": 51.4857352,
+   "lon": -0.1735627,
+   "distKm": 4,
+   "address": "308 King's Road",
+   "tags": {
+    "phone": "+44 20 7971 7338",
+    "website": "https://www.lovemyhuman.co.uk/"
+   }
+  },
+  {
+   "id": "way/848458756",
+   "name": "Pets at Home",
+   "lat": 51.543859,
+   "lon": -0.1367816,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "website": "https://community.petsathome.com/store/camden/",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "way/1119447382",
+   "name": "Primrose Hill Pet Pavilion",
+   "lat": 51.5407555,
+   "lon": -0.1572646,
+   "distKm": 4.2,
+   "address": "132 Regent's Park Road, London, NW1 8XL",
+   "tags": {
+    "phone": "+44 204 549 8888",
+    "website": "https://www.petpavilion.co.uk/",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/823477129",
+   "name": "Canonbury Pet Store",
+   "lat": 51.5410436,
+   "lon": -0.094537,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3291303554",
+   "name": "Barking Betty",
+   "lat": 51.4732358,
+   "lon": -0.1617211,
+   "distKm": 4.5,
+   "address": "216 Battersea Park Road, London, SW11 4ND",
+   "tags": {}
+  },
+  {
+   "id": "node/7546781931",
+   "name": "Pet Pavilion",
+   "lat": 51.5082864,
+   "lon": -0.1948168,
+   "distKm": 4.6,
+   "address": "174 Kensington Church Street",
+   "tags": {
+    "phone": "+44 20 7221 1888",
+    "website": "https://www.petpavilion.co.uk/"
+   }
+  },
+  {
+   "id": "node/5747208623",
+   "name": "Diana & George",
+   "lat": 51.4721194,
+   "lon": -0.1660314,
+   "distKm": 4.7,
+   "address": "250 Battersea Park Road, London, SW11 3BP",
+   "tags": {
+    "phone": "+44 20 7978 6777",
+    "website": "https://www.diana-george.co.uk/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/10056510814",
+   "name": "Dog Walk Style",
+   "lat": 51.5296564,
+   "lon": -0.0688242,
+   "distKm": 4.8,
+   "address": "158A Columbia Road, London",
+   "tags": {
+    "website": "https://dogwalkstyle.com/"
+   }
+  },
+  {
+   "id": "node/12763367506",
+   "name": "London Pet Supplies",
+   "lat": 51.4985642,
+   "lon": -0.0599336,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/341418914",
+   "name": "Paws",
+   "lat": 51.4715322,
+   "lon": -0.1673737,
+   "distKm": 4.8,
+   "address": "543 Battersea Park Road, London",
+   "tags": {}
+  },
+  {
+   "id": "way/733997583",
+   "name": "Pets at Home",
+   "lat": 51.4836067,
+   "lon": -0.0680932,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "website": "https://community.petsathome.com/store/old-kent-road/",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "node/7433744057",
+   "name": "Holland Bark Club",
+   "lat": 51.4987434,
+   "lon": -0.2004402,
+   "distKm": 5.1,
+   "address": "262 Kensington High Street, London",
+   "tags": {}
+  },
+  {
+   "id": "node/8183254718",
+   "name": "Waggin' Tails",
+   "lat": 51.4814234,
+   "lon": -0.1878389,
+   "distKm": 5.1,
+   "address": "364-366 Fulham Road",
+   "tags": {
+    "phone": "+44 20 7823 3111",
+    "website": "https://www.waggintailsonline.com/"
+   }
+  },
+  {
+   "id": "node/4709897659",
+   "name": "Woofs to Kittys",
+   "lat": 51.4634061,
+   "lon": -0.1521959,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6631981304",
+   "name": "Hairy Hounds",
+   "lat": 51.5372524,
+   "lon": -0.1851377,
+   "distKm": 5.2,
+   "address": "99 Boundary Road, London",
+   "tags": {}
+  },
+  {
+   "id": "node/7199663471",
+   "name": "The Mutz Nutz",
+   "lat": 51.5176915,
+   "lon": -0.2014768,
+   "distKm": 5.2,
+   "address": "221 Westbourne Park Road, London",
+   "tags": {
+    "phone": "+44 20 7243 3333",
+    "website": "https://themutznutz.com/"
+   }
+  },
+  {
+   "id": "node/831257424",
+   "name": "Animal Crackers",
+   "lat": 51.5536752,
+   "lon": -0.1618847,
+   "distKm": 5.7,
+   "address": "94, London",
+   "tags": {}
+  },
+  {
+   "id": "node/7171571209",
+   "name": "Pet Pavilion",
+   "lat": 51.4610352,
+   "lon": -0.1640785,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7353288606",
+   "name": "Clarendon Cross Canines",
+   "lat": 51.5103825,
+   "lon": -0.2103439,
+   "distKm": 5.7,
+   "address": "5 Clarendon Cross, London",
+   "tags": {
+    "phone": "+44 20 7221 7730",
+    "website": "https://www.canines.cc/"
+   }
+  },
+  {
+   "id": "node/8507836003",
+   "name": "69b Pet Boutique",
+   "lat": 51.5375038,
+   "lon": -0.0612545,
+   "distKm": 5.7,
+   "address": "69b Broadway Market, London",
+   "tags": {
+    "website": "https://69bpetboutique.com/",
+    "opening_hours": "Mo-Tu off; We-Sa 10:00-17:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/7246221244",
+   "name": "Ralphie",
+   "lat": 51.5210448,
+   "lon": -0.2092244,
+   "distKm": 5.8,
+   "address": "31 Bevington Road, London",
+   "tags": {
+    "phone": "+44 7517 004727"
+   }
+  },
+  {
+   "id": "node/7246221245",
+   "name": "Portobello Pet Shop",
+   "lat": 51.5209322,
+   "lon": -0.2092515,
+   "distKm": 5.8,
+   "address": "308 Portobello Road, London",
+   "tags": {
+    "phone": "+44 20 8969 7894",
+    "website": "https://portopets.co.uk/"
+   }
+  },
+  {
+   "id": "node/7353477026",
+   "name": "Yuppy Puppies",
+   "lat": 51.5124156,
+   "lon": -0.2110881,
+   "distKm": 5.8,
+   "address": "115 Clarendon Road",
+   "tags": {
+    "phone": "+44 20 7243 3231",
+    "website": "http://yuppypuppiespetboutique.co.uk/"
+   }
+  },
+  {
+   "id": "node/3450884562",
+   "name": "Pets Unleashed",
+   "lat": 51.4684801,
+   "lon": -0.1904572,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13678918449",
+   "name": "Pet Shop On Wheels",
+   "lat": 51.5409325,
+   "lon": -0.0588531,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.petshoponwheels.com/"
+   }
+  },
+  {
+   "id": "way/70609424",
+   "name": "North London Adoption Centre",
+   "lat": 51.561639,
+   "lon": -0.1363906,
+   "distKm": 6.1,
+   "address": "135 Junction Road, London",
+   "tags": {}
+  },
+  {
+   "id": "node/7238530393",
+   "name": "The Fish Bowl",
+   "lat": 51.4805764,
+   "lon": -0.2056509,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1253198040",
+   "name": "Atlas Pet Shop",
+   "lat": 51.5634335,
+   "lon": -0.1181753,
+   "distKm": 6.3,
+   "address": "340 Hornsey Road, London",
+   "tags": {
+    "phone": "+44 7959 8551 379"
+   }
+  },
+  {
+   "id": "node/6812403711",
+   "name": "Fetch & Feather",
+   "lat": 51.5271263,
+   "lon": -0.2136921,
+   "distKm": 6.3,
+   "address": "545 Harrow Road, London",
+   "tags": {}
+  },
+  {
+   "id": "way/70609408",
+   "name": "Junction Pets",
+   "lat": 51.5635987,
+   "lon": -0.1352415,
+   "distKm": 6.3,
+   "address": "71 Junction Road, London",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-18:00, Sa 09:30-17:30, Su 11:00-15:00"
+   }
+  },
+  {
+   "id": "way/782033549",
+   "name": "Pets in the City",
+   "lat": 51.5189845,
+   "lon": -0.2190032,
+   "distKm": 6.4,
+   "address": "75 St Helens Gardens, London",
+   "tags": {
+    "website": "https://www.petsincity.com/"
+   }
+  },
+  {
+   "id": "node/9888555552",
+   "name": "Fish Planet London",
+   "lat": 51.5649955,
+   "lon": -0.1085342,
+   "distKm": 6.5,
+   "address": "2 Wells Terrace, London",
+   "tags": {}
+  },
+  {
+   "id": "way/848218225",
+   "name": "House Of Pets",
+   "lat": 51.5420207,
+   "lon": -0.049051,
+   "distKm": 6.7,
+   "address": "135 Well Street, London",
+   "tags": {
+    "phone": "+44 20 8986 7681",
+    "website": "https://www.houseofpetsandgroomers.co.uk/",
+    "opening_hours": "Mo-Fr 09:30-17:00; Sa 09:30-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/8658910072",
+   "name": "Brockwell Pups",
+   "lat": 51.4478047,
+   "lon": -0.1008411,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/191276442",
+   "name": "Hamster & Hound",
+   "lat": 51.5694686,
+   "lon": -0.123704,
+   "distKm": 6.9,
+   "address": "522, London",
+   "tags": {}
+  },
+  {
+   "id": "way/745434916",
+   "name": "T&L Aquaworld",
+   "lat": 51.5319574,
+   "lon": -0.0355795,
+   "distKm": 6.9,
+   "address": "439 Roman Road, London",
+   "tags": {}
+  },
+  {
+   "id": "node/660899263",
+   "name": "Parker's pet food and aquatics",
+   "lat": 51.5610523,
+   "lon": -0.0740063,
+   "distKm": 7,
+   "address": "147 Stoke Newington High Street, London",
+   "tags": {}
+  },
+  {
+   "id": "node/13056118129",
+   "name": "Aquatic Design Centre",
+   "lat": 51.445613,
+   "lon": -0.1453397,
+   "distKm": 7,
+   "address": "Zennor Road Industrial Estate, London, SW12 0PS",
+   "tags": {
+    "website": "https://www.aquaticdesign.co.uk/"
+   }
+  },
+  {
+   "id": "node/11034049539",
+   "name": "Dogsnug",
+   "lat": 51.5622442,
+   "lon": -0.0760762,
+   "distKm": 7.1,
+   "address": "54 Stoke Newington Church Street, London",
+   "tags": {
+    "phone": "+447723679921",
+    "website": "https://www.dogsnug.com/",
+    "opening_hours": "Mo,Su 11:00-17:00; Tu-Fr 10:30-18:00; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/460379476",
+   "name": "Just Barking",
+   "lat": 51.535318,
+   "lon": -0.2203798,
+   "distKm": 7.1,
+   "address": "116 Chamberlayne Road",
+   "tags": {
+    "phone": "+44 20 8964 3231"
+   }
+  },
+  {
+   "id": "way/508031477",
+   "name": "Hair of the dog",
+   "lat": 51.5706445,
+   "lon": -0.1463136,
+   "distKm": 7.1,
+   "address": "24 Highgate High Street, London",
+   "tags": {
+    "phone": "+44 20 8340 4030",
+    "opening_hours": "Mo-Sa 10:00-17:30; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/11031837548",
+   "name": "Handsome Hound",
+   "lat": 51.4425596,
+   "lon": -0.1352945,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/705171422",
+   "name": "Dr. Doolittle's",
+   "lat": 51.4395206,
+   "lon": -0.1257805,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "way/853427628",
+   "name": "Pack & Clowder",
+   "lat": 51.5522439,
+   "lon": -0.0439178,
+   "distKm": 7.7,
+   "address": "18 Chatsworth Road, London",
+   "tags": {
+    "phone": "+44 20 3302 7170",
+    "website": "https://www.packandclowder.co.uk/",
+    "opening_hours": "Mo off; Tu-Sa 11:00-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "way/1109766007",
+   "name": "City Paws Club",
+   "lat": 51.4674287,
+   "lon": -0.2192293,
+   "distKm": 7.7,
+   "address": "42 Lower Richmond Road, London, SW15 1JP",
+   "tags": {}
+  },
+  {
+   "id": "way/1011408822",
+   "name": "Creatures of Putney",
+   "lat": 51.4638607,
+   "lon": -0.2152419,
+   "distKm": 7.8,
+   "address": "67 Putney High Street, London, SW15 1SR",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:30; Sa 09:30-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "way/860341510",
+   "name": "Pets Paradise",
+   "lat": 51.5128605,
+   "lon": -0.0146063,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5142968775",
+   "name": "Buywise",
+   "lat": 51.434908,
+   "lon": -0.103768,
+   "distKm": 8.2,
+   "address": "517 Norwood Road, London, SE27 9DL",
+   "tags": {
+    "phone": "+44 20 8670 9697",
+    "opening_hours": "Mo-Sa 09:00-17:30; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/9328106311",
+   "name": "Pets at Home",
+   "lat": 51.4619193,
+   "lon": -0.2216824,
+   "distKm": 8.2,
+   "address": "225 Upper Richmond Road, London, SW15 6SJ",
+   "tags": {
+    "phone": "+44 345 266 9991",
+    "website": "https://community.petsathome.com/store/putney/",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "node/4465343606",
+   "name": "Shop Dog N8",
+   "lat": 51.5824893,
+   "lon": -0.1272031,
+   "distKm": 8.3,
+   "address": "Park Road, London, N8 8JR",
+   "tags": {
+    "website": "http://www.shopdogn8.co.uk/",
+    "opening_hours": "Mo-Sa 09:00-18:30; Su off"
+   }
+  },
+  {
+   "id": "way/893749358",
+   "name": "Park Pets",
+   "lat": 51.5446735,
+   "lon": -0.021372,
+   "distKm": 8.4,
+   "address": "East Bay Lane, London, E15 2SJ",
+   "tags": {
+    "opening_hours": "Mo-Tu off; We-Su 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/12961244887",
+   "name": "Pets at Home",
+   "lat": 51.4723303,
+   "lon": -0.0169306,
+   "distKm": 8.6,
+   "address": "100 Blackheath Road",
+   "tags": {
+    "website": "https://community.petsathome.com/store/blackheath/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su,PH 11:00-17:00",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "node/10266440555",
+   "name": "Unique Dog Shop",
+   "lat": 51.4813006,
+   "lon": -0.0086695,
+   "distKm": 8.7,
+   "address": "17 Turnpin Lane, London, SE10 9HZ",
+   "tags": {
+    "website": "https://uniquedogshop.com/"
+   }
+  },
+  {
+   "id": "way/209434655",
+   "name": "Pet Pavilion",
+   "lat": 51.4932766,
+   "lon": -0.2550297,
+   "distKm": 8.9,
+   "address": "12A Turnham Green Terrace, London",
+   "tags": {}
+  },
+  {
+   "id": "node/6875270200",
+   "name": "Mucky Pups Pet Shop",
+   "lat": 51.4645549,
+   "lon": -0.2388224,
+   "distKm": 9,
+   "address": "391 Upper Richmond Road, London, SW15 5QL",
+   "tags": {}
+  }
+ ]
+}

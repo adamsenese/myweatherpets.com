@@ -1,0 +1,186 @@
+{
+ "$schemaVersion": 1,
+ "city": "fresno",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:36:07.752Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "node/13972433112",
+   "name": "Shield Stone Pet Hospital",
+   "lat": 36.7793387,
+   "lon": -119.7916656,
+   "distKm": 4.6,
+   "address": "1610 East Shields Avenue, Fresno, CA 93704",
+   "tags": {
+    "phone": "+15592222800",
+    "website": "http://www.shieldstonepethospital.com/"
+   }
+  },
+  {
+   "id": "node/13246286635",
+   "name": "Alfaro Aubrey DVM",
+   "lat": 36.7964177,
+   "lon": -119.791597,
+   "distKm": 6.5,
+   "address": "4333 North Blackstone Avenue, Fresno, CA 93726",
+   "tags": {
+    "phone": "+1-559-227-3596",
+    "website": "https://sanjoaquinveterinaryhospital.net/meet-our-team/"
+   }
+  },
+  {
+   "id": "way/582180906",
+   "name": "Abby Pet Hospital",
+   "lat": 36.7938513,
+   "lon": -119.7494096,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13239347396",
+   "name": "Animal Hospital & Dental Clinic",
+   "lat": 36.8118343,
+   "lon": -119.7919839,
+   "distKm": 8.2,
+   "address": "5169 North Blackstone Avenue, Fresno, CA 93710",
+   "tags": {
+    "phone": "+1-559-227-5575",
+    "website": "https://www.theanimalhosp.com/"
+   }
+  },
+  {
+   "id": "node/13236948185",
+   "name": "Sierra View Animal Hospital",
+   "lat": 36.8298164,
+   "lon": -119.7882807,
+   "distKm": 10.2,
+   "address": "93 East Sierra Avenue, Fresno, CA 93710",
+   "tags": {
+    "phone": "+1-559-432-1200",
+    "website": "https://www.sierraviewanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/13235256794",
+   "name": "Fresno Veterinary Specialty and Emergency Center",
+   "lat": 36.8339759,
+   "lon": -119.7895082,
+   "distKm": 10.7,
+   "address": "6606 North Blackstone Avenue, Fresno, CA 93710",
+   "tags": {}
+  },
+  {
+   "id": "node/13570816098",
+   "name": "BluePearl",
+   "lat": 36.84383,
+   "lon": -119.8102145,
+   "distKm": 12,
+   "address": "7375 North Palm Bluffs Avenue, Fresno, CA 93711",
+   "tags": {
+    "phone": "+15594373766",
+    "website": "https://bluepearlvet.com/"
+   }
+  },
+  {
+   "id": "node/13571421954",
+   "name": "Palm Bluff Veterinary Hospital",
+   "lat": 36.8448253,
+   "lon": -119.810143,
+   "distKm": 12.1,
+   "address": "7425 North Palm Bluffs Avenue, Fresno, CA 93711",
+   "tags": {
+    "phone": "+15594323300"
+   }
+  },
+  {
+   "id": "node/11875044314",
+   "name": "Companion Animal Hospital",
+   "lat": 36.8525083,
+   "lon": -119.7922668,
+   "distKm": 12.8,
+   "address": "132 West Nees Avenue, Fresno, CA 93711",
+   "tags": {
+    "phone": "+1-559-432-1110",
+    "website": "https://www.fresnopethospital.net/",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/12151119033",
+   "name": "Care Veterinary Hospital",
+   "lat": 36.8536255,
+   "lon": -119.7558557,
+   "distKm": 13.2,
+   "address": "8084 North Cedar Avenue, Fresno, CA 93720",
+   "tags": {
+    "phone": "+1-559-322-7100",
+    "website": "https://careveterinaryhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/13056452189",
+   "name": "All Creatures Vet Clinic",
+   "lat": 36.8331678,
+   "lon": -119.8791735,
+   "distKm": 13.4,
+   "address": "6575 North Santa Fe Ave, Fresno, CA 93722",
+   "tags": {}
+  },
+  {
+   "id": "node/13233657042",
+   "name": "HOPE Animal Foundation",
+   "lat": 36.8394203,
+   "lon": -119.8908084,
+   "distKm": 14.6,
+   "address": "5490 West Spruce Avenue, Fresno, CA 93722",
+   "tags": {
+    "phone": "+1-559-271-0209",
+    "website": "https://www.hopeaf.com/"
+   }
+  },
+  {
+   "id": "node/12479905208",
+   "name": "Shepherd Pet Hospital",
+   "lat": 36.865924,
+   "lon": -119.740332,
+   "distKm": 14.8,
+   "address": "8941 North Chestnut Avenue, Fresno, CA 93720",
+   "tags": {
+    "phone": "+1-559-337-6009",
+    "website": "https://sphfresno.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/1322312491",
+   "name": "Waterhouse Animal Hospital",
+   "lat": 36.8699454,
+   "lon": -119.7638525,
+   "distKm": 14.8,
+   "address": "1115 East Champlain Drive, Fresno, CA 93720",
+   "tags": {
+    "phone": "+1-559-434-4000",
+    "website": "https://www.waterhouseanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/12748350545",
+   "name": "Northpointe Animal Hospital",
+   "lat": 36.8962062,
+   "lon": -119.7489964,
+   "distKm": 17.9,
+   "address": "1916 East Copper Avenue, Fresno, CA 93730",
+   "tags": {
+    "phone": "+1-559-434-5470",
+    "website": "https://www.northpointeanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  }
+ ]
+}

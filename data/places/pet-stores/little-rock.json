@@ -1,0 +1,90 @@
+{
+ "$schemaVersion": 1,
+ "city": "little-rock",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:34:56.305Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "way/1072000658",
+   "name": "Wild Birds Unlimited",
+   "lat": 34.7687744,
+   "lon": -92.3363299,
+   "distKm": 4.9,
+   "address": "1818 North Taylor Street, Little Rock, AR 72207",
+   "tags": {
+    "phone": "+15016664210",
+    "website": "https://littlerock.wbu.com/?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=144",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/918503027",
+   "name": "PetSmart",
+   "lat": 34.7864061,
+   "lon": -92.2232929,
+   "distKm": 7.5,
+   "address": "4164 East McCain Boulevard, North Little Rock, AR 72117",
+   "tags": {
+    "phone": "+1 501-725-3827",
+    "website": "https://www.petsmart.com/stores/us/ar/north-little-rock-store2459.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5874419698",
+   "name": "hollywood feed",
+   "lat": 34.7772763,
+   "lon": -92.3666257,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/918502990",
+   "name": "Petco",
+   "lat": 34.7912753,
+   "lon": -92.2217452,
+   "distKm": 8,
+   "address": "4221 East McCain Boulevard, North Little Rock, AR 72117-2516",
+   "tags": {
+    "phone": "+1 501-955-2561",
+    "website": "https://stores.petco.com/ar/n-littlerock/pet-supplies-n-littlerock-ar-1607.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/520629265",
+   "name": "PetSmart",
+   "lat": 34.7482817,
+   "lon": -92.4011136,
+   "distKm": 10.2,
+   "address": "11400 Financial Centre Parkway, Little Rock, AR 72211",
+   "tags": {
+    "phone": "+1 501-225-8863",
+    "website": "https://www.petsmart.com/stores/us/ar/little-rock-store0516.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3658886929",
+   "name": "Petco",
+   "lat": 34.7537157,
+   "lon": -92.4165254,
+   "distKm": 11.6,
+   "address": "12801 Chenal Parkway, Little Rock, AR 72211",
+   "tags": {
+    "phone": "+1 501-219-9907",
+    "website": "https://www.petco.com/content/locator/Details.aspx?storeId=1610",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

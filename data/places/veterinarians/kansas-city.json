@@ -1,0 +1,367 @@
+{
+ "$schemaVersion": 1,
+ "city": "kansas-city",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:29:12.068Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/2597272081",
+   "name": "Union Hill Animal Hospital",
+   "lat": 39.071779,
+   "lon": -94.5850945,
+   "distKm": 3.2,
+   "address": "3025 Main Street",
+   "tags": {
+    "phone": "+1 816-931-4930",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/508314356",
+   "name": "Northeast Animal Hospital",
+   "lat": 39.1044247,
+   "lon": -94.5046173,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10269142467",
+   "name": "Plaza Animal Clinic",
+   "lat": 39.0365219,
+   "lon": -94.5874258,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "website": "https://plazaanimalclinic.com/",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/531530481",
+   "name": "Pet Resource Center of Kansas City",
+   "lat": 39.0204086,
+   "lon": -94.5738286,
+   "distKm": 8.8,
+   "address": "1116 East 59th Street, 64110",
+   "tags": {
+    "phone": "+1-816-353-0940",
+    "website": "https://prckc.org",
+    "opening_hours": "Mo-Fr 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/11851428958",
+   "name": "Roeland Park Veterinary Center",
+   "lat": 39.0353025,
+   "lon": -94.6402653,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11132900403",
+   "name": "Noah's Ark Animal Clinic",
+   "lat": 39.013559,
+   "lon": -94.5881158,
+   "distKm": 9.6,
+   "address": "6305 Main Street, Kansas City, MO 64113",
+   "tags": {
+    "website": "https://noahsarkanimalclinic.com/"
+   }
+  },
+  {
+   "id": "node/11913848106",
+   "name": "Rockhill Pet Clinic",
+   "lat": 39.0136701,
+   "lon": -94.5780649,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/824955546",
+   "name": "Eagle Animal Hospital and Resort",
+   "lat": 39.1825138,
+   "lon": -94.6127963,
+   "distKm": 9.7,
+   "address": "4825 Northwest Gateway Avenue, Riverside, MO 64150",
+   "tags": {
+    "phone": "+1-816-239-1913",
+    "website": "https://www.eagleanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/465092096",
+   "name": "Mission Veterinary Emergency & Specialty",
+   "lat": 39.0226254,
+   "lon": -94.6542988,
+   "distKm": 10.8,
+   "address": "5914 Johnson Drive",
+   "tags": {
+    "phone": "+1 913-722-5566",
+    "website": "https://www.missionveterinaryspecialists.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11642368889",
+   "name": "KC Cat Clinic",
+   "lat": 38.9991468,
+   "lon": -94.588974,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Tu 07:30-19:00; We-Fr 07:30-18:00"
+   }
+  },
+  {
+   "id": "node/358644153",
+   "name": "Mission Animal Clinic",
+   "lat": 39.0216413,
+   "lon": -94.6653038,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1467359284",
+   "name": "Animal Clinic of the Woodlands",
+   "lat": 39.2031999,
+   "lon": -94.5472741,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/358910503",
+   "name": "Animal Medical Center",
+   "lat": 38.9924709,
+   "lon": -94.5922143,
+   "distKm": 12,
+   "address": "204 West 75th Street, Kansas City, MO 64114",
+   "tags": {}
+  },
+  {
+   "id": "node/2637691488",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.0241057,
+   "lon": -94.6892493,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5753133128",
+   "name": "Countryside Animal Clinic",
+   "lat": 38.9801202,
+   "lon": -94.5818662,
+   "distKm": 13.3,
+   "address": "8131 Holmes Road, Kansas City, MO 64131",
+   "tags": {
+    "phone": "+1-816-333-5050",
+    "website": "http://countrysideanimalclinicmo.com",
+    "opening_hours": "Mo-We, Fr 08:00-15:00; Th, Sa, Su 08:00-11:00"
+   }
+  },
+  {
+   "id": "node/4839185103",
+   "name": "Pet Hospital",
+   "lat": 39.2136656,
+   "lon": -94.6455795,
+   "distKm": 13.9,
+   "address": "6519 North Cosby Avenue, Kansas City, MO 64151",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Su 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/498408981",
+   "name": "Independence Animal Hospital",
+   "lat": 39.0894294,
+   "lon": -94.4138172,
+   "distKm": 14.3,
+   "address": "300 South Noland Road, Independence, MO 64050",
+   "tags": {}
+  },
+  {
+   "id": "node/358644164",
+   "name": "Overland Pet Clinic",
+   "lat": 38.9858,
+   "lon": -94.6665,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/195465429",
+   "name": "Parkville Heights Animal Hospital",
+   "lat": 39.2089558,
+   "lon": -94.6836222,
+   "distKm": 15.2,
+   "address": "8830 Northwest 63rd Street, 64152",
+   "tags": {
+    "website": "https://www.parkvilleheightsanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/5989024324",
+   "name": "Gladstone Animal Clinic",
+   "lat": 39.2383843,
+   "lon": -94.5752963,
+   "distKm": 15.4,
+   "address": "7915 North Oak Trafficway, Kansas City, MO 64118",
+   "tags": {}
+  },
+  {
+   "id": "way/350877937",
+   "name": "Johnson County Animal Clinic",
+   "lat": 38.992344,
+   "lon": -94.6961692,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {
+    "phone": "+1 913-642-2714"
+   }
+  },
+  {
+   "id": "node/8115524438",
+   "name": "Bannister Veterinary Clinic",
+   "lat": 38.9660149,
+   "lon": -94.4930084,
+   "distKm": 16.6,
+   "address": "8201 East 87th Street, Raytown, MO 64138",
+   "tags": {
+    "phone": "+1-816-765-7979",
+    "opening_hours": "Mo-Sa 08:30-18:00"
+   }
+  },
+  {
+   "id": "way/359255357",
+   "name": "Barry Road Animal Hospital",
+   "lat": 39.2456246,
+   "lon": -94.6258899,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/358644150",
+   "name": "Mill Creek Animal Clinic",
+   "lat": 39.016099,
+   "lon": -94.7420759,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/358644227",
+   "name": "Companion Animal Hospital",
+   "lat": 38.973,
+   "lon": -94.6866,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11870258436",
+   "name": "Petworks Veterinary Hospital",
+   "lat": 38.9614697,
+   "lon": -94.6691505,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/358644155",
+   "name": "Nall Hills Animal Hospital",
+   "lat": 38.9549772,
+   "lon": -94.6510948,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/707208585",
+   "name": "Arrowhead Veterinary Services",
+   "lat": 39.0343231,
+   "lon": -94.3923759,
+   "distKm": 17.6,
+   "address": "16021 E US Highway 40, Kansas City, MO 64136",
+   "tags": {}
+  },
+  {
+   "id": "node/13609530532",
+   "name": "Hidden Valley Animal Hospital",
+   "lat": 39.0633797,
+   "lon": -94.3731848,
+   "distKm": 18.2,
+   "address": "17501 Hidden Valley Road, Independence, MO 64057",
+   "tags": {
+    "opening_hours": "Mo-Fr 7:00-18:00 Sa 8:00-16:00"
+   }
+  },
+  {
+   "id": "node/358644231",
+   "name": "Fox Hill Veterinary Clinic",
+   "lat": 38.9349,
+   "lon": -94.6367,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/195211932",
+   "name": "Shoal Creek Animal Hospital",
+   "lat": 39.2490297,
+   "lon": -94.4658871,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/697895302",
+   "name": "Red Bridge Animal Clinic",
+   "lat": 38.9262625,
+   "lon": -94.5848431,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-816-942-3201",
+    "website": "https://redbridgeanimalclinic.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:30; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/359872398",
+   "name": "Amity Woods Animal Hospital",
+   "lat": 39.2525471,
+   "lon": -94.6886598,
+   "distKm": 19.5,
+   "address": "9300 Northwest 87th Terrace, MO 64153",
+   "tags": {}
+  },
+  {
+   "id": "way/356992383",
+   "name": "Animal Clinic of Newmark",
+   "lat": 39.2778442,
+   "lon": -94.5725833,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1465185739",
+   "name": "Ark Animal Hospital",
+   "lat": 39.236326,
+   "lon": -94.4311225,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

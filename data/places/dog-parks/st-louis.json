@@ -1,0 +1,197 @@
+{
+ "$schemaVersion": 1,
+ "city": "st-louis",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:32:21.847Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "way/626314454",
+   "name": "Lucas Gardens Dog Park",
+   "lat": 38.6315621,
+   "lon": -90.1991947,
+   "distKm": 0.5,
+   "address": "Saint Charles Street, Saint Louis, MO 63103",
+   "tags": {
+    "barrier": "fence",
+    "access": "permit",
+    "website": "https://members.lucasparkdogpark.org/public/2025/1-Home"
+   }
+  },
+  {
+   "id": "way/1152000102",
+   "name": "Laclede's Landing Dog Park",
+   "lat": 38.6314295,
+   "lon": -90.1836885,
+   "distKm": 1.5,
+   "address": "Laclede's Landing Boulevard, Saint Louis, MO 63102",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/544634331",
+   "name": "Soulard Dog Park",
+   "lat": 38.6101388,
+   "lon": -90.2052833,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1349015611",
+   "name": "Renaissance Place Dog Park",
+   "lat": 38.6418044,
+   "lon": -90.2285487,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/626042855",
+   "name": "Water Tower Dog Park",
+   "lat": 38.6153345,
+   "lon": -90.2352684,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/451782543",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5928385,
+   "lon": -90.2235405,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/200493076",
+   "name": "Shaw Neighborhood Dog Park",
+   "lat": 38.6117565,
+   "lon": -90.2515595,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "website": "https://shawstlouis.org/attractions-amenities/shaw-dog-park"
+   }
+  },
+  {
+   "id": "way/461391324",
+   "name": "Forest Park Southeast Dog Park",
+   "lat": 38.6301891,
+   "lon": -90.2575694,
+   "distKm": 5.1,
+   "address": "4359 Chouteau Avenue, Saint Louis, MO 63110",
+   "tags": {
+    "access": "permit",
+    "website": "https://www.stlouis-mo.gov/parks/parks/browse-parks/amenity.cfm?id=504"
+   }
+  },
+  {
+   "id": "way/639201617",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6626315,
+   "lon": -90.3152492,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1192458743",
+   "name": "Maplewood Dog Park",
+   "lat": 38.6159871,
+   "lon": -90.3306331,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/792261137",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.621,
+   "lon": -90.3405194,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/621800543",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6399366,
+   "lon": -90.3496699,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/526335250",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6679712,
+   "lon": -90.3650188,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1182374416",
+   "name": "Woodson Road Dog Park",
+   "lat": 38.6821502,
+   "lon": -90.3621717,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "access": "customers",
+    "website": "https://www.overlandmo.org/418/Dog-Park"
+   }
+  },
+  {
+   "id": "node/11664359436",
+   "name": "Wayside Park Unleashed",
+   "lat": 38.7480708,
+   "lon": -90.2898276,
+   "distKm": 15.6,
+   "address": "1026 Chambers Road, Ferguson, MO 63135",
+   "tags": {
+    "dog": "yes",
+    "access": "permit",
+    "website": "https://www.fergusoncity.com/613/Wayside-Park"
+   }
+  },
+  {
+   "id": "way/1093687090",
+   "name": "St Johns Community Dog Park",
+   "lat": 38.5141352,
+   "lon": -90.3358445,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/476161610",
+   "name": "Mutts on Main Dog Park",
+   "lat": 38.6684597,
+   "lon": -89.9918047,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/614648787",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5796396,
+   "lon": -89.9932053,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

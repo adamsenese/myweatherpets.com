@@ -1,0 +1,228 @@
+{
+ "$schemaVersion": 1,
+ "city": "hartford",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:33:49.584Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/8505936504",
+   "name": "Naturally Dogs and Cats Pet Store",
+   "lat": 41.7665026,
+   "lon": -72.674509,
+   "distKm": 0.1,
+   "address": "51 Asylum Street, Hartford, CT 06103",
+   "tags": {}
+  },
+  {
+   "id": "node/7855769395",
+   "name": "PetSmart",
+   "lat": 41.7272563,
+   "lon": -72.6197131,
+   "distKm": 6.2,
+   "address": "5 Main Street, East Hartford, CT 06118",
+   "tags": {
+    "phone": "+1 860-895-1816",
+    "website": "https://www.petsmart.com/stores/us/ct/east-hartford-store1572.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7816250474",
+   "name": "Wild Birds Unlimited",
+   "lat": 41.7209942,
+   "lon": -72.6139465,
+   "distKm": 7,
+   "address": "2848 Main Street, Glastonbury, CT 06033",
+   "tags": {
+    "phone": "+1 860 633 5211",
+    "website": "https://glastonbury.wbu.com",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/7810999628",
+   "name": "Petco",
+   "lat": 41.7150355,
+   "lon": -72.6061814,
+   "distKm": 7.9,
+   "address": "13 Welles Street, Glastonbury, CT 06033",
+   "tags": {
+    "phone": "+1 860-657-8331",
+    "website": "https://stores.petco.com/ct/glastonbury/pet-supplies-glastonbury-ct-3730.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9389150505",
+   "name": "Pet Supplies Plus",
+   "lat": 41.6910771,
+   "lon": -72.6546186,
+   "distKm": 8.5,
+   "address": "1142 Silas Deane Highway, Wethersfield, CT 06109",
+   "tags": {
+    "phone": "+18605633510",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 10:00-19:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/2989974438",
+   "name": "Simon Sez Pets, LLC",
+   "lat": 41.6967561,
+   "lon": -72.7203851,
+   "distKm": 8.6,
+   "address": "140 Market Square, Newington, CT 06111",
+   "tags": {
+    "phone": "+1-860-757-3847",
+    "website": "https://simonsezpets.com/"
+   }
+  },
+  {
+   "id": "node/11460218508",
+   "name": "Petco",
+   "lat": 41.6821672,
+   "lon": -72.7074015,
+   "distKm": 9.7,
+   "address": "188 Kitts Lane, Newington, CT 06111",
+   "tags": {
+    "phone": "+1 860-667-9621",
+    "website": "https://stores.petco.com/ct/newington/pet-supplies-newington-ct-795.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5333940093",
+   "name": "PetSmart",
+   "lat": 41.8067716,
+   "lon": -72.5571859,
+   "distKm": 10.7,
+   "address": "1520 Pleasant Valley Road, Manchester, CT 06042",
+   "tags": {
+    "phone": "+1 860-644-2366",
+    "website": "https://www.petsmart.com/stores/us/ct/manchester-store1176.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/567604957",
+   "name": "Ruff Cuts Grooming",
+   "lat": 41.7718174,
+   "lon": -72.5206534,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8258964388",
+   "name": "Petco",
+   "lat": 41.8913249,
+   "lon": -72.6511985,
+   "distKm": 14.1,
+   "address": "1065 Kennedy Road, Windsor, CT 06095",
+   "tags": {
+    "phone": "+1 860-687-1134",
+    "website": "https://stores.petco.com/ct/windsor/pet-supplies-windsor-ct-1869.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/696004364",
+   "name": "PetSmart",
+   "lat": 41.6430243,
+   "lon": -72.7281696,
+   "distKm": 14.4,
+   "address": "267 Berlin Turnpike, Berlin, CT 06037",
+   "tags": {
+    "phone": "+1 860-259-9020",
+    "website": "https://www.petsmart.com/stores/us/ct/berlin-store2718.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/30956416",
+   "name": "Petco",
+   "lat": 41.8160749,
+   "lon": -72.8683962,
+   "distKm": 17.1,
+   "address": "9 West Avon Road, Avon, CT 06001-3504",
+   "tags": {
+    "phone": "+1 860-404-8880",
+    "website": "https://stores.petco.com/ct/avon/pet-supplies-avon-ct-1813.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9684104088",
+   "name": "PetSmart",
+   "lat": 41.6734629,
+   "lon": -72.8406517,
+   "distKm": 17.3,
+   "address": "278 New Britain Avenue, Plainville, CT 06062",
+   "tags": {
+    "phone": "+1 860-747-9399",
+    "website": "https://www.petsmart.com/stores/us/ct/plainville-store0729.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6503446090",
+   "name": "Pet Valu",
+   "lat": 41.6059171,
+   "lon": -72.6784609,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/10245952691",
+   "name": "Pet Store Next Door",
+   "lat": 41.7850394,
+   "lon": -72.4606793,
+   "distKm": 17.8,
+   "address": "228 Boston Turnpike, Bolton, CT 06043",
+   "tags": {}
+  },
+  {
+   "id": "node/11017177002",
+   "name": "Wet Pets",
+   "lat": 41.830113,
+   "lon": -72.4770612,
+   "distKm": 17.8,
+   "address": "520 Hartford Turnpike, Vernon, CT 06066",
+   "tags": {
+    "website": "https://www.wetpetsemporium.com/"
+   }
+  },
+  {
+   "id": "node/6215325426",
+   "name": "PetSense",
+   "lat": 41.6074235,
+   "lon": -72.7090851,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13613535656",
+   "name": "Animal City",
+   "lat": 41.8458824,
+   "lon": -72.4866669,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

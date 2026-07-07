@@ -1,0 +1,537 @@
+{
+ "$schemaVersion": 1,
+ "city": "mexico-city",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:39:43.196Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 53,
+ "places": [
+  {
+   "id": "node/8899553610",
+   "name": "Moskotoy",
+   "lat": 19.4412108,
+   "lon": -99.1154863,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10172018586",
+   "name": "Canísimo",
+   "lat": 19.4174347,
+   "lon": -99.1561157,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5454237101",
+   "name": "+Kota",
+   "lat": 19.4186269,
+   "lon": -99.105766,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10560289344",
+   "name": "Petco",
+   "lat": 19.4162486,
+   "lon": -99.1687163,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5087556622",
+   "name": "Petco",
+   "lat": 19.4121056,
+   "lon": -99.1667019,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5123769572",
+   "name": "Huesitos DF",
+   "lat": 19.3973999,
+   "lon": -99.1472071,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5838279604",
+   "name": "Huvica",
+   "lat": 19.3950978,
+   "lon": -99.138145,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13810108170",
+   "name": "FarmAnimals",
+   "lat": 19.422072,
+   "lon": -99.1715362,
+   "distKm": 4.2,
+   "address": "277 Calle Londres, 06600",
+   "tags": {
+    "website": "https://farmanimals.com.mx/"
+   }
+  },
+  {
+   "id": "way/1300992880",
+   "name": "Acuario",
+   "lat": 19.4712239,
+   "lon": -99.1356954,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5188721321",
+   "name": "Petco",
+   "lat": 19.4838149,
+   "lon": -99.1329028,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9868457776",
+   "name": "Farmacia veterinaria San Bernardo",
+   "lat": 19.3788939,
+   "lon": -99.1397956,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "phone": "+525515792782",
+    "website": "https://www.grupolovet.com/"
+   }
+  },
+  {
+   "id": "node/5774163739",
+   "name": "Marlo",
+   "lat": 19.4285037,
+   "lon": -99.1939585,
+   "distKm": 6.4,
+   "address": "12 Calle Aristóteles",
+   "tags": {}
+  },
+  {
+   "id": "node/4066846462",
+   "name": "Pet City",
+   "lat": 19.3750782,
+   "lon": -99.1544402,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4698302189",
+   "name": "AMOR PERRO",
+   "lat": 19.3927029,
+   "lon": -99.1838854,
+   "distKm": 6.9,
+   "address": "109-A Avenida 2, 03800",
+   "tags": {
+    "phone": "63024119",
+    "website": "http://amorperro.mx",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/5904623392",
+   "name": "Acuario Portales",
+   "lat": 19.371392,
+   "lon": -99.1441226,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4066846466",
+   "name": "Animalia Adopta",
+   "lat": 19.3737774,
+   "lon": -99.1556366,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5157044223",
+   "name": "Petco",
+   "lat": 19.4400914,
+   "lon": -99.2003277,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12467160801",
+   "name": "icniuh",
+   "lat": 19.3746093,
+   "lon": -99.0995146,
+   "distKm": 7.4,
+   "address": "10 Calle Oceanógrafos, 09410",
+   "tags": {
+    "phone": "5574685637",
+    "website": "https://www.icniuhlove.com/"
+   }
+  },
+  {
+   "id": "node/8843501797",
+   "name": "Petco",
+   "lat": 19.3844084,
+   "lon": -99.1888806,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4067592585",
+   "name": "Petco",
+   "lat": 19.3680861,
+   "lon": -99.1667851,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "phone": "55 5524 5123",
+    "website": "https://www.petco.com.mx/"
+   }
+  },
+  {
+   "id": "node/13054699618",
+   "name": "Mega Mascotas",
+   "lat": 19.361718,
+   "lon": -99.1515488,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3850796858",
+   "name": "Estética canina y veterinaria Patita de perro",
+   "lat": 19.3771413,
+   "lon": -99.1908951,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13675622286",
+   "name": "Tienda y estética para mascotas Mimos",
+   "lat": 19.3504159,
+   "lon": -99.1466801,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10290347542",
+   "name": "Petco",
+   "lat": 19.5173036,
+   "lon": -99.1425338,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6597929385",
+   "name": "Acuario",
+   "lat": 19.4013407,
+   "lon": -99.0450897,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8011316497",
+   "name": "Acuario América",
+   "lat": 19.3439577,
+   "lon": -99.1548139,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9957761416",
+   "name": "Central Pets",
+   "lat": 19.3418942,
+   "lon": -99.1488251,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {
+    "phone": "+525579203219",
+    "website": "https://centralpets.mx"
+   }
+  },
+  {
+   "id": "node/3777034205",
+   "name": "Maskota",
+   "lat": 19.3440781,
+   "lon": -99.1613553,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8498186942",
+   "name": "Acuario Aries",
+   "lat": 19.3359491,
+   "lon": -99.1372075,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4995104521",
+   "name": "+Kota",
+   "lat": 19.3333275,
+   "lon": -99.1463698,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11117175468",
+   "name": "Croqueteria",
+   "lat": 19.5324382,
+   "lon": -99.1386994,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2555098881",
+   "name": "COHFYP",
+   "lat": 19.3419737,
+   "lon": -99.181311,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1230736867",
+   "name": "petco",
+   "lat": 19.4909725,
+   "lon": -99.2265843,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6045230185",
+   "name": "Petco Echegaray",
+   "lat": 19.4914281,
+   "lon": -99.22696,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4341828608",
+   "name": "Acuario Echegaray",
+   "lat": 19.4851376,
+   "lon": -99.2345284,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5046989222",
+   "name": "Petco",
+   "lat": 19.3200508,
+   "lon": -99.1309625,
+   "distKm": 12.5,
+   "address": "Avenida Canal de Miramontes",
+   "tags": {
+    "website": "https://www.petco.com.mx/"
+   }
+  },
+  {
+   "id": "node/4479755389",
+   "name": "Petco",
+   "lat": 19.3357806,
+   "lon": -99.1958021,
+   "distKm": 12.6,
+   "address": "122 Avenida San Jerónimo, CDMX, 01090",
+   "tags": {
+    "website": "http://beerfactory.com"
+   }
+  },
+  {
+   "id": "node/5306935522",
+   "name": "Petco Satélite",
+   "lat": 19.5079934,
+   "lon": -99.2340854,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3792058183",
+   "name": "PETCO Lomas Verdes",
+   "lat": 19.4952462,
+   "lon": -99.2473236,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {
+    "phone": "53740985",
+    "opening_hours": "Mo-Su 09:00-09:00"
+   }
+  },
+  {
+   "id": "node/4374839289",
+   "name": "Coquetería",
+   "lat": 19.4913272,
+   "lon": -99.2520143,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "phone": "53606999"
+   }
+  },
+  {
+   "id": "node/4411583990",
+   "name": "Petco",
+   "lat": 19.37654,
+   "lon": -99.2545827,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5197360233",
+   "name": "Petco (Express)",
+   "lat": 19.3299708,
+   "lon": -99.2161265,
+   "distKm": 14.3,
+   "address": "819 San Jeronimo, Ciudad de México, 10200",
+   "tags": {
+    "phone": "(55) 5668-1203",
+    "website": "https://www.petco.com.mx/petco/en/"
+   }
+  },
+  {
+   "id": "node/5514369927",
+   "name": "Escuela estética canina CANTINAS",
+   "lat": 19.5213368,
+   "lon": -99.2321733,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "phone": "53653200"
+   }
+  },
+  {
+   "id": "node/4430078692",
+   "name": "Petco",
+   "lat": 19.5256505,
+   "lon": -99.2285844,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/619009011",
+   "name": "Maskota",
+   "lat": 19.339363,
+   "lon": -99.2321893,
+   "distKm": 14.7,
+   "address": "5260-2 Calzada Desierto de los Leones, 01700",
+   "tags": {
+    "phone": "+52 55 85907317",
+    "opening_hours": "Mo-Su 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/4636373820",
+   "name": "+kota",
+   "lat": 19.2970559,
+   "lon": -99.1369367,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5306935521",
+   "name": "Petco Valle Dorado",
+   "lat": 19.5521342,
+   "lon": -99.2099888,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6329548489",
+   "name": "Maskota",
+   "lat": 19.2931809,
+   "lon": -99.1795085,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/719957483",
+   "name": "Petco",
+   "lat": 19.3587641,
+   "lon": -99.2687692,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10605062508",
+   "name": "Petco",
+   "lat": 19.3740389,
+   "lon": -99.278317,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/327332882",
+   "name": "+KOTA",
+   "lat": 19.2847873,
+   "lon": -99.1639979,
+   "distKm": 16.8,
+   "address": "Calzada de Tlalpan",
+   "tags": {}
+  },
+  {
+   "id": "node/6059139417",
+   "name": "Ximello",
+   "lat": 19.5820013,
+   "lon": -99.0409992,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7341454870",
+   "name": "Petland",
+   "lat": 19.5500374,
+   "lon": -99.2741268,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

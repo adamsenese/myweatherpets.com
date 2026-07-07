@@ -1,0 +1,166 @@
+{
+ "$schemaVersion": 1,
+ "city": "birmingham",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:35:51.087Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "node/12592442933",
+   "name": "The Barkery",
+   "lat": 33.5251277,
+   "lon": -86.8060758,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "access": "customers",
+    "website": "https://citywalkbham.com/barkery/",
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/617106669",
+   "name": "Good Dog Park & Bar",
+   "lat": 33.5136453,
+   "lon": -86.7993043,
+   "distKm": 1.2,
+   "address": "2307 1st Avenue South, Birmingham, AL 35233",
+   "tags": {
+    "website": "https://gooddogpark.org/birmingham-alabama/"
+   }
+  },
+  {
+   "id": "node/9848131393",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4691786,
+   "lon": -86.8232685,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1259809730",
+   "name": "Dog Relief Area",
+   "lat": 33.560092,
+   "lon": -86.7519046,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/337717030",
+   "name": "Remy's Dog Park (Large)",
+   "lat": 33.4475541,
+   "lon": -86.8597436,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/337717031",
+   "name": "Remy's Dog Park (Small)",
+   "lat": 33.4472137,
+   "lon": -86.860214,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/337717032",
+   "name": "Remy's Dog Park (Special Needs)",
+   "lat": 33.4473606,
+   "lon": -86.8610796,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/857925897",
+   "name": "Avenues of Lakeshore Bark Park",
+   "lat": 33.4323999,
+   "lon": -86.8453344,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/568554397",
+   "name": "Black Creek Bark Park",
+   "lat": 33.6186618,
+   "lon": -86.8035156,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/627107662",
+   "name": "Barkberry Place Dog Park",
+   "lat": 33.411291,
+   "lon": -86.8102294,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/825503167",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4087214,
+   "lon": -86.8021634,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1077578388",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.4280949,
+   "lon": -86.7311429,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5333262785",
+   "name": "Loch Haven Dog Park",
+   "lat": 33.4056618,
+   "lon": -86.7768743,
+   "distKm": 12.9,
+   "address": "3469 Loch Haven Drive, Hoover, AL 35216",
+   "tags": {}
+  },
+  {
+   "id": "node/8638643301",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.637124,
+   "lon": -86.8690933,
+   "distKm": 14.3,
+   "address": "2191 Fieldstown Road, Mount Olive, AL 35117",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.cityofgardendale.com/parksrec/page/clemons-complex"
+   }
+  },
+  {
+   "id": "way/825340475",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.3832905,
+   "lon": -86.7938571,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1208386232",
+   "name": "PetSmart Mini Dog Park",
+   "lat": 33.3778716,
+   "lon": -86.8005182,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "$schemaVersion": 1,
+ "city": "oklahoma-city",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:27:23.901Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/13515888267",
+   "name": "Hollywood Feed",
+   "lat": 35.5375723,
+   "lon": -97.5312795,
+   "distKm": 7.9,
+   "address": "6413 Avondale Drive, Nichols Hills, OK 73116",
+   "tags": {
+    "website": "https://locations.hollywoodfeed.com/oklahoma/nichols-hills/6413-avondale-dr/",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/13576782401",
+   "name": "Alligator Alley",
+   "lat": 35.478609,
+   "lon": -97.6051501,
+   "distKm": 8.1,
+   "address": "4636 Northwest 10th Street, 73127",
+   "tags": {
+    "phone": "+1-405-949-2553",
+    "website": "http://alligatoralley.com/home.html",
+    "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 11:00-18:00"
+   }
+  },
+  {
+   "id": "way/1209940236",
+   "name": "Petsmart",
+   "lat": 35.5354695,
+   "lon": -97.567139,
+   "distKm": 8.8,
+   "address": "2932 Northwest 63rd Street, Oklahoma City, OK 73116",
+   "tags": {
+    "phone": "+1 405-843-0763",
+    "website": "https://stores.petco.com/ok/oklahomacity/pet-supplies-oklahomacity-ok-2435.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13576782402",
+   "name": "Exotic Pets",
+   "lat": 35.5412307,
+   "lon": -97.5661907,
+   "distKm": 9.3,
+   "address": "6907 North May Avenue, 73116",
+   "tags": {
+    "phone": "+1-405-849-6486",
+    "website": "https://exoticpetswichita.com/?fbclid=IwRlRTSAQCshlleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xNzM4NDc2NDI2NzAzNzAAAR5Fxk1Kyjxz9WSt9Dc3XrNxO4JuZE9jlaG3Pck6FzuC8GrLG5_s29cr_ElO7g_aem_hJ9SfpRxx3xnPDDyUSAcPg",
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa-Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/11372216023",
+   "name": "Wild Birds Unlimited",
+   "lat": 35.5463297,
+   "lon": -97.5661727,
+   "distKm": 9.8,
+   "address": "7501 North May Avenue, Oklahoma City, OK 73116",
+   "tags": {
+    "phone": "+1 405 842 9910",
+    "website": "https://oklahomacity.wbu.com/",
+    "opening_hours": "Mo-Th 09:30-17:30; Fr, Sa 09:00-17:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/12022056330",
+   "name": "PetSmart",
+   "lat": 35.4631124,
+   "lon": -97.6258232,
+   "distKm": 9.9,
+   "address": "6327 Southwest 3rd Street, Oklahoma City, OK 73127",
+   "tags": {
+    "phone": "+1 405-440-0041",
+    "website": "https://www.petsmart.com/stores/us/ok/oklahoma-city-store1057.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/491838013",
+   "name": "PetSmart",
+   "lat": 35.4374326,
+   "lon": -97.4014221,
+   "distKm": 10.9,
+   "address": "7177 Southeast 29th Street, Midwest City, OK 73110",
+   "tags": {
+    "phone": "+1 405-732-7861",
+    "website": "https://www.petsmart.com/stores/us/ok/midwest-city-store1357.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1090653768",
+   "name": "Pet Supplies Plus",
+   "lat": 35.5652791,
+   "lon": -97.568619,
+   "distKm": 11.8,
+   "address": "2950 West Britton Road, Oklahoma City, OK 73120",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11258534380",
+   "name": "Wiggles & Wags",
+   "lat": 35.462005,
+   "lon": -97.6474008,
+   "distKm": 11.9,
+   "address": "7624 West Reno Avenue, Oklahoma City, OK 73127",
+   "tags": {}
+  },
+  {
+   "id": "node/13846881576",
+   "name": "EarthWise Pet",
+   "lat": 35.3627654,
+   "lon": -97.5687439,
+   "distKm": 12.6,
+   "address": "3000 Southwest 104th Street, Oklahoma City, OK 73170",
+   "tags": {
+    "brand": "EarthWise Pet"
+   }
+  },
+  {
+   "id": "node/12840625383",
+   "name": "A1 Pet Emporium",
+   "lat": 35.3508945,
+   "lon": -97.5314012,
+   "distKm": 13,
+   "address": "11649 South Western Avenue, Oklahoma City, OK 73170",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00, Sa 09:00-18:00, Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/11234901001",
+   "name": "PetSmart",
+   "lat": 35.5557221,
+   "lon": -97.6415258,
+   "distKm": 15,
+   "address": "8357 North Rockwell Avenue, Oklahoma City, OK 73132",
+   "tags": {
+    "phone": "+1 405-720-0104",
+    "website": "https://www.petsmart.com/stores/us/ok/oklahoma-city-store1516.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11380431051",
+   "name": "Petco",
+   "lat": 35.5590211,
+   "lon": -97.6376511,
+   "distKm": 15,
+   "address": "7001 Northwest Expressway, Oklahoma City, OK 73132",
+   "tags": {
+    "phone": "+1 405-720-2298",
+    "website": "https://stores.petco.com/ok/oklahomacity/pet-supplies-oklahomacity-ok-1443.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11478550703",
+   "name": "Pettito",
+   "lat": 35.6130503,
+   "lon": -97.5592834,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12507002208",
+   "name": "Petco",
+   "lat": 35.6143303,
+   "lon": -97.5480054,
+   "distKm": 16.6,
+   "address": "14120 North Pennsylvania Avenue, Oklahoma City, OK 73134",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13254928843",
+   "name": "PetSmart",
+   "lat": 35.3184481,
+   "lon": -97.487233,
+   "distKm": 16.8,
+   "address": "2100 S I-35 Service Rd, Moore, OK 73160",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13535892801",
+   "name": "PetSmart",
+   "lat": 35.633137,
+   "lon": -97.4855418,
+   "distKm": 18.6,
+   "address": "1921 South Broadway, 73013",
+   "tags": {
+    "phone": "+1-405-330-4079",
+    "website": "https://www.petsmart.com/stores/us/ok/edmond-store0217.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/13537475951",
+   "name": "Aquariums",
+   "lat": 35.6364537,
+   "lon": -97.4953548,
+   "distKm": 18.9,
+   "address": "1702 South Kelly Avenue, Edmond, OK 73013",
+   "tags": {
+    "phone": "+14053481070",
+    "website": "http://www.instagram.com/okcfishlady",
+    "opening_hours": "Mo,Th-Sa 11:00-19:00; Tu 12:00-19:00; Su 13:00-17:00"
+   }
+  }
+ ]
+}

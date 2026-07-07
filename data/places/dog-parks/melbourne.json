@@ -1,0 +1,458 @@
+{
+ "$schemaVersion": 1,
+ "city": "melbourne",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:40:36.898Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 43,
+ "places": [
+  {
+   "id": "way/44618186",
+   "name": "Clayton Reserve",
+   "lat": -37.7962994,
+   "lon": 144.9392174,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/516274144",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7892834,
+   "lon": 144.9739416,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/610917509",
+   "name": "Gilpin Dog Park",
+   "lat": -37.7686384,
+   "lon": 144.9502018,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/220567995",
+   "name": "Recreation Hall Reserve",
+   "lat": -37.8094255,
+   "lon": 145.0306439,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/490070989",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.813372,
+   "lon": 144.8921844,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/560919178",
+   "name": "Off-leash dog walking area",
+   "lat": -37.7678182,
+   "lon": 145.0055954,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/975357599",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7495617,
+   "lon": 144.962403,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "lit": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/26407711",
+   "name": "Martin Reserve (Dog Offleash Area)",
+   "lat": -37.7940023,
+   "lon": 144.876762,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/723001562",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7714139,
+   "lon": 145.0359024,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/313913692",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.8194689,
+   "lon": 144.8689861,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/655890008",
+   "name": "Off Leash Dog Area",
+   "lat": -37.8357577,
+   "lon": 144.8706348,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1066863159",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7288815,
+   "lon": 144.9551492,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/7428480260",
+   "name": "Richards Reserve Dog Park",
+   "lat": -37.7288278,
+   "lon": 144.9551439,
+   "distKm": 9.5,
+   "address": "30-34 Charles Street, VIC 3058",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1314537271",
+   "name": "Pawfield Park",
+   "lat": -37.8816952,
+   "lon": 145.0356598,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/11782890",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.8798964,
+   "lon": 145.0381612,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/787524381",
+   "name": "Alf Pearce Dog Park",
+   "lat": -37.7340772,
+   "lon": 144.9107865,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9169363928",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.8023729,
+   "lon": 145.0878208,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1207372204",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.8625447,
+   "lon": 144.8514909,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/231201266",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7549837,
+   "lon": 145.0793927,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wire"
+   }
+  },
+  {
+   "id": "way/1285227739",
+   "name": "Proposed Killeen Street Reserve Off-Leash area",
+   "lat": -37.7981959,
+   "lon": 144.8210934,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1312939981",
+   "name": "Moomba Park off-leash dog park",
+   "lat": -37.6976315,
+   "lon": 144.9782922,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/360835777",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7120698,
+   "lon": 145.0391083,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/266788747",
+   "name": "Collenso Street Reserve Dog Off-Leash Area",
+   "lat": -37.7873173,
+   "lon": 144.8091758,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/675793805",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7362239,
+   "lon": 145.0867983,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/776715363",
+   "name": "Norris Bank Dog Off Leash Area",
+   "lat": -37.6944665,
+   "lon": 145.0523716,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.whittlesea.vic.gov.au/arts-events-recreation/parks-and-playgrounds/dog-off-leash-parks/"
+   }
+  },
+  {
+   "id": "way/951337541",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.9379093,
+   "lon": 145.0451104,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/862915818",
+   "name": "Green Gully Reserve Dog Park",
+   "lat": -37.7254475,
+   "lon": 144.8203668,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1274018502",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7251152,
+   "lon": 144.8208439,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1524892971",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7600329,
+   "lon": 144.7942272,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1393721715",
+   "name": "Whittlesea Public Gardens Fenced Dog Park",
+   "lat": -37.6694238,
+   "lon": 144.9833503,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/951337558",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.9424197,
+   "lon": 145.0536972,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/950211832",
+   "name": "Dales Park Dog Off Leash Area",
+   "lat": -37.93333,
+   "lon": 145.0814785,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/951337704",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.9497478,
+   "lon": 145.0546261,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/951338080",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.9559463,
+   "lon": 145.0489908,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/950211041",
+   "name": "Mavis Hutter Reserve Dog Off Leash Area",
+   "lat": -37.9373612,
+   "lon": 145.0916111,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/949614121",
+   "name": "Bald Hill Park Dog Off Leash Area",
+   "lat": -37.9321841,
+   "lon": 145.1028093,
+   "distKm": 18,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/1278190648",
+   "name": "International Gardens Reserve Fenced Dog Park",
+   "lat": -37.7317642,
+   "lon": 144.7865323,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1524548846",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -37.7356302,
+   "lon": 145.1423635,
+   "distKm": 18,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1110905518",
+   "name": "Dog Off-Leash Park",
+   "lat": -37.6651774,
+   "lon": 145.0635312,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/867565816",
+   "name": "Aranga Reserve Dog Park",
+   "lat": -37.8015456,
+   "lon": 145.1765728,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/949609265",
+   "name": "Namatjira Park Dog Off Leash Area",
+   "lat": -37.9348787,
+   "lon": 145.1122027,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.kingston.vic.gov.au/Services/Pets/Dog-Ownership/Dog-Off-Leash-Areas"
+   }
+  },
+  {
+   "id": "way/675976975",
+   "name": "Malcolm Blair Dog Park",
+   "lat": -37.702757,
+   "lon": 145.1277032,
+   "distKm": 19,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/58885559",
+   "name": "Farm Road Reserve",
+   "lat": -37.9646265,
+   "lon": 145.0766322,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

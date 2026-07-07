@@ -1,0 +1,570 @@
+{
+ "$schemaVersion": 1,
+ "city": "buenos-aires",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:40:19.095Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12400103235",
+   "name": "Petba",
+   "lat": -34.6007458,
+   "lon": -58.3883009,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13176010683",
+   "name": "Petit Pet Shop",
+   "lat": -34.5991133,
+   "lon": -58.393172,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4685474182",
+   "name": "Petco",
+   "lat": -34.6046564,
+   "lon": -58.3962185,
+   "distKm": 1.3,
+   "address": "Avenida Corrientes, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9688748614",
+   "name": "Tierra Mascotera",
+   "lat": -34.6137378,
+   "lon": -58.3885404,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:30-18:30+; Sa 10:30-15:30"
+   }
+  },
+  {
+   "id": "node/13634275902",
+   "name": "Talita",
+   "lat": -34.5946815,
+   "lon": -58.3938976,
+   "distKm": 1.5,
+   "address": "1845 Arenales",
+   "tags": {}
+  },
+  {
+   "id": "node/7149366955",
+   "name": "Wimpy",
+   "lat": -34.6150806,
+   "lon": -58.3929521,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10579288557",
+   "name": "Vale For Pets",
+   "lat": -34.6099421,
+   "lon": -58.4002728,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7132139071",
+   "name": "Inti",
+   "lat": -34.598019,
+   "lon": -58.4011876,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12185277829",
+   "name": "Mini Pets",
+   "lat": -34.597038,
+   "lon": -58.4019397,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4675700133",
+   "name": "Dame la Pata",
+   "lat": -34.5990316,
+   "lon": -58.4040765,
+   "distKm": 2.1,
+   "address": "Avenida Pueyrredón, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/8094648053",
+   "name": "Dame La Pata",
+   "lat": -34.5948257,
+   "lon": -58.4023383,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8094664321",
+   "name": "Vale For Pets",
+   "lat": -34.6027974,
+   "lon": -58.4048594,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11845497002",
+   "name": "Pega",
+   "lat": -34.6059477,
+   "lon": -58.4056389,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11958941459",
+   "name": "Puppies",
+   "lat": -34.5921383,
+   "lon": -58.4011466,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4672292199",
+   "name": "Puerto de Mascotas",
+   "lat": -34.6172622,
+   "lon": -58.362657,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4689562812",
+   "name": "PeGa",
+   "lat": -34.6045794,
+   "lon": -58.4064586,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4699681316",
+   "name": "World Pet",
+   "lat": -34.5981835,
+   "lon": -58.4057825,
+   "distKm": 2.3,
+   "address": "Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/9896455654",
+   "name": "Maxscotas",
+   "lat": -34.616483,
+   "lon": -58.4013153,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11825674842",
+   "name": "Petfy",
+   "lat": -34.5950448,
+   "lon": -58.4041757,
+   "distKm": 2.3,
+   "address": "1314 Ecuador",
+   "tags": {}
+  },
+  {
+   "id": "node/12125776421",
+   "name": "Vale For Pets",
+   "lat": -34.6074426,
+   "lon": -58.4059434,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12248692402",
+   "name": "Patani",
+   "lat": -34.589723,
+   "lon": -58.400553,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12422891401",
+   "name": "Panda",
+   "lat": -34.5892752,
+   "lon": -58.3994904,
+   "distKm": 2.3,
+   "address": "2487 Peña",
+   "tags": {}
+  },
+  {
+   "id": "node/11774614576",
+   "name": "Baires Pet Shop",
+   "lat": -34.6191796,
+   "lon": -58.4008137,
+   "distKm": 2.5,
+   "address": "Alberti, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/13184728701",
+   "name": "Area Pet",
+   "lat": -34.5893811,
+   "lon": -58.4044774,
+   "distKm": 2.6,
+   "address": "2731 Juncal",
+   "tags": {}
+  },
+  {
+   "id": "node/13723557801",
+   "name": "Mr Dog",
+   "lat": -34.5873359,
+   "lon": -58.4012122,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10172619258",
+   "name": "De Pelos",
+   "lat": -34.5905768,
+   "lon": -58.4058156,
+   "distKm": 2.7,
+   "address": "1760 Agüero",
+   "tags": {}
+  },
+  {
+   "id": "node/8984347477",
+   "name": "Pet's Shop",
+   "lat": -34.623466,
+   "lon": -58.4008318,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11845518913",
+   "name": "Multi Pet",
+   "lat": -34.5832632,
+   "lon": -58.4026743,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6356439085",
+   "name": "BePet",
+   "lat": -34.5908325,
+   "lon": -58.4138855,
+   "distKm": 3.3,
+   "address": "3386 República Dominicana, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "website": "https://bepet.com.ar/"
+   }
+  },
+  {
+   "id": "node/11156554405",
+   "name": "Puppis",
+   "lat": -34.5875279,
+   "lon": -58.4112948,
+   "distKm": 3.3,
+   "address": "2052 Bulnes, Ciudad Autónoma de Buenos Aires, C1425",
+   "tags": {
+    "website": "https://www.puppis.com.ar",
+    "opening_hours": "Mo-Sa 09:00-20:30; Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "way/1106586122",
+   "name": "Reina Mía",
+   "lat": -34.6246532,
+   "lon": -58.4075615,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2090405872",
+   "name": "Zooco",
+   "lat": -34.595261,
+   "lon": -58.4168055,
+   "distKm": 3.4,
+   "address": "1422 Bulnes, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 2107 5286"
+   }
+  },
+  {
+   "id": "node/2711078125",
+   "name": "Mendieta",
+   "lat": -34.5976597,
+   "lon": -58.4190272,
+   "distKm": 3.5,
+   "address": "3701 Avenida Córdoba, Ciudad Autónoma de Buenos Aires, C1188AAD",
+   "tags": {
+    "phone": "+54 11 4866-5757"
+   }
+  },
+  {
+   "id": "node/10579170341",
+   "name": "Pet Service",
+   "lat": -34.5852362,
+   "lon": -58.4123147,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10739622005",
+   "name": "ProPlan",
+   "lat": -34.5837798,
+   "lon": -58.4127364,
+   "distKm": 3.6,
+   "address": "3507 Juncal, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/11086672005",
+   "name": "Dog wash",
+   "lat": -34.5817731,
+   "lon": -58.4099418,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11157489108",
+   "name": "Palermo Pet Store",
+   "lat": -34.5891886,
+   "lon": -58.4185733,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4334056989",
+   "name": "Adorables Amigos",
+   "lat": -34.5946606,
+   "lon": -58.4228401,
+   "distKm": 3.9,
+   "address": "1349 Gascón, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4040-9944"
+   }
+  },
+  {
+   "id": "node/4669053396",
+   "name": "Casper",
+   "lat": -34.596245,
+   "lon": -58.4232474,
+   "distKm": 3.9,
+   "address": "José Antonio Cabrera, Ciudad Autónoma de Buenos Aires",
+   "tags": {
+    "phone": "+54 11 4864-2886",
+    "website": "https://www.casperpetstore.com.ar/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su off"
+   }
+  },
+  {
+   "id": "node/4709140524",
+   "name": "Kan Goo",
+   "lat": -34.5905302,
+   "lon": -58.4241152,
+   "distKm": 4.2,
+   "address": "1689 Avenida Raúl Scalabrini Ortiz, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/12368097301",
+   "name": "Dog City",
+   "lat": -34.5856419,
+   "lon": -58.4227822,
+   "distKm": 4.3,
+   "address": "Paraguay",
+   "tags": {}
+  },
+  {
+   "id": "node/10716451708",
+   "name": "Guatitas",
+   "lat": -34.5833703,
+   "lon": -58.4228455,
+   "distKm": 4.4,
+   "address": "2324 Jorge Luis Borges, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/4669951545",
+   "name": "Pro Plan",
+   "lat": -34.5936893,
+   "lon": -58.4288514,
+   "distKm": 4.5,
+   "address": "Avenida Raúl Scalabrini Ortiz, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/11371415869",
+   "name": "Bepet",
+   "lat": -34.5852351,
+   "lon": -58.4257198,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12270111401",
+   "name": "El Arca",
+   "lat": -34.5804848,
+   "lon": -58.4255683,
+   "distKm": 4.8,
+   "address": "2374 Fray Justo Santa María de Oro",
+   "tags": {}
+  },
+  {
+   "id": "node/13191635006",
+   "name": "Tyna",
+   "lat": -34.5801638,
+   "lon": -58.4252416,
+   "distKm": 4.8,
+   "address": "2408 Fray Justo Santa María de Oro, Ciudad Autónoma de Buenos Aires, C1425",
+   "tags": {}
+  },
+  {
+   "id": "node/11170234537",
+   "name": "Guatitas Pet Home",
+   "lat": -34.5779129,
+   "lon": -58.4244783,
+   "distKm": 4.9,
+   "address": "Godoy Cruz",
+   "tags": {}
+  },
+  {
+   "id": "node/12344807001",
+   "name": "Mil Patitas",
+   "lat": -34.6010028,
+   "lon": -58.434666,
+   "distKm": 4.9,
+   "address": "Lavalleja",
+   "tags": {}
+  },
+  {
+   "id": "node/4591223516",
+   "name": "Pitukitos",
+   "lat": -34.6321848,
+   "lon": -58.4257697,
+   "distKm": 5.1,
+   "address": "Avenida La Plata, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/4709385500",
+   "name": "Pet Store",
+   "lat": -34.5986099,
+   "lon": -58.4370644,
+   "distKm": 5.1,
+   "address": "Avenida Raúl Scalabrini Ortiz, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/12177598901",
+   "name": "Pet Shop",
+   "lat": -34.5795239,
+   "lon": -58.4291038,
+   "distKm": 5.1,
+   "address": "Humboldt",
+   "tags": {}
+  },
+  {
+   "id": "node/4649897194",
+   "name": "Casper",
+   "lat": -34.5775155,
+   "lon": -58.4290517,
+   "distKm": 5.2,
+   "address": "4914 Avenida Santa Fe, Ciudad Autónoma de Buenos Aires, C1425",
+   "tags": {}
+  },
+  {
+   "id": "node/3515819502",
+   "name": "Carpe Diem",
+   "lat": -34.5790372,
+   "lon": -58.4316669,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4598759295",
+   "name": "Oki-Bran",
+   "lat": -34.6326435,
+   "lon": -58.428067,
+   "distKm": 5.3,
+   "address": "Avenida Vernet, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/4604491986",
+   "name": "Taty",
+   "lat": -34.6512965,
+   "lon": -58.3933982,
+   "distKm": 5.4,
+   "address": "Avenida General Iriarte, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/6123250842",
+   "name": "Rincon Mascotero",
+   "lat": -34.6065726,
+   "lon": -58.4399885,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12486381902",
+   "name": "Santa Clara",
+   "lat": -34.5772202,
+   "lon": -58.4304695,
+   "distKm": 5.4,
+   "address": "2462 Bonpland, Ciudad Autónoma de Buenos Aires, C1425",
+   "tags": {}
+  },
+  {
+   "id": "node/4604492710",
+   "name": "Mi Mascota Feliz",
+   "lat": -34.6509257,
+   "lon": -58.3989126,
+   "distKm": 5.5,
+   "address": "Avenida General Iriarte, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/4698231960",
+   "name": "Casper",
+   "lat": -34.6148078,
+   "lon": -58.4397027,
+   "distKm": 5.5,
+   "address": "Avellaneda, Ciudad Autónoma de Buenos Aires",
+   "tags": {}
+  },
+  {
+   "id": "node/12884645956",
+   "name": "Universal Pets",
+   "lat": -34.6043377,
+   "lon": -58.4420193,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

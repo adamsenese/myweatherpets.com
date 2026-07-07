@@ -1,0 +1,364 @@
+{
+ "$schemaVersion": 1,
+ "city": "raleigh",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:29:58.629Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 29,
+ "places": [
+  {
+   "id": "node/13759005004",
+   "name": "Unleashed, the Dog & Cat Store",
+   "lat": 35.7759819,
+   "lon": -78.635708,
+   "distKm": 0.5,
+   "address": "329 Blake Street, Raleigh, NC 27601-1801",
+   "tags": {
+    "website": "https://www.unleashedmutt.com",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/424679009",
+   "name": "Phydeaux",
+   "lat": 35.8168732,
+   "lon": -78.6171935,
+   "distKm": 4.6,
+   "address": "2535 Atlantic Avenue, Raleigh, 27604",
+   "tags": {}
+  },
+  {
+   "id": "node/9858026136",
+   "name": "PetPeople",
+   "lat": 35.8217629,
+   "lon": -78.6213149,
+   "distKm": 4.9,
+   "address": "2920 Sherman Oak Place, Raleigh, NC 27609",
+   "tags": {
+    "phone": "+19198036157",
+    "brand": "PetPeople"
+   }
+  },
+  {
+   "id": "way/425997394",
+   "name": "Pet Supplies Plus",
+   "lat": 35.8238462,
+   "lon": -78.6207749,
+   "distKm": 5.2,
+   "address": "3074 Wake Forest Road, Raleigh, NC 27609",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/1166269008",
+   "name": "Unleashed, the Dog & Cat Store",
+   "lat": 35.8174263,
+   "lon": -78.6925221,
+   "distKm": 6.5,
+   "address": "2460 Wycliff Road, Raleigh, NC 27607-2903",
+   "tags": {
+    "phone": "+1-919-858-6460",
+    "website": "https://www.unleashedmutt.com/lake-boone-trail",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/442776785",
+   "name": "PetSmart",
+   "lat": 35.712912,
+   "lon": -78.637439,
+   "distKm": 7.4,
+   "address": "2550 Timber Drive, Garner, NC 27529",
+   "tags": {
+    "phone": "+1 919-661-0690",
+    "website": "https://www.petsmart.com/stores/us/nc/garner-store0597.html",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12518572228",
+   "name": "Unleashed, the Dog & Cat Store",
+   "lat": 35.8407158,
+   "lon": -78.6798623,
+   "distKm": 7.8,
+   "address": "4325 Glenwood Avenue, Raleigh, NC 27612-4524",
+   "tags": {
+    "phone": "+1 984-222-0042",
+    "website": "https://www.unleashedmutt.com/crabtree-valley-mall",
+    "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13520400794",
+   "name": "Second Chance Pet Adoptions",
+   "lat": 35.7886203,
+   "lon": -78.7246874,
+   "distKm": 7.9,
+   "address": "6003 Chapel Hill Road, Raleigh, NC 27607",
+   "tags": {
+    "phone": "+19198518404",
+    "website": "https://www.secondchancenc.org/",
+    "opening_hours": "Mo-Fr 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/7777152921",
+   "name": "PetSmart",
+   "lat": 35.8488613,
+   "lon": -78.5854982,
+   "distKm": 9,
+   "address": "2800 Millbrook Road, Raleigh, NC 27604",
+   "tags": {
+    "phone": "+1 919-873-0544",
+    "website": "https://www.petsmart.com/stores/us/nc/raleigh-store0594.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4309558790",
+   "name": "Petco",
+   "lat": 35.7592352,
+   "lon": -78.7368468,
+   "distKm": 9.2,
+   "address": "416 Crossroads Boulevard, Cary, NC 27518",
+   "tags": {
+    "phone": "+1 919-852-2259",
+    "website": "https://stores.petco.com/nc/cary/pet-supplies-cary-nc-1535.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2470653038",
+   "name": "PetSmart",
+   "lat": 35.7524558,
+   "lon": -78.7432771,
+   "distKm": 9.9,
+   "address": "2430 Walnut Street, Cary, NC 27518",
+   "tags": {
+    "phone": "+1 919-858-5442",
+    "website": "https://www.petsmart.com/stores/us/nc/cary-store0595.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7409158324",
+   "name": "Pet Supermarket",
+   "lat": 35.8698002,
+   "lon": -78.6228973,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/2867800424",
+   "name": "PostalAnnex",
+   "lat": 35.7468058,
+   "lon": -78.7439086,
+   "distKm": 10.2,
+   "address": "1105 Tryon Village Drive, Cary, NC 27518",
+   "tags": {
+    "phone": "+1-984-200-5797",
+    "website": "https://www.postalannex.com/location/cary/19016?utm_source=google&utm_medium=local&utm_campaign=localmaps&utm_content=19016"
+   }
+  },
+  {
+   "id": "node/6991058137",
+   "name": "The Fish Room",
+   "lat": 35.8695531,
+   "lon": -78.5827415,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/2303042672",
+   "name": "PetSmart",
+   "lat": 35.6906464,
+   "lon": -78.578657,
+   "distKm": 11.3,
+   "address": "265 Shenstone Boulevard, Garner, NC 27529",
+   "tags": {
+    "phone": "+1 919-773-0376",
+    "website": "https://www.petsmart.com/stores/us/nc/garner-store1170.html",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 07:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4299406370",
+   "name": "PetSmart",
+   "lat": 35.797841,
+   "lon": -78.51279,
+   "distKm": 11.5,
+   "address": "1014 Shoppes at Midway Drive, Knightdale, NC 27545",
+   "tags": {
+    "phone": "+1 919-373-1052",
+    "website": "https://www.petsmart.com/stores/us/nc/knightdale-store3279.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5519547427",
+   "name": "Phydeaux",
+   "lat": 35.7455324,
+   "lon": -78.7624453,
+   "distKm": 11.8,
+   "address": "6464 Tryon Road, Cary, NC 27518",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/8456160939",
+   "name": "Petco",
+   "lat": 35.7990714,
+   "lon": -78.5064202,
+   "distKm": 12.1,
+   "address": "1014 Shoppes At Midway Drive, Knightdale, NC 27545",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13570627522",
+   "name": "Unleashed, the Dog & Cat Store",
+   "lat": 35.8878806,
+   "lon": -78.6778513,
+   "distKm": 12.6,
+   "address": "7408 Creedmoor Road, Raleigh, NC 27613",
+   "tags": {
+    "phone": "+1-919-521-4963",
+    "website": "https://www.unleashedmutt.com/",
+    "brand": "Unleashed, the Dog & Cat Store"
+   }
+  },
+  {
+   "id": "node/4837099471",
+   "name": "Pet Supermarket",
+   "lat": 35.8049645,
+   "lon": -78.7805761,
+   "distKm": 13.1,
+   "address": "268 Grande Heights Drive, Cary, NC 27513",
+   "tags": {
+    "phone": "+1-919-481-1818",
+    "website": "https://www.petsupermarket.com",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/3013491382",
+   "name": "PetSmart",
+   "lat": 35.89979,
+   "lon": -78.653375,
+   "distKm": 13.4,
+   "address": "8825 Six Forks Road, Raleigh, NC 27615",
+   "tags": {
+    "phone": "+1 919-326-7979",
+    "website": "https://www.petsmart.com/stores/us/nc/raleigh-store2374.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13758926488",
+   "name": "Unleashed, the Dog & Cat Store",
+   "lat": 35.7356507,
+   "lon": -78.7812981,
+   "distKm": 13.8,
+   "address": "2066 Kildaire Farm Road, Cary, NC 27518-6614",
+   "tags": {
+    "phone": "+1-919-977-1329",
+    "website": "https://www.unleashedmutt.com",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10815295046",
+   "name": "Woof Gang Bakery & Grooming",
+   "lat": 35.6630611,
+   "lon": -78.7002059,
+   "distKm": 14.1,
+   "address": "8105 Fayetteville Road, Raleigh, NC 27603",
+   "tags": {
+    "website": "https://shop.woofgangbakery.com/shop_home/202552"
+   }
+  },
+  {
+   "id": "node/4584330492",
+   "name": "Dog Diggity Daycare",
+   "lat": 35.8820024,
+   "lon": -78.7423918,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9424020332",
+   "name": "Hollywood Feed",
+   "lat": 35.9059057,
+   "lon": -78.7276626,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2619235404",
+   "name": "PetSmart",
+   "lat": 35.8044412,
+   "lon": -78.8179409,
+   "distKm": 16.4,
+   "address": "3101 Market Center Drive, Morrisville, NC 27560",
+   "tags": {
+    "phone": "+1-919-462-3433",
+    "website": "https://www.petsmart.com/stores/us/nc/morrisville-store2229.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10238027849",
+   "name": "Pet Mania",
+   "lat": 35.665983,
+   "lon": -78.7965233,
+   "distKm": 19.1,
+   "address": "5289 Sunset Lake Road, Holly Springs, NC 27540",
+   "tags": {}
+  },
+  {
+   "id": "way/1077799311",
+   "name": "PetSmart",
+   "lat": 35.9091791,
+   "lon": -78.7815923,
+   "distKm": 19.4,
+   "address": "8111 Brier Creek Parkway",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9758617155",
+   "name": "Holywood Feed",
+   "lat": 35.8267408,
+   "lon": -78.8498814,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-919-234-6698",
+    "website": "https://holywoodfeed.com/",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 11:30-18:30"
+   }
+  }
+ ]
+}

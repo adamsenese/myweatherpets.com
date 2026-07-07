@@ -1,0 +1,145 @@
+{
+ "$schemaVersion": 1,
+ "city": "phoenix",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:21:30.421Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 12,
+ "places": [
+  {
+   "id": "way/590358921",
+   "name": "Dogtopia",
+   "lat": 33.4660171,
+   "lon": -112.0806302,
+   "distKm": 2.1,
+   "address": "520 West McDowell Road, Phoenix, AZ",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/213325130",
+   "name": "A Canine Academy International",
+   "lat": 33.4266835,
+   "lon": -112.0462879,
+   "distKm": 3.5,
+   "address": "1633 East Rairdan Lane, Phoenix, AZ 85034",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/893231807",
+   "name": "Companion Pets Inc.",
+   "lat": 33.4703028,
+   "lon": -112.1109948,
+   "distKm": 4.2,
+   "address": "2021 North Black Canyon Highway, Phoenix, AZ 85009",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/742342656",
+   "name": "All Phase K9 Tactical",
+   "lat": 33.4125219,
+   "lon": -111.9971538,
+   "distKm": 8.2,
+   "address": "3901 East Anne Street, Phoenix, AZ 85040",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13207739748",
+   "name": "Dogtopia",
+   "lat": 33.5272646,
+   "lon": -112.0654238,
+   "distKm": 8.8,
+   "address": "6148 North 7th Street, Phoenix, AZ 85014",
+   "tags": {
+    "phone": "+1-602-607-2777",
+    "website": "https://www.dogtopia.com/uptown-phoenix/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/926897546",
+   "name": "Scottsdale Pet Hotel",
+   "lat": 33.4577083,
+   "lon": -111.9267583,
+   "distKm": 13.7,
+   "address": "2700 North Scottsdale Road, Tempe, AZ 85281",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11919061567",
+   "name": "Tempe Dogs 24/7",
+   "lat": 33.4063272,
+   "lon": -111.9244472,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1284296384",
+   "name": "Dogtopia",
+   "lat": 33.4065478,
+   "lon": -111.9112485,
+   "distKm": 15.8,
+   "address": "1721 East Broadway Road, Tempe, AZ 85282",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9917143550",
+   "name": "Applewood Pet Resort",
+   "lat": 33.5306561,
+   "lon": -111.9316848,
+   "distKm": 16.1,
+   "address": "6909 East Lincoln Drive, Paradise Valley, AZ 85253",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "relation/15074500",
+   "name": "Wiggles & Wags Pet Resort",
+   "lat": 33.3773671,
+   "lon": -111.9069671,
+   "distKm": 17.4,
+   "address": "1811 East Baseline Road, Tempe, AZ 85283",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/948679970",
+   "name": "Camp Bow Wow",
+   "lat": 33.3779528,
+   "lon": -111.8916259,
+   "distKm": 18.7,
+   "address": "2647 West Baseline Road, Mesa, AZ 85202",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/64888589",
+   "name": "Doggie District Pet Resort & Training Center",
+   "lat": 33.6028987,
+   "lon": -111.9877616,
+   "distKm": 18.9,
+   "address": "Phoenix, AZ",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

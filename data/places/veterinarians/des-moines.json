@@ -1,0 +1,284 @@
+{
+ "$schemaVersion": 1,
+ "city": "des-moines",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:34:36.892Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "way/718883524",
+   "name": "Starch Pet Hospital",
+   "lat": 41.6001843,
+   "lon": -93.647592,
+   "distKm": 2.4,
+   "address": "2222 University Avenue",
+   "tags": {
+    "phone": "+1 515 283 1576",
+    "website": "https://www.starchpethospital.com/"
+   }
+  },
+  {
+   "id": "way/152424294",
+   "name": "Ingersoll Animal Hospital",
+   "lat": 41.5863358,
+   "lon": -93.6582453,
+   "distKm": 2.8,
+   "address": "3009 Ingersoll Avenue, Des Moines, 50312",
+   "tags": {
+    "phone": "+15152743555",
+    "website": "https://ingersollanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-12:00"
+   }
+  },
+  {
+   "id": "way/110035079",
+   "name": "Afford-a-Care Pet Hospital",
+   "lat": 41.5575705,
+   "lon": -93.5962885,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1613816214",
+   "name": "Heartland Animal Hospital",
+   "lat": 41.6006151,
+   "lon": -93.6734899,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-515-255-4464",
+    "website": "https://heartlandanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/122602883",
+   "name": "Riordan Pet Hospital",
+   "lat": 41.6292348,
+   "lon": -93.6789877,
+   "distKm": 6.5,
+   "address": "4418 Douglas Avenue, 50310",
+   "tags": {}
+  },
+  {
+   "id": "way/144054897",
+   "name": "Iowa Veterinary Acupuncture Clinic",
+   "lat": 41.6307756,
+   "lon": -93.6785122,
+   "distKm": 6.6,
+   "address": "3836 Beaver Avenue, 50310",
+   "tags": {}
+  },
+  {
+   "id": "way/108533948",
+   "name": "Hickman Road Veterinary Clinic",
+   "lat": 41.6151454,
+   "lon": -93.7038996,
+   "distKm": 7.3,
+   "address": "6301 Hickman Road, 50322",
+   "tags": {}
+  },
+  {
+   "id": "way/325932592",
+   "name": "Family Pet Veterinary Center",
+   "lat": 41.5812138,
+   "lon": -93.7204652,
+   "distKm": 8,
+   "address": "1215 Prospect Avenue, West Des Moines, 50265",
+   "tags": {}
+  },
+  {
+   "id": "way/97518952",
+   "name": "Animal Medical Clinic",
+   "lat": 41.6429818,
+   "lon": -93.6984342,
+   "distKm": 8.7,
+   "address": "4520 Merle Hay Road, Urbandale, IA 50322",
+   "tags": {}
+  },
+  {
+   "id": "way/75194538",
+   "name": "Iowa Veterinary Referral Center",
+   "lat": 41.6452628,
+   "lon": -93.6969041,
+   "distKm": 8.8,
+   "address": "4631 Merle Hay Road, 50310",
+   "tags": {}
+  },
+  {
+   "id": "way/114363660",
+   "name": "University West Pet Clinic",
+   "lat": 41.6039343,
+   "lon": -93.7304403,
+   "distKm": 9,
+   "address": "8145 University Boulevard, 50325",
+   "tags": {}
+  },
+  {
+   "id": "way/167553570",
+   "name": "Northwest Veterinary Hospital",
+   "lat": 41.6285964,
+   "lon": -93.7220334,
+   "distKm": 9.3,
+   "address": "7507 Dennis Drive, 50322",
+   "tags": {}
+  },
+  {
+   "id": "way/235147344",
+   "name": "Village Veterinary Hospital",
+   "lat": 41.6567498,
+   "lon": -93.6970225,
+   "distKm": 9.8,
+   "address": "5305 Merle Hay Road, Johnston, 50131",
+   "tags": {}
+  },
+  {
+   "id": "node/3037635116",
+   "name": "Animal Care Center",
+   "lat": 41.5999557,
+   "lon": -93.7445214,
+   "distKm": 10,
+   "address": "2900 University Avenue, West Des Moines, 50266",
+   "tags": {}
+  },
+  {
+   "id": "node/1468550065",
+   "name": "West Side Veterinary Clinic",
+   "lat": 41.6228264,
+   "lon": -93.7359218,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/320299383",
+   "name": "Jordan Creek Animal Hospital",
+   "lat": 41.5705792,
+   "lon": -93.7507193,
+   "distKm": 10.6,
+   "address": "3401 E P True Parkway, West Des Moines, 50265",
+   "tags": {}
+  },
+  {
+   "id": "way/85314409",
+   "name": "Altoona Veterinary Clinic",
+   "lat": 41.6435855,
+   "lon": -93.5004146,
+   "distKm": 12.1,
+   "address": "3070 8th Street Southwest, Altoona, IA 50009",
+   "tags": {}
+  },
+  {
+   "id": "way/256110337",
+   "name": "Urban Pet Hospital & Resort",
+   "lat": 41.6281118,
+   "lon": -93.7601967,
+   "distKm": 12.1,
+   "address": "3601 104th Street, 50322",
+   "tags": {}
+  },
+  {
+   "id": "way/816054725",
+   "name": "Value Vet",
+   "lat": 41.6552654,
+   "lon": -93.7398565,
+   "distKm": 12.2,
+   "address": "8851 Northpark Drive, Johnston, IA 50131",
+   "tags": {}
+  },
+  {
+   "id": "node/3269852741",
+   "name": "Animal Doctors Veterinary Clinic",
+   "lat": 41.5578979,
+   "lon": -93.7691546,
+   "distKm": 12.4,
+   "address": "4800 Mills Civic Parkway, West Des Moines, 50265",
+   "tags": {}
+  },
+  {
+   "id": "node/13389055659",
+   "name": "UrgentVet",
+   "lat": 41.5611863,
+   "lon": -93.7718948,
+   "distKm": 12.5,
+   "address": "5045 Bentley Drive, West Des Moines, IA 50265",
+   "tags": {
+    "phone": "+1-515-215-9696",
+    "website": "https://urgentvet.com/location/west-des-moines-ia/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 12:00-20:00"
+   }
+  },
+  {
+   "id": "way/266067185",
+   "name": "Westfield Veterinary Hospital",
+   "lat": 41.6588223,
+   "lon": -93.7396928,
+   "distKm": 12.5,
+   "address": "8789 Northwest 54th Avenue, Johnston, IA 50131",
+   "tags": {}
+  },
+  {
+   "id": "way/279483252",
+   "name": "Ashworth Road Animal Hospital",
+   "lat": 41.5840759,
+   "lon": -93.783968,
+   "distKm": 13.2,
+   "address": "5508 Ashworth Road, 50266",
+   "tags": {}
+  },
+  {
+   "id": "node/2540844146",
+   "name": "Ashworth Road Animal Hospital",
+   "lat": 41.5840072,
+   "lon": -93.7883721,
+   "distKm": 13.6,
+   "address": "5902 Ashworth Road, 50266",
+   "tags": {
+    "phone": "+1-515-337-2643",
+    "website": "https://www.ashworthpet.com/"
+   }
+  },
+  {
+   "id": "way/37552777",
+   "name": "Ankeny Animal and Avian Clinic",
+   "lat": 41.7227293,
+   "lon": -93.6009749,
+   "distKm": 15.2,
+   "address": "742 South Ankeny Boulevard, Ankeny, IA 50023",
+   "tags": {
+    "website": "https://www.ankenyanimalandavian.com/"
+   }
+  },
+  {
+   "id": "node/456401168",
+   "name": "Ankeny Animal Health Clinic",
+   "lat": 41.7321543,
+   "lon": -93.6298654,
+   "distKm": 16.2,
+   "address": "2202 East 1st Street, Ankeny, 50023",
+   "tags": {
+    "phone": "+1-515-965-0452"
+   }
+  },
+  {
+   "id": "way/132760397",
+   "name": "Waukee-Clive Veterinary Clinic",
+   "lat": 41.6153392,
+   "lon": -93.827611,
+   "distKm": 17.1,
+   "address": "15151 Hickman Road, 50325",
+   "tags": {}
+  },
+  {
+   "id": "way/38224267",
+   "name": "Ankeny Veterinary Clinic",
+   "lat": 41.7460448,
+   "lon": -93.6032487,
+   "distKm": 17.8,
+   "address": "301 Northwest 18th Street, Ankeny, 50023",
+   "tags": {}
+  }
+ ]
+}

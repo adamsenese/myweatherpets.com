@@ -1,0 +1,201 @@
+{
+ "$schemaVersion": 1,
+ "city": "albuquerque",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:28:37.522Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "node/6611217651",
+   "name": "Clark's Pet Emporium",
+   "lat": 35.0868499,
+   "lon": -106.5895455,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1890880978",
+   "name": "PetSmart",
+   "lat": 35.1349447,
+   "lon": -106.610405,
+   "distKm": 6.7,
+   "address": "1424 Mercantile Avenue Northeast, Albuquerque, NM 87107",
+   "tags": {
+    "phone": "+1 505-341-2431",
+    "website": "https://www.petsmart.com/stores/us/nm/albuquerque-store1489.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1040912349",
+   "name": "PetSmart",
+   "lat": 35.1469327,
+   "lon": -106.6862781,
+   "distKm": 7.7,
+   "address": "5600 Coors Boulevard Northwest, Albuquerque, NM 87120",
+   "tags": {
+    "phone": "+1 505-348-3997",
+    "website": "https://www.petsmart.com/stores/us/nm/albuquerque-store2705.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5280632632",
+   "name": "PetSmart",
+   "lat": 35.0983551,
+   "lon": -106.565929,
+   "distKm": 7.8,
+   "address": "2100 Louisiana Boulevard Northeast, Albuquerque, NM 87110",
+   "tags": {
+    "phone": "+1 505-313-8089",
+    "website": "https://www.petsmart.com/stores/us/nm/albuquerque-store2746.html",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12140374363",
+   "name": "Pet Sense",
+   "lat": 35.1298091,
+   "lon": -106.5675451,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2576602292",
+   "name": "Wild Birds Unlimited",
+   "lat": 35.1303663,
+   "lon": -106.564125,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/10945580293",
+   "name": "Boofy's",
+   "lat": 35.1776076,
+   "lon": -106.689053,
+   "distKm": 10.9,
+   "address": "8201 Golf Course Road Northwest, Albuquerque, NM 87120",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/12885327148",
+   "name": "PetSmart",
+   "lat": 35.0780866,
+   "lon": -106.5301118,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/255993894",
+   "name": "Petco",
+   "lat": 35.0865899,
+   "lon": -106.5290438,
+   "distKm": 11,
+   "address": "10700 Lomas Boulevard Northeast, Albuquerque, NM 87112",
+   "tags": {
+    "phone": "+1 505-296-0978",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/588814934",
+   "name": "Clark's Pet Emporium",
+   "lat": 35.1083717,
+   "lon": -106.516684,
+   "distKm": 12.5,
+   "address": "11200 Menaul Boulevard Northeast, Albuquerque, NM 87112",
+   "tags": {
+    "opening_hours": "09:00-19:00"
+   }
+  },
+  {
+   "id": "node/8489814177",
+   "name": "PetSmart",
+   "lat": 35.2028271,
+   "lon": -106.6587484,
+   "distKm": 13.2,
+   "address": "10248 Coors Boulevard Bypass Northwest, Albuquerque, NM 87114",
+   "tags": {
+    "phone": "+1 505-792-1772",
+    "website": "https://www.petsmart.com/stores/us/nm/albuquerque-store0173.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10270744761",
+   "name": "Petco",
+   "lat": 35.2038252,
+   "lon": -106.6532557,
+   "distKm": 13.3,
+   "address": "3601 Old Airport Road Northwest, Albuquerque, NM 87114-9259",
+   "tags": {
+    "phone": "+1 505-898-2450",
+    "website": "https://stores.petco.com/nm/albuquerque/pet-supplies-albuquerque-nm-1469.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10647739595",
+   "name": "Wild Birds Unlimited",
+   "lat": 35.2052004,
+   "lon": -106.6474703,
+   "distKm": 13.4,
+   "address": "10701 Corrales Road Northwest",
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/13563110267",
+   "name": "Petland",
+   "lat": 35.1751236,
+   "lon": -106.5451575,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/12950670056",
+   "name": "Wild Bird Seed Trading Company",
+   "lat": 35.1312356,
+   "lon": -106.4963915,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We,Fr 10:00-17:30; Tu,Th,Sa 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/1847559069",
+   "name": "The Academy of Canine Excellence",
+   "lat": 35.1635559,
+   "lon": -106.495388,
+   "distKm": 16.6,
+   "address": "12700 San Rafael Avenue Northeast, Albuquerque, NM 87122",
+   "tags": {}
+  }
+ ]
+}

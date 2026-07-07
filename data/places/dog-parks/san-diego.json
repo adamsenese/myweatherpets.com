@@ -1,0 +1,332 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-diego",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:22:04.890Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 33,
+ "places": [
+  {
+   "id": "way/1271824377",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7100753,
+   "lon": -117.1640374,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1093688764",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7230296,
+   "lon": -117.1559836,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1118686292",
+   "name": "Little Italy Dog Park",
+   "lat": 32.7232002,
+   "lon": -117.1652833,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1487828755",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7239937,
+   "lon": -117.1718673,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/44696160",
+   "name": "Nate's Point Dog Park",
+   "lat": 32.7305872,
+   "lon": -117.1565634,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/243003792",
+   "name": "Grape Street Dog Park",
+   "lat": 32.7262079,
+   "lon": -117.1347974,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/242999447",
+   "name": "Morley Field Dog Park",
+   "lat": 32.7388555,
+   "lon": -117.1424236,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/146415798",
+   "name": "Coronado Dog Beach",
+   "lat": 32.6864508,
+   "lon": -117.1951672,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/1110430670",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7533568,
+   "lon": -117.1341374,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1195284871",
+   "name": "The Society Dog Park",
+   "lat": 32.7631053,
+   "lon": -117.1672964,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/989275767",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7348407,
+   "lon": -117.0930418,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12557859300",
+   "name": "Gompers Dog Park",
+   "lat": 32.7167956,
+   "lon": -117.088432,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/394999276",
+   "name": "Ward Canyon Dog Park",
+   "lat": 32.7614278,
+   "lon": -117.1098801,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/788863499",
+   "name": "Fiddler's Cove Dog Run",
+   "lat": 32.6529837,
+   "lon": -117.1507702,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/819982283",
+   "name": "Civita Dog Park",
+   "lat": 32.7831238,
+   "lon": -117.147734,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1173836641",
+   "name": "Dusty Rhodes Dog Park",
+   "lat": 32.7529901,
+   "lon": -117.2381235,
+   "distKm": 8.3,
+   "address": "2469 Sunset Cliffs Boulevard, San Diego, CA 92107",
+   "tags": {}
+  },
+  {
+   "id": "way/641140340",
+   "name": "Escala Dog Park",
+   "lat": 32.7869385,
+   "lon": -117.1325305,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12050624472",
+   "name": "Las Palmas Dog Park",
+   "lat": 32.6693266,
+   "lon": -117.0825974,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/589614654",
+   "name": "Kearny Mesa Dog Park",
+   "lat": 32.8001216,
+   "lon": -117.1680499,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/469219899",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7303573,
+   "lon": -117.0442636,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/12923074",
+   "name": "Capehart Park",
+   "lat": 32.8070593,
+   "lon": -117.2253826,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/827191713",
+   "name": "Centrum Dog Park",
+   "lat": 32.8274387,
+   "lon": -117.1390562,
+   "distKm": 12.6,
+   "address": "Ariva Way, San Diego, CA 92123",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1223270066",
+   "name": "Rohr Dog Park",
+   "lat": 32.6640849,
+   "lon": -117.0383628,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/549180647",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.6085968,
+   "lon": -117.0784841,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/652057730",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7406363,
+   "lon": -117.0081061,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/761349825",
+   "name": "Imperial Beach Dog Park",
+   "lat": 32.5789146,
+   "lon": -117.1151792,
+   "distKm": 15.8,
+   "address": "1075 8th Street, Imperial Beach, CA 91932",
+   "tags": {
+    "surface": "woodchips",
+    "barrier": "fence",
+    "lit": "no",
+    "website": "https://ca-imperialbeach.civicplus.com/Facilities/Facility/Details/Dog-Park-1",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/120713680",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8672998,
+   "lon": -117.1981615,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/113102733",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8639599,
+   "lon": -117.2171701,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/50536124",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8630936,
+   "lon": -117.2292642,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1289707356",
+   "name": "UTC Mall Dog Park",
+   "lat": 32.8701901,
+   "lon": -117.2107002,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/96660324",
+   "name": "Canine Corners Dog Park",
+   "lat": 32.7872866,
+   "lon": -116.9864505,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12485277246",
+   "name": "AleSmith Brewing Company",
+   "lat": 32.8882751,
+   "lon": -117.1498948,
+   "distKm": 19.2,
+   "address": "9990 AleSmith Court, San Diego, CA 92126",
+   "tags": {}
+  },
+  {
+   "id": "way/92574879",
+   "name": "Deputy Lonnie G Brewer County Park",
+   "lat": 32.7503576,
+   "lon": -116.9579305,
+   "distKm": 19.4,
+   "address": "10925 Fury Lane, San Diego, 91941",
+   "tags": {
+    "dog": "unleashed"
+   }
+  }
+ ]
+}

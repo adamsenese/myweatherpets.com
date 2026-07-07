@@ -1,0 +1,179 @@
+{
+ "$schemaVersion": 1,
+ "city": "berlin",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:37:17.720Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 14,
+ "places": [
+  {
+   "id": "node/13028624646",
+   "name": "belloberlini",
+   "lat": 52.504975,
+   "lon": 13.3680448,
+   "distKm": 3,
+   "address": "55 Potsdamer Straße",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6762121100",
+   "name": "7Hunde.de Hundetrainer & Dogwalker",
+   "lat": 52.4912605,
+   "lon": 13.392313,
+   "distKm": 3.3,
+   "address": "18 Solmsstraße, Berlin, 10961",
+   "tags": {
+    "phone": "+49 1577 1916151",
+    "website": "https://www.siebenhunde.de/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5431786041",
+   "name": "www.berlin-katzenpension.de",
+   "lat": 52.5222372,
+   "lon": 13.3357692,
+   "distKm": 4.7,
+   "address": "15 Elberfelder Straße",
+   "tags": {
+    "opening_hours": "Mo-Su,PH 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10180980036",
+   "name": "Amicanis",
+   "lat": 52.4875608,
+   "lon": 13.3253372,
+   "distKm": 6.5,
+   "address": "3 Gasteiner Straße, Berlin, 10717",
+   "tags": {
+    "website": "https://amicanis.de/",
+    "opening_hours": "Mo-Fr 07:00-10:00,16:00-19:00; Sa,Su 09:00-10:00,17:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6458744592",
+   "name": "Jack Perro - Die Hundekita",
+   "lat": 52.4642665,
+   "lon": 13.3161873,
+   "distKm": 8.6,
+   "address": "70 Schildhornstraße, Berlin, 12163",
+   "tags": {
+    "website": "https://die-hundekita.de/",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/165306051",
+   "name": "Katzenhotel \"kleiner Tiger\"",
+   "lat": 52.4397545,
+   "lon": 13.4618785,
+   "distKm": 9.7,
+   "address": "39 Tränkeweg, Berlin, 12351",
+   "tags": {
+    "phone": "+49 157 88195673",
+    "website": "https://katzenhotel-kleiner-tiger.de/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/205651975",
+   "name": "Pferdehof Gericke",
+   "lat": 52.6139486,
+   "lon": 13.360903,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {
+    "website": "http://www.pferdehof-gericke.de",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/991299882",
+   "name": "Reiterhof & Landwirtschaftsbetrieb André Neuendorf",
+   "lat": 52.6195488,
+   "lon": 13.3941206,
+   "distKm": 11.1,
+   "address": "39 Hauptstraße, Berlin, 13159",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/207975439",
+   "name": "Reiterhof Heer",
+   "lat": 52.6205346,
+   "lon": 13.4003764,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10826818909",
+   "name": "Fee´s Katzen-Pension",
+   "lat": 52.4116161,
+   "lon": 13.4945728,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11758307775",
+   "name": "Hundeschule Heimwölfe",
+   "lat": 52.5265861,
+   "lon": 13.611439,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/208513462",
+   "name": "Tierhotel Mama Mo",
+   "lat": 52.3835197,
+   "lon": 13.3474186,
+   "distKm": 15.7,
+   "address": "1 Friederikenhof, Großbeeren, 14979",
+   "tags": {
+    "phone": "+4933701 90022 0",
+    "website": "https://tierhotelmamamo.de/",
+    "opening_hours": "Mo-Su 09:00-11:00,16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11773847684",
+   "name": "Hundepension Bork",
+   "lat": 52.5787813,
+   "lon": 13.6561728,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "phone": "+49 177 2699654",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9661270118",
+   "name": "Pferdepension Müller",
+   "lat": 52.489647,
+   "lon": 13.6715061,
+   "distKm": 18.4,
+   "address": "30 Münchehofer Straße, Hoppegarten, 15366",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

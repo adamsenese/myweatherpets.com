@@ -1,0 +1,104 @@
+{
+ "$schemaVersion": 1,
+ "city": "jacksonville",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:22:45.556Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 10,
+ "places": [
+  {
+   "id": "way/540014708",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.3340526,
+   "lon": -81.6532646,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1190067552",
+   "name": "Kanine Social",
+   "lat": 30.321038,
+   "lon": -81.6804373,
+   "distKm": 2.7,
+   "address": "580 College Street, Jacksonville, FL 32204",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.kaninesocial.com"
+   }
+  },
+  {
+   "id": "way/493931786",
+   "name": "John Gorrie Dog Park",
+   "lat": 30.3180472,
+   "lon": -81.6810915,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/545061581",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.2374568,
+   "lon": -81.6994581,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1105652446",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.4434224,
+   "lon": -81.5765648,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1093034728",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.4535912,
+   "lon": -81.7133084,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10010402470",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.4564173,
+   "lon": -81.7079063,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1413451235",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.4634649,
+   "lon": -81.6739762,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1093034505",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.4566158,
+   "lon": -81.7113274,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/543992954",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 30.1663096,
+   "lon": -81.6073861,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

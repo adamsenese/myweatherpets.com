@@ -1,0 +1,578 @@
+{
+ "$schemaVersion": 1,
+ "city": "nashville",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:26:46.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/731712654",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1615371,
+   "lon": -86.7882384,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1507813013",
+   "name": "Bark Park",
+   "lat": 36.1585579,
+   "lon": -86.7858182,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/591997451",
+   "name": "Riverfront Dog Park",
+   "lat": 36.1610415,
+   "lon": -86.7727877,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/855576231",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1646253,
+   "lon": -86.7896212,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12272256774",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1527584,
+   "lon": -86.7864677,
+   "distKm": 1.2,
+   "address": "1216 Pine Street, Nashville, TN 37203",
+   "tags": {}
+  },
+  {
+   "id": "node/10861363252",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1399066,
+   "lon": -86.7734918,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/673225494",
+   "name": "BarkPark",
+   "lat": 36.1840495,
+   "lon": -86.7688391,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "website": "https://park.bark.co/"
+   }
+  },
+  {
+   "id": "way/730886701",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1498161,
+   "lon": -86.8066606,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11403901583",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1383189,
+   "lon": -86.7718747,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/822678996",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1485587,
+   "lon": -86.8176613,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/684419857",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1356866,
+   "lon": -86.757875,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/490448836",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1481464,
+   "lon": -86.8193736,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/676843820",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1262578,
+   "lon": -86.7655302,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/256890098",
+   "name": "Shelby Dog Park",
+   "lat": 36.1707631,
+   "lon": -86.7336894,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1324197931",
+   "name": "Urban Dog Bar",
+   "lat": 36.1664803,
+   "lon": -86.8570812,
+   "distKm": 6.8,
+   "address": "5700 Ohio Avenue, Nashville, TN 37209",
+   "tags": {
+    "website": "https://urbandogbar.com/"
+   }
+  },
+  {
+   "id": "node/4710790296",
+   "name": "Gazebo dog park",
+   "lat": 36.1046166,
+   "lon": -86.7235997,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10853794040",
+   "name": "Two Rivers Dog Park",
+   "lat": 36.1913095,
+   "lon": -86.6770791,
+   "distKm": 9.9,
+   "address": "3150 McGavock Pike, Nashville, TN 37214",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.nashville.gov/Parks-and-Recreation/Parks/Dog-Parks.aspx"
+   }
+  },
+  {
+   "id": "way/1132685091",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0843245,
+   "lon": -86.7138981,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/743224469",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0795203,
+   "lon": -86.7045035,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/751421133",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0805342,
+   "lon": -86.7013599,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/783078983",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0679597,
+   "lon": -86.7273914,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/845325208",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0574719,
+   "lon": -86.7459025,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/853557093",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0598571,
+   "lon": -86.7381075,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/846071113",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0535998,
+   "lon": -86.7469685,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/775548161",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1185116,
+   "lon": -86.9124784,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/784656433",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0530124,
+   "lon": -86.7412339,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/797625109",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0471086,
+   "lon": -86.7381353,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/664374369",
+   "name": "Pitts Dog Park",
+   "lat": 36.0582092,
+   "lon": -86.7056352,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1050910351",
+   "name": "Stewarts Ferry Dog Park",
+   "lat": 36.1614772,
+   "lon": -86.6305168,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/844453085",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0441467,
+   "lon": -86.7417062,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/845117335",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0646195,
+   "lon": -86.6893288,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1302630740",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0488259,
+   "lon": -86.7240449,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/750927372",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0465335,
+   "lon": -86.718437,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/789135345",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.098661,
+   "lon": -86.9200771,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/866377299",
+   "name": "Landmark Bark Park",
+   "lat": 36.0429882,
+   "lon": -86.7245686,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1262721643",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1417997,
+   "lon": -86.6242541,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wire",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/587034198",
+   "name": "Percy Priest Dam Dog Park",
+   "lat": 36.1591594,
+   "lon": -86.6216547,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.nashville.gov/Parks-and-Recreation/Parks/Dog-Parks.aspx"
+   }
+  },
+  {
+   "id": "way/753475427",
+   "name": "The Knolls Dog Park",
+   "lat": 36.0438998,
+   "lon": -86.7163462,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1125088638",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0766061,
+   "lon": -86.6597005,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/789215892",
+   "name": "Bark Park",
+   "lat": 36.1017307,
+   "lon": -86.9268578,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1257906360",
+   "name": "Heron Pointe Dog Park",
+   "lat": 36.1162501,
+   "lon": -86.6263258,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/486815962",
+   "name": "Brighton Valley Dog Park",
+   "lat": 36.0854224,
+   "lon": -86.6443739,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/778998603",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0952294,
+   "lon": -86.9289301,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1000432168",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.048016,
+   "lon": -86.685916,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/749659789",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.023216,
+   "lon": -86.7512225,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/850690029",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0448361,
+   "lon": -86.6847728,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/792537168",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0649349,
+   "lon": -86.9114528,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1324583841",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0442792,
+   "lon": -86.6823778,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1324583866",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0428105,
+   "lon": -86.6804486,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/792054591",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0765547,
+   "lon": -86.9268381,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/797613903",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.048859,
+   "lon": -86.6685458,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/747405807",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0522202,
+   "lon": -86.9010672,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/744877259",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0472488,
+   "lon": -86.6678056,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/792051299",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0748479,
+   "lon": -86.9287673,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1046771237",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0508276,
+   "lon": -86.6609068,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1046735065",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0615421,
+   "lon": -86.6435039,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/769104399",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0425994,
+   "lon": -86.6669294,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1001104593",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0411116,
+   "lon": -86.6693679,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1098160692",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.072672,
+   "lon": -86.630561,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1049818814",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0574022,
+   "lon": -86.6437185,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

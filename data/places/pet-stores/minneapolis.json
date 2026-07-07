@@ -1,0 +1,643 @@
+{
+ "$schemaVersion": 1,
+ "city": "minneapolis",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:30:43.009Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 54,
+ "places": [
+  {
+   "id": "node/7627415958",
+   "name": "Chuck & Don's Pet Food & Supplies",
+   "lat": 44.9877014,
+   "lon": -93.2543655,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5287908887",
+   "name": "Urban Tails Pet Supply",
+   "lat": 44.9616278,
+   "lon": -93.2882526,
+   "distKm": 2.6,
+   "address": "2106 Lyndale Avenue South, Minneapolis, MN 55405",
+   "tags": {
+    "phone": "+1-612-879-0709",
+    "website": "https://www.urbantailspetsupply.com"
+   }
+  },
+  {
+   "id": "node/13682059276",
+   "name": "North Minneapolis Pet Resource Center",
+   "lat": 45.0093215,
+   "lon": -93.2806588,
+   "distKm": 3.7,
+   "address": "2825 North 2nd Street, Minneapolis, MN 55411",
+   "tags": {}
+  },
+  {
+   "id": "node/575329296",
+   "name": "PetSmart",
+   "lat": 45.0048737,
+   "lon": -93.2304452,
+   "distKm": 4.1,
+   "address": "1640 New Brighton Boulevard, Minneapolis, MN 55413",
+   "tags": {
+    "phone": "+1 612-788-7045",
+    "website": "https://www.petsmart.com/stores/us/mn/minneapolis-store0460.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2367939453",
+   "name": "Chuck & Don's",
+   "lat": 44.9489682,
+   "lon": -93.3216013,
+   "distKm": 5.5,
+   "address": "3246 Lake Street West, Minneapolis, MN 55416",
+   "tags": {
+    "phone": "+1-612-926-8161",
+    "website": "https://chuckanddons.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/141021845",
+   "name": "Regal Pet Grooming",
+   "lat": 44.9342633,
+   "lon": -93.2331628,
+   "distKm": 5.5,
+   "address": "2700 East 38th Street, 55406",
+   "tags": {}
+  },
+  {
+   "id": "node/6456665438",
+   "name": "Twin Cities Reptiles",
+   "lat": 44.9637876,
+   "lon": -93.1965779,
+   "distKm": 5.6,
+   "address": "2363 University Avenue West, Saint Paul, MN 55114",
+   "tags": {
+    "phone": "+1-651-647-4479",
+    "website": "https://www.twincitiesreptiles.net",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/7152738747",
+   "name": "Purrniture Cat Furniture",
+   "lat": 44.9617528,
+   "lon": -93.1928615,
+   "distKm": 5.9,
+   "address": "2242 University Avenue West, Saint Paul, MN 55114",
+   "tags": {
+    "phone": "+1-651-642-1946",
+    "website": "https://www.purrniture.com/",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/754441320",
+   "name": "PetSmart",
+   "lat": 44.963929,
+   "lon": -93.3507194,
+   "distKm": 6.9,
+   "address": "5640 Cedar Lake Road, Saint Louis Park, MN 55416",
+   "tags": {
+    "phone": "+1 952-797-9798",
+    "website": "https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12167148816",
+   "name": "Copilot Dog Outfitters",
+   "lat": 44.9248481,
+   "lon": -93.3147964,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "website": "https://copilotdogoutfitters.com/",
+    "opening_hours": "Tu-Fr 10:00-18:00; Sa 10:00-17:00; Su 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/4807729869",
+   "name": "Pet Supplies Plus",
+   "lat": 44.9172546,
+   "lon": -93.2152819,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/6550533157",
+   "name": "PetSmart",
+   "lat": 45.0163686,
+   "lon": -93.175903,
+   "distKm": 8.2,
+   "address": "2480 Fairview Avenue North, Roseville, MN 55113",
+   "tags": {
+    "phone": "+1 651-639-3912",
+    "website": "https://www.petsmart.com/stores/us/mn/roseville-store1971.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12739066706",
+   "name": "Petco",
+   "lat": 45.0184253,
+   "lon": -93.1785502,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12223879868",
+   "name": "Woodys Pet Food Deli",
+   "lat": 44.9125387,
+   "lon": -93.3181254,
+   "distKm": 8.4,
+   "address": "3008 West 50th Street, Minneapolis, MN 55410",
+   "tags": {
+    "website": "https://www.woodyspetdeli.com/",
+    "opening_hours": "Tu-Fr 12:00-18:00; Sa 11:00-18:00; Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "way/612817351",
+   "name": "Underdog Rescue MN",
+   "lat": 44.9430701,
+   "lon": -93.3600704,
+   "distKm": 8.4,
+   "address": "3345 Dakota Avenue South, Saint Louis Park, MN 55416",
+   "tags": {
+    "phone": "+19529290777",
+    "website": "https://www.underdogrescuemn.com/"
+   }
+  },
+  {
+   "id": "way/54183647",
+   "name": "Petco",
+   "lat": 44.9188907,
+   "lon": -93.1966113,
+   "distKm": 8.5,
+   "address": "2277 Ford Parkway, Saint Paul, MN 55116",
+   "tags": {
+    "phone": "+1 651-696-1906",
+    "website": "https://stores.petco.com/mn/st-paul/pet-supplies-st-paul-mn-626.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9604654639",
+   "name": "Petropawlis",
+   "lat": 44.9413759,
+   "lon": -93.3612603,
+   "distKm": 8.6,
+   "address": "6500 Lake Street West, Saint Louis Park, MN 55426",
+   "tags": {}
+  },
+  {
+   "id": "way/914286357",
+   "name": "Premier Aquarium Service",
+   "lat": 44.9288148,
+   "lon": -93.3534168,
+   "distKm": 8.8,
+   "address": "5801 Excelsior Boulevard, Saint Louis Park, MN 55416",
+   "tags": {
+    "phone": "+16122431335",
+    "website": "https://www.premieraquarium.com/"
+   }
+  },
+  {
+   "id": "node/12138867423",
+   "name": "Chuck & Don's",
+   "lat": 44.9112224,
+   "lon": -93.3289002,
+   "distKm": 8.9,
+   "address": "5045 France Avenue South, Minneapolis, MN 55410",
+   "tags": {
+    "website": "https://chuckanddons.com/a/pages/locations/590/50th-france",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/660909442",
+   "name": "Chuck & Don's Pet Food Outlet",
+   "lat": 44.9168962,
+   "lon": -93.1894863,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6566813845",
+   "name": "Chuck & Don's",
+   "lat": 45.024271,
+   "lon": -93.1700244,
+   "distKm": 9.1,
+   "address": "1661 West County Road C",
+   "tags": {
+    "phone": "+1 651-287-0986",
+    "website": "https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/435068841",
+   "name": "Pampered Pooch Playground",
+   "lat": 44.9392296,
+   "lon": -93.3668371,
+   "distKm": 9.1,
+   "address": "7020 Walker Street, Saint Louis Park, MN 55426",
+   "tags": {
+    "phone": "+19529228183",
+    "website": "https://www.pamperedpoochplayground.com/?utm_source=gmb&utm_medium=Yext&y_source=1_MjU3NDY4OTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+   }
+  },
+  {
+   "id": "node/8165857415",
+   "name": "Pet Supplies Plus",
+   "lat": 44.992605,
+   "lon": -93.1489174,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/386364350",
+   "name": "Rivershore Aquariums",
+   "lat": 44.8939012,
+   "lon": -93.2878776,
+   "distKm": 9.5,
+   "address": "6015 Lyndale Avenue South, Minneapolis, 55419",
+   "tags": {
+    "phone": "+1-612-315-3946",
+    "opening_hours": "We-Mo 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/1411811139",
+   "name": "Woody's Pet Food Deli",
+   "lat": 44.9218979,
+   "lon": -93.1672877,
+   "distKm": 9.9,
+   "address": "647 Snelling Avenue South, Saint Paul, MN 55116",
+   "tags": {
+    "phone": "+1-651-493-7269",
+    "website": "https://www.woodyspetdeli.com/"
+   }
+  },
+  {
+   "id": "node/9699363757",
+   "name": "Pet Supplies Plus",
+   "lat": 45.0702391,
+   "lon": -93.2655651,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11688622863",
+   "name": "Petco",
+   "lat": 44.8843318,
+   "lon": -93.2871539,
+   "distKm": 10.5,
+   "address": "710 West 66th Street, Richfield, MN 55423",
+   "tags": {
+    "phone": "+1 612-861-1335",
+    "website": "https://stores.petco.com/mn/richfield/pet-supplies-richfield-mn-608.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12335894136",
+   "name": "Total Dog Company",
+   "lat": 45.023089,
+   "lon": -93.3998159,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7129455334",
+   "name": "Pet Supplies Plus",
+   "lat": 45.0541828,
+   "lon": -93.3688582,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13596814701",
+   "name": "Wild Birds Unlimited",
+   "lat": 44.9733861,
+   "lon": -93.4220736,
+   "distKm": 12.4,
+   "address": "11210 Wayzata Boulevard, 55305",
+   "tags": {
+    "phone": "+1-952-525-9365",
+    "website": "https://minnetonka.wbu.com/",
+    "opening_hours": "Mo-Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12336464120",
+   "name": "Pet Evolution",
+   "lat": 45.0570564,
+   "lon": -93.1488594,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/89080706",
+   "name": "PetSmart",
+   "lat": 44.8632867,
+   "lon": -93.2936576,
+   "distKm": 12.9,
+   "address": "1100 West 78th Street, Richfield, MN 55423",
+   "tags": {
+    "phone": "+1 612-798-3665",
+    "website": "https://www.petsmart.com/stores/us/mn/richfield-store0459.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7554622685",
+   "name": "Blossom Pet Salon",
+   "lat": 45.028556,
+   "lon": -93.1038086,
+   "distKm": 13.9,
+   "address": "2900 Rice Street",
+   "tags": {
+    "phone": "+1 651-216-0542",
+    "website": "https://www.blossompetsalonmn.com/",
+    "opening_hours": "Tu-Sa 08:30-17:00"
+   }
+  },
+  {
+   "id": "node/2846172919",
+   "name": "Cocobear Pet Care",
+   "lat": 44.950894,
+   "lon": -93.090248,
+   "distKm": 14.1,
+   "address": "197",
+   "tags": {}
+  },
+  {
+   "id": "node/5472138487",
+   "name": "Chuck & Don's",
+   "lat": 44.9503455,
+   "lon": -93.0866767,
+   "distKm": 14.4,
+   "address": "282 East 6th Street, Saint Paul, MN 55101",
+   "tags": {
+    "phone": "+1-612-230-0279",
+    "website": "https://chuckanddons.com/stores/view/index/id/034/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12542381766",
+   "name": "Cat Amewsement",
+   "lat": 44.9481618,
+   "lon": -93.0874581,
+   "distKm": 14.4,
+   "address": "102 North Sibley Street",
+   "tags": {
+    "website": "https://www.catamewsement.com/",
+    "opening_hours": "We-Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/13043822825",
+   "name": "For The Love Of Dogs",
+   "lat": 44.8659409,
+   "lon": -93.1679799,
+   "distKm": 14.6,
+   "address": "2415 Pilot Knob Road",
+   "tags": {
+    "website": "https://www.fortheloveofdogstrainingschool.com/"
+   }
+  },
+  {
+   "id": "node/11212750737",
+   "name": "PetSmart",
+   "lat": 45.0296283,
+   "lon": -93.4469178,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/605096348",
+   "name": "Betta World",
+   "lat": 44.9728395,
+   "lon": -93.0661661,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11242363611",
+   "name": "Petco",
+   "lat": 44.8367933,
+   "lon": -93.17209,
+   "distKm": 17.3,
+   "address": "1505 Central Park Commons Drive, Eagan, MN 55121",
+   "tags": {
+    "phone": "+1 651-286-4898",
+    "website": "https://stores.petco.com/mn/eagan/pet-supplies-eagan-mn-2619.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7113028654",
+   "name": "PetSmart",
+   "lat": 45.0928567,
+   "lon": -93.4229513,
+   "distKm": 17.8,
+   "address": "11200 Fountains Drive, North Maple Grove, MN 55369",
+   "tags": {
+    "phone": "+1 763-424-3639",
+    "website": "https://www.petsmart.com/stores/us/mn/maple-grove-store1585.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/527084211",
+   "name": "Petco",
+   "lat": 44.8867855,
+   "lon": -93.0794849,
+   "distKm": 17.8,
+   "address": "1970 Robert Street South, West St Paul, MN 55118",
+   "tags": {
+    "phone": "+1 651-450-6204",
+    "website": "https://stores.petco.com/mn/westst-paul/pet-supplies-westst-paul-mn-1652.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/460005305",
+   "name": "PetSmart",
+   "lat": 44.8362793,
+   "lon": -93.1576115,
+   "distKm": 17.9,
+   "address": "1297 Promenade Place, Eagan, MN 55121",
+   "tags": {
+    "phone": "+1 651-452-1140",
+    "website": "https://www.petsmart.com/stores/us/mn/eagan-store0469.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12710480523",
+   "name": "Pet Stuff",
+   "lat": 44.903333,
+   "lon": -93.4670428,
+   "distKm": 17.9,
+   "address": "14731 Excelsior Boulevard",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "node/12022859337",
+   "name": "Chuck & Don's",
+   "lat": 44.8582732,
+   "lon": -93.4237097,
+   "distKm": 18.2,
+   "address": "8022 Den Road, Eden Prairie, MN 55344",
+   "tags": {}
+  },
+  {
+   "id": "node/12251426314",
+   "name": "Chuck and Don's",
+   "lat": 44.8318095,
+   "lon": -93.1572262,
+   "distKm": 18.3,
+   "address": "1254",
+   "tags": {}
+  },
+  {
+   "id": "way/44994118",
+   "name": "PetSmart",
+   "lat": 44.8550058,
+   "lon": -93.4191493,
+   "distKm": 18.3,
+   "address": "11200 Prairie Lakes Drive, Eden Prairie, MN 55344",
+   "tags": {
+    "phone": "+1 952-941-4660",
+    "website": "https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10597376656",
+   "name": "Petco",
+   "lat": 44.858541,
+   "lon": -93.4283852,
+   "distKm": 18.5,
+   "address": "8020 Glen Lane, Eden Prairie, MN 55344",
+   "tags": {
+    "phone": "+1 952-829-8808",
+    "website": "https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8541854043",
+   "name": "Chuck and Don's",
+   "lat": 44.9722644,
+   "lon": -93.5009837,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13809526456",
+   "name": "Pet Supplies Plus",
+   "lat": 44.8104156,
+   "lon": -93.3275794,
+   "distKm": 19.3,
+   "address": "3701 West Old Shakopee Road, Bloomington, MN 55431",
+   "tags": {
+    "phone": "+1-952-885-9725",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11098487972",
+   "name": "Wild Bird",
+   "lat": 44.9178301,
+   "lon": -93.501221,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/507997936",
+   "name": "PetSmart",
+   "lat": 45.0126406,
+   "lon": -93.0195966,
+   "distKm": 19.7,
+   "address": "2370 White Bear Avenue North, Maplewood, MN 55109",
+   "tags": {
+    "phone": "+1 651-777-9533",
+    "website": "https://www.petsmart.com/stores/us/mn/maplewood-store0461.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/613971278",
+   "name": "Petco",
+   "lat": 45.0991739,
+   "lon": -93.4469152,
+   "distKm": 19.7,
+   "address": "8010 Wedgewood Lane, Maple Grove, MN 55369",
+   "tags": {
+    "phone": "+17634205230",
+    "website": "https://stores.petco.com/mn/maplegrove/pet-supplies-maplegrove-mn-625.html",
+    "opening_hours": "Mo-Sa 09:00-21:00;Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11098487975",
+   "name": "Chuck & Don's pet food and supplies",
+   "lat": 44.9179958,
+   "lon": -93.5021156,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

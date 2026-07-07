@@ -1,0 +1,608 @@
+{
+ "$schemaVersion": 1,
+ "city": "seattle",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:25:52.487Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 56,
+ "places": [
+  {
+   "id": "way/434710974",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6143687,
+   "lon": -122.3290269,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "surface": "gravel",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/398955977",
+   "name": "Day 1 Dog Park",
+   "lat": 47.615732,
+   "lon": -122.3398787,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/37114650",
+   "name": "Regrade Park",
+   "lat": 47.6143293,
+   "lon": -122.3447531,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.seattle.gov/parks/allparks/regrade-park"
+   }
+  },
+  {
+   "id": "way/772562341",
+   "name": "Denny Substation Dog Park",
+   "lat": 47.6191148,
+   "lon": -122.3326644,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "05:00-22:00"
+   }
+  },
+  {
+   "id": "way/362486894",
+   "name": "South Lake Union Dog Park",
+   "lat": 47.6194078,
+   "lon": -122.3410929,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/26398063",
+   "name": "Jose Rizal Dog Park",
+   "lat": 47.5931845,
+   "lon": -122.3184367,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1257534309",
+   "name": "Construction Site Dog Park",
+   "lat": 47.6082518,
+   "lon": -122.3034362,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "node/3468525549",
+   "name": "I-5 Colonnade Off-Leash Area",
+   "lat": 47.6348256,
+   "lon": -122.3237465,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/474110657",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6339595,
+   "lon": -122.345037,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/481142081",
+   "name": "Blue Dog Pond - Dog Park",
+   "lat": 47.5890037,
+   "lon": -122.2984116,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/633523734",
+   "name": "Kinnear Dog Park",
+   "lat": 47.626935,
+   "lon": -122.3676761,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473252197",
+   "name": "Youngstown Flats Dog Run Feature",
+   "lat": 47.5674446,
+   "lon": -122.3649711,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/160980417",
+   "name": "Genesee Dog Park",
+   "lat": 47.5634041,
+   "lon": -122.2766742,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/295044076",
+   "name": "Magnolia Manor Dog Park",
+   "lat": 47.6516008,
+   "lon": -122.3924115,
+   "distKm": 6.8,
+   "address": "3500 28th Avenue West, Seattle, WA 98199",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1357066520",
+   "name": "Growlerz Seattle",
+   "lat": 47.5540051,
+   "lon": -122.2816213,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/220404009",
+   "name": "Woodland Park Off-Leash Dog Park",
+   "lat": 47.6700971,
+   "lon": -122.3444423,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.seattle.gov/parks/offleash_detail.asp?id=292"
+   }
+  },
+  {
+   "id": "way/909788856",
+   "name": "Dog Yard Bar",
+   "lat": 47.6639174,
+   "lon": -122.3781636,
+   "distKm": 7.3,
+   "address": "1546 Northwest Leary Way, Seattle, WA 98107",
+   "tags": {
+    "dog": "yes",
+    "website": "https://www.dogyardbar.com"
+   }
+  },
+  {
+   "id": "way/1434810259",
+   "name": "Georgetown Flume Off-Leash Dog Park",
+   "lat": 47.5385876,
+   "lon": -122.3190869,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.seattle.gov/parks/about-us/projects/georgetown-flume-off-leash-area-development"
+   }
+  },
+  {
+   "id": "way/1176483046",
+   "name": "Medina Park Off Leash Area",
+   "lat": 47.6200839,
+   "lon": -122.2299569,
+   "distKm": 7.8,
+   "address": "82nd Avenue Northeast, Medina, WA",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.medina-wa.gov/publicworks/page/medina-park"
+   }
+  },
+  {
+   "id": "way/360747609",
+   "name": "Small Dog Area",
+   "lat": 47.5930105,
+   "lon": -122.2260603,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/360747622",
+   "name": "Off-Leash Dog Area",
+   "lat": 47.5939243,
+   "lon": -122.2262305,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1240074930",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5821546,
+   "lon": -122.2227378,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/346363335",
+   "name": "Westcrest Dog Park",
+   "lat": 47.5243994,
+   "lon": -122.341548,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/346363333",
+   "name": "Westcrest Small Dog Park",
+   "lat": 47.5231615,
+   "lon": -122.3428091,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1390252318",
+   "name": "Wildwood Dog Park",
+   "lat": 47.6084107,
+   "lon": -122.2050413,
+   "distKm": 9.5,
+   "address": "201 101st Avenue Southeast, Bellevue, WA 98004",
+   "tags": {
+    "surface": "woodchips",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "relation/1070497",
+   "name": "Magnuson Park Off-Leash Area",
+   "lat": 47.6836126,
+   "lon": -122.252881,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/1343674542",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5129091,
+   "lon": -122.362101,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1356610242",
+   "name": "City Hall Off-Leash Dog Park",
+   "lat": 47.6149726,
+   "lon": -122.1918504,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/277459453",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6912366,
+   "lon": -122.4004131,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/13226886446",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5369626,
+   "lon": -122.2237655,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.mercerisland.gov/sites/default/files/fileattachments/parks_and_recreation/page/2571/dog_owners_guide_to_mercer_island_parks_-_updated_5.1.18_-no_bleed.pdf"
+   }
+  },
+  {
+   "id": "way/1207208052",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.6077786,
+   "lon": -122.1749381,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1047303235",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5500256,
+   "lon": -122.1859541,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468644000",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.72217,
+   "lon": -122.3257793,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1329966664",
+   "name": "Dogwood Play Park",
+   "lat": 47.7211531,
+   "lon": -122.2918699,
+   "distKm": 13.1,
+   "address": "12568 33rd Avenue Northeast, Seattle, WA 98125",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.dogwoodplaypark.com/"
+   }
+  },
+  {
+   "id": "way/1344942752",
+   "name": "Juanita Beach Off-Leash Dog Park",
+   "lat": 47.7067023,
+   "lon": -122.2143075,
+   "distKm": 14.2,
+   "address": "9703 Northeast Juanita Drive, Kirkland, WA 98034",
+   "tags": {
+    "access": "yes",
+    "website": "https://kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Parks-Trails-and-Beaches/Off-Leash-Dog-Areas"
+   }
+  },
+  {
+   "id": "way/1356604836",
+   "name": "Eagledale Dog Park",
+   "lat": 47.6073492,
+   "lon": -122.5227736,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "website": "https://biparks.org/dog-parks/"
+   }
+  },
+  {
+   "id": "relation/18211904",
+   "name": "Snyder’s Corner Park Off-Leash Dog Area",
+   "lat": 47.6661847,
+   "lon": -122.1633532,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Find-a-Park/Snyder%E2%80%99s-Corner-Park",
+    "opening_hours": "dawn-dusk"
+   }
+  },
+  {
+   "id": "way/160076907",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5875213,
+   "lon": -122.1420545,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "node/13085229795",
+   "name": "Will Rogers Dog Friendly Park",
+   "lat": 47.5003772,
+   "lon": -122.2188244,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/1056816524",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5452941,
+   "lon": -122.1618112,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/160075093",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.5875338,
+   "lon": -122.1377893,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/486018404",
+   "name": "Jasper's Dog Park",
+   "lat": 47.7064916,
+   "lon": -122.1911338,
+   "distKm": 15.4,
+   "address": "11225 Northeast 120th Street, Kirkland, 98034",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1298327525",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.746508,
+   "lon": -122.3280369,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/677178341",
+   "name": "Burien Toyota & Chevrolet Dog Park",
+   "lat": 47.4608639,
+   "lon": -122.3413408,
+   "distKm": 16.2,
+   "address": "15820 6th Avenue Southwest, Burien, WA 98166",
+   "tags": {
+    "website": "https://www.burienwa.gov/residents/parks__recreation___cultural_services/city_parks_and_trails/burien_toyota___chevrolet_dog_park"
+   }
+  },
+  {
+   "id": "way/721324905",
+   "name": "Shoreview Park Off Leash Area",
+   "lat": 47.750968,
+   "lon": -122.3640456,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.cityofshoreline.com/government/departments/parks-recreation-cultural-services/parks-and-facilities/off-leash-dog-areas"
+   }
+  },
+  {
+   "id": "way/1065734354",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.7226412,
+   "lon": -122.1937123,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/738365389",
+   "name": "Strawberry Hill Dog Park",
+   "lat": 47.6380217,
+   "lon": -122.5509914,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1301261921",
+   "name": "Luke McRedmond Pop-Up Dog Park",
+   "lat": 47.6729562,
+   "lon": -122.1315762,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.letsconnectredmond.com/dogpark",
+    "opening_hours": "2024 Apr 01-2024 Oct 31 Su-Sa,PH dawn-dusk"
+   }
+  },
+  {
+   "id": "way/427473498",
+   "name": "Marymoor Park Off-Leash Dog Area",
+   "lat": 47.6574007,
+   "lon": -122.1152905,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "website": "https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/marymoor/offleash.aspx"
+   }
+  },
+  {
+   "id": "way/660845179",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.4683036,
+   "lon": -122.2252708,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/147998254",
+   "name": "Cedar River Dog Park",
+   "lat": 47.4779801,
+   "lon": -122.1947652,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1463640626",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.7104504,
+   "lon": -122.1548019,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/918351767",
+   "name": "Small Dog Park",
+   "lat": 47.7170701,
+   "lon": -122.1592719,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1482786146",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.7300775,
+   "lon": -122.1593736,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/7134240351",
+   "name": "SplashDog",
+   "lat": 47.7788744,
+   "lon": -122.3620506,
+   "distKm": 19.3,
+   "address": "9679 Firdale Avenue, Edmonds, 98020",
+   "tags": {
+    "website": "https://www.splashdogspa.com/"
+   }
+  },
+  {
+   "id": "way/1518729769",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 47.7586934,
+   "lon": -122.2082981,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

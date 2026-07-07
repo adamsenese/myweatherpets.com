@@ -1,0 +1,63 @@
+{
+ "$schemaVersion": 1,
+ "city": "virginia-beach",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:30:30.306Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "node/12750710773",
+   "name": "Bark VB",
+   "lat": 36.8415723,
+   "lon": -76.0970551,
+   "distKm": 10.7,
+   "address": "3636 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-904-1450",
+    "website": "https://www.barkvb.com/",
+    "opening_hours": "Mo-Fr 06:00-19:00; Sa 08:00-13:00; Sa-Su 16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7946417287",
+   "name": "Dogtopia",
+   "lat": 36.8411619,
+   "lon": -76.1334956,
+   "distKm": 13.9,
+   "address": "4546 Columbus Street, Virginia Beach, VA 23462",
+   "tags": {
+    "phone": "+1-757-517-8010",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12572223288",
+   "name": "The Ruff House Stay & Play at Bayside",
+   "lat": 36.8471564,
+   "lon": -76.1611772,
+   "distKm": 16.3,
+   "address": "5201 Virginia Beach Boulevard, Virginia Beach, VA 23462",
+   "tags": {
+    "phone": "+1-757-499-7697",
+    "website": "https://bayside.ruffhouseva.com/",
+    "opening_hours": "Mo-Fr 07:00-11:00, 13:00-18:00; Sa 07:00-17:00; Su 14:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/402699245",
+   "name": "Sterling Meadows Kennel & Cattery",
+   "lat": 36.7481412,
+   "lon": -76.1178001,
+   "distKm": 17,
+   "address": "3756 Indian River Road, Virginia Beach, VA 23456",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "$schemaVersion": 1,
+ "city": "edinburgh",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:38:39.176Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 12,
+ "places": [
+  {
+   "id": "way/665032276",
+   "name": "Barklay Park",
+   "lat": 55.9074379,
+   "lon": -3.1065436,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.barklaypark.co.uk/"
+   }
+  },
+  {
+   "id": "way/1278117369",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 55.8801456,
+   "lon": -3.0855867,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1110542445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 56.055059,
+   "lon": -3.2877677,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/20000787",
+   "name": "Run Free Secure Dog Fields - Kirkliston",
+   "lat": 55.963193,
+   "lon": -3.4046324,
+   "distKm": 13.5,
+   "address": "Queensferry Road, Kirkliston, EH29 9FQ",
+   "tags": {
+    "barrier": "fence",
+    "access": "customers",
+    "website": "https://runfreedogfields.co.uk/",
+    "opening_hours": "Mo-Su 07:00-21:30"
+   }
+  },
+  {
+   "id": "way/1111113511",
+   "name": "Unleashed Dog Park",
+   "lat": 55.9106842,
+   "lon": -2.9769425,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/443486371",
+   "name": "Barns Farm Dog Field",
+   "lat": 56.0478443,
+   "lon": -3.3392656,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1461344568",
+   "name": "Run Free Secure Dog Fields - South Queensferry",
+   "lat": 55.9842086,
+   "lon": -3.4305502,
+   "distKm": 15.5,
+   "address": "South Queensferry",
+   "tags": {
+    "access": "customers",
+    "website": "https://runfreedogfields.co.uk/",
+    "opening_hours": "Mo-Su 07:00-21:30"
+   }
+  },
+  {
+   "id": "way/1018633613",
+   "name": "Run Free Secure Dog Fields",
+   "lat": 56.0407326,
+   "lon": -3.3964964,
+   "distKm": 16.2,
+   "address": "North Road, Inverkeithing, KY11 1HT",
+   "tags": {
+    "lit": "no",
+    "access": "customers",
+    "website": "https://runfreedogfields.co.uk/",
+    "opening_hours": "Mo-Su 07:00-21:30"
+   }
+  },
+  {
+   "id": "way/450284434",
+   "name": "Dog Education Area",
+   "lat": 56.1018856,
+   "lon": -3.1759818,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1135541324",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 55.9655689,
+   "lon": -3.4752695,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1461340303",
+   "name": "Run Free Dog Fields - Winchburgh",
+   "lat": 55.9783781,
+   "lon": -3.4906426,
+   "distKm": 19,
+   "address": "Winchburgh",
+   "tags": {
+    "lit": "no",
+    "access": "customers",
+    "website": "https://runfreedogfields.co.uk/",
+    "opening_hours": "Mo-Su 07:00-21:30"
+   }
+  },
+  {
+   "id": "node/9817951655",
+   "name": "Star Pups Doggy Daycare",
+   "lat": 55.9362041,
+   "lon": -2.872343,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

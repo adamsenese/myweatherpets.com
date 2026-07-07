@@ -1,0 +1,576 @@
+{
+ "$schemaVersion": 1,
+ "city": "tokyo",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:23:18.961Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/4962976063",
+   "name": "エンドー動物病院",
+   "lat": 35.701739,
+   "lon": 139.6919846,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4935472738",
+   "name": "動物救急センター",
+   "lat": 35.6974102,
+   "lon": 139.6744939,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4999037866",
+   "name": "新宿動物病院",
+   "lat": 35.6981191,
+   "lon": 139.711822,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2402258420",
+   "name": "タカマ動物病院",
+   "lat": 35.680271,
+   "lon": 139.669853,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3215543661",
+   "name": "本町動物病院",
+   "lat": 35.6942404,
+   "lon": 139.6679997,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6467335385",
+   "name": "小滝橋動物病院",
+   "lat": 35.7089322,
+   "lon": 139.6942601,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "website": "https://otakibashi.com/"
+   }
+  },
+  {
+   "id": "node/2265677180",
+   "name": "もみじ山通りペットクリニック",
+   "lat": 35.7028056,
+   "lon": 139.6717536,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11061143999",
+   "name": "カーサ動物病院",
+   "lat": 35.6909281,
+   "lon": 139.7165768,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3215530961",
+   "name": "リトルピース動物病院",
+   "lat": 35.6855805,
+   "lon": 139.6658757,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4971546694",
+   "name": "マリーペットクリニック",
+   "lat": 35.7112871,
+   "lon": 139.6911901,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We-Sa,PH 09:00-12:00, Mo,We-Sa 15:00-18:00"
+   }
+  },
+  {
+   "id": "node/5036925523",
+   "name": "こぐま動物病院",
+   "lat": 35.7082133,
+   "lon": 139.677965,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Fr-We,PH 09:00-12:00, Fr-We 16:00-19:30"
+   }
+  },
+  {
+   "id": "node/5014805319",
+   "name": "中央動物病院",
+   "lat": 35.7025183,
+   "lon": 139.6697814,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6028577210",
+   "name": "ねこの病院",
+   "lat": 35.6683617,
+   "lon": 139.6823158,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-12:00,15:00-18:00; Su,PH off"
+   }
+  },
+  {
+   "id": "way/183130749",
+   "name": "辻記念動物病院",
+   "lat": 35.7090464,
+   "lon": 139.7053834,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "website": "http://tsuji-kinen-ah.dcsv.jp/"
+   }
+  },
+  {
+   "id": "node/10698640345",
+   "name": "ダクタリ動物病院",
+   "lat": 35.6654498,
+   "lon": 139.6881567,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2967361633",
+   "name": "聖愛動物病院",
+   "lat": 35.663799,
+   "lon": 139.687498,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3824263303",
+   "name": "四谷どうぶつ病院",
+   "lat": 35.6915933,
+   "lon": 139.7235161,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6261477358",
+   "name": "安達動物病院",
+   "lat": 35.6974974,
+   "lon": 139.6603495,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4962172136",
+   "name": "アイルペットクリニック",
+   "lat": 35.7005519,
+   "lon": 139.6585191,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4963687184",
+   "name": "市ヶ谷動物病院",
+   "lat": 35.6993151,
+   "lon": 139.7267624,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6229211103",
+   "name": "ほうなんペットクリニック",
+   "lat": 35.6822065,
+   "lon": 139.6566331,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6277580205",
+   "name": "中野ペットクリニック",
+   "lat": 35.7054397,
+   "lon": 139.6613698,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5608306767",
+   "name": "アミーペットクリニック",
+   "lat": 35.7136039,
+   "lon": 139.6689601,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1669561187",
+   "name": "下北沢動物病院",
+   "lat": 35.6634505,
+   "lon": 139.665557,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2708718416",
+   "name": "小滝橋動物病院 目白通り高度医療センター",
+   "lat": 35.7229018,
+   "lon": 139.689935,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1378123982",
+   "name": "フレンズ動物病院",
+   "lat": 35.6568957,
+   "lon": 139.7048178,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2706964572",
+   "name": "野村獣医科Vセンター",
+   "lat": 35.7194236,
+   "lon": 139.6702564,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "phone": "03-3228-0678"
+   }
+  },
+  {
+   "id": "node/4407732034",
+   "name": "ミラ動物病院",
+   "lat": 35.704669,
+   "lon": 139.728972,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4970205674",
+   "name": "COCONI IRU",
+   "lat": 35.7099685,
+   "lon": 139.6577655,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5056399034",
+   "name": "もとい動物病院",
+   "lat": 35.7224867,
+   "lon": 139.7007769,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/712317451",
+   "name": "目白動物病院",
+   "lat": 35.7213068,
+   "lon": 139.706049,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "phone": "+81-3-3953-0669",
+    "website": "http://www.mejiguru.co.jp/",
+    "opening_hours": "09:00-18:00"
+   }
+  },
+  {
+   "id": "node/3910153870",
+   "name": "高円寺アニマルクリニック",
+   "lat": 35.6996557,
+   "lon": 139.6497197,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5056020201",
+   "name": "哲学堂アニマルクリニック",
+   "lat": 35.7236789,
+   "lon": 139.6773638,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2790466393",
+   "name": "うみとそら",
+   "lat": 35.6826643,
+   "lon": 139.6476139,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5108791278",
+   "name": "大塚犬猫病院",
+   "lat": 35.7241291,
+   "lon": 139.675227,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2794649219",
+   "name": "みきと動物病院",
+   "lat": 35.6976124,
+   "lon": 139.6462071,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3021673622",
+   "name": "小松動物病院",
+   "lat": 35.6804882,
+   "lon": 139.6462539,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4971567742",
+   "name": "光が丘動物病院 麻生クリニック",
+   "lat": 35.6611226,
+   "lon": 139.7227949,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5407527796",
+   "name": "羽根木動物病院",
+   "lat": 35.6620034,
+   "lon": 139.6600453,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2216007869",
+   "name": "動物愛護病院",
+   "lat": 35.6695493,
+   "lon": 139.6512816,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+81 3-3325-1414",
+    "opening_hours": "Mo-Tu,Th-Sa 8:30-12:00,16:00-19:00; Su,We 8:30-12:00; PH OFF"
+   }
+  },
+  {
+   "id": "node/4408594922",
+   "name": "神楽坂ペットクリニック",
+   "lat": 35.702235,
+   "lon": 139.736985,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5411965465",
+   "name": "アテナ動物病院",
+   "lat": 35.669062,
+   "lon": 139.7324667,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5980850815",
+   "name": "Dog café",
+   "lat": 35.7014603,
+   "lon": 139.7369018,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13266565860",
+   "name": "オハナ動物病院",
+   "lat": 35.7066871,
+   "lon": 139.6494507,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+81 353640203"
+   }
+  },
+  {
+   "id": "node/5603231824",
+   "name": "にしやま動物病院",
+   "lat": 35.726947,
+   "lon": 139.6765842,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7162303228",
+   "name": "中通りペットクリニック",
+   "lat": 35.7062964,
+   "lon": 139.647211,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1596220152",
+   "name": "ハナ動物病院",
+   "lat": 35.6949122,
+   "lon": 139.6426419,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4970179609",
+   "name": "みやけ動物病院",
+   "lat": 35.7097565,
+   "lon": 139.6491711,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/164334361",
+   "name": "代官山動物病院",
+   "lat": 35.649492,
+   "lon": 139.7004325,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "09:00-13:00,16:00-20:00"
+   }
+  },
+  {
+   "id": "node/1596093987",
+   "name": "成田犬猫病院",
+   "lat": 35.694118,
+   "lon": 139.6406615,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5441376737",
+   "name": "笹木動物病院",
+   "lat": 35.6495578,
+   "lon": 139.6776411,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6205235019",
+   "name": "高円寺動物病院",
+   "lat": 35.7031494,
+   "lon": 139.6439818,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6253926153",
+   "name": "Hana Pet clinic",
+   "lat": 35.7093065,
+   "lon": 139.7360091,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4961624782",
+   "name": "南阿佐ヶ谷どうぶつ病院",
+   "lat": 35.6980514,
+   "lon": 139.6403967,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12312431917",
+   "name": "ペッツファースト動物病院　代官山高度医療センター",
+   "lat": 35.6481501,
+   "lon": 139.7020774,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-13:00,15:00-20:00"
+   }
+  },
+  {
+   "id": "node/13751468412",
+   "name": "わんMORE",
+   "lat": 35.6812397,
+   "lon": 139.6402381,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/340381663",
+   "name": "小鳥と小動物の病院",
+   "lat": 35.6479699,
+   "lon": 139.706692,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/693156391",
+   "name": "アマノ動物病院",
+   "lat": 35.6507567,
+   "lon": 139.6674611,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2068250358",
+   "name": "トト動物病院",
+   "lat": 35.6488554,
+   "lon": 139.6733354,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5053279969",
+   "name": "江古田の森ペットクリニック",
+   "lat": 35.7230217,
+   "lon": 139.6580295,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

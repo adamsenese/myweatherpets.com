@@ -1,0 +1,236 @@
+{
+ "$schemaVersion": 1,
+ "city": "grand-rapids",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:35:11.528Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "way/262899785",
+   "name": "Eastown Veterinary Clinic",
+   "lat": 42.9574786,
+   "lon": -85.6355719,
+   "distKm": 2.7,
+   "address": "1350 Lake Drive Southeast, Grand Rapids, MI 49506",
+   "tags": {
+    "phone": "+1-616-451-1810",
+    "website": "https://eastownvet.com/"
+   }
+  },
+  {
+   "id": "node/10107493141",
+   "name": "Heaven at Home",
+   "lat": 42.9908269,
+   "lon": -85.6704013,
+   "distKm": 3.1,
+   "address": "Monroe Avenue Northwest, Grand Rapids, MI",
+   "tags": {
+    "phone": "+1-616-498-1316",
+    "website": "https://www.pethospicevet.com/",
+    "opening_hours": "Mo-Fr 08:30-17:30, Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/12608690201",
+   "name": "VCA Northeast Animal Hospital",
+   "lat": 42.9704489,
+   "lon": -85.6314093,
+   "distKm": 3.1,
+   "address": "1527 Michigan Street Northeast, 49503",
+   "tags": {
+    "phone": "+1 616-451-2694",
+    "website": "https://vcahospitals.com/northeast",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:30-14:00"
+   }
+  },
+  {
+   "id": "way/1087064479",
+   "name": "Feline Wellness Center PLLC",
+   "lat": 42.9910967,
+   "lon": -85.6453074,
+   "distKm": 3.6,
+   "address": "1545 Diamond Avenue Northeast, Grand Rapids, MI 49505",
+   "tags": {}
+  },
+  {
+   "id": "way/1392444155",
+   "name": "Plymouth Road Animal Clinic",
+   "lat": 42.9836166,
+   "lon": -85.6236674,
+   "distKm": 4.3,
+   "address": "1180 Plymouth Avenue Northeast, 49505",
+   "tags": {
+    "phone": "+1 616-456-9212",
+    "website": "https://plymouthanimalclinic.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/12520888402",
+   "name": "Animal Clinic, Inc. Grand Rapids",
+   "lat": 42.9132943,
+   "lon": -85.6636678,
+   "distKm": 5.6,
+   "address": "49548",
+   "tags": {
+    "phone": "+1 616-241-3651",
+    "website": "https://www.animalclinicgrandrapids.com/",
+    "opening_hours": "Mo-We 07:00-19:00; Th 07:00-18:00; Fr 08:00-17:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/8980830038",
+   "name": "Breton Village Animal Clinic",
+   "lat": 42.9258525,
+   "lon": -85.6052815,
+   "distKm": 6.6,
+   "address": "2496 Burton Street Southeast, Grand Rapids, MI 49546",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/549441344",
+   "name": "Animal emergency and Specialty Hospital",
+   "lat": 43.0222399,
+   "lon": -85.6326361,
+   "distKm": 7.2,
+   "address": "3260 Plainfield Avenue Northeast",
+   "tags": {
+    "phone": "+16163619911",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13153152878",
+   "name": "Lovet",
+   "lat": 43.0270156,
+   "lon": -85.6886318,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/588232409",
+   "name": "VCA Knapps Corner Animal hospital",
+   "lat": 43.0019454,
+   "lon": -85.5892212,
+   "distKm": 7.7,
+   "address": "2078 East Beltline Avenue Northeast, MI 49525",
+   "tags": {
+    "website": "https://vcahospitals.com/knapps-corner"
+   }
+  },
+  {
+   "id": "way/565977782",
+   "name": "Standale Animal Hospital",
+   "lat": 42.9732532,
+   "lon": -85.7660671,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1004808809",
+   "name": "Pet Veterinary Clinic",
+   "lat": 42.9139495,
+   "lon": -85.7553765,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/919943127",
+   "name": "Animal Medical Center of Wyoming",
+   "lat": 42.8842983,
+   "lon": -85.7218952,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1394560503",
+   "name": "Reactive Referral Center",
+   "lat": 43.0468458,
+   "lon": -85.606758,
+   "distKm": 10.5,
+   "address": "4609 Plainfield Avenue Northeast, 49525",
+   "tags": {
+    "phone": "+1 616-371-4169",
+    "opening_hours": "Mo-Th 09:00-13:00, 14:00-17:00"
+   }
+  },
+  {
+   "id": "way/506577707",
+   "name": "Ada Hospital for Animals",
+   "lat": 42.9937794,
+   "lon": -85.5447494,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4202294056",
+   "name": "Great Lakes Hospital For Animals",
+   "lat": 43.0647413,
+   "lon": -85.6008061,
+   "distKm": 12.5,
+   "address": "6273 West River Drive Northeast, Belmont, MI 49306",
+   "tags": {
+    "phone": "+1-616-361-0220"
+   }
+  },
+  {
+   "id": "node/13993792855",
+   "name": "Red Barn Vetrinary Clinic",
+   "lat": 42.8473739,
+   "lon": -85.6641823,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8576619783",
+   "name": "Family Friends Veterinary Hospital & Pet Care Center",
+   "lat": 42.9136655,
+   "lon": -85.506172,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-616-575-6520",
+    "website": "https://www.familyfriendsvet.com/"
+   }
+  },
+  {
+   "id": "way/1382813979",
+   "name": "Chicago Drive Veterinary Clinic",
+   "lat": 42.8856852,
+   "lon": -85.8359679,
+   "distKm": 16.2,
+   "address": "6418 Center Industrial Drive",
+   "tags": {
+    "website": "https://chicagodrivevet.com/"
+   }
+  },
+  {
+   "id": "node/2672342052",
+   "name": "Heartworm Positive",
+   "lat": 42.8956904,
+   "lon": -85.8606266,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/935525697",
+   "name": "Hometown Veterinary Care",
+   "lat": 42.8126362,
+   "lon": -85.7278264,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

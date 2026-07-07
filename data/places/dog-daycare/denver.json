@@ -1,0 +1,232 @@
+{
+ "$schemaVersion": 1,
+ "city": "denver",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:26:12.840Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/7251686486",
+   "name": "Hounds On The Hill",
+   "lat": 39.73162,
+   "lon": -104.9859632,
+   "distKm": 0.9,
+   "address": "960 Lincoln Street, Denver, CO 80203",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3523389011",
+   "name": "Daily Wag!",
+   "lat": 39.7348347,
+   "lon": -105.0143212,
+   "distKm": 2.1,
+   "address": "1190 Yuma Street, Denver, CO 80204",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9313499168",
+   "name": "Woofhaus Dog Daycare",
+   "lat": 39.6885964,
+   "lon": -104.9872984,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4806764002",
+   "name": "K-9 Castle",
+   "lat": 39.7400894,
+   "lon": -105.06778,
+   "distKm": 6.6,
+   "address": "6400 West Colfax Avenue, Lakewood, CO 80214-1801",
+   "tags": {
+    "phone": "+1-303-237-4901",
+    "website": "https://www.k-9castle.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10216965851",
+   "name": "The Sniff Shack",
+   "lat": 39.7763707,
+   "lon": -105.0547285,
+   "distKm": 6.9,
+   "address": "5300 West 44th Avenue, Denver, CO 80212",
+   "tags": {
+    "website": "https://sniffshack.com/",
+    "opening_hours": "Mo-Su 6:30-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10245107626",
+   "name": "Happy Dog Daycare",
+   "lat": 39.7717912,
+   "lon": -104.9100216,
+   "distKm": 7.8,
+   "address": "3939 Newport Street",
+   "tags": {
+    "phone": "+1-303-331-1364",
+    "website": "https://happydogdenver.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1285849682",
+   "name": "Doggie Pause",
+   "lat": 39.6763962,
+   "lon": -104.939819,
+   "distKm": 8.2,
+   "address": "4040 East Warren Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1-303-761-8743",
+    "website": "https://www.doggiepause.com/",
+    "opening_hours": "Mo-Fr 06:30-20:00; Sa 07:00-18:00; Su 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1341801797",
+   "name": "The Big Backyard",
+   "lat": 39.678984,
+   "lon": -104.9248206,
+   "distKm": 8.7,
+   "address": "5310 East Pacific Place, Denver, CO 80222",
+   "tags": {
+    "phone": "+1-303-757-7905",
+    "website": "https://the-big-backyard.com/",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa-Su 08:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "relation/18404040",
+   "name": "Canine Fitness & Fun Center",
+   "lat": 39.6781437,
+   "lon": -104.92557,
+   "distKm": 8.8,
+   "address": "5390 East Evans Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1-720-902-7294",
+    "website": "https://www.caninefitnessandfuncenter.com/",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13343715392",
+   "name": "Camp Bow Wow",
+   "lat": 39.6579609,
+   "lon": -105.0801031,
+   "distKm": 11.9,
+   "address": "3214 S Wadsworth Blvd, Lakewood, CO 80227",
+   "tags": {
+    "phone": "+1-720-303-5446",
+    "website": "https://www.campbowwow.com/lakewood-south/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/984164023",
+   "name": "DoggEdayz",
+   "lat": 39.8423229,
+   "lon": -105.0523287,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12865988662",
+   "name": "Dogtopia",
+   "lat": 39.7078735,
+   "lon": -105.1367658,
+   "distKm": 13,
+   "address": "12057 West Alameda Parkway, Lakewood, CO 80228",
+   "tags": {
+    "phone": "+1-303-993-1669",
+    "website": "https://www.dogtopia.com/denver-lakewood-alameda-pkwy/",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/491667793",
+   "name": "Tenaker Pet Care Center",
+   "lat": 39.7306077,
+   "lon": -104.8016941,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1359256309",
+   "name": "Kenlyn Arabians",
+   "lat": 39.7342596,
+   "lon": -104.7829993,
+   "distKm": 17.7,
+   "address": "1000 North Salida Street, Aurora, CO 80011",
+   "tags": {
+    "opening_hours": "\"all hours, boarders and clients only\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6789510689",
+   "name": "Rover Retreat",
+   "lat": 39.7209109,
+   "lon": -105.2005037,
+   "distKm": 18.1,
+   "address": "17731 West Colfax Avenue, Golden, CO 80401",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11758040264",
+   "name": "Hobnob",
+   "lat": 39.5956982,
+   "lon": -104.8774481,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1134406265",
+   "name": "City Bark",
+   "lat": 39.5924657,
+   "lon": -104.8592642,
+   "distKm": 19.8,
+   "address": "6840 South Kenton Street, Centennial, CO 80112",
+   "tags": {
+    "website": "https://www.citybark.com/locations/centennial",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/491976911",
+   "name": "Camp Bow Wow",
+   "lat": 39.5894685,
+   "lon": -104.8603258,
+   "distKm": 20,
+   "address": "7009 South Kenton Street, Centennial, CO 80112",
+   "tags": {
+    "phone": "+1-720-697-7491",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

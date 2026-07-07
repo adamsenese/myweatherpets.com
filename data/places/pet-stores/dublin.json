@@ -1,0 +1,404 @@
+{
+ "$schemaVersion": 1,
+ "city": "dublin",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:38:32.533Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "way/228762048",
+   "name": "Shauna's Pet Shop",
+   "lat": 53.3463965,
+   "lon": -6.2677518,
+   "distKm": 0.6,
+   "address": "5 Capel Street, Dublin",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/1954540583",
+   "name": "Reptile Haven",
+   "lat": 53.3446626,
+   "lon": -6.2697542,
+   "distKm": 0.8,
+   "address": "27-28 Fishamble Street, Dublin",
+   "tags": {
+    "phone": "+353 1 670 4001",
+    "website": "https://www.reptilehavenireland.com/"
+   }
+  },
+  {
+   "id": "node/2980368134",
+   "name": "Petland",
+   "lat": 53.3357938,
+   "lon": -6.2649832,
+   "distKm": 1.6,
+   "address": "Camden Street Lower, Dublin",
+   "tags": {
+    "phone": "+353 1 478 2850"
+   }
+  },
+  {
+   "id": "node/3412080283",
+   "name": "Blue Dog",
+   "lat": 53.3343064,
+   "lon": -6.2744301,
+   "distKm": 2,
+   "address": "29 Clanbrassil Street Lower",
+   "tags": {
+    "phone": "+353 1 454 6531",
+    "website": "http://www.bluedoggrooming.ie/",
+    "opening_hours": "Mo-Fr 08:30-18:00, Sa \"on appointment\""
+   }
+  },
+  {
+   "id": "node/5314398699",
+   "name": "Bart's Pets",
+   "lat": 53.3594428,
+   "lon": -6.2873581,
+   "distKm": 2.1,
+   "address": "26a Annamoe Terrace",
+   "tags": {}
+  },
+  {
+   "id": "node/9043692282",
+   "name": "Bart's Pets",
+   "lat": 53.362726,
+   "lon": -6.2900558,
+   "distKm": 2.4,
+   "address": "Quarry Road, Dublin",
+   "tags": {}
+  },
+  {
+   "id": "way/1182074183",
+   "name": "Maxi Zoo",
+   "lat": 53.3829412,
+   "lon": -6.2940017,
+   "distKm": 4.3,
+   "address": "Finglas Road, Dublin",
+   "tags": {
+    "website": "https://www.maxizoo.ie/stores/maxizoo-finglas/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "way/1182074180",
+   "name": "Pet Food Depot",
+   "lat": 53.384378,
+   "lon": -6.2953408,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "website": "https://www.petfooddepot.ie/"
+   }
+  },
+  {
+   "id": "node/3108856820",
+   "name": "Dogsbody",
+   "lat": 53.3095608,
+   "lon": -6.2854004,
+   "distKm": 4.8,
+   "address": "8 Terenure Road West, Dublin",
+   "tags": {
+    "phone": "+353 1 4924631",
+    "website": "https://www.dogsbody.ie/",
+    "opening_hours": "Mo-Fr 08:00-16:30"
+   }
+  },
+  {
+   "id": "node/1316646489",
+   "name": "Breffni House Pets",
+   "lat": 53.3027127,
+   "lon": -6.245382,
+   "distKm": 5.3,
+   "address": "Dundrum Road",
+   "tags": {
+    "phone": "+353 1 296 1339",
+    "website": "http://www.breffnihousepets.com/"
+   }
+  },
+  {
+   "id": "node/13180381901",
+   "name": "Petco",
+   "lat": 53.3248928,
+   "lon": -6.3363038,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "phone": "+35314299938",
+    "opening_hours": "Mo-Sa 09:30-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "way/926328868",
+   "name": "Pet Republic",
+   "lat": 53.3888193,
+   "lon": -6.2014447,
+   "distKm": 5.8,
+   "address": "Main Street, Dublin, D05NC80",
+   "tags": {
+    "phone": "+353 1 847 2535",
+    "website": "https://www.petrepublic.ie/"
+   }
+  },
+  {
+   "id": "node/5862047877",
+   "name": "Mutz Nutz",
+   "lat": 53.3424302,
+   "lon": -6.3509938,
+   "distKm": 6.1,
+   "address": "Ballyfermot Road, Dublin",
+   "tags": {}
+  },
+  {
+   "id": "node/4591287343",
+   "name": "Petmania",
+   "lat": 53.4058049,
+   "lon": -6.2608088,
+   "distKm": 6.2,
+   "address": "D09 VF58",
+   "tags": {
+    "phone": "+353 1 857 7780",
+    "website": "https://www.petmania.ie/",
+    "opening_hours": "Mo-We 09:30-18:00; Th-Fr 09:30-20:00; Sa 09:00-18:00; Su 11:00-18:00; PH 10:00-18:00",
+    "brand": "Petmania"
+   }
+  },
+  {
+   "id": "node/7727080581",
+   "name": "Petworld",
+   "lat": 53.2917767,
+   "lon": -6.2624807,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "brand": "Petworld"
+   }
+  },
+  {
+   "id": "node/4937329780",
+   "name": "Petstop",
+   "lat": 53.3021519,
+   "lon": -6.1798988,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 968 3229",
+    "website": "https://www.petstop.ie/",
+    "brand": "Petstop"
+   }
+  },
+  {
+   "id": "node/3730407316",
+   "name": "Petland",
+   "lat": 53.3005744,
+   "lon": -6.1767888,
+   "distKm": 7.8,
+   "address": "7 Temple Road, Blackrock, A94 E281",
+   "tags": {
+    "phone": "+353 1 288 0369",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/3353870095",
+   "name": "Positive Dog Training",
+   "lat": 53.2790994,
+   "lon": -6.2175135,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1364213461",
+   "name": "Maxi Zoo",
+   "lat": 53.2737979,
+   "lon": -6.2065776,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "way/900804786",
+   "name": "Petworld",
+   "lat": 53.2877709,
+   "lon": -6.354427,
+   "distKm": 9.3,
+   "address": "Lidl Business Park, Tallaght",
+   "tags": {
+    "brand": "Petworld"
+   }
+  },
+  {
+   "id": "way/1171432821",
+   "name": "Petstop",
+   "lat": 53.3906789,
+   "lon": -6.3854666,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "website": "https://www.petstop.ie/distributor/blanchardstown",
+    "opening_hours": "Mo-Sa 09:30-18:00; Su 13:00-18:00",
+    "brand": "Petstop"
+   }
+  },
+  {
+   "id": "node/3875282631",
+   "name": "Kinsealy Pet Store",
+   "lat": 53.4200347,
+   "lon": -6.1761783,
+   "distKm": 9.6,
+   "address": "Kinsealy",
+   "tags": {}
+  },
+  {
+   "id": "node/943662828",
+   "name": "Maxi Zoo",
+   "lat": 53.2931619,
+   "lon": -6.3715725,
+   "distKm": 9.7,
+   "address": "Belgard Road, Tallaght",
+   "tags": {
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/13409131488",
+   "name": "Maxi Zoo",
+   "lat": 53.3955061,
+   "lon": -6.3920394,
+   "distKm": 10.1,
+   "address": "Blanchardstown Retail Park, Blanchardstown",
+   "tags": {
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "way/662418246",
+   "name": "Just Cats Veterinary Clinic",
+   "lat": 53.3824527,
+   "lon": -6.4018134,
+   "distKm": 10.1,
+   "address": "Clonsilla Road",
+   "tags": {
+    "phone": "+353 1 822 7270"
+   }
+  },
+  {
+   "id": "node/9407869218",
+   "name": "Pet Republic",
+   "lat": 53.2926758,
+   "lon": -6.1385492,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 534 1560",
+    "website": "https://petrepublic.ie/",
+    "opening_hours": "Mo-Sa 09:30-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/983302035",
+   "name": "Maxi Zoo",
+   "lat": 53.2828356,
+   "lon": -6.3762187,
+   "distKm": 10.7,
+   "address": "Tallaght",
+   "tags": {
+    "website": "http://www.maxizoo.ie/tallaght.html",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/5584990928",
+   "name": "Happy Hound",
+   "lat": 53.3892263,
+   "lon": -6.1092958,
+   "distKm": 10.9,
+   "address": "Greenfield Road",
+   "tags": {}
+  },
+  {
+   "id": "node/6054833680",
+   "name": "Petstop",
+   "lat": 53.446456,
+   "lon": -6.2262769,
+   "distKm": 11,
+   "address": "Lakeshore Drive, Swords",
+   "tags": {
+    "brand": "Petstop"
+   }
+  },
+  {
+   "id": "node/1596106744",
+   "name": "Nature & Nurture Pet Store",
+   "lat": 53.2793902,
+   "lon": -6.135051,
+   "distKm": 11.4,
+   "address": "Unit 7 Glenageary Shopping Centre",
+   "tags": {
+    "phone": "+353 1 2013 910",
+    "website": "https://naturenurturepetstore.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/1074371703",
+   "name": "Petstop",
+   "lat": 53.2524751,
+   "lon": -6.1852415,
+   "distKm": 11.9,
+   "address": "210 Carrickmines Park",
+   "tags": {
+    "phone": "+353 1 294 0828",
+    "website": "https://www.petstop.ie/",
+    "opening_hours": "Mo 10:30-18:00; Tu 09:30-18:00; We 09:30-19:00; Th-Fr 09:30-21:00; Sa 09:30-18:00; Su 10:30-18:00",
+    "brand": "Petstop"
+   }
+  },
+  {
+   "id": "way/1370622750",
+   "name": "Pet Republic",
+   "lat": 53.4571315,
+   "lon": -6.220142,
+   "distKm": 12.2,
+   "address": "Foster Way",
+   "tags": {}
+  },
+  {
+   "id": "node/1278162485",
+   "name": "Aquatic Village",
+   "lat": 53.2371591,
+   "lon": -6.4559627,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 458 2522",
+    "website": "https://www.aquatic-village.com/"
+   }
+  },
+  {
+   "id": "way/1363635085",
+   "name": "Billy Davis",
+   "lat": 53.20922,
+   "lon": -6.1153816,
+   "distKm": 18.4,
+   "address": "Dublin Road, The Municipal District of Bray",
+   "tags": {}
+  },
+  {
+   "id": "node/13830876454",
+   "name": "Barks N Bubbles",
+   "lat": 53.2047209,
+   "lon": -6.1069268,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,423 @@
+{
+ "$schemaVersion": 1,
+ "city": "sao-paulo",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:40:02.278Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 42,
+ "places": [
+  {
+   "id": "node/11646834176",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5502104,
+   "lon": -46.6491443,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12723139850",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5646174,
+   "lon": -46.62906,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4870258585",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5728851,
+   "lon": -46.6328968,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11837431618",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5454799,
+   "lon": -46.6578626,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4831713146",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5829781,
+   "lon": -46.6532317,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/688813178",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5084264,
+   "lon": -46.6224005,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1430361684",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5263859,
+   "lon": -46.6731551,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1212887550",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5505487,
+   "lon": -46.6834749,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1430345521",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5190322,
+   "lon": -46.669235,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/11103910927",
+   "name": "Cachorródromo",
+   "lat": -23.5926393,
+   "lon": -46.6617458,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "dog": "designated"
+   }
+  },
+  {
+   "id": "way/1351960909",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5213339,
+   "lon": -46.6834539,
+   "distKm": 6.1,
+   "address": "Rua Paul Klee, São Paulo, 01139-003",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/12426316636",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5546628,
+   "lon": -46.7009252,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12426316634",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5529786,
+   "lon": -46.7034865,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6654314155",
+   "name": "Praça dos cachorros",
+   "lat": -23.4921209,
+   "lon": -46.6982224,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "website": "https://instagram.com/matilhadoo"
+   }
+  },
+  {
+   "id": "node/10923212010",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6237827,
+   "lon": -46.5802503,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1340886397",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.572421,
+   "lon": -46.732666,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10121877251",
+   "name": "Área pet da Praça Dácio de Morais Junior",
+   "lat": -23.635611,
+   "lon": -46.6787027,
+   "distKm": 10.5,
+   "address": "São Paulo",
+   "tags": {
+    "dog": "designated",
+    "access": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13626910230",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.5831927,
+   "lon": -46.7304215,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/426504788",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6262255,
+   "lon": -46.5669371,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10121877252",
+   "name": "Área pet do Parque do Cordeiro",
+   "lat": -23.6407588,
+   "lon": -46.6772621,
+   "distKm": 11,
+   "address": "São Paulo",
+   "tags": {
+    "dog": "designated",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1354296987",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6349888,
+   "lon": -46.5730275,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/10121877258",
+   "name": "Área pet Praça Hélio Smidt",
+   "lat": -23.6494046,
+   "lon": -46.6785507,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "designated",
+    "access": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13430613583",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6563985,
+   "lon": -46.6660455,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10943966543",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6410892,
+   "lon": -46.5641919,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469218759",
+   "name": "Pracinha de Cachorros",
+   "lat": -23.6309615,
+   "lon": -46.7185224,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "dog": "designated"
+   }
+  },
+  {
+   "id": "way/1176953996",
+   "name": "Universidade Maresca K9",
+   "lat": -23.6523706,
+   "lon": -46.6897815,
+   "distKm": 12.7,
+   "address": "155 Rua Vigário João de Pontes, São Paulo, 04748-000",
+   "tags": {
+    "website": "https://marescak9.com.br"
+   }
+  },
+  {
+   "id": "way/1189978165",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6590093,
+   "lon": -46.5957922,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10830620593",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6444932,
+   "lon": -46.5560572,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/669003269",
+   "name": "Cachorródromo",
+   "lat": -23.6585338,
+   "lon": -46.5790702,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/749754483",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6664836,
+   "lon": -46.5937103,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1060395328",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6364188,
+   "lon": -46.7276322,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/638017812",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6337845,
+   "lon": -46.733784,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1189975953",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6721454,
+   "lon": -46.5853146,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7146900581",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6490159,
+   "lon": -46.5350525,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11050017956",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6604375,
+   "lon": -46.5376236,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1025313030",
+   "name": "Parcão",
+   "lat": -23.6717208,
+   "lon": -46.7424671,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9499275552",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6981308,
+   "lon": -46.572021,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9740221911",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.7008644,
+   "lon": -46.5774488,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7681825982",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.7026295,
+   "lon": -46.5752574,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11050044708",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6733421,
+   "lon": -46.5119041,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1076991113",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.6195137,
+   "lon": -46.8067491,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/754148890",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -23.7071759,
+   "lon": -46.5412805,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

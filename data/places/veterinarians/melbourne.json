@@ -1,0 +1,643 @@
+{
+ "$schemaVersion": 1,
+ "city": "melbourne",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:40:36.898Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/224318303",
+   "name": "Lort Smith Animal Hospital",
+   "lat": -37.8000588,
+   "lon": 144.9531171,
+   "distKm": 1.7,
+   "address": "24-34 Villiers Street, VIC 3051",
+   "tags": {
+    "phone": "+61 3 9328 3021",
+    "website": "https://www.lortsmith.com/"
+   }
+  },
+  {
+   "id": "node/1480079490",
+   "name": "Johnston Street Veterinary Clinic",
+   "lat": -37.7989851,
+   "lon": 144.982033,
+   "distKm": 2.3,
+   "address": "206 Johnston Street",
+   "tags": {
+    "phone": "+61 3 9416 3788",
+    "website": "http://www.jsvc.com.au/"
+   }
+  },
+  {
+   "id": "node/599890343",
+   "name": "Carlton Veterinary Surgery",
+   "lat": -37.79093,
+   "lon": 144.971347,
+   "distKm": 2.6,
+   "address": "603 Rathdowne Street",
+   "tags": {
+    "phone": "+61 3 9347 1988"
+   }
+  },
+  {
+   "id": "way/231989412",
+   "name": "Centre for Animal Referral and Emergency",
+   "lat": -37.8041821,
+   "lon": 144.9916535,
+   "distKm": 2.7,
+   "address": "92-94 Islington Street, VIC 3066",
+   "tags": {
+    "phone": "+61 3 9417 6417",
+    "website": "https://melbournevetemergency.com.au/"
+   }
+  },
+  {
+   "id": "way/1409955429",
+   "name": "Melbourne Cat Vets",
+   "lat": -37.7950357,
+   "lon": 144.9843055,
+   "distKm": 2.8,
+   "address": "157 Westgarth Street, VIC 3065",
+   "tags": {
+    "phone": "+61 3 9416 4133",
+    "website": "https://www.melbournecatvets.com.au/"
+   }
+  },
+  {
+   "id": "way/1115392979",
+   "name": "Frank Samways Veterinary Clinic",
+   "lat": -37.7970366,
+   "lon": 144.9381599,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/845531067",
+   "name": "Albert Park Vet",
+   "lat": -37.842151,
+   "lon": 144.9532221,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/725034263",
+   "name": "Advanced Vetcare",
+   "lat": -37.7933068,
+   "lon": 144.9336519,
+   "distKm": 3.4,
+   "address": "26 Robertson Street, VIC 3031",
+   "tags": {
+    "phone": "+61 3 9092 0400",
+    "website": "https://advancedvetcare.com.au",
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/1747242609",
+   "name": "Port Melbourne Veterinary Clinic & Hospital",
+   "lat": -37.84077,
+   "lon": 144.940114,
+   "distKm": 3.6,
+   "address": "109 Bay Street, VIC 3207",
+   "tags": {
+    "website": "https://www.portmelbournevet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa,Su 09:00-17:00; PH 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/1258958206",
+   "name": "Fitzroy Veterinary Clinic & Animal Hospital",
+   "lat": -37.7829348,
+   "lon": 144.9827942,
+   "distKm": 3.8,
+   "address": "113 Scotchmer Street",
+   "tags": {
+    "phone": "+61 3 9489 2195",
+    "website": "https://fitzroyvet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "way/340048039",
+   "name": "Port Phillip Animal Hospital",
+   "lat": -37.8530295,
+   "lon": 144.9670663,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/532813148",
+   "name": "Village Vet",
+   "lat": -37.840336,
+   "lon": 145.003643,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "phone": "+61 3 9827 7500"
+   }
+  },
+  {
+   "id": "node/5554603122",
+   "name": "The Unusual Pet Vets",
+   "lat": -37.7807567,
+   "lon": 144.9320364,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1963993270",
+   "name": "Brunswick Central Vet",
+   "lat": -37.7718484,
+   "lon": 144.9717794,
+   "distKm": 4.7,
+   "address": "210 Lygon Street, 3057",
+   "tags": {
+    "phone": "+61 3 9381 4411",
+    "website": "https://brunswickcentralvet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/12201201732",
+   "name": "West Brunswick Veterinary Clinic",
+   "lat": -37.7694225,
+   "lon": 144.9427165,
+   "distKm": 5.2,
+   "address": "167-171 Dawson Street, VIC 3055",
+   "tags": {
+    "phone": "+61 3 9387 6166",
+    "website": "https://www.westbrunswickveterinaryclinic.com.au/",
+    "opening_hours": "Mo 08:00-17:30; Tu-Fr 08:00-17:00; Sa 08:30-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/12234504047",
+   "name": "Melbourne Feline Thyroid Centre",
+   "lat": -37.7639182,
+   "lon": 144.9628163,
+   "distKm": 5.5,
+   "address": "590 Sydney Road, VIC 3056",
+   "tags": {
+    "website": "https://melbournefelinethyroid.com.au/"
+   }
+  },
+  {
+   "id": "node/6744765533",
+   "name": "Northcote Animal Hospital",
+   "lat": -37.7705131,
+   "lon": 144.9986191,
+   "distKm": 5.7,
+   "address": "339 High Street",
+   "tags": {
+    "website": "https://www.northcotevet.com.au/"
+   }
+  },
+  {
+   "id": "node/2733610925",
+   "name": "Epsom Road Vet",
+   "lat": -37.7777984,
+   "lon": 144.9118308,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3036963235",
+   "name": "Yarraville Village Animal Hospital",
+   "lat": -37.817037,
+   "lon": 144.894056,
+   "distKm": 6.1,
+   "address": "110a",
+   "tags": {}
+  },
+  {
+   "id": "way/789151446",
+   "name": "St. Kilda Veterinary Clinic",
+   "lat": -37.8664228,
+   "lon": 144.9904471,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/956272301",
+   "name": "Seddon Vet Hospital",
+   "lat": -37.8046221,
+   "lon": 144.8919289,
+   "distKm": 6.3,
+   "address": "146 Victoria Street, VIC 3011",
+   "tags": {
+    "phone": "+61 3 9689 9333",
+    "website": "https://seddonvets.com.au/",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/1763782904",
+   "name": "Moonee Ponds Central Vet",
+   "lat": -37.7658263,
+   "lon": 144.9219049,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12418149666",
+   "name": "Ogawa Vet Clinic",
+   "lat": -37.756767,
+   "lon": 144.9747189,
+   "distKm": 6.4,
+   "address": "109 Holmes Street",
+   "tags": {
+    "website": "https://www.ogawavetclinic.com.au/"
+   }
+  },
+  {
+   "id": "way/617287484",
+   "name": "Thornbury Veterinary Hospital",
+   "lat": -37.7591613,
+   "lon": 145.0007627,
+   "distKm": 6.9,
+   "address": "670-672 High Street, VIC 3071",
+   "tags": {
+    "phone": "+61 3 9480 1333",
+    "website": "https://www.thornburyvet.com.au/"
+   }
+  },
+  {
+   "id": "node/13913659934",
+   "name": "Melbourne Veterinary Rehabilitation",
+   "lat": -37.8298142,
+   "lon": 144.8854755,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12996763981",
+   "name": "Heritage Veterinary Clinic",
+   "lat": -37.7479276,
+   "lon": 144.9655813,
+   "distKm": 7.3,
+   "address": "274-276 Sydney Road",
+   "tags": {}
+  },
+  {
+   "id": "node/2632039767",
+   "name": "Essendon Veterinary Clinic",
+   "lat": -37.7573095,
+   "lon": 144.9179279,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/13325467144",
+   "name": "Project Underdog Rescue",
+   "lat": -37.7460275,
+   "lon": 144.9659176,
+   "distKm": 7.5,
+   "address": "328 Sydney Road",
+   "tags": {}
+  },
+  {
+   "id": "way/1414212801",
+   "name": "Ripponlea Veterinary Hospital",
+   "lat": -37.8771097,
+   "lon": 144.9977609,
+   "distKm": 7.7,
+   "address": "82 Glen Eira Road, VIC 3185",
+   "tags": {}
+  },
+  {
+   "id": "node/11902490365",
+   "name": "Tooronga Veterinary Hospital",
+   "lat": -37.8442914,
+   "lon": 145.0448505,
+   "distKm": 7.9,
+   "address": "395 Tooronga Road, VIC 3123",
+   "tags": {
+    "phone": "+61 3 9000 9828",
+    "website": "https://www.toorongaveterinary.au/",
+    "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-17:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13751642501",
+   "name": "VetCall",
+   "lat": -37.7973709,
+   "lon": 144.8761283,
+   "distKm": 7.9,
+   "address": "569 Barkly Street",
+   "tags": {
+    "phone": "+61 3 9687 7711",
+    "website": "https://vetcall.net.au",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/11902490366",
+   "name": "Animal Energency Services",
+   "lat": -37.8442961,
+   "lon": 145.0449066,
+   "distKm": 8,
+   "address": "395 Tooronga Road, VIC 3123",
+   "tags": {
+    "phone": "+61 3 9000 6868",
+    "website": "https://animalemergencyservice.com.au/aes_location/animal-emergency-service-hawthorn-east/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/795567056",
+   "name": "Ivanhoe Veterinary Clinic",
+   "lat": -37.7707653,
+   "lon": 145.0405446,
+   "distKm": 8.3,
+   "address": "51 Upper Heidelberg Road",
+   "tags": {}
+  },
+  {
+   "id": "way/1175479152",
+   "name": "High Street Veterinary Clinic",
+   "lat": -37.7963876,
+   "lon": 145.05678,
+   "distKm": 8.4,
+   "address": "763 High Street, VIC 3102",
+   "tags": {
+    "phone": "+61 3 9859 7226",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
+   }
+  },
+  {
+   "id": "node/506983624",
+   "name": "West Footscray Veterinary Clinic",
+   "lat": -37.79653,
+   "lon": 144.8683606,
+   "distKm": 8.5,
+   "address": "689 Barkly Street",
+   "tags": {
+    "phone": "+61 3 9687 4542"
+   }
+  },
+  {
+   "id": "node/6031325565",
+   "name": "Balwyn Central Vet",
+   "lat": -37.8106006,
+   "lon": 145.0639955,
+   "distKm": 8.9,
+   "address": "35 Whitehorse Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4725201533",
+   "name": "Strathmore Veterinary Clinic",
+   "lat": -37.7345706,
+   "lon": 144.9190577,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2599158119",
+   "name": "Our Vet",
+   "lat": -37.741622,
+   "lon": 145.030136,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4989197462",
+   "name": "Bird & Exotic Animal Clinic",
+   "lat": -37.8540132,
+   "lon": 144.8568457,
+   "distKm": 10.4,
+   "address": "19 Ponting Street, 3016",
+   "tags": {
+    "website": "https://beacvet.com/",
+    "opening_hours": "Mo-Fr 08:30-18:00, Sa 09:00-16:00, Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/8558655785",
+   "name": "Pascoe Vale Veterinary Hospital",
+   "lat": -37.720778,
+   "lon": 144.9473922,
+   "distKm": 10.4,
+   "address": "Derby Street, VIC 3044",
+   "tags": {
+    "website": "https://www.pascoevalevet.com.au/"
+   }
+  },
+  {
+   "id": "node/1894128055",
+   "name": "Glen Iris Upper Clinic",
+   "lat": -37.8623355,
+   "lon": 145.0686396,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/631295217",
+   "name": "East Malvern Veterinary Clinic",
+   "lat": -37.8772054,
+   "lon": 145.0568942,
+   "distKm": 10.9,
+   "address": "266 Waverley Road",
+   "tags": {}
+  },
+  {
+   "id": "way/810351944",
+   "name": "Reservoir Vet Clinic",
+   "lat": -37.7196724,
+   "lon": 145.0050117,
+   "distKm": 11.1,
+   "address": "226 Spring Street, VIC 3073",
+   "tags": {
+    "phone": "+61 3 9471 0155",
+    "website": "https://reservoirvet.com.au/"
+   }
+  },
+  {
+   "id": "node/3006800183",
+   "name": "Melbourne Veterinary Specialist Centre",
+   "lat": -37.727425,
+   "lon": 144.8972708,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6031336580",
+   "name": "Vets on Balwyn",
+   "lat": -37.7867305,
+   "lon": 145.0861816,
+   "distKm": 11.2,
+   "address": "341 Balwyn Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/261981603",
+   "name": "Avondale Heights Veterinary Hospital",
+   "lat": -37.7528377,
+   "lon": 144.8609307,
+   "distKm": 11.2,
+   "address": "3034",
+   "tags": {}
+  },
+  {
+   "id": "way/1107961289",
+   "name": "Greencross Vets",
+   "lat": -37.7555548,
+   "lon": 145.0669745,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4060966856",
+   "name": "Heidelberg Veterinary Clinic",
+   "lat": -37.7430439,
+   "lon": 145.0560031,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/712437726",
+   "name": "Fawkner Veterinary Hospital",
+   "lat": -37.7118752,
+   "lon": 144.9622615,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5265627120",
+   "name": "Pet Emergency",
+   "lat": -37.8836052,
+   "lon": 145.0576401,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/286593081",
+   "name": "Niddrie Veterinary Clinic",
+   "lat": -37.7334303,
+   "lon": 144.8807317,
+   "distKm": 11.5,
+   "address": "577 Keilor Road, 3042",
+   "tags": {
+    "phone": "+61 3 9379 8913",
+    "website": "https://www.niddrievetclinic.com/"
+   }
+  },
+  {
+   "id": "node/11927462897",
+   "name": "Vet Skin and Ear",
+   "lat": -37.7095646,
+   "lon": 144.9506139,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/631587157",
+   "name": "Carnegie Veterianary Clinic",
+   "lat": -37.8864365,
+   "lon": 145.0570617,
+   "distKm": 11.6,
+   "address": "66 Rosstown Road",
+   "tags": {}
+  },
+  {
+   "id": "node/9622879882",
+   "name": "Vets on Koornang",
+   "lat": -37.9016081,
+   "lon": 145.0545691,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1709536310",
+   "name": "Ashburton (Greencross) Vet",
+   "lat": -37.8663869,
+   "lon": 145.0923008,
+   "distKm": 12.8,
+   "address": "428 Warrigal Road, 3147",
+   "tags": {
+    "website": "https://www.greencrossvets.com.au/"
+   }
+  },
+  {
+   "id": "way/1374096413",
+   "name": "Altona Veterinary Clinic",
+   "lat": -37.8668401,
+   "lon": 144.8303825,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7255148756",
+   "name": "Mont Albert Veterinary Surgery",
+   "lat": -37.8220217,
+   "lon": 145.1135285,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7255082847",
+   "name": "Elgar Road Veterinary Hospital",
+   "lat": -37.8040391,
+   "lon": 145.1176835,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/846630630",
+   "name": "Hampton Veterinary Clinic",
+   "lat": -37.9386791,
+   "lon": 145.0033925,
+   "distKm": 14.4,
+   "address": "6 Thomas Street",
+   "tags": {
+    "phone": "+61 3 9521 0211",
+    "website": "https://www.hamptonvet.com.au/"
+   }
+  },
+  {
+   "id": "node/12411993764",
+   "name": "The Broadmeadows vet",
+   "lat": -37.6860191,
+   "lon": 144.9274294,
+   "distKm": 14.5,
+   "address": "356 Camp Road",
+   "tags": {}
+  }
+ ]
+}

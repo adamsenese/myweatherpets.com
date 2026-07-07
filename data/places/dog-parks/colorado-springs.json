@@ -1,0 +1,234 @@
+{
+ "$schemaVersion": 1,
+ "city": "colorado-springs",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:29:41.883Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 23,
+ "places": [
+  {
+   "id": "way/1184248898",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8345382,
+   "lon": -104.8175021,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1283358491",
+   "name": "Antlers Dog Park",
+   "lat": 38.8341308,
+   "lon": -104.8271224,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/629145352",
+   "name": "Agility Course",
+   "lat": 38.8258654,
+   "lon": -104.8609138,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/433142260",
+   "name": "Bear Creek Dog Park",
+   "lat": 38.8264564,
+   "lon": -104.8616527,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/629145355",
+   "name": "Small Dog Area",
+   "lat": 38.8251688,
+   "lon": -104.8608233,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/977972870",
+   "name": "Pub Dog",
+   "lat": 38.840448,
+   "lon": -104.863358,
+   "distKm": 3.7,
+   "address": "2207 Bott Avenue, Colorado Springs, CO 80904",
+   "tags": {
+    "dog": "yes",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1281212096",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8038941,
+   "lon": -104.7880052,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12793584632",
+   "name": "All Breed Rescue & Training",
+   "lat": 38.8748871,
+   "lon": -104.8143125,
+   "distKm": 4.6,
+   "address": "410 East Fillmore Street, Colorado Springs, CO 80907",
+   "tags": {}
+  },
+  {
+   "id": "way/51064202",
+   "name": "Off Leash Dog Area",
+   "lat": 38.8520061,
+   "lon": -104.8817026,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "website": "https://redrockcanyonopenspace.org/recreation/trails/",
+    "opening_hours": "dawn,dusk"
+   }
+  },
+  {
+   "id": "way/662407764",
+   "name": "Dargen of the Dogs",
+   "lat": 38.8741608,
+   "lon": -104.869956,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/35743334",
+   "name": "Dog Park",
+   "lat": 38.8721978,
+   "lon": -104.763227,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/930254740",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8919883,
+   "lon": -104.8066857,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/305505024",
+   "name": "Dog Run Area",
+   "lat": 38.8837389,
+   "lon": -104.7761213,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1536099655",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8067889,
+   "lon": -104.7330538,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/977648479",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8995331,
+   "lon": -104.743388,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1008949205",
+   "name": "Garden of the Dogs",
+   "lat": 38.8246379,
+   "lon": -104.6938531,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/769442351",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8674631,
+   "lon": -104.6950198,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/217179626",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9519962,
+   "lon": -104.7749687,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1391220486",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9417363,
+   "lon": -104.7057814,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13064671519",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9173123,
+   "lon": -104.9846274,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1074657872",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9535793,
+   "lon": -104.6964222,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1209542633",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9311659,
+   "lon": -104.6631909,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1341664511",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9960626,
+   "lon": -104.8048984,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

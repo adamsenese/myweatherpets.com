@@ -1,0 +1,256 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-antonio",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:21:57.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 23,
+ "places": [
+  {
+   "id": "way/554762196",
+   "name": "Pet Shotz",
+   "lat": 29.462021,
+   "lon": -98.475676,
+   "distKm": 4.6,
+   "address": "210 Tuleta Drive, San Antonio, TX 78212",
+   "tags": {
+    "phone": "+1-210-735-1004",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/470892688",
+   "name": "Eagle Veterinary Hospital",
+   "lat": 29.4753315,
+   "lon": -98.4920695,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/717794492",
+   "name": "Alamo Dog & Cat Hospital",
+   "lat": 29.3665194,
+   "lon": -98.5047071,
+   "distKm": 6.5,
+   "address": "1619 Pleasanton Road, San Antonio, TX 78221",
+   "tags": {
+    "phone": "+1-210-922-1231",
+    "website": "https://alamodogandcat.com/"
+   }
+  },
+  {
+   "id": "way/1209888346",
+   "name": "San Antonio Wellness Spay and Neuter Clinic",
+   "lat": 29.3765884,
+   "lon": -98.5334817,
+   "distKm": 6.5,
+   "address": "4922 South Zarzamora Street, San Antonio, TX 78211",
+   "tags": {
+    "phone": "+1-210-864-3083",
+    "website": "https://www.saspayneuter.com/",
+    "opening_hours": "Mo-Fr 10:00-16:30"
+   }
+  },
+  {
+   "id": "way/674343826",
+   "name": "VCA Animal Hospital",
+   "lat": 29.4897854,
+   "lon": -98.5446982,
+   "distKm": 8.8,
+   "address": "6515 Interstate 10 West, San Antonio, TX 78201",
+   "tags": {}
+  },
+  {
+   "id": "way/637029529",
+   "name": "Zarzamora Veterinary Clinic",
+   "lat": 29.3393665,
+   "lon": -98.5336958,
+   "distKm": 10.2,
+   "address": "8606 South Zarzamora Street, San Antonio, TX 78224",
+   "tags": {}
+  },
+  {
+   "id": "way/712438383",
+   "name": "Oak Hills Animal Hospital",
+   "lat": 29.4904532,
+   "lon": -98.5674707,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13764752163",
+   "name": "Thrive Pet Healthcare Specialists",
+   "lat": 29.5181694,
+   "lon": -98.4557051,
+   "distKm": 11.1,
+   "address": "2426 Ceegee Lane, San Antonio, TX 78217",
+   "tags": {
+    "website": "https://www.thrivepetcare.com/locations/texas/san-antonio/emergency-pet-clinic-sa"
+   }
+  },
+  {
+   "id": "node/12469223620",
+   "name": "Loop 410 Veterinary Hospital",
+   "lat": 29.525913,
+   "lon": -98.438712,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/638839603",
+   "name": "Churchill Verterinary Hospital",
+   "lat": 29.5466929,
+   "lon": -98.5077807,
+   "distKm": 13.7,
+   "address": "11722 West Avenue, San Antonio",
+   "tags": {}
+  },
+  {
+   "id": "node/12117715501",
+   "name": "Covenant Care Animal Hospital, A Thrive Pet Healthcare Partner",
+   "lat": 29.4922127,
+   "lon": -98.6214152,
+   "distKm": 14.5,
+   "address": "6315 Grissom Road, 78238",
+   "tags": {
+    "phone": "+1-210-684-2273",
+    "website": "https://www.thrivepetcare.com/locations/texas/san-antonio/covenant-care-animal-hospital",
+    "opening_hours": "Mo-Fr 07:30-05:30; Sa 07:30-12:00"
+   }
+  },
+  {
+   "id": "way/460378829",
+   "name": "Leon Valley Veterinary Clinic",
+   "lat": 29.4958198,
+   "lon": -98.6186347,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/817959637",
+   "name": "VCA Animal Hospital",
+   "lat": 29.5406418,
+   "lon": -98.4200411,
+   "distKm": 14.8,
+   "address": "11214 Iota Drive, San Antonio, TX 78217",
+   "tags": {}
+  },
+  {
+   "id": "way/354962479",
+   "name": "Towne North Animal Hospital",
+   "lat": 29.5635781,
+   "lon": -98.4840097,
+   "distKm": 15.5,
+   "address": "13335 North US Highway 281, San Antonio, TX 78216",
+   "tags": {
+    "phone": "+1-210-343-1065",
+    "website": "http://www.townenorth.com/"
+   }
+  },
+  {
+   "id": "way/280162241",
+   "name": "St. Francis of Assisi Veterinary Medical Center",
+   "lat": 29.4467152,
+   "lon": -98.6558137,
+   "distKm": 15.9,
+   "address": "8615 Potranco Road, San Antonio, TX 78251",
+   "tags": {
+    "phone": "+1 210 509 8500",
+    "website": "https://www.stfrancisofassisivet.com/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/384929491",
+   "name": "VCA Castle Hills",
+   "lat": 29.5622749,
+   "lon": -98.537778,
+   "distKm": 15.9,
+   "address": "13141 Northwest Military Highway, San Antonio, 78231",
+   "tags": {
+    "phone": "+1-210-492-5519",
+    "website": "https://www.vcahospitals.com/castle-hills-companion",
+    "opening_hours": "Mo-Fr 7:00-18:00; Sa 8:00-13:00"
+   }
+  },
+  {
+   "id": "node/9407684701",
+   "name": "Great Northwest Animal Hospital",
+   "lat": 29.4806399,
+   "lon": -98.6586348,
+   "distKm": 17.2,
+   "address": "8843 Grissom Road, San Antonio, TX 78251",
+   "tags": {
+    "phone": "+1 210-681-4278",
+    "website": "https://www.gnwah.com/"
+   }
+  },
+  {
+   "id": "way/640535085",
+   "name": "Ellison Drive Animal Hospital",
+   "lat": 29.4187373,
+   "lon": -98.6776598,
+   "distKm": 17.8,
+   "address": "1424 South Ellison Drive, San Antonio, TX 78245",
+   "tags": {
+    "phone": "+1-210-670-8400",
+    "website": "https://ellisondrivevet.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "way/479588428",
+   "name": "Babcock Hills Veterinary Hospital",
+   "lat": 29.544218,
+   "lon": -98.6162902,
+   "distKm": 17.9,
+   "address": "6600 Prue Road, San Antonio, TX 78240",
+   "tags": {}
+  },
+  {
+   "id": "way/973340418",
+   "name": "O'Connor Road Animal Hospital",
+   "lat": 29.5499401,
+   "lon": -98.3736442,
+   "distKm": 18.2,
+   "address": "12014 Independence Avenue, San Antonio, TX 78233",
+   "tags": {}
+  },
+  {
+   "id": "way/682129393",
+   "name": "Alamo Feline Health Center",
+   "lat": 29.5893626,
+   "lon": -98.4749464,
+   "distKm": 18.5,
+   "address": "16201 San Pedro Avenue, San Antonio, TX 78232",
+   "tags": {}
+  },
+  {
+   "id": "way/988845368",
+   "name": "Animal Hospital of Westover Hills",
+   "lat": 29.4375042,
+   "lon": -98.6870196,
+   "distKm": 18.8,
+   "address": "9919 Westover Bluff, San Antonio, TX 78251",
+   "tags": {
+    "phone": "+1-210-680-5243"
+   }
+  },
+  {
+   "id": "node/991615140",
+   "name": "Town and Country Veterinary Hospital",
+   "lat": 29.5396945,
+   "lon": -98.6508359,
+   "distKm": 19.9,
+   "address": "10350 Bandera Road, 78250",
+   "tags": {
+    "website": "http://www.tcvethosp.com/"
+   }
+  }
+ ]
+}

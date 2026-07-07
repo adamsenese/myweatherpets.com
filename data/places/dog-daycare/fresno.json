@@ -1,0 +1,22 @@
+{
+ "$schemaVersion": 1,
+ "city": "fresno",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:36:07.752Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/6659788448",
+   "name": "Elaine's Pet Resorts",
+   "lat": 36.7888457,
+   "lon": -119.747029,
+   "distKm": 6.7,
+   "address": "3912 North Hayston Avenue, Fresno, CA 93726",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

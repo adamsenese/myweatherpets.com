@@ -1,0 +1,680 @@
+{
+ "$schemaVersion": 1,
+ "city": "montreal",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:39:20.745Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/420041495",
+   "name": "Pattes & Griffes",
+   "lat": 45.494253,
+   "lon": -73.5639897,
+   "distKm": 0.9,
+   "address": "1195 Rue Notre-Dame Ouest",
+   "tags": {
+    "website": "https://pattesgriffes.com",
+    "brand": "Pattes & Griffes"
+   }
+  },
+  {
+   "id": "node/8192210502",
+   "name": "Animalerie Pableen",
+   "lat": 45.4922411,
+   "lon": -73.561696,
+   "distKm": 1.2,
+   "address": "293 Rue de la Montagne, Montréal, H3C4K4",
+   "tags": {}
+  },
+  {
+   "id": "node/2422232765",
+   "name": "Doggy Style",
+   "lat": 45.5186433,
+   "lon": -73.5599284,
+   "distKm": 2,
+   "address": "1638 Rue Atateken, Montréal",
+   "tags": {
+    "phone": "+1-514-510-9033",
+    "website": "http://toilettagedoggystyle.com"
+   }
+  },
+  {
+   "id": "node/2498047304",
+   "name": "Animal Expert",
+   "lat": 45.5184949,
+   "lon": -73.5584424,
+   "distKm": 2,
+   "address": "1113 Boulevard de Maisonneuve Est",
+   "tags": {}
+  },
+  {
+   "id": "node/11265636118",
+   "name": "Too Zoo",
+   "lat": 45.5170881,
+   "lon": -73.580002,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7137669292",
+   "name": "Boutique Pawse",
+   "lat": 45.4823668,
+   "lon": -73.563186,
+   "distKm": 2.2,
+   "address": "1937 Rue Centre, Montréal, H3K 1J1",
+   "tags": {
+    "phone": "+1-514-800-9172",
+    "website": "https://boutique.pawse.ca",
+    "opening_hours": "Tu-Fr 10:00-18:00; Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/5951634485",
+   "name": "Animalerie Little Bear",
+   "lat": 45.4864196,
+   "lon": -73.5873155,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/12194438149",
+   "name": "Mondou",
+   "lat": 45.4819426,
+   "lon": -73.576597,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/12195217462",
+   "name": "Brandy's",
+   "lat": 45.5238823,
+   "lon": -73.5760722,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2503429172",
+   "name": "Global Pet Foods",
+   "lat": 45.5203588,
+   "lon": -73.5872366,
+   "distKm": 2.6,
+   "address": "4528 Boulevard Saint-Laurent, H2T 1R3",
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/12194393579",
+   "name": "Pattes & Griffes",
+   "lat": 45.4788499,
+   "lon": -73.5826439,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4505220317",
+   "name": "Mondou",
+   "lat": 45.5272296,
+   "lon": -73.5754991,
+   "distKm": 2.9,
+   "address": "4310 Rue De La Roche, Montréal, H2J 3H9",
+   "tags": {
+    "opening_hours": "Th-Fr 09:00-21:00; Mo-We 09:00-18:00; Su 10:00-17:00; Sa 09:00-17:00",
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/5816010694",
+   "name": "Mondou",
+   "lat": 45.5273299,
+   "lon": -73.5800262,
+   "distKm": 3,
+   "address": "967 Avenue du Mont-Royal Est",
+   "tags": {
+    "phone": "+1 514 521 9491",
+    "website": "https://www.mondou.com/en-CA/store-listing/mondou-de-quartier-mont-royal-2016.html",
+    "opening_hours": "Mo-We 09:00-19:00; Th-Fr 09:00-21:00; Sa-Su 09:00-17:00",
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/5969843285",
+   "name": "Pattes et Griffes",
+   "lat": 45.5252593,
+   "lon": -73.5860984,
+   "distKm": 3,
+   "address": "4810 Rue Saint-Denis",
+   "tags": {
+    "phone": "+1 514 282 9886",
+    "website": "https://pattesgriffes.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4360180833",
+   "name": "Animal Vert",
+   "lat": 45.5207779,
+   "lon": -73.5983958,
+   "distKm": 3.2,
+   "address": "5227 Avenue du Parc, Montréal, H2V 4G9",
+   "tags": {
+    "phone": "+1 438 385-4566",
+    "website": "https://animalvert.com/"
+   }
+  },
+  {
+   "id": "node/4462474163",
+   "name": "Animal Vert",
+   "lat": 45.530574,
+   "lon": -73.5662467,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5720825172",
+   "name": "Chico Boutique d'animaux",
+   "lat": 45.5346883,
+   "lon": -73.572676,
+   "distKm": 3.7,
+   "address": "2016 Avenue du Mont-Royal Est",
+   "tags": {
+    "opening_hours": "Mo-Tu 09:00-19:00;We-Fr 09:00-21:00;Sa 09:00-18:00;Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/5891726680",
+   "name": "Pattes & Griffes",
+   "lat": 45.5350631,
+   "lon": -73.5727726,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-21:00;Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/869701645",
+   "name": "Mondou",
+   "lat": 45.5391378,
+   "lon": -73.5603255,
+   "distKm": 4.2,
+   "address": "2793 Rue Sherbrooke Est, Montréal, H2K 1G9",
+   "tags": {
+    "phone": "+1-514-522-1312",
+    "website": "https://www.mondou.com/fr-CA/trouver-un-magasin/s-mondou-rue-sherbrooke-hochelaga/2042",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr, Sa 09:00-17:00; Su 11:00-17:00",
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/2496678402",
+   "name": "Chico",
+   "lat": 45.4645232,
+   "lon": -73.5669891,
+   "distKm": 4.2,
+   "address": "3929 Rue Wellington",
+   "tags": {
+    "phone": "+1 514 767 8455",
+    "website": "https://www.chico.ca/boutique/chico-rue-wellington-verdun/",
+    "opening_hours": "Mo-We 09:30-19:00; Th-Fr 09:30-21:00; Sa-Su 09:30-17:00"
+   }
+  },
+  {
+   "id": "way/708128355",
+   "name": "Gare Gamelle",
+   "lat": 45.5335819,
+   "lon": -73.5969429,
+   "distKm": 4.2,
+   "address": "5829 Rue Saint-Hubert, Montréal, H2S 2L8",
+   "tags": {
+    "phone": "+1-514-419-5037"
+   }
+  },
+  {
+   "id": "node/11379653535",
+   "name": "Mondou",
+   "lat": 45.4629148,
+   "lon": -73.5679763,
+   "distKm": 4.3,
+   "address": "311 Rue de l'Église, Montréal",
+   "tags": {
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/2496703524",
+   "name": "Global Pet Foods",
+   "lat": 45.4626578,
+   "lon": -73.5668783,
+   "distKm": 4.4,
+   "address": "4100 Rue Wellington",
+   "tags": {
+    "phone": "+1 514 732 0555",
+    "website": "https://globalpetfoods.com/store-locations/s/?st=245",
+    "opening_hours": "Mo-We 09:30-18:30; Th-Fr 09:30-21:00; Sa 09:00-17:00; Su 10:00-17:00",
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/10137768287",
+   "name": "Pattes et griffes",
+   "lat": 45.5368017,
+   "lon": -73.6025968,
+   "distKm": 4.8,
+   "address": "919 Rue Beaubien Est, Montréal",
+   "tags": {
+    "phone": "+1 514 277 8429",
+    "website": "https://pattesgriffes.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa, Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/1302746249",
+   "name": "coquetterie canine et féline",
+   "lat": 45.5433475,
+   "lon": -73.5896163,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2495358375",
+   "name": "Pattes et Griffes",
+   "lat": 45.4576965,
+   "lon": -73.5673223,
+   "distKm": 4.9,
+   "address": "4702 Rue Wellington, Verdun, H4G 1X3",
+   "tags": {
+    "phone": "+1 514 762 0934",
+    "website": "https://pattesgriffes.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/6625164721",
+   "name": "Mondou",
+   "lat": 45.5213493,
+   "lon": -73.6233952,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/12121216074",
+   "name": "L'Espace Perroquet",
+   "lat": 45.4576312,
+   "lon": -73.5716767,
+   "distKm": 4.9,
+   "address": "4742 Rue de Verdun",
+   "tags": {
+    "phone": "+1 514 768 2777",
+    "website": "https://theparrot.space/",
+    "opening_hours": "We-Fr 12:00-20:00; Sa-Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/5111361117",
+   "name": "Zamidoux",
+   "lat": 45.5447751,
+   "lon": -73.5451814,
+   "distKm": 5.1,
+   "address": "3555 Rue Ontario Est, Montréal, H1W 1R6",
+   "tags": {
+    "phone": "+1-514-259-6983",
+    "opening_hours": "Mo 10:00-16:00; Tu,We,Fr,Sa 09:30-16:00; Th 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/12118910496",
+   "name": "Pattes & Griffes",
+   "lat": 45.5472242,
+   "lon": -73.5755604,
+   "distKm": 5.1,
+   "address": "2815 Rue Masson",
+   "tags": {
+    "phone": "+1 5143032428",
+    "website": "https://pattesgriffes.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/5029434763",
+   "name": "Pattes & Griffes",
+   "lat": 45.5480439,
+   "lon": -73.5508829,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/9281960413",
+   "name": "Pitou Minou & Compagnons",
+   "lat": 45.4829944,
+   "lon": -73.6293747,
+   "distKm": 5.3,
+   "address": "5326-5328 Chemin Queen Mary, Montréal, H3X 1T7",
+   "tags": {}
+  },
+  {
+   "id": "node/11018636678",
+   "name": "Chico",
+   "lat": 45.5494937,
+   "lon": -73.5738782,
+   "distKm": 5.3,
+   "address": "3126 Rue Masson",
+   "tags": {
+    "phone": "+1 5147501127",
+    "website": "https://www.chico.ca/",
+    "opening_hours": "Mo-We 10:00-18:00; Th,Fr 10:00-21:00; Sa 09:30-17:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/7133620893",
+   "name": "Mondou",
+   "lat": 45.5355319,
+   "lon": -73.616781,
+   "distKm": 5.4,
+   "address": "90 Rue Jean-Talon Est, Montréal",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa, Su 09:00-17:00",
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/12082167902",
+   "name": "Pattes & Griffes",
+   "lat": 45.5467197,
+   "lon": -73.593705,
+   "distKm": 5.4,
+   "address": "2227 Rue Beaubien Est",
+   "tags": {
+    "phone": "+1 514 728 7954",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/12507233330",
+   "name": "Mondou",
+   "lat": 45.47837,
+   "lon": -73.6280038,
+   "distKm": 5.4,
+   "address": "5580 Chemin de la Côte-Saint-Luc, Montréal, H3W 2E2",
+   "tags": {
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/5111490829",
+   "name": "Chico",
+   "lat": 45.5484373,
+   "lon": -73.5427712,
+   "distKm": 5.5,
+   "address": "3911 Rue Ontario Est, Montréal, H1W 1S7",
+   "tags": {
+    "phone": "+15145271371",
+    "website": "https://www.chico.ca/boutique/chico-rue-hochelaga-montreal/",
+    "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/12223554955",
+   "name": "L'univers des reptiles",
+   "lat": 45.5476737,
+   "lon": -73.6024779,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "phone": "+1 514 593 5538",
+    "opening_hours": "Mo-We 10:00-18:00; Th,Fr 10:00-21:00; Sa,Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2503408995",
+   "name": "JazZoo",
+   "lat": 45.5505212,
+   "lon": -73.5344349,
+   "distKm": 6,
+   "address": "4281 Rue Sainte-Catherine Est, Montréal, H1V 1X7",
+   "tags": {
+    "phone": "+1 514 525 6473",
+    "website": "https://jazzoo.ca/",
+    "opening_hours": "Mo 12:00-18:00; Tu-We 10:00-18:00; Th 10:00-20:00; Fr 12:00-20:00; Sa 10:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/11018711819",
+   "name": "Heidi & Cie",
+   "lat": 45.5555933,
+   "lon": -73.5704583,
+   "distKm": 6,
+   "address": "3764 Rue Masson",
+   "tags": {
+    "opening_hours": "Mo-We 10:00-18:00; Th,Fr 10:00-20:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/812681592",
+   "name": "Aquarius Tropical Fish",
+   "lat": 45.5523972,
+   "lon": -73.6033797,
+   "distKm": 6.3,
+   "address": "2347 Rue Jean-Talon Est",
+   "tags": {
+    "website": "https://www.aquariusweb.qc.ca/",
+    "opening_hours": "Tu,We 10:00-18:00; Th,Fr 10:00-19:00; Sa,Su 10:00-17:00; Mo off"
+   }
+  },
+  {
+   "id": "node/11161462139",
+   "name": "Chico",
+   "lat": 45.5542771,
+   "lon": -73.5971791,
+   "distKm": 6.3,
+   "address": "2637 Rue Bélanger",
+   "tags": {
+    "phone": "+1 514 360 3473",
+    "website": "https://www.chico.ca/boutique/chico-rosemont/",
+    "opening_hours": "Mo-We 09:30-18:00; Th-Fr 09:30-21:00; Sa 09:00-17:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/11963604539",
+   "name": "Animaux en Ligne",
+   "lat": 45.4993167,
+   "lon": -73.4860484,
+   "distKm": 6.3,
+   "address": "2909 Boulevard Taschereau",
+   "tags": {}
+  },
+  {
+   "id": "node/4362145152",
+   "name": "Pattes et Griffes",
+   "lat": 45.5454734,
+   "lon": -73.6269415,
+   "distKm": 6.7,
+   "address": "708 Rue Jarry Est, Montréal, H2P 1V9",
+   "tags": {
+    "website": "http://www.croqueenbol.ca/"
+   }
+  },
+  {
+   "id": "way/755422202",
+   "name": "Aquanimo",
+   "lat": 45.5279256,
+   "lon": -73.48284,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12242507599",
+   "name": "Animal Expert",
+   "lat": 45.4922602,
+   "lon": -73.4753085,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/717186418",
+   "name": "Animalerie Tropicazoo",
+   "lat": 45.5286957,
+   "lon": -73.4790163,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11826525484",
+   "name": "Animal Expert",
+   "lat": 45.5679473,
+   "lon": -73.5906955,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12239978079",
+   "name": "Chico",
+   "lat": 45.4860711,
+   "lon": -73.4697634,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11162228561",
+   "name": "Boutique Sur 4 Pattes",
+   "lat": 45.5732014,
+   "lon": -73.5702447,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12132803572",
+   "name": "Mondou",
+   "lat": 45.5237138,
+   "lon": -73.4686311,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/12232775777",
+   "name": "Boutique d'animaux Chico",
+   "lat": 45.5339646,
+   "lon": -73.6656593,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1305786372",
+   "name": "Centre d'Animaux Safari",
+   "lat": 45.4700748,
+   "lon": -73.4673282,
+   "distKm": 8.6,
+   "address": "6633A Boulevard Taschereau, Brossard, J4Z 1A7",
+   "tags": {
+    "website": "https://safaripetcenter.com/"
+   }
+  },
+  {
+   "id": "node/12132962786",
+   "name": "Global Pet Foods",
+   "lat": 45.5198313,
+   "lon": -73.459532,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "way/929415240",
+   "name": "Mondou",
+   "lat": 45.4356535,
+   "lon": -73.6271793,
+   "distKm": 8.7,
+   "address": "8001 Boulevard Newman, H8N 2N9",
+   "tags": {
+    "phone": "+1 514-595-5160",
+    "website": "https://www.mondou.com/en-CA/home",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/11747011474",
+   "name": "Mondou",
+   "lat": 45.5804177,
+   "lon": -73.5437867,
+   "distKm": 8.9,
+   "address": "6390 Rue Sherbrooke Est, h1n3p6",
+   "tags": {
+    "phone": "+1-514-251-2646",
+    "website": "https://www.mondou.com/fr-CA/trouver-un-magasin/mondou-rue-sherbrooke-2026.html",
+    "opening_hours": "Mo-We 09:00-18:00; Th-Fr 09:00-21:00; Sa-Su 09:00-17:00",
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/10054968239",
+   "name": "Nature Pet Store",
+   "lat": 45.4330054,
+   "lon": -73.6286862,
+   "distKm": 9,
+   "address": "Boulevard Newman, H8N 1X9",
+   "tags": {}
+  },
+  {
+   "id": "node/7433945762",
+   "name": "Mondou",
+   "lat": 45.5537009,
+   "lon": -73.6619635,
+   "distKm": 9.4,
+   "address": "10315 Rue Lajeunesse, Montréal, H3L 2E4",
+   "tags": {
+    "brand": "Mondou"
+   }
+  },
+  {
+   "id": "node/7433945748",
+   "name": "Global Pet Foods",
+   "lat": 45.5537509,
+   "lon": -73.6640718,
+   "distKm": 9.5,
+   "address": "10410 Rue Lajeunesse, Montréal, H3L 2E5",
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/12150636114",
+   "name": "Aza Aquarium",
+   "lat": 45.4516433,
+   "lon": -73.4683448,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

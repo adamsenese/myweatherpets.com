@@ -1,0 +1,58 @@
+{
+ "$schemaVersion": 1,
+ "city": "indianapolis",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:25:43.102Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/1188308653",
+   "name": "Downtown Doggie",
+   "lat": 39.7718235,
+   "lon": -86.1409083,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/387380036",
+   "name": "Good Dog Hotel & Spa",
+   "lat": 39.8503007,
+   "lon": -86.1411772,
+   "distKm": 9.2,
+   "address": "5345 Winthrop Avenue, Indianapolis, IN 46220",
+   "tags": {
+    "website": "https://www.gooddoghotel.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10301491379",
+   "name": "Dogtopia",
+   "lat": 39.8682591,
+   "lon": -86.1239854,
+   "distKm": 11.5,
+   "address": "2221 Broad Ripple Avenue, Indianapolis, IN 46220",
+   "tags": {
+    "phone": "+1-463-777-9588",
+    "website": "https://www.dogtopia.com/indianapolis-broad-ripple/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4968693767",
+   "name": "Fetch Dog Resort",
+   "lat": 39.9264498,
+   "lon": -86.2345305,
+   "distKm": 18.7,
+   "address": "4340 West 96th Street, Indianapolis, IN 46268",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "$schemaVersion": 1,
+ "city": "st-louis",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:32:21.847Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "way/978801973",
+   "name": "Good Dog Enrichment & Training",
+   "lat": 38.5997472,
+   "lon": -90.2467847,
+   "distKm": 5.1,
+   "address": "4001 Wyoming Street, Saint Louis, MO 63116",
+   "tags": {
+    "website": "https://www.gooddogstl.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-14:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/854406752",
+   "name": "No Leash Needed",
+   "lat": 38.6109645,
+   "lon": -90.2884897,
+   "distKm": 7.9,
+   "address": "2649 Hampton Avenue, Saint Louis, MO 63139",
+   "tags": {
+    "phone": "+13142705600",
+    "website": "https://www.noleashneeded.com/locations/st-louis-city",
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa-Su 09:00-16:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7885565047",
+   "name": "Love Unleashed",
+   "lat": 38.6006146,
+   "lon": -90.3001344,
+   "distKm": 9.2,
+   "address": "3425 Watson Road, Saint Louis, MO 63139",
+   "tags": {
+    "phone": "+13146968888",
+    "website": "https://www.loveunleashedstl.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

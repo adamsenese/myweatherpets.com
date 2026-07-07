@@ -1,0 +1,91 @@
+{
+ "$schemaVersion": 1,
+ "city": "savannah",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:35:34.271Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/12401299142",
+   "name": "Whitemarsh Animal Care",
+   "lat": 32.0434808,
+   "lon": -81.0041685,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12416714440",
+   "name": "Companion Animal Hospital",
+   "lat": 32.0649352,
+   "lon": -81.2054258,
+   "distKm": 10.9,
+   "address": "1452 Dean Forest Road",
+   "tags": {}
+  },
+  {
+   "id": "way/1018780362",
+   "name": "Southside Vetenarian Clinic",
+   "lat": 31.985087,
+   "lon": -81.132849,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12410526319",
+   "name": "Urgent Pet Care",
+   "lat": 31.9800242,
+   "lon": -81.1415204,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/449717626",
+   "name": "Island Veterinary Clinic",
+   "lat": 32.0168041,
+   "lon": -80.9791035,
+   "distKm": 12.7,
+   "address": "416 Johnny Mercer Boulevard, Savannah, GA 31410",
+   "tags": {
+    "phone": "+19128971121",
+    "website": "https://islandvetclinic.com/"
+   }
+  },
+  {
+   "id": "way/347714708",
+   "name": "Wilmington Island Animal Hospital",
+   "lat": 32.0320436,
+   "lon": -80.9668089,
+   "distKm": 12.9,
+   "address": "7802 US-80, Savannah, GA 31410",
+   "tags": {
+    "website": "https://wiahga.com/",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/638242186",
+   "name": "Animal Hospital at Rice Hope",
+   "lat": 32.2096008,
+   "lon": -81.2000685,
+   "distKm": 17.6,
+   "address": "7512 Augusta Road, Port Wentworth, GA",
+   "tags": {
+    "phone": "+1-912-965-0330"
+   }
+  },
+  {
+   "id": "way/348656616",
+   "name": "Pooler Vet",
+   "lat": 32.1309213,
+   "lon": -81.2910966,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

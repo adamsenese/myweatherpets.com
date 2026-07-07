@@ -1,0 +1,708 @@
+{
+ "$schemaVersion": 1,
+ "city": "portland",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:27:32.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/368336022",
+   "name": "Portland Animal Clinic",
+   "lat": 45.5187556,
+   "lon": -122.6920478,
+   "distKm": 1.1,
+   "address": "1755 Southwest Madison Street, Portland, OR 97205",
+   "tags": {
+    "phone": "+1-503-228-5256",
+    "website": "https://www.portlandanimalclinic.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/6334500985",
+   "name": "Pearl Animal Hospital",
+   "lat": 45.5321277,
+   "lon": -122.6812659,
+   "distKm": 1.9,
+   "address": "1250 Northwest 10th Avenue, Portland, OR 97209",
+   "tags": {
+    "phone": "+1-503-954-3393",
+    "website": "https://pearlanimalhospital.com/",
+    "opening_hours": "Mo 08:00-20:00; Tu-Fr 08:00-18:00; Sa,Su 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/13309324662",
+   "name": "Buckman Veterinary Clinic",
+   "lat": 45.5174592,
+   "lon": -122.6544331,
+   "distKm": 1.9,
+   "address": "720 Southeast 11th Avenue, Portland, OR 97214",
+   "tags": {
+    "phone": "+1 503 205 1480",
+    "website": "https://buckmanvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/204613578",
+   "name": "Dove Lewis Animal Hospital",
+   "lat": 45.5330509,
+   "lon": -122.6913029,
+   "distKm": 2.2,
+   "address": "1945 Northwest Pettygrove Street, Portland, 97209",
+   "tags": {
+    "website": "https://www.dovelewis.org/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/368063675",
+   "name": "Rose City Veterinary Hospital",
+   "lat": 45.5017668,
+   "lon": -122.6575055,
+   "distKm": 2.2,
+   "address": "809 Southeast Powell Boulevard, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-232-3105",
+    "website": "https://rosecityvet.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/326643249",
+   "name": "Best Friends Veterinary Medical Center",
+   "lat": 45.4910683,
+   "lon": -122.6764754,
+   "distKm": 2.7,
+   "address": "123 South Hamilton Street, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-892-6387",
+    "website": "https://bfvmc.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; We 08:00-19:00"
+   }
+  },
+  {
+   "id": "way/309492264",
+   "name": "Hawthorne Veterinary Clinic",
+   "lat": 45.512401,
+   "lon": -122.6427768,
+   "distKm": 2.8,
+   "address": "1431 Southeast 23rd Avenue, Portland, OR 97214",
+   "tags": {
+    "website": "https://www.hawthornevet.com/"
+   }
+  },
+  {
+   "id": "way/327627148",
+   "name": "Feral Cat Coalition of Oregon",
+   "lat": 45.4904811,
+   "lon": -122.6768854,
+   "distKm": 2.8,
+   "address": "4522 South Water Avenue, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-797-2606",
+    "website": "https://www.feralcats.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/5148923480",
+   "name": "Heartfelt Veterinary Hospital",
+   "lat": 45.5351934,
+   "lon": -122.654155,
+   "distKm": 2.9,
+   "address": "1127 Northeast Broadway, Portland, OR 97232",
+   "tags": {
+    "phone": "+1-503 7651210",
+    "website": "https://heartfeltvet.com"
+   }
+  },
+  {
+   "id": "node/883492222",
+   "name": "Northwest Neighborhood",
+   "lat": 45.535082,
+   "lon": -122.706526,
+   "distKm": 3.1,
+   "address": "2680 Northwest Thurman Street, Portland, OR 97210",
+   "tags": {}
+  },
+  {
+   "id": "way/107524687",
+   "name": "Pet Samaritan Clinic",
+   "lat": 45.523086,
+   "lon": -122.6400419,
+   "distKm": 3.1,
+   "address": "2519 East Burnside Street, Portland, OR 97214",
+   "tags": {
+    "website": "https://www.petsam.com/"
+   }
+  },
+  {
+   "id": "node/7693011874",
+   "name": "Brooklyn Yard Veterinary Hospital",
+   "lat": 45.4901635,
+   "lon": -122.6525181,
+   "distKm": 3.4,
+   "address": "1280 Southeast Holgate Boulevard, Portland, OR 97202",
+   "tags": {}
+  },
+  {
+   "id": "way/39273644",
+   "name": "Banfield Pet Hospital",
+   "lat": 45.5346399,
+   "lon": -122.6452963,
+   "distKm": 3.4,
+   "address": "1615 Northeast 21st Avenue, Portland, OR 97232",
+   "tags": {}
+  },
+  {
+   "id": "way/367678464",
+   "name": "Broadway Veterinary Clinic",
+   "lat": 45.5352524,
+   "lon": -122.641797,
+   "distKm": 3.6,
+   "address": "2315 Northeast Broadway, Portland, OR 97232",
+   "tags": {
+    "phone": "+1-503-282-0380",
+    "website": "https://www.broadwayvetpdx.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/480969134",
+   "name": "VCA Laurelhurst Animal Hospital",
+   "lat": 45.5302686,
+   "lon": -122.6350982,
+   "distKm": 3.8,
+   "address": "2935-2945 Northeast Sandy Boulevard, Portland, 97232",
+   "tags": {}
+  },
+  {
+   "id": "way/367201969",
+   "name": "Two Rivers Veterinary Clinic",
+   "lat": 45.5506258,
+   "lon": -122.6662484,
+   "distKm": 4.1,
+   "address": "3808 North Williams Avenue, Portland, OR 97227",
+   "tags": {
+    "website": "https://www.tworiversvet.com/"
+   }
+  },
+  {
+   "id": "way/426968523",
+   "name": "City Pets Vet",
+   "lat": 45.50495,
+   "lon": -122.6280829,
+   "distKm": 4.1,
+   "address": "3521 Southeast Division Street, Portland, OR 97202",
+   "tags": {
+    "website": "https://citypetsvet.net/"
+   }
+  },
+  {
+   "id": "node/6284843432",
+   "name": "Riverbend",
+   "lat": 45.5350218,
+   "lon": -122.6314107,
+   "distKm": 4.3,
+   "address": "3258 Northeast Broadway, Portland, OR 97212",
+   "tags": {
+    "opening_hours": "Mo-Fr 20:00-10:00"
+   }
+  },
+  {
+   "id": "way/289684243",
+   "name": "Hillsdale Veterinary Hospital",
+   "lat": 45.4787183,
+   "lon": -122.6957867,
+   "distKm": 4.3,
+   "address": "6359 Southwest Capitol Highway, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-246-4660",
+    "website": "https://hillsdalevet.com/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 08:30-17:00"
+   }
+  },
+  {
+   "id": "way/409632706",
+   "name": "Irvington Veterinary",
+   "lat": 45.5485664,
+   "lon": -122.651363,
+   "distKm": 4.3,
+   "address": "1427 Northeast Fremont Street, Portland, OR 97212",
+   "tags": {
+    "website": "https://www.irvingtonveterinary.com/"
+   }
+  },
+  {
+   "id": "way/367938778",
+   "name": "Powell Boulevard Veterinary Clinic",
+   "lat": 45.4969275,
+   "lon": -122.6250805,
+   "distKm": 4.6,
+   "address": "3654 Southeast Powell Boulevard, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-236-1834",
+    "website": "http://www.powellvet.com/",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:30-18:00; Su 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/13168120635",
+   "name": "Mt.Tabor Veterinary Care",
+   "lat": 45.5164347,
+   "lon": -122.6186764,
+   "distKm": 4.7,
+   "address": "4246 Southeast Belmont Street, Portland, 97215",
+   "tags": {
+    "website": "https://mttaborvetcare.com/",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-18:00; We 09:00-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/295935935",
+   "name": "West Hills Animal Clinic",
+   "lat": 45.4859521,
+   "lon": -122.7216021,
+   "distKm": 4.7,
+   "address": "4325 Southwest Beaverton Hillsdale Highway, Portland, OR 97221",
+   "tags": {
+    "phone": "+1-503-246-3321",
+    "website": "http://westhillsanimalclinic.com/"
+   }
+  },
+  {
+   "id": "way/295958879",
+   "name": "Animal Aid",
+   "lat": 45.4849399,
+   "lon": -122.7205089,
+   "distKm": 4.7,
+   "address": "5335 Southwest 42nd Avenue, Portland, OR 97221",
+   "tags": {
+    "phone": "+1-503-292-6628",
+    "website": "https://www.animalaidpdx.org/"
+   }
+  },
+  {
+   "id": "way/367897873",
+   "name": "Banfield Pet Hospital",
+   "lat": 45.4776595,
+   "lon": -122.6495739,
+   "distKm": 4.7,
+   "address": "6207 Southeast Milwaukie Avenue, Portland, OR 97202",
+   "tags": {
+    "website": "https://www.banfield.com/locations/veterinarians/or/portland/aaf",
+    "opening_hours": "Fr-Tu 08:00-18:00, We-Th 07:00-18:00"
+   }
+  },
+  {
+   "id": "way/292905517",
+   "name": "Banfield Pet Hospital",
+   "lat": 45.4715176,
+   "lon": -122.6871158,
+   "distKm": 4.9,
+   "address": "7461 Southwest Barbur Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-246-4091",
+    "website": "https://www.banfield.com/locations/veterinarians/or/portland/bge",
+    "opening_hours": "08:00-19:00"
+   }
+  },
+  {
+   "id": "way/367897399",
+   "name": "Powell Veterinary",
+   "lat": 45.476789,
+   "lon": -122.6488649,
+   "distKm": 4.9,
+   "address": "6330 Southeast Milwaukie Avenue, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-971-279-2681",
+    "website": "http://www.powellvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Tu 09:00-19:00; Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/10944673808",
+   "name": "BluePearl Pet Hospital Northeast Portland",
+   "lat": 45.5375011,
+   "lon": -122.6196307,
+   "distKm": 5.2,
+   "address": "4225 Northeast Tillamook Street, Portland, OR 97213",
+   "tags": {
+    "phone": "+1 503-501-2375",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/367479713",
+   "name": "Overlook Veterinary Hospital",
+   "lat": 45.5628523,
+   "lon": -122.6877953,
+   "distKm": 5.3,
+   "address": "2009 North Killingsworth Street, Portland, OR 97217",
+   "tags": {
+    "phone": "+1-503-283-0753",
+    "website": "http://www.overlookvet.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; We off; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/428139555",
+   "name": "Moreland Veterinary Hospital",
+   "lat": 45.4721689,
+   "lon": -122.6488401,
+   "distKm": 5.3,
+   "address": "7201 Southeast Milwaukie Avenue, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-239-9972",
+    "website": "https://morelandveterinaryhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Tu,Th 08:00-19:30; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/13730682001",
+   "name": "Heart and Soul",
+   "lat": 45.5629797,
+   "lon": -122.6622538,
+   "distKm": 5.5,
+   "address": "315 Northeast Killingsworth Street",
+   "tags": {
+    "phone": "+1-503-749-9400",
+    "website": "https://pdxheartandsoul.com/",
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/289415583",
+   "name": "Gabriel Park Veterinary Clinic",
+   "lat": 45.4770424,
+   "lon": -122.7226549,
+   "distKm": 5.5,
+   "address": "4421 Southwest Vermont Street, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-245-7275",
+    "website": "https://gabrielparkvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "way/412054636",
+   "name": "Alberta Veterinary Care",
+   "lat": 45.559375,
+   "lon": -122.6469327,
+   "distKm": 5.5,
+   "address": "1737 Northeast Alberta Street, Portland, OR 97211",
+   "tags": {
+    "website": "https://albertaveterinarycare.com/"
+   }
+  },
+  {
+   "id": "way/307848636",
+   "name": "OREV",
+   "lat": 45.4690041,
+   "lon": -122.7106706,
+   "distKm": 5.7,
+   "address": "7637 Southwest 33rd Avenue, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-477-7122",
+    "website": "https://oregonexpertvets.com/",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/287412104",
+   "name": "Burlingame Veterinary Clinic",
+   "lat": 45.4632538,
+   "lon": -122.6852848,
+   "distKm": 5.8,
+   "address": "8511 Southwest Terwilliger Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-977-2637",
+    "website": "https://burlingamevet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/367743752",
+   "name": "Forest Heights Veterinary Clinic",
+   "lat": 45.5168272,
+   "lon": -122.752624,
+   "distKm": 5.8,
+   "address": "7365 Southwest Barnes Road, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-503-291-1757",
+    "website": "https://www.forestheightsvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/290626809",
+   "name": "Cat and Dog Hospital",
+   "lat": 45.4647566,
+   "lon": -122.6533198,
+   "distKm": 5.9,
+   "address": "8065 Southeast 13th Avenue, Portland, OR 97202",
+   "tags": {}
+  },
+  {
+   "id": "way/550744527",
+   "name": "Banfield Pet Hospital",
+   "lat": 45.5152221,
+   "lon": -122.7549814,
+   "distKm": 6,
+   "address": "7535 Southwest Barnes Road, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-503-203-0018",
+    "website": "https://www.banfield.com/locations/veterinarians/or/portland/who",
+    "opening_hours": "Mo-Sa 07:00-19:00; Su 08:00-19:00"
+   }
+  },
+  {
+   "id": "way/367517290",
+   "name": "Animal Dermatology Clinic",
+   "lat": 45.4863919,
+   "lon": -122.7493618,
+   "distKm": 6.4,
+   "address": "7023 Southwest Beaverton Hillsdale Highway, Portland, OR 97225",
+   "tags": {
+    "opening_hours": "Tu 09:00-17:00; We 12:00-18:00; Th 09:00-15:00; Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/459634022",
+   "name": "Woodstock Animal Hospital",
+   "lat": 45.4795018,
+   "lon": -122.6127374,
+   "distKm": 6.5,
+   "address": "4835 Southeast Woodstock Boulevard, Portland, OR 97206",
+   "tags": {
+    "phone": "+1-503-775-1519",
+    "website": "https://www.vcahospitals.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/300547754",
+   "name": "Back on Track",
+   "lat": 45.4599212,
+   "lon": -122.7087621,
+   "distKm": 6.6,
+   "address": "9045 Southwest Barbur Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-546-8995",
+    "website": "http://www.backontrackvetrehab.com/"
+   }
+  },
+  {
+   "id": "way/415634506",
+   "name": "Healing Arts Animal Care",
+   "lat": 45.4844264,
+   "lon": -122.7573058,
+   "distKm": 7,
+   "address": "4945 Southwest 77th Avenue, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-971-703-3303",
+    "website": "https://healingartsanimalcare.com/"
+   }
+  },
+  {
+   "id": "way/415634519",
+   "name": "Raleigh Hills Animal Hospital",
+   "lat": 45.4846198,
+   "lon": -122.7573095,
+   "distKm": 7,
+   "address": "4905 Southwest 77th Avenue, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-503-292-9227",
+    "website": "https://www.vcahospitals.com/",
+    "opening_hours": "Mo-We 07:00-22:00; Th,Fr 07:00-20:00; Sa,Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/3058673735",
+   "name": "Lombard Animal Hospital",
+   "lat": 45.577425,
+   "lon": -122.659121,
+   "distKm": 7.1,
+   "address": "607 Northeast Lombard Street, Portland, OR 97211",
+   "tags": {}
+  },
+  {
+   "id": "node/10589483871",
+   "name": "Viva Pet Care",
+   "lat": 45.5263145,
+   "lon": -122.5887211,
+   "distKm": 7.1,
+   "address": "7202b Northeast Glisan Street, Portland, OR 97213",
+   "tags": {}
+  },
+  {
+   "id": "way/337137298",
+   "name": "Pacific Veterinary Hospital",
+   "lat": 45.4556245,
+   "lon": -122.7178001,
+   "distKm": 7.3,
+   "address": "9715 Southwest Barbur Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-246-3373",
+    "website": "https://www.pacificveterinaryhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/11471777273",
+   "name": "Community Veterinary Hospital",
+   "lat": 45.5787956,
+   "lon": -122.6513296,
+   "distKm": 7.4,
+   "address": "7865 Northeast 14th Place, Portland, OR 97211",
+   "tags": {}
+  },
+  {
+   "id": "node/10853374494",
+   "name": "Peninsula Pet Clinic",
+   "lat": 45.582827,
+   "lon": -122.6824506,
+   "distKm": 7.5,
+   "address": "8260 North Interstate Avenue, Portland, OR 97217",
+   "tags": {}
+  },
+  {
+   "id": "node/3722402133",
+   "name": "Roseway Veterinary Hospital",
+   "lat": 45.5471227,
+   "lon": -122.5917022,
+   "distKm": 7.6,
+   "address": "6920 Northeast Sandy Boulevard, Portland, OR 97213",
+   "tags": {
+    "phone": "+1-503-360-9695",
+    "website": "https://rosewayvet.com/"
+   }
+  },
+  {
+   "id": "node/3724010082",
+   "name": "Sadie Veterinary Urgent Care",
+   "lat": 45.5192507,
+   "lon": -122.5806563,
+   "distKm": 7.6,
+   "address": "8037 Southeast Stark Street, Portland, 97215",
+   "tags": {
+    "website": "https://www.sadievetpdx.com/"
+   }
+  },
+  {
+   "id": "node/6242781644",
+   "name": "Oregon Veterinary Specialty Hospital",
+   "lat": 45.4868654,
+   "lon": -122.7733404,
+   "distKm": 8,
+   "address": "9339 Southwest Beaverton Hillsdale Highway",
+   "tags": {}
+  },
+  {
+   "id": "node/6243006359",
+   "name": "Laurelwood Animal Hospital",
+   "lat": 45.4869255,
+   "lon": -122.7730544,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3721188635",
+   "name": "Portland Animal Welfare (PAW) Team",
+   "lat": 45.5351808,
+   "lon": -122.5787363,
+   "distKm": 8.1,
+   "address": "1718 Northeast 82nd Avenue, Portland, OR 97220",
+   "tags": {
+    "phone": "+1-503-206-6033",
+    "website": "https://www.pawteam.org/"
+   }
+  },
+  {
+   "id": "way/325842916",
+   "name": "Veterinary Surgical Center of Portland",
+   "lat": 45.5090713,
+   "lon": -122.7817546,
+   "distKm": 8.1,
+   "address": "10245 Southwest Park Way, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-503-292-0931",
+    "website": "http://vscpdx.com/",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/368698209",
+   "name": "Veterinary Cancer & Surgery Specialists",
+   "lat": 45.4474092,
+   "lon": -122.6413944,
+   "distKm": 8.1,
+   "address": "10400 Southeast Main Street, Milwaukie, OR 97222",
+   "tags": {
+    "phone": "+1 503-908-1492",
+    "opening_hours": "Mo-Th 08:00-17:30; Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/855309016",
+   "name": "Banfield Pet Hospital",
+   "lat": 45.535954,
+   "lon": -122.578385,
+   "distKm": 8.1,
+   "address": "1816 Northeast 82nd Avenue, Portland, 97220",
+   "tags": {}
+  },
+  {
+   "id": "way/331412649",
+   "name": "Accent on Cats",
+   "lat": 45.4861169,
+   "lon": -122.7762949,
+   "distKm": 8.3,
+   "address": "9660 Southwest Beaverton Hillsdale Highway, Beaverton, OR 97005",
+   "tags": {
+    "phone": "+1-503-643-7104",
+    "website": "http://www.thecatclinic.org/",
+    "opening_hours": "Mo-Fr 07:30-17:30; Th 07:30-13:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/344543107",
+   "name": "Barbur Boulevard Veterinary Hospital",
+   "lat": 45.4484729,
+   "lon": -122.7292156,
+   "distKm": 8.4,
+   "address": "10629 Southwest Barbur Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-246-4226",
+    "website": "https://barburvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+   }
+  },
+  {
+   "id": "way/453658330",
+   "name": "Beaverton Pet Clinic",
+   "lat": 45.4861175,
+   "lon": -122.7794536,
+   "distKm": 8.5,
+   "address": "9970 Southwest Beaverton Hillsdale Highway, Beaverton, OR 97005",
+   "tags": {
+    "phone": "+1-503-646-6101",
+    "website": "https://beavertonpetclinic.com/"
+   }
+  },
+  {
+   "id": "way/855294614",
+   "name": "Portland Veterinary Wellness Center",
+   "lat": 45.5471725,
+   "lon": -122.5791055,
+   "distKm": 8.5,
+   "address": "3345 Northeast 82nd Avenue, Portland",
+   "tags": {}
+  }
+ ]
+}

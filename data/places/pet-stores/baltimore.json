@@ -1,0 +1,483 @@
+{
+ "$schemaVersion": 1,
+ "city": "baltimore",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:28:23.484Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 38,
+ "places": [
+  {
+   "id": "node/10796180619",
+   "name": "Unleashed",
+   "lat": 39.2766594,
+   "lon": -76.6124578,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/10797724448",
+   "name": "Howl McHenry Row",
+   "lat": 39.2684891,
+   "lon": -76.599789,
+   "distKm": 2.7,
+   "address": "1719 Whetstone Way, 21211",
+   "tags": {
+    "phone": "+1-443-438-7240",
+    "website": "https://www.howlinhampden.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/2984229318",
+   "name": "Dogma",
+   "lat": 39.2780494,
+   "lon": -76.56644,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/670983888",
+   "name": "Petco",
+   "lat": 39.2754832,
+   "lon": -76.562707,
+   "distKm": 4.6,
+   "address": "3969 Boston Street, Baltimore, MD 21224",
+   "tags": {
+    "phone": "+1 410-951-7601",
+    "website": "https://stores.petco.com/md/baltimore/pet-supplies-baltimore-md-3828.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/336397086",
+   "name": "Howl",
+   "lat": 39.3305601,
+   "lon": -76.6290466,
+   "distKm": 4.7,
+   "address": "3531 Chestnut Avenue, Baltimore, MD 21211",
+   "tags": {
+    "website": "https://howlinhampden.com",
+    "opening_hours": "Mo-Fr 10:00-19:00;Sa 10:00-18:00;Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/3232220412",
+   "name": "Prince Benji Dog Grooming",
+   "lat": 39.3371612,
+   "lon": -76.6337768,
+   "distKm": 5.5,
+   "address": "1007 West 41st Street",
+   "tags": {}
+  },
+  {
+   "id": "node/2706984672",
+   "name": "Medfield Dog Walkers",
+   "lat": 39.3429072,
+   "lon": -76.646003,
+   "distKm": 6.5,
+   "address": "4404 Falls Bridge Drive, Baltimore, MD 21211",
+   "tags": {
+    "website": "https://www.medfielddogwalkers.com/"
+   }
+  },
+  {
+   "id": "node/3033306395",
+   "name": "Petco",
+   "lat": 39.2500728,
+   "lon": -76.6670192,
+   "distKm": 6.5,
+   "address": "3591 Washington Boulevard, Halethorpe, MD 21227",
+   "tags": {
+    "phone": "+1 410-247-0491",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2100774055",
+   "name": "Petco",
+   "lat": 39.3726335,
+   "lon": -76.6087467,
+   "distKm": 9.1,
+   "address": "6325 York Road, Baltimore, MD 21212-2359",
+   "tags": {
+    "phone": "+1 410-830-2125",
+    "website": "https://stores.petco.com/md/baltimore/pet-supplies-baltimore-md-2819.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3539734911",
+   "name": "The Groomery",
+   "lat": 39.3670619,
+   "lon": -76.6526023,
+   "distKm": 9.2,
+   "address": "1617 Sulgrave Avenue, Baltimore, 21209",
+   "tags": {}
+  },
+  {
+   "id": "node/663063974",
+   "name": "Loyal Companion",
+   "lat": 39.3685061,
+   "lon": -76.6502652,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12115123472",
+   "name": "Howl Pet Supplies",
+   "lat": 39.3685877,
+   "lon": -76.6502682,
+   "distKm": 9.3,
+   "address": "1340 Forge Avenue",
+   "tags": {
+    "phone": "+1 443-438-7106"
+   }
+  },
+  {
+   "id": "node/3031063693",
+   "name": "PetSmart",
+   "lat": 39.2738758,
+   "lon": -76.5015568,
+   "distKm": 9.7,
+   "address": "1559 Merritt Boulevard, Dundalk, MD 21222",
+   "tags": {
+    "phone": "+1 410-285-6302",
+    "website": "https://www.petsmart.com/stores/us/md/dundalk-store0369.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/421698794",
+   "name": "PetSmart",
+   "lat": 39.1986357,
+   "lon": -76.5998289,
+   "distKm": 10.3,
+   "address": "597 East Ordnance Road, Glen Burnie, MD 21060",
+   "tags": {
+    "phone": "+1 410-582-9444",
+    "website": "https://www.petsmart.com/stores/us/md/glen-burnie-store0360.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/868542531",
+   "name": "Petco",
+   "lat": 39.1952203,
+   "lon": -76.6099423,
+   "distKm": 10.6,
+   "address": "6631 Ritchie Highway, Glen Burnie, MD 21061",
+   "tags": {
+    "phone": "+1 410-863-1401",
+    "website": "https://stores.petco.com/md/glenburnie/pet-supplies-glenburnie-md-2724.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3029994752",
+   "name": "Petco",
+   "lat": 39.3717613,
+   "lon": -76.5430792,
+   "distKm": 10.8,
+   "address": "7615 Harford Road, Parkville, MD 21234-6401",
+   "tags": {
+    "phone": "+1 410-444-4345",
+    "website": "https://stores.petco.com/md/parkville/pet-supplies-parkville-md-2887.html",
+    "opening_hours": "Su 10:00-19:00; Mo-Sa 09:00-21:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9518280892",
+   "name": "Petco",
+   "lat": 39.3564113,
+   "lon": -76.7048221,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9084229602",
+   "name": "PetSmart",
+   "lat": 39.3938925,
+   "lon": -76.5816633,
+   "distKm": 11.8,
+   "address": "1238 Putty Hill Avenue, Loch Raven, MD 21286",
+   "tags": {
+    "phone": "+1 410-823-4593",
+    "website": "https://www.petsmart.com/stores/us/md/towson-store0357.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6135413247",
+   "name": "Petco",
+   "lat": 39.3348608,
+   "lon": -76.4863389,
+   "distKm": 11.9,
+   "address": "8640 Pulaski Highway, Rosedale, MD 21237",
+   "tags": {
+    "phone": "+1 410-686-4037",
+    "website": "https://stores.petco.com/md/baltimore/pet-supplies-baltimore-md-1754.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11002553405",
+   "name": "Pet Supplies Plus",
+   "lat": 39.3732434,
+   "lon": -76.5080834,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1620264777",
+   "name": "PetSmart",
+   "lat": 39.2836332,
+   "lon": -76.761851,
+   "distKm": 12.9,
+   "address": "6501 Baltimore National Pike, Catonsville, MD 21228",
+   "tags": {
+    "phone": "+1 410-747-8570",
+    "website": "https://www.petsmart.com/stores/us/md/catonsville-store0367.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2367490788",
+   "name": "House of Tropicals",
+   "lat": 39.172156,
+   "lon": -76.631085,
+   "distKm": 13.2,
+   "address": "7389 Baltimore Annapolis Boulevard, Glen Burnie, MD 21061",
+   "tags": {
+    "phone": "+1-410-761-1113",
+    "website": "https://houseoftropicals.net/"
+   }
+  },
+  {
+   "id": "way/83922476",
+   "name": "Petco",
+   "lat": 39.4284641,
+   "lon": -76.618992,
+   "distKm": 15.4,
+   "address": "1719 York Road, Lutherville, MD 21093",
+   "tags": {
+    "phone": "+1 410-453-9131",
+    "website": "https://stores.petco.com/md/lutherville/pet-supplies-lutherville-md-940.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4774741057",
+   "name": "My Pet Store and More",
+   "lat": 39.4307511,
+   "lon": -76.6230509,
+   "distKm": 15.6,
+   "address": "18 West Ridgely Road, Lutherville, MD 21093",
+   "tags": {
+    "phone": "+1 443-991-5113",
+    "website": "https://www.mypetstoreandmore.com",
+    "opening_hours": "Mo-Sa 10:00-20:00, Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/4765414102",
+   "name": "Petco",
+   "lat": 39.3678055,
+   "lon": -76.4534506,
+   "distKm": 16.1,
+   "address": "5263 Campbell Boulevard, Nottingham, MD 21236",
+   "tags": {
+    "phone": "+1 410-513-0223",
+    "website": "https://stores.petco.com/md/nottingham/pet-supplies-nottingham-md-3813.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/380901529",
+   "name": "PetSmart",
+   "lat": 39.3584472,
+   "lon": -76.4448906,
+   "distKm": 16.3,
+   "address": "9921 Pulaski Highway, Middle River, MD 21220",
+   "tags": {
+    "phone": "+1 410-687-6101",
+    "website": "https://www.petsmart.com/stores/us/md/baltimore-store0362.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9382442588",
+   "name": "Clipper’s Canine Cafe",
+   "lat": 39.2684228,
+   "lon": -76.8008686,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-410-465-3200",
+    "website": "https://www.clipperscaninecafe.com",
+    "opening_hours": "Mo-Th 11:00-18:00; Fr-Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/1819407811",
+   "name": "PetSmart",
+   "lat": 39.4385874,
+   "lon": -76.6284453,
+   "distKm": 16.5,
+   "address": "57 West Aylesbury Road, Lutherville-Timonium, MD 21093",
+   "tags": {
+    "phone": "+1 410-308-1140",
+    "website": "https://www.petsmart.com/stores/us/md/lutherville-store1482.html",
+    "opening_hours": "Mo-Sa 09:00-21:00;Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4731087748",
+   "name": "PetSmart",
+   "lat": 39.1366969,
+   "lon": -76.5955734,
+   "distKm": 17.2,
+   "address": "24 Mountain Road, Glen Burnie, MD 21060",
+   "tags": {
+    "phone": "+1 410-766-7190",
+    "website": "https://www.petsmart.com/stores/us/md/glen-burnie-store0365.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3019377825",
+   "name": "CTE Aquatics",
+   "lat": 39.4523927,
+   "lon": -76.6373325,
+   "distKm": 18.1,
+   "address": "9562 Deereco Road, Lutherville, MD 21093",
+   "tags": {
+    "phone": "+1 410 561 3474",
+    "website": "https://www.cteaquatics.com/"
+   }
+  },
+  {
+   "id": "node/3019373253",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.4547669,
+   "lon": -76.6365622,
+   "distKm": 18.4,
+   "address": "2438 Broad Avenue, Lutherville, MD 21093",
+   "tags": {}
+  },
+  {
+   "id": "way/319959334",
+   "name": "PetSmart",
+   "lat": 39.1517037,
+   "lon": -76.7287577,
+   "distKm": 18.4,
+   "address": "7663 Arundel Mills Boulevard, Hanover, MD 21076",
+   "tags": {
+    "phone": "+1 443-755-9936",
+    "website": "https://www.petsmart.com/stores/us/md/hanover-store1076.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7559308179",
+   "name": "Pet Supplies Plus",
+   "lat": 39.1247773,
+   "lon": -76.5913823,
+   "distKm": 18.5,
+   "address": "8048 Ritchie Highway, Pasadena, MD 21122",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/481231699",
+   "name": "PetSmart",
+   "lat": 39.2801783,
+   "lon": -76.8306362,
+   "distKm": 18.8,
+   "address": "9200 Baltimore National Pike, Ellicott City, MD 21042",
+   "tags": {
+    "phone": "+1 410-696-1296",
+    "website": "https://www.petsmart.com/stores/us/md/ellicott-city-store2781.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3023403072",
+   "name": "Pet Valu",
+   "lat": 39.4046901,
+   "lon": -76.4430462,
+   "distKm": 19.3,
+   "address": "5007 Honeygo Center Drive, Perry Hall, MD 21128",
+   "tags": {}
+  },
+  {
+   "id": "node/3527175934",
+   "name": "My Pet Store and More",
+   "lat": 39.2772956,
+   "lon": -76.8383607,
+   "distKm": 19.5,
+   "address": "9469 Baltimore National Pike, Ellicott City, MD 21042",
+   "tags": {
+    "phone": "+1-410-465-0594",
+    "website": "https://www.mypetstoreandmore.com/",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "way/724188501",
+   "name": "PetSmart",
+   "lat": 39.4046971,
+   "lon": -76.789183,
+   "distKm": 19.8,
+   "address": "10240 Mill Run Circle, Owings Mills, MD 21117",
+   "tags": {
+    "phone": "+1 410-413-4087",
+    "website": "https://www.petsmart.com/stores/us/md/owings-mills-store3231.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1689072520",
+   "name": "Petco",
+   "lat": 39.200369,
+   "lon": -76.81204,
+   "distKm": 19.9,
+   "address": "6181 Old Dobbin Lane, Columbia, MD 21045-5885",
+   "tags": {
+    "phone": "+1 410-290-1313",
+    "website": "https://stores.petco.com/md/columbia/pet-supplies-columbia-md-1762.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

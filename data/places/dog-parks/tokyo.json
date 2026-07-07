@@ -1,0 +1,241 @@
+{
+ "$schemaVersion": 1,
+ "city": "tokyo",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:23:18.961Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 24,
+ "places": [
+  {
+   "id": "way/680802488",
+   "name": "代々木公園ドッグラン",
+   "lat": 35.6729215,
+   "lon": 139.694123,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/470871317",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.7132966,
+   "lon": 139.6933473,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/680734183",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.7151926,
+   "lon": 139.6793476,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2356706340",
+   "name": "Green dog",
+   "lat": 35.649463,
+   "lon": 139.700499,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2356706362",
+   "name": "Dog Garden",
+   "lat": 35.649494,
+   "lon": 139.700219,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/993050157",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.6661723,
+   "lon": 139.7359331,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/993050155",
+   "name": "Dog Run",
+   "lat": 35.6680571,
+   "lon": 139.7384824,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/689116876",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.7561374,
+   "lon": 139.6759868,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "surface": "dirt/sand",
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/646382600",
+   "name": "ドッグラン",
+   "lat": 35.6239875,
+   "lon": 139.6641798,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/328326164",
+   "name": "ドッグラン",
+   "lat": 35.6622,
+   "lon": 139.6127459,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11374672982",
+   "name": "豊洲ぐるりドッグラン",
+   "lat": 35.6406312,
+   "lon": 139.7781408,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2558150633",
+   "name": "ペットパーキング",
+   "lat": 35.779432,
+   "lon": 139.725263,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/683394371",
+   "name": "ドッグラン",
+   "lat": 35.6719667,
+   "lon": 139.8084068,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/332865004",
+   "name": "たつみの森ドッグラン",
+   "lat": 35.648254,
+   "lon": 139.8170466,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/46705600",
+   "name": "しおさいドッグラン",
+   "lat": 35.588888,
+   "lon": 139.7516948,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/165401791",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.6714976,
+   "lon": 139.5527419,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/59277422",
+   "name": "武蔵川公園 ドッグラン",
+   "lat": 35.7062947,
+   "lon": 139.5378224,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/332873955",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.7979586,
+   "lon": 139.7696325,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1118926821",
+   "name": "つばさドッグラン",
+   "lat": 35.5837208,
+   "lon": 139.7817922,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1225559805",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.8096334,
+   "lon": 139.6098048,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/53440899",
+   "name": "ドッグラン",
+   "lat": 35.716157,
+   "lon": 139.5235416,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/873316510",
+   "name": "ワンコパーク",
+   "lat": 35.5610173,
+   "lon": 139.5680469,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1325579407",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.5272887,
+   "lon": 139.7123929,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/119014523",
+   "name": "ドッグラン",
+   "lat": 35.7913525,
+   "lon": 139.8694883,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

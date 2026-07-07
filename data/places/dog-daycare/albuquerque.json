@@ -1,0 +1,47 @@
+{
+ "$schemaVersion": 1,
+ "city": "albuquerque",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:28:37.522Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/13807606683",
+   "name": "Dogtopia",
+   "lat": 35.1205626,
+   "lon": -106.7037364,
+   "distKm": 6.3,
+   "address": "3301 Coors Boulevard Northwest, Albuquerque, NM 87120",
+   "tags": {
+    "phone": "+1-505-365-1512",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa 10:00-17:00; Su 10:00-14:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1411980701",
+   "name": "Corrales Kennel",
+   "lat": 35.2317504,
+   "lon": -106.6023268,
+   "distKm": 17,
+   "address": "490 East Valverde Road, Corrales, NM 87048",
+   "tags": {
+    "opening_hours": "Mo-We 8:00-18:00,Th 8:00-12:00, Fr-Sa 8:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/390343859",
+   "name": "Happy Tails Kennel",
+   "lat": 35.0606592,
+   "lon": -106.4626364,
+   "distKm": 17.3,
+   "address": "1 Silverhills Lane Southeast, Albuquerque, NM 87123",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

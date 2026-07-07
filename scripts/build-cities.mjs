@@ -8,6 +8,27 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
+// Optional: pet place finder cross-links (present once fetch-places has run)
+let PLACES_MANIFEST = null, TOOL_CATS = null;
+try {
+  PLACES_MANIFEST = JSON.parse(readFileSync('data/places/manifest.json', 'utf8'));
+  TOOL_CATS = (await import('./tools/categories.mjs')).CATEGORIES;
+} catch { /* tools not built yet */ }
+
+function toolLinks(c) {
+  if (!PLACES_MANIFEST || !TOOL_CATS) return '';
+  const m = PLACES_MANIFEST.cities[c.slug];
+  if (!m) return '';
+  const links = Object.entries(TOOL_CATS)
+    .filter(([k, conf]) => conf.ship && (m.counts?.[k] ?? 0) >= conf.minResults)
+    .map(([k, conf]) => `<a href="/tools/${k}/${c.slug}/">${conf.label} in ${c.name}</a>`);
+  if (!links.length) return '';
+  return `<div class="cw-block">
+        <h2>Local pet spots in ${c.name}</h2>
+        <p class="cw-tool-links">${links.join(' &middot; ')} &middot; <a href="/tools/">All finders</a></p>
+      </div>`;
+}
+
 const ROOT = process.cwd();
 const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
 const ANIMATED_PETS = new Set(['jeter','maple','tonka','hugh','frenchy','jumper','guinness','milo']);
@@ -165,6 +186,7 @@ for (const c of cities) {
     FAQ_HTML: faqHtml(c),
     JSONLD: jsonld(c),
     MORE_CITIES_HTML: moreCities(c),
+    TOOL_LINKS_HTML: toolLinks(c),
     DATE_ISO: today,
   };
   let html = cityTpl;

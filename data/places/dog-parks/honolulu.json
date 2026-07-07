@@ -1,0 +1,125 @@
+{
+ "$schemaVersion": 1,
+ "city": "honolulu",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:31:46.873Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 11,
+ "places": [
+  {
+   "id": "way/1414511998",
+   "name": "Maryknoll Dog Park",
+   "lat": 21.3003183,
+   "lon": -157.8318604,
+   "distKm": 2.8,
+   "address": "1704 Clark Street St, Honolulu, HI 96822",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/446834317",
+   "name": "Ala Wai Dog Park",
+   "lat": 21.2834571,
+   "lon": -157.8260125,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "node/4168465134",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 21.3121299,
+   "lon": -157.8080848,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/446832401",
+   "name": "Diamond Head Bark Park",
+   "lat": 21.2671753,
+   "lon": -157.7988279,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/468579201",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 21.3457298,
+   "lon": -157.9206959,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1535298094",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 21.3592459,
+   "lon": -157.9106832,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1494117788",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 21.3536739,
+   "lon": -157.9347535,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1408923600",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 21.3377863,
+   "lon": -157.9504384,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1476404204",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 21.3699688,
+   "lon": -157.9564097,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/531341847",
+   "name": "Hawai’i Kai Dog Park",
+   "lat": 21.2840851,
+   "lon": -157.7148537,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1121961802",
+   "name": "Hoalauna Dog Park",
+   "lat": 21.3311759,
+   "lon": -158.0173332,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

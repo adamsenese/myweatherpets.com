@@ -1,0 +1,60 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-orleans",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:31:15.382Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "way/329151874",
+   "name": "The Dog House",
+   "lat": 29.9632507,
+   "lon": -90.0908484,
+   "distKm": 2.3,
+   "address": "2736 Banks Street, New Orleans, LA 70119",
+   "tags": {
+    "website": "https://doghousenola.com/"
+   }
+  },
+  {
+   "id": "way/231243096",
+   "name": "City Bark Dog Park",
+   "lat": 29.9952256,
+   "lon": -90.096559,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/801945561",
+   "name": "Pontiff Dog Park",
+   "lat": 29.9829548,
+   "lon": -90.1364994,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1500260198",
+   "name": "Bark Park",
+   "lat": 30.0013749,
+   "lon": -90.2086281,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/20337824",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.8017097,
+   "lon": -90.0958236,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

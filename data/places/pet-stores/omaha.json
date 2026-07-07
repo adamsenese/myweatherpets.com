@@ -1,0 +1,234 @@
+{
+ "$schemaVersion": 1,
+ "city": "omaha",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:30:14.794Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/5470122353",
+   "name": "Long Dog Fat Cat",
+   "lat": 41.2574998,
+   "lon": -95.9605644,
+   "distKm": 2.2,
+   "address": "3201 Farnam Street, Omaha, NE 68131",
+   "tags": {}
+  },
+  {
+   "id": "way/192574020",
+   "name": "Best Friends Pet Palace",
+   "lat": 41.2617118,
+   "lon": -95.8871642,
+   "distKm": 4,
+   "address": "2705 West Broadway, Council Bluffs, IA 51501",
+   "tags": {}
+  },
+  {
+   "id": "way/192392742",
+   "name": "Petco",
+   "lat": 41.2286613,
+   "lon": -95.8757905,
+   "distKm": 5.8,
+   "address": "3271 Marketplace Drive, Council Bluffs, IA 51501",
+   "tags": {
+    "phone": "+1 712-366-2913",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7539421696",
+   "name": "empire aquatics",
+   "lat": 41.2364033,
+   "lon": -96.0063652,
+   "distKm": 6.4,
+   "address": "6102 Arbor Street, Omaha, NE 68106",
+   "tags": {
+    "phone": "+1-877-727-7550",
+    "website": "empireaquatics.com"
+   }
+  },
+  {
+   "id": "node/1967876142",
+   "name": "PetSmart",
+   "lat": 41.2538917,
+   "lon": -96.0225234,
+   "distKm": 7.4,
+   "address": "715 South 72nd Street, Omaha, NE 68114",
+   "tags": {
+    "phone": "+1 402-393-3225",
+    "website": "https://www.petsmart.com/stores/us/ne/omaha-store0247.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1967920328",
+   "name": "Petco",
+   "lat": 41.2604269,
+   "lon": -96.023091,
+   "distKm": 7.4,
+   "address": "7110 Dodge Street, Omaha, NE 68132",
+   "tags": {
+    "phone": "+1 402-551-0885",
+    "website": "https://stores.petco.com/ne/omaha/pet-supplies-omaha-ne-646.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/193437904",
+   "name": "PetSmart",
+   "lat": 41.2193662,
+   "lon": -95.8356661,
+   "distKm": 9.2,
+   "address": "815 McDermott Street, Council Bluffs, IA 51501",
+   "tags": {
+    "phone": "+1 712-366-8060",
+    "website": "https://www.petsmart.com/stores/us/ia/council-bluffs-store1943.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/166187518",
+   "name": "PetSmart",
+   "lat": 41.3151608,
+   "lon": -96.0275117,
+   "distKm": 10.1,
+   "address": "6220 North 73rd Plaza, Omaha, NE 68122",
+   "tags": {
+    "phone": "+1 402-571-9769",
+    "website": "https://www.petsmart.com/stores/us/ne/omaha-store1513.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12139833472",
+   "name": "Tropical Fish",
+   "lat": 41.2779708,
+   "lon": -95.8094947,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12139833473",
+   "name": "Bird Cage",
+   "lat": 41.2780093,
+   "lon": -95.8095814,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4612925238",
+   "name": "Petco",
+   "lat": 41.1564671,
+   "lon": -95.9323236,
+   "distKm": 11.1,
+   "address": "10511 South 15th Street, Bellevue, NE 68123-4085",
+   "tags": {
+    "phone": "+1 402-291-0429",
+    "website": "https://stores.petco.com/ne/bellevue/pet-supplies-bellevue-ne-1663.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11768230919",
+   "name": "Pets Earth",
+   "lat": 41.1758534,
+   "lon": -96.0269654,
+   "distKm": 11.8,
+   "address": "8410 South 75th Avenue, Papillion, NE 68046",
+   "tags": {
+    "phone": "+14029642600"
+   }
+  },
+  {
+   "id": "node/6373105646",
+   "name": "Christy's Pampered Pet Spa",
+   "lat": 41.1318623,
+   "lon": -95.9480488,
+   "distKm": 13.9,
+   "address": "11812 South 25th Street, Bellevue, NE 68123",
+   "tags": {
+    "phone": "+1-402-614-3377"
+   }
+  },
+  {
+   "id": "node/6179943419",
+   "name": "Petco",
+   "lat": 41.2146007,
+   "lon": -96.1065331,
+   "distKm": 15.1,
+   "address": "12410 K Plaza, Omaha, NE 68137",
+   "tags": {
+    "phone": "+1 402-330-9643",
+    "website": "https://stores.petco.com/ne/omaha/pet-supplies-omaha-ne-1680.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3741369390",
+   "name": "PetSmart",
+   "lat": 41.136141,
+   "lon": -96.0306695,
+   "distKm": 15.6,
+   "address": "7903 Towne Center Parkway, papillion, NE 68046",
+   "tags": {
+    "phone": "+1 402-537-0323",
+    "website": "https://www.petsmart.com/stores/us/ne/papillion-store1514.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1819639721",
+   "name": "PetSmart",
+   "lat": 41.2293902,
+   "lon": -96.1301839,
+   "distKm": 16.6,
+   "address": "3103 Oak View Drive, Omaha, NE 68144",
+   "tags": {
+    "phone": "+1 402-333-1048",
+    "website": "https://www.petsmart.com/stores/us/ne/omaha-store0248.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5560705722",
+   "name": "Petco",
+   "lat": 41.2944837,
+   "lon": -96.1268203,
+   "distKm": 16.6,
+   "address": "13660 West Maple Road, Omaha, NE 68164",
+   "tags": {
+    "phone": "+1 402-492-2729",
+    "website": "https://stores.petco.com/ne/omaha/pet-supplies-omaha-ne-287.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10728640743",
+   "name": "Woof & Whiskers",
+   "lat": 41.290372,
+   "lon": -96.1448604,
+   "distKm": 18,
+   "address": "3506 North 147th Street, Omaha, NE 68116",
+   "tags": {
+    "phone": "+1-531-222-9100",
+    "website": "https://woof-whiskers.business.site",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+   }
+  }
+ ]
+}

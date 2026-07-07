@@ -1,0 +1,196 @@
+{
+ "$schemaVersion": 1,
+ "city": "des-moines",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:34:36.892Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "way/1047766360",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5936257,
+   "lon": -93.6290135,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1364373577",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5798747,
+   "lon": -93.6302204,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/849611515",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5768784,
+   "lon": -93.6269939,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "surface": "clay",
+    "barrier": "fence",
+    "dog": "unleashed",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/409838401",
+   "name": "Riverwalk Dog Park",
+   "lat": 41.5979298,
+   "lon": -93.6168747,
+   "distKm": 1.4,
+   "address": "1111 Illinois Street, Des Moines, IA",
+   "tags": {
+    "barrier": "fence",
+    "access": "permit",
+    "website": "https://www.dmgov.org/Departments/Parks/Pages/DogParks.aspx?Tab=Riverwalk",
+    "opening_hours": "06:00-sunset"
+   }
+  },
+  {
+   "id": "way/1105663406",
+   "name": "Ingersoll Square Dog Park",
+   "lat": 41.5865641,
+   "lon": -93.643534,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/479827493",
+   "name": "Ewing Dog Park",
+   "lat": 41.5431549,
+   "lon": -93.5858895,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/126172145",
+   "name": "Windsor Heights Dog Park",
+   "lat": 41.592624,
+   "lon": -93.7104916,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/605108717",
+   "name": "Reno Memorial Dog Park",
+   "lat": 41.628952,
+   "lon": -93.5468345,
+   "distKm": 8,
+   "address": "3533 East Douglas Avenue, Des Moines",
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.dmgov.org/Departments/Parks/Pages/DogParks.aspx?Tab=Reno+Memorial",
+    "opening_hours": "Mo-Su 06:00-sunset"
+   }
+  },
+  {
+   "id": "way/301604729",
+   "name": "Raccoon River Dog Park",
+   "lat": 41.5559746,
+   "lon": -93.7230702,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Su-Sa 06:30-sunset"
+   }
+  },
+  {
+   "id": "way/1270776480",
+   "name": "Urbandale Dog Park",
+   "lat": 41.6538491,
+   "lon": -93.7072081,
+   "distKm": 10.1,
+   "address": "4905 68th Street, Urbandale, IA",
+   "tags": {
+    "access": "permit",
+    "website": "https://www.urbandale.org/1089/Dog-Park"
+   }
+  },
+  {
+   "id": "way/1365038287",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.6394159,
+   "lon": -93.5046029,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/216505127",
+   "name": "Ankeny Dog Park",
+   "lat": 41.6962282,
+   "lon": -93.6118817,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.ankenydogpark.org/"
+   }
+  },
+  {
+   "id": "way/627471034",
+   "name": "Norwalk Dog Park",
+   "lat": 41.477388,
+   "lon": -93.6770634,
+   "distKm": 12.9,
+   "address": "907 North Avenue, Norwalk, 50211",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/674360361",
+   "name": "Altoona Dog Park",
+   "lat": 41.6428608,
+   "lon": -93.4826593,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/549758066",
+   "name": "Dog Park at the Cascades",
+   "lat": 41.5538912,
+   "lon": -93.819338,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1149802286",
+   "name": "Trailside Dog Park",
+   "lat": 41.6073959,
+   "lon": -93.8497707,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

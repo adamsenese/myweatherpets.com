@@ -1,0 +1,171 @@
+{
+ "$schemaVersion": 1,
+ "city": "reno",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:36:20.063Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "node/11090569519",
+   "name": "Pet Vets",
+   "lat": 39.5282168,
+   "lon": -119.8343959,
+   "distKm": 1.8,
+   "address": "1350 Stardust Street, Reno, NV 89503",
+   "tags": {}
+  },
+  {
+   "id": "node/12060213658",
+   "name": "Klaich Animal Hospital",
+   "lat": 39.5049974,
+   "lon": -119.8025076,
+   "distKm": 2.9,
+   "address": "1990 South Virginia Street, Reno, NV",
+   "tags": {
+    "website": "https://klaichanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/11991187459",
+   "name": "Advanced PetCare",
+   "lat": 39.5363345,
+   "lon": -119.7707249,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/12199355283",
+   "name": "Kings Row Veterinary Hospital",
+   "lat": 39.5427074,
+   "lon": -119.8581825,
+   "distKm": 4.1,
+   "address": "3653 Kings Row, Reno, NV 89503",
+   "tags": {}
+  },
+  {
+   "id": "way/396616563",
+   "name": "VCA Lakeside Animal Hospital",
+   "lat": 39.5209483,
+   "lon": -119.8602374,
+   "distKm": 4.1,
+   "address": "4871 Summit Ridge Drive, Reno, NV 89523",
+   "tags": {
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/1193496832",
+   "name": "Monte Vista Animal Hospital",
+   "lat": 39.5165813,
+   "lon": -119.8597127,
+   "distKm": 4.2,
+   "address": "9790 South Mccarran Boulevard, Reno, NV 89523",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/11081997045",
+   "name": "Southwest Veterinary Hospital",
+   "lat": 39.490849,
+   "lon": -119.806804,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "phone": "+1 775-825-7984",
+    "website": "https://www.swvhreno.com",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/4416041094",
+   "name": "Northwest Veterinary Hospital",
+   "lat": 39.530433,
+   "lon": -119.867177,
+   "distKm": 4.6,
+   "address": "5150 Mae Anne Avenue, Reno, NV 89523",
+   "tags": {
+    "phone": "+1 775-747-7478",
+    "opening_hours": "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/12210032684",
+   "name": "Peavine Family Practice",
+   "lat": 39.5337331,
+   "lon": -119.8694558,
+   "distKm": 4.8,
+   "address": "2005 Sierra Highlands Drive, Reno, NV 89523",
+   "tags": {}
+  },
+  {
+   "id": "node/11408358807",
+   "name": "Feline Medical Center",
+   "lat": 39.4833178,
+   "lon": -119.8528976,
+   "distKm": 6.1,
+   "address": "4792 Caughlin Parkway, Reno, NV 89519",
+   "tags": {
+    "opening_hours": "Mo-Th 07:30-18:00; Fr-Su off"
+   }
+  },
+  {
+   "id": "way/385795203",
+   "name": "Sierra View Animal Hospital",
+   "lat": 39.4694102,
+   "lon": -119.7852201,
+   "distKm": 7.1,
+   "address": "6200 South Virginia Street, Reno, NV 89511",
+   "tags": {}
+  },
+  {
+   "id": "way/515983022",
+   "name": "Peavine Animal Hospital",
+   "lat": 39.6115375,
+   "lon": -119.8454865,
+   "distKm": 9.5,
+   "address": "1440 North Hills Boulevard, Reno, NV 89506",
+   "tags": {}
+  },
+  {
+   "id": "node/5574935240",
+   "name": "Sage Veterinary Care",
+   "lat": 39.5790036,
+   "lon": -119.7175645,
+   "distKm": 9.9,
+   "address": "4840 Vista Boulevard, Sparks, NV 89436",
+   "tags": {
+    "phone": "+1-775-409-3288",
+    "website": "https://www.sagevetcare.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/12190990178",
+   "name": "Valley Veterinary Clinic",
+   "lat": 39.6382778,
+   "lon": -119.8435446,
+   "distKm": 12.4,
+   "address": "9255 Lemmon Drive, Reno, NV 89506",
+   "tags": {
+    "phone": "+17756839255"
+   }
+  },
+  {
+   "id": "node/12190990181",
+   "name": "Valley Veterinary Clinic Surgury Center",
+   "lat": 39.6383201,
+   "lon": -119.8432995,
+   "distKm": 12.4,
+   "address": "9247 Lemmon Drive, Reno, NV 89506",
+   "tags": {
+    "phone": "+17756839255"
+   }
+  }
+ ]
+}

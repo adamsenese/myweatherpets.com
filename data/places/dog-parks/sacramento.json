@@ -1,0 +1,254 @@
+{
+ "$schemaVersion": 1,
+ "city": "sacramento",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:28:55.291Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 26,
+ "places": [
+  {
+   "id": "way/544772900",
+   "name": "Truitt Bark Park",
+   "lat": 38.5690006,
+   "lon": -121.4851135,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.midtownsacdogpark.com"
+   }
+  },
+  {
+   "id": "way/447940502",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5844874,
+   "lon": -121.4655651,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "surface": "gravel, bark",
+    "barrier": "fence",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/1504682750",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.548767,
+   "lon": -121.4866149,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/493361201",
+   "name": "Sky's Dog Park",
+   "lat": 38.6146334,
+   "lon": -121.5041528,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1366088903",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6146992,
+   "lon": -121.5205668,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/450900118",
+   "name": "Tanzanite Dog Park",
+   "lat": 38.6308756,
+   "lon": -121.5111972,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/403139589",
+   "name": "Summerfield Park Dog Area",
+   "lat": 38.5443716,
+   "lon": -121.5574585,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/493364054",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6051115,
+   "lon": -121.4142575,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/475534033",
+   "name": "University Dog Park",
+   "lat": 38.5620816,
+   "lon": -121.4084072,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/717873890",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.551743,
+   "lon": -121.4086989,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468491797",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5410025,
+   "lon": -121.4054594,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/717025403",
+   "name": "small dog park",
+   "lat": 38.6532976,
+   "lon": -121.5469483,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/717025404",
+   "name": "large dog park",
+   "lat": 38.653367,
+   "lon": -121.5473264,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/461409747",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5581103,
+   "lon": -121.3893577,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13648606833",
+   "name": "Valley Oak Large Dog Park",
+   "lat": 38.6731078,
+   "lon": -121.5291334,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13646502706",
+   "name": "Valley Oak Small Dog Park",
+   "lat": 38.6733287,
+   "lon": -121.5297655,
+   "distKm": 10.7,
+   "address": "2780 Mabry Drive, sacramento, CA 95835",
+   "tags": {
+    "access": "yes",
+    "website": "https://cityofsacramento.gov"
+   }
+  },
+  {
+   "id": "way/543955062",
+   "name": "Regency Community Park Off Leash Dog Park",
+   "lat": 38.6813368,
+   "lon": -121.5043745,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/536988960",
+   "name": "Sacramento County Animal Shelter Off Leash Dog Park",
+   "lat": 38.5534265,
+   "lon": -121.3354372,
+   "distKm": 14.2,
+   "address": "3839 Bradshaw Road, Sacramento, CA 95827",
+   "tags": {}
+  },
+  {
+   "id": "way/951432423",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6270189,
+   "lon": -121.3301951,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469800944",
+   "name": "Hagan Community Dog Park",
+   "lat": 38.6049196,
+   "lon": -121.3113023,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1322963614",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.4893736,
+   "lon": -121.3482018,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/966028385",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5520542,
+   "lon": -121.6880013,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/676682186",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5758776,
+   "lon": -121.2965691,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1356023706",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.6798221,
+   "lon": -121.3388578,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/966028386",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5559808,
+   "lon": -121.698382,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/966028384",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.5595779,
+   "lon": -121.7162335,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

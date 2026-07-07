@@ -1,0 +1,83 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-orleans",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:31:15.382Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "way/730418419",
+   "name": "Camp Bow Wow",
+   "lat": 29.9722875,
+   "lon": -90.0910807,
+   "distKm": 3,
+   "address": "3301 Conti Street",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-19:30, Sa 07:00-19:00, Su,PH 07:00-10:00, Su,PH 16:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6654115677",
+   "name": "Zeus' Place",
+   "lat": 29.9351793,
+   "lon": -90.1054376,
+   "distKm": 3.7,
+   "address": "4601 Freret",
+   "tags": {
+    "phone": "+1 504-304-4718",
+    "website": "https://zeusplace.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 08:30-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13184777224",
+   "name": "Dogtopia",
+   "lat": 29.9724865,
+   "lon": -90.124865,
+   "distKm": 5.7,
+   "address": "9501 Airline Drive, New Orleans, LA 70118",
+   "tags": {
+    "phone": "+1-504-291-2777",
+    "website": "https://www.dogtopia.com/new-orleans/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/725692185",
+   "name": "Pampered Pets",
+   "lat": 29.977449,
+   "lon": -90.2015386,
+   "distKm": 12.9,
+   "address": "6213 Airline Drive, Metairie, 70003",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/970982148",
+   "name": "The Dog Stop",
+   "lat": 30.004827,
+   "lon": -90.1943387,
+   "distKm": 13.3,
+   "address": "3201 Transcontinental Drive, Metairie, 70006",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1206951770",
+   "name": "Camp Bow Wow",
+   "lat": 29.9743281,
+   "lon": -90.209072,
+   "distKm": 13.5,
+   "address": "2401 Hickory Avenue, Metairie, 70003",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

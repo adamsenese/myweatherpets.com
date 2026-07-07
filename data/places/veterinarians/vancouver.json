@@ -1,0 +1,686 @@
+{
+ "$schemaVersion": 1,
+ "city": "vancouver",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:39:03.949Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/3746143484",
+   "name": "Urban Animal Hospital",
+   "lat": 49.2795601,
+   "lon": -123.130179,
+   "distKm": 0.8,
+   "address": "1032 Davie Street, Vancouver, V6E 1M3",
+   "tags": {
+    "phone": "+1-604-684-3632",
+    "website": "https://www.urbananimalhospital.com/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/9981998907",
+   "name": "Animal Medical Clinic",
+   "lat": 49.2882532,
+   "lon": -123.127594,
+   "distKm": 0.8,
+   "address": "1338 West Georgia Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-628-9699",
+    "website": "https://www.vet.bc.ca/",
+    "opening_hours": "Mo,Tu,Fr 11:00-17:00; Th 11:00-21:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/11252096074",
+   "name": "Yaletown Pet Hospital",
+   "lat": 49.2763098,
+   "lon": -123.114386,
+   "distKm": 0.8,
+   "address": "893 Expo Boulevard, Vancouver, V6B 1C4",
+   "tags": {
+    "phone": "+1-604-682-7389",
+    "website": "https://vcacanada.com/yaletown",
+    "opening_hours": "Mo-Fr 08:00-19:00, Sa-Su 09:00-18:30"
+   }
+  },
+  {
+   "id": "node/10170269289",
+   "name": "Vancouver Downtown Pet Hospital",
+   "lat": 49.2736569,
+   "lon": -123.118032,
+   "distKm": 1,
+   "address": "1079 Marinaside Crescent, Vancouver, V6Z 2Z4",
+   "tags": {
+    "phone": "+1-604-565-1888",
+    "website": "https://vdph.ca",
+    "opening_hours": "09:00-18:00"
+   }
+  },
+  {
+   "id": "node/9707740850",
+   "name": "West End Veterinary Clinic",
+   "lat": 49.2918599,
+   "lon": -123.135134,
+   "distKm": 1.5,
+   "address": "773 Denman Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-685-4535",
+    "website": "https://vetsvancouver.com/",
+    "opening_hours": "Tu,Th,Fr 09:00-18:00; Mo,We 11:00-20:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/9607744348",
+   "name": "Olympic Village Veterinary Clinic",
+   "lat": 49.269515,
+   "lon": -123.1088432,
+   "distKm": 1.7,
+   "address": "189 West 2nd Avenue, V5Y 1B8",
+   "tags": {
+    "phone": "+1 236 521 6131",
+    "website": "https://olympicvillagevet.com",
+    "opening_hours": "Mo,Tu,Fr,Sa 09:00-17:00; We,Th 11:00-19:00"
+   }
+  },
+  {
+   "id": "way/308150652",
+   "name": "Vancouver Animal Emergency and Referral Centre",
+   "lat": 49.2645471,
+   "lon": -123.1115213,
+   "distKm": 2.1,
+   "address": "2303 Alberta Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-879-3737",
+    "website": "http://animaler.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/931903706",
+   "name": "Cats Only Veterinary Clinic",
+   "lat": 49.268067,
+   "lon": -123.140641,
+   "distKm": 2.2,
+   "address": "1599 West 4th Avenue, Vancouver",
+   "tags": {
+    "phone": "+1-604-734-2287",
+    "website": "https://vcacanada.com/catsonly",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/3740792601",
+   "name": "Cypress St Animal Hospital",
+   "lat": 49.2728104,
+   "lon": -123.1472757,
+   "distKm": 2.2,
+   "address": "1889 Cornwall Avenue",
+   "tags": {
+    "phone": "+1-604-734-2500",
+    "website": "https://cypressvet.com/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa,Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/432995233",
+   "name": "Granville Island Veterinary Hospital",
+   "lat": 49.2681549,
+   "lon": -123.141538,
+   "distKm": 2.2,
+   "address": "1635 West 4th Avenue, V6J 1L8",
+   "tags": {
+    "phone": "+1 604 734 7744",
+    "website": "https://bcpetvet.com"
+   }
+  },
+  {
+   "id": "way/136052143",
+   "name": "Vancouver Animal Wellness Hospital",
+   "lat": 49.2631656,
+   "lon": -123.1027151,
+   "distKm": 2.5,
+   "address": "105 East Broadway",
+   "tags": {
+    "website": "http://www.vancouveranimalwellness.com/",
+    "opening_hours": "Mo-We,Fr 08:00-18:00; Th 09:30-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/5902310786",
+   "name": "Burrard Animal Hospital",
+   "lat": 49.2635513,
+   "lon": -123.1455507,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/8692299092",
+   "name": "West King Edward Animal Clinic",
+   "lat": 49.2550854,
+   "lon": -123.1148962,
+   "distKm": 3.1,
+   "address": "3386 Cambie Street, Vancouver, V5Z 2W5",
+   "tags": {
+    "phone": "+1-604-873-4433",
+    "website": "http://www.vancouvervet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/13929751074",
+   "name": "Oak Animal Hospital",
+   "lat": 49.2510794,
+   "lon": -123.1270841,
+   "distKm": 3.5,
+   "address": "3888 Oak Street",
+   "tags": {
+    "phone": "+1-604-739-7111",
+    "website": "https://oakvet.com/",
+    "opening_hours": "Su-Mo 09:00-17:00; Tu-Sa 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/6338966139",
+   "name": "Kitsilano Animal Clinic",
+   "lat": 49.2684486,
+   "lon": -123.165675,
+   "distKm": 3.6,
+   "address": "2645 West 4th Avenue, Vancouver, V6K 1P8",
+   "tags": {
+    "phone": "+1-604-736-8648",
+    "website": "https://kitsilanoanimalclinic.ca",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/296358830",
+   "name": "British Columbia Society for the Prevention of Cruelty to Animals Vancouver Animal Hospital",
+   "lat": 49.264459,
+   "lon": -123.0790986,
+   "distKm": 3.6,
+   "address": "1205 East 7th Avenue",
+   "tags": {
+    "website": "https://www.vancouverspcavet.ca/"
+   }
+  },
+  {
+   "id": "node/6699449492",
+   "name": "Cambie Village Animal Hospital",
+   "lat": 49.2499348,
+   "lon": -123.115716,
+   "distKm": 3.7,
+   "address": "510 West 24th Avenue, Vancouver",
+   "tags": {
+    "phone": "+1-604-675-4900",
+    "website": "https://cambievillagevet.com",
+    "opening_hours": "Mo-Sa 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/11024113030",
+   "name": "Paws on Fraser Vetrinary Hospital",
+   "lat": 49.254009,
+   "lon": -123.0902114,
+   "distKm": 3.9,
+   "address": "3465 Fraser Street, Vancouver",
+   "tags": {
+    "opening_hours": "Mo 08:00-17:00; Tu,We,Fr,Sa 09:00-18:00; Th 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/9347600119",
+   "name": "Waterfront Park Veterinary Clinic",
+   "lat": 49.3136394,
+   "lon": -123.0848193,
+   "distKm": 4.3,
+   "address": "252 West Esplanade, North Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/13131941267",
+   "name": "Trout Lake Animal Hospital And Urgent Care",
+   "lat": 49.2530521,
+   "lon": -123.0815877,
+   "distKm": 4.3,
+   "address": "1115 Kingsway",
+   "tags": {}
+  },
+  {
+   "id": "node/883564365",
+   "name": "Arbutus West Animal Clinic",
+   "lat": 49.2580827,
+   "lon": -123.1689248,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7662864591",
+   "name": "Norgate Animal Hospital",
+   "lat": 49.3233486,
+   "lon": -123.1141522,
+   "distKm": 4.5,
+   "address": "1435 Marine Drive",
+   "tags": {
+    "website": "https://norgatevets.ca"
+   }
+  },
+  {
+   "id": "node/8076582720",
+   "name": "Acadia Veterinary Clinic",
+   "lat": 49.2640506,
+   "lon": -123.174979,
+   "distKm": 4.5,
+   "address": "3142 West Broadway",
+   "tags": {
+    "phone": "+1-604-738-7321",
+    "website": "https://www.acadiavetclinic.ca/",
+    "opening_hours": "Mo-Fr 08:30-17:30"
+   }
+  },
+  {
+   "id": "node/13793027319",
+   "name": "Juno Veterinary Main Street",
+   "lat": 49.2421496,
+   "lon": -123.1016566,
+   "distKm": 4.7,
+   "address": "4795 Main Street, Vancouver, V5V3R8",
+   "tags": {
+    "phone": "+1-604-262-8448",
+    "website": "https://www.junovet.com/",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/7639090397",
+   "name": "West Vancouver Veterinary Hospital",
+   "lat": 49.3251851,
+   "lon": -123.1342328,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8955244205",
+   "name": "Atlas Animal Hospital",
+   "lat": 49.323446,
+   "lon": -123.098253,
+   "distKm": 4.8,
+   "address": "908 West 16th Street, North Vancouver, V7P 1R3",
+   "tags": {}
+  },
+  {
+   "id": "node/6640356385",
+   "name": "Vancouver Veterinarian",
+   "lat": 49.2486436,
+   "lon": -123.0721879,
+   "distKm": 5.2,
+   "address": "1541 Kingsway",
+   "tags": {
+    "website": "https://vancouverveterinary.com/"
+   }
+  },
+  {
+   "id": "node/6621798045",
+   "name": "Vancity Veterinary Hospital",
+   "lat": 49.2478863,
+   "lon": -123.070139,
+   "distKm": 5.3,
+   "address": "1691 Kingsway",
+   "tags": {}
+  },
+  {
+   "id": "node/9391252559",
+   "name": "Hollyburn Veterinary Hospital",
+   "lat": 49.327943,
+   "lon": -123.1534709,
+   "distKm": 5.6,
+   "address": "1365 Marine Drive, V7T 1B6",
+   "tags": {
+    "phone": "+1 604 922 6011"
+   }
+  },
+  {
+   "id": "node/10043296437",
+   "name": "West Boulevard Veterinary Clinic",
+   "lat": 49.237556,
+   "lon": -123.1556071,
+   "distKm": 5.6,
+   "address": "5383 West Boulevard",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13675249637",
+   "name": "Happy Tails Animal Hospital",
+   "lat": 49.3232701,
+   "lon": -123.0744103,
+   "distKm": 5.6,
+   "address": "146 West 16th Street, North Vancouver",
+   "tags": {
+    "phone": "+1-604-971-2233",
+    "website": "https://happytailsanimalhospital.ca/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/8371730048",
+   "name": "Ambleside Animal Hospital",
+   "lat": 49.3284022,
+   "lon": -123.1558301,
+   "distKm": 5.7,
+   "address": "1455 Marine Drive, V7T 1B8",
+   "tags": {
+    "phone": "+1 604 922 4157",
+    "website": "https://amblesideanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/4340516891",
+   "name": "Atlas Animal Hospital",
+   "lat": 49.2330575,
+   "lon": -123.0900907,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11544739764",
+   "name": "Westview Vetinary Services",
+   "lat": 49.3331744,
+   "lon": -123.089733,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/2089401434",
+   "name": "Lonsdale Veterinary Hospital",
+   "lat": 49.3273905,
+   "lon": -123.0730515,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13948726909",
+   "name": "Langara Veterinary Hospital",
+   "lat": 49.2276933,
+   "lon": -123.1160592,
+   "distKm": 6.1,
+   "address": "6338 Cambie Street",
+   "tags": {}
+  },
+  {
+   "id": "node/12590434501",
+   "name": "Alta Vista Animal Hospital",
+   "lat": 49.2457781,
+   "lon": -123.185449,
+   "distKm": 6.2,
+   "address": "4543 Dunbar Street, V6S 2G7",
+   "tags": {
+    "phone": "+16042215858",
+    "website": "https://altavistaanimalhospital.ca/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Su 09:00-17:00; Sa 08:30-18:00"
+   }
+  },
+  {
+   "id": "node/13963165318",
+   "name": "Kerrisdale Veterinary Hospital",
+   "lat": 49.2320133,
+   "lon": -123.1558431,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/345153412",
+   "name": "Highlands Animal Hospital",
+   "lat": 49.3370015,
+   "lon": -123.1023891,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8076569423",
+   "name": "Vancouver East Veterinary Clinic",
+   "lat": 49.2589519,
+   "lon": -123.0408125,
+   "distKm": 6.4,
+   "address": "3033 Central Valley Greenway",
+   "tags": {}
+  },
+  {
+   "id": "node/9029105493",
+   "name": "University Veterinary Clinic",
+   "lat": 49.2636607,
+   "lon": -123.2063761,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/13596864202",
+   "name": "North West Nuclear Medicine for Animals Veterinary Dermatology Services",
+   "lat": 49.2725662,
+   "lon": -123.0270024,
+   "distKm": 6.9,
+   "address": "1380 Kootenay Street, V5K 4R1",
+   "tags": {
+    "opening_hours": "Mo 12:00-20:00; Tu 09:00-20:00; We-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/165351403",
+   "name": "North Shore Veterinary Clinic",
+   "lat": 49.3064037,
+   "lon": -123.0326316,
+   "distKm": 6.9,
+   "address": "227 Mountain Highway, North Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/6136542344",
+   "name": "Canada West Veterinary Specialists",
+   "lat": 49.2670619,
+   "lon": -123.025486,
+   "distKm": 7.1,
+   "address": "1988 Kootenay Street, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/12075820375",
+   "name": "Animal Medical Hospital",
+   "lat": 49.3338195,
+   "lon": -123.1809338,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/12393030129",
+   "name": "Vancouver South Animal Hospital",
+   "lat": 49.2176628,
+   "lon": -123.1177057,
+   "distKm": 7.2,
+   "address": "632 West 58th Avenue, Vancouver, V6P 0K1",
+   "tags": {
+    "phone": "+1-604-321-6600",
+    "website": "https://southvanvet.ca/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa-Su 08:30-18:00"
+   }
+  },
+  {
+   "id": "node/6136505596",
+   "name": "Hastings Veterinary Hospital",
+   "lat": 49.2812826,
+   "lon": -123.0171517,
+   "distKm": 7.5,
+   "address": "3961 Hastings Street, Burnaby, V5C 2H8",
+   "tags": {
+    "phone": "+1-604-291-6666",
+    "website": "https://hastingsvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/10065867290",
+   "name": "Fraserview Veterinary Hospital",
+   "lat": 49.2241657,
+   "lon": -123.0660031,
+   "distKm": 7.6,
+   "address": "6637 Victoria Drive, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/6136542345",
+   "name": "Boundary Animal Hospital",
+   "lat": 49.2560732,
+   "lon": -123.0232893,
+   "distKm": 7.7,
+   "address": "3114 Boundary Road, Burnaby",
+   "tags": {}
+  },
+  {
+   "id": "way/398466312",
+   "name": "Blueridge-Cove Animal Hospital",
+   "lat": 49.3050059,
+   "lon": -123.0204192,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9688886807",
+   "name": "Kingsway Veterinary Clinic",
+   "lat": 49.235566,
+   "lon": -123.0387426,
+   "distKm": 7.9,
+   "address": "3139 Kingsway",
+   "tags": {
+    "phone": "+1-604-435-0222",
+    "website": "https://www.kingswayvet.com/",
+    "opening_hours": "Mo-Sa 09:00 - 17:30"
+   }
+  },
+  {
+   "id": "node/9324976640",
+   "name": "Killarney Animal Hospital",
+   "lat": 49.225444,
+   "lon": -123.053513,
+   "distKm": 8,
+   "address": "2649 East 49th Avenue, Vancouver",
+   "tags": {
+    "website": "https://www.killarneyvets.com/"
+   }
+  },
+  {
+   "id": "node/4484528713",
+   "name": "Intercity Animal Emergency Clinic",
+   "lat": 49.2108202,
+   "lon": -123.0934412,
+   "distKm": 8.2,
+   "address": "580 Southeast Marine Drive",
+   "tags": {
+    "phone": "+1-604-321-8080",
+    "opening_hours": "Mo 00:00-08:00,18:00-08:00; Tu-Fr 18:00-08:00; Sa 17:00-24:00; Su,PH 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/6136505609",
+   "name": "North Burnaby Pet Hospital",
+   "lat": 49.2811841,
+   "lon": -123.0047562,
+   "distKm": 8.4,
+   "address": "4431 Hastings Street, Burnaby, V5C 2K1",
+   "tags": {
+    "phone": "+1-604-298-9941",
+    "website": "https://www.northburnabypethospital.com/",
+    "opening_hours": "Tu 08:00-14:00; We-Fr 08:00-17:00; Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/3271414561",
+   "name": "North Vancouver Pet Hospital",
+   "lat": 49.3363955,
+   "lon": -123.037751,
+   "distKm": 8.5,
+   "address": "3022 Mountain Highway, North Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/8842655688",
+   "name": "Dawson Street Veterinary Clinic",
+   "lat": 49.2646206,
+   "lon": -123.0065348,
+   "distKm": 8.5,
+   "address": "4381 Dawson Street",
+   "tags": {
+    "phone": "+1-604-620-9091",
+    "website": "http://www.dawsonstreetveterinary.com/"
+   }
+  },
+  {
+   "id": "node/9359939643",
+   "name": "Brentwood Animal Hospital",
+   "lat": 49.2812036,
+   "lon": -123.0035756,
+   "distKm": 8.5,
+   "address": "4489 Hastings Street, V5C 0L6",
+   "tags": {
+    "website": "https://brentwoodvet.ca/"
+   }
+  },
+  {
+   "id": "node/7022370131",
+   "name": "Pacific Pet Clinic",
+   "lat": 49.2320383,
+   "lon": -123.0259765,
+   "distKm": 8.9,
+   "address": "3628 Kingsway",
+   "tags": {
+    "phone": "+1-604-437-3798;+1-604-437-3799",
+    "website": "https://pacificpetclinic.ca/",
+    "opening_hours": "Mo 10:00-16:00; Tu 9:00-18:00; We 9:00-16:00; Th 10:00-16:00; Fr 9:00-18:00; Sa 9:00-17:00"
+   }
+  },
+  {
+   "id": "node/13838000824",
+   "name": "Champlain Animal Clinic",
+   "lat": 49.2198585,
+   "lon": -123.0396613,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8944552616",
+   "name": "Central Park Animal Hospital",
+   "lat": 49.2331066,
+   "lon": -123.0139564,
+   "distKm": 9.5,
+   "address": "4079 Grange Street",
+   "tags": {
+    "phone": "+1-604-336-7387",
+    "website": "https://cpah.ca/",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 11:00-18:00"
+   }
+  }
+ ]
+}

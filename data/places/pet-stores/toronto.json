@@ -1,0 +1,683 @@
+{
+ "$schemaVersion": 1,
+ "city": "toronto",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:38:57.950Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/5459816523",
+   "name": "Petview",
+   "lat": 43.6493367,
+   "lon": -79.3944891,
+   "distKm": 1,
+   "address": "322 Queen Street West, Toronto",
+   "tags": {
+    "phone": "+1-416-738-8439",
+    "website": "http://petviewto.com/"
+   }
+  },
+  {
+   "id": "node/3676400067",
+   "name": "Global Pet Foods",
+   "lat": 43.64866,
+   "lon": -79.3708695,
+   "distKm": 1.1,
+   "address": "125 Lower Jarvis Street, Toronto",
+   "tags": {
+    "phone": "+1-416-368-4222",
+    "website": "https://www.globalpetfoodstoronto.ca/locations/lower-jarvis/",
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/3677008428",
+   "name": "Pet Cuisine",
+   "lat": 43.6498359,
+   "lon": -79.3698723,
+   "distKm": 1.1,
+   "address": "127 Front Street East, Toronto, M5B 1Y6",
+   "tags": {
+    "phone": "+1-416-507-9968",
+    "website": "https://petcuisine.ca/"
+   }
+  },
+  {
+   "id": "node/1306212649",
+   "name": "PP Pet",
+   "lat": 43.664173,
+   "lon": -79.384096,
+   "distKm": 1.2,
+   "address": "533 Yonge Street",
+   "tags": {
+    "website": "https://pppet.ca/"
+   }
+  },
+  {
+   "id": "node/5058808269",
+   "name": "Pet Valu",
+   "lat": 43.6507169,
+   "lon": -79.36701,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2337",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/1213563381",
+   "name": "Pets",
+   "lat": 43.665575,
+   "lon": -79.387126,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13187015994",
+   "name": "K9 Couture",
+   "lat": 43.6654576,
+   "lon": -79.3849402,
+   "distKm": 1.4,
+   "address": "594 Yonge Street",
+   "tags": {
+    "phone": "+1-416-915-9959",
+    "website": "https://k-9couture.com/"
+   }
+  },
+  {
+   "id": "node/11429867049",
+   "name": "Puppy Sphere",
+   "lat": 43.6431548,
+   "lon": -79.3960908,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13185151746",
+   "name": "Gogo Pets",
+   "lat": 43.6669994,
+   "lon": -79.3855969,
+   "distKm": 1.5,
+   "address": "660 Yonge Street",
+   "tags": {
+    "phone": "+1-416-926-8288",
+    "website": "https://gogopets.ca/"
+   }
+  },
+  {
+   "id": "node/2806099842",
+   "name": "Pet Valu",
+   "lat": 43.6571615,
+   "lon": -79.4027298,
+   "distKm": 1.6,
+   "address": "339 College Street",
+   "tags": {
+    "phone": "+1-416-944-0314",
+    "website": "https://store.petvalu.ca/location/2164",
+    "opening_hours": "Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/13143611364",
+   "name": "The Pet Store",
+   "lat": 43.6678702,
+   "lon": -79.3856356,
+   "distKm": 1.6,
+   "address": "647 Yonge Street",
+   "tags": {
+    "phone": "+1-416-929-0202",
+    "website": "https://www.thepetstoreto.com/"
+   }
+  },
+  {
+   "id": "node/3057118089",
+   "name": "Pet Valu",
+   "lat": 43.6642664,
+   "lon": -79.3685804,
+   "distKm": 1.7,
+   "address": "240 Carlton Street, Toronto, M5A 2L1",
+   "tags": {
+    "phone": "+1-416-961-0661",
+    "website": "https://store.petvalu.ca/location/2197",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/3396315332",
+   "name": "WAGSUP Fort York City Place",
+   "lat": 43.6402365,
+   "lon": -79.3938215,
+   "distKm": 1.7,
+   "address": "11 Fort York Boulevard, Toronto, M5V 3Y7",
+   "tags": {}
+  },
+  {
+   "id": "node/3311069776",
+   "name": "Pets Wonderful Ltd.",
+   "lat": 43.6691703,
+   "lon": -79.382173,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3474264102",
+   "name": "Cosmopawlitan",
+   "lat": 43.6375311,
+   "lon": -79.3938982,
+   "distKm": 1.9,
+   "address": "473 Queens Quay West, Toronto",
+   "tags": {
+    "website": "https://www.cosmopawlitanpetboutique.ca/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13026474764",
+   "name": "The Bestiary",
+   "lat": 43.667475,
+   "lon": -79.3694644,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1599246348",
+   "name": "Pet Valu",
+   "lat": 43.670972,
+   "lon": -79.389803,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2411",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/13207844959",
+   "name": "Knick Kach Paddy Whack",
+   "lat": 43.6566999,
+   "lon": -79.3590246,
+   "distKm": 2,
+   "address": "481 Queen Street East",
+   "tags": {
+    "phone": "+1-416-519-2929",
+    "website": "https://knickknackpaddywhack.ca/"
+   }
+  },
+  {
+   "id": "node/10676973261",
+   "name": "Pet Valu",
+   "lat": 43.6431532,
+   "lon": -79.4056058,
+   "distKm": 2.1,
+   "address": "775 King Street West",
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2420",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/3524677595",
+   "name": "Pet Social",
+   "lat": 43.6371818,
+   "lon": -79.4005676,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6386975389",
+   "name": "Fur Bar",
+   "lat": 43.6429297,
+   "lon": -79.4083153,
+   "distKm": 2.3,
+   "address": "844 King Street West, Toronto",
+   "tags": {
+    "phone": "+1 4163667729",
+    "website": "https://furbar.ca",
+    "opening_hours": "Tu,We,Fr-Su 09:00-18:00; Th 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/4562863066",
+   "name": "Timmie Doggie Outfitters",
+   "lat": 43.6457252,
+   "lon": -79.4106876,
+   "distKm": 2.4,
+   "address": "867 Queen Street West, Toronto, M6J 1G4",
+   "tags": {
+    "phone": "+1-416-203-6789",
+    "website": "https://timmie.ca/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4569866291",
+   "name": "Helmutt's Pet Supply",
+   "lat": 43.6457352,
+   "lon": -79.4106198,
+   "distKm": 2.4,
+   "address": "865 Queen Street West, Toronto, M6J 1G4",
+   "tags": {
+    "phone": "+1-416-504-1265",
+    "website": "https://www.helmuttspetsupply.ca/",
+    "opening_hours": "Su 12:00-18:00, Mo 10:00-20:00, Tu 10:00-20:00, We 10:00-20:00, Th 10:00-20:00, Fr 10:00-20:00, Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6304072702",
+   "name": "The Dog Bowl",
+   "lat": 43.6505602,
+   "lon": -79.4152033,
+   "distKm": 2.6,
+   "address": "984 Dundas Street West, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "node/1123676007",
+   "name": "Dogfather & Co",
+   "lat": 43.677163,
+   "lon": -79.389468,
+   "distKm": 2.7,
+   "address": "1007 Yonge Street, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "node/5721034132",
+   "name": "Pet Uno",
+   "lat": 43.6550118,
+   "lon": -79.4171731,
+   "distKm": 2.7,
+   "address": "675 College Street, Toronto, M6G 1B9",
+   "tags": {
+    "phone": "+1-647-727-0758"
+   }
+  },
+  {
+   "id": "node/2554318267",
+   "name": "PAWfect Spa",
+   "lat": 43.6759787,
+   "lon": -79.3968739,
+   "distKm": 2.8,
+   "address": "207 Avenue Road, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "node/11845856876",
+   "name": "Woof Gang Bakery & Grooming",
+   "lat": 43.6414612,
+   "lon": -79.4140278,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6336619896",
+   "name": "Pet Mama",
+   "lat": 43.6643792,
+   "lon": -79.415208,
+   "distKm": 2.9,
+   "address": "644 Bloor Street West, Toronto",
+   "tags": {
+    "phone": "+1-416-516-6262",
+    "website": "https://www.petmama.ca",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10887639767",
+   "name": "Wong’s Aquarium",
+   "lat": 43.6656916,
+   "lon": -79.3521117,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/387435154",
+   "name": "Bark & Meow Pet Supplies",
+   "lat": 43.6637836,
+   "lon": -79.4178757,
+   "distKm": 3,
+   "address": "712 Bloor Street West, Toronto",
+   "tags": {
+    "phone": "+1-416-532-2275",
+    "website": "https://barkmeow.ca"
+   }
+  },
+  {
+   "id": "node/560638224",
+   "name": "Global Pet Foods",
+   "lat": 43.6755072,
+   "lon": -79.4033977,
+   "distKm": 3,
+   "address": "173 Dupont Street",
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/1136638683",
+   "name": "Central Bark Dog Day Care & Spa",
+   "lat": 43.678767,
+   "lon": -79.398399,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5402011221",
+   "name": "Wooftown",
+   "lat": 43.6816244,
+   "lon": -79.3920443,
+   "distKm": 3.2,
+   "address": "10 Birch Avenue, Toronto",
+   "tags": {
+    "phone": "+1-647-556-2273"
+   }
+  },
+  {
+   "id": "node/12887601882",
+   "name": "The Bone & Biscuit Co.",
+   "lat": 43.6383285,
+   "lon": -79.4168793,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/463350336",
+   "name": "Pet Valu",
+   "lat": 43.6541549,
+   "lon": -79.4228073,
+   "distKm": 3.2,
+   "address": "833 College Street",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "way/899348834",
+   "name": "Global Pet Foods",
+   "lat": 43.6399756,
+   "lon": -79.4187287,
+   "distKm": 3.2,
+   "address": "75 Hanna Avenue, Toronto",
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/11218285458",
+   "name": "Pet Valu",
+   "lat": 43.6601883,
+   "lon": -79.3433507,
+   "distKm": 3.3,
+   "address": "851 Queen Street East, Toronto, M4M 1H9",
+   "tags": {
+    "phone": "+1 416-901-4412",
+    "website": "https://store.petvalu.ca/location/2403",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/12173901804",
+   "name": "Small Wanders Pets",
+   "lat": 43.6765974,
+   "lon": -79.3576137,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12691612466",
+   "name": "Pet Valu",
+   "lat": 43.6737134,
+   "lon": -79.4124107,
+   "distKm": 3.3,
+   "address": "Dupont Street",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/13025831409",
+   "name": "Global Pet Foods",
+   "lat": 43.6762904,
+   "lon": -79.357572,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/13438304346",
+   "name": "The Bone & Biscuit",
+   "lat": 43.6537723,
+   "lon": -79.4245674,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6343511092",
+   "name": "Woof! Dog Shop & Daycare",
+   "lat": 43.6623321,
+   "lon": -79.4234993,
+   "distKm": 3.4,
+   "address": "843 Bloor Street West, Toronto",
+   "tags": {
+    "phone": "+1-647-428-5388"
+   }
+  },
+  {
+   "id": "node/11128294564",
+   "name": "Ren’s Pets",
+   "lat": 43.6385272,
+   "lon": -79.4201709,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6685670114",
+   "name": "Poka Dottie's Dog Grooming",
+   "lat": 43.6609497,
+   "lon": -79.34121,
+   "distKm": 3.5,
+   "address": "946 Queen Street East",
+   "tags": {
+    "website": "https://www.polkadotties.ca/"
+   }
+  },
+  {
+   "id": "node/7100164417",
+   "name": "PetSmart",
+   "lat": 43.6400578,
+   "lon": -79.4227291,
+   "distKm": 3.5,
+   "address": "1104A King Street West",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10155969634",
+   "name": "knick knack paddy whack",
+   "lat": 43.6709622,
+   "lon": -79.3469128,
+   "distKm": 3.5,
+   "address": "161 Withrow Avenue",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13087998369",
+   "name": "Knick Knack Paddy Whack Dog Food",
+   "lat": 43.6700467,
+   "lon": -79.3466323,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "website": "https://knickknackpaddywhack.ca/"
+   }
+  },
+  {
+   "id": "node/6181451942",
+   "name": "Fetchy",
+   "lat": 43.6428297,
+   "lon": -79.4273973,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12168922021",
+   "name": "Pawmart",
+   "lat": 43.6866392,
+   "lon": -79.3936682,
+   "distKm": 3.8,
+   "address": "1402 Yonge Street, Toronto, M4T 1Y5",
+   "tags": {
+    "phone": "+1 844-448-0844",
+    "website": "https://pawmart.ca/"
+   }
+  },
+  {
+   "id": "node/12104399055",
+   "name": "Pet Valu",
+   "lat": 43.6387165,
+   "lon": -79.4278357,
+   "distKm": 3.9,
+   "address": "1221 King Street West",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/7078172424",
+   "name": "Pet Valu",
+   "lat": 43.6894807,
+   "lon": -79.3948583,
+   "distKm": 4.1,
+   "address": "1560 Yonge Street, Toronto, M4T 2S9",
+   "tags": {
+    "phone": "+1-416-925-1737",
+    "website": "https://store.petvalu.ca/location/2278",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/13927345786",
+   "name": "Critter & Co. Pet Outpost",
+   "lat": 43.6523755,
+   "lon": -79.4339056,
+   "distKm": 4.1,
+   "address": "1146 College Street",
+   "tags": {
+    "website": "https://www.critterpetoutpost.com",
+    "opening_hours": "Mo-Fr 09:00-20:30; Sa 09:00-18:00; Su 09:30-17:00"
+   }
+  },
+  {
+   "id": "node/13277479960",
+   "name": "Timmie's",
+   "lat": 43.6629757,
+   "lon": -79.3320311,
+   "distKm": 4.3,
+   "address": "1178 Queen Street East",
+   "tags": {
+    "phone": "+1-416-406-4999",
+    "website": "https://timmies.com/",
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/2614262461",
+   "name": "Pet Mama",
+   "lat": 43.6839819,
+   "lon": -79.41886,
+   "distKm": 4.5,
+   "address": "1500 Bathurst Street, York",
+   "tags": {
+    "phone": "+1 416 901 6262",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12087943805",
+   "name": "Pet Valu",
+   "lat": 43.6824099,
+   "lon": -79.4210336,
+   "distKm": 4.5,
+   "address": "557 St. Clair Avenue West, Toronto, M6C 1A3",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/13953218677",
+   "name": "Riverdale Pack of Paws",
+   "lat": 43.6798986,
+   "lon": -79.3408705,
+   "distKm": 4.5,
+   "address": "Danforth Avenue, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "node/420542911",
+   "name": "Pet Valu",
+   "lat": 43.6797532,
+   "lon": -79.339627,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "website": "https://store.petvalu.ca/location/2163",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/12185229349",
+   "name": "Forest Hill Pets",
+   "lat": 43.6890294,
+   "lon": -79.4130391,
+   "distKm": 4.7,
+   "address": "446 Spadina Road, Toronto, M5P 2W4",
+   "tags": {
+    "phone": "+1 416-485-4243",
+    "website": "https://www.foresthillpets.ca/",
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/6328179186",
+   "name": "Kennel Cafe",
+   "lat": 43.6475806,
+   "lon": -79.4493558,
+   "distKm": 5.4,
+   "address": "285 Roncesvalles Avenue, Toronto",
+   "tags": {
+    "website": "https://www.kennelcafe.com/"
+   }
+  }
+ ]
+}

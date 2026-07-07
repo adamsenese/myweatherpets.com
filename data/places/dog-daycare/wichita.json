@@ -1,0 +1,37 @@
+{
+ "$schemaVersion": 1,
+ "city": "wichita",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:31:20.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "node/13012082628",
+   "name": "The Fur Seasons Pet Resort",
+   "lat": 37.7487705,
+   "lon": -97.2607956,
+   "distKm": 9.2,
+   "address": "3590 North Woodlawn Boulevard, Wichita, KS",
+   "tags": {
+    "phone": "+1-316-376-7722",
+    "website": "https://www.thefurseasons.co/",
+    "opening_hours": "Mo-Fr 06:30-18:30, Sa 08:00-15:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1530912249",
+   "name": "Wag'en Tail Ranch",
+   "lat": 37.8119763,
+   "lon": -97.4146726,
+   "distKm": 15.7,
+   "address": "6106 West 69th Street North, Valley Center, KS 67147",
+   "tags": {
+    "website": "http://wagentail.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

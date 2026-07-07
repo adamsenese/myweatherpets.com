@@ -1,0 +1,620 @@
+{
+ "$schemaVersion": 1,
+ "city": "sao-paulo",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:40:02.278Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/11834417942",
+   "name": "Pet Shop Natureza Tropical",
+   "lat": -23.553338,
+   "lon": -46.6351252,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5112103035",
+   "name": "Pet Shop 25",
+   "lat": -23.5418138,
+   "lon": -46.6306946,
+   "distKm": 1,
+   "address": "158 Rua Comendador Afonso Kherlakian, São Paulo, 01023-040",
+   "tags": {}
+  },
+  {
+   "id": "relation/4602915",
+   "name": "Frango Feliz",
+   "lat": -23.5416405,
+   "lon": -46.6291997,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/4602963",
+   "name": "Irmãos Chagas",
+   "lat": -23.541283,
+   "lon": -46.6294281,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/4603017",
+   "name": "Pena Branca",
+   "lat": -23.5411671,
+   "lon": -46.6293904,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/4603039",
+   "name": "Rolim Jr.",
+   "lat": -23.5413111,
+   "lon": -46.6293867,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7988781481",
+   "name": "C. F. Pet Center",
+   "lat": -23.5627229,
+   "lon": -46.6325056,
+   "distKm": 1.4,
+   "address": "1105 Conselheiro Furtado",
+   "tags": {}
+  },
+  {
+   "id": "way/435936056",
+   "name": "Cobasi",
+   "lat": -23.5527499,
+   "lon": -46.6199216,
+   "distKm": 1.4,
+   "address": "516 Avenida Alcântara Machado, São Paulo, 03102-000",
+   "tags": {
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/420430022",
+   "name": "Petz",
+   "lat": -23.5508243,
+   "lon": -46.6481349,
+   "distKm": 1.5,
+   "address": "215 Rua Augusta, São Paulo, 01305-000",
+   "tags": {
+    "opening_hours": "Mo-Su,PH 00:00-00:00",
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "way/1173692673",
+   "name": "Vitali Ambiental",
+   "lat": -23.5351684,
+   "lon": -46.6297919,
+   "distKm": 1.7,
+   "address": "332 Rua São Caetano, São Paulo, 01104-000",
+   "tags": {
+    "phone": "+55 11 3328-8711",
+    "website": "http://vitalianimal.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/5020986283",
+   "name": "Kaklau",
+   "lat": -23.56662,
+   "lon": -46.6329715,
+   "distKm": 1.8,
+   "address": "451 Rua Pires da Mota",
+   "tags": {}
+  },
+  {
+   "id": "node/4635859450",
+   "name": "Portal Pets",
+   "lat": -23.5686601,
+   "lon": -46.6328018,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1171725509",
+   "name": "Pet&Cabana",
+   "lat": -23.5644147,
+   "lon": -46.6487308,
+   "distKm": 2.2,
+   "address": "160 Alameda Ribeirão Preto, São Paulo, 01331-000",
+   "tags": {}
+  },
+  {
+   "id": "node/12191000875",
+   "name": "Encrenquinhas",
+   "lat": -23.5472448,
+   "lon": -46.6560598,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1185392912",
+   "name": "Mundo dos Animais",
+   "lat": -23.5285831,
+   "lon": -46.6355393,
+   "distKm": 2.4,
+   "address": "612 Rua Prates, São Paulo, 01121-000",
+   "tags": {}
+  },
+  {
+   "id": "way/1304326088",
+   "name": "Boas Marcas",
+   "lat": -23.5380513,
+   "lon": -46.6526614,
+   "distKm": 2.4,
+   "address": "113 Alameda Barros, São Paulo, 01232-001",
+   "tags": {}
+  },
+  {
+   "id": "node/11494978628",
+   "name": "Cobasi",
+   "lat": -23.5366484,
+   "lon": -46.6544487,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/431463923",
+   "name": "Pet Shop Aclimação",
+   "lat": -23.5736663,
+   "lon": -46.6324053,
+   "distKm": 2.6,
+   "address": "1097 Rua Castro Alves, São Paulo, 01532-001",
+   "tags": {}
+  },
+  {
+   "id": "way/380005470",
+   "name": "Petz",
+   "lat": -23.5500254,
+   "lon": -46.6595277,
+   "distKm": 2.7,
+   "address": "2011 Avenida Angélica, São Paulo, 01227-200",
+   "tags": {
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "node/6712473567",
+   "name": "Nicho",
+   "lat": -23.5500816,
+   "lon": -46.6604334,
+   "distKm": 2.8,
+   "address": "805 Rua Bahia, São Paulo, 01244-001",
+   "tags": {}
+  },
+  {
+   "id": "node/11534969205",
+   "name": "Petland",
+   "lat": -23.5446645,
+   "lon": -46.6606678,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/421541289",
+   "name": "Pet Park",
+   "lat": -23.539129,
+   "lon": -46.6586258,
+   "distKm": 2.9,
+   "address": "581 Rua Baronesa de Itu, São Paulo, 01231-001",
+   "tags": {}
+  },
+  {
+   "id": "node/5054787396",
+   "name": "Pró Amigo",
+   "lat": -23.5772731,
+   "lon": -46.6292729,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7512465959",
+   "name": "Toca Bixos",
+   "lat": -23.5777134,
+   "lon": -46.6398414,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/426927856",
+   "name": "Pet Creche Paraíso",
+   "lat": -23.5738641,
+   "lon": -46.6500897,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/999569672",
+   "name": "Petz",
+   "lat": -23.5324242,
+   "lon": -46.6572226,
+   "distKm": 3.2,
+   "address": "68 Avenida General Olímpio da Silveira, São Paulo, 01150-000",
+   "tags": {
+    "phone": "+5511 2181-7335",
+    "website": "https://www.petz.com.br/loja/petz-santa-cecilia",
+    "opening_hours": "08:00-22:00",
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "way/379972518",
+   "name": "Petz",
+   "lat": -23.5438228,
+   "lon": -46.664941,
+   "distKm": 3.3,
+   "address": "117 Praça Charles Miller, São Paulo",
+   "tags": {
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "way/1211681949",
+   "name": "Aquarela Pet",
+   "lat": -23.5347101,
+   "lon": -46.6606867,
+   "distKm": 3.3,
+   "address": "51 Rua Doutor Cândido Espinheira, São Paulo, 05004-000",
+   "tags": {}
+  },
+  {
+   "id": "way/1229052040",
+   "name": "Encrenquinha's",
+   "lat": -23.5684776,
+   "lon": -46.6585363,
+   "distKm": 3.3,
+   "address": "1338 Rua Pamplona, São Paulo, 01405-002",
+   "tags": {
+    "phone": "+55 11 3884 1399",
+    "website": "https://www.encrenquinhas.com.br/"
+   }
+  },
+  {
+   "id": "way/1462566503",
+   "name": "D'Prata Pet",
+   "lat": -23.5308425,
+   "lon": -46.6581242,
+   "distKm": 3.3,
+   "address": "486 Rua Conselheiro Brotero, São Paulo, 01154-000",
+   "tags": {
+    "phone": "+55 11 989543135",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/11072377150",
+   "name": "Centro de adoção e Petshop - ViCa",
+   "lat": -23.5695774,
+   "lon": -46.6593103,
+   "distKm": 3.4,
+   "address": "1481 Rua Pamplona, São Paulo, 01405-003",
+   "tags": {}
+  },
+  {
+   "id": "way/414735900",
+   "name": "Cobasi",
+   "lat": -23.5622039,
+   "lon": -46.66486,
+   "distKm": 3.5,
+   "address": "2380 Rua Augusta, São Paulo, 01412-000",
+   "tags": {
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/1071311667",
+   "name": "Petland",
+   "lat": -23.5586032,
+   "lon": -46.6005746,
+   "distKm": 3.5,
+   "address": "342 Avenida Paes de Barros, São Paulo, 03114-000",
+   "tags": {}
+  },
+  {
+   "id": "node/5528315241",
+   "name": "Malucão",
+   "lat": -23.5275136,
+   "lon": -46.6079149,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "phone": "+55 11 2292-0421"
+   }
+  },
+  {
+   "id": "node/6919372891",
+   "name": "Cobasi",
+   "lat": -23.5836455,
+   "lon": -46.6414316,
+   "distKm": 3.8,
+   "address": "341 Avenida Conselheiro Rodrigues Alves",
+   "tags": {
+    "phone": "+55 11 93350-5743",
+    "website": "https://www.cobasi.com.br/",
+    "opening_hours": "Mo-Sa 08:00-21:45; Su,PH 09:00-19:45",
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "node/12449679316",
+   "name": "Casarão do pet",
+   "lat": -23.5375562,
+   "lon": -46.6675749,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1353698169",
+   "name": "Clinica Veterinaria K-Patinha",
+   "lat": -23.5670119,
+   "lon": -46.5991174,
+   "distKm": 3.9,
+   "address": "214 Rua Dom Joaquim de Melo, São Paulo, 03122-050",
+   "tags": {}
+  },
+  {
+   "id": "way/467692348",
+   "name": "Zoobotica Pet Shop",
+   "lat": -23.5768171,
+   "lon": -46.6060674,
+   "distKm": 4,
+   "address": "465 Rua Tabor, São Paulo, 04202-020",
+   "tags": {}
+  },
+  {
+   "id": "way/519790712",
+   "name": "Fauna Veterinário",
+   "lat": -23.5420943,
+   "lon": -46.671869,
+   "distKm": 4,
+   "address": "1396 Rua Cardoso de Almeida, São Paulo, 05013-001",
+   "tags": {
+    "phone": "+55 11 3801 2487",
+    "opening_hours": "Mo-Sa 08:00-17:66"
+   }
+  },
+  {
+   "id": "way/1031460014",
+   "name": "Cobasi",
+   "lat": -23.5172968,
+   "lon": -46.6194384,
+   "distKm": 4,
+   "address": "527 Rua Maria Prestes Maia, São Paulo, 02047-000",
+   "tags": {
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/987214478",
+   "name": "Petz",
+   "lat": -23.5450478,
+   "lon": -46.5939003,
+   "distKm": 4.1,
+   "address": "3300 Avenida Alcântara Machado, São Paulo, 03102-007",
+   "tags": {
+    "opening_hours": "Mo-Su 08:00-24:00"
+   }
+  },
+  {
+   "id": "way/987465836",
+   "name": "Bem locão",
+   "lat": -23.5518578,
+   "lon": -46.5905489,
+   "distKm": 4.4,
+   "address": "735 L1 Rua Tobias Barreto, São Paulo, 03176-000",
+   "tags": {}
+  },
+  {
+   "id": "way/467691354",
+   "name": "Cobasi",
+   "lat": -23.5890959,
+   "lon": -46.6194847,
+   "distKm": 4.5,
+   "address": "1429 Avenida Doutor Ricardo Jafet",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-22:45; Sa 08:00-21:45; Su,PH 09:00-20:45",
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "node/11007674328",
+   "name": "Petz",
+   "lat": -23.5671767,
+   "lon": -46.5919328,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "way/1019809312",
+   "name": "Cobasi",
+   "lat": -23.5121801,
+   "lon": -46.652746,
+   "distKm": 4.7,
+   "address": "278 Avenida Bráz Leme, São Paulo",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/1072837252",
+   "name": "Dogs Day",
+   "lat": -23.5697043,
+   "lon": -46.5916962,
+   "distKm": 4.7,
+   "address": "337 L6 Rua Juventus, São Paulo, 03124-021",
+   "tags": {}
+  },
+  {
+   "id": "way/1076693787",
+   "name": "Duo Pet",
+   "lat": -23.5367088,
+   "lon": -46.6767576,
+   "distKm": 4.7,
+   "address": "423 Rua Iperoig, São Paulo, 05016-000",
+   "tags": {}
+  },
+  {
+   "id": "way/1077469624",
+   "name": "Trusty Pet",
+   "lat": -23.5395851,
+   "lon": -46.6782671,
+   "distKm": 4.7,
+   "address": "278 Rua Ministro Gastão Mesquita, São Paulo, 05012-010",
+   "tags": {}
+  },
+  {
+   "id": "node/12479390308",
+   "name": "Petlove",
+   "lat": -23.5076889,
+   "lon": -46.6487157,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/513933769",
+   "name": "Petz",
+   "lat": -23.5944177,
+   "lon": -46.6218715,
+   "distKm": 5,
+   "address": "1750 Avenida Doutor Ricardo Jafet, 04260-000",
+   "tags": {
+    "phone": "+55 11 2181 7495",
+    "opening_hours": "24/7",
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "way/1004123117",
+   "name": "Cobasi",
+   "lat": -23.5941847,
+   "lon": -46.62039,
+   "distKm": 5,
+   "address": "2033 Avenida Doutor Ricardo Jafet, São Paulo, 04123-030",
+   "tags": {
+    "phone": "+55 11 4562 0030",
+    "opening_hours": "Mo-Sa 08:00-21:45; Sa 08:00-21:45; Su,PH 09:00-19:45",
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/1075173114",
+   "name": "Bom de Bicho",
+   "lat": -23.5383019,
+   "lon": -46.6809843,
+   "distKm": 5,
+   "address": "866 Rua Apinajés, São Paulo, 05017-000",
+   "tags": {}
+  },
+  {
+   "id": "node/11809589945",
+   "name": "Petz",
+   "lat": -23.5791053,
+   "lon": -46.5944278,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "node/8809285769",
+   "name": "Turma do Banho - PetShop",
+   "lat": -23.5037892,
+   "lon": -46.6400379,
+   "distKm": 5.2,
+   "address": "Av. Braz Leme 2115, São Paulo",
+   "tags": {}
+  },
+  {
+   "id": "way/519806831",
+   "name": "Mercado Animal Pet Shop",
+   "lat": -23.5402781,
+   "lon": -46.6833886,
+   "distKm": 5.2,
+   "address": "97 Rua Cajaíba, São Paulo, 05025-000",
+   "tags": {
+    "phone": "+55 11 2592-4872",
+    "website": "https://www.mercadoanimal.com.br/"
+   }
+  },
+  {
+   "id": "node/11534973070",
+   "name": "Mercearia dos animais",
+   "lat": -23.5655214,
+   "lon": -46.6823846,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11638385045",
+   "name": "Cobasi",
+   "lat": -23.5666738,
+   "lon": -46.6829395,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "brand": "Cobasi"
+   }
+  },
+  {
+   "id": "way/443124199",
+   "name": "Petz",
+   "lat": -23.5134953,
+   "lon": -46.6686164,
+   "distKm": 5.5,
+   "address": "1480 Avenida Otaviano Alves de Lima, São Paulo, SP 02901-000",
+   "tags": {
+    "brand": "Petz"
+   }
+  },
+  {
+   "id": "way/1028728653",
+   "name": "Pet Island",
+   "lat": -23.5955065,
+   "lon": -46.6103461,
+   "distKm": 5.5,
+   "address": "1302 Avenida Nazaré, São Paulo, 04262-200",
+   "tags": {}
+  },
+  {
+   "id": "node/10816926592",
+   "name": "Cobasi",
+   "lat": -23.5640173,
+   "lon": -46.6870249,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "brand": "Cobasi"
+   }
+  }
+ ]
+}

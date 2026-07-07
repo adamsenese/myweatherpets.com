@@ -1,0 +1,286 @@
+{
+ "$schemaVersion": 1,
+ "city": "hartford",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:33:49.584Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 27,
+ "places": [
+  {
+   "id": "node/9165581823",
+   "name": "East Hartford Animal Clinic",
+   "lat": 41.7691944,
+   "lon": -72.6491784,
+   "distKm": 2,
+   "address": "109 Connecticut Boulevard, East Hartford, CT 06108",
+   "tags": {}
+  },
+  {
+   "id": "node/9165582212",
+   "name": "Connecticut Feline Medicine and Surgery, LLC",
+   "lat": 41.7696609,
+   "lon": -72.648405,
+   "distKm": 2.1,
+   "address": "96 Connecticut Boulevard, East Hartford, CT 06108",
+   "tags": {}
+  },
+  {
+   "id": "node/10250101390",
+   "name": "Vet for Pet Wellness & Emergency Animal Hospital",
+   "lat": 41.7674643,
+   "lon": -72.6452326,
+   "distKm": 2.3,
+   "address": "765 Main Street, East Hartford, CT 06108",
+   "tags": {}
+  },
+  {
+   "id": "node/8934600707",
+   "name": "VCA Animal Hospital",
+   "lat": 41.7627106,
+   "lon": -72.6299358,
+   "distKm": 3.6,
+   "address": "334 Silver Lane, East Hartford, CT 06118",
+   "tags": {}
+  },
+  {
+   "id": "node/9388664437",
+   "name": "Beaver Brook Animal Hospital",
+   "lat": 41.7144437,
+   "lon": -72.6638878,
+   "distKm": 5.8,
+   "address": "434 Silas Deane Highway, Wethersfield, CT 06109",
+   "tags": {
+    "phone": "+1 860 757 3346",
+    "website": "https://beaverbrookah.com"
+   }
+  },
+  {
+   "id": "node/7855769396",
+   "name": "Banfield Pet Hospital",
+   "lat": 41.727348,
+   "lon": -72.619736,
+   "distKm": 6.2,
+   "address": "5 Main Street, East Hartford, CT 06118",
+   "tags": {
+    "phone": "+1 860 895 9862",
+    "website": "https://www.banfield.com/veterinarians/ct/east-hartford/gtb"
+   }
+  },
+  {
+   "id": "way/553630884",
+   "name": "Macdonald Veterinary Clinic",
+   "lat": 41.8166824,
+   "lon": -72.7107862,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/948494235",
+   "name": "Glastonbury Animal Hospital",
+   "lat": 41.7147255,
+   "lon": -72.6090504,
+   "distKm": 7.8,
+   "address": "55 Grove Street, Glastonbury, CT 06033",
+   "tags": {
+    "phone": "+1 860 800 6702",
+    "website": "https://www.glastonburyanimalhospital.com"
+   }
+  },
+  {
+   "id": "way/549844344",
+   "name": "Manchester Veterinary Clinic",
+   "lat": 41.7669162,
+   "lon": -72.5673243,
+   "distKm": 8.8,
+   "address": "156 Spencer Street, Manchester, CT 06040",
+   "tags": {}
+  },
+  {
+   "id": "way/965478725",
+   "name": "Hartford Veterinary Hospital",
+   "lat": 41.6899347,
+   "lon": -72.7058573,
+   "distKm": 8.9,
+   "address": "2300 Berlin Turnpike, Newington, CT 06111",
+   "tags": {}
+  },
+  {
+   "id": "way/947928559",
+   "name": "Beckett and Associates Veterinary Services",
+   "lat": 41.6784673,
+   "lon": -72.6012306,
+   "distKm": 11.4,
+   "address": "1269 Main Street, Glastonbury, CT 06033",
+   "tags": {
+    "phone": "+1 860 659 0848",
+    "website": "https://beckettvet.net"
+   }
+  },
+  {
+   "id": "way/1025067554",
+   "name": "VCA Valley Animal Hospital",
+   "lat": 41.8536664,
+   "lon": -72.5926759,
+   "distKm": 11.8,
+   "address": "39 Patria Road, South Windsor, CT 06074",
+   "tags": {
+    "opening_hours": "Mo-Sa 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/8915101902",
+   "name": "Animal Hospital of Rocky Hill",
+   "lat": 41.6544683,
+   "lon": -72.6794006,
+   "distKm": 12.4,
+   "address": "588 Cromwell Avenue, Rocky Hill, CT 06067",
+   "tags": {}
+  },
+  {
+   "id": "way/910901794",
+   "name": "Avon Veterinary Emergency Referral",
+   "lat": 41.7998851,
+   "lon": -72.8199922,
+   "distKm": 12.7,
+   "address": "9 Avonwood Road, Avon, CT 06001",
+   "tags": {
+    "phone": "+1-860-470-7456",
+    "website": "https://avonervet.com/",
+    "opening_hours": "Mo-Fr 17:00-08:00, Sa-Su,PH 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/9448137469",
+   "name": "New England Veterinary Center & Cancer Care",
+   "lat": 41.8897507,
+   "lon": -72.6483475,
+   "distKm": 13.9,
+   "address": "955 Kennedy Road, Windsor, CT 06095",
+   "tags": {
+    "website": "https://www.nevccc.com/site/home",
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/12154205819",
+   "name": "Compassionate Care Veterinary Hospital",
+   "lat": 41.644342,
+   "lon": -72.732768,
+   "distKm": 14.4,
+   "address": "196 Berlin Turnpike, Berlin, CT 06037",
+   "tags": {
+    "phone": "+1 860-438-7597",
+    "website": "https://compassionatevet.net/",
+    "opening_hours": "Mo 09:00-18:00; Tu,We 08:00-17:00; Th,Fr 09:00-16:00; Sa 09:00-13:00 open \"every other Saturday\"; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/6602303560",
+   "name": "Equine Veterinary Clinic",
+   "lat": 41.6314807,
+   "lon": -72.6037802,
+   "distKm": 16,
+   "address": "895 Glastonbury Turnpike, Portland, CT 06480",
+   "tags": {}
+  },
+  {
+   "id": "node/9733937508",
+   "name": "Animal Hospital of Berlin",
+   "lat": 41.6385866,
+   "lon": -72.7691732,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/961779078",
+   "name": "VCA Cromwell Animal Hospital",
+   "lat": 41.6186151,
+   "lon": -72.6544813,
+   "distKm": 16.4,
+   "address": "547 Main Street, Cromwell, CT 06416",
+   "tags": {}
+  },
+  {
+   "id": "node/9727228473",
+   "name": "Kensington Bird & Animal Hospital",
+   "lat": 41.6324519,
+   "lon": -72.7620133,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9723971361",
+   "name": "Compassionate Care",
+   "lat": 41.6209167,
+   "lon": -72.7426955,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/953251492",
+   "name": "Ragged Mountain Animal Hospital",
+   "lat": 41.6774899,
+   "lon": -72.8493749,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9567635732",
+   "name": "Bolton Veterinary Hospital",
+   "lat": 41.7853103,
+   "lon": -72.461345,
+   "distKm": 17.7,
+   "address": "222 Boston Turnpike, Bolton, CT 06043",
+   "tags": {}
+  },
+  {
+   "id": "node/10245941570",
+   "name": "East of the River Veterinary Emergency",
+   "lat": 41.7854704,
+   "lon": -72.4614094,
+   "distKm": 17.7,
+   "address": "222 Boston Turnpike, Bolton, CT 06043",
+   "tags": {
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/793146182",
+   "name": "Companion Animal Hospital",
+   "lat": 41.6050499,
+   "lon": -72.7089886,
+   "distKm": 18.1,
+   "address": "7 Kirby Road, Cromwell, CT 06416",
+   "tags": {}
+  },
+  {
+   "id": "node/6276099526",
+   "name": "VCA Old Canal Animal Hospital",
+   "lat": 41.6717056,
+   "lon": -72.8664535,
+   "distKm": 19.1,
+   "address": "49 East Main Street, Plainville, CT 06062",
+   "tags": {
+    "phone": "+1-860-747-2759",
+    "website": "https://www.vcahospitals.com/old-canal"
+   }
+  },
+  {
+   "id": "node/3520240348",
+   "name": "Emergency Veterinary Hospital",
+   "lat": 41.8242102,
+   "lon": -72.8956686,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "$schemaVersion": 1,
+ "city": "philadelphia",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:21:41.134Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 40,
+ "places": [
+  {
+   "id": "way/656798407",
+   "name": "Seger Dog Park",
+   "lat": 39.9434433,
+   "lon": -75.1594299,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "website": "https://segerdogpark.org"
+   }
+  },
+  {
+   "id": "way/551168949",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9628606,
+   "lon": -75.1581368,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/706527895",
+   "name": "Green St Dog Park",
+   "lat": 39.9649598,
+   "lon": -75.1683973,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/470756510",
+   "name": "Large Breed Dog Park",
+   "lat": 39.949034,
+   "lon": -75.1823836,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/470756512",
+   "name": "Small Breed Dog Park",
+   "lat": 39.9493235,
+   "lon": -75.1821527,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13332587343",
+   "name": "Highline Dog Park",
+   "lat": 39.95658,
+   "lon": -75.1847963,
+   "distKm": 1.7,
+   "address": "3025 John F. Kennedy Boulevard, Philadelphia, PA 19104",
+   "tags": {
+    "access": "yes",
+    "website": "https://philadelphia.uli.org/highline-park-at-schuylkill-yards/"
+   }
+  },
+  {
+   "id": "way/457009791",
+   "name": "Columbus Square Dog Park",
+   "lat": 39.932799,
+   "lon": -75.1642102,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1198272222",
+   "name": "Columbus Square Small Dog Park",
+   "lat": 39.9327774,
+   "lon": -75.1643192,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/792327364",
+   "name": "Orianna Hill Dog Park",
+   "lat": 39.9656204,
+   "lon": -75.1428628,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.oriannahill.org/"
+   }
+  },
+  {
+   "id": "way/1296747405",
+   "name": "The Boozy Mutt",
+   "lat": 39.9730113,
+   "lon": -75.1804138,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1021708161",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.966666,
+   "lon": -75.1384334,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11228136477",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9288435,
+   "lon": -75.1494814,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/584778393",
+   "name": "Bok Dog Park",
+   "lat": 39.9250663,
+   "lon": -75.1607797,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1336674030",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9658271,
+   "lon": -75.132818,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/12970138",
+   "name": "Lanier Dog Park",
+   "lat": 39.9336268,
+   "lon": -75.1938009,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/323919392",
+   "name": "Palmer Doggie Depot",
+   "lat": 39.9761976,
+   "lon": -75.1330882,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/876443281",
+   "name": "Pops Dogs",
+   "lat": 39.9842277,
+   "lon": -75.123907,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1311816569",
+   "name": "URBN Dog Park",
+   "lat": 39.8888541,
+   "lon": -75.1780379,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1206223799",
+   "name": "Fetch Park",
+   "lat": 40.015309,
+   "lon": -75.2108976,
+   "distKm": 8,
+   "address": "3720 Main Street, Philadelphia, PA 19127",
+   "tags": {
+    "access": "customers",
+    "website": "https://fetchpark.com/locations/phildelphia"
+   }
+  },
+  {
+   "id": "way/1214373547",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0107981,
+   "lon": -75.2203633,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/586371655",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9135713,
+   "lon": -75.0797937,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1176090174",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0249344,
+   "lon": -75.2230464,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1192655596",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0259697,
+   "lon": -75.2213607,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1259766952",
+   "name": "Bark Park",
+   "lat": 40.0294746,
+   "lon": -75.2328569,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/10830635036",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0020988,
+   "lon": -75.2688967,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/703235072",
+   "name": "Bow Wow Dog Park",
+   "lat": 39.961679,
+   "lon": -75.0431285,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/860754400",
+   "name": "Cooper River Dog Park",
+   "lat": 39.9197665,
+   "lon": -75.0433428,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1315616624",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.919693,
+   "lon": -75.043471,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1180014472",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0459603,
+   "lon": -75.2467154,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/992738282",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8766476,
+   "lon": -75.055782,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/886571913",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8857354,
+   "lon": -75.2922937,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1017954732",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0401033,
+   "lon": -75.2686818,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/210837699",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0823124,
+   "lon": -75.1491912,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1516269505",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.011515,
+   "lon": -75.0079022,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/824929802",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.0155363,
+   "lon": -75.3289178,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/954033273",
+   "name": "Timber Creek Dog Park",
+   "lat": 39.8313444,
+   "lon": -75.0548387,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.camdencounty.com/service/parks/timber-creek-park/"
+   }
+  },
+  {
+   "id": "way/367316289",
+   "name": "Conshohocken Dog Park",
+   "lat": 40.0697549,
+   "lon": -75.3009383,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/657669180",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.1140682,
+   "lon": -75.0779677,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "designated"
+   }
+  },
+  {
+   "id": "way/827128637",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9785765,
+   "lon": -75.3950191,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1500758059",
+   "name": "Grovr Run",
+   "lat": 40.1288143,
+   "lon": -75.1279882,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

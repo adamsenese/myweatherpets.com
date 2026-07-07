@@ -1,0 +1,701 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-york",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:20:34.851Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/8769372817",
+   "name": "Pamper Ur Pets",
+   "lat": 40.7178651,
+   "lon": -74.0071513,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5978745699",
+   "name": "Seaport Paw",
+   "lat": 40.7074858,
+   "lon": -74.0016542,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5769099740",
+   "name": "Pacific Aquarium",
+   "lat": 40.719773,
+   "lon": -73.9914829,
+   "distKm": 1.4,
+   "address": "46 Delancey Street, New York, NY 10002",
+   "tags": {
+    "phone": "+1-212-995-5895",
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/1608794595",
+   "name": "PetSmart",
+   "lat": 40.726185,
+   "lon": -73.995877,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4006308110",
+   "name": "Happy Paws",
+   "lat": 40.7253645,
+   "lon": -73.995326,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2494312770",
+   "name": "Paws on Pineapple",
+   "lat": 40.6980551,
+   "lon": -73.9922574,
+   "distKm": 2,
+   "address": "89 Pineapple Street, 11201",
+   "tags": {
+    "phone": "+1-718-855-8686"
+   }
+  },
+  {
+   "id": "node/9330613466",
+   "name": "Pet Emporium",
+   "lat": 40.695227,
+   "lon": -73.9953931,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-624-2533"
+   }
+  },
+  {
+   "id": "node/12729355110",
+   "name": "Petopia",
+   "lat": 40.723223,
+   "lon": -73.9857768,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-212-353-2863",
+    "website": "https://www.nycpetopia.com",
+    "opening_hours": "Mo-Su 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/4881022236",
+   "name": "Wooftown",
+   "lat": 40.7335106,
+   "lon": -74.0040897,
+   "distKm": 2.3,
+   "address": "91 Christopher Street, New York, NY 10014",
+   "tags": {}
+  },
+  {
+   "id": "node/2494245636",
+   "name": "Whiskers Holistic Petcare",
+   "lat": 40.729444,
+   "lon": -73.987554,
+   "distKm": 2.4,
+   "address": "235 East 9th Street, 10003",
+   "tags": {
+    "phone": "+1-212-979-2532",
+    "website": "https://www.1800whiskers.com",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/9893991361",
+   "name": "Citipups",
+   "lat": 40.733833,
+   "lon": -74.0019773,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-888-400-0859",
+    "website": "https://www.citipups.com",
+    "opening_hours": "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/11836538417",
+   "name": "Wagwear",
+   "lat": 40.7329993,
+   "lon": -73.9928643,
+   "distKm": 2.5,
+   "address": "48 East 11th Street, New York, NY 10003",
+   "tags": {}
+  },
+  {
+   "id": "node/2524539490",
+   "name": "PetSmart",
+   "lat": 40.6891572,
+   "lon": -73.9913306,
+   "distKm": 2.9,
+   "address": "238 Atlantic Avenue, Brooklyn, NY 11201",
+   "tags": {
+    "phone": "+1 718-852-2519",
+    "website": "https://www.petsmart.com/store-locator/store/?storeID=2249",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3676993347",
+   "name": "Petopia",
+   "lat": 40.7307781,
+   "lon": -73.9816312,
+   "distKm": 2.9,
+   "address": "420 East 14th Street, New York, NY 10009",
+   "tags": {
+    "phone": "+1-212-677-2400",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/6374724263",
+   "name": "Beastly Bite",
+   "lat": 40.6889128,
+   "lon": -73.9925696,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-522-5133",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/11528299371",
+   "name": "Petco",
+   "lat": 40.7363581,
+   "lon": -73.9889426,
+   "distKm": 3,
+   "address": "44 Union Square East, New York, NY 10003",
+   "tags": {
+    "phone": "+1 212-895-9851",
+    "website": "https://stores.petco.com/ny/newyork/pet-supplies-newyork-ny-3741.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Su 09:00-21:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10746952679",
+   "name": "Pamper UR Pets",
+   "lat": 40.7404484,
+   "lon": -73.999765,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6446720167",
+   "name": "Love Thy Pet",
+   "lat": 40.6836897,
+   "lon": -74.0008688,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-596-2399",
+    "website": "http://www.lovethypetbklyn.com",
+    "opening_hours": "Mo-Fr 10:30-20:00; Sa 10:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/7679342635",
+   "name": "Citipups",
+   "lat": 40.7423774,
+   "lon": -74.0003584,
+   "distKm": 3.3,
+   "address": "166 8th Avenue, 10011",
+   "tags": {
+    "phone": "+1-888-400-0859",
+    "website": "https://citipups.com"
+   }
+  },
+  {
+   "id": "node/10078963997",
+   "name": "Fussy Friends",
+   "lat": 40.7205966,
+   "lon": -74.0438777,
+   "distKm": 3.3,
+   "address": "148 Newark Avenue, Jersey City, 07302",
+   "tags": {}
+  },
+  {
+   "id": "node/5970480681",
+   "name": "Court Street Pet Food",
+   "lat": 40.6815669,
+   "lon": -73.9964462,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-243-1919",
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 19:00-19:00"
+   }
+  },
+  {
+   "id": "node/6039899819",
+   "name": "PetSmart",
+   "lat": 40.7425057,
+   "lon": -73.9894157,
+   "distKm": 3.6,
+   "address": "1107 Broadway, Manhattan, NY 10010",
+   "tags": {
+    "phone": "+1 646-949-1422",
+    "website": "https://www.petsmart.com/store-locator/store/?storeID=3077",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00 open \"Store\" || Mo-Th 07:00-19:00; Fr, Sa 07:00-21:00; Su 08:00-18:00 open \"Grooming\"",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9282057918",
+   "name": "nyc pet",
+   "lat": 40.7184004,
+   "lon": -73.9636123,
+   "distKm": 3.6,
+   "address": "157 Kent Avenue, 11249",
+   "tags": {
+    "phone": "+1 917-919-1915"
+   }
+  },
+  {
+   "id": "node/11577701002",
+   "name": "WE",
+   "lat": 40.7443761,
+   "lon": -73.9945703,
+   "distKm": 3.6,
+   "address": "152 West 24th Street",
+   "tags": {
+    "phone": "+1 866-262-8133",
+    "website": "bideawee.com",
+    "opening_hours": "Tu-Th, Su 11:00-16:00; Fr, Sa 12:00-18:30"
+   }
+  },
+  {
+   "id": "node/12563324591",
+   "name": "Hound About Town",
+   "lat": 40.7277879,
+   "lon": -74.0439586,
+   "distKm": 3.6,
+   "address": "17 McWilliams Place, Jersey City, NJ 07302",
+   "tags": {}
+  },
+  {
+   "id": "node/13746369406",
+   "name": "ZOOM ROOM",
+   "lat": 40.7448355,
+   "lon": -73.9931046,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6752564954",
+   "name": "Pet Central",
+   "lat": 40.7451608,
+   "lon": -73.9908932,
+   "distKm": 3.8,
+   "address": "776 6th Avenue, 10001",
+   "tags": {}
+  },
+  {
+   "id": "node/2704131534",
+   "name": "Petopia",
+   "lat": 40.742438,
+   "lon": -73.9807945,
+   "distKm": 3.9,
+   "address": "404 3rd Avenue, 10016",
+   "tags": {
+    "phone": "+1-212-481-4544",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/5206183371",
+   "name": "ABC Pet Supply",
+   "lat": 40.6896306,
+   "lon": -73.9704973,
+   "distKm": 3.9,
+   "address": "225 DeKalb Avenue",
+   "tags": {
+    "phone": "+1-718-875-1661"
+   }
+  },
+  {
+   "id": "node/6169675319",
+   "name": "Pet Central",
+   "lat": 40.7474027,
+   "lon": -74.0008914,
+   "distKm": 3.9,
+   "address": "231 9th Avenue, 10001",
+   "tags": {
+    "phone": "+1 646-928-0157",
+    "website": "https://petcentralnyc.com",
+    "opening_hours": "Mo-Fr 11:00-20:30; Sa 10:00-20:30; Su 12:00-19:00"
+   }
+  },
+  {
+   "id": "node/6779611382",
+   "name": "Hoboken Pet",
+   "lat": 40.7430433,
+   "lon": -74.0294016,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10836120316",
+   "name": "Love Thy Beast",
+   "lat": 40.7174229,
+   "lon": -73.959808,
+   "distKm": 3.9,
+   "address": "115 North 5th Street, Brooklyn, NY 11249",
+   "tags": {
+    "website": "https://www.lovethybeast.com/",
+    "opening_hours": "Mo-Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/2568219123",
+   "name": "Nycpet.com",
+   "lat": 40.693229,
+   "lon": -73.9666831,
+   "distKm": 4,
+   "address": "464 Myrtle Avenue, 11205",
+   "tags": {
+    "phone": "+1-718-636-3848",
+    "website": "https://nycpet.com",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/3841321878",
+   "name": "Biscuits & Bath",
+   "lat": 40.7448099,
+   "lon": -73.978448,
+   "distKm": 4.2,
+   "address": "487 3rd Avenue, 10016",
+   "tags": {
+    "phone": "+1-646-786-0971",
+    "website": "https://www.biscuitsandbath.com/locations/murray-hill/",
+    "opening_hours": "Mo-Fr 07:00-19:00"
+   }
+  },
+  {
+   "id": "node/11868399776",
+   "name": "Pet Supplied",
+   "lat": 40.729487,
+   "lon": -73.9593531,
+   "distKm": 4.3,
+   "address": "87 West Street, Brooklyn, NY 11222",
+   "tags": {
+    "phone": "+1-347-987-3527",
+    "website": "https://www.petsuppliedlocal.com"
+   }
+  },
+  {
+   "id": "node/5360014576",
+   "name": "JustFoodForDogs",
+   "lat": 40.7495899,
+   "lon": -74.0243307,
+   "distKm": 4.4,
+   "address": "1180 Maxwell Lane, Hoboken, NJ 07030",
+   "tags": {
+    "website": "https://www.justfoodfordogs.com/store/1180-maxwell-lane-hoboken-nj-07030.html"
+   }
+  },
+  {
+   "id": "node/5978556758",
+   "name": "NYCPet",
+   "lat": 40.7189946,
+   "lon": -73.9541594,
+   "distKm": 4.4,
+   "address": "475 Driggs Avenue, 11211",
+   "tags": {
+    "phone": "+1-718-218-7101",
+    "website": "https://nycpet.com",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2710839411",
+   "name": "Happy Feet",
+   "lat": 40.7459869,
+   "lon": -73.975251,
+   "distKm": 4.5,
+   "address": "657 2nd Avenue, 10016",
+   "tags": {
+    "phone": "+1 212 889 3400",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/10998406948",
+   "name": "Paws Grocer",
+   "lat": 40.6805677,
+   "lon": -73.9742405,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-744-0131",
+    "website": "https://www.pawsgrocer.com",
+    "opening_hours": "Mo-Sa 10:00-20:00, Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/5963348275",
+   "name": "Pet Central",
+   "lat": 40.7472865,
+   "lon": -73.9743008,
+   "distKm": 4.7,
+   "address": "705 2nd Avenue, 10016",
+   "tags": {
+    "phone": "+1 212-867-8961",
+    "website": "https://petcentralnyc.com",
+    "opening_hours": "Mo-Fr 11:00-20:30; Sa 10:00-20:30; Su 12:00-19:00"
+   }
+  },
+  {
+   "id": "node/13714964772",
+   "name": "All in 1 Petshop",
+   "lat": 40.7289482,
+   "lon": -73.9535896,
+   "distKm": 4.8,
+   "address": "846 Manhattan Avenue, Brooklyn, NY 11222",
+   "tags": {
+    "website": "https://allin1petshop.com/",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/5732328016",
+   "name": "Manhattan Aquariums",
+   "lat": 40.7568631,
+   "lon": -73.99909,
+   "distKm": 4.9,
+   "address": "522 West 37th Street",
+   "tags": {
+    "phone": "+1-310-923-7929",
+    "website": "https://www.aquariumsnewyork.com/",
+    "opening_hours": "Mo-Fr 13:00-20:00; Sa 11:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/1157647167",
+   "name": "Acme Pet Food",
+   "lat": 40.6774351,
+   "lon": -73.9691553,
+   "distKm": 5,
+   "address": "628 Vanderbilt Avenue, Brooklyn, NY 11238",
+   "tags": {
+    "phone": "+1-718-789-8062",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/2550581158",
+   "name": "Park Slope Pet",
+   "lat": 40.6696027,
+   "lon": -73.9876233,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-965-3555"
+   }
+  },
+  {
+   "id": "node/5328220839",
+   "name": "Gone To The Dogs",
+   "lat": 40.6740201,
+   "lon": -73.9755983,
+   "distKm": 5,
+   "address": "103 7th Avenue, Brooklyn, NY 11215",
+   "tags": {
+    "phone": "+1-201-375-3471",
+    "website": "https://gonetothedogs.co",
+    "opening_hours": "Mo-Su 11:00-18:30"
+   }
+  },
+  {
+   "id": "way/250441210",
+   "name": "Unleashed",
+   "lat": 40.6747326,
+   "lon": -73.9749244,
+   "distKm": 5,
+   "address": "81 7th Avenue, Brooklyn, NY 11217",
+   "tags": {
+    "phone": "+1-718-230-5059",
+    "website": "https://stores.petco.com/ny/brooklyn/pet-supplies-brooklyn-ny-5717.html",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/5536994827",
+   "name": "Bark Slope",
+   "lat": 40.6695327,
+   "lon": -73.9858135,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8616334230",
+   "name": "Natty Pet Shop",
+   "lat": 40.6799247,
+   "lon": -73.9643436,
+   "distKm": 5.1,
+   "address": "620 Washington Avenue, Brooklyn, NY 11238",
+   "tags": {
+    "phone": "+1-718-975-4414",
+    "website": "https://www.nattypetshop.com"
+   }
+  },
+  {
+   "id": "node/9512186336",
+   "name": "Mr. Friendly",
+   "lat": 40.6885433,
+   "lon": -73.9552822,
+   "distKm": 5.1,
+   "address": "228 Clifton Place, 11216",
+   "tags": {
+    "phone": "+1-718-489-3575",
+    "website": "https://mrfriendly.nyc",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2838706930",
+   "name": "NYC Pet",
+   "lat": 40.7127106,
+   "lon": -73.9439202,
+   "distKm": 5.2,
+   "address": "300 Graham Avenue, 11211",
+   "tags": {
+    "phone": "+1-718-387-4700",
+    "website": "https://nycpet.com/a/pages/locations/253/williamsburg-i",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/5673620477",
+   "name": "Just Food For Dogs",
+   "lat": 40.6719354,
+   "lon": -73.9771917,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "phone": "+1-929-528-7112",
+    "website": "https://www.justfoodfordogs.com/store/169-7th-avenue-brooklyn-ny-11215.html",
+    "opening_hours": "Mo-Sa 11:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/6068993411",
+   "name": "Muddy Paws",
+   "lat": 40.7185985,
+   "lon": -73.9452043,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5631385022",
+   "name": "District Dog",
+   "lat": 40.7231656,
+   "lon": -73.944329,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/5159871721",
+   "name": "HappyDogs",
+   "lat": 40.7430091,
+   "lon": -73.9560701,
+   "distKm": 5.4,
+   "address": "5-04 50th Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/13740190728",
+   "name": "Biscuits & Bath - Hell's Kitchen",
+   "lat": 40.7608599,
+   "lon": -73.9995279,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2568724653",
+   "name": "NYC Pet",
+   "lat": 40.6662644,
+   "lon": -73.9822917,
+   "distKm": 5.5,
+   "address": "350 7th Avenue, Brooklyn, NY 11215",
+   "tags": {
+    "phone": "+1-718-768-3954",
+    "website": "https://nycpet.com/",
+    "opening_hours": "Mo-Fr 09:00-19:00, Sa-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/6426529062",
+   "name": "Brooklyn Tails Pet Food",
+   "lat": 40.6752397,
+   "lon": -73.9634402,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-552-2001"
+   }
+  },
+  {
+   "id": "node/5440512345",
+   "name": "Pet Island",
+   "lat": 40.7423561,
+   "lon": -73.9526265,
+   "distKm": 5.6,
+   "address": "10-50 Jackson Avenue, 11101",
+   "tags": {
+    "phone": "+1 718-786-1555",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/6221708895",
+   "name": "3 Cats Pet Store",
+   "lat": 40.6633663,
+   "lon": -73.9915423,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-347-554-2251",
+    "opening_hours": "Mo-Fr 09:00-20:00, Sa-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "way/248240183",
+   "name": "Pet Delight",
+   "lat": 40.661799,
+   "lon": -74.0005415,
+   "distKm": 5.7,
+   "address": "756 3rd Avenue, 11232",
+   "tags": {
+    "phone": "+1-718-788-7970"
+   }
+  }
+ ]
+}

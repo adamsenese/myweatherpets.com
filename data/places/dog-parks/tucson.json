@@ -1,0 +1,424 @@
+{
+ "$schemaVersion": 1,
+ "city": "tucson",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:28:49.168Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 45,
+ "places": [
+  {
+   "id": "way/1237965305",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2469208,
+   "lon": -110.9692131,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1043608691",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1977887,
+   "lon": -110.9940824,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/442840237",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2569167,
+   "lon": -110.9797776,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/906967650",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1943115,
+   "lon": -111.0001774,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1014921864",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2471214,
+   "lon": -111.0099685,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/233336158",
+   "name": "Miko's Corner Playground",
+   "lat": 32.2101621,
+   "lon": -110.925766,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/737198793",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2683895,
+   "lon": -110.9903086,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/849340598",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2483879,
+   "lon": -110.9253317,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/909874812",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2748456,
+   "lon": -110.9604181,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/897383637",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2741008,
+   "lon": -110.9419827,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/897383599",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2774493,
+   "lon": -110.9414041,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/973188755",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1613071,
+   "lon": -110.9586486,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/924067622",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2870509,
+   "lon": -110.9583832,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/900141016",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2823461,
+   "lon": -110.9382183,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1168420874",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2724786,
+   "lon": -110.9146777,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/847264818",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2273386,
+   "lon": -110.8855438,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/844687545",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1975814,
+   "lon": -110.8887211,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/664897786",
+   "name": "Christopher Columbus Dog Park",
+   "lat": 32.2842472,
+   "lon": -111.033381,
+   "distKm": 8.8,
+   "address": "4300 Silverbell Road, Tucson, AZ 85745",
+   "tags": {
+    "website": "https://www.tucsonaz.gov/parks/ChristopherColumbusPark"
+   }
+  },
+  {
+   "id": "way/1360814478",
+   "name": "Smiling Dog Ranch Dog Park",
+   "lat": 32.2762176,
+   "lon": -110.904763,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/972134414",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1380921,
+   "lon": -110.9475716,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/974504759",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.306968,
+   "lon": -111.0267359,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1003265370",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3193972,
+   "lon": -110.9718127,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/835170222",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2553549,
+   "lon": -110.8647619,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1052819482",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3209047,
+   "lon": -111.0043486,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/889408421",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3049982,
+   "lon": -110.8971818,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/889408422",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3054293,
+   "lon": -110.8945589,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/729201396",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2164642,
+   "lon": -110.8474977,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/833712320",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2479948,
+   "lon": -110.8376673,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1004176755",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3233553,
+   "lon": -110.8939661,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1085178834",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3396718,
+   "lon": -111.0169451,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/835111890",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2528077,
+   "lon": -110.8300115,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/846970183",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2347276,
+   "lon": -110.8270696,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1084564519",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3463339,
+   "lon": -111.0210951,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/848171794",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2494788,
+   "lon": -110.8223965,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1123750725",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3568906,
+   "lon": -111.032799,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/20309725",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1764015,
+   "lon": -110.8136559,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/841095400",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2478937,
+   "lon": -110.8028814,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/842904910",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.106528,
+   "lon": -110.8534703,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1069438265",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3773222,
+   "lon": -110.9683702,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1126612079",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3810383,
+   "lon": -110.9616804,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4162002870",
+   "name": "Big Dogs",
+   "lat": 32.346546,
+   "lon": -111.0958937,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4162002871",
+   "name": "Little Dogs",
+   "lat": 32.3467448,
+   "lon": -111.0955624,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/839987092",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2377212,
+   "lon": -110.7796521,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1157124034",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.2830928,
+   "lon": -110.787539,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1127373361",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.3962393,
+   "lon": -110.9645742,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

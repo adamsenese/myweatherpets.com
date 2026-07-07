@@ -1,0 +1,118 @@
+{
+ "$schemaVersion": 1,
+ "city": "dallas",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:22:22.800Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "node/5132199321",
+   "name": "Urban Paws",
+   "lat": 32.7836756,
+   "lon": -96.7879924,
+   "distKm": 1.1,
+   "address": "2526 Elm Street, Dallas, TX 75226",
+   "tags": {
+    "phone": "+1-214-748-8008",
+    "website": "https://urbanpawsdallas.com/",
+    "opening_hours": "Su 11:00-16:00; Mo-Fr 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13823620605",
+   "name": "Kinder Kritter",
+   "lat": 32.8266732,
+   "lon": -96.7102339,
+   "distKm": 9.8,
+   "address": "8928 Garland Road",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1515828248",
+   "name": "White Rock Stables",
+   "lat": 32.8622862,
+   "lon": -96.7286789,
+   "distKm": 11.5,
+   "address": "8949 Lanshire Drive",
+   "tags": {
+    "website": "https://whiterockstables.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13885970878",
+   "name": "Griffin Rock Cat Retreat",
+   "lat": 32.8415787,
+   "lon": -96.6922115,
+   "distKm": 12.2,
+   "address": "10310 Garland Road",
+   "tags": {
+    "website": "https://griffinrockcatretreat.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1534489778",
+   "name": "Happy Tails",
+   "lat": 32.8646859,
+   "lon": -96.7115905,
+   "distKm": 12.6,
+   "address": "10121 East Northwest Highway",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13265842197",
+   "name": "Ruffit",
+   "lat": 32.9078828,
+   "lon": -96.8059346,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13318127615",
+   "name": "Wag Hotel",
+   "lat": 32.9422406,
+   "lon": -96.7413026,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11861382742",
+   "name": "Yard Dog",
+   "lat": 32.9518922,
+   "lon": -96.8303249,
+   "distKm": 19.7,
+   "address": "15003 Inwood Road, Addison, TX 75001",
+   "tags": {
+    "website": "https://www.theyarddog.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10861411921",
+   "name": "Playful Pet Resort",
+   "lat": 32.9184362,
+   "lon": -96.9266776,
+   "distKm": 19.9,
+   "address": "2460 Lacy Lane, Carrollton, TX 75006",
+   "tags": {
+    "website": "https://playfulpetresort.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

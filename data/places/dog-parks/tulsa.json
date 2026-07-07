@@ -1,0 +1,183 @@
+{
+ "$schemaVersion": 1,
+ "city": "tulsa",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:31:10.056Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "way/90548281",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1520884,
+   "lon": -96.0170361,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1288355690",
+   "name": "Tails and Ales",
+   "lat": 36.1347694,
+   "lon": -95.9855265,
+   "distKm": 2.2,
+   "address": "1903 South Boston Avenue East, Tulsa, OK 74119",
+   "tags": {
+    "access": "no",
+    "website": "https://www.tailsandalestulsa.com/"
+   }
+  },
+  {
+   "id": "relation/19927656",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1320085,
+   "lon": -96.0060212,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/470023089",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0641061,
+   "lon": -95.9674898,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1531205006",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.052884,
+   "lon": -96.0077488,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "access": "residents"
+   }
+  },
+  {
+   "id": "way/202210767",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1655427,
+   "lon": -95.8667449,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/988533160",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0475135,
+   "lon": -95.9636711,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1202215254",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0707486,
+   "lon": -95.8846867,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/717276843",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0169287,
+   "lon": -95.9835589,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1413994123",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.102907,
+   "lon": -95.8310775,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/236991876",
+   "name": "Biscuit Acres Dog Park",
+   "lat": 36.028179,
+   "lon": -95.9115204,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "opening_hours": "We-Su sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/532438645",
+   "name": "Southern Reserve Dog Park",
+   "lat": 36.0134572,
+   "lon": -96.0233522,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/766866658",
+   "name": "Waggin' Trail Dog Park (small dogs)",
+   "lat": 36.2718602,
+   "lon": -95.8701008,
+   "distKm": 17.1,
+   "address": "8200 North 91st Avenue East, Owasso, OK 74055",
+   "tags": {
+    "access": "yes",
+    "website": "https://cityofowasso.com/625/Owasso-Dog-Park"
+   }
+  },
+  {
+   "id": "way/766866657",
+   "name": "Waggin' Trail Dog Park (large dogs)",
+   "lat": 36.2724862,
+   "lon": -95.8698284,
+   "distKm": 17.2,
+   "address": "8200 North 91st Avenue East, Owasso, OK 74055",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://cityofowasso.com/625/Owasso-Dog-Park"
+   }
+  },
+  {
+   "id": "way/745077256",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0286552,
+   "lon": -95.8667818,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/840678230",
+   "name": "Barking Ridge",
+   "lat": 36.0220583,
+   "lon": -95.8537126,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/522240619",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0834969,
+   "lon": -95.7946542,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

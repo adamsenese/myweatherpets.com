@@ -1,0 +1,48 @@
+{
+ "$schemaVersion": 1,
+ "city": "orlando",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:32:40.069Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/13014663217",
+   "name": "Nona Paws Pet Sitting",
+   "lat": 28.4183238,
+   "lon": -81.2759222,
+   "distKm": 16.7,
+   "address": "10274 Hartford Maroon Road, Orlando, FL 32827",
+   "tags": {
+    "website": "https://nonapawspetsitting.com",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13207134121",
+   "name": "Dogtopia",
+   "lat": 28.6696626,
+   "lon": -81.4663807,
+   "distKm": 16.9,
+   "address": "2320 East Semoran Boulevard, Apopka, FL 32703",
+   "tags": {
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/910930027",
+   "name": "Pet Paradise Winter Garden",
+   "lat": 28.5331693,
+   "lon": -81.5565708,
+   "distKm": 17.4,
+   "address": "765 Windermere Road, Winter Garden, FL 34787",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

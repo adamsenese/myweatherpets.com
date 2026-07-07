@@ -1,0 +1,84 @@
+{
+ "$schemaVersion": 1,
+ "city": "london",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:36:49.092Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "way/983662236",
+   "name": "Hairy Hounds In Hackney",
+   "lat": 51.5471529,
+   "lon": -0.0422671,
+   "distKm": 7.4,
+   "address": "10 Mackintosh Lane, London",
+   "tags": {
+    "website": "https://www.hairyhoundsinhackney.co.uk/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8342997557",
+   "name": "Tailwaggers East",
+   "lat": 51.5130753,
+   "lon": 0.0059526,
+   "distKm": 9.3,
+   "address": "39 Lyell Street, London, E14 0SZ",
+   "tags": {
+    "website": "https://tailwaggers-east.co.uk/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12509518056",
+   "name": "Ponyo’s House",
+   "lat": 51.5105988,
+   "lon": 0.0117058,
+   "distKm": 9.7,
+   "address": "15 Peto Street North, London, E16 1DP",
+   "tags": {
+    "website": "https://www.ponyoshouse.co.uk",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4318369464",
+   "name": "Digs & Dash",
+   "lat": 51.461204,
+   "lon": -0.3004767,
+   "distKm": 13,
+   "address": "12 Sheen Road, Richmond, TW9 1AS",
+   "tags": {
+    "website": "http://www.digsanddash.com",
+    "opening_hours": "08:00-22:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11215291202",
+   "name": "Berrylands Cattery",
+   "lat": 51.3898826,
+   "lon": -0.282101,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4386154944",
+   "name": "Elmtree Pet Hotel",
+   "lat": 51.6681838,
+   "lon": -0.0980803,
+   "distKm": 18,
+   "address": "8 Cook's Hole Road, Enfield, EN2 0UD",
+   "tags": {
+    "phone": "+44 20 8367 4625",
+    "website": "https://www.elmtreepethotel.co.uk/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

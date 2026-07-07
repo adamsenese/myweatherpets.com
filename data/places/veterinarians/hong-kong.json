@@ -1,0 +1,480 @@
+{
+ "$schemaVersion": 1,
+ "city": "hong-kong",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:23:54.765Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 46,
+ "places": [
+  {
+   "id": "node/10133043714",
+   "name": "香港非牟利獸醫診所 Hong Kong Non-Profit making Veterinary Clinic",
+   "lat": 22.3249889,
+   "lon": 114.167107,
+   "distKm": 0.7,
+   "address": "22-24 基隆街 Ki Lung Street",
+   "tags": {
+    "phone": "+852 2393 2070",
+    "website": "https://www.npv.org.hk/"
+   }
+  },
+  {
+   "id": "node/10133043715",
+   "name": "NPV動物中醫藥及針灸中心 NPV Traditional Chinese Medicine And Acupuncture Centre",
+   "lat": 22.3255957,
+   "lon": 114.1660204,
+   "distKm": 0.8,
+   "address": "77 基隆街 Ki Lung Street",
+   "tags": {
+    "phone": "+852 2393 2070",
+    "website": "https://www.npv.org.hk/"
+   }
+  },
+  {
+   "id": "node/10133043716",
+   "name": "NPV社區動物醫療中心 NPV Stray Animal Medical Centre",
+   "lat": 22.325834,
+   "lon": 114.166032,
+   "distKm": 0.8,
+   "address": "72 基隆街 Ki Lung Street",
+   "tags": {
+    "phone": "+852 2391 0789",
+    "website": "https://www.npv.org.hk/"
+   }
+  },
+  {
+   "id": "node/10133611149",
+   "name": "NPV 動物醫院 NPV Animal Hospital",
+   "lat": 22.3255546,
+   "lon": 114.1663999,
+   "distKm": 0.8,
+   "address": "50 基隆街 Ki Lung Street",
+   "tags": {
+    "phone": "+852 2393 2070",
+    "website": "https://www.npv.org.hk/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4860600547",
+   "name": "九龍貓醫院 Kowloon Cat Hospital",
+   "lat": 22.3271622,
+   "lon": 114.1660686,
+   "distKm": 0.9,
+   "address": "22 鴨寮街 Apliu Street",
+   "tags": {
+    "website": "https://www.kowlooncathospital.com.hk/"
+   }
+  },
+  {
+   "id": "node/9938961256",
+   "name": "希樂動物診所",
+   "lat": 22.3269923,
+   "lon": 114.1659711,
+   "distKm": 0.9,
+   "address": "17 鴨寮街 Apliu Street",
+   "tags": {
+    "phone": "+852 2397 0800",
+    "opening_hours": "Tu-Fr 08:30-12:30,14:00-16:00; Sa 08:30-12:30; Su 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/7457152985",
+   "name": "城大動物醫療中心 CityU Veterinary Medical Centre",
+   "lat": 22.3290573,
+   "lon": 114.159491,
+   "distKm": 1.5,
+   "address": "339 荔枝角道 Lai Chi Kok Road",
+   "tags": {
+    "website": "https://cityuvmc.com.hk/"
+   }
+  },
+  {
+   "id": "node/11037990182",
+   "name": "土瓜灣動物醫院 Faithful Veterinary Hospital",
+   "lat": 22.3235532,
+   "lon": 114.1894551,
+   "distKm": 2.1,
+   "address": "139 北帝街 Pak Tai Street",
+   "tags": {
+    "phone": "+852 2711 9909",
+    "website": "www.faithfulvet.com",
+    "opening_hours": "Mo-Su 09:00-21:00; PH off"
+   }
+  },
+  {
+   "id": "node/7462486043",
+   "name": "寵心動物診所",
+   "lat": 22.3073071,
+   "lon": 114.1861346,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/857784484",
+   "name": "PPC動物診所",
+   "lat": 22.3178158,
+   "lon": 114.1917413,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4085148859",
+   "name": "紅磡獸醫診所 Hung Hom Veterinary Clinic",
+   "lat": 22.3064122,
+   "lon": 114.1883189,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.hhvc.com.hk/"
+   }
+  },
+  {
+   "id": "node/4085148864",
+   "name": "澳洲寵物醫院 Australia Veterinary Hospital",
+   "lat": 22.3067381,
+   "lon": 114.1881608,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8018280318",
+   "name": "柏域獸醫診所 Pet’n Vet Clinic",
+   "lat": 22.3293305,
+   "lon": 114.1910746,
+   "distKm": 2.5,
+   "address": "32 城南道 South Wall Road",
+   "tags": {}
+  },
+  {
+   "id": "way/887523890",
+   "name": "動物管理及動物福利綜合大樓 Animal Management and Animal Welfare Building Complex",
+   "lat": 22.3199046,
+   "lon": 114.205963,
+   "distKm": 3.8,
+   "address": "16 承佑街 Shing Yau Street",
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-13:00,14:00-16:30"
+   }
+  },
+  {
+   "id": "node/10141514948",
+   "name": "NPV 香港非牟利獸醫診所 Hong Kong Non-Profit making Veterinary Clinic",
+   "lat": 22.2922661,
+   "lon": 114.1978407,
+   "distKm": 4.2,
+   "address": "116 和富道 Wharf Road",
+   "tags": {
+    "website": "https://www.npv.org.hk/",
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/4856227765",
+   "name": "Central Animal Hospital",
+   "lat": 22.2858433,
+   "lon": 114.1905255,
+   "distKm": 4.3,
+   "address": "興發街 Hing Fat Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4858263681",
+   "name": "Pets Central",
+   "lat": 22.2918384,
+   "lon": 114.1982704,
+   "distKm": 4.3,
+   "address": "渣華道 Java Road",
+   "tags": {}
+  },
+  {
+   "id": "way/1499066527",
+   "name": "香港愛護動物協會 SPCA (Hong Kong)",
+   "lat": 22.2820394,
+   "lon": 114.1787181,
+   "distKm": 4.3,
+   "address": "5 運盛街 Wan Shing Street",
+   "tags": {
+    "phone": "+852-28020501",
+    "opening_hours": "Mo-Su,PH 08:45-18:00",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/4856397003",
+   "name": "Dr. Hugh's Veterinary Hospital",
+   "lat": 22.2851133,
+   "lon": 114.1910737,
+   "distKm": 4.4,
+   "address": "永興街 Wing Hing Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4856435242",
+   "name": "夏利維動物醫院 Chris & Nicola's Animal Hospital",
+   "lat": 22.2854322,
+   "lon": 114.1926761,
+   "distKm": 4.5,
+   "address": "37 永興街 Wing Hing Street",
+   "tags": {
+    "phone": "+852 2570 6048",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/13387881543",
+   "name": "半山獸醫中心 Mid Levels Veterinary Centre",
+   "lat": 22.2805566,
+   "lon": 114.1512581,
+   "distKm": 4.7,
+   "address": "80-82 卑利街 Peel Street",
+   "tags": {
+    "phone": "+852 2140 6581",
+    "website": "amcvet.com.hk",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su,PH 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/4849846778",
+   "name": "Biorecovery Veterinary Clinic",
+   "lat": 22.2857477,
+   "lon": 114.1384228,
+   "distKm": 4.9,
+   "address": "第三街 Third Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4861954703",
+   "name": "Happy Pets",
+   "lat": 22.2789091,
+   "lon": 114.1914894,
+   "distKm": 5,
+   "address": "銅鑼灣道 Tung Lo Wan Road",
+   "tags": {}
+  },
+  {
+   "id": "node/2082869275",
+   "name": "東九龍動物醫院 Kowloon East Animal Hospital",
+   "lat": 22.315911,
+   "lon": 114.2231084,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9603237009",
+   "name": "Nine Lives",
+   "lat": 22.2829419,
+   "lon": 114.1277783,
+   "distKm": 5.9,
+   "address": "厚和街 Hau Wo Street",
+   "tags": {}
+  },
+  {
+   "id": "node/12761907946",
+   "name": "葵興獸醫診所 Kwai Hing Veterinary Clinic",
+   "lat": 22.3680762,
+   "lon": 114.1327114,
+   "distKm": 6.6,
+   "address": "27 光輝圍 Kwong Fai Circuit",
+   "tags": {
+    "phone": "+852-27922007",
+    "website": "https://kwaihingvet.weebly.com",
+    "opening_hours": "Mo-Su 10:00-21:00"
+   }
+  },
+  {
+   "id": "node/4848058994",
+   "name": "The Sanctuary Animal Hospital",
+   "lat": 22.2831096,
+   "lon": 114.22095,
+   "distKm": 6.7,
+   "address": "筲箕灣道 Shau Kei Wan Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4847959959",
+   "name": "東區動物醫院 East Island Animal Hospital",
+   "lat": 22.2801582,
+   "lon": 114.2250966,
+   "distKm": 7.2,
+   "address": "256 筲箕灣道 Shau Kei Wan Road",
+   "tags": {
+    "phone": "+852 2915 3999",
+    "website": "https://www.creaturecomforts.com.hk",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4848257009",
+   "name": "International Pet Therapy and Grooming Academy",
+   "lat": 22.279819,
+   "lon": 114.2250256,
+   "distKm": 7.2,
+   "address": "西灣河街 Sai Wan Ho Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4848257010",
+   "name": "Vetopia",
+   "lat": 22.2798271,
+   "lon": 114.2249831,
+   "distKm": 7.2,
+   "address": "西灣河街 Sai Wan Ho Street",
+   "tags": {}
+  },
+  {
+   "id": "node/8597580285",
+   "name": "沙田圍獸醫診所 Shatin Wai Pet Clinic",
+   "lat": 22.3796248,
+   "lon": 114.1974503,
+   "distKm": 7.3,
+   "address": "沙田圍崗背街9號",
+   "tags": {}
+  },
+  {
+   "id": "node/4858671797",
+   "name": "享和動物醫療中心 Heung Wo Animal Medical Centre",
+   "lat": 22.3721387,
+   "lon": 114.1118371,
+   "distKm": 8.3,
+   "address": "136-138 沙咀道 Sha Tsui Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4848301626",
+   "name": "南區獸醫中心 Southern District Veterinary Centre",
+   "lat": 22.2435854,
+   "lon": 114.153543,
+   "distKm": 8.6,
+   "address": "165-167號地下A1-A2 鴨脷洲大街 Main Street, Ap Lei Chau",
+   "tags": {}
+  },
+  {
+   "id": "node/12760044469",
+   "name": "毛守獸醫中心 Paws Guardian Veterinary Centre",
+   "lat": 22.3988288,
+   "lon": 114.1948064,
+   "distKm": 9.2,
+   "address": "㘭背灣街 Au Pui Wan Street",
+   "tags": {}
+  },
+  {
+   "id": "way/169412855",
+   "name": "奧運馬房馬醫院",
+   "lat": 22.395704,
+   "lon": 114.2037782,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3748707248",
+   "name": "馬醫院 Equine Hospital",
+   "lat": 22.4033489,
+   "lon": 114.2092177,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8285806304",
+   "name": "西貢獸醫醫院 Pet Space Sai Kung Veterinary Hospital",
+   "lat": 22.3802421,
+   "lon": 114.2725939,
+   "distKm": 12.6,
+   "address": "116 萬年街 Man Nin Street",
+   "tags": {}
+  },
+  {
+   "id": "node/12133971904",
+   "name": "深健獸醫診所",
+   "lat": 22.366822,
+   "lon": 114.0586458,
+   "distKm": 12.6,
+   "address": "41-63 青山公路－深井段 Castle Peak Road – Sham Tseng",
+   "tags": {
+    "phone": "24969833"
+   }
+  },
+  {
+   "id": "node/5397686915",
+   "name": "新港城獸醫中心",
+   "lat": 22.4224988,
+   "lon": 114.232371,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5397532203",
+   "name": "西沙路動物醫院 Sai Sha Road Animal Hospital",
+   "lat": 22.4246901,
+   "lon": 114.2303562,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5398079729",
+   "name": "馬鞍山動物醫院 Ma On Shan Animal Hospital",
+   "lat": 22.4250809,
+   "lon": 114.2288787,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4334008310",
+   "name": "仁德動物醫院",
+   "lat": 22.4472009,
+   "lon": 114.166034,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2023414804",
+   "name": "寵樂動物診所 HPVC",
+   "lat": 22.4478228,
+   "lon": 114.1691559,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7159756148",
+   "name": "Island Veterinary Services",
+   "lat": 22.2963243,
+   "lon": 114.0160373,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "phone": "+852 2987 9003",
+    "opening_hours": "09:00-19:00"
+   }
+  },
+  {
+   "id": "way/620768173",
+   "name": "大龍獸醫化驗所 Tai Lung Veterinary Laboratory",
+   "lat": 22.4826631,
+   "lon": 114.1156639,
+   "distKm": 19,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5697014486",
+   "name": "SAA伍威權動物醫療中心 SAA Albert Wu Veyerinary Centre",
+   "lat": 22.4456239,
+   "lon": 114.0318006,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "$schemaVersion": 1,
+ "city": "memphis",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:27:51.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "node/8845817579",
+   "name": "Dawg Team Apparel USA",
+   "lat": 35.1501879,
+   "lon": -90.0139992,
+   "distKm": 3.2,
+   "address": "420 North Cleveland Street, Memphis, TN 38104",
+   "tags": {
+    "phone": "+1-901-310-4773",
+    "website": "https://www.dawgteamproducts.com/"
+   }
+  },
+  {
+   "id": "node/13085111001",
+   "name": "Hollywood Feed",
+   "lat": 35.1342962,
+   "lon": -89.994674,
+   "distKm": 5.2,
+   "address": "2015 Union Avenue, 38104",
+   "tags": {
+    "phone": "+1 888-770-4720",
+    "website": "https://locations.hollywoodfeed.com/",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/13085116101",
+   "name": "Hollywood Feed",
+   "lat": 35.1468138,
+   "lon": -89.9718212,
+   "distKm": 7,
+   "address": "434 Collins Street, 38112",
+   "tags": {
+    "phone": "+19014522474",
+    "website": "https://locations.hollywoodfeed.com/",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/2351816085",
+   "name": "Petco",
+   "lat": 35.1284297,
+   "lon": -89.9462567,
+   "distKm": 9.6,
+   "address": "3468 Poplar Avenue, Memphis, TN 38111",
+   "tags": {
+    "phone": "+1 901-323-5535",
+    "website": "https://stores.petco.com/tn/memphis/pet-supplies-memphis-tn-861.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13085119602",
+   "name": "Hollywood Feed",
+   "lat": 35.1144826,
+   "lon": -89.8997765,
+   "distKm": 14.1,
+   "address": "4864 Poplar Avenue, 38117",
+   "tags": {
+    "phone": "+19017485514",
+    "website": "https://locations.hollywoodfeed.com/",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/13243028542",
+   "name": "PetSmart",
+   "lat": 35.1008963,
+   "lon": -89.8656112,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13085163801",
+   "name": "Hollywood Feed",
+   "lat": 35.2017463,
+   "lon": -89.8390326,
+   "distKm": 19.9,
+   "address": "6722 Summer Avenue, 38134",
+   "tags": {
+    "phone": "+19013828002",
+    "website": "https://locations.hollywoodfeed.com/",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  }
+ ]
+}

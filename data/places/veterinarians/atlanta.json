@@ -1,0 +1,392 @@
+{
+ "$schemaVersion": 1,
+ "city": "atlanta",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:29:29.736Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/11264952982",
+   "name": "Common Companion Vet Co.",
+   "lat": 33.7454588,
+   "lon": -84.3579937,
+   "distKm": 2.8,
+   "address": "907 Memorial Drive Southeast, Atlanta, GA 30316",
+   "tags": {}
+  },
+  {
+   "id": "node/8573537122",
+   "name": "Inman Park Animal Hospital",
+   "lat": 33.7550648,
+   "lon": -84.3570848,
+   "distKm": 2.9,
+   "address": "926 Dekalb Avenue Northeast, Atlanta, GA 30307",
+   "tags": {
+    "phone": "+1 404 584 8761",
+    "website": "https://inmanparkanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/13070138149",
+   "name": "Chewy Vet Care",
+   "lat": 33.7772312,
+   "lon": -84.3840857,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13228144487",
+   "name": "West End Animal Wellness Center",
+   "lat": 33.7387429,
+   "lon": -84.4269909,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1253884705",
+   "name": "East Atlanta Animal Clinic",
+   "lat": 33.7413871,
+   "lon": -84.3468944,
+   "distKm": 3.9,
+   "address": "461 Flat Shoals Avenue Southeast, 30316",
+   "tags": {
+    "website": "https://eastatlantaanimalclinic.com/"
+   }
+  },
+  {
+   "id": "node/3564217653",
+   "name": "Ormewood Animal Hospital",
+   "lat": 33.7336688,
+   "lon": -84.3497515,
+   "distKm": 3.9,
+   "address": "749 Moreland Avenue Southeast, Atlanta, GA 30316",
+   "tags": {}
+  },
+  {
+   "id": "node/11261587613",
+   "name": "Intown Animal Hospital",
+   "lat": 33.7798973,
+   "lon": -84.3676936,
+   "distKm": 3.9,
+   "address": "931 Monroe Drive Northeast",
+   "tags": {
+    "phone": "+1-404-881-1805",
+    "website": "https://intownanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/3650904863",
+   "name": "Atlanta Humane Society Veterinary Clinic",
+   "lat": 33.7821296,
+   "lon": -84.4100226,
+   "distKm": 4.2,
+   "address": "981 Howell Mill Road Northwest, Atlanta, GA 30318",
+   "tags": {
+    "phone": "+1-404-875-6420",
+    "website": "http://atlantahumane.org/clinic/",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-17:00"
+   }
+  },
+  {
+   "id": "node/13019884474",
+   "name": "CityVet",
+   "lat": 33.7882591,
+   "lon": -84.3880173,
+   "distKm": 4.4,
+   "address": "1230 West Peachtree Street Northwest",
+   "tags": {
+    "phone": "+1 470-361-2043",
+    "website": "https://www.cityvet.com/location/midtown/",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/3337103593",
+   "name": "Ansley Animal Clinic",
+   "lat": 33.791647,
+   "lon": -84.367696,
+   "distKm": 5.1,
+   "address": "593 Dutch Valley Road Northeast",
+   "tags": {
+    "phone": "+1-404-873-1786",
+    "website": "https://www.ansleyanimalclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-18:30"
+   }
+  },
+  {
+   "id": "node/12911163203",
+   "name": "Collier Animal Hospital",
+   "lat": 33.8010137,
+   "lon": -84.4179009,
+   "distKm": 6.4,
+   "address": "1669 Defoor Avenue Northwest, Atlanta, GA 30318",
+   "tags": {}
+  },
+  {
+   "id": "node/13948936955",
+   "name": "Uplift Veterinary Rehab",
+   "lat": 33.8010009,
+   "lon": -84.4198551,
+   "distKm": 6.5,
+   "address": "1683 Defoor Circle Northwest",
+   "tags": {}
+  },
+  {
+   "id": "node/10138529676",
+   "name": "Soft Paws Urgent Care Animal Clinic",
+   "lat": 33.807627,
+   "lon": -84.3665052,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1138279814",
+   "name": "The Village Vets",
+   "lat": 33.7757546,
+   "lon": -84.2997745,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1672098662",
+   "name": "Clairmont Animal Hospital",
+   "lat": 33.7887849,
+   "lon": -84.3072888,
+   "distKm": 8.7,
+   "address": "1226 Clairmont Road",
+   "tags": {
+    "phone": "+1 404-633-6163",
+    "website": "http://www.clairmontanimalhospital.net/",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-17:00; Su 13:00-17:00"
+   }
+  },
+  {
+   "id": "node/567189395",
+   "name": "Church Street Animal Hospital",
+   "lat": 33.7789309,
+   "lon": -84.2946427,
+   "distKm": 9.2,
+   "address": "711",
+   "tags": {
+    "website": "https://churchstanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/769051985",
+   "name": "Lawrence Animal Hospital",
+   "lat": 33.8349387,
+   "lon": -84.3393849,
+   "distKm": 10.6,
+   "address": "2962 Buford Highway Northeast, Brookhaven, GA 30329",
+   "tags": {}
+  },
+  {
+   "id": "node/11294843612",
+   "name": "Wag-A-Lot Decatur",
+   "lat": 33.7825986,
+   "lon": -84.2746372,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/267556214",
+   "name": "The Village Vets",
+   "lat": 33.8483641,
+   "lon": -84.4302994,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4792625853",
+   "name": "LaVista Animal Hospital",
+   "lat": 33.8251909,
+   "lon": -84.2921336,
+   "distKm": 12.3,
+   "address": "2804 Lavista Road, Decatur, GA 30033",
+   "tags": {}
+  },
+  {
+   "id": "node/9951792128",
+   "name": "Northlake Veterinary Surgery",
+   "lat": 33.8125941,
+   "lon": -84.2420042,
+   "distKm": 15.2,
+   "address": "935 Montreal Road, Clarkston, GA 30021",
+   "tags": {
+    "phone": "+1-404-292-3281",
+    "website": "https://nvsatlanta.com/"
+   }
+  },
+  {
+   "id": "node/12349541532",
+   "name": "Briarlake Animal Hospital",
+   "lat": 33.8628203,
+   "lon": -84.2885444,
+   "distKm": 15.6,
+   "address": "2566 Shallowford Road Northeast",
+   "tags": {
+    "phone": "+1 404-963-9901",
+    "website": "https://www.briarlakevet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/281367326",
+   "name": "LifeLine",
+   "lat": 33.6250255,
+   "lon": -84.4721513,
+   "distKm": 15.8,
+   "address": "2533 Sullivan Road, Atlanta, 30337",
+   "tags": {}
+  },
+  {
+   "id": "node/13029835769",
+   "name": "Animal Care Center",
+   "lat": 33.8520662,
+   "lon": -84.5102727,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/704145901",
+   "name": "Leland Veterinary Clinic",
+   "lat": 33.8128354,
+   "lon": -84.546121,
+   "distKm": 16.2,
+   "address": "290 Veterans Memorial Highway SE, Mableton, GA 30126",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-17:00"
+   }
+  },
+  {
+   "id": "node/11840214978",
+   "name": "Apex Animal Hospital",
+   "lat": 33.8592092,
+   "lon": -84.5158393,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/295514751",
+   "name": "Powers Ferry Animal Hospital",
+   "lat": 33.9074247,
+   "lon": -84.4290004,
+   "distKm": 18,
+   "address": "5565 New Northside Drive Northwest, Atlanta, GA 30339",
+   "tags": {
+    "phone": "+1-770-955-1291",
+    "website": "https://www.powersferryanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/2983918695",
+   "name": "Cumberland Animal Clinic",
+   "lat": 33.8831817,
+   "lon": -84.4991413,
+   "distKm": 18.1,
+   "address": "1860 Spring Road Southeast, Smyrna, GA 30080",
+   "tags": {
+    "phone": "+1-770-433-1414",
+    "website": "http://cumberlandanimalclinic.com/",
+    "opening_hours": "Mo 08:00-18:00; Tu-Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/11070245606",
+   "name": "Good Dog Veterinary Care",
+   "lat": 33.8800265,
+   "lon": -84.5160149,
+   "distKm": 18.8,
+   "address": "1302 Concord Road Southeast",
+   "tags": {
+    "phone": "+1 770-863-8712",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1022018548",
+   "name": "Arkle Veterinary Care",
+   "lat": 33.8757635,
+   "lon": -84.5241135,
+   "distKm": 18.9,
+   "address": "1020 Concord Road Southeast, Smyrna, GA 30080",
+   "tags": {
+    "phone": "+1-770-435-6700",
+    "website": "https://www.arklevetcare.com/",
+    "opening_hours": "Mo-Th 07:30-17:30; Fr 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/328671601",
+   "name": "Animal Emergency Center of Sandy Springs",
+   "lat": 33.9203488,
+   "lon": -84.3796176,
+   "distKm": 19.1,
+   "address": "228 Sandy Springs Place Northeast, Sandy Springs, GA 30328",
+   "tags": {
+    "phone": "+1 404 252 7881",
+    "website": "https://www.aecsandysprings.com/"
+   }
+  },
+  {
+   "id": "node/2714354618",
+   "name": "Windy Hill Veterinary Hospital",
+   "lat": 33.9001823,
+   "lon": -84.4902691,
+   "distKm": 19.3,
+   "address": "2170 Windy Hill Road Southeast, Smyrna, 30080",
+   "tags": {
+    "phone": "+1-770-333-9030",
+    "website": "http://www.windyhillvet.com/",
+    "opening_hours": "Mo-We 8:00-18:00; Th 9:00-12:00; Fr 8:00-18:00; Sa 9:00-12:00"
+   }
+  },
+  {
+   "id": "node/12999106965",
+   "name": "LifeLine Animal Project Community Animal Center",
+   "lat": 33.8870929,
+   "lon": -84.2590452,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-404-292-8800",
+    "website": "https://lifelineanimal.org/pet-care/"
+   }
+  },
+  {
+   "id": "way/972518034",
+   "name": "DeKalb Animal Hospital",
+   "lat": 33.8508649,
+   "lon": -84.2155649,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5949728613",
+   "name": "North Hills Animal Hospital",
+   "lat": 33.8870083,
+   "lon": -84.2550953,
+   "distKm": 19.7,
+   "address": "3362 Chamblee Tucker Road, Atlanta, GA 30341",
+   "tags": {
+    "phone": "+1-770-451-6740",
+    "website": "https://www.northhillsatlantavet.com/",
+    "opening_hours": "Mo-Fr 11:00-20:00; Sa 08:00-13:00"
+   }
+  }
+ ]
+}

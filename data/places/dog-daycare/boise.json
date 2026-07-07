@@ -1,0 +1,57 @@
+{
+ "$schemaVersion": 1,
+ "city": "boise",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:34:11.577Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/672622664",
+   "name": "Downtown Hound Doggie Lounge",
+   "lat": 43.6081425,
+   "lon": -116.212261,
+   "distKm": 1.1,
+   "address": "1021 South Lusk Street, Boise, ID 83706",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/772610440",
+   "name": "Boise Kennels",
+   "lat": 43.641358,
+   "lon": -116.233825,
+   "distKm": 3.9,
+   "address": "2303 North 36th Street, Boise, ID 83703",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/756807929",
+   "name": "Camp Bow Wow",
+   "lat": 43.5713215,
+   "lon": -116.1913885,
+   "distKm": 4.9,
+   "address": "3430 South T K Avenue, Boise, ID 83705",
+   "tags": {
+    "website": "https://www.campbowwow.com/boise/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1075422708",
+   "name": "Escape the Crate",
+   "lat": 43.663355,
+   "lon": -116.3219215,
+   "distKm": 11,
+   "address": "11230 West Joplin Road, Boise, ID 83714",
+   "tags": {
+    "website": "https://www.escapethecrate.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

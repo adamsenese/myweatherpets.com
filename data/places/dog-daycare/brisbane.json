@@ -1,0 +1,110 @@
+{
+ "$schemaVersion": 1,
+ "city": "brisbane",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:40:49.290Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/8485529357",
+   "name": "Doggy Daycare",
+   "lat": -27.476088,
+   "lon": 153.0101133,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/55890014",
+   "name": "Mela's Pet Retreat",
+   "lat": -27.4583341,
+   "lon": 152.9959652,
+   "distKm": 3.1,
+   "address": "135",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8614537865",
+   "name": "Happy Paws by Angus",
+   "lat": -27.4468145,
+   "lon": 152.9906306,
+   "distKm": 4.3,
+   "address": "17 Roy Street, QLD 4060",
+   "tags": {
+    "phone": "+61 490 415 376",
+    "website": "https://www.happypawsbyangus.net/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/540119346",
+   "name": "The Pet Chalet",
+   "lat": -27.4856821,
+   "lon": 152.8748605,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13353237265",
+   "name": "Cool Cats Feline Retreat",
+   "lat": -27.3272325,
+   "lon": 153.027775,
+   "distKm": 15.9,
+   "address": "19 Ivanka Street, QLD 4017",
+   "tags": {
+    "website": "https://coolcatsretreat.com.au",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1257637258",
+   "name": "Pinelands Pet Motel",
+   "lat": -27.6169661,
+   "lon": 153.0973404,
+   "distKm": 17.8,
+   "address": "189 Compton Road, QLD 4112",
+   "tags": {
+    "phone": "+61 7 3808 1146",
+    "website": "https://www.pinelandspetmotel.com.au/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/896172452",
+   "name": "The Links Pet & Canine Aquatic Centre",
+   "lat": -27.6076416,
+   "lon": 152.9097482,
+   "distKm": 19.1,
+   "address": "62 Brisbane Terrace",
+   "tags": {
+    "phone": "+61 7 3397 2000",
+    "website": "https://www.thelinkspetcentre.com.au/",
+    "opening_hours": "Mo-Fr 07:00-10:00,15:00-17:00; Sa 07:00-11:00; Su 15:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13805066635",
+   "name": "Capalaba Cat Cottage",
+   "lat": -27.5381084,
+   "lon": 153.2101525,
+   "distKm": 19.8,
+   "address": "257 Redland Bay Road, QLD 4157",
+   "tags": {
+    "website": "https://capalabacatcottage.com",
+    "opening_hours": "Mo-Fr 08:00-10:00,16:00-18:00; Sa 08:00-10:00; Su 16:00-18:00; PH off",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

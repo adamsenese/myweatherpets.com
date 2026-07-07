@@ -1,0 +1,602 @@
+{
+ "$schemaVersion": 1,
+ "city": "singapore",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:23:49.943Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/4712915490",
+   "name": "Dear Mutt Pet Hotel",
+   "lat": 1.3584755,
+   "lon": 103.8275371,
+   "distKm": 1.1,
+   "address": "Venus Road",
+   "tags": {}
+  },
+  {
+   "id": "node/9271267315",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3546398,
+   "lon": 103.8308708,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7617907954",
+   "name": "Omo Omo",
+   "lat": 1.3534642,
+   "lon": 103.8334661,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4726868799",
+   "name": "Wellfond Pets Thomson",
+   "lat": 1.3517878,
+   "lon": 103.8352642,
+   "distKm": 1.7,
+   "address": "Upper Thomson Road, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/4726868804",
+   "name": "Fur Kids",
+   "lat": 1.3525143,
+   "lon": 103.8348166,
+   "distKm": 1.7,
+   "address": "Upper Thomson Road, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/9271015960",
+   "name": "Wan Wan Wellness",
+   "lat": 1.3527986,
+   "lon": 103.8365898,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4728268949",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3714483,
+   "lon": 103.8290407,
+   "distKm": 2.4,
+   "address": "8 Jalan Leban, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/4728268950",
+   "name": "Cat Smart",
+   "lat": 1.3716144,
+   "lon": 103.829156,
+   "distKm": 2.4,
+   "address": "14 Jalan Leban, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/12606919705",
+   "name": "181 Aquarium",
+   "lat": 1.3675774,
+   "lon": 103.8367526,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7617857641",
+   "name": "Doggie Delight",
+   "lat": 1.3316147,
+   "lon": 103.8066571,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "website": "https://doggiedelight.com.sg/"
+   }
+  },
+  {
+   "id": "node/3726956638",
+   "name": "SOPRA GINZA Bukit Timah",
+   "lat": 1.32975,
+   "lon": 103.7995507,
+   "distKm": 3.4,
+   "address": "733 Bukit Timah Road, Singapore, 269748",
+   "tags": {
+    "phone": "+65 9828 1053",
+    "website": "http://www.sopraginza.com.sg/",
+    "opening_hours": "10:00-19:00"
+   }
+  },
+  {
+   "id": "node/7617255675",
+   "name": "Pet Lovers Centre",
+   "lat": 1.32987,
+   "lon": 103.7993986,
+   "distKm": 3.4,
+   "address": "733 Bukit Timah Road, Singapore, 269748",
+   "tags": {}
+  },
+  {
+   "id": "node/4720691520",
+   "name": "Happy Dog",
+   "lat": 1.3311039,
+   "lon": 103.7960517,
+   "distKm": 3.5,
+   "address": "Bukit Timah Road",
+   "tags": {}
+  },
+  {
+   "id": "node/8556213048",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3692045,
+   "lon": 103.8470115,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8556333481",
+   "name": "Superpets",
+   "lat": 1.3703753,
+   "lon": 103.8472908,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9229857417",
+   "name": "Doggylicious Studio",
+   "lat": 1.3622957,
+   "lon": 103.8512059,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9624184281",
+   "name": "Shake Paw",
+   "lat": 1.3263217,
+   "lon": 103.8426347,
+   "distKm": 3.8,
+   "address": "631 Balestier Road",
+   "tags": {
+    "phone": "+65 9846 6684"
+   }
+  },
+  {
+   "id": "node/4740088247",
+   "name": "Nature Aquarium",
+   "lat": 1.3254273,
+   "lon": 103.8423447,
+   "distKm": 3.9,
+   "address": "1 Thomson Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 12:00-18:00; Su,PH 12:00-17:30"
+   }
+  },
+  {
+   "id": "node/8362837000",
+   "name": "Little Heroes",
+   "lat": 1.3252959,
+   "lon": 103.8423194,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8627880694",
+   "name": "Superpets",
+   "lat": 1.3330889,
+   "lon": 103.8496555,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12534127600",
+   "name": "Curious Tails",
+   "lat": 1.3263026,
+   "lon": 103.8436422,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6758422629",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3271204,
+   "lon": 103.8465081,
+   "distKm": 4.1,
+   "address": "20 Ah Hood Road",
+   "tags": {
+    "website": "https://www.petloverscentre.com/"
+   }
+  },
+  {
+   "id": "node/7162237785",
+   "name": "Doggies Galore",
+   "lat": 1.3362354,
+   "lon": 103.7869053,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "phone": "+65 96253184",
+    "website": "https://www.doggiesgalore.com/",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 09:00-18:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/8738582944",
+   "name": "Furmummy",
+   "lat": 1.3264149,
+   "lon": 103.8468562,
+   "distKm": 4.1,
+   "address": "505 Balestier Road",
+   "tags": {}
+  },
+  {
+   "id": "node/11754949234",
+   "name": "Pet Me Please",
+   "lat": 1.3264059,
+   "lon": 103.8467937,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11521903332",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3165191,
+   "lon": 103.8355169,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9061404022",
+   "name": "Kwong Fatt Pers Centre",
+   "lat": 1.3737689,
+   "lon": 103.8542855,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9061413919",
+   "name": "Petz Planet",
+   "lat": 1.3739191,
+   "lon": 103.8546727,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7672666767",
+   "name": "Pet Hotel",
+   "lat": 1.3237895,
+   "lon": 103.8520649,
+   "distKm": 4.8,
+   "address": "Balestier Road",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/8150833897",
+   "name": "Where Dogs Play All Day",
+   "lat": 1.3973505,
+   "lon": 103.8187037,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00"
+   }
+  },
+  {
+   "id": "node/5535774683",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3419784,
+   "lon": 103.7752066,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4736456474",
+   "name": "Puppy Colours Singapore",
+   "lat": 1.311529,
+   "lon": 103.8424984,
+   "distKm": 5.2,
+   "address": "182 Bukit Timah Road, Singapore, 229853",
+   "tags": {
+    "website": "https://www.puppycolours.com/"
+   }
+  },
+  {
+   "id": "node/8150853037",
+   "name": "Dog Frenzy Pet Shop",
+   "lat": 1.3985171,
+   "lon": 103.8182842,
+   "distKm": 5.2,
+   "address": "910 Upper Thomson Road, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/8150853040",
+   "name": "Imperial Pets Shop",
+   "lat": 1.3987003,
+   "lon": 103.8182105,
+   "distKm": 5.2,
+   "address": "910F Upper Thomson Road, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/4723114961",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3649903,
+   "lon": 103.8661248,
+   "distKm": 5.3,
+   "address": "Kensington Park Road",
+   "tags": {}
+  },
+  {
+   "id": "node/7195224680",
+   "name": "Wildboar Fishroom",
+   "lat": 1.3404751,
+   "lon": 103.7735316,
+   "distKm": 5.3,
+   "address": "68 Jalan Jurong Kechil",
+   "tags": {
+    "opening_hours": "Tu,We 12:00-19:30; Fr 12:00-20:30; Sa 12:00-18:00; Su 12:00-16:00; Mo,We off"
+   }
+  },
+  {
+   "id": "node/3790993482",
+   "name": "Pet Lovers Centre (Holland Village)",
+   "lat": 1.3106847,
+   "lon": 103.7950221,
+   "distKm": 5.4,
+   "address": "31A/33 Lorong Liput, Singapore, 277744",
+   "tags": {
+    "phone": "+65 6463 9491",
+    "website": "https://www.petloverscentre.com/",
+    "opening_hours": "10:00-22:00"
+   }
+  },
+  {
+   "id": "node/11935023511",
+   "name": "Licked",
+   "lat": 1.3152839,
+   "lon": 103.8537474,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4736254094",
+   "name": "All About Pets",
+   "lat": 1.40312,
+   "lon": 103.8176366,
+   "distKm": 5.7,
+   "address": "Sembawang Road",
+   "tags": {}
+  },
+  {
+   "id": "node/7065476358",
+   "name": "The Pet Safari",
+   "lat": 1.3508124,
+   "lon": 103.8720579,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4724992891",
+   "name": "Blue Crystal Aquarium",
+   "lat": 1.3244843,
+   "lon": 103.8656127,
+   "distKm": 5.9,
+   "address": "Serangoon Road, Singapore, 328205",
+   "tags": {}
+  },
+  {
+   "id": "node/9589001473",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3024661,
+   "lon": 103.8400534,
+   "distKm": 6,
+   "address": "#02-27",
+   "tags": {}
+  },
+  {
+   "id": "node/4689664922",
+   "name": "Animal Cottage",
+   "lat": 1.3585813,
+   "lon": 103.8745388,
+   "distKm": 6.1,
+   "address": "Yio Chu Kang Road",
+   "tags": {}
+  },
+  {
+   "id": "node/11485661498",
+   "name": "Specialised Aquatics",
+   "lat": 1.3147991,
+   "lon": 103.8595717,
+   "distKm": 6.1,
+   "address": "225 Lavender Street",
+   "tags": {}
+  },
+  {
+   "id": "node/11935023520",
+   "name": "Mame Pet Store",
+   "lat": 1.3123128,
+   "lon": 103.8574255,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7773217949",
+   "name": "Goodwill Birds Trading",
+   "lat": 1.3703791,
+   "lon": 103.8736462,
+   "distKm": 6.3,
+   "address": "154 Serangoon North Avenue 1, 550154",
+   "tags": {
+    "opening_hours": "Mo-Su,PH 09:00-16:30"
+   }
+  },
+  {
+   "id": "node/7773217950",
+   "name": "House of Chinchilla",
+   "lat": 1.3697735,
+   "lon": 103.8734838,
+   "distKm": 6.3,
+   "address": "154 Serangoon North Avenue 1, Singapore",
+   "tags": {
+    "phone": "+65 6284 9621",
+    "opening_hours": "Tu-Su 12:00-20:00"
+   }
+  },
+  {
+   "id": "node/7773252710",
+   "name": "Petmart",
+   "lat": 1.3696887,
+   "lon": 103.8736911,
+   "distKm": 6.3,
+   "address": "151 Serangoon North Avenue 2, 550151",
+   "tags": {
+    "phone": "+65 6289 6471",
+    "website": "http://www.petmart.com.sg/",
+    "opening_hours": "Mo, Tu, Th-Su 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/7773262817",
+   "name": "Heisenberg Aquarium Centre",
+   "lat": 1.3700767,
+   "lon": 103.8736324,
+   "distKm": 6.3,
+   "address": "154 Serangoon North Avenue 1",
+   "tags": {}
+  },
+  {
+   "id": "node/12208693705",
+   "name": "Pet Lovers Centre",
+   "lat": 1.3632082,
+   "lon": 103.7642489,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Lovers Centre"
+   }
+  },
+  {
+   "id": "node/3306882409",
+   "name": "Polypet",
+   "lat": 1.3220052,
+   "lon": 103.7708591,
+   "distKm": 6.4,
+   "address": "#01-27/29, Sunset Way, Block 109 Clementi Street 11, Singapore, 120109",
+   "tags": {
+    "phone": "+65 6779 5309",
+    "website": "https://www.polypet.com.sg/",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/7184158758",
+   "name": "Aquatica Glasselli Pte. Ltd.",
+   "lat": 1.3116427,
+   "lon": 103.8611867,
+   "distKm": 6.4,
+   "address": "31 Hamilton Road, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/10702069373",
+   "name": "Aquatica Glaselli",
+   "lat": 1.3117082,
+   "lon": 103.8612802,
+   "distKm": 6.4,
+   "address": "31 Hamilton Road",
+   "tags": {}
+  },
+  {
+   "id": "node/12591636412",
+   "name": "Le Pets Kingdom",
+   "lat": 1.353917,
+   "lon": 103.8772935,
+   "distKm": 6.4,
+   "address": "14 Lim Tua Tow Road, 547738",
+   "tags": {
+    "phone": "+65 8826 2478",
+    "website": "https://www.lepetskingdom.com/",
+    "opening_hours": "Mo-Su 10:30-19:00"
+   }
+  },
+  {
+   "id": "node/4745226918",
+   "name": "Designer Bengal Singapore",
+   "lat": 1.3063429,
+   "lon": 103.8557857,
+   "distKm": 6.5,
+   "address": "Jalan Besar, Singapore",
+   "tags": {}
+  },
+  {
+   "id": "node/7184153233",
+   "name": "Oh My Fish",
+   "lat": 1.3106642,
+   "lon": 103.8608025,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13072391425",
+   "name": "Fur - A Vetreska Pet Store",
+   "lat": 1.2995644,
+   "lon": 103.847475,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4689374091",
+   "name": "Pet Loft",
+   "lat": 1.3481202,
+   "lon": 103.8800712,
+   "distKm": 6.7,
+   "address": "Upper Paya Lebar Road",
+   "tags": {}
+  },
+  {
+   "id": "node/12473116759",
+   "name": "Polyart Aquarium",
+   "lat": 1.3503351,
+   "lon": 103.7599315,
+   "distKm": 6.7,
+   "address": "265 Bukit Batok East Avenue 4, Singapore, 650265",
+   "tags": {
+    "website": "https://www.polyartaquarium.com/"
+   }
+  },
+  {
+   "id": "node/3783494278",
+   "name": "Woofia",
+   "lat": 1.3048093,
+   "lon": 103.781549,
+   "distKm": 6.8,
+   "address": "#01-85, 28 Dover Crescent, Singapore, 130028",
+   "tags": {
+    "phone": "+65 6779 0884"
+   }
+  }
+ ]
+}

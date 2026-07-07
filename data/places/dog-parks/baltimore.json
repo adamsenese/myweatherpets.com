@@ -1,0 +1,560 @@
+{
+ "$schemaVersion": 1,
+ "city": "baltimore",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:28:23.484Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 56,
+ "places": [
+  {
+   "id": "way/624540592",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2884162,
+   "lon": -76.6119049,
+   "distKm": 0.2,
+   "address": "25 South Calvert Street, Baltimore, MD 21202",
+   "tags": {
+    "barrier": "yes"
+   }
+  },
+  {
+   "id": "way/221295128",
+   "name": "Liberty Dog Park",
+   "lat": 39.2899619,
+   "lon": -76.6178764,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/671144343",
+   "name": "Senior Dog Park",
+   "lat": 39.2965823,
+   "lon": -76.6207826,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/671144344",
+   "name": "Howards Park Dog Park",
+   "lat": 39.2965533,
+   "lon": -76.6204326,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/9609226077",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3022735,
+   "lon": -76.6200304,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/337505807",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2812792,
+   "lon": -76.5877197,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1161115228",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2677848,
+   "lon": -76.6094412,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/213194724",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2671266,
+   "lon": -76.5920713,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/221296493",
+   "name": "Patterson Park Dog Park",
+   "lat": 39.2882697,
+   "lon": -76.5762371,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/826563338",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2779357,
+   "lon": -76.5773585,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/162743181",
+   "name": "Canton Dog Park",
+   "lat": 39.2781608,
+   "lon": -76.5699005,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1042080389",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3348067,
+   "lon": -76.6295119,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1301015348",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3311485,
+   "lon": -76.6443819,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1156797746",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2388332,
+   "lon": -76.6294295,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/698721460",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2831137,
+   "lon": -76.529611,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/698721466",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.276983,
+   "lon": -76.5287635,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/435644134",
+   "name": "Wags",
+   "lat": 39.2544773,
+   "lon": -76.526936,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1126497442",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3088963,
+   "lon": -76.7076056,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/698068494",
+   "name": "Yoprkway Dog Park",
+   "lat": 39.2624756,
+   "lon": -76.5175538,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/696451531",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2531121,
+   "lon": -76.5204753,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/695265351",
+   "name": "Liberty Parkway Dog Park",
+   "lat": 39.2536971,
+   "lon": -76.5153154,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1155092981",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3557229,
+   "lon": -76.5428922,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/696437408",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.244989,
+   "lon": -76.5128217,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468480053",
+   "name": "Rodgers Forge Dog Park",
+   "lat": 39.380303,
+   "lon": -76.6164263,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/696437407",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.244618,
+   "lon": -76.5098733,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/696730809",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2812187,
+   "lon": -76.4925988,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/575736886",
+   "name": "Watersedge Dog Walking Park",
+   "lat": 39.2463806,
+   "lon": -76.5033993,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/865375680",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3784004,
+   "lon": -76.6609706,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/958011714",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3835268,
+   "lon": -76.5815293,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/691246323",
+   "name": "Charlesmont",
+   "lat": 39.2750648,
+   "lon": -76.4887261,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/696437402",
+   "name": "Watersedge Community Dog Park",
+   "lat": 39.247376,
+   "lon": -76.4995132,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/698092515",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2789194,
+   "lon": -76.4834303,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/983754366",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.387889,
+   "lon": -76.571613,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/544885224",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2148385,
+   "lon": -76.705038,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/2340527003",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.182588,
+   "lon": -76.669298,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/682018127",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1729493,
+   "lon": -76.5689121,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/813606403",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3915216,
+   "lon": -76.4752453,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/170977229",
+   "name": "Worthington Dog Park",
+   "lat": 39.2512176,
+   "lon": -76.7975302,
+   "distKm": 16.5,
+   "address": "8190 Hillsborough Road, Ellicott City, 21043",
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain",
+    "dog": "unleashed",
+    "access": "permit",
+    "website": "https://www.howardcountymd.gov/recreation-parks/parks-playgrounds-trails#worthington-dog-park-in-ellicott-city"
+   }
+  },
+  {
+   "id": "way/170977234",
+   "name": "Worthington Dog Park",
+   "lat": 39.2499819,
+   "lon": -76.796348,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain"
+   }
+  },
+  {
+   "id": "node/12180653303",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1860003,
+   "lon": -76.7553096,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1127575742",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1840164,
+   "lon": -76.7595468,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1133936196",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1843405,
+   "lon": -76.7615983,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1007330339",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2052365,
+   "lon": -76.7859678,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1319617974",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1524166,
+   "lon": -76.7145283,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/269459990",
+   "name": "Perry Paw Dog Park",
+   "lat": 39.3940245,
+   "lon": -76.4487067,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1041336011",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.4541123,
+   "lon": -76.6248549,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/863388116",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1811363,
+   "lon": -76.7720816,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/795751716",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3410413,
+   "lon": -76.4076646,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1235938378",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3549277,
+   "lon": -76.4121217,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1354671392",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3305997,
+   "lon": -76.3938005,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/775816689",
+   "name": "Metro Crossing Dog Park",
+   "lat": 39.40604,
+   "lon": -76.7825825,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/850013930",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3571982,
+   "lon": -76.4029871,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6258693723",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1302252,
+   "lon": -76.7112221,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/414037196",
+   "name": "Quail Run Dog Park",
+   "lat": 39.1297629,
+   "lon": -76.707533,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1308816785",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.4674663,
+   "lon": -76.6069732,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1410370265",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2076036,
+   "lon": -76.8186539,
+   "distKm": 20,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

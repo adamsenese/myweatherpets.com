@@ -1,0 +1,205 @@
+{
+ "$schemaVersion": 1,
+ "city": "albuquerque",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:28:37.522Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 19,
+ "places": [
+  {
+   "id": "way/176794068",
+   "name": "Route 66 Veterinary Emergency & Critical Care Center",
+   "lat": 35.0800085,
+   "lon": -106.6042987,
+   "distKm": 4.2,
+   "address": "3601 Central Avenue Northeast, Albuquerque, NM 87108",
+   "tags": {}
+  },
+  {
+   "id": "node/6516401103",
+   "name": "Blue Cross Animal Clinic",
+   "lat": 35.1009225,
+   "lon": -106.6046416,
+   "distKm": 4.6,
+   "address": "1921 Carlisle Boulevard Northeast, Albuquerque, NM 87110",
+   "tags": {
+    "website": "https://www.facebook.com/pages/Blue-Cross-Animal-Clinic/660861717388747"
+   }
+  },
+  {
+   "id": "node/1823643201",
+   "name": "Aztec Animal Clinic",
+   "lat": 35.0749615,
+   "lon": -106.595994,
+   "distKm": 5.1,
+   "address": "4340 Coal Avenue Southeast, Albuquerque, NM 87108",
+   "tags": {
+    "website": "https://aztecanimalclinic.com"
+   }
+  },
+  {
+   "id": "node/10270451061",
+   "name": "VCA Animal Hospital",
+   "lat": 35.112659,
+   "lon": -106.7034484,
+   "distKm": 5.8,
+   "address": "2611 Coors Frontage Road Northwest",
+   "tags": {}
+  },
+  {
+   "id": "node/6517024757",
+   "name": "Rio Bravo Veterinary Hospital",
+   "lat": 35.0263143,
+   "lon": -106.653446,
+   "distKm": 6.5,
+   "address": "240 Rio Bravo Boulevard Southeast, Albuquerque, NM 87105",
+   "tags": {
+    "website": "https://www.riobravovet.com"
+   }
+  },
+  {
+   "id": "node/10276992835",
+   "name": "Malaherd Veterinary Hospital",
+   "lat": 35.1475179,
+   "lon": -106.6881046,
+   "distKm": 7.8,
+   "address": "5600 Coors Boulevard Northwest, Albuquerque, NM 87120",
+   "tags": {}
+  },
+  {
+   "id": "node/10724689544",
+   "name": "South Valley Animal Clinic",
+   "lat": 35.0168812,
+   "lon": -106.684965,
+   "distKm": 8.1,
+   "address": "4021 Isleta Boulevard Southwest, South Valley, NM 87105",
+   "tags": {
+    "phone": "+1-505-807-9985",
+    "website": "https://www.southvalleyanimalclinic.com/",
+    "opening_hours": "Mo-Fr 08:30-17:30; Sa 08:30-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/849368521",
+   "name": "Veterinary Clinic",
+   "lat": 35.0607979,
+   "lon": -106.5591985,
+   "distKm": 8.7,
+   "address": "950 Pennsylvania Street Southeast, NM",
+   "tags": {
+    "phone": "+1-505-846-4276"
+   }
+  },
+  {
+   "id": "node/2564917026",
+   "name": "Vet-Co",
+   "lat": 35.1085806,
+   "lon": -106.553301,
+   "distKm": 9.2,
+   "address": "8200 Menaul Boulevard Northeast, Albuquerque, NM 87110",
+   "tags": {
+    "website": "https://www.vetconm.com/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-12:00,13:00-16:00"
+   }
+  },
+  {
+   "id": "node/12885324757",
+   "name": "Albuquerque Animal Welfare",
+   "lat": 35.0788154,
+   "lon": -106.5279305,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2670907974",
+   "name": "Eye Care for Animals",
+   "lat": 35.1844907,
+   "lon": -106.6056482,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12882726738",
+   "name": "La Cuevo Animal Hospital",
+   "lat": 35.1731364,
+   "lon": -106.5593564,
+   "distKm": 12.9,
+   "address": "8000 Paseo del Norte Boulevard Northeast, Albuquerque, NM 87122",
+   "tags": {
+    "phone": "+1-505-856-2051",
+    "website": "https://lacuevavet.com/",
+    "opening_hours": "Mo,Tu,Th,Fr 08:00-18:00; We 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/8489814178",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.202908,
+   "lon": -106.6586744,
+   "distKm": 13.2,
+   "address": "10248 Coors Boulevard Bypass Northwest, Albuquerque, NM 87114",
+   "tags": {}
+  },
+  {
+   "id": "node/2926450076",
+   "name": "VCA Animal Hospitals",
+   "lat": 35.1752039,
+   "lon": -106.545606,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 07:00-21:00"
+   }
+  },
+  {
+   "id": "way/743173599",
+   "name": "VCA Animal Hospital",
+   "lat": 35.2149686,
+   "lon": -106.6986299,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1150011885",
+   "name": "De Anza Small Animal Clinic",
+   "lat": 34.9525097,
+   "lon": -106.6951941,
+   "distKm": 15.2,
+   "address": "7601 Isleta Boulevard Southwest, Albuqueruqe, NM 87105",
+   "tags": {}
+  },
+  {
+   "id": "node/9239386951",
+   "name": "Cottonwood Animal Clinic",
+   "lat": 35.2393241,
+   "lon": -106.6570523,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7783082844",
+   "name": "Corrales Veterinary Clinic",
+   "lat": 35.2368341,
+   "lon": -106.60747,
+   "distKm": 17.4,
+   "address": "15 Marcos Lane, Corrales, NM 87048",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/9239386844",
+   "name": "Meddleton Equine Clinic",
+   "lat": 35.2451615,
+   "lon": -106.6016909,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

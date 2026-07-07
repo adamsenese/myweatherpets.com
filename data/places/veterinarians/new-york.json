@@ -1,0 +1,718 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-york",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:20:34.851Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/11258776467",
+   "name": "Reade Street Animal Hospital",
+   "lat": 40.7166853,
+   "lon": -74.01001,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/4915258226",
+   "name": "Bond Vet",
+   "lat": 40.7071821,
+   "lon": -74.0071475,
+   "distKm": 0.6,
+   "address": "10038",
+   "tags": {}
+  },
+  {
+   "id": "node/2823340800",
+   "name": "URvet Care",
+   "lat": 40.7166348,
+   "lon": -74.0120211,
+   "distKm": 0.7,
+   "address": "200 Chambers Street, New York, NY 10007",
+   "tags": {
+    "phone": "+1-646-618-8900",
+    "website": "https://urvetcare.com/locations/tribeca-clinic/"
+   }
+  },
+  {
+   "id": "node/5415638333",
+   "name": "Tribeca Soho Animal Hospital",
+   "lat": 40.7260305,
+   "lon": -74.0035452,
+   "distKm": 1.5,
+   "address": "180 6th Avenue, New York, NY 10013",
+   "tags": {
+    "phone": "+1-212-925-6100",
+    "website": "https://www.tribecavets.com/",
+    "opening_hours": "Mo 07:30-17:00; Tu-Fr 07:30-19:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/13284267482",
+   "name": "Bond Vet",
+   "lat": 40.7179703,
+   "lon": -73.9893145,
+   "distKm": 1.5,
+   "address": "242 Broome Street, 10002",
+   "tags": {}
+  },
+  {
+   "id": "node/2549884930",
+   "name": "Brooklyn Heights Veterinary Hospital",
+   "lat": 40.6998884,
+   "lon": -73.993518,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-624-1200",
+    "website": "https://www.bhvh59.com"
+   }
+  },
+  {
+   "id": "node/11942932649",
+   "name": "Cooper Square Veterinary Hospital",
+   "lat": 40.7275358,
+   "lon": -73.9904837,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-212-777-2630",
+    "website": "https://coopersquarevet.com",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13039380588",
+   "name": "The Animal Cardiology Center",
+   "lat": 40.7016696,
+   "lon": -73.9862381,
+   "distKm": 2.1,
+   "address": "121 York Street, Brooklyn, NY 11201",
+   "tags": {
+    "opening_hours": "Mo, Thu, Fr 09:00-18:00, Tu-Wed 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/5816274213",
+   "name": "Vinegar Hill Veternary Group",
+   "lat": 40.6934802,
+   "lon": -73.9985472,
+   "distKm": 2.2,
+   "address": "10 Columbia Place, 11201",
+   "tags": {
+    "phone": "+1-718-852-8281",
+    "website": "https://www.vhvetgroup.com",
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13858301471",
+   "name": "Abingdon Square Veterinary Clinic",
+   "lat": 40.7326156,
+   "lon": -74.0000117,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6206430643",
+   "name": "St. Marks Veterinary Hospital",
+   "lat": 40.728324,
+   "lon": -73.9854432,
+   "distKm": 2.4,
+   "address": "348 East 9th Street",
+   "tags": {
+    "phone": "+1-212-477-2688",
+    "website": "https://www.thrivepetcare.com/locations/new-york/new-york/st-marks-veterinary-hospital",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/7905929743",
+   "name": "East Village Animal Clinic",
+   "lat": 40.7298436,
+   "lon": -73.985378,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-212-979-9870",
+    "website": "https://eastvillageanimalclinic.com",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2569050395",
+   "name": "NY Vet Practice",
+   "lat": 40.7362503,
+   "lon": -73.9960742,
+   "distKm": 2.7,
+   "address": "39 West 13th Street, New York, NY 10011",
+   "tags": {
+    "website": "https://www.outbrain.com/"
+   }
+  },
+  {
+   "id": "node/4296880097",
+   "name": "Newport Veterinary Center",
+   "lat": 40.7271168,
+   "lon": -74.0323385,
+   "distKm": 2.7,
+   "address": "29 River Drive South, 07310",
+   "tags": {
+    "phone": "+1-201-626-3785",
+    "website": "https://www.newportvetcenter.com/index.pml",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/6839024573",
+   "name": "Heights & Hill Veterinary Hospital",
+   "lat": 40.6902885,
+   "lon": -73.9951741,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2567527615",
+   "name": "Urban Vets Animal Hospital",
+   "lat": 40.7260342,
+   "lon": -73.9776413,
+   "distKm": 2.8,
+   "address": "163 Avenue C, 10009",
+   "tags": {
+    "phone": "+1-212-674-6200",
+    "opening_hours": "Mo,We 09:00-19:00; Tu 10:00-19:00; Th,Fr 09:00-17:00; Sa 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/12334487670",
+   "name": "ABC Animal Hospital",
+   "lat": 40.7293112,
+   "lon": -73.9809624,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/419362317",
+   "name": "Banfield Pet Hospital",
+   "lat": 40.6891366,
+   "lon": -73.9912624,
+   "distKm": 2.9,
+   "address": "238 Atlantic Avenue, 11201",
+   "tags": {
+    "phone": "+1-718-522-0415",
+    "website": "https://www.banfield.com/veterinarians/ny/brooklyn/mrs",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/5584834423",
+   "name": "BluePearl",
+   "lat": 40.7369682,
+   "lon": -73.9934843,
+   "distKm": 2.9,
+   "address": "1 West 15th Street, New York, NY 10011",
+   "tags": {
+    "phone": "+1-212-924-3311",
+    "website": "https://bluepearlvet.com/new-york-downtown-ny/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2702937009",
+   "name": "Bond Vet",
+   "lat": 40.7386329,
+   "lon": -73.9961441,
+   "distKm": 3,
+   "address": "553 6th Avenue, 10011",
+   "tags": {}
+  },
+  {
+   "id": "node/6034863453",
+   "name": "West Village Veterinary Hospital",
+   "lat": 40.7395598,
+   "lon": -74.0029107,
+   "distKm": 3,
+   "address": "75 8th Avenue",
+   "tags": {
+    "phone": "+1 212-633-7400",
+    "website": "https://www.westvillagevets.com/"
+   }
+  },
+  {
+   "id": "node/2549983061",
+   "name": "Bond Vet",
+   "lat": 40.686635,
+   "lon": -73.993665,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-269-7222",
+    "website": "https://bondvet.com",
+    "opening_hours": "Mo-Su 12:00-22:00"
+   }
+  },
+  {
+   "id": "node/6422095819",
+   "name": "One Love Animal Hospital",
+   "lat": 40.6883286,
+   "lon": -73.9879857,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-532-7410",
+    "website": "https://onelovevet.com/location_boerum_hill.php",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:00-18:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/7084484218",
+   "name": "Bond Vet",
+   "lat": 40.7328595,
+   "lon": -73.9810731,
+   "distKm": 3.1,
+   "address": "282 1st Avenue, 10003",
+   "tags": {
+    "phone": "+1-212-961-6779",
+    "website": "https://bondvet.com/c/east-village-animal-hospital"
+   }
+  },
+  {
+   "id": "node/2704040269",
+   "name": "Gotham Animal Clinic",
+   "lat": 40.735613,
+   "lon": -73.9828029,
+   "distKm": 3.2,
+   "address": "329 2nd Avenue, 10003",
+   "tags": {
+    "phone": "+1-212-777-7299",
+    "opening_hours": "\"By appointment only\""
+   }
+  },
+  {
+   "id": "node/13033657132",
+   "name": "Prism Veterinary Dentistry",
+   "lat": 40.7409305,
+   "lon": -73.9918436,
+   "distKm": 3.3,
+   "address": "19 West 21st Street, New York, NY 10010",
+   "tags": {
+    "phone": "+1-646-661-5562",
+    "website": "https://www.prismvetdentistry.com/",
+    "opening_hours": "Mo-Th 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/9579194111",
+   "name": "Small Door Veterinary",
+   "lat": 40.7370401,
+   "lon": -73.9812716,
+   "distKm": 3.4,
+   "address": "380 2nd Avenue, 10010",
+   "tags": {
+    "phone": "+1-212-933-9044",
+    "website": "https://www.smalldoorvet.com",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13037220504",
+   "name": "Pearly Bites Veterinary",
+   "lat": 40.7426167,
+   "lon": -73.9963789,
+   "distKm": 3.4,
+   "address": "164 West 21st Street, New York, NY 10011",
+   "tags": {
+    "opening_hours": "Mo-Thu 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/248165897",
+   "name": "Hope Veterinary Clinic",
+   "lat": 40.6868989,
+   "lon": -73.9855104,
+   "distKm": 3.4,
+   "address": "390 Atlantic Avenue, 11217",
+   "tags": {
+    "phone": "+1-718-852-4219",
+    "website": "https://vcahospitals.com/hope",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-18:00; Su 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/2494123773",
+   "name": "The Vet Set",
+   "lat": 40.681786,
+   "lon": -74.0003931,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-917-741-4737",
+    "website": "https://vetset.net"
+   }
+  },
+  {
+   "id": "node/10705463651",
+   "name": "All Ears",
+   "lat": 40.6870476,
+   "lon": -73.9806299,
+   "distKm": 3.6,
+   "address": "345 Schermerhorn Street, 11217",
+   "tags": {
+    "phone": "+1-646-434-2610",
+    "website": "https://allearsvet.com",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/11068024555",
+   "name": "VEG",
+   "lat": 40.7437441,
+   "lon": -73.9924157,
+   "distKm": 3.6,
+   "address": "735 6th Avenue, 10011",
+   "tags": {
+    "phone": "+1-646-582-8882",
+    "website": "https://veterinaryemergencygroup.com/locations/chelsea-ny/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12160542276",
+   "name": "Sage Veterinary Center",
+   "lat": 40.7288314,
+   "lon": -74.0430692,
+   "distKm": 3.6,
+   "address": "229 10th Street, Jersey City, NJ 07302",
+   "tags": {
+    "phone": "+1-201-499-1101",
+    "website": "https://sagevetcenter.com/",
+    "opening_hours": "Mo, Th 09:00-19:30; Tu,We,Fr 09:00-18:00; Sa 09:00-13:00; Su closed"
+   }
+  },
+  {
+   "id": "node/2839628076",
+   "name": "North Side Veterinary",
+   "lat": 40.7155965,
+   "lon": -73.9621182,
+   "distKm": 3.7,
+   "address": "233 Berry Street, Brooklyn, NY 11249",
+   "tags": {
+    "phone": "+1-718-387-0541",
+    "website": "https://northsideveterinaryclinic.com/",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/10836119572",
+   "name": "Small Door",
+   "lat": 40.7168132,
+   "lon": -73.9607714,
+   "distKm": 3.8,
+   "address": "118 North 4th Street, Brooklyn, NY 11249",
+   "tags": {
+    "phone": "+1-718-504-6363",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/625653888",
+   "name": "Veterinary Wellness Center of Boerum Hill",
+   "lat": 40.6836146,
+   "lon": -73.9821646,
+   "distKm": 3.8,
+   "address": "96 3rd Avenue, 11217",
+   "tags": {
+    "phone": "+1-347-463-9426",
+    "website": "https://boerumhillvet.com",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/5620080125",
+   "name": "Downtown Veterinary Clinic",
+   "lat": 40.7474474,
+   "lon": -74.0003447,
+   "distKm": 3.9,
+   "address": "244 9th Avenue",
+   "tags": {
+    "phone": "+1-212-463-8705",
+    "website": "http://www.downtownveterinaryclinic.com",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/9273082073",
+   "name": "Veterinary Emergency Group",
+   "lat": 40.7212463,
+   "lon": -73.9605218,
+   "distKm": 3.9,
+   "address": "87 Kent Avenue, 11249",
+   "tags": {
+    "phone": "+1-917-423-6444",
+    "website": "https://veterinaryemergencygroup.com/locations/williamsburg-ny/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/5980081418",
+   "name": "Heart of Brooklyn Veterinary Hospital",
+   "lat": 40.6861573,
+   "lon": -73.9737142,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-855-7387",
+    "website": "https://www.heartofbrooklynveterinary.com/fort-greene/"
+   }
+  },
+  {
+   "id": "node/6314812051",
+   "name": "Carroll Gardens Veterinary Group",
+   "lat": 40.6774497,
+   "lon": -73.9980963,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-857-7007",
+    "website": "https://www.thegardenvet.com",
+    "opening_hours": "Mo-We 08:00-20:00; Th-Fr 08:00-21:00; Sa-Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/6462813423",
+   "name": "BluePearl",
+   "lat": 40.6804396,
+   "lon": -73.9843166,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-596-0099",
+    "website": "https://bluepearlvet.com/hospital/brooklyn-ny/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/6779685144",
+   "name": "Hoboken Animal Hospital P.A.",
+   "lat": 40.7445767,
+   "lon": -74.0289316,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9834601279",
+   "name": "Clinton Hill Animal Clinic",
+   "lat": 40.6932904,
+   "lon": -73.9662472,
+   "distKm": 4,
+   "address": "476 Myrtle Avenue, 11205",
+   "tags": {}
+  },
+  {
+   "id": "node/5143929522",
+   "name": "Bond Vet",
+   "lat": 40.7435882,
+   "lon": -73.9794443,
+   "distKm": 4.1,
+   "address": "447 3rd Avenue, 10016",
+   "tags": {
+    "phone": "+1-212-518-3225",
+    "website": "https://bondvet.com/c/kips-bay-animal-hospital"
+   }
+  },
+  {
+   "id": "node/9834601280",
+   "name": "Bond Vet",
+   "lat": 40.6934602,
+   "lon": -73.9641366,
+   "distKm": 4.1,
+   "address": "524 Myrtle Avenue, 11205",
+   "tags": {}
+  },
+  {
+   "id": "node/8149325776",
+   "name": "Midtown Animal Hospital",
+   "lat": 40.7441172,
+   "lon": -73.9766608,
+   "distKm": 4.3,
+   "address": "256 East 33rd Street, 10016",
+   "tags": {
+    "phone": "+1 212-683-0309",
+    "website": "https://www.midtownanimalhospital.org",
+    "opening_hours": "Mo, We, Fr 09:00-18:00; Tu, Th 09:00-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/241845969",
+   "name": "Verg Brooklyn",
+   "lat": 40.6784484,
+   "lon": -73.9827711,
+   "distKm": 4.3,
+   "address": "196 4th Avenue",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/5360014577",
+   "name": "Hoboken Vets Animal Clinic",
+   "lat": 40.7496932,
+   "lon": -74.0248385,
+   "distKm": 4.4,
+   "address": "1160 Maxwell Lane, Hoboken, NJ 07030",
+   "tags": {
+    "phone": "+1 201-559-5133",
+    "website": "https://hobokenvets.com",
+    "opening_hours": "Mo-Fr 08:00-20:00"
+   }
+  },
+  {
+   "id": "node/6003410970",
+   "name": "Brooklyn Roots Veterinary Hospital",
+   "lat": 40.6763054,
+   "lon": -73.9867684,
+   "distKm": 4.4,
+   "address": "319 3rd Avenue, 11215",
+   "tags": {}
+  },
+  {
+   "id": "node/5446680721",
+   "name": "Bond Vet",
+   "lat": 40.6778322,
+   "lon": -73.9793278,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-212-518-3239",
+    "website": "https://bondvet.com/c/park-slope-animal-hospital",
+    "opening_hours": "Mo-Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/2573115147",
+   "name": "Prospect Heights Animal Hospital",
+   "lat": 40.6794107,
+   "lon": -73.9738577,
+   "distKm": 4.6,
+   "address": "277 Flatbush Avenue, Brooklyn, NY 11217",
+   "tags": {
+    "phone": "+1-718-789-3647",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/4111933906",
+   "name": "Heart of Chelsea Veterinary Group",
+   "lat": 40.6754916,
+   "lon": -73.977752,
+   "distKm": 4.8,
+   "address": "207 6th Avenue, Brooklyn, 11217",
+   "tags": {
+    "phone": "+1-718-789-7170",
+    "website": "https://heartofchelsea.com",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/6852207218",
+   "name": "Kalvig & Shorter Veterinary",
+   "lat": 40.749463,
+   "lon": -73.9769581,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-212-644-1022",
+    "website": "http://kalvigandshorter.com"
+   }
+  },
+  {
+   "id": "node/6175354945",
+   "name": "Pure Paws",
+   "lat": 40.6825372,
+   "lon": -73.963049,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-783-5500",
+    "website": "http://brooklyn.purepawsvet.com",
+    "opening_hours": "Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa-Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "way/280115130",
+   "name": "Greenpoint Veterinary Hospital",
+   "lat": 40.7243493,
+   "lon": -73.9495329,
+   "distKm": 4.9,
+   "address": "111 Nassau Avenue, Brooklyn, NY 11222",
+   "tags": {
+    "phone": "+1-347-529-4345",
+    "website": "https://www.greenpointvet.com/"
+   }
+  },
+  {
+   "id": "node/2842897606",
+   "name": "Greenpoint Veterinary Care",
+   "lat": 40.729851,
+   "lon": -73.9513588,
+   "distKm": 5,
+   "address": "211 McGuinness Boulevard, 11222",
+   "tags": {
+    "phone": "+1-917-970-0950",
+    "website": "https://greenpointvetcare.com",
+    "opening_hours": "Mo-We 09:00-19:00; Th 09:00-15:00; Fr 07:00-17:00||Sa 08:00-12:00 \"every other Saturday\""
+   }
+  },
+  {
+   "id": "node/11423271372",
+   "name": "Veterinary Emergency Group (VEG)",
+   "lat": 40.7537294,
+   "lon": -74.0294729,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5506775321",
+   "name": "Park Slope Vetrinary Care",
+   "lat": 40.6698924,
+   "lon": -73.9854993,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6833083360",
+   "name": "All Creatures Veterinary Hospital",
+   "lat": 40.6781559,
+   "lon": -73.9636584,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-347-915-1420",
+    "website": "https://www.allcreaturesvetbrooklyn.com"
+   }
+  },
+  {
+   "id": "node/5830803197",
+   "name": "Small Door Vet",
+   "lat": 40.6671642,
+   "lon": -73.981741,
+   "distKm": 5.5,
+   "address": "435 9th Street, 11215",
+   "tags": {
+    "phone": "+1-917-905-0220",
+    "website": "https://www.smalldoorvet.com/locations/new-york-city/park-slope/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "$schemaVersion": 1,
+ "city": "anchorage",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:35:00.713Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/13728427920",
+   "name": "AK Bark",
+   "lat": 61.1980911,
+   "lon": -149.8737336,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11498841369",
+   "name": "Petco",
+   "lat": 61.2202932,
+   "lon": -149.8154791,
+   "distKm": 4.5,
+   "address": "3090 Mountain View Drive, 99501",
+   "tags": {
+    "phone": "+1 907-277-3826",
+    "website": "https://stores.petco.com",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/778716647",
+   "name": "Barking Lot Doggy Daycare",
+   "lat": 61.1659997,
+   "lon": -149.8837959,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7606391521",
+   "name": "PetSmart",
+   "lat": 61.1457103,
+   "lon": -149.8705543,
+   "distKm": 8.2,
+   "address": "601 East Dimond Boulevard, Anchorage, AK 99515",
+   "tags": {
+    "phone": "+1 907-522-7387",
+    "website": "https://www.petsmart.com/stores/us/ak/anchorage-store2130.html#page_name=global&link_section=header&link_name=our_services",
+    "opening_hours": "Mo-Sa 09:00-19:00, Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/182788323",
+   "name": "PetSmart",
+   "lat": 61.2285545,
+   "lon": -149.7465985,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11074207341",
+   "name": "Petco",
+   "lat": 61.1427899,
+   "lon": -149.8596155,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  }
+ ]
+}

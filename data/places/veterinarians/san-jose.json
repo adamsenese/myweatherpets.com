@@ -1,0 +1,614 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-jose",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:32:54.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/358448092",
+   "name": "UNI Pet Clinic San Jose",
+   "lat": 37.3463528,
+   "lon": -121.8985089,
+   "distKm": 1.4,
+   "address": "595 North 1st Street, San Jose, 95110",
+   "tags": {
+    "phone": "+1-408-294-8887",
+    "website": "https://unipetclinic.com/locations/uni-pet-clinic-san-jose/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/3676933245",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.340159,
+   "lon": -121.907886,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/521379112",
+   "name": "San Jose Animal Hospital",
+   "lat": 37.3632442,
+   "lon": -121.8860938,
+   "distKm": 2.8,
+   "address": "940 Berryessa Road, San Jose, 95133",
+   "tags": {
+    "website": "http://www.sanjoseanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/809836109",
+   "name": "Lincoln Avenue Veterinary Clinic",
+   "lat": 37.3170167,
+   "lon": -121.9079674,
+   "distKm": 3,
+   "address": "699 Lincoln Avenue, San Jose, CA 95126",
+   "tags": {}
+  },
+  {
+   "id": "way/358456042",
+   "name": "Burbank Pet Hospital",
+   "lat": 37.3237441,
+   "lon": -121.925562,
+   "distKm": 3.8,
+   "address": "1819 West San Carlos Street, San Jose, 95128",
+   "tags": {
+    "website": "https://www.burbankpethospital.com/"
+   }
+  },
+  {
+   "id": "way/772017993",
+   "name": "VCA Crocker Animal Hospital",
+   "lat": 37.3675489,
+   "lon": -121.8530699,
+   "distKm": 4.4,
+   "address": "475 North Jackson Avenue, San Jose, 95133",
+   "tags": {}
+  },
+  {
+   "id": "node/8236206736",
+   "name": "Curtner Pet Clinic",
+   "lat": 37.300888,
+   "lon": -121.8662198,
+   "distKm": 4.5,
+   "address": "189 Curtner Avenue, San Jose, CA 95120",
+   "tags": {}
+  },
+  {
+   "id": "node/7307623989",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.3812884,
+   "lon": -121.8959182,
+   "distKm": 4.9,
+   "address": "1098 East Brokaw Road, San Jose, CA 95131",
+   "tags": {}
+  },
+  {
+   "id": "way/788331616",
+   "name": "East Hills Veterinary Clinic",
+   "lat": 37.3521277,
+   "lon": -121.8257501,
+   "distKm": 5.6,
+   "address": "2745 Story Road, San Jose, 95127",
+   "tags": {}
+  },
+  {
+   "id": "node/5659997070",
+   "name": "ArchVet Animal Hospital",
+   "lat": 37.3302393,
+   "lon": -121.9498669,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "website": "https://archvet.com/"
+   }
+  },
+  {
+   "id": "way/101790574",
+   "name": "Reed Animal Hospital",
+   "lat": 37.2932195,
+   "lon": -121.9324787,
+   "distKm": 6.5,
+   "address": "1657 South Bascom Avenue, Campbell, CA 95008",
+   "tags": {
+    "phone": "+1-408-369-1788",
+    "website": "https://www.reedanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/770937195",
+   "name": "Wildlife Center of Silicon Valley",
+   "lat": 37.3891387,
+   "lon": -121.8482732,
+   "distKm": 6.6,
+   "address": "3027 Penitencia Creek Road, San Jose, CA 95132",
+   "tags": {}
+  },
+  {
+   "id": "node/7159706189",
+   "name": "Animal Health Center",
+   "lat": 37.3495074,
+   "lon": -121.9631139,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/8256050367",
+   "name": "VCA Bascom Animal Hospital",
+   "lat": 37.2838539,
+   "lon": -121.9320382,
+   "distKm": 7.3,
+   "address": "2175 South Bascom Avenue, Campbell, CA 95008",
+   "tags": {}
+  },
+  {
+   "id": "way/229225833",
+   "name": "The Cat Hospital",
+   "lat": 37.2946039,
+   "lon": -121.9475289,
+   "distKm": 7.3,
+   "address": "137 East Hamilton Avenue, Campbell, CA 95008",
+   "tags": {}
+  },
+  {
+   "id": "node/3711324872",
+   "name": "Evergreen Veterinary Clinic",
+   "lat": 37.3061581,
+   "lon": -121.812805,
+   "distKm": 7.4,
+   "address": "1611 East Capitol Expressway, San Jose, CA 95121",
+   "tags": {
+    "website": "https://www.evergreenvetclinic.com/"
+   }
+  },
+  {
+   "id": "node/8256030753",
+   "name": "Vet Rocket",
+   "lat": 37.367087,
+   "lon": -121.9612351,
+   "distKm": 7.4,
+   "address": "2065 Martin Avenue, Santa Clara, CA 95050",
+   "tags": {}
+  },
+  {
+   "id": "node/8484239202",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.3094726,
+   "lon": -121.8103419,
+   "distKm": 7.4,
+   "address": "1775 East Capitol Expressway, San Jose, CA 95121",
+   "tags": {}
+  },
+  {
+   "id": "way/414346477",
+   "name": "Boulevard Pet Hospital",
+   "lat": 37.2955731,
+   "lon": -121.9502659,
+   "distKm": 7.4,
+   "address": "1555 South Winchester Boulevard, San Jose, CA 95128",
+   "tags": {}
+  },
+  {
+   "id": "node/7732176018",
+   "name": "Advanced Verterinary Medical Center",
+   "lat": 37.4069076,
+   "lon": -121.8885716,
+   "distKm": 7.6,
+   "address": "800 East Capitol Avenue, Milpitas",
+   "tags": {
+    "phone": "+1-408-956-8061"
+   }
+  },
+  {
+   "id": "way/775611960",
+   "name": "Piedmont Hills Animal Hospital",
+   "lat": 37.3988133,
+   "lon": -121.8468712,
+   "distKm": 7.6,
+   "address": "1265 Piedmont Road, San Jose, 95132",
+   "tags": {}
+  },
+  {
+   "id": "node/7094840027",
+   "name": "Banfield Animal Hospital",
+   "lat": 37.2689937,
+   "lon": -121.906573,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/650017099",
+   "name": "SVACA",
+   "lat": 37.3820901,
+   "lon": -121.9585441,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2162272626",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.2933583,
+   "lon": -121.9644934,
+   "distKm": 8.5,
+   "address": "850 West Hamilton Avenue, Campbell, 95008",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Tu 07:00-18:00; Sa,Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/194713928",
+   "name": "Wildwood Veterinary Hospital",
+   "lat": 37.2599279,
+   "lon": -121.8771026,
+   "distKm": 8.7,
+   "address": "1115 Luchessi Drive, San Jose, 95118",
+   "tags": {
+    "website": "https://wildwoodvet.com/"
+   }
+  },
+  {
+   "id": "way/39019842",
+   "name": "Pet Hospital",
+   "lat": 37.2627369,
+   "lon": -121.9177958,
+   "distKm": 8.8,
+   "address": "1820 Hillsdale Avenue, San Jose, 95124",
+   "tags": {
+    "phone": "+1-408-267-7387",
+    "healthcare:speciality": "vet"
+   }
+  },
+  {
+   "id": "way/39041332",
+   "name": "Parktown Veterinary",
+   "lat": 37.4166163,
+   "lon": -121.8755333,
+   "distKm": 8.8,
+   "address": "1393 South Park Victoria Drive, Milpitas, CA 95035",
+   "tags": {
+    "opening_hours": "Mo,We,Fr 08:00-18:00, Tu,Th 07:00-18:00, Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/6965785390",
+   "name": "Aborn Pet Clinic",
+   "lat": 37.3146425,
+   "lon": -121.7898047,
+   "distKm": 8.9,
+   "address": "3286 South White Road, San Jose, 95148",
+   "tags": {}
+  },
+  {
+   "id": "node/5760885638",
+   "name": "SAGE Veterinary Specialty and Emergency Care",
+   "lat": 37.2746186,
+   "lon": -121.9512174,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5760885639",
+   "name": "24Hr Emergency Animal Clinic",
+   "lat": 37.2745033,
+   "lon": -121.9507935,
+   "distKm": 9.1,
+   "address": "905 Dell Avenue, Campbell, CA 95008",
+   "tags": {}
+  },
+  {
+   "id": "node/5760885640",
+   "name": "Animal Eye Specialists",
+   "lat": 37.2745029,
+   "lon": -121.9506068,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5760885641",
+   "name": "Paws Crossing Pet Resort and Spa",
+   "lat": 37.274522,
+   "lon": -121.9503664,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/39129423",
+   "name": "Emergency Pet/Animal Care",
+   "lat": 37.2746121,
+   "lon": -121.9508199,
+   "distKm": 9.1,
+   "address": "905 Dell Avenue, Campbell, CA 95008",
+   "tags": {}
+  },
+  {
+   "id": "way/484562003",
+   "name": "VCA Vets & Pets Animal Hospital",
+   "lat": 37.3527805,
+   "lon": -121.9877719,
+   "distKm": 9.1,
+   "address": "3345 El Camino Real, Santa Clara, CA 95051",
+   "tags": {
+    "phone": "+1-408-246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "opening_hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/880331913",
+   "name": "Cambrian Animal Hospital",
+   "lat": 37.2719767,
+   "lon": -121.9458898,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2296216084",
+   "name": "Pinnacle Animal Hospital",
+   "lat": 37.254333,
+   "lon": -121.8970764,
+   "distKm": 9.4,
+   "address": "4724 Meridian Avenue, San Jose, 95118",
+   "tags": {
+    "phone": "+1-408-264-9400",
+    "website": "https://pinnaclevets.com/"
+   }
+  },
+  {
+   "id": "node/5821257465",
+   "name": "Alpha Animal Hospital",
+   "lat": 37.2659057,
+   "lon": -121.9418789,
+   "distKm": 9.4,
+   "address": "3177 South Bascom Avenue, Campbell, CA 95008",
+   "tags": {}
+  },
+  {
+   "id": "node/9576065743",
+   "name": "Animal Emergency Care",
+   "lat": 37.2547685,
+   "lon": -121.8644835,
+   "distKm": 9.5,
+   "address": "5406 Thornwood Drive, San Jose, CA 95123",
+   "tags": {
+    "phone": "+1-408-578-5622",
+    "opening_hours": "Mo-Th 18:00-08:00; Fr 18:00-24:00; PH,Sa,Su 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/8792877433",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.2524811,
+   "lon": -121.8772303,
+   "distKm": 9.6,
+   "address": "5353 Almaden Expressway, San Jose, CA 95118",
+   "tags": {}
+  },
+  {
+   "id": "way/52494933",
+   "name": "Lawrence Pet Hospital",
+   "lat": 37.3356829,
+   "lon": -121.9952215,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4706176389",
+   "name": "South Bay Animal Hospital & Resort",
+   "lat": 37.3089274,
+   "lon": -121.9957175,
+   "distKm": 10.2,
+   "address": "5188 Moorpark Avenue, 95129",
+   "tags": {}
+  },
+  {
+   "id": "node/6681844680",
+   "name": "Calaveras Veterinary Clinic",
+   "lat": 37.4285946,
+   "lon": -121.909131,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/192369970",
+   "name": "Princeton Veterinary Clinic",
+   "lat": 37.2446439,
+   "lon": -121.8883201,
+   "distKm": 10.4,
+   "address": "1378 Blossom Hill Road, San Jose, CA 95118",
+   "tags": {
+    "phone": "+1-408-264-3550",
+    "website": "https://www.princetonvetclinic.com/",
+    "opening_hours": "Su 09:00-15:00, Mo-Fr 08:30-18:00, Sa 08:30-15:00"
+   }
+  },
+  {
+   "id": "node/8614038532",
+   "name": "Canyon Creek Pet Hospital",
+   "lat": 37.2889455,
+   "lon": -121.7818836,
+   "distKm": 10.7,
+   "address": "5617 Silver Creek Valley Road, San Jose, CA 95138",
+   "tags": {}
+  },
+  {
+   "id": "way/197721276",
+   "name": "Oak Grove Veterinary Hospital",
+   "lat": 37.2527315,
+   "lon": -121.8316056,
+   "distKm": 10.7,
+   "address": "512 Giuffrida Avenue, San Jose, 95123",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/8254426246",
+   "name": "Bloom Plaza Animal Hospital",
+   "lat": 37.2495567,
+   "lon": -121.8321774,
+   "distKm": 11,
+   "address": "5647 Snell Avenue, San Jose, CA 95123",
+   "tags": {}
+  },
+  {
+   "id": "way/362168117",
+   "name": "VCA Almaden Valley Animal Hospital",
+   "lat": 37.2385996,
+   "lon": -121.8730437,
+   "distKm": 11.1,
+   "address": "15790 Almaden Expressway, San Jose, CA 95120",
+   "tags": {}
+  },
+  {
+   "id": "node/8793215378",
+   "name": "Pet's Friend Animal Clinic",
+   "lat": 37.3761398,
+   "lon": -122.0117464,
+   "distKm": 11.9,
+   "address": "158 San Lazaro Avenue, Sunnyvale, CA 94086",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:30-16:00"
+   }
+  },
+  {
+   "id": "node/8498340004",
+   "name": "Apex Veterinary Specialists",
+   "lat": 37.2820292,
+   "lon": -122.005941,
+   "distKm": 12.3,
+   "address": "19100 Cox Avenue, Saratoga, CA 95070",
+   "tags": {
+    "website": "https://apexvetspecialists.com/"
+   }
+  },
+  {
+   "id": "node/8793214607",
+   "name": "VCA Orchard Plaza Animal Hospital",
+   "lat": 37.2447863,
+   "lon": -121.8051029,
+   "distKm": 12.6,
+   "address": "5841 Cottle Road, San Jose, CA 95123",
+   "tags": {}
+  },
+  {
+   "id": "way/1145005389",
+   "name": "Animal Medical Clinic",
+   "lat": 37.450773,
+   "lon": -121.910576,
+   "distKm": 12.7,
+   "address": "1405 North Milpitas Boulevard, Milpitas, CA 95035",
+   "tags": {
+    "phone": "+1 408-262-7190",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/2494404104",
+   "name": "El Gato Vetinary Hospital",
+   "lat": 37.2395707,
+   "lon": -121.960811,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/261404686",
+   "name": "Serra Veterinary Hospital",
+   "lat": 37.3517246,
+   "lon": -122.033157,
+   "distKm": 13.1,
+   "address": "520 West Fremont Avenue, Sunnyvale, 94087",
+   "tags": {
+    "phone": "+1 408 739 3545",
+    "website": "https://serravet.com/"
+   }
+  },
+  {
+   "id": "node/3622682434",
+   "name": "Adobe Animal Hospital, South Bay",
+   "lat": 37.2365375,
+   "lon": -121.9633741,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/220776309",
+   "name": "Murphy Avenue Pet Clinic",
+   "lat": 37.3786109,
+   "lon": -122.0293005,
+   "distKm": 13.4,
+   "address": "101 East Hendy Avenue",
+   "tags": {
+    "website": "https://mapcvet.com/"
+   }
+  },
+  {
+   "id": "node/12993208979",
+   "name": "ARCHVET Animal Hosptial",
+   "lat": 37.2359657,
+   "lon": -121.8031455,
+   "distKm": 13.5,
+   "address": "6207 Santa Teresa Boulevard, San Jose, CA 95119",
+   "tags": {
+    "website": "https://archvet.com/",
+    "opening_hours": "Mo-Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/12398788055",
+   "name": "Murphy Pet Hospital",
+   "lat": 37.3753397,
+   "lon": -122.0328316,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/8256074623",
+   "name": "Los Gatos Dog & Cat Hospital",
+   "lat": 37.2382023,
+   "lon": -121.9762069,
+   "distKm": 13.7,
+   "address": "17480 Shelburne Way, Los Gatos, CA 95030",
+   "tags": {}
+  },
+  {
+   "id": "node/8792944453",
+   "name": "Saratoga Veterinary Hospital",
+   "lat": 37.2899294,
+   "lon": -122.0328483,
+   "distKm": 14,
+   "address": "12297 Saratoga-Sunnyvale Road, Saratoga, CA 95070",
+   "tags": {}
+  },
+  {
+   "id": "node/6625305335",
+   "name": "VCA Animal Hospital of Los Gatos",
+   "lat": 37.2325611,
+   "lon": -121.9787832,
+   "distKm": 14.3,
+   "address": "524 North Santa Cruz Avenue, Los Gatos, CA 95030",
+   "tags": {
+    "phone": "+1 408-354-9530"
+   }
+  }
+ ]
+}

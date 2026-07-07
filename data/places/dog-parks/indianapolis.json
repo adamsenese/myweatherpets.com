@@ -1,0 +1,163 @@
+{
+ "$schemaVersion": 1,
+ "city": "indianapolis",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:25:43.102Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "way/1210427810",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7644983,
+   "lon": -86.1463978,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "customers",
+    "website": "https://www.metazoabrewing.com/"
+   }
+  },
+  {
+   "id": "node/4629702107",
+   "name": "Old School Dog Park",
+   "lat": 39.7797243,
+   "lon": -86.1476336,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1382552266",
+   "name": "The Dog Park at Immanuel",
+   "lat": 39.7526096,
+   "lon": -86.15135,
+   "distKm": 1.8,
+   "address": "382 Prospect Street, Indianapolis, IN 46225",
+   "tags": {}
+  },
+  {
+   "id": "way/1065379228",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7808015,
+   "lon": -86.1433078,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1385571769",
+   "name": "Dog Henge",
+   "lat": 39.784779,
+   "lon": -86.1376088,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/912553371",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7171071,
+   "lon": -86.0982069,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/552240740",
+   "name": "Broad Ripple Dog Park",
+   "lat": 39.86913,
+   "lon": -86.1320411,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/620378133",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6391479,
+   "lon": -86.145503,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1194654678",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6329857,
+   "lon": -86.1283921,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1255479660",
+   "name": "Smock Dog Park",
+   "lat": 39.6378723,
+   "lon": -86.100905,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/158080298",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7583894,
+   "lon": -85.965518,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/443753858",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.9173675,
+   "lon": -86.0756844,
+   "distKm": 18,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/633568828",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.6205548,
+   "lon": -86.0578625,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12372233901",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.8119975,
+   "lon": -86.3826544,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/620401817",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5920021,
+   "lon": -86.1267854,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/446731255",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.7242897,
+   "lon": -85.9307986,
+   "distKm": 20,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  }
+ ]
+}

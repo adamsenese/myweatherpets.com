@@ -1,0 +1,673 @@
+{
+ "$schemaVersion": 1,
+ "city": "london",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:36:49.092Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/242282599",
+   "name": "Blue Cross Pet Clinic",
+   "lat": 51.4929025,
+   "lon": -0.1445633,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/159402332",
+   "name": "55 Veterinary Clinic",
+   "lat": 51.4935293,
+   "lon": -0.1509387,
+   "distKm": 2.2,
+   "address": "55 Elizabeth Street, London, SW1W 9PP",
+   "tags": {}
+  },
+  {
+   "id": "node/4237856432",
+   "name": "Goddard",
+   "lat": 51.4871186,
+   "lon": -0.1111524,
+   "distKm": 2.5,
+   "address": "351 Kennington Road",
+   "tags": {
+    "website": "https://www.goddardvetgroup.co.uk/"
+   }
+  },
+  {
+   "id": "node/6683963693",
+   "name": "Medivet",
+   "lat": 51.5227078,
+   "lon": -0.0992747,
+   "distKm": 2.6,
+   "address": "15 Clerkenwell Road, London, EC1M 5PA",
+   "tags": {}
+  },
+  {
+   "id": "way/185669845",
+   "name": "Amwell Veterinary Practice",
+   "lat": 51.5293607,
+   "lon": -0.1101227,
+   "distKm": 2.7,
+   "address": "52 Amwell Street, London, EC1R 1XS",
+   "tags": {
+    "website": "http://www.amwell.co.uk",
+    "opening_hours": "Mo-Fr 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/2611591038",
+   "name": "London Vet Clinic",
+   "lat": 51.5199383,
+   "lon": -0.1627811,
+   "distKm": 2.8,
+   "address": "86 York Street, London",
+   "tags": {
+    "website": "https://londonvetclinic.co.uk/"
+   }
+  },
+  {
+   "id": "node/6955013289",
+   "name": "Hyde Park Veterinary Centre",
+   "lat": 51.5141786,
+   "lon": -0.1672524,
+   "distKm": 2.8,
+   "address": "61-63 Connaught Street, London",
+   "tags": {
+    "phone": "+44 20 7723 0453",
+    "website": "https://www.medivet.co.uk/vet-practices/hyde-park/"
+   }
+  },
+  {
+   "id": "node/313181158",
+   "name": "Beaumont Sainsbury Animal Hospital",
+   "lat": 51.537202,
+   "lon": -0.1342965,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.rvc.ac.uk/beaumont-sainsbury-animal-hospital"
+   }
+  },
+  {
+   "id": "node/3497324072",
+   "name": "Snoots",
+   "lat": 51.5356007,
+   "lon": -0.1033114,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7730569302",
+   "name": "Medivet",
+   "lat": 51.49477,
+   "lon": -0.0764201,
+   "distKm": 3.8,
+   "address": "79 Grange Road, London, SE1 3BW",
+   "tags": {
+    "phone": "+44 20 7232 2637",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 15:00-19:00"
+   }
+  },
+  {
+   "id": "node/8111404917",
+   "name": "Brompton Veterinary Clinic",
+   "lat": 51.4899722,
+   "lon": -0.1750603,
+   "distKm": 3.8,
+   "address": "90 Fulham Road",
+   "tags": {
+    "phone": "+44 20 7225 2915",
+    "website": "https://bromptonvetclinic.com/"
+   }
+  },
+  {
+   "id": "node/517429222",
+   "name": "Medivet",
+   "lat": 51.5395603,
+   "lon": -0.1018586,
+   "distKm": 4,
+   "address": "60 Cross Street, London",
+   "tags": {
+    "phone": "+44 20 7226 8555"
+   }
+  },
+  {
+   "id": "node/6535716226",
+   "name": "Creature Comforts",
+   "lat": 51.5324289,
+   "lon": -0.1695929,
+   "distKm": 4,
+   "address": "9-11 St John's Wood High Street, London",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3661150006",
+   "name": "Village Vet",
+   "lat": 51.5258739,
+   "lon": -0.1789406,
+   "distKm": 4.1,
+   "address": "6 Clifton Road, London, W9 1SS",
+   "tags": {
+    "phone": "+44 20 7289 1000",
+    "website": "https://www.villagevet.co.uk/practice/maida-vale/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:30-14:00"
+   }
+  },
+  {
+   "id": "node/6538679700",
+   "name": "Medivet",
+   "lat": 51.5346975,
+   "lon": -0.1688147,
+   "distKm": 4.2,
+   "address": "53 Charlbert Street, London",
+   "tags": {
+    "phone": "+44 20 3993 5304",
+    "website": "https://www.medivet.co.uk/vet-practices/st-johns-wood/",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr-Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/12430661113",
+   "name": "Village Vet",
+   "lat": 51.5422398,
+   "lon": -0.1549134,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We,Fr 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/823477117",
+   "name": "Medivet",
+   "lat": 51.5410728,
+   "lon": -0.09448,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11112188258",
+   "name": "The Hoxton Vet",
+   "lat": 51.534133,
+   "lon": -0.0805715,
+   "distKm": 4.4,
+   "address": "263 Hoxton Street, London",
+   "tags": {
+    "phone": "+44 20 3582 6010",
+    "website": "https://www.thehoxtonvet.com/"
+   }
+  },
+  {
+   "id": "way/857571777",
+   "name": "Medivet",
+   "lat": 51.5464843,
+   "lon": -0.144152,
+   "distKm": 4.5,
+   "address": "15 Prince of Wales Road, London, NW5 3LH",
+   "tags": {
+    "phone": "+44 20 7267 1381",
+    "website": "https://www.medivetgroup.com/vet-practices/kentish-town/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/7052490220",
+   "name": "Bayswater Veterinary Clinic",
+   "lat": 51.5173826,
+   "lon": -0.1924812,
+   "distKm": 4.6,
+   "address": "35 Alexander Street, London",
+   "tags": {
+    "phone": "+44 20 7229 2040",
+    "website": "https://www.bayswaterveterinaryreferrals.co.uk/"
+   }
+  },
+  {
+   "id": "node/7489968396",
+   "name": "Kensington Veterinary Care",
+   "lat": 51.5075315,
+   "lon": -0.194972,
+   "distKm": 4.6,
+   "address": "137 Kensington Church Street",
+   "tags": {
+    "phone": "+44 20 7221 3093",
+    "website": "https://www.kensingtonvetcare.com/"
+   }
+  },
+  {
+   "id": "node/7129171604",
+   "name": "Pets Naturally",
+   "lat": 51.5144564,
+   "lon": -0.1950231,
+   "distKm": 4.7,
+   "address": "26 Chepstow Corner, London",
+   "tags": {
+    "phone": "+44 20 7221 9200",
+    "website": "https://www.petsnaturally.com/"
+   }
+  },
+  {
+   "id": "way/589467971",
+   "name": "Medivet",
+   "lat": 51.4694972,
+   "lon": -0.098165,
+   "distKm": 4.7,
+   "address": "7 Kenbury Street, London, SE5 9BS",
+   "tags": {
+    "phone": "+44 20 3816 1010",
+    "website": "https://www.medivetgroup.com/24-hour-emergency-vet/24-hour-camberwell/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/3340674790",
+   "name": "Voo",
+   "lat": 51.4663916,
+   "lon": -0.150054,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/341418924",
+   "name": "Battersea Veterinary Clinic",
+   "lat": 51.4716341,
+   "lon": -0.1670017,
+   "distKm": 4.8,
+   "address": "533 Battersea Park Road, London",
+   "tags": {}
+  },
+  {
+   "id": "node/1280261554",
+   "name": "Abingdon Veterinary Clinic",
+   "lat": 51.4962925,
+   "lon": -0.1966809,
+   "distKm": 4.9,
+   "address": "85 Earl's Court Road, London, W8 6EF",
+   "tags": {
+    "phone": "+44 20 7937 8215",
+    "website": "http://abingdonclinic.co.uk/"
+   }
+  },
+  {
+   "id": "way/1018578021",
+   "name": "Hello Vet",
+   "lat": 51.5309469,
+   "lon": -0.0673302,
+   "distKm": 4.9,
+   "address": "312 Hackney Road, London",
+   "tags": {
+    "phone": "+44 20 4587 1351",
+    "website": "https://www.hellovet.co.uk/",
+    "opening_hours": "Mo-Fr 09:00-11:00,16:00-19:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/4306185731",
+   "name": "All Creatures Veterinary Surgery",
+   "lat": 51.4656437,
+   "lon": -0.1547511,
+   "distKm": 5,
+   "address": "85 Lavender Hill, London",
+   "tags": {
+    "phone": "+44 20 7728 0648",
+    "website": "https://www.allcreatures.co.uk/"
+   }
+  },
+  {
+   "id": "node/7199657177",
+   "name": "Notting Hill Vet",
+   "lat": 51.5169063,
+   "lon": -0.2001943,
+   "distKm": 5.1,
+   "address": "106 Talbot Road",
+   "tags": {
+    "phone": "+44 20 7229 9797",
+    "website": "https://www.baronscourtvet.co.uk/find-and-contact/notting-hill/"
+   }
+  },
+  {
+   "id": "node/8183254717",
+   "name": "Chelsea Veterinary Clinic",
+   "lat": 51.4814609,
+   "lon": -0.187797,
+   "distKm": 5.1,
+   "address": "364-366 Fulham Road",
+   "tags": {
+    "phone": "+44 20 7823 3111",
+    "website": "https://www.waggintailsonline.com/"
+   }
+  },
+  {
+   "id": "way/198307051",
+   "name": "Goddard Veterinary Group",
+   "lat": 51.5489208,
+   "lon": -0.0921418,
+   "distKm": 5.2,
+   "address": "87 Grosvenor Avenue, London, N5 2NL",
+   "tags": {
+    "phone": "+44 20 7354 4621",
+    "website": "https://www.goddardvetgroup.co.uk/practice/highbury/",
+    "opening_hours": "Mo-Fr 09:00-19:00; We 09:00-12:00; Sa 13:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "way/792327532",
+   "name": "Village Vet",
+   "lat": 51.5374837,
+   "lon": -0.1853733,
+   "distKm": 5.2,
+   "address": "110 Boundary Road, London, NW8 0RH",
+   "tags": {
+    "website": "https://villagevet.co.uk/practice/st-johns-wood/"
+   }
+  },
+  {
+   "id": "node/1933402808",
+   "name": "Creature Comforts Vets",
+   "lat": 51.4637721,
+   "lon": -0.1663035,
+   "distKm": 5.5,
+   "address": "299 - 301 Lavender Hill, London",
+   "tags": {}
+  },
+  {
+   "id": "way/107270687",
+   "name": "Village Vet Hospital",
+   "lat": 51.5491046,
+   "lon": -0.1710513,
+   "distKm": 5.5,
+   "address": "11 Belsize Terrace, London, NW3 4AX",
+   "tags": {
+    "website": "https://villagevet.co.uk/",
+    "opening_hours": "Mo-Su 00:00-24:00"
+   }
+  },
+  {
+   "id": "way/838373841",
+   "name": "Village Vet",
+   "lat": 51.5491513,
+   "lon": -0.171084,
+   "distKm": 5.5,
+   "address": "10 Belsize Terrace, London, NW3 4AX",
+   "tags": {
+    "website": "https://villagevet.co.uk/"
+   }
+  },
+  {
+   "id": "node/11888878570",
+   "name": "elizavet",
+   "lat": 51.5386623,
+   "lon": -0.1904994,
+   "distKm": 5.6,
+   "address": "228 Belsize Road, London",
+   "tags": {}
+  },
+  {
+   "id": "node/12323760232",
+   "name": "Peckham Veterinary Surgery",
+   "lat": 51.4722788,
+   "lon": -0.070508,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "website": "https://peckhamvets.co.uk/"
+   }
+  },
+  {
+   "id": "node/7391743299",
+   "name": "Addison & Holland Park Veterinary Clinic",
+   "lat": 51.5060266,
+   "lon": -0.2122518,
+   "distKm": 5.8,
+   "address": "9 Addison Avenue",
+   "tags": {
+    "phone": "+44 20 7603 4407",
+    "website": "http://www.addisonandhollandparkveterinaryclinic.co.uk/"
+   }
+  },
+  {
+   "id": "node/3750658688",
+   "name": "David Cuffe & Associates",
+   "lat": 51.4547019,
+   "lon": -0.1393227,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11953603902",
+   "name": "Hello Vet",
+   "lat": 51.537795,
+   "lon": -0.0585739,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "phone": "+44 20 4587 1351",
+    "website": "https://www.hellovet.co.uk",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 09:00-12:30"
+   }
+  },
+  {
+   "id": "way/151536271",
+   "name": "Barons Court Veterinary Centre",
+   "lat": 51.4897684,
+   "lon": -0.2080147,
+   "distKm": 5.9,
+   "address": "2 Comeragh Road, London, W14 9HP",
+   "tags": {}
+  },
+  {
+   "id": "way/67555365",
+   "name": "Medivet",
+   "lat": 51.555685,
+   "lon": -0.1668648,
+   "distKm": 6,
+   "address": "61 South End Road, London, NW3 2RR",
+   "tags": {
+    "phone": "+44 20 7435 7770",
+    "website": "https://www.medivetgroup.com/vet-practices/hampstead-village/",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa 14:00-17:00"
+   }
+  },
+  {
+   "id": "node/9129768936",
+   "name": "Village Vet",
+   "lat": 51.4997736,
+   "lon": -0.2156614,
+   "distKm": 6.1,
+   "address": "75 Masbro Road",
+   "tags": {
+    "phone": "+44 20 7603 5150",
+    "website": "https://villagevet.co.uk/practice/brook-green/"
+   }
+  },
+  {
+   "id": "node/13827569583",
+   "name": "Snoots",
+   "lat": 51.5392213,
+   "lon": -0.0568148,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3069104091",
+   "name": "Westside Veterinary Clinic Ltd",
+   "lat": 51.4562019,
+   "lon": -0.1622246,
+   "distKm": 6.2,
+   "address": "2 Burland Road, London, SW11 6SA",
+   "tags": {
+    "phone": "+44 20 7223 7003",
+    "website": "https://www.westsidevets.co.uk/"
+   }
+  },
+  {
+   "id": "node/5965866585",
+   "name": "Village Vet",
+   "lat": 51.5598966,
+   "lon": -0.0984427,
+   "distKm": 6.2,
+   "address": "209 Blackstock Road, London",
+   "tags": {
+    "opening_hours": "Mo-Tu, Th-Fr 08:30-19:00; We 08:30-12:30; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/31008709",
+   "name": "Finsbury Park Animal Hospital",
+   "lat": 51.5622742,
+   "lon": -0.1118637,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/65658396",
+   "name": "Village Vet",
+   "lat": 51.536567,
+   "lon": -0.2047026,
+   "distKm": 6.2,
+   "address": "49 Lonsdale Road, London, NW6 6RA",
+   "tags": {}
+  },
+  {
+   "id": "way/609926218",
+   "name": "Goddard Veterinary Group",
+   "lat": 51.5400876,
+   "lon": -0.0552195,
+   "distKm": 6.2,
+   "address": "3-7 Well Street, London, E9 7QX",
+   "tags": {
+    "phone": "+44 20 8986 3918",
+    "website": "https://www.goddardvetgroup.co.uk/practice/hackney/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "way/185915365",
+   "name": "Brockwell Veterinary Surgery",
+   "lat": 51.4527337,
+   "lon": -0.1023234,
+   "distKm": 6.3,
+   "address": "Railton Road, London, SE24 0JT",
+   "tags": {}
+  },
+  {
+   "id": "node/4362182868",
+   "name": "Village Vet",
+   "lat": 51.5188818,
+   "lon": -0.2188979,
+   "distKm": 6.4,
+   "address": "71 St Helens Gardens",
+   "tags": {
+    "phone": "+44 20 8968 8333",
+    "website": "https://villagevet.co.uk/practice/st-helens/"
+   }
+  },
+  {
+   "id": "node/7278470830",
+   "name": "The Vets",
+   "lat": 51.5620031,
+   "lon": -0.1004405,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/95223730",
+   "name": "The Neighbourhood Vet",
+   "lat": 51.4585564,
+   "lon": -0.075261,
+   "distKm": 6.5,
+   "address": "64-66 Lordship Lane",
+   "tags": {
+    "opening_hours": "Mo,Th 08:00-20:00; Tu,We,Fr 08:00-19:00; Sa 09:00-15:00; Su off"
+   }
+  },
+  {
+   "id": "way/477963956",
+   "name": "Village Vet",
+   "lat": 51.5281281,
+   "lon": -0.2162381,
+   "distKm": 6.5,
+   "address": "748 Harrow Road, London, NW10 5LG",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/12944457049",
+   "name": "Petals Vets",
+   "lat": 51.4925504,
+   "lon": -0.0348508,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.petals.vet"
+   }
+  },
+  {
+   "id": "node/353912649",
+   "name": "Dragon Veterinary Clinic",
+   "lat": 51.5677049,
+   "lon": -0.122378,
+   "distKm": 6.7,
+   "address": "496 Hornsey Road, London",
+   "tags": {}
+  },
+  {
+   "id": "node/13191114096",
+   "name": "Goddard Veterinary Group",
+   "lat": 51.5226371,
+   "lon": -0.0338584,
+   "distKm": 6.7,
+   "address": "47 Burdett Road, London, E3 4TN",
+   "tags": {
+    "phone": "+44 20 8981 5535",
+    "website": "https://www.goddardvetgroup.co.uk/"
+   }
+  },
+  {
+   "id": "way/595656370",
+   "name": "Hello Vet",
+   "lat": 51.5374096,
+   "lon": -0.0442985,
+   "distKm": 6.7,
+   "address": "101 Lauriston Road, London, E9 7HJ",
+   "tags": {}
+  },
+  {
+   "id": "way/264032024",
+   "name": "Zasman Vet",
+   "lat": 51.5680378,
+   "lon": -0.1112839,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "website": "https://zasmanvet.co.uk/branchdetails.aspx?b=115&clientId=20102"
+   }
+  },
+  {
+   "id": "node/3430546059",
+   "name": "Eco Vets",
+   "lat": 51.4588345,
+   "lon": -0.1902828,
+   "distKm": 6.9,
+   "address": "50,52 Fairfield Street, London, SW18 1DY",
+   "tags": {
+    "phone": "+44 20 3659 8446",
+    "website": "https://www.ecovets.co.uk/",
+    "opening_hours": "Mo-Fr 09:00-19:00"
+   }
+  }
+ ]
+}

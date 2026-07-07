@@ -1,0 +1,319 @@
+{
+ "$schemaVersion": 1,
+ "city": "buffalo",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:33:02.930Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "way/449794547",
+   "name": "McClelland Small Animal",
+   "lat": 42.890724,
+   "lon": -78.8699826,
+   "distKm": 0.8,
+   "address": "455 Ellicott Street, Buffalo, NY 14203",
+   "tags": {}
+  },
+  {
+   "id": "way/1009539816",
+   "name": "City Creatures Animal Hospital",
+   "lat": 42.9416882,
+   "lon": -78.8674709,
+   "distKm": 6.2,
+   "address": "2113 Delaware Avenue, Buffalo, NY 14216",
+   "tags": {
+    "phone": "+17168737000",
+    "website": "https://www.citycreaturesbuffalo.com"
+   }
+  },
+  {
+   "id": "way/1022525067",
+   "name": "Central Park Animal Hospital",
+   "lat": 42.9408087,
+   "lon": -78.8367462,
+   "distKm": 6.9,
+   "address": "2715 Main Street, Buffalo, NY 14214",
+   "tags": {
+    "phone": "+17168353369",
+    "website": "http://www.centralparkah.com/"
+   }
+  },
+  {
+   "id": "node/13267748768",
+   "name": "Kenmore Animal Hospital",
+   "lat": 42.958862,
+   "lon": -78.8635837,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-16:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/637057739",
+   "name": "St Francis Animal Hospital",
+   "lat": 42.9475395,
+   "lon": -78.7844086,
+   "distKm": 10.2,
+   "address": "3806 Harlem Road, Cheektowaga, NY 14215",
+   "tags": {
+    "phone": "+1-716-835-1700",
+    "website": "https://www.stfrancisah.com/",
+    "opening_hours": "Su-Mo closed, Tu-Fr 09:00-18:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/229369855",
+   "name": "Sheridan Animal Hospital",
+   "lat": 42.9815179,
+   "lon": -78.8492806,
+   "distKm": 10.8,
+   "address": "2288 Sheridan Drive, Tonawanda, NY 14223",
+   "tags": {}
+  },
+  {
+   "id": "node/12197658270",
+   "name": "Northtown Animal Hospital",
+   "lat": 42.9765772,
+   "lon": -78.8226564,
+   "distKm": 11,
+   "address": "839 Niagara Falls Boulevard, Buffalo, NY 14226",
+   "tags": {}
+  },
+  {
+   "id": "way/637076983",
+   "name": "Animal Pain Management Center",
+   "lat": 42.952704,
+   "lon": -78.7776434,
+   "distKm": 11,
+   "address": "2217 Kensington Avenue, Buffalo, NY 14226",
+   "tags": {
+    "phone": "+1-716-839-1100",
+    "website": "https://www.managingpetpain.com",
+    "opening_hours": "Mo-Fr 07:30-18:00"
+   }
+  },
+  {
+   "id": "node/10198286449",
+   "name": "Brighton-Eggert Animal Clinic",
+   "lat": 42.981762,
+   "lon": -78.8273817,
+   "distKm": 11.4,
+   "address": "2880 Sheridan Drive, Tonawanda, NY 14150",
+   "tags": {}
+  },
+  {
+   "id": "node/2259028681",
+   "name": "Brighton Eggert Animal clinic",
+   "lat": 42.9908315,
+   "lon": -78.8392151,
+   "distKm": 12,
+   "address": "903 Brighton Road, Tonawanda, NY 14150",
+   "tags": {
+    "website": "https://www.brightoneggert.com/"
+   }
+  },
+  {
+   "id": "way/1396477597",
+   "name": "Abbott Road Animal Hospital",
+   "lat": 42.7791243,
+   "lon": -78.7901304,
+   "distKm": 13.9,
+   "address": "3816 Abbott Road, Orchard Park, NY 14127",
+   "tags": {
+    "phone": "+1-716-648-1340",
+    "website": "https://www.abbottroadanimalhospital.com/",
+    "opening_hours": "Tu 08:00-17:00; We 08:00-14:00; Th 08:00-19:00; Fr 08:00-17:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "way/1061883821",
+   "name": "Green Acres Animal Hospital",
+   "lat": 43.0105978,
+   "lon": -78.8228347,
+   "distKm": 14.5,
+   "address": "2060 Niagara Falls Boulevard, Tonawanda, NY 14150",
+   "tags": {}
+  },
+  {
+   "id": "node/8458007540",
+   "name": "Animal Eye Care of Western New York",
+   "lat": 42.8749819,
+   "lon": -78.6951854,
+   "distKm": 15,
+   "address": "4865 Transit Road, Depew, NY 14043",
+   "tags": {
+    "phone": "+1 716-608-7700",
+    "website": "https://animaleyecareofwny.com",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/1467691861",
+   "name": "BluePearl",
+   "lat": 42.9361394,
+   "lon": -78.7068442,
+   "distKm": 15,
+   "address": "4821 Genesee Street, Buffalo, NY 14225",
+   "tags": {}
+  },
+  {
+   "id": "node/13659076383",
+   "name": "Lancaster Small Animal Hospital",
+   "lat": 42.9385307,
+   "lon": -78.6958876,
+   "distKm": 16,
+   "address": "5156 Genesee Street, Bowmansville, NY 14026",
+   "tags": {}
+  },
+  {
+   "id": "way/639157588",
+   "name": "Summer Street Cat Clinic",
+   "lat": 43.0087972,
+   "lon": -78.7745404,
+   "distKm": 16,
+   "address": "2323 North Forest Road, Buffalo, NY 14228",
+   "tags": {
+    "phone": "+1 716-689-2287",
+    "website": "https://www.summerstreetcatclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/349914722",
+   "name": "Orchard Park Veterinary Medical Center",
+   "lat": 42.7762424,
+   "lon": -78.7463184,
+   "distKm": 16.3,
+   "address": "3930 North Buffalo Street, Orchard Park, NY 14127",
+   "tags": {
+    "website": "https://www.opvmc.com/"
+   }
+  },
+  {
+   "id": "way/765769520",
+   "name": "Pine Woods Animal Hospital",
+   "lat": 43.0358479,
+   "lon": -78.8607198,
+   "distKm": 16.7,
+   "address": "570 East Robinson Street, North Tonawanda, NY 14120",
+   "tags": {}
+  },
+  {
+   "id": "way/830990279",
+   "name": "Pine Woods Surgery & Rehab Center",
+   "lat": 43.0362947,
+   "lon": -78.8607498,
+   "distKm": 16.7,
+   "address": "66 Mead Street, North Tonawanda, NY 14120",
+   "tags": {}
+  },
+  {
+   "id": "way/857322011",
+   "name": "Island Pet Lodge",
+   "lat": 43.0189688,
+   "lon": -78.9758554,
+   "distKm": 16.7,
+   "address": "2120 Alvin Road, Grand Island, NY 14072",
+   "tags": {}
+  },
+  {
+   "id": "way/560226711",
+   "name": "Adoring Pets Vet",
+   "lat": 42.7372367,
+   "lon": -78.8439961,
+   "distKm": 16.8,
+   "address": "484 Sunset Drive, Hamburg, NY 14075",
+   "tags": {}
+  },
+  {
+   "id": "way/972376158",
+   "name": "Boulevard Animal Hospital",
+   "lat": 43.0336798,
+   "lon": -78.8230298,
+   "distKm": 17,
+   "address": "2920 Niagara Falls Boulevard, Amherst, NY 14228",
+   "tags": {}
+  },
+  {
+   "id": "way/560226632",
+   "name": "Camp Road Animal clinic",
+   "lat": 42.734908,
+   "lon": -78.8402709,
+   "distKm": 17.1,
+   "address": "5576 Camp Road, Hamburg, NY 14075",
+   "tags": {}
+  },
+  {
+   "id": "way/1217693439",
+   "name": "Grand Island Small Animal Hospital",
+   "lat": 43.0231532,
+   "lon": -78.9776916,
+   "distKm": 17.2,
+   "address": "2323 Whitehaven Road, Grand Island, NY 14072",
+   "tags": {}
+  },
+  {
+   "id": "node/2128307387",
+   "name": "Amclare Veterinary Hospital",
+   "lat": 43.00348,
+   "lon": -78.7387081,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We,Fr 08:00-18:00; Tu,Th 08:00-20:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "way/259135880",
+   "name": "Killewald Small Animal Hospital",
+   "lat": 43.0367107,
+   "lon": -78.8239703,
+   "distKm": 17.3,
+   "address": "3020 Niagara Falls Boulevard, Buffalo, NY 14228",
+   "tags": {}
+  },
+  {
+   "id": "way/151183851",
+   "name": "Animal Hospitable Veterinary Clinic",
+   "lat": 42.9800301,
+   "lon": -78.6974614,
+   "distKm": 18,
+   "address": "7780 Transit Road, Buffalo, NY 14221",
+   "tags": {}
+  },
+  {
+   "id": "way/560566569",
+   "name": "Tillou Veterinary Hospital",
+   "lat": 42.7253343,
+   "lon": -78.8247405,
+   "distKm": 18.4,
+   "address": "4219 Clark Street, Hamburg, NY 14075",
+   "tags": {}
+  },
+  {
+   "id": "way/1479944626",
+   "name": "Harris Hill Animal Hospital",
+   "lat": 42.9655242,
+   "lon": -78.6778573,
+   "distKm": 18.5,
+   "address": "8470 Main Street, Williamsville, NY 14221",
+   "tags": {}
+  },
+  {
+   "id": "node/13860106501",
+   "name": "Village Veterinary Clinic of Hamburg",
+   "lat": 42.7187899,
+   "lon": -78.8288483,
+   "distKm": 19.1,
+   "address": "113 Buffalo Street, 14075",
+   "tags": {
+    "phone": "+1-716-646-4023",
+    "website": "https://vvcofhamburg.com/",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa 08:00-21:00; Su 08:00-18:00"
+   }
+  }
+ ]
+}

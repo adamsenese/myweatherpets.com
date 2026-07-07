@@ -1,0 +1,638 @@
+{
+ "$schemaVersion": 1,
+ "city": "washington-dc",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:26:20.042Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/48207326",
+   "name": "S Street Dog Park",
+   "lat": 38.914392,
+   "lon": -77.0387165,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "website": "https://dpr.dc.gov/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 08:00-20:00"
+   }
+  },
+  {
+   "id": "way/1479340139",
+   "name": "Dog Daze Social Club",
+   "lat": 38.9101485,
+   "lon": -77.0273768,
+   "distKm": 0.9,
+   "address": "1100 Rhode Island Avenue Northwest",
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1157531295",
+   "name": "Shaw Dog Park",
+   "lat": 38.9120025,
+   "lon": -77.0266187,
+   "distKm": 1,
+   "address": "1673 11th Street Northwest",
+   "tags": {
+    "access": "yes",
+    "website": "http://shawdogs.org/"
+   }
+  },
+  {
+   "id": "way/1072038647",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9067985,
+   "lon": -77.053651,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/557799101",
+   "name": "Bundy Dog Park",
+   "lat": 38.9094974,
+   "lon": -77.0179722,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1448482379",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9018169,
+   "lon": -77.0548963,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1381095652",
+   "name": "Belmont Road Park",
+   "lat": 38.9189641,
+   "lon": -77.0511593,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/226345749",
+   "name": "Walter Pierce Park Dog Park",
+   "lat": 38.9238656,
+   "lon": -77.047026,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/167531834",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9182746,
+   "lon": -77.0154698,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/944026530",
+   "name": "Bruce Monroe Community Park Dog Run",
+   "lat": 38.928399,
+   "lon": -77.0244444,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/1210788959",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.906976,
+   "lon": -77.0073643,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "id": "way/220140809",
+   "name": "Columbia Heights Dog Park",
+   "lat": 38.9314786,
+   "lon": -77.0284227,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1068812971",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9035315,
+   "lon": -77.0023494,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/791075151",
+   "name": "Eckington Dog Park",
+   "lat": 38.9123362,
+   "lon": -77.0008155,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1164513441",
+   "name": "Guy Mason Recreation Center Dog Park",
+   "lat": 38.9217872,
+   "lon": -77.0710079,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1007399856",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9180266,
+   "lon": -77.0766206,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/781644261",
+   "name": "Quebec House Dog Park",
+   "lat": 38.9375073,
+   "lon": -77.057517,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1005064328",
+   "name": "Lansburgh Dog Park",
+   "lat": 38.8777576,
+   "lon": -77.0125503,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1009151027",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9228428,
+   "lon": -76.9960126,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1231351954",
+   "name": "Bark and Go Dog Park",
+   "lat": 38.8806876,
+   "lon": -77.0048367,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/879076902",
+   "name": "Upshur Dog Park",
+   "lat": 38.9448098,
+   "lon": -77.0314125,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/313026641",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8952489,
+   "lon": -76.9866692,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/314570885",
+   "name": "Newark Street Dog Park",
+   "lat": 38.934743,
+   "lon": -77.076657,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/367147287",
+   "name": "Dog Run",
+   "lat": 38.8732833,
+   "lon": -77.0027267,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/910656653",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8705604,
+   "lon": -77.0078669,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/389286558",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8823982,
+   "lon": -77.0849362,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/934750676",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8774857,
+   "lon": -76.9920284,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1190444636",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8670714,
+   "lon": -77.0093965,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1183478546",
+   "name": "Small Dog Run",
+   "lat": 38.8607303,
+   "lon": -77.0549749,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1183478547",
+   "name": "Big Dog Run",
+   "lat": 38.8607502,
+   "lon": -77.0548461,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/212013847",
+   "name": "James Hunter Park",
+   "lat": 38.8883352,
+   "lon": -77.0961947,
+   "distKm": 5.5,
+   "address": "1299 North Herndon Street, Arlington, VA 22201",
+   "tags": {
+    "website": "https://parks.arlingtonva.us/locations/james-hunter-dog-park/"
+   }
+  },
+  {
+   "id": "way/1183687128",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8585579,
+   "lon": -77.0495215,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/691454465",
+   "name": "Towers Dog Park",
+   "lat": 38.8672408,
+   "lon": -77.0770296,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1005063435",
+   "name": "Langdon Dog Park",
+   "lat": 38.926432,
+   "lon": -76.9749168,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1101867969",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8595557,
+   "lon": -77.0651526,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1387855534",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8551158,
+   "lon": -77.0506113,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1005048788",
+   "name": "Takoma Dog Park",
+   "lat": 38.9691174,
+   "lon": -77.0188687,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1005059425",
+   "name": "Chevy Chase Dog Park",
+   "lat": 38.9642857,
+   "lon": -77.080967,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1182954000",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9732609,
+   "lon": -77.029186,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/681140176",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8722357,
+   "lon": -77.1106083,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1355301193",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.840393,
+   "lon": -77.0226316,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/186907279",
+   "name": "Madison Community Canine Area",
+   "lat": 38.9230084,
+   "lon": -77.1228762,
+   "distKm": 7.6,
+   "address": "3829 North Stafford Street, Arlington, VA 22207",
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Fort-Ethan-Allen-Park/Fort-Ethan-Allen-Dog-Park",
+    "opening_hours": "sunrise-(sunset+00:30)"
+   }
+  },
+  {
+   "id": "node/6302123135",
+   "name": "Four Mile Run Dog Park",
+   "lat": 38.8405527,
+   "lon": -77.0601989,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "barrier": "none",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/983692888",
+   "name": "Fort Barnard Dog Park",
+   "lat": 38.8502816,
+   "lon": -77.0929484,
+   "distKm": 8,
+   "address": "2101 South Pollard Street, Arlington, VA 22204",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Fort-Barnard-Park/Fort-Barnard-Dog-Park"
+   }
+  },
+  {
+   "id": "way/1233842981",
+   "name": "Canine Cardio",
+   "lat": 38.8436524,
+   "lon": -77.0896975,
+   "distKm": 8.4,
+   "address": "2709 S OAKLAND ST., Arlington, VA 22206",
+   "tags": {
+    "website": "https://www.snoutsnstouts.com/"
+   }
+  },
+  {
+   "id": "way/369290328",
+   "name": "Heurich Dog Park",
+   "lat": 38.9623625,
+   "lon": -76.9693272,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://www.hyattsville.org/413/Heurich-Dog-Park"
+   }
+  },
+  {
+   "id": "way/1156606614",
+   "name": "Shirlington Dog Park",
+   "lat": 38.844704,
+   "lon": -77.0931049,
+   "distKm": 8.5,
+   "address": "2701 South Oakland Street, Arlington, VA 22206",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/2453225717",
+   "name": "Glencarlyn Dog Park",
+   "lat": 38.8619773,
+   "lon": -77.1170584,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6302123123",
+   "name": "Monticello Dog Park",
+   "lat": 38.8333579,
+   "lon": -77.069812,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "barrier": "none",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "node/6302123134",
+   "name": "Mount Jefferson Dog Park",
+   "lat": 38.8303924,
+   "lon": -77.0554917,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "barrier": "none",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/873095034",
+   "name": "Utah Dog Park",
+   "lat": 38.8379997,
+   "lon": -77.0859047,
+   "distKm": 8.8,
+   "address": "3191 South Utah Street, Arlington, VA 22206",
+   "tags": {
+    "website": "https://parks.arlingtonva.us/locations/utah-dog-park/"
+   }
+  },
+  {
+   "id": "way/993503871",
+   "name": "Takoma Park Dog Park",
+   "lat": 38.9849418,
+   "lon": -77.0113279,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1282031587",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.8244237,
+   "lon": -77.0506126,
+   "distKm": 9.3,
+   "address": "529 East Howell Avenue, Alexandria, VA 22301",
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "node/460205819",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9934797,
+   "lon": -77.0352789,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/173553541",
+   "name": "Simpson Stadium Dog Park",
+   "lat": 38.8213667,
+   "lon": -77.0520786,
+   "distKm": 9.6,
+   "address": "609 East Monroe Avenue, Alexandria, VA 22301",
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/933876622",
+   "name": "E Monroe Ave Dog Park",
+   "lat": 38.8205482,
+   "lon": -77.0515162,
+   "distKm": 9.7,
+   "address": "521 East Monroe Avenue, Alexandria, VA",
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/593943565",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9951041,
+   "lon": -77.0349153,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1497532959",
+   "name": "Canine Courtyard",
+   "lat": 38.9675053,
+   "lon": -76.9513929,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "residents"
+   }
+  },
+  {
+   "id": "node/6302123125",
+   "name": "Timberbranch Dog Park",
+   "lat": 38.8213539,
+   "lon": -77.0760065,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "barrier": "none",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/562933565",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 38.9976981,
+   "lon": -77.0385639,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

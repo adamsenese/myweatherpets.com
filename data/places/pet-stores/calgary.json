@@ -1,0 +1,699 @@
+{
+ "$schemaVersion": 1,
+ "city": "calgary",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:39:38.008Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/9692014038",
+   "name": "Fin Gallery",
+   "lat": 51.040347,
+   "lon": -114.071294,
+   "distKm": 0.5,
+   "address": "1304 4 Street SW, Calgary, T2R 0X8",
+   "tags": {
+    "phone": "+1 403-453-6105",
+    "website": "https://fin-gallery.ca/"
+   }
+  },
+  {
+   "id": "node/12272533483",
+   "name": "Paws Discovery",
+   "lat": 51.0527291,
+   "lon": -114.0673149,
+   "distKm": 0.9,
+   "address": "140 2 Street SW, T2P 0S7",
+   "tags": {
+    "website": "https://pawsdiscovery.com/",
+    "opening_hours": "Mo off; Tu-Sa 12:00-20:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/9918296381",
+   "name": "Pet Valu",
+   "lat": 51.0429098,
+   "lon": -114.0874553,
+   "distKm": 1.1,
+   "address": "1115 11 Avenue SW, Calgary, T2R 0G5",
+   "tags": {
+    "phone": "+1 403 228 7985",
+    "website": "https://www.petvalu.ca/",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/9747991898",
+   "name": "Pawsitively Natural",
+   "lat": 51.0342241,
+   "lon": -114.070665,
+   "distKm": 1.2,
+   "address": "2100 4 Street SW, Calgary, T2S 1W7",
+   "tags": {
+    "phone": "+1 403 250 7297",
+    "website": "https://www.pawsitivelynatural.ca/",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/11286478135",
+   "name": "Pet Planet",
+   "lat": 51.0523982,
+   "lon": -114.0867485,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa,Su 10:00-20:00",
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/6791398361",
+   "name": "Pet Planet Connaught",
+   "lat": 51.0430138,
+   "lon": -114.0916015,
+   "distKm": 1.4,
+   "address": "1207 11 Avenue SW, Calgary, T3C 0M5",
+   "tags": {}
+  },
+  {
+   "id": "node/12054145869",
+   "name": "You thrifty animal",
+   "lat": 51.0526929,
+   "lon": -114.0920298,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/223752631",
+   "name": "Doggywood",
+   "lat": 51.0534903,
+   "lon": -114.0507504,
+   "distKm": 1.8,
+   "address": "616 1 Avenue NE",
+   "tags": {
+    "phone": "+1-403-229-3647"
+   }
+  },
+  {
+   "id": "node/6974252169",
+   "name": "Doodle Dogs",
+   "lat": 51.0531152,
+   "lon": -114.0436062,
+   "distKm": 2.2,
+   "address": "841 1 Avenue NE, Calgary, T2E 0C2",
+   "tags": {
+    "website": "http://www.doodledogsyyc.com/"
+   }
+  },
+  {
+   "id": "node/7192239925",
+   "name": "Unleashed",
+   "lat": 51.0297039,
+   "lon": -114.0948733,
+   "distKm": 2.3,
+   "address": "2715 14 Street SW, T2T 3V2",
+   "tags": {
+    "phone": "+1-403-254-0861",
+    "website": "https://unleasheddogs.net/",
+    "opening_hours": "Mo 10:00-18:00; Tu-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-17:00; PH off"
+   }
+  },
+  {
+   "id": "node/10050109966",
+   "name": "Tail Blazers",
+   "lat": 51.0397594,
+   "lon": -114.0301448,
+   "distKm": 3,
+   "address": "1420 9 Avenue SE, Calgary, T2G 0T5",
+   "tags": {
+    "phone": "+1 403 265 7088",
+    "website": "https://tailblazerspets.com/index.php",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-16:30"
+   }
+  },
+  {
+   "id": "way/1422410870",
+   "name": "Pet Valu",
+   "lat": 51.0662054,
+   "lon": -114.1019993,
+   "distKm": 3.2,
+   "address": "1632 14 Avenue NW, T2N 1M7",
+   "tags": {
+    "phone": "+1 403 457 3644",
+    "website": "https://store.petvalu.ca/location/3244/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/2900192362",
+   "name": "Global Pet Foods",
+   "lat": 51.0238431,
+   "lon": -114.1096481,
+   "distKm": 3.5,
+   "address": "2101 33 Avenue SW, T2T 1Z7",
+   "tags": {
+    "phone": "+1 403-452-7297",
+    "website": "https://globalpetfoods.com/store-locations/s/?st=177",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa,Su 10:00-18:00",
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/10250057445",
+   "name": "Fairplay Pet Supply",
+   "lat": 51.0527675,
+   "lon": -114.1209331,
+   "distKm": 3.5,
+   "address": "2604 Kensington Road NW, T2N 3S5",
+   "tags": {
+    "phone": "+1-403-283-2117",
+    "website": "https://www.fairplaypet.com/",
+    "opening_hours": "Mo-Fr 089:00-18:00; Sa 09:00-17:30; Su 11:30-17:00"
+   }
+  },
+  {
+   "id": "node/12993117220",
+   "name": "The Bone & Biscuit Co.",
+   "lat": 51.0233219,
+   "lon": -114.1089873,
+   "distKm": 3.5,
+   "address": "2040 34 Avenue SW, Calgary, T2T 2C3",
+   "tags": {
+    "phone": "+1-587-315-3468",
+    "website": "https://boneandbiscuit.ca",
+    "opening_hours": "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/10250057444",
+   "name": "Fairplay Wild Bird Centre",
+   "lat": 51.0527635,
+   "lon": -114.121127,
+   "distKm": 3.6,
+   "address": "2604 Kensington Road NW, T2N 3S5",
+   "tags": {
+    "phone": "+1-403-283-2117",
+    "website": "https://www.fairplaywildbird.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:30; Su 11:30-17:00"
+   }
+  },
+  {
+   "id": "node/7330229372",
+   "name": "Urban Dog Market",
+   "lat": 51.0227342,
+   "lon": -114.1140468,
+   "distKm": 3.8,
+   "address": "3538 Garrison Gate SW, T2T 6N1",
+   "tags": {
+    "phone": "+1-403-242-3641",
+    "website": "https://urbandogmarket.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/13291451279",
+   "name": "Bon A-Pet-Treat!",
+   "lat": 51.009445,
+   "lon": -114.0824831,
+   "distKm": 4,
+   "address": "815 49 Avenue SW, Calgary, T2S 1G8",
+   "tags": {
+    "phone": "+1 403-455-7389",
+    "website": "https://www.petbakery.ca/"
+   }
+  },
+  {
+   "id": "node/12629753066",
+   "name": "Petropolitan",
+   "lat": 51.0255802,
+   "lon": -114.1293478,
+   "distKm": 4.5,
+   "address": "2933 Richmond Road SW, T3E 4N3",
+   "tags": {}
+  },
+  {
+   "id": "node/13846714586",
+   "name": "Global Pet Foods",
+   "lat": 51.0825841,
+   "lon": -114.09544,
+   "distKm": 4.5,
+   "address": "761 Northmount Drive NW, T2L 0A1",
+   "tags": {
+    "phone": "+1 403-457-1914",
+    "website": "https://globalpetfoods.com/",
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/984965777",
+   "name": "PetSmart",
+   "lat": 50.9969706,
+   "lon": -114.0684164,
+   "distKm": 5.3,
+   "address": "321 61 Avenue SW, T2H 2W7",
+   "tags": {
+    "phone": "+1 403-212-0888",
+    "website": "https://www.petsmart.ca/stores/ca/ab/calgary-store0490.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11943448285",
+   "name": "Homes Alive Pets",
+   "lat": 50.9936851,
+   "lon": -114.0730096,
+   "distKm": 5.7,
+   "address": "6711 Macleod Trail SW, T2H 2T3",
+   "tags": {
+    "phone": "+1-403-524-4554",
+    "website": "https://www.homesalive.ca/",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/12648258393",
+   "name": "Pet Planet",
+   "lat": 51.0854005,
+   "lon": -114.1249933,
+   "distKm": 5.9,
+   "address": "3630 Brentwood Road NW, T2L 1K8",
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/4823764008",
+   "name": "Dogma Training & Pet Services Inc.",
+   "lat": 50.9903102,
+   "lon": -114.0735652,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1837404457",
+   "name": "PetSmart",
+   "lat": 51.0679484,
+   "lon": -113.991432,
+   "distKm": 6.2,
+   "address": "3221 Sunridge Way NE, Calgary, T1Y 7M4",
+   "tags": {
+    "phone": "+1-403-250-1526",
+    "website": "https://www.petsmart.ca/store-locator/store/?storeID=1201",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9690840347",
+   "name": "Pet Valu",
+   "lat": 50.9969419,
+   "lon": -114.1184261,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/1641395854",
+   "name": "Pisces Pet Emporium",
+   "lat": 51.0970825,
+   "lon": -114.0369148,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "website": "https://piscespets.com/"
+   }
+  },
+  {
+   "id": "node/10266078537",
+   "name": "Pet Planet",
+   "lat": 51.077872,
+   "lon": -114.1463737,
+   "distKm": 6.4,
+   "address": "4121 University Avenue NW, T3B 6K3",
+   "tags": {
+    "phone": "+1-587-620-3080",
+    "website": "https://shoppetplanet.ca/stores/university-district/",
+    "opening_hours": "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa-Su 10:00-18:00; PH 10:00-17:00",
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "way/475687593",
+   "name": "Pet Planet",
+   "lat": 51.0187722,
+   "lon": -114.1554203,
+   "distKm": 6.5,
+   "address": "4800 Richmond Road SW, Calgary, T3E 6L4",
+   "tags": {
+    "phone": "+1-403-685-6643",
+    "website": "https://cart.shoppetplanet.com/shop_home/102178",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00",
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/1092883662",
+   "name": "Sunridge Petland",
+   "lat": 51.0767736,
+   "lon": -113.991779,
+   "distKm": 6.6,
+   "address": "3014 Sunridge Boulevard NE",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su,PH 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4745523742",
+   "name": "Petland",
+   "lat": 50.9825955,
+   "lon": -114.0389928,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-21:00; Sa 09:30-20:00; Su 09:30-18:00",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/4808168928",
+   "name": "Shampooch",
+   "lat": 50.9790642,
+   "lon": -114.0617842,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-403-726-0485",
+    "website": "https://shampoochgrooming.ca/"
+   }
+  },
+  {
+   "id": "node/4808168931",
+   "name": "Tail Blazers",
+   "lat": 50.9792566,
+   "lon": -114.0604935,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4835543984",
+   "name": "Paws Pet Food & Accessories",
+   "lat": 50.979207,
+   "lon": -114.0834883,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8796945778",
+   "name": "Petland",
+   "lat": 51.1085647,
+   "lon": -114.0395908,
+   "distKm": 7.5,
+   "address": "901 64 Avenue NE, Calgary, T2E 7P4",
+   "tags": {
+    "phone": "+1-403-453-0114",
+    "website": "https://www.petland.ca/",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "way/45402624",
+   "name": "Petland",
+   "lat": 51.0142608,
+   "lon": -114.1712967,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/4746055213",
+   "name": "Pet Valu",
+   "lat": 50.9747478,
+   "lon": -114.073617,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/4473562494",
+   "name": "Pet Valu",
+   "lat": 50.983363,
+   "lon": -114.014252,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/9595534905",
+   "name": "Dexter's",
+   "lat": 50.98904,
+   "lon": -114.0010069,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4823345021",
+   "name": "Fur-to-go",
+   "lat": 50.9695076,
+   "lon": -114.0480013,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1320756059",
+   "name": "Pet Valu",
+   "lat": 50.9768094,
+   "lon": -114.0145103,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/12688620145",
+   "name": "Pet Planet",
+   "lat": 51.125588,
+   "lon": -114.0694297,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/6592204543",
+   "name": "Pet Valu",
+   "lat": 51.1052718,
+   "lon": -114.1627195,
+   "distKm": 9.3,
+   "address": "5005 Dalhousie Drive NW",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/13075349225",
+   "name": "Pet Planet",
+   "lat": 50.9616305,
+   "lon": -114.0855889,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/12094110201",
+   "name": "PetSmart",
+   "lat": 51.0788848,
+   "lon": -114.1945223,
+   "distKm": 9.4,
+   "address": "110 Na'a Plaza SW, T1X0L3",
+   "tags": {
+    "phone": "+1 825-509-0331",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9581502465",
+   "name": "Pet Planet",
+   "lat": 51.0390626,
+   "lon": -114.2076747,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/9581542429",
+   "name": "Global Pet Foods",
+   "lat": 51.0608863,
+   "lon": -114.2104666,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/9581542477",
+   "name": "Tail Blazers",
+   "lat": 51.0667305,
+   "lon": -114.2090476,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4474233789",
+   "name": "PetSmart",
+   "lat": 51.040137,
+   "lon": -113.9146787,
+   "distKm": 11,
+   "address": "185 East Hills Boulevard SE, Calgary, T2A 4X7",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4913454482",
+   "name": "Pet Planet",
+   "lat": 50.9527516,
+   "lon": -113.9992701,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/10609173094",
+   "name": "Bon A-Pet-Treat Pet Bakery",
+   "lat": 51.0883079,
+   "lon": -114.2215072,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10609173095",
+   "name": "Pet Planet",
+   "lat": 51.0879536,
+   "lon": -114.2215152,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Planet"
+   }
+  },
+  {
+   "id": "node/4833618672",
+   "name": "Mucky Pups",
+   "lat": 50.9386558,
+   "lon": -114.0838452,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1257645732",
+   "name": "Global Pet Foods",
+   "lat": 51.1375734,
+   "lon": -114.1597895,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/13141940671",
+   "name": "Primal Canine",
+   "lat": 50.9584487,
+   "lon": -113.9674069,
+   "distKm": 12.1,
+   "address": "4750 106 Avenue SE, Calgary",
+   "tags": {
+    "phone": "+1 403-483-1168",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/6151355464",
+   "name": "Medical",
+   "lat": 51.1228627,
+   "lon": -113.9463673,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8832892168",
+   "name": "Pet Planet Country Hills Town Centre",
+   "lat": 51.155403,
+   "lon": -114.0588802,
+   "distKm": 12.3,
+   "address": "450 Country Hills Boulevard NE, Calgary, T3K 5A5",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13007208257",
+   "name": "Tail Blazers",
+   "lat": 51.1233559,
+   "lon": -114.197952,
+   "distKm": 12.4,
+   "address": "1829 Ranchlands Boulevard NW, Calgary, T3G 2A7",
+   "tags": {
+    "phone": "+1-403-375-0944",
+    "website": "https://tailblazerspets.com/tailblazers-locations-calgary-ranchlands.php",
+    "opening_hours": "Su 10:00-17:00; Mo-Fr 10:00-19:30; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13108169835",
+   "name": "Petfinity",
+   "lat": 50.9420027,
+   "lon": -114.1451275,
+   "distKm": 12.5,
+   "address": "11501 Buffalo Run Boulevard, T3T0E4",
+   "tags": {
+    "website": "https://www.petfinity.ca/"
+   }
+  },
+  {
+   "id": "node/4848178922",
+   "name": "Bonnieland Puppy Parlor",
+   "lat": 50.9312533,
+   "lon": -114.0646963,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-We 07:30-17:00; Th-Fr 07:30-17:30"
+   }
+  }
+ ]
+}

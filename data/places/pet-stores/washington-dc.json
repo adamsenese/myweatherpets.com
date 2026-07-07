@@ -1,0 +1,716 @@
+{
+ "$schemaVersion": 1,
+ "city": "washington-dc",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:26:20.042Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/462044723",
+   "name": "Dupont Pet Stop",
+   "lat": 38.9094303,
+   "lon": -77.0460113,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4348913786",
+   "name": "City Paws",
+   "lat": 38.9148069,
+   "lon": -77.0317084,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4270754290",
+   "name": "Unleashed",
+   "lat": 38.9100591,
+   "lon": -77.0221318,
+   "distKm": 1.3,
+   "address": "1550 7th Street Northwest, Washington, DC 20001",
+   "tags": {
+    "phone": "+1 202-238-9010",
+    "website": "https://stores.petco.com/dc/washington/pet-supplies-washington-dc-5826.html",
+    "opening_hours": "10:00-19:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/738190963",
+   "name": "District Dogs",
+   "lat": 38.9303728,
+   "lon": -77.0236657,
+   "distKm": 2.8,
+   "address": "3210 Georgia Avenue Northwest, Washington, DC 20010-2511",
+   "tags": {
+    "phone": "+1 202-813-3913",
+    "website": "https://districtdogs.com/parkview",
+    "brand": "District Dogs"
+   }
+  },
+  {
+   "id": "node/13201808289",
+   "name": "City Dogs",
+   "lat": 38.9000695,
+   "lon": -77.0018205,
+   "distKm": 3.1,
+   "address": "301 H Street Northeast, Washington, DC 20002",
+   "tags": {
+    "phone": "+12022349247",
+    "website": "https://www.city-dogs.com/",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-19:00; Su 12:00-19:00"
+   }
+  },
+  {
+   "id": "node/775946131",
+   "name": "Metro Mutts Pet Supplies",
+   "lat": 38.9003623,
+   "lon": -76.9990288,
+   "distKm": 3.4,
+   "address": "508 H Street Northeast, Washington, 20002",
+   "tags": {}
+  },
+  {
+   "id": "node/12064581337",
+   "name": "Petco",
+   "lat": 38.9000595,
+   "lon": -76.9973033,
+   "distKm": 3.5,
+   "address": "625 H Street Northeast, Washington, DC 20002",
+   "tags": {
+    "phone": "+1 202-370-2145",
+    "website": "https://stores.petco.com/dc/washington/pet-supplies-washington-dc-5835.html",
+    "opening_hours": "10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6157407822",
+   "name": "Capital Exotic Fish",
+   "lat": 38.9355444,
+   "lon": -77.0739167,
+   "distKm": 4.5,
+   "address": "3404 Idaho Avenue Northwest, Washington, DC 20016",
+   "tags": {
+    "phone": "+1-202-506-5476",
+    "website": "https://www.capitalexoticfish.com/"
+   }
+  },
+  {
+   "id": "node/9910242308",
+   "name": "Howl to the Chief",
+   "lat": 38.8805867,
+   "lon": -76.9951793,
+   "distKm": 4.7,
+   "address": "719 8th Street Southeast, Washington, DC 20003",
+   "tags": {
+    "phone": "+1 202-544-8710",
+    "website": "https://www.howltothechief.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12064581321",
+   "name": "Petco",
+   "lat": 38.9158758,
+   "lon": -76.9831772,
+   "distKm": 4.7,
+   "address": "1503 New York Avenue Northeast, Washington, DC 20002-1744",
+   "tags": {
+    "phone": "+1 202-777-4390",
+    "website": "https://stores.petco.com/dc/washington/pet-supplies-washington-dc-2878.html",
+    "opening_hours": "Mo-We 10:00-19:00; Th 09:00-18:00; Fr 10:00-19:00; Sa 10:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9046095964",
+   "name": "Patrick's Pet Care",
+   "lat": 38.932865,
+   "lon": -76.990851,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11735013357",
+   "name": "Dogma",
+   "lat": 38.8907808,
+   "lon": -77.0890398,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "phone": "+1-703-566-1937",
+    "website": "https://dogmabakery.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/80463209",
+   "name": "Chien de Luxe",
+   "lat": 38.9259104,
+   "lon": -77.102931,
+   "distKm": 6.1,
+   "address": "5140 MacArthur Boulevard Northwest",
+   "tags": {
+    "phone": "+1-202-363-3600",
+    "website": "https://chiendeluxeus.com",
+    "opening_hours": "Tu-Th 10:30-19:00; Fr 10:30-18:00; Sa 10:30-15:00; Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9139234733",
+   "name": "Petfarm",
+   "lat": 38.8813688,
+   "lon": -77.1127447,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/531149852",
+   "name": "PetSmart",
+   "lat": 38.9219447,
+   "lon": -76.9535803,
+   "distKm": 7.4,
+   "address": "2484 Market Street Northeast, Washington, DC 20018",
+   "tags": {
+    "phone": "+1 202-499-3880",
+    "website": "https://www.petsmart.com/stores/us/dc/washington-store2452.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1066859905",
+   "name": "The Big Bad Woof",
+   "lat": 38.9746385,
+   "lon": -77.015283,
+   "distKm": 7.7,
+   "address": "6960 Maple Street Northwest, Washington, DC 20012",
+   "tags": {
+    "website": "https://www.thebigbadwoof.com/",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/713702598",
+   "name": "PetSmart",
+   "lat": 38.8355078,
+   "lon": -77.0497603,
+   "distKm": 8,
+   "address": "3351 Richmond Highway, Alexandria, VA 22305",
+   "tags": {
+    "phone": "+1 703-739-4844",
+    "website": "https://www.petsmart.com/stores/us/va/alexandria-store0447.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2989827817",
+   "name": "The Washington Humane Society",
+   "lat": 38.9787088,
+   "lon": -77.0262604,
+   "distKm": 8,
+   "address": "7115 Georgia Avenue Northwest, Washington, 20012",
+   "tags": {}
+  },
+  {
+   "id": "node/2989827821",
+   "name": "The Humane Society",
+   "lat": 38.9788226,
+   "lon": -77.0262373,
+   "distKm": 8,
+   "address": "7119 Georgia Avenue Northwest, Washington, 20012",
+   "tags": {}
+  },
+  {
+   "id": "node/12629381086",
+   "name": "Eden Pet Supplies & Supermarket",
+   "lat": 38.9344988,
+   "lon": -76.9503213,
+   "distKm": 8.1,
+   "address": "3771 Bladensburg Road, Colmar Manor, MD 20722",
+   "tags": {}
+  },
+  {
+   "id": "way/804642799",
+   "name": "From Head to Tail Spa",
+   "lat": 38.8317615,
+   "lon": -77.0513686,
+   "distKm": 8.5,
+   "address": "430 Hume Avenue, Alexandria, VA 22301",
+   "tags": {
+    "phone": "+1-571-312-7989",
+    "website": "https://www.headtotailspa.com/",
+    "opening_hours": "Tu-Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "way/1123142498",
+   "name": "Wild Bird Center",
+   "lat": 38.9492784,
+   "lon": -77.1183513,
+   "distKm": 8.5,
+   "address": "4611 Sangamore Road, Bethesda, MD 20816",
+   "tags": {}
+  },
+  {
+   "id": "node/8681808416",
+   "name": "Wild Birds Unlimited",
+   "lat": 38.8971919,
+   "lon": -77.1379879,
+   "distKm": 8.8,
+   "address": "2437 North Harrison Street, Arlington, VA 22207",
+   "tags": {
+    "phone": "+1-703-241-3988",
+    "website": "https://arlingtonva.wbu.com/",
+    "opening_hours": "Mo-Sa 10:00-18:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/368188348",
+   "name": "Nature's Nibbles",
+   "lat": 38.8285631,
+   "lon": -77.0588456,
+   "distKm": 8.9,
+   "address": "2601 Mount Vernon Avenue, Alexandria, VA 22301",
+   "tags": {
+    "website": "https://www.naturesnibbles.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00, Sa 09:00-19:00; Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "way/462691101",
+   "name": "Unleashed",
+   "lat": 38.8959493,
+   "lon": -77.138351,
+   "distKm": 8.9,
+   "address": "5400 Langston Boulevard, Arlington, VA 22207-1614",
+   "tags": {
+    "phone": "+1 703-237-2055",
+    "website": "https://stores.petco.com/va/arlington/pet-supplies-arlington-va-5806.html",
+    "opening_hours": "Mo-We 10:00-19:00; Th 10:00-18:00; Fr-Su 10:00-19:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/12050368604",
+   "name": "PetSmart",
+   "lat": 38.9777297,
+   "lon": -77.0915679,
+   "distKm": 9.2,
+   "address": "6800 Wisconsin Avenue, Bethesda, MD 20815",
+   "tags": {
+    "phone": "+1 240-497-1350",
+    "website": "https://www.petsmart.com/stores/us/md/bethesda-store1348.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/230394113",
+   "name": "Your Dog's Best Friend \"The Store\"",
+   "lat": 38.8262649,
+   "lon": -77.0584357,
+   "distKm": 9.2,
+   "address": "2301 Mount Vernon Avenue, Alexandria, VA 22301",
+   "tags": {
+    "opening_hours": "Mo,We-Fr 11:00-20:00; Tu 11:00-19:00; Sa 09:00-20:00; Su 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/2612376412",
+   "name": "Ambassador Pet Hospital",
+   "lat": 38.9904087,
+   "lon": -77.0234734,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4001119656",
+   "name": "Hairy Situations Dog Grooming",
+   "lat": 38.8218999,
+   "lon": -77.0473176,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12333458359",
+   "name": "Wag N' Wash Natural Pet Food & Grooming",
+   "lat": 38.9784748,
+   "lon": -77.0991251,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13910379364",
+   "name": "For Pets Sake",
+   "lat": 38.8294808,
+   "lon": -77.0854797,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/252818304",
+   "name": "PetSmart",
+   "lat": 38.868709,
+   "lon": -77.1430209,
+   "distKm": 10.1,
+   "address": "6100 Arlington Boulevard, Falls Church, VA 22044",
+   "tags": {
+    "phone": "+1 703-536-2708",
+    "website": "https://www.petsmart.com/stores/us/va/falls-church-store0442.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/72646739",
+   "name": "Petco",
+   "lat": 38.8499377,
+   "lon": -77.1328049,
+   "distKm": 10.5,
+   "address": "5825 Leesburg Pike, Bailey's Crossroads, VA 22041",
+   "tags": {
+    "phone": "+1 703-845-2780",
+    "website": "https://stores.petco.com/va/baileyscrossroads/pet-supplies-baileyscrossroads-va-1716.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/306954162",
+   "name": "Olde Towne School for Dogs",
+   "lat": 38.8096003,
+   "lon": -77.0446354,
+   "distKm": 10.9,
+   "address": "529 Oronoco Street, Alexandria, VA 22314",
+   "tags": {
+    "website": "https://otsfd.com/"
+   }
+  },
+  {
+   "id": "node/6235177263",
+   "name": "Academy Dog Training",
+   "lat": 39.0089228,
+   "lon": -77.0410947,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/6169742501",
+   "name": "Tropical Lagoon Aquarium",
+   "lat": 39.0093863,
+   "lon": -77.0402072,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu 11:00-17:00; We-Fr 11:00-18:00; Sa 11:00-17:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/9655030671",
+   "name": "The Dog Park",
+   "lat": 38.8052115,
+   "lon": -77.0473087,
+   "distKm": 11.4,
+   "address": "705 King Street, Alexandria, VA 22314",
+   "tags": {
+    "phone": "+17038882818",
+    "website": "https://shopthedogpark.com/"
+   }
+  },
+  {
+   "id": "node/6055520903",
+   "name": "Happy Cat Hotel & Spa",
+   "lat": 38.8051688,
+   "lon": -77.0705828,
+   "distKm": 11.7,
+   "address": "2391 South Dove Street",
+   "tags": {
+    "phone": "+1-703-570-4105",
+    "website": "https://happycathotel.com/alexandria/"
+   }
+  },
+  {
+   "id": "node/12978821991",
+   "name": "The Backyard Bird Feeder",
+   "lat": 38.8086747,
+   "lon": -77.0866725,
+   "distKm": 11.8,
+   "address": "3225 Duke Street, Alexandria, VA 22314",
+   "tags": {}
+  },
+  {
+   "id": "way/224179537",
+   "name": "PetSmart",
+   "lat": 38.8069293,
+   "lon": -76.9768585,
+   "distKm": 12.3,
+   "address": "6005 Oxon Hill Road, Oxon Hill, MD 20745",
+   "tags": {
+    "phone": "+1 301-839-4900",
+    "website": "https://www.petsmart.com/stores/us/md/oxon-hill-store0454.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3584164769",
+   "name": "Your Dogs Best Friend",
+   "lat": 38.939229,
+   "lon": -77.1744664,
+   "distKm": 12.4,
+   "address": "1323 Chain Bridge Road, McLean, VA 22101",
+   "tags": {}
+  },
+  {
+   "id": "node/13272873590",
+   "name": "For The Wild Birds",
+   "lat": 38.9369407,
+   "lon": -77.1753167,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3584164792",
+   "name": "Custom Canines Ltd",
+   "lat": 38.9375083,
+   "lon": -77.1761342,
+   "distKm": 12.5,
+   "address": "1352 Old Chain Bridge Road, McLean, VA 22101",
+   "tags": {
+    "opening_hours": "Tu-Sa 07:30-14:00"
+   }
+  },
+  {
+   "id": "node/5254897923",
+   "name": "Pet Depot",
+   "lat": 38.8361352,
+   "lon": -77.1552441,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5514947228",
+   "name": "Unleashed",
+   "lat": 38.8106189,
+   "lon": -77.1335482,
+   "distKm": 13.6,
+   "address": "283 South Van Dorn Street, Alexandria, VA 22304-4303",
+   "tags": {
+    "phone": "+1 703-212-9123",
+    "website": "https://stores.petco.com/va/alexandria/pet-supplies-alexandria-va-5814.html",
+    "opening_hours": "10:00-19:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/9643583266",
+   "name": "Pets are Home",
+   "lat": 39.0279214,
+   "lon": -77.0784786,
+   "distKm": 13.9,
+   "address": "10414 Detrick Avenue, Kensington, MD 20895",
+   "tags": {
+    "phone": "+1-301-933-8272",
+    "website": "https://petsarehome.com",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10718003319",
+   "name": "Petco",
+   "lat": 38.8484944,
+   "lon": -76.8826837,
+   "distKm": 14.9,
+   "address": "3034 Donnell Drive, Forestville, MD 20747",
+   "tags": {
+    "phone": "+1 301-420-0875",
+    "website": "https://stores.petco.com/md/forestville/pet-supplies-forestville-md-1771.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/228923719",
+   "name": "Petco",
+   "lat": 38.7751037,
+   "lon": -77.0819025,
+   "distKm": 15.2,
+   "address": "6612 Richmond Highway, Alexandria, VA 22306",
+   "tags": {
+    "phone": "+1 703-660-1300",
+    "website": "https://stores.petco.com/va/alexandria/pet-supplies-alexandria-va-767.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5534415769",
+   "name": "Pet Value",
+   "lat": 38.7847334,
+   "lon": -77.1223167,
+   "distKm": 15.5,
+   "address": "6120 Rose Hill Drive, Alexandria, VA 22310",
+   "tags": {}
+  },
+  {
+   "id": "node/5534415772",
+   "name": "Poochie Playhouse",
+   "lat": 38.7847836,
+   "lon": -77.1223271,
+   "distKm": 15.5,
+   "address": "6118 Rose Hill Drive, Alexandria, VA 22310",
+   "tags": {}
+  },
+  {
+   "id": "node/10716288835",
+   "name": "PetSmart",
+   "lat": 39.0435794,
+   "lon": -77.1049005,
+   "distKm": 16.3,
+   "address": "5154 Nicholson Lane, Kensington, MD 20895",
+   "tags": {
+    "phone": "+1 301-770-1343",
+    "website": "https://www.petsmart.com/stores/us/md/kensington-store0449.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6127364004",
+   "name": "Petco",
+   "lat": 38.8324144,
+   "lon": -77.2017918,
+   "distKm": 16.5,
+   "address": "7434 Little River Turnpike, Annandale, VA 22003-3013",
+   "tags": {
+    "phone": "+1 703-354-1546",
+    "website": "https://stores.petco.com/va/annandale/pet-supplies-annandale-va-2811.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10911306826",
+   "name": "PetSmart",
+   "lat": 38.9174808,
+   "lon": -77.2277015,
+   "distKm": 16.5,
+   "address": "8204 Leesburg Pike, Vienna, VA 22182",
+   "tags": {
+    "phone": "+1 703-556-8715",
+    "website": "https://www.petsmart.com/stores/us/va/vienna-store2214.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12050368621",
+   "name": "PetSmart",
+   "lat": 38.9924205,
+   "lon": -76.8796812,
+   "distKm": 16.6,
+   "address": "7475 Greenbelt Road, Greenbelt, MD 20770",
+   "tags": {
+    "phone": "+1 301-220-1295",
+    "website": "https://www.petsmart.com/stores/us/md/greenbelt-store1330.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10878914993",
+   "name": "Felix & Oscar",
+   "lat": 38.7736334,
+   "lon": -77.1369189,
+   "distKm": 17.2,
+   "address": "5840 Kingstowne Center, Alexandria, VA 22315",
+   "tags": {
+    "phone": "+1 703-866-0222",
+    "website": "https://felixandoscar.com/"
+   }
+  },
+  {
+   "id": "way/129998925",
+   "name": "PetSmart",
+   "lat": 39.0534221,
+   "lon": -76.9570729,
+   "distKm": 17.7,
+   "address": "12020 Cherry Hill Road, Silver Spring, MD 20904",
+   "tags": {
+    "phone": "+1 301-586-8262",
+    "website": "https://www.petsmart.com/stores/us/md/silver-spring-store1006.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3499992806",
+   "name": "Horners Pet Salon",
+   "lat": 38.8879646,
+   "lon": -77.2437191,
+   "distKm": 18,
+   "address": "Cedar Lane, Vienna, VA 22180",
+   "tags": {}
+  },
+  {
+   "id": "node/10651711662",
+   "name": "PetSmart",
+   "lat": 38.7498276,
+   "lon": -77.0879102,
+   "distKm": 18,
+   "address": "7690 Richmond Highway, Alexandria, VA 22306",
+   "tags": {
+    "phone": "+1 703-721-0650",
+    "website": "https://www.petsmart.com/stores/us/va/alexandria-store1353.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10712404323",
+   "name": "PetSmart",
+   "lat": 38.8941028,
+   "lon": -76.8261748,
+   "distKm": 18.3,
+   "address": "10464 Campus Way South, Largo, MD 20774",
+   "tags": {
+    "phone": "+1 301-350-4099",
+    "website": "https://www.petsmart.com/stores/us/md/largo-store1182.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7773675104",
+   "name": "Pet Supplies Plus",
+   "lat": 38.7658914,
+   "lon": -77.152882,
+   "distKm": 18.6,
+   "address": "7007 Manchester Boulevard, Franconia, VA 22310",
+   "tags": {
+    "phone": "+1 703-924-7246",
+    "website": "https://www.petsuppliesplus.com/Store/VA/Alexandria/Franconia/8055",
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

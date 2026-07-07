@@ -1,0 +1,268 @@
+{
+ "$schemaVersion": 1,
+ "city": "indianapolis",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:25:43.102Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 26,
+ "places": [
+  {
+   "id": "node/3577669593",
+   "name": "City Way Animal Clinic Mass Ave",
+   "lat": 39.776163,
+   "lon": -86.148484,
+   "distKm": 1.2,
+   "address": "625 North East Street, Indianapolis, IN 46202",
+   "tags": {
+    "phone": "+1-317-396-0056",
+    "website": "https://www.massaveanimalclinic.com/"
+   }
+  },
+  {
+   "id": "node/10263892460",
+   "name": "Indianapolis Animal Urgent Care",
+   "lat": 39.7556351,
+   "lon": -86.1491288,
+   "distKm": 1.6,
+   "address": "827 South East Street, Indianapolis, IN 46225",
+   "tags": {
+    "website": "https://www.iauc.vet",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/1035431607",
+   "name": "City Way Animal Clinics - Fountain Square",
+   "lat": 39.7552266,
+   "lon": -86.1424395,
+   "distKm": 2,
+   "address": "880 Virginia Avenue, Indianapolis, IN 46203",
+   "tags": {}
+  },
+  {
+   "id": "way/391519747",
+   "name": "FACE Low-Cost Animal Clinic",
+   "lat": 39.7850883,
+   "lon": -86.1326193,
+   "distKm": 2.9,
+   "address": "1505 Massachusetts Avenue, Indianapolis, IN 46201",
+   "tags": {}
+  },
+  {
+   "id": "way/973617192",
+   "name": "All Pets Go To Heaven",
+   "lat": 39.766146,
+   "lon": -86.2012005,
+   "distKm": 3.7,
+   "address": "2330 West Washington Street, Indianapolis, IN 46222",
+   "tags": {}
+  },
+  {
+   "id": "node/8710788209",
+   "name": "City Way Animal Clinics - Fall Creek Place",
+   "lat": 39.8023389,
+   "lon": -86.1499006,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/971717541",
+   "name": "IndyHumane Downtown Clinic",
+   "lat": 39.7739056,
+   "lon": -86.2056281,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1014555232",
+   "name": "All Pet Health Care by Noah's",
+   "lat": 39.7598989,
+   "lon": -86.2262166,
+   "distKm": 5.9,
+   "address": "3825 West Washington Street, Indianapolis, IN 46241",
+   "tags": {}
+  },
+  {
+   "id": "way/1028807113",
+   "name": "Indy Paws Veterinary Hospital",
+   "lat": 39.7880833,
+   "lon": -86.0836175,
+   "distKm": 6.7,
+   "address": "1502 North Emerson Avenue, Indianapolis, IN 46219",
+   "tags": {}
+  },
+  {
+   "id": "node/10241458703",
+   "name": "City Way Animal Clinic - Irvington",
+   "lat": 39.7705205,
+   "lon": -86.0721506,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13885474401",
+   "name": "South Side Animal Hospital",
+   "lat": 39.6895418,
+   "lon": -86.1358744,
+   "distKm": 9,
+   "address": "5220 Madison Avenue, 46227",
+   "tags": {
+    "phone": "+1-317-783-3309",
+    "website": "https://southsideanimalhosp.com/",
+    "opening_hours": "Mo-Fr 07:30-17:00"
+   }
+  },
+  {
+   "id": "node/6576841805",
+   "name": "Irvington Pet Clinic",
+   "lat": 39.7721134,
+   "lon": -86.0507355,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1023076803",
+   "name": "Veterinary Specialty & Emergency Care West",
+   "lat": 39.8013708,
+   "lon": -86.2678583,
+   "distKm": 10.1,
+   "address": "6136 Crawfordsville Road, Speedway, IN 46224",
+   "tags": {}
+  },
+  {
+   "id": "way/680116066",
+   "name": "IndyVet Emergency & Specialty Hospital",
+   "lat": 39.701468,
+   "lon": -86.0742995,
+   "distKm": 10.3,
+   "address": "5425 Victory Drive, Indianapolis, IN 46203",
+   "tags": {
+    "phone": "+13177824484",
+    "website": "https://indyvet.com/"
+   }
+  },
+  {
+   "id": "way/701977853",
+   "name": "Broad Ripple Animal Clinic",
+   "lat": 39.868768,
+   "lon": -86.1472257,
+   "distKm": 11.2,
+   "address": "6225 Broadway Street, Indianapolis, IN 46220",
+   "tags": {}
+  },
+  {
+   "id": "node/11694792010",
+   "name": "Pet Wellness Clinic",
+   "lat": 39.8690383,
+   "lon": -86.1347464,
+   "distKm": 11.4,
+   "address": "1430 Broad Ripple Avenue, Indianapolis, IN 46220",
+   "tags": {}
+  },
+  {
+   "id": "node/13009484301",
+   "name": "Brookville Road Animal Hospital",
+   "lat": 39.7492068,
+   "lon": -86.0248958,
+   "distKm": 11.6,
+   "address": "8049 Brookville Road",
+   "tags": {
+    "phone": "+1-317-353-6143",
+    "website": "https://www.brookvilleroadvet.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/5022384029",
+   "name": "30th Street Animal Hospital",
+   "lat": 39.8115018,
+   "lon": -86.0176235,
+   "distKm": 12.9,
+   "address": "8550 East 30th Street, Indianapolis, IN 46219",
+   "tags": {}
+  },
+  {
+   "id": "node/13972388902",
+   "name": "VetCheck Pet Urgent Care Center",
+   "lat": 39.6655762,
+   "lon": -86.0767664,
+   "distKm": 13.4,
+   "address": "5335 East Southport Road, 46237",
+   "tags": {
+    "phone": "+1-317-934-9953",
+    "website": "https://www.vetcheckforpetsindy.com/",
+    "opening_hours": "Mo-Fr 14:00-23:00; Sa 09:00-20:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/819514569",
+   "name": "Above and Beyond Animal Care",
+   "lat": 39.7639857,
+   "lon": -86.3303543,
+   "distKm": 14.7,
+   "address": "10828 Rockville Road, Avon, IN 46123",
+   "tags": {}
+  },
+  {
+   "id": "node/5216696279",
+   "name": "Meridian Veterinary Clinic",
+   "lat": 39.6247096,
+   "lon": -86.1579288,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11396234004",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.7164627,
+   "lon": -86.3547413,
+   "distKm": 17.8,
+   "address": "2677 East Main Street, Plainfield, IN 46168",
+   "tags": {}
+  },
+  {
+   "id": "node/4961975244",
+   "name": "Cat Care Clinic",
+   "lat": 39.9259623,
+   "lon": -86.1139132,
+   "distKm": 17.9,
+   "address": "9512 Haver Way, Indianapolis, IN 46240",
+   "tags": {}
+  },
+  {
+   "id": "way/511344631",
+   "name": "Avian & Exotic Animal Clinic",
+   "lat": 39.9213004,
+   "lon": -86.2300264,
+   "distKm": 18.1,
+   "address": "9330 Waldemar Road, Indianapolis, IN 46268",
+   "tags": {}
+  },
+  {
+   "id": "node/13409294654",
+   "name": "Animal Clinic Whiteland Greenwood",
+   "lat": 39.6060731,
+   "lon": -86.1060329,
+   "distKm": 18.6,
+   "address": "707 South Madison Avenue, Greenwood, IN 46143",
+   "tags": {}
+  },
+  {
+   "id": "way/507323037",
+   "name": "MedVet Medical & Cancer Centers for Pets",
+   "lat": 39.9268535,
+   "lon": -86.2381566,
+   "distKm": 18.9,
+   "address": "9650 Mayflower Park Drive, Carmel, IN 46032",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  }
+ ]
+}

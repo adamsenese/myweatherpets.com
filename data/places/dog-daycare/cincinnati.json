@@ -1,0 +1,93 @@
+{
+ "$schemaVersion": 1,
+ "city": "cincinnati",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:32:04.277Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "way/56224835",
+   "name": "Dogtown - Downtown Cincinnati",
+   "lat": 39.127675,
+   "lon": -84.5022604,
+   "distKm": 2.9,
+   "address": "2519 Burnet Avenue, Cincinnati, OH 45219",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/74285337",
+   "name": "FurKids Dog Daycare",
+   "lat": 39.1384689,
+   "lon": -84.3970364,
+   "distKm": 10.7,
+   "address": "5614 Wooster Pike, Fairfax, OH 45227",
+   "tags": {
+    "website": "https://furkidscincy.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/71502024",
+   "name": "Red Dog Pet Resort Cincinnati",
+   "lat": 39.1584728,
+   "lon": -84.4087979,
+   "distKm": 10.8,
+   "address": "5081 Madison Road, Cincinnati, OH 45227",
+   "tags": {
+    "website": "https://reddogpetresort.com/cincinnati/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12988503419",
+   "name": "Erlanger Pet Resort and Day Spa",
+   "lat": 39.0173401,
+   "lon": -84.5995728,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/57769913",
+   "name": "Puppywood",
+   "lat": 39.0724249,
+   "lon": -84.3386738,
+   "distKm": 15.3,
+   "address": "7863 Beechmont Avenue, Cincinnati, OH 45255",
+   "tags": {
+    "website": "https://www.puppywood.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/57768085",
+   "name": "Dogtown Anderson",
+   "lat": 39.0733307,
+   "lon": -84.3281562,
+   "distKm": 16.2,
+   "address": "8190 Beechmont Avenue, Cincinnati, OH 45255",
+   "tags": {
+    "opening_hours": "24/7",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/57767896",
+   "name": "Pet Boarding Cincinnati",
+   "lat": 39.0731621,
+   "lon": -84.326322,
+   "distKm": 16.4,
+   "address": "8240 Beechmont Avenue, Cincinnati, OH 45255",
+   "tags": {
+    "website": "https://petboardingcincinnati.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

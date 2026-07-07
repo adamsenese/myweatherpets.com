@@ -1,0 +1,434 @@
+{
+ "$schemaVersion": 1,
+ "city": "columbus",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:24:54.165Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 36,
+ "places": [
+  {
+   "id": "node/7894512612",
+   "name": "Pet Valu",
+   "lat": 39.9829068,
+   "lon": -83.0044569,
+   "distKm": 2.5,
+   "address": "1004 North High Street, Columbus, OH 43201",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/8493186849",
+   "name": "The Cakehound",
+   "lat": 39.9392729,
+   "lon": -82.9907584,
+   "distKm": 2.5,
+   "address": "1147 Jaeger Street, Columbus, OH 43206",
+   "tags": {
+    "phone": "+1 614 845 1445",
+    "website": "https://thecakehound.com",
+    "opening_hours": "Tu-Fr 10:00-20:00; Sa-Su 09:00-15:00"
+   }
+  },
+  {
+   "id": "way/167030368",
+   "name": "Petco",
+   "lat": 39.9922314,
+   "lon": -83.0273964,
+   "distKm": 4.2,
+   "address": "1647 Olentangy River Road, Columbus, OH 43212",
+   "tags": {
+    "phone": "+1 614-298-8014",
+    "website": "https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-864.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/1725676379",
+   "name": "Hollywood Feed",
+   "lat": 39.9889867,
+   "lon": -83.0456937,
+   "distKm": 5.1,
+   "address": "1464 West Fifth Avenue, 43212",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30",
+    "brand": "Hollywood Feed"
+   }
+  },
+  {
+   "id": "node/4234845164",
+   "name": "Pet Supplies Plus",
+   "lat": 40.0072906,
+   "lon": -83.0472938,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/512155723",
+   "name": "PetPeople",
+   "lat": 40.0205105,
+   "lon": -83.0132163,
+   "distKm": 6.7,
+   "address": "2863 North High Street, Columbus, OH 43202",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4857980536",
+   "name": "Mutts and Co",
+   "lat": 40.0067512,
+   "lon": -83.0516211,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6952246274",
+   "name": "Buckeye Pets",
+   "lat": 39.9722015,
+   "lon": -82.9079008,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6965397396",
+   "name": "Pet Valu",
+   "lat": 39.9566463,
+   "lon": -83.0951422,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "way/1199635401",
+   "name": "PetSmart",
+   "lat": 39.8772572,
+   "lon": -83.0448045,
+   "distKm": 10.1,
+   "address": "1743 Stringtown Road, Grove City, OH 43123",
+   "tags": {
+    "phone": "+1 614-539-8773",
+    "website": "https://www.petsmart.com/stores/us/oh/grove-city-store1209.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11372981773",
+   "name": "Mutts & Co.",
+   "lat": 39.8777293,
+   "lon": -83.0596799,
+   "distKm": 10.6,
+   "address": "4170 McDowell Rd, Grove City, OH 43123-3902",
+   "tags": {
+    "phone": "+1 614-512-5107",
+    "website": "https://muttsandco.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4473402289",
+   "name": "Cat Welfare Association",
+   "lat": 40.0573083,
+   "lon": -82.9998132,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3654738928",
+   "name": "Jack's Pets & Aquarium",
+   "lat": 40.0650762,
+   "lon": -83.0237002,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.jackspets.com/"
+   }
+  },
+  {
+   "id": "node/3659314456",
+   "name": "Petco",
+   "lat": 40.0653012,
+   "lon": -83.0188894,
+   "distKm": 11.7,
+   "address": "5030 North High Street, Columbus, OH 43214",
+   "tags": {
+    "phone": "+1 614-436-7387",
+    "website": "https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-2859.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/667535464",
+   "name": "Petco",
+   "lat": 40.0527039,
+   "lon": -83.0674302,
+   "distKm": 11.7,
+   "address": "1825 West Henderson Road, Upper Arlington, OH 43220",
+   "tags": {
+    "phone": "+1-614-591-5333",
+    "website": "https://stores.petco.com/oh/upperarlington/pet-supplies-upperarlington-oh-3816.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6965045605",
+   "name": "PetSmart",
+   "lat": 40.049894,
+   "lon": -82.9233625,
+   "distKm": 11.8,
+   "address": "3713 Easton Market, Columbus, OH 43219",
+   "tags": {
+    "phone": "+1 614-418-9389",
+    "website": "https://www.petsmart.com/stores/us/oh/columbus-store0550.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6967722238",
+   "name": "Pet Valu",
+   "lat": 40.0301655,
+   "lon": -83.1144486,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/6967722225",
+   "name": "Aquarium Adventure",
+   "lat": 40.0290278,
+   "lon": -83.1190583,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/547560347",
+   "name": "Ohio House Rabbit Rescue",
+   "lat": 40.074574,
+   "lon": -83.0192093,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6964046849",
+   "name": "PetSmart",
+   "lat": 39.9850844,
+   "lon": -83.1470208,
+   "distKm": 12.9,
+   "address": "5336 Westpointe Plaza Drive, Columbus, OH 43228",
+   "tags": {
+    "phone": "+1 614-876-2058",
+    "website": "https://www.petsmart.com/stores/us/oh/columbus-store0547.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6965046583",
+   "name": "Pet Valu",
+   "lat": 40.0600316,
+   "lon": -82.9158301,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/4608675500",
+   "name": "Petco",
+   "lat": 40.056239,
+   "lon": -82.9061526,
+   "distKm": 13.2,
+   "address": "4216 Easton Gateway Drive, Columbus, OH 43219",
+   "tags": {
+    "phone": "+1 614-934-6096",
+    "website": "https://stores.petco.com/oh/columbus/pet-supplies-columbus-oh-3805.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6965156273",
+   "name": "Mutts & Co.",
+   "lat": 40.0328568,
+   "lon": -83.1320929,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10780995405",
+   "name": "Rivers to Reefs Aquariums",
+   "lat": 40.0548021,
+   "lon": -82.8847321,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 12:00-20:00"
+   }
+  },
+  {
+   "id": "way/1199658194",
+   "name": "Petland",
+   "lat": 39.8400245,
+   "lon": -83.0790583,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "way/426920054",
+   "name": "PetSmart",
+   "lat": 40.0905607,
+   "lon": -83.0895124,
+   "distKm": 16.3,
+   "address": "6010 Sawmill Road, Dublin, OH 43017",
+   "tags": {
+    "phone": "+1 614-791-8200",
+    "website": "https://www.petsmart.com/stores/us/oh/dublin-store0548.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6978650401",
+   "name": "Pet Valu",
+   "lat": 40.1084511,
+   "lon": -82.9284075,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/6978650406",
+   "name": "Petco",
+   "lat": 40.1112256,
+   "lon": -82.9272386,
+   "distKm": 17.8,
+   "address": "565 South State Street, Westerville, OH 43081",
+   "tags": {
+    "phone": "+1 614-891-7387",
+    "website": "https://stores.petco.com/oh/westerville/pet-supplies-westerville-oh-2823.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9081221949",
+   "name": "PetSmart",
+   "lat": 39.934924,
+   "lon": -82.7932458,
+   "distKm": 17.8,
+   "address": "2389 Taylor Park Drive, Reynoldsburg, OH 43068",
+   "tags": {
+    "phone": "+1 614-986-3094",
+    "website": "https://www.petsmart.com/stores/us/oh/reynoldsburg-store2314.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1065737718",
+   "name": "PetSmart",
+   "lat": 39.984026,
+   "lon": -82.7866434,
+   "distKm": 18.3,
+   "address": "8095 East Broad Street, Reynoldsburg, OH 43068",
+   "tags": {
+    "phone": "+1 614-490-3027",
+    "website": "https://www.petsmart.com/stores/us/oh/reynoldsburg-store2774.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9081342289",
+   "name": "Pet Supplies Plus",
+   "lat": 39.9881585,
+   "lon": -82.7827355,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/1199668733",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.852487,
+   "lon": -82.8263546,
+   "distKm": 19,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/10804786246",
+   "name": "Petland",
+   "lat": 39.9153087,
+   "lon": -82.7830416,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "way/1199668729",
+   "name": "Pet Supplies Plus",
+   "lat": 39.8522423,
+   "lon": -82.8263575,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/6366283485",
+   "name": "Pet Valu",
+   "lat": 40.123675,
+   "lon": -83.0908278,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/6981620111",
+   "name": "Hollywood Feed",
+   "lat": 39.906318,
+   "lon": -82.7785173,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,333 @@
+{
+ "$schemaVersion": 1,
+ "city": "copenhagen",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:24:47.155Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 29,
+ "places": [
+  {
+   "id": "node/2698601391",
+   "name": "Bryggens Dyreklinik",
+   "lat": 55.6660966,
+   "lon": 12.5771978,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "phone": "+45 32 57 62 90",
+    "website": "http://www.bryggensdyreklinik.dk/",
+    "opening_hours": "Mo 09:00-18:00; Tu 17:00-19:00; We 09:00-17:00; Th 09:00-17:00; Fr 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/6610415909",
+   "name": "Centrum dyreklinik",
+   "lat": 55.6730851,
+   "lon": 12.5491547,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7375952709",
+   "name": "Le Chic Dog",
+   "lat": 55.6729625,
+   "lon": 12.5501341,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 11:00-14:00"
+   }
+  },
+  {
+   "id": "node/12802660142",
+   "name": "City Dyreklinik",
+   "lat": 55.6884526,
+   "lon": 12.5857434,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "website": "https://citydyreklinik.dk/",
+    "opening_hours": "mo 08:00-16:00; tu 09:00-18:00; we 08:00-16:00; th 09:00-18:00; fr 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/148984562",
+   "name": "Dyrehospital",
+   "lat": 55.6797236,
+   "lon": 12.5388508,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "website": "https://dyrehospitalet.ku.dk/",
+    "opening_hours": "Mo-Fr 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/289099139",
+   "name": "Jagtvejens Dyreklinik",
+   "lat": 55.6935669,
+   "lon": 12.5477869,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu 08:00-16:00; We 08:00-17:00; Th 09:00-18:00; Fr 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/6898216403",
+   "name": "Ryesgade Dyreklinik",
+   "lat": 55.6965692,
+   "lon": 12.5743567,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "phone": "+45 35434320",
+    "website": "https://ryesgadedyreklinik.dk/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/8939908721",
+   "name": "My Peterinarian Pet Care & Veterinary Services",
+   "lat": 55.6960366,
+   "lon": 12.5806412,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "phone": "+45 61 66 76 11",
+    "website": "https://www.mypeterinarian.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/4169788508",
+   "name": "Østerbrogades Dyrlæger",
+   "lat": 55.6977457,
+   "lon": 12.5796179,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "phone": "+45 35421800",
+    "website": "https://abcdyr.dk/",
+    "opening_hours": "Tu-Th 09:00-17:00; Mo 09:00-19:00; Fr 09:00-16:00; Sa 10:00-12:00"
+   }
+  },
+  {
+   "id": "node/3502659960",
+   "name": "Dyreklinikken Amagerbrogade",
+   "lat": 55.6527182,
+   "lon": 12.611198,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8792649090",
+   "name": "Sallingvej Dyreklinik",
+   "lat": 55.6927205,
+   "lon": 12.5069064,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+45 38869697",
+    "website": "https://sallingvej-dyreklinik.dk/",
+    "opening_hours": "Mo 08:00-18:00; Tu-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/7794847633",
+   "name": "Grundtvigs Dyreklinik",
+   "lat": 55.7121431,
+   "lon": 12.5325893,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-We 08:00-17:00; Th 08:00-18:00; Fr 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/7794861267",
+   "name": "Grundtvigsk Dyreklinik",
+   "lat": 55.7121172,
+   "lon": 12.5324801,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4888505210",
+   "name": "Kastrup Dyreklinik",
+   "lat": 55.636216,
+   "lon": 12.6246857,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 32 50 23 99"
+   }
+  },
+  {
+   "id": "way/293701142",
+   "name": "Kongelundens Dyreklinik",
+   "lat": 55.6183325,
+   "lon": 12.5855251,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/496958670",
+   "name": "Centrum Dyrehospital",
+   "lat": 55.6882767,
+   "lon": 12.4644454,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4885994336",
+   "name": "Husum Dyreklinik",
+   "lat": 55.7123903,
+   "lon": 12.4710758,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "website": "https://husumdyreklinik.dk/"
+   }
+  },
+  {
+   "id": "node/4429641889",
+   "name": "Rødovre Dyreklinik V/Lone Paredes",
+   "lat": 55.6836982,
+   "lon": 12.4461289,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "phone": "+4536704206",
+    "website": "https://roedovredyreklinik.dk/"
+   }
+  },
+  {
+   "id": "node/3309700320",
+   "name": "Avedøre Dyreklinik",
+   "lat": 55.6446642,
+   "lon": 12.4571038,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/497426832",
+   "name": "Gentofte Dyreklinik",
+   "lat": 55.7467812,
+   "lon": 12.5568235,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "phone": "+45 39620200",
+    "website": "https://dyrlaege.dk/"
+   }
+  },
+  {
+   "id": "node/3627559762",
+   "name": "Nymose Dyreklinik",
+   "lat": 55.7475865,
+   "lon": 12.5202698,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11234035292",
+   "name": "Center for Veterinær Billediagnostik",
+   "lat": 55.6989936,
+   "lon": 12.4251321,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "phone": "+45 22580313",
+    "website": "https://www.centerforveterinærbilleddiagnostik.dk/"
+   }
+  },
+  {
+   "id": "node/3751400408",
+   "name": "Herlev Dyrehospital",
+   "lat": 55.7256988,
+   "lon": 12.441593,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "08:00-17:00"
+   }
+  },
+  {
+   "id": "way/164833245",
+   "name": "Brøndby Dyreklinik",
+   "lat": 55.6558365,
+   "lon": 12.3958849,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "website": "https://broendbydyreklinik.dk/"
+   }
+  },
+  {
+   "id": "node/3079339427",
+   "name": "Buddinge Dyreklinik",
+   "lat": 55.7615963,
+   "lon": 12.4521359,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2150020198",
+   "name": "Dyrlægehuset i Ballerup",
+   "lat": 55.7302426,
+   "lon": 12.3605799,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.dyrlaegehusetiballerup.dk",
+    "opening_hours": "Mo-We 08:00-17:00; Th 08:00-18:00; Fr 08:00-16:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/13755977405",
+   "name": "Byens Dyreklinik",
+   "lat": 55.6467998,
+   "lon": 12.2984191,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "phone": "+45 43 99 43 33",
+    "website": "https://vetgruppen.dk/byens-dyreklinik/",
+    "opening_hours": "Mo 08:00-19:00; Tu-Fr 08:00-17:00; Sa 09:00-13:00; PH off"
+   }
+  },
+  {
+   "id": "node/13730742123",
+   "name": "Taastrup Dyreklinik",
+   "lat": 55.641169,
+   "lon": 12.293263,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 43 99 17 61",
+    "website": "https://taastrupdyreklinik.dk/"
+   }
+  },
+  {
+   "id": "way/554841847",
+   "name": "Greve Dyrehospital",
+   "lat": 55.5892614,
+   "lon": 12.3001594,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "website": "https://grevedyrehospital.dk/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "$schemaVersion": 1,
+ "city": "toronto",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:38:57.950Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/13248905479",
+   "name": "Park 9",
+   "lat": 43.6517338,
+   "lon": -79.3686317,
+   "distKm": 1.2,
+   "address": "67 Sherbourne Street",
+   "tags": {
+    "website": "https://www.park9dogs.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6860941068",
+   "name": "Hounds of York",
+   "lat": 43.6422101,
+   "lon": -79.3997625,
+   "distKm": 1.8,
+   "address": "9 Niagara Street",
+   "tags": {
+    "website": "https://houndsofyork.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3796227794",
+   "name": "Hotspot for Pets",
+   "lat": 43.6512544,
+   "lon": -79.4105934,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "website": "https://hotspotforpets.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6240360491",
+   "name": "Unleashed in the City",
+   "lat": 43.6487048,
+   "lon": -79.4203585,
+   "distKm": 3,
+   "address": "211 Ossington Avenue, Toronto",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13137054689",
+   "name": "Dogtopia",
+   "lat": 43.6389778,
+   "lon": -79.4178044,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/649736495",
+   "name": "Pack of Paws",
+   "lat": 43.6388896,
+   "lon": -79.4216087,
+   "distKm": 3.5,
+   "address": "105 Jefferson Avenue, Toronto",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 09:00-16:30; Su off",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12145097300",
+   "name": "Bark Buddies",
+   "lat": 43.6887644,
+   "lon": -79.3919937,
+   "distKm": 4,
+   "address": "46 St. Clair Avenue East, Toronto, M4T 1M9",
+   "tags": {
+    "website": "https://barkbuddiestoronto.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6765141948",
+   "name": "Lonesome Kitty Feline Hotel",
+   "lat": 43.6648778,
+   "lon": -79.4591868,
+   "distKm": 6.2,
+   "address": "2698 Dundas Street West",
+   "tags": {
+    "phone": "+1-416-536-4694",
+    "website": "https://lonesomekitty.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6551651383",
+   "name": "Dogs Do It Better",
+   "lat": 43.7069827,
+   "lon": -79.4425511,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6484545418",
+   "name": "Nooshy Daycare Boarding Spa",
+   "lat": 43.6478843,
+   "lon": -79.4860692,
+   "distKm": 8.3,
+   "address": "2487 Bloor Street West",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11093848710",
+   "name": "Hot Diggity Dogs",
+   "lat": 43.6293748,
+   "lon": -79.4901933,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13707266572",
+   "name": "Camp Canine",
+   "lat": 43.7336637,
+   "lon": -79.4193535,
+   "distKm": 9.4,
+   "address": "1925 Avenue Road, Toronto, M5M 4A2",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7555289451",
+   "name": "Stay & Play at the Pet Place",
+   "lat": 43.6368361,
+   "lon": -79.5278688,
+   "distKm": 11.8,
+   "address": "70 Chauncey Avenue",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/1995567879",
+   "name": "City Sniffers Dog Club",
+   "lat": 43.6215473,
+   "lon": -79.5249738,
+   "distKm": 11.9,
+   "address": "1248 The Queensway, Etobicoke, M8Z 1S2",
+   "tags": {
+    "phone": "+1-647-339-9957",
+    "website": "https://www.citysniffersdogclub.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/657936348",
+   "name": "Home Buddies",
+   "lat": 43.637856,
+   "lon": -79.532171,
+   "distKm": 12.1,
+   "address": "377 Munster Avenue, Toronto",
+   "tags": {
+    "phone": "+1-416-207-0977",
+    "website": "https://www.homebuddies.ca/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6376455279",
+   "name": "Doggy Daycare & Boarding",
+   "lat": 43.5966497,
+   "lon": -79.5251423,
+   "distKm": 13,
+   "address": "3320 Lake Shore Boulevard West",
+   "tags": {
+    "phone": "+1 6474519949",
+    "website": "https://dantesboarding.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6459456836",
+   "name": "The Modern Dog",
+   "lat": 43.6057477,
+   "lon": -79.586986,
+   "distKm": 17.2,
+   "address": "1224 Dundas Street East, Mississauga, L4Y 4A2",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11346817242",
+   "name": "Doggy House",
+   "lat": 43.8225383,
+   "lon": -79.3936938,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

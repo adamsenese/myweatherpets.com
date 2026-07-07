@@ -1,0 +1,711 @@
+{
+ "$schemaVersion": 1,
+ "city": "denver",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:26:12.840Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12156857421",
+   "name": "Pet Supplies Plus",
+   "lat": 39.746642,
+   "lon": -104.9968882,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/1333960311",
+   "name": "Dog Savvy",
+   "lat": 39.7473948,
+   "lon": -104.9995217,
+   "distKm": 1.2,
+   "address": "1402 Larimer Street, Denver, CO 80202",
+   "tags": {
+    "phone": "+1-303-623-5200",
+    "website": "https://www.dogsavvy.com/"
+   }
+  },
+  {
+   "id": "node/3458630897",
+   "name": "A Pet's Paradise",
+   "lat": 39.7307794,
+   "lon": -104.9743042,
+   "distKm": 1.7,
+   "address": "913 Corona Street, Denver, CO 80218",
+   "tags": {}
+  },
+  {
+   "id": "node/2833241694",
+   "name": "Sherlock Hound on 6th",
+   "lat": 39.7254821,
+   "lon": -104.9771556,
+   "distKm": 1.9,
+   "address": "810 East 6th Avenue, Denver, CO 80218",
+   "tags": {}
+  },
+  {
+   "id": "node/5582571554",
+   "name": "Sherlock Hound",
+   "lat": 39.7493319,
+   "lon": -104.9702291,
+   "distKm": 2.1,
+   "address": "1422 East 22nd Avenue, Denver, CO 80205",
+   "tags": {}
+  },
+  {
+   "id": "node/5670859175",
+   "name": "Kriser's Natural Pet",
+   "lat": 39.7568978,
+   "lon": -104.9993587,
+   "distKm": 2.1,
+   "address": "1910 Chestnut Place, Denver, CO 80202",
+   "tags": {}
+  },
+  {
+   "id": "node/5549668548",
+   "name": "JK Grooming",
+   "lat": 39.7254264,
+   "lon": -104.97219,
+   "distKm": 2.2,
+   "address": "1222 East 6th Avenue, Denver, CO 80218",
+   "tags": {
+    "website": "https://www.jkgrooming.com/"
+   }
+  },
+  {
+   "id": "node/12674348201",
+   "name": "Denver Animal Shelter",
+   "lat": 39.7156051,
+   "lon": -105.003441,
+   "distKm": 2.9,
+   "address": "80223",
+   "tags": {
+    "website": "http://denveranimalshelter.org"
+   }
+  },
+  {
+   "id": "node/13238846174",
+   "name": "Quality Paws Natural Pet",
+   "lat": 39.7123981,
+   "lon": -104.9873266,
+   "distKm": 3,
+   "address": "230 South Broadway, Denver, CO 80209",
+   "tags": {
+    "phone": "+1-303-778-7297",
+    "website": "https://www.qualitypaws.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/302349347",
+   "name": "Unleashed",
+   "lat": 39.7403873,
+   "lon": -104.9438753,
+   "distKm": 4,
+   "address": "3705 East Colfax Avenue, Denver, CO 80206",
+   "tags": {
+    "phone": "+1-303-355-2012",
+    "website": "http://unleashedby.petco.com/",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/973853131",
+   "name": "Gidget's Grooming",
+   "lat": 39.6968395,
+   "lon": -104.9806149,
+   "distKm": 4.8,
+   "address": "1083 South Pearl Street, Denver",
+   "tags": {
+    "phone": "+1-303-698-0777"
+   }
+  },
+  {
+   "id": "node/4276266985",
+   "name": "Denver Holistic Center Pets 4 PPL",
+   "lat": 39.7808363,
+   "lon": -105.0061131,
+   "distKm": 4.8,
+   "address": "4640 Pecos Street, Denver, CO 80211",
+   "tags": {}
+  },
+  {
+   "id": "node/4277759084",
+   "name": "Pet Vet Supply",
+   "lat": 39.7816692,
+   "lon": -104.9998033,
+   "distKm": 4.8,
+   "address": "1000 West 47th Avenue, Denver, CO 80211",
+   "tags": {}
+  },
+  {
+   "id": "node/891074165",
+   "name": "Heavenly Dog",
+   "lat": 39.6982925,
+   "lon": -104.961236,
+   "distKm": 5.2,
+   "address": "2224 East Tennessee Avenue",
+   "tags": {
+    "phone": "+1-303-777-4665"
+   }
+  },
+  {
+   "id": "node/1068506243",
+   "name": "PetSmart",
+   "lat": 39.7102243,
+   "lon": -104.937131,
+   "distKm": 5.6,
+   "address": "4300 East Alameda Avenue, Glendale, CO 80246",
+   "tags": {
+    "phone": "+1 303-399-0880",
+    "website": "https://www.petsmart.com/stores/us/co/glendale-store1787.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4166795422",
+   "name": "Simpawtico",
+   "lat": 39.7690972,
+   "lon": -105.0453984,
+   "distKm": 5.8,
+   "address": "4500 West 38th Avenue, Denver, CO 80212",
+   "tags": {}
+  },
+  {
+   "id": "node/4741454564",
+   "name": "Mouthfuls Pet Store",
+   "lat": 39.7744238,
+   "lon": -105.043869,
+   "distKm": 6,
+   "address": "4224 Tennyson Street, Denver, CO 80212",
+   "tags": {
+    "website": "https://mouthfuls.net/"
+   }
+  },
+  {
+   "id": "node/4894684121",
+   "name": "Ciji's Natural Pet Supplies",
+   "lat": 39.7503642,
+   "lon": -104.917294,
+   "distKm": 6.4,
+   "address": "2260 Kearney Street, Denver, CO 80207",
+   "tags": {
+    "phone": "+1-303-322-8000",
+    "opening_hours": "Mo-Fr 09:30-18:30, Sa 08:30-17:30, Su closed"
+   }
+  },
+  {
+   "id": "node/4762201204",
+   "name": "Fish Den",
+   "lat": 39.77687,
+   "lon": -105.0517638,
+   "distKm": 6.7,
+   "address": "5055 West 44th Avenue, Denver, CO 80212",
+   "tags": {}
+  },
+  {
+   "id": "node/13841353321",
+   "name": "Petco",
+   "lat": 39.7787536,
+   "lon": -105.0585174,
+   "distKm": 7.3,
+   "address": "5709 West 44th Avenue",
+   "tags": {
+    "phone": "+1 720-475-3517",
+    "website": "https://stores.petco.com/co/denver/pet-supplies-denver-co-2455.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/344217882",
+   "name": "Petco",
+   "lat": 39.6840469,
+   "lon": -104.9392902,
+   "distKm": 7.5,
+   "address": "4100 East Mexico Avenue, Denver, CO 80222",
+   "tags": {
+    "phone": "+1 303-756-0892",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2837144037",
+   "name": "Chewy's Bonetique",
+   "lat": 39.7205131,
+   "lon": -104.9022737,
+   "distKm": 7.8,
+   "address": "200 North Quebec Street, Denver, CO 80230",
+   "tags": {
+    "phone": "+1-303-344-2663",
+    "website": "http://www.chewysbonetique.com/"
+   }
+  },
+  {
+   "id": "node/13007235401",
+   "name": "Scales 'N Tails",
+   "lat": 39.7487015,
+   "lon": -105.0819012,
+   "distKm": 7.9,
+   "address": "2099 Wadsworth Boulevard, 80214",
+   "tags": {}
+  },
+  {
+   "id": "node/8098265764",
+   "name": "PetSmart",
+   "lat": 39.7661284,
+   "lon": -104.9004074,
+   "distKm": 8.2,
+   "address": "7505 East 35th Avenue, Denver, CO 80238",
+   "tags": {
+    "phone": "+1 303-393-9156",
+    "website": "https://www.petsmart.com/stores/us/co/denver-store1199.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2698616401",
+   "name": "Pet Station",
+   "lat": 39.6745963,
+   "lon": -104.9400209,
+   "distKm": 8.4,
+   "address": "South Colorado Boulevard, Denver, CO 80222",
+   "tags": {}
+  },
+  {
+   "id": "node/5207175774",
+   "name": "Duke's Dog Wash",
+   "lat": 39.7699235,
+   "lon": -105.0834379,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/51442465",
+   "name": "Petco",
+   "lat": 39.7075868,
+   "lon": -105.0835249,
+   "distKm": 8.7,
+   "address": "475 South Wadsworth, Lakewood, CO 80226",
+   "tags": {
+    "phone": "+1 303-985-0050",
+    "website": "https://stores.petco.com/co/lakewood/pet-supplies-lakewood-co-488.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2698624000",
+   "name": "PetSmart",
+   "lat": 39.6660358,
+   "lon": -104.9389759,
+   "distKm": 9.2,
+   "address": "2780 South Colorado Boulevard, Denver, CO 80222",
+   "tags": {
+    "phone": "+1 303-756-4199",
+    "website": "https://www.petsmart.com/stores/us/co/denver-store0231.html",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/50290879",
+   "name": "Petco",
+   "lat": 39.6540975,
+   "lon": -104.9938913,
+   "distKm": 9.5,
+   "address": "551 West Hampden Avenue, Englewood, CO 80110-2109",
+   "tags": {
+    "phone": "+1 303-761-0363",
+    "website": "https://stores.petco.com/co/englewood/pet-supplies-englewood-co-1406.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7099090347",
+   "name": "Petco",
+   "lat": 39.811812,
+   "lon": -105.0518022,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1242051521",
+   "name": "Bonez 4 Budz",
+   "lat": 39.7533088,
+   "lon": -104.8776457,
+   "distKm": 9.8,
+   "address": "2501 Dallas Street, Aurora, CO 80010",
+   "tags": {
+    "phone": "+1-303-975-6168",
+    "website": "https://bonez4budz.com/",
+    "opening_hours": "Tu-Sa 10:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2202039725",
+   "name": "PetSmart",
+   "lat": 39.7940508,
+   "lon": -105.0829834,
+   "distKm": 10,
+   "address": "5285 Wadsworth Bypass, Arvada, CO 80002",
+   "tags": {
+    "phone": "+1 303-456-1114",
+    "website": "https://www.petsmart.com/stores/us/co/arvada-store0252.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1572244926",
+   "name": "Pets 'N Stuff",
+   "lat": 39.6837583,
+   "lon": -105.0834378,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11294655170",
+   "name": "Aquatic Dogs",
+   "lat": 39.6771784,
+   "lon": -104.9020908,
+   "distKm": 10.2,
+   "address": "7429 East Iliff Avenue, 80231",
+   "tags": {
+    "phone": "+1 303-369-8812",
+    "website": "https://www.aquaticdog.com/",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa-Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/13482406528",
+   "name": "Pet Wants",
+   "lat": 39.7989041,
+   "lon": -105.0824341,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/999614805",
+   "name": "Paws 'n' Play",
+   "lat": 39.7993405,
+   "lon": -104.8822614,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {
+    "website": "https://pawsnplay.com/"
+   }
+  },
+  {
+   "id": "node/5070591285",
+   "name": "Bentley's Pet Stuff",
+   "lat": 39.6952852,
+   "lon": -104.8678177,
+   "distKm": 11.6,
+   "address": "1155 South Havana Street, Aurora, CO 80012",
+   "tags": {
+    "phone": "+1-720-638-9245",
+    "website": "https://www.petstuff.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00, Sa-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "way/234729585",
+   "name": "Petco",
+   "lat": 39.6928239,
+   "lon": -104.8630346,
+   "distKm": 12,
+   "address": "1350 South Ironton Street, Aurora, CO 80012",
+   "tags": {
+    "phone": "+1 303-751-0934",
+    "website": "https://stores.petco.com/co/aurora/pet-supplies-aurora-co-2403.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00; Mo-Sa 08:00-09:00 \"grooming only\"",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/273388802",
+   "name": "Petco",
+   "lat": 39.6515888,
+   "lon": -104.9027339,
+   "distKm": 12.3,
+   "address": "7400 East Hampden Avenue, Denver, CO 80237",
+   "tags": {
+    "phone": "+1 303-770-0607",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2784697293",
+   "name": "Wild Bird Center",
+   "lat": 39.6524635,
+   "lon": -104.899878,
+   "distKm": 12.4,
+   "address": "7800 East Hampden Avenue, Denver, CO 80237",
+   "tags": {
+    "phone": "+1-303-758-7575",
+    "website": "https://www.wildbird.com/franchises/wild-bird-center-of-denver"
+   }
+  },
+  {
+   "id": "node/5311077564",
+   "name": "Busy Beaks Bird Shop",
+   "lat": 39.675362,
+   "lon": -104.870132,
+   "distKm": 12.5,
+   "address": "10021 East Iliff Avenue, Aurora, CO 80247",
+   "tags": {
+    "phone": "+1-303-306-6000",
+    "website": "https://busybeaksbirdshop.com/",
+    "opening_hours": "Tu-Su 11:00-19:00, Mo closed"
+   }
+  },
+  {
+   "id": "node/12185436008",
+   "name": "Pet Supplies Plus",
+   "lat": 39.8447643,
+   "lon": -105.0545195,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/12866005475",
+   "name": "Chuck & Don's",
+   "lat": 39.7081482,
+   "lon": -105.1372639,
+   "distKm": 13,
+   "address": "12051 West Alameda Parkway, Lakewood, CO 80228",
+   "tags": {
+    "phone": "+1-720-719-7770",
+    "website": "https://stores.chuckanddons.com/lakewood/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3730924118",
+   "name": "PetSmart",
+   "lat": 39.7651448,
+   "lon": -105.1400845,
+   "distKm": 13.1,
+   "address": "3540 Youngfield Street, Wheat Ridge, CO 80033",
+   "tags": {
+    "phone": "+1-303-424-0123",
+    "website": "https://www.petsmart.com/stores/us/co/wheat-ridge-store0228.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12245203030",
+   "name": "Bentley's Pet Stuff",
+   "lat": 39.8355935,
+   "lon": -105.0829767,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7017801419",
+   "name": "Pet Supplies Plus",
+   "lat": 39.6988066,
+   "lon": -105.1457042,
+   "distKm": 14,
+   "address": "13079 West Alameda Parkway, Lakewood, CO 80228",
+   "tags": {
+    "website": "https://www.petsuppliesplus.com/store/co/lakewood/4641-lakewood/4641",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/12245203087",
+   "name": "Petco",
+   "lat": 39.8440855,
+   "lon": -105.0834366,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/669181608",
+   "name": "PetSmart",
+   "lat": 39.7155791,
+   "lon": -104.8254898,
+   "distKm": 14.3,
+   "address": "40 South Abilene Street, Aurora, CO 80012",
+   "tags": {
+    "phone": "+1 720-859-8122",
+    "website": "https://www.petsmart.com/stores/us/co/aurora-store1072.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5394513508",
+   "name": "PetSmart",
+   "lat": 39.6093202,
+   "lon": -104.9594125,
+   "distKm": 14.7,
+   "address": "5900 South University Boulevard, Greenwood Village, CO 80121",
+   "tags": {
+    "phone": "+1 303-357-3854",
+    "website": "https://www.petsmart.com/stores/us/co/greenwood-village-store2609.html",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8092367237",
+   "name": "Kriser's",
+   "lat": 39.7301441,
+   "lon": -105.163856,
+   "distKm": 14.9,
+   "address": "14710 West Colfax Avenue, Lakewood, CO 80401",
+   "tags": {
+    "phone": "+1-303-278-3977",
+    "website": "https://krisers.com/a/pages/locations/59/lakewood"
+   }
+  },
+  {
+   "id": "node/2371377417",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.855841,
+   "lon": -105.0790347,
+   "distKm": 15,
+   "address": null,
+   "tags": {
+    "phone": "+1-303-467-2644",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-17:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/5636366838",
+   "name": "Destiny's Paws Natural Pet Market",
+   "lat": 39.6083878,
+   "lon": -105.0365512,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9988285188",
+   "name": "Garden Of The Paws Natural Pet Market",
+   "lat": 39.6081323,
+   "lon": -105.03806,
+   "distKm": 15.1,
+   "address": "South Platte Canyon Road, Littleton, CO 80123",
+   "tags": {
+    "phone": "+1-303-794-7297",
+    "website": "https://gardenofthepaws.com",
+    "opening_hours": "Mo-Fr 10:00-18:00, Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/7834087535",
+   "name": "Petco",
+   "lat": 39.8685041,
+   "lon": -105.0514834,
+   "distKm": 15.3,
+   "address": "9440 Sheridan Boulevard, Westminster, CO 80031",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5271394105",
+   "name": "Kriser's",
+   "lat": 39.6256347,
+   "lon": -104.883264,
+   "distKm": 15.6,
+   "address": "4930 South Yosemite Street, Greenwood Village, CO 80111",
+   "tags": {
+    "phone": "+1-303-770-0765",
+    "website": "https://krisers.com/location/greenwood-village/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/6543623470",
+   "name": "Petco",
+   "lat": 39.6172841,
+   "lon": -105.0883041,
+   "distKm": 15.9,
+   "address": "8100 West Crestline Avenue, Littleton, CO 80123",
+   "tags": {
+    "phone": "+1 303-973-7057",
+    "website": "https://stores.petco.com/co/littleton/pet-supplies-littleton-co-938.html",
+    "opening_hours": "Mo-Sa 10:30-19:30; Su 10:30-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11602331368",
+   "name": "Scales N Tails Exotic Reptile Pet Shop",
+   "lat": 39.697809,
+   "lon": -104.8106987,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3936246870",
+   "name": "Puppies N Stuff",
+   "lat": 39.884347,
+   "lon": -105.0039872,
+   "distKm": 16.2,
+   "address": "1400 West 104th Avenue, Northglenn, CO 80234",
+   "tags": {
+    "website": "http://www.puppiesnstuff.net/"
+   }
+  },
+  {
+   "id": "node/6543623434",
+   "name": "PetSmart",
+   "lat": 39.6171171,
+   "lon": -105.093108,
+   "distKm": 16.2,
+   "address": "8500 West Crestline Avenue, Littleton, CO 80123",
+   "tags": {
+    "phone": "+1 303-948-6364",
+    "website": "https://www.petsmart.com/stores/us/co/littleton-store1457.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/525749869",
+   "name": "Pet Supplies Plus",
+   "lat": 39.8845456,
+   "lon": -104.9724792,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

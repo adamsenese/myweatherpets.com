@@ -1,0 +1,49 @@
+{
+ "$schemaVersion": 1,
+ "city": "el-paso",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:27:02.241Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/1340642543",
+   "name": "MUTTZ El Paso",
+   "lat": 31.8104652,
+   "lon": -106.5290387,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "website": "https://muttscantina.com/tx-el-paso/"
+   }
+  },
+  {
+   "id": "way/299678241",
+   "name": "Fort Bliss Family Homes Bark Park",
+   "lat": 31.8226542,
+   "lon": -106.4315701,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468606121",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 31.7835251,
+   "lon": -106.347905,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1343834623",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 31.8670385,
+   "lon": -106.5628881,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

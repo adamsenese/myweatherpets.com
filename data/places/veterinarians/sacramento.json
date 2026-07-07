@@ -1,0 +1,221 @@
+{
+ "$schemaVersion": 1,
+ "city": "sacramento",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:28:55.291Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 21,
+ "places": [
+  {
+   "id": "node/5072685548",
+   "name": "River City Cat Clinic",
+   "lat": 38.5613958,
+   "lon": -121.4990522,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12629165098",
+   "name": "Broadway Veterinary Hospital",
+   "lat": 38.561124,
+   "lon": -121.4913219,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7515344005",
+   "name": "Jefferson Park Veterinary Care",
+   "lat": 38.5754781,
+   "lon": -121.5251081,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9702050484",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.5414667,
+   "lon": -121.4827067,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6546337096",
+   "name": "Land Park Veterinary Hospital",
+   "lat": 38.5357516,
+   "lon": -121.4933271,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1026835711",
+   "name": "Sacramento Animal Hospital",
+   "lat": 38.5677633,
+   "lon": -121.4325896,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12659568208",
+   "name": "VCA All Our Pets Animal Hospital",
+   "lat": 38.5567602,
+   "lon": -121.432391,
+   "distKm": 6.1,
+   "address": "1413 60th Street, 95819",
+   "tags": {}
+  },
+  {
+   "id": "node/7533332701",
+   "name": "Natomas Vererinary Hospital",
+   "lat": 38.6550945,
+   "lon": -121.5031957,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11104872856",
+   "name": "Veterinary Medical Center",
+   "lat": 38.6574011,
+   "lon": -121.5236153,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10074157717",
+   "name": "El Camino Veterinary Hospital",
+   "lat": 38.6100009,
+   "lon": -121.3706889,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6709264710",
+   "name": "Cat Hospital",
+   "lat": 38.6394883,
+   "lon": -121.328384,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1083822292",
+   "name": "Blue Cross Pet Hospital",
+   "lat": 38.637191,
+   "lon": -121.324996,
+   "distKm": 16,
+   "address": "7615 Fair Oaks Boulevard, Carmichael, CA 95608",
+   "tags": {
+    "phone": "+1-916-944-3850",
+    "website": "https://bluecrosspethospital.net/",
+    "opening_hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/6582403588",
+   "name": "VCA Mather Animal Medical Center",
+   "lat": 38.5738047,
+   "lon": -121.3031426,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9158607667",
+   "name": "VCA Sacramento Animal Medical Group",
+   "lat": 38.655529,
+   "lon": -121.32714,
+   "distKm": 16.7,
+   "address": "95608",
+   "tags": {
+    "phone": "+1-916-331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "opening_hours": "Mo-Fr 07:00-18:00"
+   }
+  },
+  {
+   "id": "node/11105501061",
+   "name": "Cherry Creek Veterninary Hospital",
+   "lat": 38.713496,
+   "lon": -121.3929179,
+   "distKm": 17.1,
+   "address": "7955 Watt Avenue, Antelope, CA 95843",
+   "tags": {}
+  },
+  {
+   "id": "node/11103498946",
+   "name": "Elkhorn-Walerga Animal Hospital",
+   "lat": 38.6954742,
+   "lon": -121.3608287,
+   "distKm": 17.2,
+   "address": "4407 Elkhorn Boulevard, Sacramento, CA 95842",
+   "tags": {}
+  },
+  {
+   "id": "way/686945868",
+   "name": "Hatton Veterinary Hospital",
+   "lat": 38.4384671,
+   "lon": -121.4141365,
+   "distKm": 17.4,
+   "address": "7615 Sheldon Road, Elk Grove, CA 95758",
+   "tags": {
+    "phone": "+1-916-689-1688",
+    "website": "http://www.hattonveterinaryhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/2287617314",
+   "name": "South Davis Veterinary Center",
+   "lat": 38.5489027,
+   "lon": -121.6955827,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "phone": "+1 530-757-1113"
+   }
+  },
+  {
+   "id": "node/1132068747",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.7129996,
+   "lon": -121.365462,
+   "distKm": 18.4,
+   "address": "7917 Elverta Road, Antelope, CA 95843",
+   "tags": {
+    "phone": "+1-916-721-0418",
+    "website": "https://www.banfield.com"
+   }
+  },
+  {
+   "id": "node/6450723773",
+   "name": "Animal Care Center",
+   "lat": 38.4341168,
+   "lon": -121.3709289,
+   "distKm": 19.6,
+   "address": "8901 Elk Grove Florin Road, Elk Grove, CA",
+   "tags": {
+    "phone": "+1-916-686-7393"
+   }
+  },
+  {
+   "id": "node/11181690360",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.4083105,
+   "lon": -121.4492616,
+   "distKm": 19.7,
+   "address": "4730 Elk Grove Boulevard, Elk Grove, CA 95758",
+   "tags": {
+    "opening_hours": "Tu-Sa 08:00-17:00"
+   }
+  }
+ ]
+}

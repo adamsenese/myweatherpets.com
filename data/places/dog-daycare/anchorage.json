@@ -1,0 +1,36 @@
+{
+ "$schemaVersion": 1,
+ "city": "anchorage",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:35:00.713Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "node/7589934353",
+   "name": "Purrfect Purr Cat Hotel",
+   "lat": 61.1753212,
+   "lon": -149.8943301,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10572779785",
+   "name": "Howling Peaks",
+   "lat": 61.1607058,
+   "lon": -149.83485,
+   "distKm": 7.3,
+   "address": "6614 Lake Otis Parkway, Anchorage, AK 99507",
+   "tags": {
+    "phone": "+1 907-336-3647",
+    "website": "https://howlingpeaks.com",
+    "opening_hours": "Mo-Su 07:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

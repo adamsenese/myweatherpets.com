@@ -1,0 +1,169 @@
+{
+ "$schemaVersion": 1,
+ "city": "auckland",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:23:05.438Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "way/927959165",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.8507403,
+   "lon": 174.7411679,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/722863835",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.8725633,
+   "lon": 174.7631831,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/726610013",
+   "name": "Telephone Road Reserve",
+   "lat": -36.8176611,
+   "lon": 174.7274158,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/827813985",
+   "name": "Meola Reef Dog Park",
+   "lat": -36.8582725,
+   "lon": 174.7105535,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "small_dog": "shared"
+   }
+  },
+  {
+   "id": "way/901376111",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.8172793,
+   "lon": 174.7230649,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/4483214",
+   "name": "Waiatarua Reserve",
+   "lat": -36.8826622,
+   "lon": 174.8253079,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "node/3285561034",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.885338,
+   "lon": 174.8271653,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/901377104",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.8164592,
+   "lon": 174.6957805,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1265893532",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.885814,
+   "lon": 174.6976118,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/307378201",
+   "name": "Manuka Reserve Dog Park",
+   "lat": -36.7777619,
+   "lon": 174.6996759,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/965510401",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.7944525,
+   "lon": 174.6734604,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/996209719",
+   "name": "Craigavon Agility Course",
+   "lat": -36.9274836,
+   "lon": 174.6917694,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/737776256",
+   "name": "Auckland Provincial German Shepherd Dog League",
+   "lat": -36.955151,
+   "lon": 174.7948061,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1006861636",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -36.8931897,
+   "lon": 174.6234568,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wire",
+    "dog": "unleashed",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/959614018",
+   "name": "Sanders Reserve Dog Park",
+   "lat": -36.7679861,
+   "lon": 174.6402488,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  }
+ ]
+}

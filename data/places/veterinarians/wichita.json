@@ -1,0 +1,148 @@
+{
+ "$schemaVersion": 1,
+ "city": "wichita",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:31:20.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "way/852730308",
+   "name": "College Hill Animal Hospital",
+   "lat": 37.689715,
+   "lon": -97.298753,
+   "distKm": 2.8,
+   "address": "244 North Hillside Street, Wichita, ks 67214",
+   "tags": {
+    "phone": "+1 316-618-8881",
+    "opening_hours": "Mo-We,Fr 08:00-17:30; Th,Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1216099985",
+   "name": "East Central Veterinary Hospital",
+   "lat": 37.6935121,
+   "lon": -97.2744934,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; We 07:30-12:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/11267671679",
+   "name": "Cat Hospital of Wichita",
+   "lat": 37.6951172,
+   "lon": -97.2655619,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1451019394",
+   "name": "Veterinary Emergency & Specialty Hospital",
+   "lat": 37.7241679,
+   "lon": -97.4088381,
+   "distKm": 8.1,
+   "address": "5618 West 21st Street North, Wichita, KS 67205",
+   "tags": {
+    "website": "https://www.vetwichita.com/",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/13660456060",
+   "name": "UrgentVet",
+   "lat": 37.7381986,
+   "lon": -97.2440928,
+   "distKm": 9.5,
+   "address": "3000",
+   "tags": {}
+  },
+  {
+   "id": "node/7179807644",
+   "name": "Heartland Animal Hospital",
+   "lat": 37.7575025,
+   "lon": -97.2619539,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8115416595",
+   "name": "Animal Clinic",
+   "lat": 37.6651589,
+   "lon": -97.2131011,
+   "distKm": 10.6,
+   "address": "10712 East Harry Street",
+   "tags": {
+    "phone": "+1-316-686-8516",
+    "website": "https://animalclinicvet.com/"
+   }
+  },
+  {
+   "id": "node/12906254214",
+   "name": "Oakcrest Pet Hospital",
+   "lat": 37.6937586,
+   "lon": -97.4825759,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "phone": "+1 316-722-4828",
+    "website": "https://www.vetinwichita.com/",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-12:00; Su closed"
+   }
+  },
+  {
+   "id": "way/615421695",
+   "name": "Kutter Pet Care Center",
+   "lat": 37.6935028,
+   "lon": -97.1525023,
+   "distKm": 15.6,
+   "address": "1607 West Central Avenue, Andover, KS 67002",
+   "tags": {
+    "opening_hours": "Mo 07:30-20:00; Tu-Fr 07:30-18:00; Sa 07:30-12:00; Su 13:00-17:00"
+   }
+  },
+  {
+   "id": "node/12984279931",
+   "name": "Valley Center Veterinary Clinic",
+   "lat": 37.8324426,
+   "lon": -97.3728963,
+   "distKm": 16.6,
+   "address": "122 West Main Street, Valley Center, KS 67147",
+   "tags": {}
+  },
+  {
+   "id": "node/13993658998",
+   "name": "Ark Valley Animal Hospital",
+   "lat": 37.8330309,
+   "lon": -97.3729991,
+   "distKm": 16.6,
+   "address": "122 North Park Avenue, Valley Center, KS 67147",
+   "tags": {
+    "phone": "+13162016690",
+    "website": "http://www.arkvalleyvcks.com/"
+   }
+  },
+  {
+   "id": "node/7859605046",
+   "name": "VCA Andover Animal Hospital and Pet Resort",
+   "lat": 37.6936398,
+   "lon": -97.1404742,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13200594478",
+   "name": "Tanglewood Veterinary Clinic",
+   "lat": 37.5485973,
+   "lon": -97.2474573,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

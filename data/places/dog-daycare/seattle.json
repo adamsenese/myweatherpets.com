@@ -1,0 +1,371 @@
+{
+ "$schemaVersion": 1,
+ "city": "seattle",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:25:52.487Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "node/2400030092",
+   "name": "Martha's Garden",
+   "lat": 47.6212604,
+   "lon": -122.3396008,
+   "distKm": 1.8,
+   "address": "310 9th Avenue North, Seattle, WA 98109",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2400043317",
+   "name": "Rocket Dog Care",
+   "lat": 47.6188941,
+   "lon": -122.3460492,
+   "distKm": 1.8,
+   "address": "100 Taylor Avenue North, Seattle, WA 98109",
+   "tags": {
+    "website": "https://www.rocketdogcare.com/locations-south-lake-union",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2399978718",
+   "name": "Seattle Canine Club",
+   "lat": 47.6223785,
+   "lon": -122.3386717,
+   "distKm": 1.9,
+   "address": "411 Westlake Avenue North, Seattle, WA 98109",
+   "tags": {
+    "website": "https://seattlecanineclub.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4137555553",
+   "name": "Downtown Dog Lounge",
+   "lat": 47.6240564,
+   "lon": -122.3364646,
+   "distKm": 2,
+   "address": "1011 Mercer Street, Seattle, WA 98109",
+   "tags": {
+    "website": "https://downtowndoglounge.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13082344976",
+   "name": "Jake N Friends Pet services",
+   "lat": 47.6127464,
+   "lon": -122.3040057,
+   "distKm": 2.2,
+   "address": "2119 East Union Street, Seattle, WA 98122",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/238106368",
+   "name": "Play Doggie Daycare",
+   "lat": 47.607765,
+   "lon": -122.2960947,
+   "distKm": 2.7,
+   "address": "2765 East Cherry Street, Seattle, WA 98122",
+   "tags": {
+    "website": "http://playdoggiedaycare.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2332530369",
+   "name": "Downtown Dog Lounge",
+   "lat": 47.6276304,
+   "lon": -122.3693371,
+   "distKm": 3.7,
+   "address": "942 Elliott Avenue West, Seattle, WA 98119",
+   "tags": {
+    "website": "https://downtowndoglounge.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9846636253",
+   "name": "West Seattle Wonder Dogs",
+   "lat": 47.5694502,
+   "lon": -122.3636025,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.westseattlewonderdogs.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8525945240",
+   "name": "Dog City",
+   "lat": 47.5630334,
+   "lon": -122.3777502,
+   "distKm": 5.9,
+   "address": "4457 36th Avenue Southwest, Seattle, WA 98126",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7487731392",
+   "name": "Metro Dog",
+   "lat": 47.6509105,
+   "lon": -122.3772319,
+   "distKm": 6,
+   "address": "3412 16th Avenue West, Seattle, WA 98119",
+   "tags": {
+    "website": "https://metrodogseattle.com/",
+    "opening_hours": "Mo-Fr 06:45-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/231984920",
+   "name": "Camp Crockett Dog Day Camp",
+   "lat": 47.5514891,
+   "lon": -122.363254,
+   "distKm": 6.5,
+   "address": "5611 Delridge Way Southwest, Seattle, WA 98106",
+   "tags": {
+    "website": "https://www.campcrockett.com/west-seattle-camp.html",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/160262010",
+   "name": "Downtown Dog Lounge",
+   "lat": 47.6624079,
+   "lon": -122.3672392,
+   "distKm": 6.8,
+   "address": "824 Northwest 46th Street, Seattle, WA 98107",
+   "tags": {
+    "website": "https://downtowndoglounge.com",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2462428293",
+   "name": "Metro Dog",
+   "lat": 47.6565088,
+   "lon": -122.3856524,
+   "distKm": 6.9,
+   "address": "4020 23rd Avenue West, Seattle, 98199",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13325145336",
+   "name": "Dogtopia",
+   "lat": 47.6754056,
+   "lon": -122.3165913,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-425-526-3232",
+    "website": "https://dogtopia.com/Seattle-RooseveltSquare",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/483784519",
+   "name": "Luna’s Landing Dog Care",
+   "lat": 47.6688951,
+   "lon": -122.3932171,
+   "distKm": 8.3,
+   "address": "2804 Northwest Market Street, Seattle, WA 98107",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/222514278",
+   "name": "Pups-A-Daisy",
+   "lat": 47.6855835,
+   "lon": -122.3764277,
+   "distKm": 9.4,
+   "address": "7716 15th Avenue Northwest, Seattle, WA 98117",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2328579716",
+   "name": "Lady Di Pet Chaperone",
+   "lat": 47.5216644,
+   "lon": -122.3772011,
+   "distKm": 10,
+   "address": "9037 35th Avenue Southwest, Seattle, WA 98126",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5608446851",
+   "name": "Dogtopia",
+   "lat": 47.6206324,
+   "lon": -122.198741,
+   "distKm": 10.1,
+   "address": "1188 106th Avenue Northeast, Bellevue, WA 98004",
+   "tags": {
+    "phone": "+1-425-516-7676",
+    "website": "https://www.dogtopia.com/washington-bellevue/",
+    "opening_hours": "Tu-Fr 07:00-19:00; Sa-Mo 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6329914689",
+   "name": "Hounds Abound Dog Daycare",
+   "lat": 47.7034479,
+   "lon": -122.354912,
+   "distKm": 10.9,
+   "address": "307 North 103rd Street",
+   "tags": {
+    "website": "https://houndsaboundseattle.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2984815343",
+   "name": "Cat City Boarding",
+   "lat": 47.7039667,
+   "lon": -122.3012724,
+   "distKm": 11.1,
+   "address": "10330 Lake City Way Northeast, Seattle, 98125",
+   "tags": {
+    "phone": "+1-206-729-2529",
+    "opening_hours": "\"by appointment\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/219058089",
+   "name": "Fuzzy Buddy's Dog Daycare",
+   "lat": 47.7084136,
+   "lon": -122.3452418,
+   "distKm": 11.4,
+   "address": "10907 Aurora Avenue North, Seattle, 98133",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2433072247",
+   "name": "Great Dog Daycare",
+   "lat": 47.7112647,
+   "lon": -122.3181296,
+   "distKm": 11.7,
+   "address": "11333 Roosevelt Way Northeast, Seattle, 98125",
+   "tags": {
+    "website": "https://www.gogreatdog.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/74747134",
+   "name": "Jax Dog Drop",
+   "lat": 47.5500632,
+   "lon": -122.1799137,
+   "distKm": 13,
+   "address": "5919 119th Avenue Southeast, Bellevue, 98006",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4790755653",
+   "name": "Wagly",
+   "lat": 47.6045413,
+   "lon": -122.1327502,
+   "distKm": 14.9,
+   "address": "639 156th Avenue Southeast, Bellevue, WA 98007",
+   "tags": {
+    "phone": "+1-425-598-8602",
+    "website": "https://wagly.com/locations/wagly-lake-hills/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9713389541",
+   "name": "Dogtopia",
+   "lat": 47.6338187,
+   "lon": -122.1374742,
+   "distKm": 14.9,
+   "address": "2690 152nd Avenue Northeast, WA",
+   "tags": {
+    "website": "https://www.dogtopia.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3329431600",
+   "name": "Scampers",
+   "lat": 47.7098489,
+   "lon": -122.1732963,
+   "distKm": 16.6,
+   "address": "12532 Northeast 124th Street, Kirkland, 98034",
+   "tags": {
+    "website": "https://scampersdogs.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/35796573",
+   "name": "Jax Dog Drop",
+   "lat": 47.6749005,
+   "lon": -122.1302673,
+   "distKm": 16.9,
+   "address": "15742 Redmond Way, Redmond, WA 98052",
+   "tags": {
+    "phone": "+1-425-406-8654",
+    "website": "https://www.jaxdogdrop.com/redmond",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/403701342",
+   "name": "Bow Wow Fun Towne",
+   "lat": 47.7590512,
+   "lon": -122.2623049,
+   "distKm": 17.8,
+   "address": "18021 61st Avenue Northeast, Kenmore, 98028",
+   "tags": {
+    "website": "https://bowwowfuntowne.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1159158510",
+   "name": "Barnabee Farm",
+   "lat": 47.6405955,
+   "lon": -122.5665489,
+   "distKm": 18,
+   "address": "8545 Fletcher Bay Road Northeast",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/65067105",
+   "name": "Sasha's Pet Resort",
+   "lat": 47.6673367,
+   "lon": -122.1059095,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "website": "https://sashaspr.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

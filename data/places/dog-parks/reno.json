@@ -1,0 +1,235 @@
+{
+ "$schemaVersion": 1,
+ "city": "reno",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:36:20.063Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 24,
+ "places": [
+  {
+   "id": "way/408903501",
+   "name": "Biggest Little Dog Park",
+   "lat": 39.5279423,
+   "lon": -119.8157058,
+   "distKm": 0.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/494041472",
+   "name": "Whitaker Park Dog Park",
+   "lat": 39.532499,
+   "lon": -119.8236981,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/483144756",
+   "name": "Rancho San Rafael Dog Park",
+   "lat": 39.5496798,
+   "lon": -119.8317018,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1192156399",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5185368,
+   "lon": -119.8430758,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1417445950",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5044585,
+   "lon": -119.7996717,
+   "distKm": 3,
+   "address": "Reno",
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1233094229",
+   "name": "Dog Park at Reno Experience District",
+   "lat": 39.5023311,
+   "lon": -119.7982908,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/478343006",
+   "name": "Virginia Lake Dog Park",
+   "lat": 39.4979287,
+   "lon": -119.8086943,
+   "distKm": 3.5,
+   "address": "102 Mountain View Drive, Reno, NV 89509",
+   "tags": {}
+  },
+  {
+   "id": "way/1086501029",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5372463,
+   "lon": -119.7375237,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/480957436",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5302036,
+   "lon": -119.7282924,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/862841960",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5391416,
+   "lon": -119.7297234,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1116120687",
+   "name": "Dog Park at Vida Luxury Living Apartments",
+   "lat": 39.516722,
+   "lon": -119.8988717,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1067442850",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5356829,
+   "lon": -119.7251837,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1078289780",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5378348,
+   "lon": -119.7227322,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1113177087",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5393524,
+   "lon": -119.7208636,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1107797423",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5775333,
+   "lon": -119.7380732,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1086501028",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5438481,
+   "lon": -119.7163736,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/423254177",
+   "name": "Link Piazzo Dog Park",
+   "lat": 39.4864904,
+   "lon": -119.7141093,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1312332815",
+   "name": "Small Dog Park",
+   "lat": 39.5376971,
+   "lon": -119.9472788,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1312334521",
+   "name": "Large Dog Park",
+   "lat": 39.5383362,
+   "lon": -119.9472186,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1073191002",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.444379,
+   "lon": -119.7276346,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1062813656",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.631241,
+   "lon": -119.8650541,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1080442974",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.5130839,
+   "lon": -119.9626638,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "dog": "yes",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/858288812",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.3952601,
+   "lon": -119.7829133,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1302805972",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.619414,
+   "lon": -119.6716487,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

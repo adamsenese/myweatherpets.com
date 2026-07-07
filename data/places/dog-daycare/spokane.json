@@ -1,0 +1,68 @@
+{
+ "$schemaVersion": 1,
+ "city": "spokane",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:34:30.916Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "way/373552072",
+   "name": "Jeanne's Pet Hotel",
+   "lat": 47.6569243,
+   "lon": -117.3995349,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/628000550",
+   "name": "Bark Park Doggy Daycare",
+   "lat": 47.6769768,
+   "lon": -117.426357,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13171959047",
+   "name": "Play n stay Dog daycare and boarding",
+   "lat": 47.7167637,
+   "lon": -117.4230732,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/654793825",
+   "name": "Doggie Doos",
+   "lat": 47.6414488,
+   "lon": -117.5854438,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1147284651",
+   "name": "Paradise Pet Resort",
+   "lat": 47.6802311,
+   "lon": -117.2509613,
+   "distKm": 13.3,
+   "address": "11420 East Jackson Avenue, Spokane Valley, WA 99206",
+   "tags": {
+    "phone": "+1-509-290-6024",
+    "website": "https://paradisepetresort.pet/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

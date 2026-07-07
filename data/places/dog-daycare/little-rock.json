@@ -1,0 +1,10 @@
+{
+ "$schemaVersion": 1,
+ "city": "little-rock",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:34:56.305Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 0,
+ "places": []
+}

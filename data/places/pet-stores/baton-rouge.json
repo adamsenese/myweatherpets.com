@@ -1,0 +1,52 @@
+{
+ "$schemaVersion": 1,
+ "city": "baton-rouge",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:36:40.270Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "node/7820523506",
+   "name": "Petco",
+   "lat": 30.4229329,
+   "lon": -91.1539395,
+   "distKm": 4.5,
+   "address": "3535 Perkins Road, Baton Rouge, LA 70808",
+   "tags": {
+    "phone": "+1 225-332-5515",
+    "website": "https://stores.petco.com/la/batonrouge/pet-supplies-batonrouge-la-1580.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13704623843",
+   "name": "Petco",
+   "lat": 30.3861627,
+   "lon": -91.0600769,
+   "distKm": 14.2,
+   "address": "6845 Siegen Lane, Baton Rouge, LA 70809",
+   "tags": {
+    "phone": "+1-225-297-5997",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7810746242",
+   "name": "PetSmart",
+   "lat": 30.4446712,
+   "lon": -91.0232593,
+   "distKm": 15.7,
+   "address": "1653 Millerville Road, Baton Rouge, LA 70816",
+   "tags": {
+    "phone": "+1 225-275-4858",
+    "website": "https://www.petsmart.com/stores/us/la/baton-rouge-store1878.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

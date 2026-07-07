@@ -1,0 +1,127 @@
+{
+ "$schemaVersion": 1,
+ "city": "wichita",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:31:20.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 12,
+ "places": [
+  {
+   "id": "node/13339076887",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7237025,
+   "lon": -97.3217258,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19619019",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6586016,
+   "lon": -97.2884924,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19770125",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7418124,
+   "lon": -97.302763,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "relation/19818291",
+   "name": "Arson Canine Ashley's Memorial Dog Park",
+   "lat": 37.6274997,
+   "lon": -97.3109491,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.wichita.gov/Facilities/Facility/Details/Chapin-Ashley-Dog-Park-8"
+   }
+  },
+  {
+   "id": "way/1105636003",
+   "name": "Cedarbrooke Dog Park",
+   "lat": 37.6656703,
+   "lon": -97.2384133,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1456556075",
+   "name": "Country Acres Dog Park",
+   "lat": 37.6959521,
+   "lon": -97.4285951,
+   "distKm": 8.7,
+   "address": "750 North Country Acres Avenue, Wichita, KS 67212",
+   "tags": {
+    "website": "https://www.wichita.gov/Facilities/Facility/Details/Country-Acres-Dog-Park-276"
+   }
+  },
+  {
+   "id": "way/848098507",
+   "name": "Claremont Dog Park",
+   "lat": 37.6660933,
+   "lon": -97.2289537,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1168569198",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6688793,
+   "lon": -97.2201371,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/699095435",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6867623,
+   "lon": -97.188467,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1414466748",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.7119127,
+   "lon": -97.1243244,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1382820180",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6883193,
+   "lon": -97.1196913,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/992404290",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.524321,
+   "lon": -97.2476171,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

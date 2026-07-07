@@ -1,0 +1,486 @@
+{
+ "$schemaVersion": 1,
+ "city": "pittsburgh",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:32:16.503Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 41,
+ "places": [
+  {
+   "id": "node/5205507546",
+   "name": "Wagsburgh",
+   "lat": 40.4540974,
+   "lon": -79.9980284,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3867808362",
+   "name": "Pretty Birds",
+   "lat": 40.4802104,
+   "lon": -79.9738979,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "phone": "+1 412 822 8082"
+   }
+  },
+  {
+   "id": "node/10931751755",
+   "name": "PetSmart",
+   "lat": 40.4594983,
+   "lon": -79.9258871,
+   "distKm": 6.3,
+   "address": "5986 Centre Avenue, Pittsburgh, PA 15206",
+   "tags": {
+    "phone": "+1 412-626-3284",
+    "website": "https://www.petsmart.com/stores/us/pa/pittsburgh-store2302.html",
+    "opening_hours": "Tu-Sa 09:00-21:00; Su 10:00-19:00; Mo 09:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9453329824",
+   "name": "Petland",
+   "lat": 40.4592845,
+   "lon": -79.9178949,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-17:00",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/9863114887",
+   "name": "PetPeople",
+   "lat": 40.3956976,
+   "lon": -80.0673465,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "brand": "PetPeople"
+   }
+  },
+  {
+   "id": "node/4913639117",
+   "name": "Sit Means Sit Dog Training",
+   "lat": 40.3696644,
+   "lon": -79.9831402,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4637977686",
+   "name": "Pet Stop Dog & Cat Grooming",
+   "lat": 40.3685082,
+   "lon": -80.0129452,
+   "distKm": 8.1,
+   "address": "3360 Library Road, Pittsburgh, PA 15234",
+   "tags": {
+    "phone": "+1 412 881 7822"
+   }
+  },
+  {
+   "id": "way/368376597",
+   "name": "Camp Bow Wow",
+   "lat": 40.5134523,
+   "lon": -80.002289,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/561188058",
+   "name": "Animal Lifeline Thrift Store",
+   "lat": 40.4069731,
+   "lon": -79.9113974,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/451993320",
+   "name": "Petco",
+   "lat": 40.4119912,
+   "lon": -79.904714,
+   "distKm": 8.3,
+   "address": "590 East Waterfront Drive, Homestead, PA 15120-5000",
+   "tags": {
+    "phone": "+1 412-461-1229",
+    "website": "https://stores.petco.com/pa/homestead/pet-supplies-homestead-pa-1811.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/262788394",
+   "name": "Sitting Pretty Grooming Salon",
+   "lat": 40.5187789,
+   "lon": -80.0303725,
+   "distKm": 9.2,
+   "address": "636 Center Avenue",
+   "tags": {
+    "phone": "+1 412 931 2515",
+    "opening_hours": "Mo-We, Fr-Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/3508536423",
+   "name": "Petco",
+   "lat": 40.5269446,
+   "lon": -80.0076975,
+   "distKm": 9.7,
+   "address": "4801 McKnight Road, Pittsburgh, PA 15237",
+   "tags": {
+    "phone": "+1 412-366-1866",
+    "website": "https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1807.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/478657444",
+   "name": "Atlantis Custom Aquariums",
+   "lat": 40.3538953,
+   "lon": -79.9788882,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5171799981",
+   "name": "Petco",
+   "lat": 40.4884845,
+   "lon": -79.8900917,
+   "distKm": 10.4,
+   "address": "976 Freeport Road, Pittsburgh, PA 15238-3100",
+   "tags": {
+    "phone": "+1 412-781-6040",
+    "website": "https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1820.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4583345744",
+   "name": "Mary's Dog House",
+   "lat": 40.3443242,
+   "lon": -80.0269442,
+   "distKm": 11,
+   "address": "4947 Library Road, Bethel Park, PA 15102",
+   "tags": {
+    "phone": "+1 412 851 1111"
+   }
+  },
+  {
+   "id": "node/9236068263",
+   "name": "Wild Birds Unlimited",
+   "lat": 40.3494436,
+   "lon": -80.0529051,
+   "distKm": 11.2,
+   "address": "1775 North Highland Road, Pittsburgh, PA 15241",
+   "tags": {
+    "website": "https://pittsburgh.wbu.com",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/255589191",
+   "name": "Aqua World",
+   "lat": 40.5100483,
+   "lon": -80.0948258,
+   "distKm": 11.4,
+   "address": "8143 Ohio River Boulevard, Pittsburgh, PA 15202",
+   "tags": {
+    "website": "https://www.aquaworldpsc.com",
+    "opening_hours": "Mo-Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/4743253325",
+   "name": "Petco",
+   "lat": 40.3391855,
+   "lon": -79.9531867,
+   "distKm": 11.8,
+   "address": "251 Clairton Boulevard, Pittsburgh, PA 15236",
+   "tags": {
+    "phone": "+1 412-650-0175",
+    "website": "https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1812.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3115119191",
+   "name": "Pet Supplies Plus",
+   "lat": 40.3329719,
+   "lon": -80.0228749,
+   "distKm": 12.2,
+   "address": "5229 Library Road, Bethel Park, PA 15102",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3661993289",
+   "name": "Pet Supplies Plus",
+   "lat": 40.3694483,
+   "lon": -80.1050019,
+   "distKm": 12.2,
+   "address": "1155 Washington Blvd",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00;Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/7161314153",
+   "name": "Petco",
+   "lat": 40.3373882,
+   "lon": -80.0519296,
+   "distKm": 12.4,
+   "address": "59 Fort Couch Road, Pittsburgh, PA 15241",
+   "tags": {
+    "phone": "+1 412-835-6008",
+    "website": "https://stores.petco.com/pa/bethelpark/pet-supplies-bethelpark-pa-1819.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/362117326",
+   "name": "PetSmart",
+   "lat": 40.5523443,
+   "lon": -80.0221642,
+   "distKm": 12.6,
+   "address": "6210 Northway Drive, Pittsburgh, PA 15237",
+   "tags": {
+    "phone": "+1 412-536-1991",
+    "website": "https://www.petsmart.com/stores/us/pa/pittsburgh-store3001.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4790374259",
+   "name": "PetSmart",
+   "lat": 40.3334311,
+   "lon": -79.9441811,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5408555683",
+   "name": "Pet Supplies Plus",
+   "lat": 40.4404527,
+   "lon": -80.1473749,
+   "distKm": 12.8,
+   "address": "1100 Settlers Ridge Center Drive, Robinson Township, PA 15205-1439",
+   "tags": {
+    "phone": "+1 412-788-4213",
+    "website": "https://www.petsuppliesplus.com/store/pa/robinson-township/4647-robinson-township/4647",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9045911778",
+   "name": "Petco",
+   "lat": 40.4492019,
+   "lon": -80.1602453,
+   "distKm": 13.9,
+   "address": "6512 Steubenville Pike, Pittsburgh, PA 15205",
+   "tags": {
+    "phone": "+1 412-787-4390",
+    "website": "https://stores.petco.com/pa/pittsburgh/pet-supplies-pittsburgh-pa-1841.html",
+    "opening_hours": "Mo-Sa 09:00-20:00, Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9125461261",
+   "name": "Petland",
+   "lat": 40.4545302,
+   "lon": -80.1643847,
+   "distKm": 14.3,
+   "address": "1530 Park Manor Boulevard, Pittsburgh, PA 15205",
+   "tags": {
+    "phone": "+1 412-494-7387",
+    "website": "https://www.petlandrobinson.com/",
+    "opening_hours": "Mo-Th 11:00-20:00; Fr,Sa 11:00-21:00; Su 11:00-18:00",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/4279218919",
+   "name": "Pet Valu",
+   "lat": 40.571832,
+   "lon": -80.022249,
+   "distKm": 14.8,
+   "address": "9190 McKnight Road",
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "way/164446891",
+   "name": "PetSmart",
+   "lat": 40.4508271,
+   "lon": -80.181612,
+   "distKm": 15.8,
+   "address": "420 Home Drive, Pittsburgh, PA 15275",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/455547313",
+   "name": "Blue Ribbon Dog Grooming & Training",
+   "lat": 40.5166631,
+   "lon": -80.1596793,
+   "distKm": 16.2,
+   "address": "1228 4th Avenue, Coraopolis, PA 15108",
+   "tags": {}
+  },
+  {
+   "id": "way/185303534",
+   "name": "Healthy Pet Products",
+   "lat": 40.5846538,
+   "lon": -80.0394488,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/5149888572",
+   "name": "Off the Hook Exotic Pets",
+   "lat": 40.5178916,
+   "lon": -80.165684,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13885964706",
+   "name": "PetSmart",
+   "lat": 40.4366429,
+   "lon": -79.7870052,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/209291133",
+   "name": "Wild Birds Unlimited",
+   "lat": 40.4364983,
+   "lon": -79.7815352,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/4959831726",
+   "name": "Pet Valu",
+   "lat": 40.6020677,
+   "lon": -79.9455571,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/4922681239",
+   "name": "Claws-N-Paws",
+   "lat": 40.6058951,
+   "lon": -79.9474467,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/547554771",
+   "name": "Elmer's Aquarium & Pet Center",
+   "lat": 40.4387804,
+   "lon": -79.7718191,
+   "distKm": 19,
+   "address": "4005 William Penn Highway, Monroeville, 15146",
+   "tags": {
+    "website": "https://www.elmersaquarium.com/"
+   }
+  },
+  {
+   "id": "way/851738364",
+   "name": "Petco",
+   "lat": 40.4376257,
+   "lon": -79.7715838,
+   "distKm": 19,
+   "address": "2723 Stroschein Road, Monroeville, PA 15146",
+   "tags": {
+    "phone": "+1 412-856-9920",
+    "website": "https://stores.petco.com/pa/monroeville/pet-supplies-monroeville-pa-1822.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "relation/7340904",
+   "name": "The Dog House",
+   "lat": 40.6070879,
+   "lon": -79.9477476,
+   "distKm": 19,
+   "address": null,
+   "tags": {
+    "phone": "+1 724 443 4544"
+   }
+  },
+  {
+   "id": "node/11593214308",
+   "name": "Petland",
+   "lat": 40.4373136,
+   "lon": -79.767891,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 11:00-20:00; Fr,Sa 11:00-21:00; Su 11:00-18:00",
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "node/2385907032",
+   "name": "Leone Animal Supply Center",
+   "lat": 40.6126457,
+   "lon": -80.0531889,
+   "distKm": 19.7,
+   "address": "10596 Perry Highway, Wexford, 15090",
+   "tags": {
+    "phone": "+1 724-935-4480",
+    "website": "https://www.leoneanimalsupply.com/"
+   }
+  },
+  {
+   "id": "way/505423003",
+   "name": "Pet Supplies Plus",
+   "lat": 40.3369135,
+   "lon": -79.8053053,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  }
+ ]
+}

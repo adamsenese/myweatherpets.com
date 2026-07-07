@@ -1,0 +1,306 @@
+{
+ "$schemaVersion": 1,
+ "city": "charlotte",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:25:10.472Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 25,
+ "places": [
+  {
+   "id": "node/7802244104",
+   "name": "Petco",
+   "lat": 35.2147067,
+   "lon": -80.8350939,
+   "distKm": 1.6,
+   "address": "900 Metropolitan Avenue, Charlotte, NC 28204",
+   "tags": {
+    "phone": "+1 704-916-4047",
+    "website": "https://stores.petco.com/nc/charlotte/pet-supplies-charlotte-nc-2533.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11633438739",
+   "name": "Pet Wants",
+   "lat": 35.2339338,
+   "lon": -80.8274744,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12958734971",
+   "name": "Pet Wants",
+   "lat": 35.2135108,
+   "lon": -80.8582334,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "website": "https://www.petwantsclt.com"
+   }
+  },
+  {
+   "id": "node/11466378303",
+   "name": "Pet Supplies Plus",
+   "lat": 35.212348,
+   "lon": -80.8172841,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13181123873",
+   "name": "Hollywood Feed",
+   "lat": 35.1986169,
+   "lon": -80.8523157,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13418900685",
+   "name": "Cold Blooded and Bizarre",
+   "lat": 35.2172558,
+   "lon": -80.7940536,
+   "distKm": 4.6,
+   "address": "3000 Central Avenue, Charlotte, NC 28205",
+   "tags": {
+    "phone": "+1-704-312-0320",
+    "website": "https://www.coldbloodedandbizarre.com",
+    "opening_hours": "Mo-Sa 11:00-20:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/3324098656",
+   "name": "PetSmart",
+   "lat": 35.1765283,
+   "lon": -80.8016714,
+   "distKm": 6.8,
+   "address": "206 South Sharon Amity Road, Charlotte, NC 28211",
+   "tags": {
+    "phone": "+1 704-366-3807",
+    "website": "https://www.petsmart.com/stores/us/nc/charlotte-store2124.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/7172224686",
+   "name": "PetSmart",
+   "lat": 35.1626913,
+   "lon": -80.875201,
+   "distKm": 7.7,
+   "address": "5401 South Boulevard, Charlotte, NC 28217",
+   "tags": {
+    "phone": "+1 704-523-0132",
+    "website": "https://www.petsmart.com/stores/us/nc/charlotte-store0408.html",
+    "opening_hours": "Su 10:00-19:00 Mo-Sa 09:00-20:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11875386238",
+   "name": "Pet Supplies Plus",
+   "lat": 35.1480818,
+   "lon": -80.8332159,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/5376972487",
+   "name": "PetSmart",
+   "lat": 35.2959898,
+   "lon": -80.763479,
+   "distKm": 10.5,
+   "address": "8150 Ikea Boulevard, Charlotte, NC 28262",
+   "tags": {
+    "phone": "+1 704-208-5264",
+    "website": "https://www.petsmart.com/stores/us/nc/charlotte-store2347.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/767991678",
+   "name": "PetSmart",
+   "lat": 35.3471351,
+   "lon": -80.8543696,
+   "distKm": 13.4,
+   "address": "10235 Perimeter Parkway, Charlotte, NC 28216",
+   "tags": {
+    "phone": "+1 704-599-0475",
+    "website": "https://www.petsmart.com/stores/us/nc/charlotte-store1510.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5255271498",
+   "name": "PetSmart",
+   "lat": 35.1061311,
+   "lon": -80.8799442,
+   "distKm": 13.9,
+   "address": "9515 South Boulevard, Charlotte, NC 28273",
+   "tags": {
+    "phone": "+1 704-405-6967",
+    "website": "https://www.petsmart.com/stores/us/nc/charlotte-store2323.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11105901606",
+   "name": "PetPeople",
+   "lat": 35.3269346,
+   "lon": -80.9418814,
+   "distKm": 14.3,
+   "address": "9516 Riverbend Village Drive, Charlotte, NC 28216",
+   "tags": {
+    "brand": "PetPeople"
+   }
+  },
+  {
+   "id": "node/3996545232",
+   "name": "Petco",
+   "lat": 35.3369331,
+   "lon": -80.7550744,
+   "distKm": 14.6,
+   "address": "1824 East Arbors Drive, Charlotte, NC 28262",
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3304917468",
+   "name": "Dog Gone Beautiful",
+   "lat": 35.0899767,
+   "lon": -80.8586031,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/556063605",
+   "name": "Petco",
+   "lat": 35.0957592,
+   "lon": -80.7858443,
+   "distKm": 15.5,
+   "address": "3401 Pineville-Matthews Road, Charlotte, NC 28226",
+   "tags": {
+    "phone": "+1 704-541-2473",
+    "website": "https://stores.petco.com/nc/charlotte/pet-supplies-charlotte-nc-1526.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3313321886",
+   "name": "Pet Supplies Plus",
+   "lat": 35.0866285,
+   "lon": -80.8476033,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3329558445",
+   "name": "PetSmart",
+   "lat": 35.1330772,
+   "lon": -80.7099241,
+   "distKm": 16,
+   "address": "9905 East Independence Boulevard, Matthews, NC 28105",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3329558457",
+   "name": "Dogs Day Out",
+   "lat": 35.1328663,
+   "lon": -80.7085389,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3329533959",
+   "name": "Wags to Whiskers",
+   "lat": 35.1259207,
+   "lon": -80.708734,
+   "distKm": 16.6,
+   "address": "Matthews Township Parkway, Matthews, NC",
+   "tags": {}
+  },
+  {
+   "id": "way/577834450",
+   "name": "PetPeople",
+   "lat": 35.3740282,
+   "lon": -80.7880762,
+   "distKm": 17.1,
+   "address": "10018 Benfield Road, Charlotte, NC 28269",
+   "tags": {
+    "brand": "PetPeople"
+   }
+  },
+  {
+   "id": "node/10979859399",
+   "name": "Pawz",
+   "lat": 35.1714953,
+   "lon": -80.6574633,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1323297810",
+   "name": "Woof 'n Hoof",
+   "lat": 35.1774986,
+   "lon": -80.6507313,
+   "distKm": 18.3,
+   "address": "7710 Matthews-Mint Hill Road, Mint Hill, NC 28227",
+   "tags": {
+    "phone": "+17045457387",
+    "website": "https://www.facebook.com/woofnhoofminthill",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/2619349388",
+   "name": "PetSmart",
+   "lat": 35.1029206,
+   "lon": -80.9829995,
+   "distKm": 18.8,
+   "address": "14137 Rivergate Parkway, Charlotte, NC 28273",
+   "tags": {
+    "phone": "+1 704-587-1198",
+    "website": "https://www.petsmart.com/stores/us/nc/charlotte-store1509.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/387599704",
+   "name": "Petco",
+   "lat": 35.3727143,
+   "lon": -80.7147906,
+   "distKm": 19.9,
+   "address": "8070 Concord Mills Boulevard, Concord, NC 28027",
+   "tags": {
+    "phone": "+1 704-979-1952",
+    "website": "https://stores.petco.com/nc/concord/pet-supplies-concord-nc-2737.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

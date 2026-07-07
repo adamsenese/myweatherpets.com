@@ -1,0 +1,159 @@
+{
+ "$schemaVersion": 1,
+ "city": "stockholm",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:24:28.290Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "node/13348282957",
+   "name": "MyDogCare",
+   "lat": 59.3286058,
+   "lon": 18.0412961,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13189065246",
+   "name": "Stockholms hundforum",
+   "lat": 59.3425519,
+   "lon": 18.0314922,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/849586275",
+   "name": "Everydog Hunddagis",
+   "lat": 59.281311,
+   "lon": 18.061749,
+   "distKm": 5.4,
+   "address": "199 Hemskogsvägen",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8712897851",
+   "name": "Stjärntassar",
+   "lat": 59.2761236,
+   "lon": 18.1262996,
+   "distKm": 6.8,
+   "address": "106 Bergsrådsvägen, 128 42",
+   "tags": {
+    "website": "https://stjarntassar.se/hunddagis/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10172419495",
+   "name": "KaNos AB, hunddagis och trim",
+   "lat": 59.2693571,
+   "lon": 18.0498233,
+   "distKm": 6.8,
+   "address": "14 Bandhagsplan, Bandhagen, 124 34",
+   "tags": {
+    "phone": "+46 76 902 97 32",
+    "website": "https://www.kanos.se/",
+    "opening_hours": "Mon-Fri 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7657266562",
+   "name": "Hunddagis",
+   "lat": 59.2622918,
+   "lon": 18.0790112,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11542799039",
+   "name": "Härliga Hundar",
+   "lat": 59.2654596,
+   "lon": 18.1359315,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2843812665",
+   "name": "Hundiversum",
+   "lat": 59.4142465,
+   "lon": 18.0393206,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11939350670",
+   "name": "Lathunden",
+   "lat": 59.2370046,
+   "lon": 18.093822,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13333964373",
+   "name": "BFF Hunddagis",
+   "lat": 59.4293657,
+   "lon": 17.9434754,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10816067121",
+   "name": "Apport",
+   "lat": 59.4532032,
+   "lon": 18.0629117,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13668870986",
+   "name": "BFF hunddagis",
+   "lat": 59.4408683,
+   "lon": 17.9393198,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12900255897",
+   "name": "BFF Hunddagis i Sollentuna",
+   "lat": 59.441952,
+   "lon": 17.9381266,
+   "distKm": 14.5,
+   "address": "16 Skälbyvägen, Sollentuna, 19149",
+   "tags": {
+    "website": "https://www.bffhunddagis.se",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

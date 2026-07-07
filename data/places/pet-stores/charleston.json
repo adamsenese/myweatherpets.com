@@ -1,0 +1,106 @@
+{
+ "$schemaVersion": 1,
+ "city": "charleston",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:35:29.237Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/12776522260",
+   "name": "Woof Gang Bakery & Grooming",
+   "lat": 32.7846226,
+   "lon": -79.9356507,
+   "distKm": 1,
+   "address": "341 King Street, Charleston, SC 29401",
+   "tags": {
+    "phone": "+1-843-952-7400",
+    "website": "https://woofgangbakery.com",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/13740456218",
+   "name": "Hollywood Feed",
+   "lat": 32.8025516,
+   "lon": -79.8886563,
+   "distKm": 4.9,
+   "address": "921 Houston Northcutt Boulevard, Mount Pleasant, SC 29464",
+   "tags": {
+    "phone": "+1-843-654-9462",
+    "website": "https://locations.hollywoodfeed.com/south-carolina/mount-pleasant/921-houston-northcutt-blvd",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/2868603483",
+   "name": "Petco",
+   "lat": 32.7808341,
+   "lon": -79.989262,
+   "distKm": 5.5,
+   "address": "975 Savannah Highway, Charleston, SC 29407-7864",
+   "tags": {
+    "phone": "+1 843-852-4129",
+    "website": "https://stores.petco.com/sc/charleston/pet-supplies-charleston-sc-1528.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10164707017",
+   "name": "Re-Tail",
+   "lat": 32.7885712,
+   "lon": -80.025162,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6762189053",
+   "name": "Petco",
+   "lat": 32.8165696,
+   "lon": -79.843673,
+   "distKm": 9.3,
+   "address": "1501 Graddick Road, Mount Pleasant, SC 29464-3342",
+   "tags": {
+    "phone": "+1 843-388-2843",
+    "website": "https://stores.petco.com/sc/mt-pleasant/pet-supplies-mt-pleasant-sc-1890.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/188414167",
+   "name": "PetSmart",
+   "lat": 32.8399944,
+   "lon": -79.8535952,
+   "distKm": 10.1,
+   "address": "676 Long Point Road, Mount Pleasant, SC 29464",
+   "tags": {
+    "phone": "+1 843-884-1419",
+    "website": "https://www.petsmart.com/stores/us/sc/mt-pleasant-store1250.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12837086824",
+   "name": "Alendry Whole Pet",
+   "lat": 32.8814086,
+   "lon": -79.9748006,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1122532969",
+   "name": "Tideline Aquatics",
+   "lat": 32.902614,
+   "lon": -80.0085461,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,468 @@
+{
+ "$schemaVersion": 1,
+ "city": "atlanta",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:29:29.736Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 45,
+ "places": [
+  {
+   "id": "way/737362868",
+   "name": "Fetch Park",
+   "lat": 33.7519921,
+   "lon": -84.3708033,
+   "distKm": 1.6,
+   "address": "520 Daniel Street Southeast, Atlanta, 30312",
+   "tags": {
+    "surface": "artificial_turf",
+    "barrier": "fence",
+    "website": "https://www.fetchparkatl.com"
+   }
+  },
+  {
+   "id": "way/1340181437",
+   "name": "Townhouse Atlanta Dog Park",
+   "lat": 33.7656852,
+   "lon": -84.3839212,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/742982469",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7530247,
+   "lon": -84.3664289,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/824923679",
+   "name": "Freedom Barkway",
+   "lat": 33.7606203,
+   "lon": -84.3705039,
+   "distKm": 2.1,
+   "address": "523 Highland Avenue Northeast, Atlanta, GA 30312",
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://freedombarkway.com/"
+   }
+  },
+  {
+   "id": "way/801455427",
+   "name": "Renaissance Park Large Dog Park",
+   "lat": 33.7683007,
+   "lon": -84.3810041,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/801455428",
+   "name": "Renaissance Park Small Dog Park",
+   "lat": 33.7682621,
+   "lon": -84.3815643,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/1342535084",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7733844,
+   "lon": -84.3826083,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1459082804",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7671805,
+   "lon": -84.3642627,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1305119179",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7823884,
+   "lon": -84.3836545,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/742697065",
+   "name": "Ormewood Dog Yard",
+   "lat": 33.7309375,
+   "lon": -84.3529581,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/816917147",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7469686,
+   "lon": -84.3400367,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1395889803",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7415174,
+   "lon": -84.4344349,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/182396488",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7884297,
+   "lon": -84.3714652,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/884897815",
+   "name": "Atlantic Station Dog Park",
+   "lat": 33.7903339,
+   "lon": -84.3990289,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/51284093",
+   "name": "Skiptown - Atlanta",
+   "lat": 33.7591331,
+   "lon": -84.3321696,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/818870447",
+   "name": "Kirkwood Dog Park",
+   "lat": 33.7556552,
+   "lon": -84.3311987,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/740777180",
+   "name": "South Bend Dog Park",
+   "lat": 33.7001538,
+   "lon": -84.3890995,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1531310521",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7981833,
+   "lon": -84.3962666,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/331331267",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7996465,
+   "lon": -84.3874462,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1201818894",
+   "name": "Fetch Park @ The Works",
+   "lat": 33.804394,
+   "lon": -84.4275585,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1510959907",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.803205,
+   "lon": -84.4306064,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/271119579",
+   "name": "Oakhurst Dog Park",
+   "lat": 33.7602518,
+   "lon": -84.3099832,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1499101830",
+   "name": "Adair Dog Park",
+   "lat": 33.771902,
+   "lon": -84.304908,
+   "distKm": 8.1,
+   "address": "716 West Trinity Place, Decatur, GA 30030",
+   "tags": {
+    "access": "yes",
+    "website": "https://adairpark.com"
+   }
+  },
+  {
+   "id": "way/1376787666",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.6845517,
+   "lon": -84.4504671,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/468844435",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7720055,
+   "lon": -84.2840504,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1170387323",
+   "name": "Fetch Park Buckhead",
+   "lat": 33.8378681,
+   "lon": -84.3773752,
+   "distKm": 9.9,
+   "address": "309 Buckhead Avenue Northeast, Atlanta, GA 30305",
+   "tags": {
+    "surface": "artificial_turf",
+    "website": "https://fetchpark.com/"
+   }
+  },
+  {
+   "id": "way/544134823",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8103725,
+   "lon": -84.3014608,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1375159281",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.7771463,
+   "lon": -84.270409,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/697038284",
+   "name": "Hartsfield-Jackson Dog Park",
+   "lat": 33.6402085,
+   "lon": -84.4467804,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf",
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "node/11294843584",
+   "name": "Rockbridge Dog Park",
+   "lat": 33.783271,
+   "lon": -84.2446589,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/914538476",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8618087,
+   "lon": -84.3155567,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/545933365",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.6177309,
+   "lon": -84.3657138,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1193244891",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8644902,
+   "lon": -84.2960341,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1503474506",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8767648,
+   "lon": -84.456845,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/1503799208",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8711192,
+   "lon": -84.4701668,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1193244909",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8713977,
+   "lon": -84.2958958,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/352412086",
+   "name": "Dog Park",
+   "lat": 33.8741289,
+   "lon": -84.4861816,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/352412087",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.875472,
+   "lon": -84.483129,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1426869947",
+   "name": "Ballpark Dog Park",
+   "lat": 33.893096,
+   "lon": -84.4702268,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1457642063",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8802344,
+   "lon": -84.4986241,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1193246182",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.87005,
+   "lon": -84.2601156,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1303168441",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8942329,
+   "lon": -84.4709222,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/555569475",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.8691205,
+   "lon": -84.5312792,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "\"Sunrise to Sunset\""
+   }
+  },
+  {
+   "id": "way/1498068121",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 33.9149066,
+   "lon": -84.4559828,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wood"
+   }
+  },
+  {
+   "id": "way/1178694708",
+   "name": "Henderson Park Dog Park",
+   "lat": 33.8682612,
+   "lon": -84.2285431,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

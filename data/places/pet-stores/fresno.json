@@ -1,0 +1,134 @@
+{
+ "$schemaVersion": 1,
+ "city": "fresno",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:36:07.752Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "way/1286736052",
+   "name": "Petco",
+   "lat": 36.7920507,
+   "lon": -119.7893802,
+   "distKm": 6,
+   "address": "4144 North Blackstone Avenue, Fresno, CA 93726",
+   "tags": {
+    "phone": "+1 559-226-4941",
+    "website": "https://stores.petco.com/ca/fresno/pet-supplies-fresno-ca-269.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13239328150",
+   "name": "Whitie's Pets",
+   "lat": 36.8123631,
+   "lon": -119.7920001,
+   "distKm": 8.3,
+   "address": "5215 North Blackstone Avenue, Fresno, CA 93710",
+   "tags": {
+    "phone": "+1-559-438-4343",
+    "website": "https://whitiespets.com/"
+   }
+  },
+  {
+   "id": "way/962413344",
+   "name": "PetSmart",
+   "lat": 36.8099505,
+   "lon": -119.8493458,
+   "distKm": 9.8,
+   "address": "3220 West Shaw Avenue, Fresno, CA 93711",
+   "tags": {
+    "phone": "+1 559-277-2220",
+    "website": "https://www.petsmart.com/stores/us/ca/fresno-store0082.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11853060813",
+   "name": "PetSmart",
+   "lat": 36.8452021,
+   "lon": -119.7864671,
+   "distKm": 11.9,
+   "address": "7512 North Blackstone Avenue, Fresno, CA 93720",
+   "tags": {
+    "phone": "+1 559-490-7081",
+    "website": "https://www.petsmart.com/stores/us/ca/fresno-store2487.html",
+    "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-20:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11865418948",
+   "name": "Tails",
+   "lat": 36.8503733,
+   "lon": -119.7897611,
+   "distKm": 12.5,
+   "address": "60 East Via Del Oro, Fresno, CA 93720",
+   "tags": {
+    "phone": "+1-559-305-1800",
+    "website": "http://www.tailsinfresno.com/",
+    "opening_hours": "Su-Mo,We-Th 11:00-19:00; Tu,Fr-Sa 11:00-20:00"
+   }
+  },
+  {
+   "id": "way/1299461465",
+   "name": "PetSmart",
+   "lat": 36.8385056,
+   "lon": -119.7255852,
+   "distKm": 12.5,
+   "address": "615 West Herndon Avenue, Clovis, CA 93612",
+   "tags": {
+    "phone": "+1-559-299-0120",
+    "website": "https://www.petsmart.com/stores/us/ca/clovis-store1455.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1318168331",
+   "name": "Petco",
+   "lat": 36.8575554,
+   "lon": -119.7824057,
+   "distKm": 13.3,
+   "address": "8474 North Friant Road, Fresno, CA 93720",
+   "tags": {
+    "phone": "+1-559-538-6864",
+    "website": "https://stores.petco.com/ca/fresno/pet-supplies-fresno-ca-1350.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11253946627",
+   "name": "Petco",
+   "lat": 36.8391077,
+   "lon": -119.698661,
+   "distKm": 13.7,
+   "address": "1045 Herndon Avenue, Clovis, CA 93612",
+   "tags": {
+    "phone": "+1 559-297-9239",
+    "website": "https://stores.petco.com/ca/clovis/pet-supplies-clovis-ca-1339.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/849978116",
+   "name": "Petco",
+   "lat": 36.8326394,
+   "lon": -119.9108226,
+   "distKm": 15.3,
+   "address": "6557 North Riverside Drive, Fresno, CA 93722",
+   "tags": {
+    "phone": "+1 559-276-3623",
+    "website": "https://stores.petco.com/ca/fresno/pet-supplies-fresno-ca-1338.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

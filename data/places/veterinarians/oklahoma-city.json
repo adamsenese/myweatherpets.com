@@ -1,0 +1,212 @@
+{
+ "$schemaVersion": 1,
+ "city": "oklahoma-city",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:27:23.901Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/133347378",
+   "name": "James G Graham DVM Classen View Veterinary",
+   "lat": 35.4924678,
+   "lon": -97.5317453,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/133405169",
+   "name": "Nancy Worland DVM Oklahoma City Animal Hospital",
+   "lat": 35.492819,
+   "lon": -97.5664872,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11209398615",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.5355969,
+   "lon": -97.5673044,
+   "distKm": 8.9,
+   "address": "2932 Northwest 63rd Street, Oklahoma City, OK 73116",
+   "tags": {
+    "phone": "+1 405 848 8387"
+   }
+  },
+  {
+   "id": "way/1204452359",
+   "name": "Reno Animal Hospital",
+   "lat": 35.4636202,
+   "lon": -97.4140101,
+   "distKm": 9.3,
+   "address": "6400 East Reno Avenue, Midwest City, OK 73110",
+   "tags": {
+    "phone": "+1-405-733-3346"
+   }
+  },
+  {
+   "id": "node/11244998540",
+   "name": "May Avenue Animal Hospital",
+   "lat": 35.5448225,
+   "lon": -97.5652167,
+   "distKm": 9.7,
+   "address": "7324 North May Avenue, Oklahoma City, OK 73116",
+   "tags": {
+    "phone": "+1 405 843 5572",
+    "website": "https://mayanimalhospital.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su \"by appointment\""
+   }
+  },
+  {
+   "id": "way/274189000",
+   "name": "Wedgewood Pet Clinic",
+   "lat": 35.5395128,
+   "lon": -97.5945799,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/426743052",
+   "name": "Ranchwood Veterinary Hospital",
+   "lat": 35.3630608,
+   "lon": -97.5125293,
+   "distKm": 11.6,
+   "address": "10505 South Santa Fe Avenue, Oklahoma City, OK 73170",
+   "tags": {
+    "phone": "+1 405 794 5551",
+    "website": "https://www.ranchwoodvet.com/"
+   }
+  },
+  {
+   "id": "node/13136856215",
+   "name": "Britton Road Veterinary Clinic",
+   "lat": 35.5654516,
+   "lon": -97.5663862,
+   "distKm": 11.8,
+   "address": "2826 West Britton Road",
+   "tags": {
+    "phone": "+1 405 751 8007",
+    "opening_hours": "Mo-Fr 07:30-17:00 \"Office\"; Sa 08:00-12:00 \"Office\"; Mo-Fr 08:00-11:30,13:30-16:30 \"Doctors\"; Sa 08:00-11:30 \"Doctors by appointment.\""
+   }
+  },
+  {
+   "id": "way/491987610",
+   "name": "Animal Medical Center",
+   "lat": 35.4356886,
+   "lon": -97.3755632,
+   "distKm": 13.2,
+   "address": "8701 Southeast 29th Street, Midwest City, OK 73110",
+   "tags": {}
+  },
+  {
+   "id": "node/7829952393",
+   "name": "The Village Animal Hospital",
+   "lat": 35.5798811,
+   "lon": -97.5662887,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11380283399",
+   "name": "Crestwood Animal Hospital",
+   "lat": 35.5626891,
+   "lon": -97.620338,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/947018988",
+   "name": "Spray Perts",
+   "lat": 35.3348914,
+   "lon": -97.5117062,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11380283370",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.5554059,
+   "lon": -97.6415369,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13137235239",
+   "name": "Veterinary Emergency Group",
+   "lat": 35.6041547,
+   "lon": -97.5332614,
+   "distKm": 15.3,
+   "address": "13230 Pawnee Drive, Oklahoma City, OK 73114",
+   "tags": {
+    "phone": "+1 405 256 4391",
+    "website": "https://www.veterinaryemergencygroup.com/locations/oklahoma",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2605399860",
+   "name": "Rockwell Pet Clinic",
+   "lat": 35.5650768,
+   "lon": -97.63788,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468824692",
+   "name": "Veterinary Emergency",
+   "lat": 35.608199,
+   "lon": -97.5448081,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468824693",
+   "name": "Blue Pearl Vet Surgery",
+   "lat": 35.6078093,
+   "lon": -97.5447918,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4833220525",
+   "name": "Bluepearl Veterinary",
+   "lat": 35.6105078,
+   "lon": -97.536938,
+   "distKm": 16,
+   "address": "West Memorial Road, Edmond, OK",
+   "tags": {}
+  },
+  {
+   "id": "way/324886924",
+   "name": "Hefner Road Animal Hospital",
+   "lat": 35.5797859,
+   "lon": -97.6397821,
+   "distKm": 16.7,
+   "address": "7124 West Hefner Road, Oklahoma City, OK 73162",
+   "tags": {
+    "phone": "+1-405-773-5557",
+    "website": "https://hefnerroadanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/11826816569",
+   "name": "Pet Medical Center of Edmond",
+   "lat": 35.6385596,
+   "lon": -97.4974861,
+   "distKm": 19.1,
+   "address": "1001 West 15th Street, Edmond, OK 73013",
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "$schemaVersion": 1,
+ "city": "edinburgh",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:38:39.176Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/2325957228",
+   "name": "Bowzos",
+   "lat": 55.9590659,
+   "lon": -3.1912563,
+   "distKm": 0.7,
+   "address": "42 London Street, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/3147699672",
+   "name": "Capital Pets",
+   "lat": 55.9597294,
+   "lon": -3.1713888,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "phone": "+44 131 661 8011"
+   }
+  },
+  {
+   "id": "node/2298043792",
+   "name": "Just Dogs",
+   "lat": 55.9580993,
+   "lon": -3.2093985,
+   "distKm": 1.4,
+   "address": "14 Deanhaugh Street, Edinburgh",
+   "tags": {
+    "phone": "+44 131 332 0899",
+    "website": "https://www.justdogsshop.co.uk/",
+    "opening_hours": "Tu-Sa 10:00-17:30; Th 10:00-18:00; Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/2992761155",
+   "name": "Dofos",
+   "lat": 55.964364,
+   "lon": -3.1767858,
+   "distKm": 1.4,
+   "address": "337 Leith Walk, Edinburgh, EH6 8SD",
+   "tags": {
+    "phone": "+44 131 557 4666",
+    "website": "https://www.dofos.co.uk/"
+   }
+  },
+  {
+   "id": "node/2298043775",
+   "name": "Dofos Pet Centre",
+   "lat": 55.9590095,
+   "lon": -3.2129542,
+   "distKm": 1.7,
+   "address": "67A-69 Raeburn Place, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/2375455101",
+   "name": "Glamour Pooch",
+   "lat": 55.944374,
+   "lon": -3.2121122,
+   "distKm": 1.8,
+   "address": "36A Grove Street, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/3362077404",
+   "name": "Paws Perfect",
+   "lat": 55.9547155,
+   "lon": -3.1491776,
+   "distKm": 2.4,
+   "address": "6 Willowbrae Road, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/2503000436",
+   "name": "The Scruffy Dog Co.",
+   "lat": 55.933744,
+   "lon": -3.1671337,
+   "distKm": 2.5,
+   "address": "160 Dalkeith Road, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/4419105391",
+   "name": "Exotic Merchants",
+   "lat": 55.9329529,
+   "lon": -3.1659702,
+   "distKm": 2.7,
+   "address": "218 Dalkeith Road, Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "node/4733951328",
+   "name": "Patch's Pet Supplies",
+   "lat": 55.9724266,
+   "lon": -3.2149038,
+   "distKm": 2.7,
+   "address": "28 Granton Road, Edinburgh",
+   "tags": {
+    "website": "https://patchspetsupplies.co.uk/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/3670910759",
+   "name": "Waggy Tails",
+   "lat": 55.969303,
+   "lon": -3.1446061,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4357377785",
+   "name": "Pets at Home",
+   "lat": 55.9589337,
+   "lon": -3.2406745,
+   "distKm": 3.3,
+   "address": "South Groathill Avenue, Edinburgh, EH4 2LN",
+   "tags": {
+    "website": "https://community.petsathome.com/store/craigleith/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "node/8648864534",
+   "name": "Craigmillar Pet Supplies",
+   "lat": 55.9344714,
+   "lon": -3.1382882,
+   "distKm": 3.8,
+   "address": "Peffer Place, Edinburgh, EH16 4BB",
+   "tags": {}
+  },
+  {
+   "id": "node/4023945422",
+   "name": "Christine's Dog Parlour",
+   "lat": 55.9339639,
+   "lon": -3.2450313,
+   "distKm": 4.1,
+   "address": "478 Gorgie Road, Edinburgh",
+   "tags": {
+    "website": "http://www.christinesdogparlour.co.uk/"
+   }
+  },
+  {
+   "id": "node/4167750069",
+   "name": "Anne's Dog & Cat Grooming",
+   "lat": 55.9553311,
+   "lon": -3.1182344,
+   "distKm": 4.4,
+   "address": "28 Portobello High Street, Edinburgh",
+   "tags": {
+    "phone": "+44 131 669 4441"
+   }
+  },
+  {
+   "id": "node/4167750060",
+   "name": "Harry’s Treats",
+   "lat": 55.9523407,
+   "lon": -3.1122943,
+   "distKm": 4.7,
+   "address": "214 Portobello High Street, Edinburgh",
+   "tags": {
+    "phone": "+44 131 629 5463"
+   }
+  },
+  {
+   "id": "node/4548158486",
+   "name": "Pets at Home",
+   "lat": 55.933551,
+   "lon": -3.1017783,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "website": "https://community.petsathome.com/store/fort-kinnaird/",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "node/9739699493",
+   "name": "Auld Reekie Raw",
+   "lat": 55.9112585,
+   "lon": -3.1296403,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3295465393",
+   "name": "CitiDogs",
+   "lat": 55.9074018,
+   "lon": -3.2562735,
+   "distKm": 6.6,
+   "address": "Edinburgh",
+   "tags": {}
+  },
+  {
+   "id": "way/26985073",
+   "name": "Pets at Home",
+   "lat": 55.9415203,
+   "lon": -3.2947575,
+   "distKm": 6.8,
+   "address": "4 Gylemuir Road, Edinburgh, EH12 7UF",
+   "tags": {
+    "website": "https://community.petsathome.com/store/corstorphine/",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "way/224698962",
+   "name": "Pets at Home",
+   "lat": 55.8861916,
+   "lon": -3.1622414,
+   "distKm": 7.6,
+   "address": "Straiton Mains",
+   "tags": {
+    "website": "https://community.petsathome.com/store/pentland/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Pets at Home"
+   }
+  },
+  {
+   "id": "way/296725058",
+   "name": "Jollyes",
+   "lat": 55.9265134,
+   "lon": -3.3064867,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "brand": "Jollyes"
+   }
+  },
+  {
+   "id": "node/5023032918",
+   "name": "Dalkeith Pet Store",
+   "lat": 55.8933583,
+   "lon": -3.0722331,
+   "distKm": 9.8,
+   "address": "5 High Street, Dalkeith",
+   "tags": {}
+  },
+  {
+   "id": "node/2363801869",
+   "name": "M & A Dog Grooming",
+   "lat": 55.8950085,
+   "lon": -3.0689311,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5617241174",
+   "name": "The Happy Go Lucky Dog Company",
+   "lat": 56.0592491,
+   "lon": -3.232856,
+   "distKm": 12.1,
+   "address": "High Street, Burntisland",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-17:00; We off"
+   }
+  },
+  {
+   "id": "node/9704895941",
+   "name": "Paws",
+   "lat": 55.9586092,
+   "lon": -2.9873861,
+   "distKm": 12.5,
+   "address": "204 High Street, Prestonpans",
+   "tags": {}
+  },
+  {
+   "id": "node/5197920323",
+   "name": "The Dog House",
+   "lat": 55.8308589,
+   "lon": -3.2120137,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7795456715",
+   "name": "Sand & Paws",
+   "lat": 56.0412978,
+   "lon": -3.3428489,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6398286509",
+   "name": "Veerman's Pets & Co.",
+   "lat": 55.9432907,
+   "lon": -2.9485269,
+   "distKm": 15,
+   "address": "134 High Street, Tranent, EH33 1HJ",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/13689279923",
+   "name": "Rawsome Pet Food",
+   "lat": 55.9129953,
+   "lon": -2.9399219,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13140128745",
+   "name": "Marley & Co Pet Supplies",
+   "lat": 55.9597022,
+   "lon": -3.4580829,
+   "distKm": 16.8,
+   "address": "2 Station Road, Winchburgh, EH52 6RS",
+   "tags": {}
+  },
+  {
+   "id": "way/458783081",
+   "name": "Leenah's Pet Supplies",
+   "lat": 56.0365594,
+   "lon": -3.4177677,
+   "distKm": 17,
+   "address": "10 Queensferry Road, Rosyth, KY11 2PX",
+   "tags": {}
+  },
+  {
+   "id": "node/5405957591",
+   "name": "Tillychance Dog Grooming",
+   "lat": 55.8964428,
+   "lon": -3.4605217,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6417890032",
+   "name": "Scotts pet supplies",
+   "lat": 55.9096904,
+   "lon": -3.4907493,
+   "distKm": 19.5,
+   "address": "35 Drumshoreland Road, Pumpherston, EH53 0LF",
+   "tags": {
+    "phone": "+44 7803 389973",
+    "website": "https://www.scottspetsupplies.uk/",
+    "opening_hours": "Tu-Fr 09:30-17:00; Sa 09:30-14:00"
+   }
+  },
+  {
+   "id": "way/668512597",
+   "name": "Pets at Home",
+   "lat": 56.0816815,
+   "lon": -3.4070736,
+   "distKm": 19.7,
+   "address": "Halbeath Retail Park, Dunfermline, KY11 4LP",
+   "tags": {
+    "website": "https://community.petsathome.com/store/dunfermline/",
+    "brand": "Pets at Home"
+   }
+  }
+ ]
+}

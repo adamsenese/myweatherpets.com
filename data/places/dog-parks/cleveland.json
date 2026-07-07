@@ -1,0 +1,177 @@
+{
+ "$schemaVersion": 1,
+ "city": "cleveland",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:31:28.358Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "way/962662414",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.4962308,
+   "lon": -81.7005419,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12485176996",
+   "name": "Noble Beast Brewing Co.",
+   "lat": 41.5079035,
+   "lon": -81.6864287,
+   "distKm": 1.2,
+   "address": "1470 Lakeside Avenue East, Cleveland, OH 44114",
+   "tags": {}
+  },
+  {
+   "id": "node/8816064854",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.4853511,
+   "lon": -81.6965904,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1391052088",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.4831137,
+   "lon": -81.7022339,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/439376516",
+   "name": "Taps & Tails",
+   "lat": 41.4803616,
+   "lon": -81.6975075,
+   "distKm": 2.1,
+   "address": "1901 Train Avenue, Cleveland, OH 44113",
+   "tags": {
+    "website": "https://www.tapsandtailsdogbar.com/"
+   }
+  },
+  {
+   "id": "way/1204310164",
+   "name": "Rick Matzelle Dog Park",
+   "lat": 41.4747579,
+   "lon": -81.6852372,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "08:00-sunset"
+   }
+  },
+  {
+   "id": "way/1332554719",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.4856476,
+   "lon": -81.7247103,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/575616022",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.475641,
+   "lon": -81.7234454,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/999284074",
+   "name": "K-9 Coastline",
+   "lat": 41.4877974,
+   "lon": -81.7443217,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/981106058",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5062167,
+   "lon": -81.6185482,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/981447761",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5062536,
+   "lon": -81.6163027,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/979398114",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5060955,
+   "lon": -81.6141265,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1197734095",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.501978,
+   "lon": -81.5964537,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/430062416",
+   "name": "Lakewood Dog Park",
+   "lat": 41.4779511,
+   "lon": -81.8271231,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/553863514",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.5371658,
+   "lon": -81.5318967,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1051165643",
+   "name": "Beachwood Dog Park",
+   "lat": 41.4785198,
+   "lon": -81.4967313,
+   "distKm": 16.6,
+   "address": "25815 Shaker Boulevard, Beachwood, OH 44122",
+   "tags": {}
+  },
+  {
+   "id": "way/1506387402",
+   "name": "Tri-City Bark Park",
+   "lat": 41.3889022,
+   "lon": -81.8340444,
+   "distKm": 16.9,
+   "address": "18825 Sheldon Road, Middleburg Heights, OH 44130",
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

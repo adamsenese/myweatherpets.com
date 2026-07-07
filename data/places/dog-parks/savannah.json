@@ -1,0 +1,84 @@
+{
+ "$schemaVersion": 1,
+ "city": "savannah",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:35:34.271Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "way/904727870",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.0689563,
+   "lon": -81.0863514,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/371054736",
+   "name": "Daffin Dog Park",
+   "lat": 32.0433649,
+   "lon": -81.078188,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.facebook.com/pages/Daffin-Dog-Park/248285151928402"
+   }
+  },
+  {
+   "id": "way/1445770338",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.0087093,
+   "lon": -81.1049077,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1217252125",
+   "name": "Mohawk Lake Dogpark",
+   "lat": 31.9926801,
+   "lon": -81.1687569,
+   "distKm": 12.2,
+   "address": "1134 Mohawk Street, Savannah, GA 31419",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1164757170",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.0255765,
+   "lon": -81.2465999,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1449291095",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.1489841,
+   "lon": -81.2414481,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/908458029",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.0747321,
+   "lon": -81.2666999,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

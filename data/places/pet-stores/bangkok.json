@@ -1,0 +1,264 @@
+{
+ "$schemaVersion": 1,
+ "city": "bangkok",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:24:01.027Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 26,
+ "places": [
+  {
+   "id": "way/1237710190",
+   "name": "The pets zoo",
+   "lat": 13.7253926,
+   "lon": 100.5289199,
+   "distKm": 4.5,
+   "address": "10500",
+   "tags": {}
+  },
+  {
+   "id": "way/337822771",
+   "name": "มีมา เพ็ทช๊อป",
+   "lat": 13.708887,
+   "lon": 100.4954285,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1347059562",
+   "name": "Sumo Pet Shop",
+   "lat": 13.7373906,
+   "lon": 100.5571819,
+   "distKm": 6.3,
+   "address": "10110",
+   "tags": {}
+  },
+  {
+   "id": "node/11757100905",
+   "name": "J.U. One Pet Shop",
+   "lat": 13.8285249,
+   "lon": 100.4860604,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11527460761",
+   "name": "The Good Dog Shop",
+   "lat": 13.7279594,
+   "lon": 100.5757934,
+   "distKm": 8.6,
+   "address": "8/3 ซอยสุขุมวิท 49, วัฒนา, 10110",
+   "tags": {
+    "phone": "+6620491026",
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/11578002061",
+   "name": "Pet's concept",
+   "lat": 13.7971812,
+   "lon": 100.5702515,
+   "distKm": 8.7,
+   "address": "10400",
+   "tags": {}
+  },
+  {
+   "id": "node/4475356243",
+   "name": "Pet Lovers Centre",
+   "lat": 13.7250919,
+   "lon": 100.5795671,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6417410489",
+   "name": "Pet Kingdom",
+   "lat": 13.8193142,
+   "lon": 100.4484878,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {
+    "phone": "0864142845",
+    "website": "https://petkingdombkk.com/",
+    "opening_hours": "Mo-Su 09:00-22:00"
+   }
+  },
+  {
+   "id": "node/12428814625",
+   "name": "Nonong Petshop",
+   "lat": 13.8175667,
+   "lon": 100.5642533,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/10316327516",
+   "name": "DEEDEN PETMART",
+   "lat": 13.8431344,
+   "lon": 100.4822228,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10316327517",
+   "name": "โมยา เพ็ทแคร์ ยาสัตว์ อาหารรักษาโรค",
+   "lat": 13.8430016,
+   "lon": 100.482204,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8932599277",
+   "name": "เค แอนด์ เอ็ม เพ็ทช็อป",
+   "lat": 13.843551,
+   "lon": 100.4809167,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12484296420",
+   "name": "Planet Pet Shop ซ.กำนันแม้น 13",
+   "lat": 13.691163,
+   "lon": 100.4377365,
+   "distKm": 10,
+   "address": "44 ซฮยกำนันแม้น 13, 10150",
+   "tags": {
+    "phone": "0839455565",
+    "opening_hours": "Mo-Su 09:00-20:00"
+   }
+  },
+  {
+   "id": "way/201149462",
+   "name": "Ito-you",
+   "lat": 13.8284739,
+   "lon": 100.5669376,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/955497376",
+   "name": "Mulan Pet shop",
+   "lat": 13.8213375,
+   "lon": 100.5916469,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11921943027",
+   "name": "Petmak",
+   "lat": 13.7113477,
+   "lon": 100.6086531,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/10314737909",
+   "name": "โรงพยาบาลสัตว์ นาคนิวาส",
+   "lat": 13.8184077,
+   "lon": 100.6096247,
+   "distKm": 13.5,
+   "address": "455, 457 ถนนนาคนิวาส, 10230",
+   "tags": {
+    "phone": "029328577",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "id": "way/316418918",
+   "name": "มนูญเพ็ทช็อพ",
+   "lat": 13.7898229,
+   "lon": 100.6511541,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4708011455",
+   "name": "Golden Pet Shops",
+   "lat": 13.8584115,
+   "lon": 100.6262495,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {
+    "website": "http://www.goldenpetshops.com/"
+   }
+  },
+  {
+   "id": "node/1806917812",
+   "name": "TA Petshop",
+   "lat": 13.65786,
+   "lon": 100.63644,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12615362202",
+   "name": "MeMe",
+   "lat": 13.7833688,
+   "lon": 100.6680332,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12615324201",
+   "name": "OMG",
+   "lat": 13.7815207,
+   "lon": 100.6693724,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12618164704",
+   "name": "Golden",
+   "lat": 13.7774549,
+   "lon": 100.6726718,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1314008675",
+   "name": "คุณกะลา เพ็ทช็อป",
+   "lat": 13.598579,
+   "lon": 100.433024,
+   "distKm": 19,
+   "address": "1023/2 ถนนบางขุนเทียนชายทะเล, 10150",
+   "tags": {}
+  },
+  {
+   "id": "node/11269092091",
+   "name": "Pet Mall",
+   "lat": 13.8582961,
+   "lon": 100.6445208,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11307357737",
+   "name": "บัวจันทร์ เพ็ท ช็อป",
+   "lat": 13.8588974,
+   "lon": 100.6448234,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

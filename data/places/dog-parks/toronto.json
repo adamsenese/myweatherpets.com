@@ -1,0 +1,615 @@
+{
+ "$schemaVersion": 1,
+ "city": "toronto",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:38:57.950Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12769371164",
+   "name": "Small Area for Dog Playing",
+   "lat": 43.6560433,
+   "lon": -79.389977,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/691478334",
+   "name": "Leash-free zone",
+   "lat": 43.652045,
+   "lon": -79.3923777,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/665161130",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6597155,
+   "lon": -79.3765752,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/680704655",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.648273,
+   "lon": -79.3746284,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/202223414",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6638174,
+   "lon": -79.3859904,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "07:00-23:00"
+   }
+  },
+  {
+   "id": "way/699438877",
+   "name": "Leash-free zone",
+   "lat": 43.6625205,
+   "lon": -79.3747312,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/327006126",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6439276,
+   "lon": -79.3935221,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1290753858",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.641063,
+   "lon": -79.3797922,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/147384954",
+   "name": "Leash-free zone",
+   "lat": 43.6665883,
+   "lon": -79.3800926,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/442508006",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6462722,
+   "lon": -79.399399,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/360806952",
+   "name": "Orphan's Greenspace",
+   "lat": 43.6546327,
+   "lon": -79.362419,
+   "distKm": 1.7,
+   "address": "51 Power Street, Toronto",
+   "tags": {
+    "barrier": "fence",
+    "website": "http://www.petservicedirectory.ca/city/toronto/listing/orphans-greenspace-dog-park/"
+   }
+  },
+  {
+   "id": "way/979913845",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6607337,
+   "lon": -79.3628929,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/684881550",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6391245,
+   "lon": -79.3970803,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/832350133",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6453464,
+   "lon": -79.3626431,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1433937924",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6583626,
+   "lon": -79.3589518,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1514728409",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6580405,
+   "lon": -79.3552811,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "access": "unknown"
+   }
+  },
+  {
+   "id": "node/4980649017",
+   "name": "Leash-free zone",
+   "lat": 43.6662933,
+   "lon": -79.3588897,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/810606668",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6557669,
+   "lon": -79.354048,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/424199765",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6414692,
+   "lon": -79.4091181,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1071397925",
+   "name": "The Dog Bowl",
+   "lat": 43.6485563,
+   "lon": -79.4148105,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1419966624",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6450674,
+   "lon": -79.3522789,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/174487972",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6337831,
+   "lon": -79.4037833,
+   "distKm": 2.7,
+   "address": "Toronto",
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/686055888",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.659296,
+   "lon": -79.3506309,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1208206013",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6764636,
+   "lon": -79.3960336,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1418542004",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6461611,
+   "lon": -79.3495313,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4980649008",
+   "name": "Leash-free zone",
+   "lat": 43.6719551,
+   "lon": -79.3574099,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/4300557",
+   "name": "Dogs Off-Leash Area",
+   "lat": 43.6601407,
+   "lon": -79.418377,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/684881196",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6401493,
+   "lon": -79.4152963,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/4980649015",
+   "name": "Leash-free zone",
+   "lat": 43.670419,
+   "lon": -79.4150841,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/890898242",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6828054,
+   "lon": -79.3670795,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/368203679",
+   "name": "Cherry Beach Off Leash Dog Park",
+   "lat": 43.6349912,
+   "lon": -79.3464236,
+   "distKm": 3.6,
+   "address": "Toronto",
+   "tags": {
+    "website": "http://www1.toronto.ca/parks/prd/facilities/complex/209/"
+   }
+  },
+  {
+   "id": "way/531996102",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6410824,
+   "lon": -79.4257614,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/683730457",
+   "name": "Leash-free zone",
+   "lat": 43.6740423,
+   "lon": -79.3469247,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/879396101",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6675029,
+   "lon": -79.3421397,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/801930519",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6649774,
+   "lon": -79.3378404,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1071393475",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6478896,
+   "lon": -79.4316539,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "permissive",
+    "website": "https://instagram.com/dogparkshitpark?igshid=YmMyMTA2M2Y="
+   }
+  },
+  {
+   "id": "way/1209203857",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6825458,
+   "lon": -79.4097438,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/684945621",
+   "name": "Dogs Off-Leash Area",
+   "lat": 43.6762738,
+   "lon": -79.4242024,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/684947343",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.679367,
+   "lon": -79.4243561,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/220509742",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6678181,
+   "lon": -79.3289448,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "website": "https://www.toronto.ca/parks/prd/facilities/complex/70/index.htm"
+   }
+  },
+  {
+   "id": "way/490217519",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.648813,
+   "lon": -79.4428503,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1121918606",
+   "name": "The Pocket",
+   "lat": 43.6777278,
+   "lon": -79.3344199,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/909417473",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6974359,
+   "lon": -79.3708889,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/931805186",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6777585,
+   "lon": -79.3246542,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12987782919",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6997076,
+   "lon": -79.3599673,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1512354345",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.66793,
+   "lon": -79.4491066,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/265632385",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.691943,
+   "lon": -79.4291109,
+   "distKm": 5.7,
+   "address": "Toronto",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/353317790",
+   "name": "Earlscourt Park Off-Leash Area",
+   "lat": 43.6719849,
+   "lon": -79.4492325,
+   "distKm": 5.7,
+   "address": "1200 Lansdowne Avenue, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "way/1112306299",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.7062382,
+   "lon": -79.3938912,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13889379089",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.7066363,
+   "lon": -79.405437,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1337593757",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6477117,
+   "lon": -79.4615896,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1337593760",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6490946,
+   "lon": -79.4606905,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1337593762",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6510988,
+   "lon": -79.4613413,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/296091880",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6625009,
+   "lon": -79.4621662,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1337592364",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6460388,
+   "lon": -79.4625474,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/680981692",
+   "name": "Dog Hill",
+   "lat": 43.6468646,
+   "lon": -79.4637233,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/685829419",
+   "name": "Dogs Off-Leash Park",
+   "lat": 43.6813036,
+   "lon": -79.3124456,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/981872361",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.7014584,
+   "lon": -79.3318819,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1375530491",
+   "name": "Kew Gardens Dog Park",
+   "lat": 43.6659651,
+   "lon": -79.2972448,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "relation/18677241",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.7168836,
+   "lon": -79.3836539,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

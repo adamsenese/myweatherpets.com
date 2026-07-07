@@ -1,0 +1,387 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-diego",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:22:04.890Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 36,
+ "places": [
+  {
+   "id": "way/31809741",
+   "name": "Amici Pet Hospital",
+   "lat": 32.7271445,
+   "lon": -117.168599,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5026822527",
+   "name": "Coronado Animal Care Facility",
+   "lat": 32.697664,
+   "lon": -117.1687128,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2143412753",
+   "name": "Harmony Animal Hospital",
+   "lat": 32.7502258,
+   "lon": -117.1466599,
+   "distKm": 4.1,
+   "address": "3994 Park Boulevard, San Diego, 92103",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/526540124",
+   "name": "VCA Animal Hospital",
+   "lat": 32.7586583,
+   "lon": -117.1844682,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3732414443",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.7488356,
+   "lon": -117.2063987,
+   "distKm": 5.6,
+   "address": "3361 Rosecrans St",
+   "tags": {
+    "phone": "+1-619-225-0175",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/san-diego/ssa/",
+    "opening_hours": "Mo-Sa 07:00-18:00"
+   }
+  },
+  {
+   "id": "node/13456700049",
+   "name": "San Diego Bay Animal Hospital",
+   "lat": 32.7539657,
+   "lon": -117.2149671,
+   "distKm": 6.6,
+   "address": "3681 Sports Arena Boulevard, San Diego, CA 92110",
+   "tags": {
+    "phone": "+16194813007"
+   }
+  },
+  {
+   "id": "way/31843684",
+   "name": "VCA Animal Hospital",
+   "lat": 32.740729,
+   "lon": -117.230302,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/31819426",
+   "name": "Cabrillo Pet Hospital",
+   "lat": 32.7432995,
+   "lon": -117.2337119,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1295872840",
+   "name": "Colina Veterinary Hospital",
+   "lat": 32.748152,
+   "lon": -117.0767246,
+   "distKm": 8.7,
+   "address": "5530 University Avenue, San Diego, 92105",
+   "tags": {
+    "phone": "+1-619-286-3360",
+    "website": "https://www.colinaveterinary.com/"
+   }
+  },
+  {
+   "id": "node/6582970432",
+   "name": "Sunset Cliffs Animal Hospital",
+   "lat": 32.7463472,
+   "lon": -117.2478524,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13431051897",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.7608992,
+   "lon": -117.0664247,
+   "distKm": 10.2,
+   "address": "El Cajon Boulevard, San Diego, CA 92115",
+   "tags": {
+    "website": "https://banfield.com"
+   }
+  },
+  {
+   "id": "node/2990317896",
+   "name": "Ark Animal Hospital",
+   "lat": 32.819688,
+   "lon": -117.1746305,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12997978891",
+   "name": "University Pet Hospital",
+   "lat": 32.7550789,
+   "lon": -117.0445815,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {
+    "phone": "+1 619-463-9861"
+   }
+  },
+  {
+   "id": "node/3042714873",
+   "name": "Balboa Veterinary Hospital",
+   "lat": 32.8215068,
+   "lon": -117.1524792,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12077364355",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.7996687,
+   "lon": -117.242173,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8730143144",
+   "name": "Lindsey Veterinary Care",
+   "lat": 32.833021,
+   "lon": -117.1543263,
+   "distKm": 13.1,
+   "address": "7740 Clairemont Mesa Boulevard, San Diego, CA 92111",
+   "tags": {
+    "website": "https://www.lindseyvetcare.com"
+   }
+  },
+  {
+   "id": "node/10835696623",
+   "name": "Eye Care for Animals",
+   "lat": 32.8335555,
+   "lon": -117.1535779,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7795681787",
+   "name": "Tierramesa Veterinary Clinic",
+   "lat": 32.8307826,
+   "lon": -117.1286458,
+   "distKm": 13.2,
+   "address": "9353 Clairemont Mesa Boulevard, San Diego, CA 92123",
+   "tags": {
+    "phone": "+1-858-268-0044",
+    "website": "https://www.tierramesavet.com/"
+   }
+  },
+  {
+   "id": "node/1459203420",
+   "name": "Lifetime Animal Care Center",
+   "lat": 32.8320195,
+   "lon": -117.202035,
+   "distKm": 13.5,
+   "address": "4250 Clairemont Mesa Boulevard, San Diego, CA 92117",
+   "tags": {
+    "phone": "+1-858-274-1760",
+    "website": "https://www.lifetimeanimalcare.com",
+    "opening_hours": "Mo-Fr 08:30-17:30"
+   }
+  },
+  {
+   "id": "node/12636401601",
+   "name": "Turquoise Animal Hospital",
+   "lat": 32.8094228,
+   "lon": -117.2564951,
+   "distKm": 13.7,
+   "address": "950 Turquoise Street, 92109",
+   "tags": {
+    "website": "https://turquoiseanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/13679688901",
+   "name": "Veterinary Dental Specialties",
+   "lat": 32.838224,
+   "lon": -117.128743,
+   "distKm": 14,
+   "address": "5775 Chesapeake Court, 92123",
+   "tags": {
+    "phone": "+1-858-279-2108",
+    "website": "https://www.vdspets.com/location/san-diego/"
+   }
+  },
+  {
+   "id": "node/11112406905",
+   "name": "VCA Grossmont Vetr",
+   "lat": 32.7777999,
+   "lon": -117.0191176,
+   "distKm": 15,
+   "address": "8274 #106 Parkway Drive, 91942",
+   "tags": {
+    "phone": "+1 619-697-0082",
+    "website": "https://vcahospitals.com/grossmont",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+   }
+  },
+  {
+   "id": "node/6558358411",
+   "name": "The Pet Hospital of Tierrasanta",
+   "lat": 32.8403716,
+   "lon": -117.0976701,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1015115065",
+   "name": "Pet Hospital of La Mesa",
+   "lat": 32.7760959,
+   "lon": -117.0166206,
+   "distKm": 15.1,
+   "address": "5336 Jackson Drive, La Mesa, CA 91942",
+   "tags": {
+    "phone": "+1-619-469-0138",
+    "website": "https://pethospitaloflamesa.com/"
+   }
+  },
+  {
+   "id": "way/1417635332",
+   "name": "Spring Valley Animal Medical Hospital",
+   "lat": 32.7099003,
+   "lon": -116.9978521,
+   "distKm": 15.3,
+   "address": "704 Grand Avenue, Spring Valley, CA 91977",
+   "tags": {
+    "phone": "+1-619-464-5125",
+    "website": "https://www.springvalleyvetclinic.com/",
+    "opening_hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
+   }
+  },
+  {
+   "id": "node/9344502541",
+   "name": "Pet Emergency & Specialty Center-East County",
+   "lat": 32.7742827,
+   "lon": -117.0111457,
+   "distKm": 15.5,
+   "address": "5232 Jackson Drive, La Mesa, CA 91942",
+   "tags": {}
+  },
+  {
+   "id": "way/31803533",
+   "name": "Rancho San Carlos Pet Clinic",
+   "lat": 32.8171642,
+   "lon": -117.0469175,
+   "distKm": 15.5,
+   "address": "7850 Golfcrest Drive, San Diego, CA 92119",
+   "tags": {}
+  },
+  {
+   "id": "way/1012852584",
+   "name": "Fletcher Hills Animal Hospital",
+   "lat": 32.7737049,
+   "lon": -117.0076545,
+   "distKm": 15.7,
+   "address": "8807 Grossmont Boulevard, La Mesa, CA 91942",
+   "tags": {
+    "phone": "+1-619-463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/6865181216",
+   "name": "The Pet Clinic",
+   "lat": 32.5951521,
+   "lon": -117.0618978,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/31808029",
+   "name": "San Carlos Animal Hospital",
+   "lat": 32.8003309,
+   "lon": -117.0129943,
+   "distKm": 16.7,
+   "address": "8618 Lake Murray Boulevard, San Diego, CA 92119",
+   "tags": {
+    "phone": "+1-619-460-3100",
+    "website": "https://www.sdpetdoc.com/"
+   }
+  },
+  {
+   "id": "way/993510017",
+   "name": "Spring Valley Veterinary Clinic",
+   "lat": 32.7476422,
+   "lon": -116.9808438,
+   "distKm": 17.2,
+   "address": "9973 Campo Road, Spring Valley, CA 91977",
+   "tags": {}
+  },
+  {
+   "id": "node/276540987",
+   "name": "Colony Veterinary Hospital",
+   "lat": 32.8624872,
+   "lon": -117.2247352,
+   "distKm": 17.4,
+   "address": "7748 Regents Road, San Diego, CA 92122",
+   "tags": {
+    "phone": "+1-858-450-5047",
+    "website": "https://www.lajollacolonyvet.com",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/434955940",
+   "name": "Towne Centre Animal Hospital",
+   "lat": 32.8671744,
+   "lon": -117.2059512,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12555058964",
+   "name": "Urgent Care Pet Clinic",
+   "lat": 32.8671714,
+   "lon": -117.2059507,
+   "distKm": 17.4,
+   "address": "8915 Towne Centre Drive, San Diego, Ca 92122",
+   "tags": {}
+  },
+  {
+   "id": "node/9366510021",
+   "name": "Rancho Village Veterinary Hospital",
+   "lat": 32.7462641,
+   "lon": -116.9598306,
+   "distKm": 19.1,
+   "address": "3647 Avocado Boulevard, La Mesa, CA 91941",
+   "tags": {
+    "website": "http://www.ranchovillagevet.com/"
+   }
+  },
+  {
+   "id": "node/6389982130",
+   "name": "Banfield Pet Hospital",
+   "lat": 32.6490542,
+   "lon": -116.9663692,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

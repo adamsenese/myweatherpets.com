@@ -1,0 +1,330 @@
+{
+ "$schemaVersion": 1,
+ "city": "orlando",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:32:40.069Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 34,
+ "places": [
+  {
+   "id": "node/12481113583",
+   "name": "Pups Pub",
+   "lat": 28.5461198,
+   "lon": -81.3789513,
+   "distKm": 0.9,
+   "address": "317 North Orange Avenue, Orlando, FL 32801",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1436077918",
+   "name": "Constitution Green Dog Run",
+   "lat": 28.5389399,
+   "lon": -81.3687641,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1349337590",
+   "name": "BarkHaven",
+   "lat": 28.5564764,
+   "lon": -81.3641242,
+   "distKm": 2.5,
+   "address": "1211 Illinois Street, Orlando, FL 32803",
+   "tags": {}
+  },
+  {
+   "id": "way/1430899260",
+   "name": "BarkHaven",
+   "lat": 28.5629116,
+   "lon": -81.3672947,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/834074205",
+   "name": "Cornerstone Dog Park",
+   "lat": 28.5151238,
+   "lon": -81.3286791,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1391716784",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5185772,
+   "lon": -81.3270238,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/834076327",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.513908,
+   "lon": -81.3269773,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1064688823",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5407012,
+   "lon": -81.3174693,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1064686898",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5426624,
+   "lon": -81.2958462,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468586840",
+   "name": "Adele Place Bark Park",
+   "lat": 28.5565088,
+   "lon": -81.2885608,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1018559844",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.6035211,
+   "lon": -81.2891468,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1442603950",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.605451,
+   "lon": -81.2890254,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/722071710",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.6416046,
+   "lon": -81.3284312,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11772847272",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.4735522,
+   "lon": -81.2705198,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/584391733",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.4552811,
+   "lon": -81.2873121,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1078888377",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.6335394,
+   "lon": -81.3011324,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469572067",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.6520219,
+   "lon": -81.3431246,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1239024470",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.4507765,
+   "lon": -81.4679213,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/461600788",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.433436,
+   "lon": -81.44742,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1267831864",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.545333,
+   "lon": -81.5371215,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/553486937",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5266073,
+   "lon": -81.5421294,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/534648620",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.3863438,
+   "lon": -81.3453877,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/976102441",
+   "name": "Waterford Lakes dog park area",
+   "lat": 28.557083,
+   "lon": -81.2015574,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/352099989",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5590942,
+   "lon": -81.2009212,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7443357361",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.6062963,
+   "lon": -81.5428112,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/545768003",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.4402395,
+   "lon": -81.2346476,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/1151353",
+   "name": "dog wash area",
+   "lat": 28.4066635,
+   "lon": -81.4881644,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/1151356",
+   "name": "Doggy Park",
+   "lat": 28.4064392,
+   "lon": -81.4879036,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/715904282",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.432155,
+   "lon": -81.2368258,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/464451600",
+   "name": "Happy Paws Pet Resort",
+   "lat": 28.5657765,
+   "lon": -81.1901174,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/564041532",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5360248,
+   "lon": -81.5800498,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5296420104",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.5021719,
+   "lon": -81.180231,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/715904286",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.4180852,
+   "lon": -81.2291302,
+   "distKm": 19.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/228199082",
+   "name": "Doctors' Dog Park",
+   "lat": 28.6793605,
+   "lon": -81.504739,
+   "distKm": 19.9,
+   "address": "21 North Highland Avenue, Apopka, FL 32703",
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "small_dog": "separate",
+    "access": "yes",
+    "website": "https://www.apopka.net/departments/recreation/recreational-facility-locations/doctors-dog-park",
+    "opening_hours": "Mo-Su 08:00-dusk"
+   }
+  }
+ ]
+}

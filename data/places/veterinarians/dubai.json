@@ -1,0 +1,240 @@
+{
+ "$schemaVersion": 1,
+ "city": "dubai",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:24:06.155Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 24,
+ "places": [
+  {
+   "id": "way/385717915",
+   "name": "Dubai Equine Hospital",
+   "lat": 25.2094163,
+   "lon": 55.2890846,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/391213857",
+   "name": "Zabeel Veterinary Hospital",
+   "lat": 25.2108641,
+   "lon": 55.2885906,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4904888308",
+   "name": "Energetic Panacea Veterinary Clinic",
+   "lat": 25.2021946,
+   "lon": 55.250014,
+   "distKm": 2.1,
+   "address": "Al Wasl Road",
+   "tags": {}
+  },
+  {
+   "id": "way/391213855",
+   "name": "Dubai Falcon Hospital",
+   "lat": 25.2102924,
+   "lon": 55.2905079,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4904921484",
+   "name": "British Vetrinary Hospital",
+   "lat": 25.1755468,
+   "lon": 55.2314997,
+   "distKm": 5.1,
+   "address": "Al Wasl Road",
+   "tags": {}
+  },
+  {
+   "id": "node/10302244421",
+   "name": "Pet Wellness Veterinary Clinic",
+   "lat": 25.1628174,
+   "lon": 55.3002008,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4904384891",
+   "name": "Gulf Veterinary Centre",
+   "lat": 25.2464426,
+   "lon": 55.3069755,
+   "distKm": 5.9,
+   "address": "20a Street",
+   "tags": {}
+  },
+  {
+   "id": "node/10302244415",
+   "name": "The City Vet Clinic - Meydan Branch",
+   "lat": 25.1541673,
+   "lon": 55.2906695,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1866413092",
+   "name": "Modern Veterinary Clinic",
+   "lat": 25.1610879,
+   "lon": 55.2214363,
+   "distKm": 6.9,
+   "address": "Al Wasl Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4906182447",
+   "name": "The City Vet Clinic",
+   "lat": 25.1550556,
+   "lon": 55.2165775,
+   "distKm": 7.8,
+   "address": "Al Wasl Road",
+   "tags": {}
+  },
+  {
+   "id": "node/5701322541",
+   "name": "Shaklan Veterinary Materials",
+   "lat": 25.2498476,
+   "lon": 55.3406291,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/500545524",
+   "name": "Umm Student Veterinary Centre",
+   "lat": 25.1483362,
+   "lon": 55.2105093,
+   "distKm": 8.7,
+   "address": "Al Wasl Road",
+   "tags": {}
+  },
+  {
+   "id": "node/4937253432",
+   "name": "Professional Veterinary Clinic",
+   "lat": 25.2339685,
+   "lon": 55.3535681,
+   "distKm": 8.9,
+   "address": "40 Street",
+   "tags": {}
+  },
+  {
+   "id": "node/9383197443",
+   "name": "طبيب بيطري",
+   "lat": 25.1379586,
+   "lon": 55.2032989,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4837384521",
+   "name": "Snoopy Pets",
+   "lat": 25.1079896,
+   "lon": 55.2255331,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4898369340",
+   "name": "Pet Connection",
+   "lat": 25.1153264,
+   "lon": 55.205748,
+   "distKm": 11.9,
+   "address": "7 Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4900332674",
+   "name": "Al Barsha Veterinary Clinic",
+   "lat": 25.1134104,
+   "lon": 55.1945037,
+   "distKm": 12.7,
+   "address": "Al Barsha 1 Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4899843740",
+   "name": "Lucky Veterinary Clinic",
+   "lat": 25.1130065,
+   "lon": 55.1914961,
+   "distKm": 13,
+   "address": "Street 38",
+   "tags": {}
+  },
+  {
+   "id": "node/10181061436",
+   "name": "Pets Health Veterinary Clinic",
+   "lat": 25.1095889,
+   "lon": 55.3777175,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {
+    "phone": "+97142615421",
+    "website": "https://www.petshealth.ae/",
+    "opening_hours": "Sa-Th 08:00-21:00"
+   }
+  },
+  {
+   "id": "node/11960215933",
+   "name": "The Ark Animal",
+   "lat": 25.1084266,
+   "lon": 55.3763622,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su,PH 11:00-20:00"
+   }
+  },
+  {
+   "id": "node/5887812586",
+   "name": "Vetcare Arjan",
+   "lat": 25.0574184,
+   "lon": 55.2424063,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12205056301",
+   "name": "DKC Veterinary Clinic",
+   "lat": 25.052455,
+   "lon": 55.2312056,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.dkc.ae",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11558599649",
+   "name": "Modern Vet",
+   "lat": 25.0546186,
+   "lon": 55.2120955,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8815415060",
+   "name": "Karas Veterinary Clinic",
+   "lat": 25.080082,
+   "lon": 55.1533895,
+   "distKm": 18.2,
+   "address": "Jumeirah Bay X3 Cluster X, umeirah Lakes Towers, Dubai",
+   "tags": {
+    "phone": "+97145756444",
+    "website": "https://www.karasvet.com/",
+    "opening_hours": "24/7"
+   }
+  }
+ ]
+}

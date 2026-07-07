@@ -1,0 +1,791 @@
+{
+ "$schemaVersion": 1,
+ "city": "new-york",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:20:34.851Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/5178536922",
+   "name": "Easy Wag",
+   "lat": 40.7109199,
+   "lon": -74.0067715,
+   "distKm": 0.2,
+   "address": "124 Nassau Street, New York, NY 10038",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13296626419",
+   "name": "Digs",
+   "lat": 40.7029354,
+   "lon": -73.9841915,
+   "distKm": 2.1,
+   "address": "238 Water Street, 11201",
+   "tags": {
+    "phone": "+1-631-832-3281",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13530139914",
+   "name": "Ruff Club",
+   "lat": 40.7233833,
+   "lon": -73.9852915,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-914-877-2754",
+    "website": "https://www.ruffclub.com",
+    "opening_hours": "Mo-Fr 07:15-20:00, Sa-Su 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11910381821",
+   "name": "Manhattan Pawffice",
+   "lat": 40.7289689,
+   "lon": -73.9888796,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-929-777-5320",
+    "website": "https://manhattanpawffice.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2569050403",
+   "name": "Biscuits & Bath",
+   "lat": 40.7362371,
+   "lon": -73.9960456,
+   "distKm": 2.7,
+   "address": "39 West 13th Street, 10011",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12684865070",
+   "name": "Dogma Garden",
+   "lat": 40.7290056,
+   "lon": -73.978489,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "phone": "+1-646-349-0090",
+    "website": "https://dogmanyc.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6340488800",
+   "name": "The Canine Corner",
+   "lat": 40.6859331,
+   "lon": -73.9943529,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-360-4900",
+    "website": "https://www.thecaninecorner.com",
+    "opening_hours": "Mo-Fr 07:30-19:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6465763258",
+   "name": "Fido's Retreat",
+   "lat": 40.6890862,
+   "lon": -73.9847693,
+   "distKm": 3.2,
+   "address": "230 Livingston Street, 11201",
+   "tags": {
+    "phone": "+1-718-522-0422",
+    "website": "https://www.fidosretreat.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/248153082",
+   "name": "Monster Mutt",
+   "lat": 40.6859382,
+   "lon": -73.9919716,
+   "distKm": 3.2,
+   "address": "297 Warren Street, 11201",
+   "tags": {
+    "phone": "+1-718-858-9028",
+    "website": "https://www.monstermutt.com/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5508497478",
+   "name": "Doggitude",
+   "lat": 40.6874625,
+   "lon": -73.9866522,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2494243690",
+   "name": "The Canine Corner",
+   "lat": 40.6838084,
+   "lon": -73.9950314,
+   "distKm": 3.4,
+   "address": "303 Court Street, 11231",
+   "tags": {
+    "phone": "+1-718-360-4900",
+    "website": "https://www.thecaninecorner.com",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2704093157",
+   "name": "HappyDogs",
+   "lat": 40.7373978,
+   "lon": -73.9785127,
+   "distKm": 3.6,
+   "address": "403 1st Avenue, New York, NY 10010",
+   "tags": {
+    "phone": "+1-212-532-4220",
+    "website": "https://happydogsnyc.com/stuyvesant-town/daycare/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2704105148",
+   "name": "Spot",
+   "lat": 40.7396332,
+   "lon": -73.9823194,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-646-449-9167",
+    "website": "https://www.spotdogdaycare.com/",
+    "opening_hours": "Mo-Fr 07:30-19:00, Sa-Su 09:30-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7177794090",
+   "name": "HI-BK",
+   "lat": 40.6877836,
+   "lon": -73.9793247,
+   "distKm": 3.6,
+   "address": "76 Rockwell Place, 11217",
+   "tags": {
+    "phone": "+1-718-971-9605",
+    "website": "https://hi-bk.com",
+    "opening_hours": "Mo-Fr 07:30-19:30, Sa-Su 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10728410797",
+   "name": "Woofs 'n Whiskers",
+   "lat": 40.6794766,
+   "lon": -74.0047498,
+   "distKm": 3.7,
+   "address": "14 Coles Street",
+   "tags": {
+    "phone": "+17182370298",
+    "website": "https://www.woofsnwhiskers.com/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 10:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6772394742",
+   "name": "Trusty Tails Pet Care",
+   "lat": 40.7414253,
+   "lon": -74.0310583,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10967974419",
+   "name": "Dogtopia",
+   "lat": 40.6934453,
+   "lon": -73.9642942,
+   "distKm": 4.1,
+   "address": "504 Myrtle Avenue, 11205",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6433061914",
+   "name": "Animal Loving Care",
+   "lat": 40.6748934,
+   "lon": -73.9996594,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-715-0595",
+    "website": "https://animallovingcare.com",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 10:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2709389033",
+   "name": "Walter's Pet Styles",
+   "lat": 40.7449729,
+   "lon": -73.9781567,
+   "distKm": 4.3,
+   "address": "201C East 33rd Street, 10016",
+   "tags": {
+    "phone": "+1-212-725-0000",
+    "website": "https://www.walterspetstyles.com",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-18:00; Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5052682097",
+   "name": "Lickers N Sniffers",
+   "lat": 40.6812034,
+   "lon": -73.9770443,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-347-721-3447",
+    "website": "https://lickersnsniffers.com",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 09:30-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7277862196",
+   "name": "Acme Dog Run",
+   "lat": 40.6735484,
+   "lon": -73.9903925,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-935-9364",
+    "website": "https://www.acmedogrun.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10968102822",
+   "name": "Brooklyn Pawffice",
+   "lat": 40.7108884,
+   "lon": -73.9504615,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "website": "https://brooklynpawffice.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3362422969",
+   "name": "Dog Park Daycare",
+   "lat": 40.7232594,
+   "lon": -73.9506449,
+   "distKm": 4.8,
+   "address": "607 Manhattan Avenue, Brooklyn, NY 11222",
+   "tags": {
+    "phone": "+1-347-294-0947",
+    "website": "https://www.awakeningny.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8504941415",
+   "name": "HomeDoggy",
+   "lat": 40.6732876,
+   "lon": -73.9760803,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-576-3918",
+    "website": "https://homedoggy.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6067527914",
+   "name": "Buddy's Dog Den",
+   "lat": 40.7178078,
+   "lon": -73.9450782,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7161076939",
+   "name": "Where My Dogs At?",
+   "lat": 40.6788215,
+   "lon": -73.9637805,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "phone": "+1-929-234-3354",
+    "website": "https://wheremydogsatbk.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9018011110",
+   "name": "Pet Super Nanny",
+   "lat": 40.6801441,
+   "lon": -73.9608398,
+   "distKm": 5.3,
+   "address": "1000 Atlantic Avenue, 11238",
+   "tags": {
+    "phone": "+1-347-240-6585",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9519414788",
+   "name": "Barks and Rec Center",
+   "lat": 40.6794072,
+   "lon": -73.9596972,
+   "distKm": 5.4,
+   "address": "1025 Pacific Street, 11238",
+   "tags": {
+    "phone": "+1-347-533-6561",
+    "website": "https://barksandreccenter.com/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Su 10:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2853028572",
+   "name": "Pooches LIC",
+   "lat": 40.7453037,
+   "lon": -73.957117,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "website": "https://www.poochesspa.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10245328563",
+   "name": "Prospect Bark",
+   "lat": 40.6647707,
+   "lon": -73.9901979,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-212-884-2275",
+    "website": "https://www.prospectbark.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13176759494",
+   "name": "Dogtopia",
+   "lat": 40.7437323,
+   "lon": -73.9543287,
+   "distKm": 5.5,
+   "address": "5-49 49th Avenue, Long Island City, NY 11101",
+   "tags": {
+    "phone": "+1-917-277-4020",
+    "website": "https://www.dogtopia.com/long-island-city/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5747704997",
+   "name": "Pooch Purrfect",
+   "lat": 40.6729405,
+   "lon": -73.9626554,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-399-9811",
+    "website": "https://www.poochpurrfect.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6917080351",
+   "name": "The Red Hydrant",
+   "lat": 40.6786837,
+   "lon": -73.9504975,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "phone": "+1-347-335-6881",
+    "website": "https://theredhydrant.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2562015558",
+   "name": "Paws & Rec",
+   "lat": 40.6566645,
+   "lon": -74.0016492,
+   "distKm": 6.3,
+   "address": "857 4th Avenue, 11232",
+   "tags": {
+    "phone": "+1-718-954-9117",
+    "website": "https://www.pawsandrec.com",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa,Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10982340908",
+   "name": "Biscuits and Bath",
+   "lat": 40.7588216,
+   "lon": -73.9623163,
+   "distKm": 6.3,
+   "address": "1064 1st Avenue",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11462717768",
+   "name": "Bae Tails",
+   "lat": 40.7610293,
+   "lon": -73.9631559,
+   "distKm": 6.5,
+   "address": "309 East 60th Street",
+   "tags": {
+    "phone": "+1 646-609-3274",
+    "website": "https://www.baetails.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11871093829",
+   "name": "Buddy's Dog Den",
+   "lat": 40.7606511,
+   "lon": -73.96145,
+   "distKm": 6.5,
+   "address": "1105 1st Avenue, New York, NY 10065",
+   "tags": {
+    "phone": "+1-212-844-9843",
+    "website": "https://www.buddysdogden.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13376679550",
+   "name": "Funny Pets NYC",
+   "lat": 40.7616434,
+   "lon": -73.9633673,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-917-227-1333",
+    "website": "https://funnypets.nyc",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6812803806",
+   "name": "P.I. Paws",
+   "lat": 40.7726611,
+   "lon": -74.0130379,
+   "distKm": 6.7,
+   "address": "1500-1 Avenue at Port Imperial, Weehawken, NJ 07086",
+   "tags": {
+    "phone": "+1-201-766-1392",
+    "website": "https://www.pipaws.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11923620586",
+   "name": "Puppy Tale Lodge",
+   "lat": 40.7669703,
+   "lon": -73.9583586,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "phone": "+1-929-339-0022",
+    "website": "https://puppytalelodge.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2844971035",
+   "name": "Fat Puppies Inn",
+   "lat": 40.7436057,
+   "lon": -73.9250916,
+   "distKm": 7.6,
+   "address": "39-24 Queens Boulevard, 11104",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00,08:00-18:00; Su 08:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11990995695",
+   "name": "Mutt Hutt",
+   "lat": 40.7791549,
+   "lon": -73.9833423,
+   "distKm": 7.6,
+   "address": "238 West 72nd Street, New York, NY 10023",
+   "tags": {
+    "phone": "+1-646-864-0029",
+    "website": "https://mutthutt.nyc",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/249615307",
+   "name": "Pet Haven",
+   "lat": 40.6469431,
+   "lon": -73.9805932,
+   "distKm": 7.6,
+   "address": "290 McDonald Avenue, 11218",
+   "tags": {
+    "phone": "+1-718-435-6900",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10990490107",
+   "name": "Urban Woof",
+   "lat": 40.7722233,
+   "lon": -73.9548201,
+   "distKm": 7.9,
+   "address": "314 East 78th Street, 10075",
+   "tags": {
+    "phone": "+1 646-886-5515",
+    "website": "https://urbanwoofnyc.com",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-17:00; Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6129174837",
+   "name": "PetBuddy Services",
+   "lat": 40.693382,
+   "lon": -73.9131497,
+   "distKm": 8.1,
+   "address": "438 Wilson Avenue",
+   "tags": {
+    "phone": "+1-646-770-4638",
+    "website": "https://petbuddyservices.com/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Fr, Sa 09:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12932496014",
+   "name": "Funny Pets NYC",
+   "lat": 40.7716047,
+   "lon": -73.9491088,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-917-261-4998",
+    "website": "https://www.funnypets.nyc/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11012810125",
+   "name": "Dogs Cats NYC",
+   "lat": 40.775101,
+   "lon": -73.9479696,
+   "distKm": 8.5,
+   "address": "1603 York Avenue, 10028",
+   "tags": {
+    "phone": "+1 212-624-2696",
+    "website": "https://www.dogscatsnyc.co/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2552486425",
+   "name": "My Best Buddies",
+   "lat": 40.6385817,
+   "lon": -74.0355864,
+   "distKm": 8.6,
+   "address": "8 Bay Ridge Avenue, Brooklyn, NY 11220",
+   "tags": {
+    "phone": "+1-347-560-6763",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8929425294",
+   "name": "Dog House Club",
+   "lat": 40.7811845,
+   "lon": -73.95249,
+   "distKm": 8.8,
+   "address": "1596 3rd Avenue, 10128",
+   "tags": {
+    "phone": "+1 917-472-7283",
+    "website": "https://www.doghouseclubnyc.com",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa, Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11662310657",
+   "name": "Biscuits & Bath",
+   "lat": 40.7893071,
+   "lon": -73.9764884,
+   "distKm": 8.9,
+   "address": "261 West 87th Street, New York, NY 10024",
+   "tags": {
+    "phone": "+1-646-786-0973",
+    "website": "https://www.biscuitsandbath.com/locations/upper-west-side/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10917040304",
+   "name": "Biscuits & Bath",
+   "lat": 40.7829491,
+   "lon": -73.9483435,
+   "distKm": 9.2,
+   "address": "252 East 94th Street, 10128",
+   "tags": {
+    "phone": "+1 646-786-0984",
+    "website": "https://www.biscuitsandbath.com/locations/yorkvillle-dog-daycare/",
+    "opening_hours": "Mo-Fr 07:00-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11628123692",
+   "name": "Playground Pups",
+   "lat": 40.7919203,
+   "lon": -73.9721767,
+   "distKm": 9.2,
+   "address": "668 Amsterdam Avenue, New York, NY 10024",
+   "tags": {
+    "phone": "+1-212-362-5221",
+    "website": "https://playgroundpups.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11515587249",
+   "name": "Dog Days of NY",
+   "lat": 40.7957206,
+   "lon": -73.9713389,
+   "distKm": 9.7,
+   "address": "2581 Broadway, New York, NY 10025",
+   "tags": {
+    "phone": "+1-212-767-9022",
+    "website": "https://dogdaysofny.com",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 10:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2761380199",
+   "name": "Priceless Pet Services",
+   "lat": 40.794477,
+   "lon": -73.9631215,
+   "distKm": 9.8,
+   "address": "1 West 100th Street, New York, NY 10025",
+   "tags": {
+    "phone": "+1-212-933-4042",
+    "website": "https://pricelesspetservices.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11008684063",
+   "name": "Brooklyn Canine Club",
+   "lat": 40.6239569,
+   "lon": -74.0247311,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "phone": "+1-718-745-5400",
+    "website": "https://brooklyncanineclub.com",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 09:00-16:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/933078361",
+   "name": "Dusty's Dog House",
+   "lat": 40.6598065,
+   "lon": -74.118083,
+   "distKm": 11.1,
+   "address": "188-190 Avenue E, Bayonne, NJ 07002",
+   "tags": {
+    "phone": "+12014363000",
+    "website": "https://dustysdoghouse.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13005426179",
+   "name": "Fat Puppies",
+   "lat": 40.7107707,
+   "lon": -73.8534677,
+   "distKm": 12.9,
+   "address": "Metropolitan Avenue",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2562982454",
+   "name": "Brooklyn Unleashed",
+   "lat": 40.5943336,
+   "lon": -73.9409059,
+   "distKm": 14.3,
+   "address": "3678 Nostrand Avenue, Brooklyn, NY 11229",
+   "tags": {
+    "phone": "+1-718-663-3435",
+    "website": "https://bkunleashed.com",
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa 09:00-16:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2797243218",
+   "name": "Best Friends Boarding & Day Care",
+   "lat": 40.8458091,
+   "lon": -73.9383704,
+   "distKm": 15.8,
+   "address": "4130 Broadway, 10033",
+   "tags": {
+    "phone": "+1-646-944-1869",
+    "website": "https://www.bfbnyc.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9859678729",
+   "name": "Doggie Paradise",
+   "lat": 40.8503962,
+   "lon": -74.1145262,
+   "distKm": 17.8,
+   "address": "145 Paterson Avenue, Wallington, NJ 07057",
+   "tags": {
+    "phone": "+19735748855",
+    "website": "https://thedoggieparadise.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

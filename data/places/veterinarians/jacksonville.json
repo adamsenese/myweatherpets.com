@@ -1,0 +1,132 @@
+{
+ "$schemaVersion": 1,
+ "city": "jacksonville",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:22:45.556Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 12,
+ "places": [
+  {
+   "id": "way/362826508",
+   "name": "San Marco Animal Hospital",
+   "lat": 30.3094384,
+   "lon": -81.6607094,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8926829885",
+   "name": "Forever Vets",
+   "lat": 30.3208692,
+   "lon": -81.6804231,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/398714360",
+   "name": "Riverside Animal Hospital",
+   "lat": 30.3111667,
+   "lon": -81.6930804,
+   "distKm": 4.3,
+   "address": "2641 Park Street, Jacksonville, 32204",
+   "tags": {
+    "website": "https://riversidejaxvet.com/"
+   }
+  },
+  {
+   "id": "node/4026961195",
+   "name": "Gopal Animal Hospital",
+   "lat": 30.3088193,
+   "lon": -81.7387413,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/736673029",
+   "name": "Forever Vets",
+   "lat": 30.2211418,
+   "lon": -81.5817631,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12073594774",
+   "name": "Jax Vets",
+   "lat": 30.1951179,
+   "lon": -81.6218981,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.jaxvetsah.com",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su Closed"
+   }
+  },
+  {
+   "id": "node/12637185961",
+   "name": "The Cat Clinic",
+   "lat": 30.1953273,
+   "lon": -81.6210248,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13719838381",
+   "name": "Allied Veterinary Specialists (AVS)",
+   "lat": 30.1887258,
+   "lon": -81.7124216,
+   "distKm": 16.9,
+   "address": "275 Corporate Way, Orange Park, FL 32073",
+   "tags": {
+    "phone": "+1-904-385-3581",
+    "website": "https://alliedveterinaryspecialists.com",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/4207765345",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.2868201,
+   "lon": -81.4862898,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1118434500",
+   "name": "Banfield Pet Hospital",
+   "lat": 30.2038481,
+   "lon": -81.7564394,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/661462712",
+   "name": "Whitehouse Animal Hospital",
+   "lat": 30.3150347,
+   "lon": -81.8447871,
+   "distKm": 18.2,
+   "address": "11004 Beaver Street West",
+   "tags": {
+    "phone": "+1-904-781-0599",
+    "website": "https://whitehouseah.com/",
+    "opening_hours": "Mo 08:00-19:00; Tu-Fr 08:00-20:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/6644655739",
+   "name": "Saint Bernards Animal Hospital",
+   "lat": 30.1587375,
+   "lon": -81.6336466,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

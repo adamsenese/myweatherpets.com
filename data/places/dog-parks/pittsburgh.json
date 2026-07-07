@@ -1,0 +1,412 @@
+{
+ "$schemaVersion": 1,
+ "city": "pittsburgh",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:32:16.503Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 41,
+ "places": [
+  {
+   "id": "way/664180218",
+   "name": "Downtown Dog Park",
+   "lat": 40.4455031,
+   "lon": -79.9986825,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/348056538",
+   "name": "Bigbee Field",
+   "lat": 40.4278413,
+   "lon": -80.0011972,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/542750617",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4522006,
+   "lon": -80.0068053,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/367361734",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.432198,
+   "lon": -79.9771991,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/552007873",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4522857,
+   "lon": -80.0108873,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/642800805",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.455841,
+   "lon": -79.9818086,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/996637761",
+   "name": "Olympia Dog Park",
+   "lat": 40.4318772,
+   "lon": -80.018358,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/647471592",
+   "name": "The Dog Penn",
+   "lat": 40.4550674,
+   "lon": -79.9778209,
+   "distKm": 2.2,
+   "address": "2614 Penn Avenue, Pittsburgh, PA 15222",
+   "tags": {
+    "dog": "yes",
+    "website": "https://thedogpenn.com/"
+   }
+  },
+  {
+   "id": "way/1528808759",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4282113,
+   "lon": -79.9645206,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/297647034",
+   "name": "Bernard Dog Run",
+   "lat": 40.4697835,
+   "lon": -79.9682409,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://friendsoftheriverfront.org/"
+   }
+  },
+  {
+   "id": "way/1273535157",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4703287,
+   "lon": -79.9678412,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1329137222",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4701927,
+   "lon": -79.9659238,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/476939152",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4213738,
+   "lon": -80.0401689,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/583837979",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4143216,
+   "lon": -80.0330202,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/583521085",
+   "name": "Bark Park",
+   "lat": 40.4182559,
+   "lon": -80.0382132,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/800504931",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3950935,
+   "lon": -80.0454017,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1389338518",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4975184,
+   "lon": -80.0402522,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/338712743",
+   "name": "Off Leash Exercise Area",
+   "lat": 40.4320426,
+   "lon": -79.9062186,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/587030889",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.402494,
+   "lon": -80.0742393,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/561594973",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.5061175,
+   "lon": -80.0416635,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/828476730",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4834475,
+   "lon": -79.911479,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1159718110",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3628191,
+   "lon": -80.017625,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1033579128",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4894398,
+   "lon": -79.9049042,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1284726010",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4290536,
+   "lon": -79.8784696,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1434155070",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3934159,
+   "lon": -80.1028034,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1525201057",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3412584,
+   "lon": -79.9816357,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/479528431",
+   "name": "The Docks Dog Park",
+   "lat": 40.4862521,
+   "lon": -79.8768142,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1298596978",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4251692,
+   "lon": -79.8582464,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://foresthillspa.gov/dog-park/#:~:text=The%20Dog%20Park%20is%20a,during%20a%20ribbon%20cutting%20ceremony."
+   }
+  },
+  {
+   "id": "way/1419723897",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3415429,
+   "lon": -80.0503102,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/919958734",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3377727,
+   "lon": -80.0554276,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/916848984",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3944416,
+   "lon": -80.1347574,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7395563183",
+   "name": "Settlers Cabin Dog Park",
+   "lat": 40.4235379,
+   "lon": -80.155847,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/538105529",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.31346,
+   "lon": -80.0040606,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/737984555",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3064124,
+   "lon": -79.9929315,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/399573538",
+   "name": "Penn Hills Dog Park",
+   "lat": 40.4560477,
+   "lon": -79.8160948,
+   "distKm": 15.3,
+   "address": "754 Jefferson Road, Penn Hills, PA 15235",
+   "tags": {
+    "access": "yes",
+    "website": "pennhills.org"
+   }
+  },
+  {
+   "id": "way/480477323",
+   "name": "Hartwood Acres Dog Park",
+   "lat": 40.569135,
+   "lon": -79.9212619,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1296120140",
+   "name": "Cindy's Memorial Bark Park",
+   "lat": 40.3325267,
+   "lon": -79.8726082,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1179588375",
+   "name": "Bark Park",
+   "lat": 40.3261384,
+   "lon": -80.1151907,
+   "distKm": 16.3,
+   "address": "310 Recreation Road, Bridgeville, PA 15017",
+   "tags": {
+    "website": "https://southfayettepa.com/Facilities/Facility/Details/Bark-Park-OffLeash-Dog-Park-and-Nature-T-17"
+   }
+  },
+  {
+   "id": "way/507335447",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.5206743,
+   "lon": -79.8145017,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/374719853",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6085595,
+   "lon": -80.0169877,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/374719021",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.6185831,
+   "lon": -80.0234401,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

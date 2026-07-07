@@ -1,0 +1,629 @@
+{
+ "$schemaVersion": 1,
+ "city": "brisbane",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:40:49.290Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/125718780",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4737128,
+   "lon": 153.0273843,
+   "distKm": 0.5,
+   "address": "93-105 Margaret Street",
+   "tags": {}
+  },
+  {
+   "id": "way/28867790",
+   "name": "Ivory Street Park",
+   "lat": -27.4600746,
+   "lon": 153.0352891,
+   "distKm": 1.5,
+   "address": "12B McLachlan Street, QLD",
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "node/278704774",
+   "name": "Neal Macrossan Park Dog Off Leash Area",
+   "lat": -27.462329,
+   "lon": 153.0098373,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/27150574",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4542423,
+   "lon": 153.0259448,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/608774500",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4813074,
+   "lon": 153.0397747,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/325835196",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4713313,
+   "lon": 153.0010475,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/24763204",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4803632,
+   "lon": 153.0490752,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/28165529",
+   "name": "Powerhouse Dog Park",
+   "lat": -27.4673572,
+   "lon": 153.0538432,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/13595563",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4436843,
+   "lon": 153.0260736,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/19782185",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4903091,
+   "lon": 153.0427725,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/584802990",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4969375,
+   "lon": 153.0260339,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1384312067",
+   "name": "Waterfront Dog Park",
+   "lat": -27.4486631,
+   "lon": 153.0450699,
+   "distKm": 3.1,
+   "address": "35 Waterloo Street, QLD 4006",
+   "tags": {}
+  },
+  {
+   "id": "way/1395933163",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4403103,
+   "lon": 153.0316996,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/28666829",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4538801,
+   "lon": 153.0546312,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/597584580",
+   "name": "Dog Off-Leash Area",
+   "lat": -27.4872665,
+   "lon": 152.9967501,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/8700638",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4435745,
+   "lon": 153.0063544,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/35422893",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4802276,
+   "lon": 153.0580517,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/23488261",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4494388,
+   "lon": 152.9968352,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/314081504",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5031883,
+   "lon": 153.0265619,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/47174902",
+   "name": "Taringa Dog Park",
+   "lat": -27.4919338,
+   "lon": 152.992302,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/20694709",
+   "name": "Wembley Park Dog off-leash area",
+   "lat": -27.489369,
+   "lon": 153.063463,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1279230538",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.435919,
+   "lon": 153.0482204,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1486732540",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5080187,
+   "lon": 153.0408329,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/918065905",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4581467,
+   "lon": 153.070823,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/28808753",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5118954,
+   "lon": 153.015193,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/37399827",
+   "name": "ANZAC Park Dog Park",
+   "lat": -27.4801804,
+   "lon": 152.9768306,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1122172036",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4290941,
+   "lon": 153.0059333,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1288322948",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5026468,
+   "lon": 152.9909217,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/968327115",
+   "name": "Perth Street Park Dog Park",
+   "lat": -27.4862594,
+   "lon": 153.0759807,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/19792609",
+   "name": "Sunset Park Dog Park",
+   "lat": -27.4516447,
+   "lon": 152.9741896,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "lit": "sunset-19:55",
+    "dog": "yes",
+    "small_dog": "separate",
+    "access": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/28937609",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.421156,
+   "lon": 153.0278062,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/140809233",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4740362,
+   "lon": 153.0793221,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/15046489",
+   "name": "Small dog and puppy area",
+   "lat": -27.4522833,
+   "lon": 152.9741011,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "small_dog": "separate",
+    "access": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/31405586",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5191115,
+   "lon": 153.022311,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes",
+    "dog": "unleashed",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/762760017",
+   "name": "Hercules Street Park Off Leash Dog Area",
+   "lat": -27.4384208,
+   "lon": 153.0690403,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/406417891",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5188611,
+   "lon": 153.0082044,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/21302751",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5195657,
+   "lon": 153.0414637,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1194977470",
+   "name": "Grange Forest Park Dog Off-Leash Area",
+   "lat": -27.4164779,
+   "lon": 153.0215777,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1197554350",
+   "name": "Ascot Dog Park",
+   "lat": -27.4287729,
+   "lon": 153.0626706,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1228752839",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4505402,
+   "lon": 153.0836029,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/16102215",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4149384,
+   "lon": 153.0092375,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/28010665",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4140826,
+   "lon": 153.0039491,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/24340280",
+   "name": "Graceville Dog Park",
+   "lat": -27.5188632,
+   "lon": 152.9862671,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/871778825",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4406465,
+   "lon": 153.084519,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/30756288",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4109246,
+   "lon": 153.0069026,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/855774987",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4651897,
+   "lon": 153.0934994,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/115086677",
+   "name": "Whites Hill Reserve Dog Off Leash Area",
+   "lat": -27.5146563,
+   "lon": 153.0741418,
+   "distKm": 6.9,
+   "address": "Boundary Road",
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/960905913",
+   "name": "Green Hill Dog Off Leash Area",
+   "lat": -27.49565,
+   "lon": 152.9582496,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/960905912",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4947475,
+   "lon": 152.9564466,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "dog": "leashed"
+   }
+  },
+  {
+   "id": "way/1192032862",
+   "name": "Dog off-leash area",
+   "lat": -27.5238772,
+   "lon": 153.0676712,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/28339434",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4517415,
+   "lon": 152.9525224,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/488792552",
+   "name": "Off Leash Dog Area",
+   "lat": -27.4064258,
+   "lon": 153.0508842,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/30472938",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4013652,
+   "lon": 153.0397748,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/304182723",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5355682,
+   "lon": 152.9935459,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/549549224",
+   "name": "Bradbury Park Dog Off-Leash Area",
+   "lat": -27.3990278,
+   "lon": 153.0275754,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19115925",
+   "name": "Everton Park Dog Off-Leash Area",
+   "lat": -27.4078479,
+   "lon": 152.9829306,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/42978685",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4009622,
+   "lon": 153.0561563,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/345540385",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.4840959,
+   "lon": 152.9397521,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "relation/13887383",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.5464926,
+   "lon": 153.0373344,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/31099300",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": -27.391498,
+   "lon": 153.0045819,
+   "distKm": 8.9,
+   "address": "Rode Road, QLD 4053",
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

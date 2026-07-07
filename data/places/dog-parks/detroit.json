@@ -1,0 +1,245 @@
+{
+ "$schemaVersion": 1,
+ "city": "detroit",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:27:19.364Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 23,
+ "places": [
+  {
+   "id": "way/380515198",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3326692,
+   "lon": -83.0493151,
+   "distKm": 0.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5964304324",
+   "name": "Grand Circus Dog Park",
+   "lat": 42.3373468,
+   "lon": -83.0497466,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/358449312",
+   "name": "Midtown Dog Park",
+   "lat": 42.3514751,
+   "lon": -83.0644904,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/383219183",
+   "name": "Macomb Park",
+   "lat": 42.3297587,
+   "lon": -83.0798057,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/777948800",
+   "name": "Riverside Park Dog Park",
+   "lat": 42.3135108,
+   "lon": -83.0806342,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/396306751",
+   "name": "Barkside Detroit",
+   "lat": 42.3580326,
+   "lon": -83.0001402,
+   "distKm": 4.8,
+   "address": "7968 Kercheval Street, Detroit, MI 48214",
+   "tags": {
+    "website": "https://www.barksidedogbar.com/"
+   }
+  },
+  {
+   "id": "way/653294405",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3127191,
+   "lon": -82.9898132,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1047738260",
+   "name": "New Center Dog Park",
+   "lat": 42.369632,
+   "lon": -83.0800775,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1422358822",
+   "name": "Optimist Memorial Dog Park",
+   "lat": 42.2913303,
+   "lon": -82.9999213,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/570021103",
+   "name": "Small DogPark",
+   "lat": 42.2853597,
+   "lon": -83.0048787,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13040186915",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.2768958,
+   "lon": -83.0600499,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/570020827",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.2851024,
+   "lon": -83.0044931,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/721615038",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.2598508,
+   "lon": -82.9814135,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "node/12864881441",
+   "name": "Elizabeth Kishkon Dog Park",
+   "lat": 42.3245903,
+   "lon": -82.9051924,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/12864970075",
+   "name": "Tecumseh Dog Park",
+   "lat": 42.3134259,
+   "lon": -82.8904314,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/753589741",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3135063,
+   "lon": -82.8905897,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1025011596",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.3120119,
+   "lon": -83.2018317,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1039482270",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4182057,
+   "lon": -82.9225988,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/543757201",
+   "name": "Grosse Pointe Farms Dog Park",
+   "lat": 42.4150807,
+   "lon": -82.9090431,
+   "distKm": 14.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468556805",
+   "name": "Ferndale Dog Park",
+   "lat": 42.4565172,
+   "lon": -83.1233945,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1059876409",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4721985,
+   "lon": -83.0949288,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1423912645",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 42.4560808,
+   "lon": -83.1716263,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/619023553",
+   "name": "Pleasant Ridge Dog Park",
+   "lat": 42.4751328,
+   "lon": -83.1374767,
+   "distKm": 17.7,
+   "address": "Pleasant Ridge, MI 48069",
+   "tags": {
+    "barrier": "fence"
+   }
+  }
+ ]
+}

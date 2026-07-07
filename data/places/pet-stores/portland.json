@@ -1,0 +1,734 @@
+{
+ "$schemaVersion": 1,
+ "city": "portland",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:27:32.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/6894747037",
+   "name": "Mud Bay",
+   "lat": 45.5262549,
+   "lon": -122.687712,
+   "distKm": 1.4,
+   "address": "1616 Northwest Glisan Street, Portland, OR 97209",
+   "tags": {
+    "website": "https://www.mudbay.com/on/demandware.store/Sites-MudBay-Site/default/Stores-StoreDetails?storeID=037",
+    "opening_hours": "Mo-Fr 10:00-19:30; Sa-Su 09:00-19:00",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "way/421930135",
+   "name": "Nature's Pet",
+   "lat": 45.5238705,
+   "lon": -122.6947577,
+   "distKm": 1.6,
+   "address": "111 Northwest 21st Avenue, Portland, OR 97209",
+   "tags": {
+    "website": "https://naturespetmarket.com/"
+   }
+  },
+  {
+   "id": "node/9570915471",
+   "name": "Three Paws",
+   "lat": 45.5003633,
+   "lon": -122.6719733,
+   "distKm": 1.7,
+   "address": "3147 South Moody Avenue, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-719-5204",
+    "website": "https://threepawspetsupply.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6479490398",
+   "name": "Unleashed",
+   "lat": 45.5237172,
+   "lon": -122.6988233,
+   "distKm": 1.9,
+   "address": "2303 West Burnside Street, Portland, OR 97210",
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "way/223610620",
+   "name": "Dogs Dig It",
+   "lat": 45.5141382,
+   "lon": -122.6538745,
+   "distKm": 1.9,
+   "address": "1132 Southeast Salmon Street",
+   "tags": {}
+  },
+  {
+   "id": "node/7141985844",
+   "name": "Hip Hound",
+   "lat": 45.527219,
+   "lon": -122.69833,
+   "distKm": 2,
+   "address": "610 Northwest 23rd Avenue, Portland, 97210",
+   "tags": {}
+  },
+  {
+   "id": "node/13879372201",
+   "name": "Good Dog PDX",
+   "lat": 45.519436,
+   "lon": -122.6512406,
+   "distKm": 2.2,
+   "address": "1411 Southeast Stark Street, 97214",
+   "tags": {
+    "phone": "+1-503-477-9101",
+    "website": "https://gooddogpdx.com/",
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6737692804",
+   "name": "Healthy Pets Northwest",
+   "lat": 45.5120047,
+   "lon": -122.6478012,
+   "distKm": 2.4,
+   "address": "1736 Southeast Hawthorne Boulevard, Portland, 97214",
+   "tags": {
+    "phone": "+1-503-236-8036",
+    "website": "https://healthypetsnw.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/6318972243",
+   "name": "Meat for Cats and Dogs",
+   "lat": 45.5227312,
+   "lon": -122.642704,
+   "distKm": 2.9,
+   "address": "2244 East Burnside Street, Portland, OR 97214",
+   "tags": {
+    "website": "https://meatforcatsanddogs.com/"
+   }
+  },
+  {
+   "id": "way/40995522",
+   "name": "HISSS",
+   "lat": 45.5380592,
+   "lon": -122.6613433,
+   "distKm": 2.9,
+   "address": "2106 Northeast Martin Luther King Junior Boulevard, Portland, OR 97212",
+   "tags": {
+    "website": "http://www.hisssthereptileshop.com/"
+   }
+  },
+  {
+   "id": "way/423280512",
+   "name": "Mud Bay",
+   "lat": 45.5118373,
+   "lon": -122.633215,
+   "distKm": 3.5,
+   "address": "3130 Southeast Hawthorne Boulevard, Portland, OR 97214",
+   "tags": {
+    "website": "https://www.mudbay.com/pet-store/HAW-hawthorne-WA"
+   }
+  },
+  {
+   "id": "node/13153171711",
+   "name": "Mud Bay",
+   "lat": 45.5470213,
+   "lon": -122.6668829,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/8921123520",
+   "name": "For Paws PDX",
+   "lat": 45.5046842,
+   "lon": -122.6307987,
+   "distKm": 3.9,
+   "address": "3340 Southeast Division Street, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-235-3204",
+    "website": "https://forpawspdx.com/"
+   }
+  },
+  {
+   "id": "way/39241791",
+   "name": "Pets on Broadway",
+   "lat": 45.5349262,
+   "lon": -122.6369911,
+   "distKm": 3.9,
+   "address": "2762 Northeast Broadway, Portland, OR",
+   "tags": {
+    "phone": "+1 503 282 5824",
+    "website": "https://petsonbroadway.com/",
+    "opening_hours": "08:00-21:00"
+   }
+  },
+  {
+   "id": "way/421511800",
+   "name": "LexiDog",
+   "lat": 45.4974974,
+   "lon": -122.6347383,
+   "distKm": 3.9,
+   "address": "2929 Southeast Powell Boulevard, Portland, OR 97202",
+   "tags": {
+    "website": "https://www.lexidog.com/"
+   }
+  },
+  {
+   "id": "way/310789822",
+   "name": "Pet Loft",
+   "lat": 45.4785066,
+   "lon": -122.6728414,
+   "distKm": 4.1,
+   "address": "6333 South Macadam Avenue, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-244-9538",
+    "website": "http://www.petloft.net/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/3686316613",
+   "name": "Mud Bay",
+   "lat": 45.5349843,
+   "lon": -122.631872,
+   "distKm": 4.2,
+   "address": "3230 Northeast Broadway, Portland, 97232",
+   "tags": {
+    "phone": "+1 503 282 1316",
+    "opening_hours": "Mo-Fr 19:30-10:00, Sa,Su,PH 19:00-09:00",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "way/289684227",
+   "name": "All Paws",
+   "lat": 45.4789568,
+   "lon": -122.6946506,
+   "distKm": 4.2,
+   "address": "6325 Southwest Capitol Highway, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-452-7023",
+    "opening_hours": "Mo-Fr 11:00-19:00; Tu off; We off; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/528933893",
+   "name": "Salty's",
+   "lat": 45.5527993,
+   "lon": -122.6757255,
+   "distKm": 4.2,
+   "address": "4039 North Mississippi Avenue, Portland, OR 97227",
+   "tags": {
+    "phone": "+1-503-249-1432",
+    "website": "https://www.saltyspetsupply.com/",
+    "opening_hours": "Mo-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "way/336854717",
+   "name": "Cuttle Fish and Corals",
+   "lat": 45.4784199,
+   "lon": -122.6961654,
+   "distKm": 4.3,
+   "address": "6363 Southwest Capitol Highway, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-971-302-1347",
+    "website": "https://www.cuttlefishandcorals.com/",
+    "opening_hours": "Mo-Fr 12:00-19:00; Sa 11:00-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "way/409632698",
+   "name": "Backyard Bird Shop",
+   "lat": 45.5485673,
+   "lon": -122.6515689,
+   "distKm": 4.3,
+   "address": "1419 Northeast Fremont Street, Portland, OR 97212",
+   "tags": {
+    "phone": "+1-503-445-2699",
+    "website": "https://backyardbirdshop.com/",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/5870209643",
+   "name": "The Tropical Hut",
+   "lat": 45.5046819,
+   "lon": -122.6202189,
+   "distKm": 4.7,
+   "address": "4106 Southeast Division Street, Portland, OR 97202",
+   "tags": {
+    "website": "http://thetropicalhut.com/"
+   }
+  },
+  {
+   "id": "node/6865242206",
+   "name": "Wild",
+   "lat": 45.54835,
+   "lon": -122.6412722,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/369042050",
+   "name": "Portland Pet Supply",
+   "lat": 45.5118216,
+   "lon": -122.618599,
+   "distKm": 4.7,
+   "address": "4242 Southeast Hawthorne Boulevard, Portland, OR 97215",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:30-17:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "way/421376692",
+   "name": "Unleashed",
+   "lat": 45.4967969,
+   "lon": -122.6232856,
+   "distKm": 4.8,
+   "address": "3828 Southeast Powell Boulevard, Portland, OR 97202",
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/3728688673",
+   "name": "Oh Paws",
+   "lat": 45.5166658,
+   "lon": -122.6141913,
+   "distKm": 5,
+   "address": "4717 Southeast Belmont Street, Portland, 97215",
+   "tags": {
+    "website": "https://www.ohpawspdx.com/"
+   }
+  },
+  {
+   "id": "node/3994426755",
+   "name": "Acquatic Maintenance",
+   "lat": 45.5353059,
+   "lon": -122.6197937,
+   "distKm": 5.1,
+   "address": "1710 Northeast 42nd Avenue, Portland, 97213",
+   "tags": {
+    "phone": "+1 503 282 0853"
+   }
+  },
+  {
+   "id": "node/3657235168",
+   "name": "Wet Spot Tropical Fish",
+   "lat": 45.536421,
+   "lon": -122.6185356,
+   "distKm": 5.2,
+   "address": "4310 Northeast Hancock Street, Portland, OR 97213",
+   "tags": {
+    "phone": "+1-503-287-3339",
+    "website": "https://www.wetspottropicalfish.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/4551594243",
+   "name": "NoPo Paws",
+   "lat": 45.5626071,
+   "lon": -122.6897551,
+   "distKm": 5.3,
+   "address": "2148 North Killingsworth Street, Portland, OR 97217",
+   "tags": {}
+  },
+  {
+   "id": "way/411902693",
+   "name": "The Filling Station",
+   "lat": 45.5592304,
+   "lon": -122.644705,
+   "distKm": 5.6,
+   "address": "2001 Northeast Alberta Street, Portland, OR 97211",
+   "tags": {
+    "phone": "+1-503-249-6571",
+    "website": "https://tfspets.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "way/297643960",
+   "name": "Healthy Pets Northwest",
+   "lat": 45.4680743,
+   "lon": -122.7145684,
+   "distKm": 6,
+   "address": "3612 Southwest Troy Street, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-971-222-2686",
+    "website": "https://healthypetsnw.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "way/351734748",
+   "name": "Pretty Paws & Claws",
+   "lat": 45.4631792,
+   "lon": -122.6533026,
+   "distKm": 6.1,
+   "address": "8235 Southeast 13th Avenue, Portland, OR 97202",
+   "tags": {
+    "website": "https://prettypawsandclaws.webs.com/"
+   }
+  },
+  {
+   "id": "way/459788576",
+   "name": "Healthy Pets Northwest",
+   "lat": 45.480453,
+   "lon": -122.6168207,
+   "distKm": 6.2,
+   "address": "4435 Southeast Woodstock Boulevard, Portland, OR 97206",
+   "tags": {
+    "phone": "+1-503-889-0789",
+    "website": "https://healthypetsnw.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/4001273725",
+   "name": "Sellwood Pet Supply",
+   "lat": 45.4623563,
+   "lon": -122.6468073,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "website": "http://www.sellwoodpetsupply.com"
+   }
+  },
+  {
+   "id": "way/266494947",
+   "name": "Western Pet Supply",
+   "lat": 45.4854484,
+   "lon": -122.7484671,
+   "distKm": 6.4,
+   "address": "6908 Southwest Beaverton Hillsdale Highway, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-503-297-6644",
+    "website": "https://westernpetpdx.com/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/39986442",
+   "name": "Mud Bay",
+   "lat": 45.5630572,
+   "lon": -122.6309893,
+   "distKm": 6.5,
+   "address": "3275 Northeast Killingsworth Street, Portland, OR 97211",
+   "tags": {
+    "phone": "+1 503 575 7808",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "way/271947298",
+   "name": "Petco",
+   "lat": 45.5267365,
+   "lon": -122.5947834,
+   "distKm": 6.6,
+   "address": "6655 Northeast Glisan Street, Portland, OR 97213",
+   "tags": {
+    "phone": "+1 503-231-2466",
+    "website": "https://stores.petco.com/or/portland/pet-supplies-portland-or-1224.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13706969789",
+   "name": "Fang!",
+   "lat": 45.5772928,
+   "lon": -122.6987122,
+   "distKm": 7.1,
+   "address": "3131 North Lombard Street",
+   "tags": {
+    "opening_hours": "Mo-Su 06:00-01:00"
+   }
+  },
+  {
+   "id": "way/440447655",
+   "name": "The World of Wet Pets",
+   "lat": 45.4853768,
+   "lon": -122.7651864,
+   "distKm": 7.5,
+   "address": "8542 Southwest Apple Way, Portland, OR 97225",
+   "tags": {
+    "phone": "+1-503-292-7946",
+    "website": "https://worldofwetpets.com/",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/3724010103",
+   "name": "Personal Beast",
+   "lat": 45.5192653,
+   "lon": -122.5800633,
+   "distKm": 7.7,
+   "address": "8119 Southeast Stark Street, Portland, 97215",
+   "tags": {
+    "website": "https://www.montavillapetsupply.com/"
+   }
+  },
+  {
+   "id": "node/12988395854",
+   "name": "Mud Bay",
+   "lat": 45.4662578,
+   "lon": -122.7512172,
+   "distKm": 7.9,
+   "address": "7221 Southwest Garden Home Road, Portland, OR 97223",
+   "tags": {
+    "website": "https://www.mudbay.com/on/demandware.store/Sites-MudBay-Site/default/Stores-StoreDetails?storeID=077",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "node/11608688412",
+   "name": "Happy Tails Pet Center",
+   "lat": 45.4474444,
+   "lon": -122.6174372,
+   "distKm": 8.9,
+   "address": "4370 Southeast King Road, Milwaukie, OR 97222",
+   "tags": {}
+  },
+  {
+   "id": "way/294115237",
+   "name": "Mud Bay",
+   "lat": 45.4336897,
+   "lon": -122.7023108,
+   "distKm": 9.3,
+   "address": "3 Monroe Parkway, Lake Oswego, OR 97035",
+   "tags": {
+    "phone": "+1-503-387-5659",
+    "website": "https://www.mudbay.com/on/demandware.store/Sites-MudBay-Site/default/Stores-StoreDetails?storeID=036",
+    "opening_hours": "Mo-Fr 10:00-19:30; Sa-Su 09:00-19:00",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "way/358037734",
+   "name": "Backyard Bird Shop",
+   "lat": 45.4882957,
+   "lon": -122.7952674,
+   "distKm": 9.6,
+   "address": "11429 Southwest Beaverton Hillsdale Highway, Beaverton, OR 97005",
+   "tags": {
+    "phone": "+1-503-626-0949",
+    "website": "https://backyardbirdshop.com/"
+   }
+  },
+  {
+   "id": "way/403181711",
+   "name": "Mud Bay",
+   "lat": 45.5215232,
+   "lon": -122.8017627,
+   "distKm": 9.6,
+   "address": "11830 Northwest Cedar Falls Drive, Portland, OR 97229",
+   "tags": {
+    "website": "https://www.mudbay.com/on/demandware.store/Sites-MudBay-Site/default/Stores-StoreDetails?storeID=040",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "way/70653610",
+   "name": "Mud Bay",
+   "lat": 45.4883114,
+   "lon": -122.7972702,
+   "distKm": 9.7,
+   "address": "11715 Southwest Beaverton Hillsdale Highway, Beaverton, OR 97005",
+   "tags": {
+    "phone": "+1 503 207 6260",
+    "website": "https://www.mudbay.com/store/?-BTS/",
+    "opening_hours": "Mo-Fr 09:30-20:30; Sa-Su 09:00-19:30",
+    "brand": "Mud Bay"
+   }
+  },
+  {
+   "id": "way/96742040",
+   "name": "Petco",
+   "lat": 45.4902123,
+   "lon": -122.7983892,
+   "distKm": 9.8,
+   "address": "4037 Southwest 117th Avenue, Beaverton, OR 97005",
+   "tags": {
+    "phone": "+1 503-644-6558",
+    "website": "https://stores.petco.com/or/beaverton/pet-supplies-beaverton-or-251.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/354397586",
+   "name": "House of Reptiles",
+   "lat": 45.4420815,
+   "lon": -122.7489475,
+   "distKm": 9.8,
+   "address": "11507 Southwest Pacific Highway, Tigard, OR 97223",
+   "tags": {
+    "website": "http://house-of-reptiles.com/"
+   }
+  },
+  {
+   "id": "way/168626439",
+   "name": "PetSmart",
+   "lat": 45.5016261,
+   "lon": -122.8039906,
+   "distKm": 9.9,
+   "address": "12375 Southwest Walker Road, Beaverton, OR 97005",
+   "tags": {
+    "phone": "+1 503-644-7901",
+    "website": "https://www.petsmart.com/stores/us/or/beaverton-store0384.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13990441701",
+   "name": "Nature’s Pet Market St. Johns",
+   "lat": 45.5896477,
+   "lon": -122.7501589,
+   "distKm": 10,
+   "address": "8169 North Lombard Street, 97203",
+   "tags": {
+    "phone": "+1-503-572-5720",
+    "website": "http://stjohns.naturespetmarket.com"
+   }
+  },
+  {
+   "id": "node/5821369550",
+   "name": "Tré Bone",
+   "lat": 45.5894185,
+   "lon": -122.7526494,
+   "distKm": 10.1,
+   "address": "8326 North Lombard Street, Portland, OR 97203",
+   "tags": {
+    "phone": "+1-971-255-0722",
+    "website": "https://www.trebonepetsupply.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6325878320",
+   "name": "Pet Barn",
+   "lat": 45.5260118,
+   "lon": -122.807541,
+   "distKm": 10.1,
+   "address": "12675 Northwest Cornell Road, Portland, OR 97229",
+   "tags": {
+    "website": "https://www.petbarnpdx.com/"
+   }
+  },
+  {
+   "id": "way/368974099",
+   "name": "Bird Hut, Inc.",
+   "lat": 45.5044077,
+   "lon": -122.5469433,
+   "distKm": 10.3,
+   "address": "11249 Southeast Division Street, Portland, OR 97266",
+   "tags": {
+    "website": "https://www.birdhutinc.com/"
+   }
+  },
+  {
+   "id": "way/116428249",
+   "name": "PetSmart",
+   "lat": 45.4548456,
+   "lon": -122.5766366,
+   "distKm": 10.4,
+   "address": "9450 Southeast 82nd Avenue, Happy Valley, OR 97086",
+   "tags": {
+    "phone": "+1-503-777-0176",
+    "website": "https://www.petsmart.com/stores/us/or/portland-store0385.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/72022698",
+   "name": "PetSmart",
+   "lat": 45.4352239,
+   "lon": -122.7525835,
+   "distKm": 10.6,
+   "address": "7501 Southwest Dartmouth Street, Tigard, OR 97223",
+   "tags": {
+    "phone": "+1 503-684-3234",
+    "website": "https://www.petsmart.com/stores/us/or/tigard-store0387.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/55741475",
+   "name": "LexiDog",
+   "lat": 45.4194403,
+   "lon": -122.6670213,
+   "distKm": 10.7,
+   "address": "366 Third Street, Lake Oswego, OR 97034",
+   "tags": {
+    "phone": "+1-503-635-3733",
+    "website": "https://www.lexidog.com/",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "way/372432535",
+   "name": "Petco",
+   "lat": 45.4372599,
+   "lon": -122.7584177,
+   "distKm": 10.7,
+   "address": "11705 Southwest Pacific Highway, Tigard, OR 97223",
+   "tags": {
+    "phone": "+1 503-684-0648",
+    "website": "https://stores.petco.com/or/tigard/pet-supplies-tigard-or-212.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/496408326",
+   "name": "PetSmart",
+   "lat": 45.4561318,
+   "lon": -122.7865063,
+   "distKm": 10.7,
+   "address": "8825 Southwest Cascade Avenue, Beaverton, OR 97008",
+   "tags": {
+    "phone": "+1 503-644-3091",
+    "website": "https://www.petsmart.com/stores/us/or/beaverton-store1532.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/405964610",
+   "name": "Holistic Pet",
+   "lat": 45.5283808,
+   "lon": -122.8154653,
+   "distKm": 10.8,
+   "address": "13567 Northwest Cornell Road, Portland, OR 97229",
+   "tags": {
+    "website": "http://holisticpetclub.com/"
+   }
+  },
+  {
+   "id": "way/101926899",
+   "name": "Petco",
+   "lat": 45.5029983,
+   "lon": -122.5395429,
+   "distKm": 10.9,
+   "address": "12020 Southeast Division Street, Portland, OR 97266",
+   "tags": {
+    "phone": "+1-503-889-9171",
+    "website": "https://stores.petco.com/or/portland/pet-supplies-portland-or-1288.html",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

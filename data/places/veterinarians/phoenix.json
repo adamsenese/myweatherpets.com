@@ -1,0 +1,403 @@
+{
+ "$schemaVersion": 1,
+ "city": "phoenix",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:21:30.421Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 41,
+ "places": [
+  {
+   "id": "way/153021618",
+   "name": "North Kenilworth Veterinary Care",
+   "lat": 33.4660323,
+   "lon": -112.0800607,
+   "distKm": 2,
+   "address": "342 West McDowell Road, Phoenix, AZ 85003",
+   "tags": {}
+  },
+  {
+   "id": "node/9421652866",
+   "name": "Phoenix Dog/Cat/Bird Hospital",
+   "lat": 33.4883389,
+   "lon": -112.0835857,
+   "distKm": 4.5,
+   "address": "3418 North 7th Avenue",
+   "tags": {
+    "phone": "+1-602-274-0561",
+    "website": "https://phxveterinarian.com/index.cfm",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "way/953553269",
+   "name": "Animal Care Hospital of Phoenix",
+   "lat": 33.4801466,
+   "lon": -112.0139104,
+   "distKm": 6.6,
+   "address": "3131 East Thomas Road, Phoenix, AZ 85016",
+   "tags": {}
+  },
+  {
+   "id": "way/427919440",
+   "name": "Christown Animal Hospital and Boarding",
+   "lat": 33.5117237,
+   "lon": -112.0994899,
+   "distKm": 7.4,
+   "address": "5103 North 19th Avenue, Phoenix, AZ",
+   "tags": {}
+  },
+  {
+   "id": "node/12762847344",
+   "name": "BluePearl",
+   "lat": 33.4954683,
+   "lon": -112.0148981,
+   "distKm": 7.6,
+   "address": "East Indian School Road, Phoenix, AZ 85016",
+   "tags": {}
+  },
+  {
+   "id": "node/13574555480",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.5112063,
+   "lon": -112.0138573,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10286870102",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.3759702,
+   "lon": -112.0281119,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-602-232-6007",
+    "website": "https://www.banfield.com/locations/veterinarians/az/phoenix/smt?utm_source=yext&utm_medium=yext&utm_campaign=yext&cid=yext_local",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/10138642129",
+   "name": "Dobbins Village Veterinary Hospital",
+   "lat": 33.3789539,
+   "lon": -112.1348283,
+   "distKm": 9.6,
+   "address": "3536 West Baseline Road, Phoenix, AZ 85339",
+   "tags": {}
+  },
+  {
+   "id": "node/10286870865",
+   "name": "Phoenix Veterinary Center",
+   "lat": 33.3789408,
+   "lon": -112.0111186,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/951848841",
+   "name": "Ingleside Animal Hospital",
+   "lat": 33.47939,
+   "lon": -111.976135,
+   "distKm": 9.7,
+   "address": "4855 East Thomas Road, Phoenix, AZ 85018",
+   "tags": {}
+  },
+  {
+   "id": "node/12557755362",
+   "name": "Lovet Pet Health Care - Madison",
+   "lat": 33.5378667,
+   "lon": -112.0660523,
+   "distKm": 10,
+   "address": "531 East Glendale Avenue, Phoenix, AZ 85020",
+   "tags": {
+    "website": "https://www.lovet.com/locations/az/phoenix/539-e-glendale-avenue/"
+   }
+  },
+  {
+   "id": "way/151902047",
+   "name": "Harmony Veterinary Hospital",
+   "lat": 33.5382087,
+   "lon": -112.097258,
+   "distKm": 10.2,
+   "address": "1745 West Glendale Avenue, Phoenix, AZ 85021",
+   "tags": {}
+  },
+  {
+   "id": "way/1419077976",
+   "name": "Laveen Veterinary Center",
+   "lat": 33.3766142,
+   "lon": -112.1516604,
+   "distKm": 10.8,
+   "address": "7700 South 43rd Avenue, Phoenix, AZ 85339",
+   "tags": {}
+  },
+  {
+   "id": "way/33262131",
+   "name": "Palo Verde Animal Hospital",
+   "lat": 33.5527297,
+   "lon": -112.0559902,
+   "distKm": 11.7,
+   "address": "1215 East Northern Avenue, Phoenix, AZ 85020-4216",
+   "tags": {}
+  },
+  {
+   "id": "node/8070423688",
+   "name": "South Point Animal Clinic",
+   "lat": 33.3796514,
+   "lon": -111.9777492,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/224009449",
+   "name": "VCA University Animal Hospital",
+   "lat": 33.4019168,
+   "lon": -111.9528536,
+   "distKm": 12.4,
+   "address": "2500 South Hardy Drive, Tempe, AZ 85282",
+   "tags": {}
+  },
+  {
+   "id": "way/938151151",
+   "name": "Tempe Veterinary Hospital",
+   "lat": 33.3925067,
+   "lon": -111.9450054,
+   "distKm": 13.5,
+   "address": "329 West Southern Avenue, Tempe, AZ 85282",
+   "tags": {}
+  },
+  {
+   "id": "way/668591176",
+   "name": "Catalina Animal Hospital",
+   "lat": 33.5683287,
+   "lon": -112.1338536,
+   "distKm": 14.4,
+   "address": "9023 North 35th Avenue, Phoenix, AZ 85051",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-10:00,13:00-16:00; We off; Sa 08:00-11:00"
+   }
+  },
+  {
+   "id": "node/10582113652",
+   "name": "Western Animal Hospital",
+   "lat": 33.5528731,
+   "lon": -112.1680181,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/916544625",
+   "name": "Western Animal Hospital",
+   "lat": 33.5533448,
+   "lon": -112.1696193,
+   "distKm": 14.7,
+   "address": "West Northern Avenue, Glendale, AZ 85301",
+   "tags": {}
+  },
+  {
+   "id": "way/1126118790",
+   "name": "Good Doctor Veterinary Care",
+   "lat": 33.3786049,
+   "lon": -111.9359125,
+   "distKm": 15,
+   "address": "220 East Baseline Road, Tempe, AZ 85283",
+   "tags": {}
+  },
+  {
+   "id": "way/244745110",
+   "name": "Westridge Animal Hospital",
+   "lat": 33.5076855,
+   "lon": -112.2201596,
+   "distKm": 15.1,
+   "address": "4801 North 75th Avenue, Phoenix, AZ 85033",
+   "tags": {}
+  },
+  {
+   "id": "node/3060528281",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.5513666,
+   "lon": -112.1822998,
+   "distKm": 15.2,
+   "address": "5707 West Northern Avenue, Glendale, AZ 85301",
+   "tags": {
+    "website": "https://www.banfield.com/",
+    "opening_hours": "Mo-Sa 08:00-19:00"
+   }
+  },
+  {
+   "id": "node/5097374162",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.3508005,
+   "lon": -111.9573099,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4186098340",
+   "name": "Scottsdale Cat Clinic",
+   "lat": 33.4941448,
+   "lon": -111.9177747,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10234824215",
+   "name": "Ahwatukee Commons Veterinary Hospital",
+   "lat": 33.3320396,
+   "lon": -111.9791697,
+   "distKm": 15.7,
+   "address": "4902 East Warner Road, Phoenix, AZ 85044",
+   "tags": {}
+  },
+  {
+   "id": "way/546203697",
+   "name": "Adobe Animal Hospital",
+   "lat": 33.495288,
+   "lon": -111.9146293,
+   "distKm": 15.7,
+   "address": "7712 East Indian School Road, Scottsdale, AZ 85251",
+   "tags": {}
+  },
+  {
+   "id": "way/992745347",
+   "name": "Aztec Animal Hospital",
+   "lat": 33.4662427,
+   "lon": -111.9050865,
+   "distKm": 15.8,
+   "address": "8140 East McDowell Road, Scottsdale, AZ 85257",
+   "tags": {}
+  },
+  {
+   "id": "way/1478731140",
+   "name": "South Mountain Vet Clinic",
+   "lat": 33.3170426,
+   "lon": -112.0039977,
+   "distKm": 16,
+   "address": "Phoenix, AZ 85044",
+   "tags": {}
+  },
+  {
+   "id": "node/11914741806",
+   "name": "VCA Tri City Animal Hospital",
+   "lat": 33.4069968,
+   "lon": -111.9072192,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7277563944",
+   "name": "Banfield Pet Hospital",
+   "lat": 33.4300038,
+   "lon": -111.901069,
+   "distKm": 16.2,
+   "address": "1900 East Rio Salado Parkway, Tempe, AZ 85281",
+   "tags": {}
+  },
+  {
+   "id": "node/8666022004",
+   "name": "Topaz Veterinary Clinic",
+   "lat": 33.3938366,
+   "lon": -111.9083935,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/941111054",
+   "name": "Larkspur Cat Clinic",
+   "lat": 33.5961487,
+   "lon": -112.1216875,
+   "distKm": 17,
+   "address": "2915 West Cactus Road, Phoenix, AZ",
+   "tags": {}
+  },
+  {
+   "id": "node/10674637365",
+   "name": "Family VetCare of Phoenix",
+   "lat": 33.3063109,
+   "lon": -111.9997166,
+   "distKm": 17.2,
+   "address": "3908 East Chandler Boulevard, Phoenix, AZ 85048",
+   "tags": {}
+  },
+  {
+   "id": "way/66604859",
+   "name": "Phoenix Veterinary",
+   "lat": 33.5967752,
+   "lon": -111.9954062,
+   "distKm": 18,
+   "address": "4015 East Cactus Road, Phoenix, AZ 85028",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/941051089",
+   "name": "43rd Avenue Animal Hospital",
+   "lat": 33.5966206,
+   "lon": -112.1537917,
+   "distKm": 18.1,
+   "address": "4426 West Cactus Road, Glendale, AZ 85304",
+   "tags": {
+    "phone": "+1-602-843-5452",
+    "website": "https://www.43aah.com",
+    "opening_hours": "Mo-Fr 07:00-18:00"
+   }
+  },
+  {
+   "id": "node/8315760226",
+   "name": "VCA Elliot Park Animal Hospital",
+   "lat": 33.3506311,
+   "lon": -111.9133682,
+   "distKm": 18.5,
+   "address": "1700 East Elliot Road, Tempe, AZ 85284",
+   "tags": {
+    "phone": "+1-480-838-8700"
+   }
+  },
+  {
+   "id": "way/895667367",
+   "name": "Primary Pet Care",
+   "lat": 33.3789735,
+   "lon": -111.891958,
+   "distKm": 18.6,
+   "address": "2650 West Baseline Road, Mesa, AZ 85202",
+   "tags": {}
+  },
+  {
+   "id": "node/10160673629",
+   "name": "Spay & Neuter Clinic",
+   "lat": 33.5111706,
+   "lon": -112.2670288,
+   "distKm": 19.2,
+   "address": "5156 North 95th Avenue, Glendale, AZ 85305",
+   "tags": {}
+  },
+  {
+   "id": "way/581362649",
+   "name": "Neighborhood Veterinary Clinic",
+   "lat": 33.3625513,
+   "lon": -111.8925862,
+   "distKm": 19.4,
+   "address": "2860 South Carriage Lane, Mesa, AZ 85202",
+   "tags": {}
+  },
+  {
+   "id": "node/11311097833",
+   "name": "Camelwest Animal Hospital",
+   "lat": 33.5075394,
+   "lon": -112.2772517,
+   "distKm": 20,
+   "address": "10045 West Camelback Road, Phoenix, AZ 85037",
+   "tags": {}
+  }
+ ]
+}

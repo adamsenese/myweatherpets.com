@@ -1,0 +1,601 @@
+{
+ "$schemaVersion": 1,
+ "city": "dublin",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:38:32.533Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 54,
+ "places": [
+  {
+   "id": "way/660054531",
+   "name": "Village Vets",
+   "lat": 53.3612463,
+   "lon": -6.2828761,
+   "distKm": 2,
+   "address": "87 Cabra Road, Dublin",
+   "tags": {}
+  },
+  {
+   "id": "way/314233864",
+   "name": "Fairview Veterinary Hospital",
+   "lat": 53.3628989,
+   "lon": -6.2375254,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/973344616",
+   "name": "Cara Veterinary Clinic",
+   "lat": 53.3522671,
+   "lon": -6.2982432,
+   "distKm": 2.5,
+   "address": "1a North Circular Road, D07 HE48",
+   "tags": {
+    "phone": "+353 1 838 8338",
+    "website": "https://www.caravetgroup.com/",
+    "opening_hours": "Mo 11:30-12:30, 15:30-19:00, Tu-Th 11:30-12:30, 16:00-19:00, Fr 11:30-12:30, 16:30-19:00, Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/968293507",
+   "name": "Botanic Veterinary Hospital",
+   "lat": 53.3723575,
+   "lon": -6.2685688,
+   "distKm": 2.6,
+   "address": "183 Botanic Road, Dublin",
+   "tags": {
+    "phone": "+353 1 837 55 43",
+    "website": "https://www.anicare.ie/our-locations/botanic-veterinary-hospital/",
+    "opening_hours": "Mo-Fr 09:00-19:30; Sa 09:30-12:00,14:00-16:30; PH,Su 10:00-12:00"
+   }
+  },
+  {
+   "id": "way/661632322",
+   "name": "Clontarf Vetinary Hospital",
+   "lat": 53.3673934,
+   "lon": -6.227337,
+   "distKm": 2.9,
+   "address": "MP2",
+   "tags": {}
+  },
+  {
+   "id": "way/1156822377",
+   "name": "Village Vets",
+   "lat": 53.3413841,
+   "lon": -6.3014268,
+   "distKm": 2.9,
+   "address": "Old Kilmainham, D08 TY09",
+   "tags": {
+    "phone": "+353 1 679 1975",
+    "website": "https://www.villagevets.ie/clinics/kilmainham-vets"
+   }
+  },
+  {
+   "id": "node/10541858440",
+   "name": "Donnybrook Vets",
+   "lat": 53.3224224,
+   "lon": -6.2370588,
+   "distKm": 3.4,
+   "address": "Donnybrook Road, Dublin",
+   "tags": {}
+  },
+  {
+   "id": "node/2984120789",
+   "name": "Vetinary Clinic",
+   "lat": 53.3196867,
+   "lon": -6.275583,
+   "distKm": 3.5,
+   "address": "5 Kenilworth Square North, Dublin",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-09:30"
+   }
+  },
+  {
+   "id": "node/312575573",
+   "name": "Sandymount Pet Hospital",
+   "lat": 53.3309798,
+   "lon": -6.2159963,
+   "distKm": 3.6,
+   "address": "Gilford Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:30; Sa 09:00-12:30"
+   }
+  },
+  {
+   "id": "way/657051312",
+   "name": "Paws",
+   "lat": 53.3763563,
+   "lon": -6.2179092,
+   "distKm": 4.1,
+   "address": "Dublin",
+   "tags": {}
+  },
+  {
+   "id": "way/1225903273",
+   "name": "Killester Vets",
+   "lat": 53.375701,
+   "lon": -6.2091292,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 912 5335",
+    "website": "https://killestervets.ie/",
+    "opening_hours": "Mo-Fr 09:30-18:30"
+   }
+  },
+  {
+   "id": "node/3108899179",
+   "name": "Patrick Condron",
+   "lat": 53.3091377,
+   "lon": -6.285104,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "phone": "+353 86 8274868",
+    "opening_hours": "Mo-Sa 19:00-20:00"
+   }
+  },
+  {
+   "id": "way/1052203790",
+   "name": "Amy Lara Clinic",
+   "lat": 53.3825389,
+   "lon": -6.2058701,
+   "distKm": 5.1,
+   "address": "Malahide Road",
+   "tags": {}
+  },
+  {
+   "id": "node/11787310228",
+   "name": "Montrose Veterinary",
+   "lat": 53.3099539,
+   "lon": -6.2167846,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/342627093",
+   "name": "Paws",
+   "lat": 53.3990241,
+   "lon": -6.2435596,
+   "distKm": 5.6,
+   "address": "Swords Road",
+   "tags": {
+    "phone": "+353 1 852 7813",
+    "website": "https://www.anicare.ie/",
+    "opening_hours": "Mo-Fr 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/734184230",
+   "name": "All Care Veterinary Centre",
+   "lat": 53.3178394,
+   "lon": -6.3321846,
+   "distKm": 6,
+   "address": "153 Walkinstown Road, Dublin, D12 E5AN",
+   "tags": {}
+  },
+  {
+   "id": "way/107425278",
+   "name": "Village Vets",
+   "lat": 53.2941779,
+   "lon": -6.2462928,
+   "distKm": 6.3,
+   "address": "Dundrum Road",
+   "tags": {
+    "phone": "+353 1 298 7510",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa 09:00-18:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13500928324",
+   "name": "Village Vets",
+   "lat": 53.3800599,
+   "lon": -6.178248,
+   "distKm": 6.4,
+   "address": "Howth Road, Dublin, D05 N7X2",
+   "tags": {
+    "phone": "+353 1 7265426",
+    "website": "https://www.villagevets.ie/clinics/raheny",
+    "opening_hours": "Mo-Fr 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/257340799",
+   "name": "Nutgove Veterinary Hospital",
+   "lat": 53.2920816,
+   "lon": -6.2690705,
+   "distKm": 6.4,
+   "address": "173 Nutgrove Avenue",
+   "tags": {
+    "phone": "+353 1 295 1202",
+    "website": "http://nutgrovevet.ie/",
+    "opening_hours": "Mo-Fr 09:30-12:30,14:30-16:00,17:15-19:00; Sa 09:30-12:30"
+   }
+  },
+  {
+   "id": "node/6434343691",
+   "name": "Dundrum Veterinary Clinic",
+   "lat": 53.291486,
+   "lon": -6.2462656,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/9927412442",
+   "name": "Village Vets",
+   "lat": 53.3732922,
+   "lon": -6.361729,
+   "distKm": 7.2,
+   "address": "Castleknock",
+   "tags": {}
+  },
+  {
+   "id": "node/3522920005",
+   "name": "Palmerstown Veterinary Hospital",
+   "lat": 53.3573693,
+   "lon": -6.3753248,
+   "distKm": 7.7,
+   "address": "20 Old Lucan Road, Dublin",
+   "tags": {
+    "phone": "+353 1 6237044",
+    "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:30-12:00, Su 11:00-14:30"
+   }
+  },
+  {
+   "id": "way/157390863",
+   "name": "Stillorgan Veterinary Hospital",
+   "lat": 53.2877582,
+   "lon": -6.1956236,
+   "distKm": 8.1,
+   "address": "Glenalbyn Road",
+   "tags": {}
+  },
+  {
+   "id": "way/339860285",
+   "name": "Blackrock Veterinary Clinic",
+   "lat": 53.2893646,
+   "lon": -6.1808755,
+   "distKm": 8.5,
+   "address": "25 Stillorgan Park, Blackrock",
+   "tags": {
+    "phone": "+353 1 288 9641",
+    "website": "https://www.blackrockvet.ie/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:30-12:30; Su off"
+   }
+  },
+  {
+   "id": "way/712358457",
+   "name": "Animal Hospital",
+   "lat": 53.2893204,
+   "lon": -6.3474689,
+   "distKm": 8.9,
+   "address": "37 Main Road, Tallaght, D24 Y201",
+   "tags": {
+    "phone": "+353 1 451 5930",
+    "website": "https://animalhospital.ie",
+    "opening_hours": "Mo-Fr 09:00-19:30, Sa 09:30-16:00"
+   }
+  },
+  {
+   "id": "node/3722765124",
+   "name": "MyVet",
+   "lat": 53.2813602,
+   "lon": -6.3418683,
+   "distKm": 9.3,
+   "address": "Firhouse Shopping Centre",
+   "tags": {
+    "phone": "+353 1 414 0830",
+    "website": "https://www.myvet.ie/"
+   }
+  },
+  {
+   "id": "node/6578526418",
+   "name": "Dublin Bay Vets",
+   "lat": 53.402329,
+   "lon": -6.1517092,
+   "distKm": 9.3,
+   "address": "5 Main Street, Clongriffin, D13 AH56",
+   "tags": {
+    "phone": "+35315392330",
+    "website": "https://dublinbayvets.ie/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 10:30-16:00"
+   }
+  },
+  {
+   "id": "way/672428806",
+   "name": "Village Vets",
+   "lat": 53.3022136,
+   "lon": -6.37824,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4761907139",
+   "name": "Cara Veterinary Hospital",
+   "lat": 53.4119011,
+   "lon": -6.3625591,
+   "distKm": 9.7,
+   "address": "233, Blanchardstown",
+   "tags": {
+    "opening_hours": "Mo-We,Fr 08:30-19:00; Th 08:30-18:30; Sa 08:30-16:30; Su,PH 10:30-15:30"
+   }
+  },
+  {
+   "id": "node/7117808274",
+   "name": "Sandyford Veterinary Hospital",
+   "lat": 53.2649307,
+   "lon": -6.2294018,
+   "distKm": 9.7,
+   "address": "2B",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/10600228589",
+   "name": "Ark Vetcare",
+   "lat": 53.2773174,
+   "lon": -6.1664296,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 2895 335",
+    "website": "https://www.arkvet.ie"
+   }
+  },
+  {
+   "id": "node/725841315",
+   "name": "Old Bawn Veterinary Clinic",
+   "lat": 53.2755936,
+   "lon": -6.35295,
+   "distKm": 10.3,
+   "address": "Old Bawn Shopping Centre",
+   "tags": {}
+  },
+  {
+   "id": "way/230515935",
+   "name": "Village Vets Rathfarnham",
+   "lat": 53.261927,
+   "lon": -6.3099379,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/46011518",
+   "name": "Dublin Society for the Prevention of Cruelty to Animals (D.S.P.C.A.)",
+   "lat": 53.2608439,
+   "lon": -6.3088217,
+   "distKm": 10.4,
+   "address": "Mount Venus Road",
+   "tags": {
+    "website": "https://www.dspca.ie/",
+    "opening_hours": "Mo-Su 11:00-16:30"
+   }
+  },
+  {
+   "id": "way/57823817",
+   "name": "Ark Vetcare",
+   "lat": 53.2906462,
+   "lon": -6.1382619,
+   "distKm": 10.4,
+   "address": "33 Patrick Street, A96 N722",
+   "tags": {
+    "phone": "+353 1 280 2041",
+    "website": "https://www.arkvet.ie/",
+    "opening_hours": "Mo-Fr 07:30-20:20; Sa 07:30-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/8908408468",
+   "name": "Park Lane Vets",
+   "lat": 53.2872779,
+   "lon": -6.135164,
+   "distKm": 10.8,
+   "address": "15 Corrig Road, Dún Laoghaire, A96 W8H1",
+   "tags": {
+    "phone": "+35312360692",
+    "website": "https://parklanevets.ie/",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:00-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/474817988",
+   "name": "O'Scanaill Veterinary Surgeons",
+   "lat": 53.4493801,
+   "lon": -6.2254359,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 8900 380"
+   }
+  },
+  {
+   "id": "way/1310486841",
+   "name": "O Scanaill",
+   "lat": 53.4492222,
+   "lon": -6.2254111,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/981443543",
+   "name": "MyVet",
+   "lat": 53.3595074,
+   "lon": -6.4313604,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6693306798",
+   "name": "Primrose Hill Veterinary Hospital",
+   "lat": 53.2746403,
+   "lon": -6.1378046,
+   "distKm": 11.7,
+   "address": "1 Church Place, Sallynoggin, A96 W9P0",
+   "tags": {
+    "phone": "+353 1 280 3303",
+    "website": "https://primrosehillvets.ie/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/4716032789",
+   "name": "Kilmartin Grain",
+   "lat": 53.4375792,
+   "lon": -6.3968153,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12417493171",
+   "name": "Urban Vets",
+   "lat": 53.3365133,
+   "lon": -6.4702291,
+   "distKm": 14,
+   "address": "Unit 10 Station Road, Adamstown, Lucan, K78 H9H9",
+   "tags": {
+    "phone": "+353 1 224 1564",
+    "website": "https://urbanvets.ie/adamstown-clinic/"
+   }
+  },
+  {
+   "id": "node/659991684",
+   "name": "Lissenhall Veterinary Hospital",
+   "lat": 53.4730532,
+   "lon": -6.2087612,
+   "distKm": 14.1,
+   "address": "Lissenhall Road, Swords, K67EH72",
+   "tags": {
+    "phone": "+353 1 890 0375",
+    "website": "https://www.lissenhallvet.ie/"
+   }
+  },
+  {
+   "id": "node/1983396568",
+   "name": "Cherrywood Veterinary Clinic",
+   "lat": 53.2460258,
+   "lon": -6.1360161,
+   "distKm": 14.2,
+   "address": "5 Bray Road",
+   "tags": {
+    "website": "https://www.cherrywoodvetclinic.ie/",
+    "opening_hours": "Mo-Fr 10:00+; Sa 11:00+"
+   }
+  },
+  {
+   "id": "node/8676430411",
+   "name": "Leixlip Veterinary Hospital",
+   "lat": 53.3648568,
+   "lon": -6.4886677,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {
+    "website": "http://leixlipvet.com/"
+   }
+  },
+  {
+   "id": "node/12635779533",
+   "name": "Riverforest Veterinary Centre",
+   "lat": 53.3717702,
+   "lon": -6.488291,
+   "distKm": 15.3,
+   "address": "5 Riverforest Court, Leixlip, W23 A5N4",
+   "tags": {
+    "website": "https://riverforestvets.ie/",
+    "opening_hours": "Monday - Friday 10am - 7pm and Saturday 10am - 1pm"
+   }
+  },
+  {
+   "id": "node/5930309232",
+   "name": "Vetcare.ie",
+   "lat": 53.2813093,
+   "lon": -6.4682984,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12241548887",
+   "name": "Village Vets",
+   "lat": 53.4199883,
+   "lon": -6.4760284,
+   "distKm": 16.3,
+   "address": "Navan Road, Dunboyne",
+   "tags": {
+    "phone": "+353 1 8251 125",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/12633231955",
+   "name": "Highfield",
+   "lat": 53.4214913,
+   "lon": -6.4745465,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "phone": "+353 1 8255 884",
+    "website": "https://highfield.ie"
+   }
+  },
+  {
+   "id": "node/12635824343",
+   "name": "Village Vets",
+   "lat": 53.4268288,
+   "lon": -6.4754439,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/184010933",
+   "name": "Beaufield Veterinary Centre",
+   "lat": 53.3380595,
+   "lon": -6.5366235,
+   "distKm": 18.4,
+   "address": "Dublin Road, Celbridge",
+   "tags": {}
+  },
+  {
+   "id": "node/10920126735",
+   "name": "Celbridge Veterinary Hospital",
+   "lat": 53.3418375,
+   "lon": -6.538614,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {
+    "phone": "+353 86 233 4475",
+    "opening_hours": "Mo-Tu,Th 10:00-11:00,18:30-20:15; Mo-Fr 18:30-20:15; PH closed; Sa 11:30-13:30; Su 11:00-12:30"
+   }
+  },
+  {
+   "id": "node/13751865116",
+   "name": "Village Vets",
+   "lat": 53.3443969,
+   "lon": -6.5435961,
+   "distKm": 18.8,
+   "address": "Shackleton Road, Celbridge, W23YP82",
+   "tags": {}
+  },
+  {
+   "id": "way/683527283",
+   "name": "Bairbre O'Malley Veterinary Hospital",
+   "lat": 53.2007055,
+   "lon": -6.1125755,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

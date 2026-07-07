@@ -1,0 +1,163 @@
+{
+ "$schemaVersion": 1,
+ "city": "providence",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:34:05.817Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "way/369433553",
+   "name": "Providence River Animal Hospital",
+   "lat": 41.8162391,
+   "lon": -71.4085558,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/350162766",
+   "name": "Eastside Veterinary Clinic",
+   "lat": 41.8287009,
+   "lon": -71.3905951,
+   "distKm": 1.9,
+   "address": "265 Gano Street, Providence, RI 02906",
+   "tags": {
+    "phone": "+1 401-272-2345",
+    "website": "https://eastsideveterinary.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/215952904",
+   "name": "Bristol County Veterinary Hospital",
+   "lat": 41.8199389,
+   "lon": -71.3390467,
+   "distKm": 6.1,
+   "address": "288 Fall River Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/8372608682",
+   "name": "VCA Animal Hospital",
+   "lat": 41.7851525,
+   "lon": -71.4733498,
+   "distKm": 6.6,
+   "address": "342 Atwood Avenue, Cranston, RI 02920",
+   "tags": {
+    "phone": "+14019427360",
+    "website": "https://vcahospitals.com/atwood"
+   }
+  },
+  {
+   "id": "way/1026188988",
+   "name": "Ferguson Animal Hospital",
+   "lat": 41.8565664,
+   "lon": -71.4831124,
+   "distKm": 6.9,
+   "address": "660 Woonasquatucket Avenue, North Providence, RI 02911",
+   "tags": {
+    "phone": "+14013494280",
+    "website": "http://www.fergusonanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/6538850632",
+   "name": "Banfield Pet Hospital",
+   "lat": 41.815996,
+   "lon": -71.4983409,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/140440006",
+   "name": "Titan Veterinary Services",
+   "lat": 41.7330966,
+   "lon": -71.4104355,
+   "distKm": 10.1,
+   "address": "90 Airport Road, Warwick, RI 02889",
+   "tags": {}
+  },
+  {
+   "id": "way/146971141",
+   "name": "Airport Animal Hospital",
+   "lat": 41.7275789,
+   "lon": -71.4055057,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/422085380",
+   "name": "Mercy Animal Hospital",
+   "lat": 41.7324881,
+   "lon": -71.4857739,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4432832954",
+   "name": "Compassionate Care Veterinary Clinic",
+   "lat": 41.938581,
+   "lon": -71.430067,
+   "distKm": 12.8,
+   "address": "1509 Mendon Road, Cumberland, RI 02864",
+   "tags": {
+    "phone": "+1 401 333 7911",
+    "website": "http://www.ccvcri.com/"
+   }
+  },
+  {
+   "id": "node/11508546068",
+   "name": "Veterinary Emergency Group",
+   "lat": 41.6981426,
+   "lon": -71.4962528,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/147059309",
+   "name": "Veterinary Eye Care for Pets",
+   "lat": 41.6963794,
+   "lon": -71.4963408,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5587305972",
+   "name": "Cumberland Animal Hospital",
+   "lat": 41.9685746,
+   "lon": -71.447352,
+   "distKm": 16.3,
+   "address": "6 Pound Road, Cumberland, 02864",
+   "tags": {
+    "phone": "+1 401 658 1148",
+    "website": "https://cumberlandanimalhospital.com/",
+    "opening_hours": "Mo-We 08:00-19:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/5302439844",
+   "name": "Hill & Harbour Veterinary Center",
+   "lat": 41.6569761,
+   "lon": -71.4515094,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12699154001",
+   "name": "Ocean State Veterinary Specialists",
+   "lat": 41.656283,
+   "lon": -71.4964742,
+   "distKm": 19.9,
+   "address": "1480 South County Trail",
+   "tags": {}
+  }
+ ]
+}

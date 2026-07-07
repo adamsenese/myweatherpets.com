@@ -1,0 +1,220 @@
+{
+ "$schemaVersion": 1,
+ "city": "cleveland",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:31:28.358Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/952166375",
+   "name": "Gateway Animal Clinic",
+   "lat": 41.4840242,
+   "lon": -81.6976294,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/740726738",
+   "name": "Tremont Animal Clinic",
+   "lat": 41.4729504,
+   "lon": -81.6991614,
+   "distKm": 3,
+   "address": "2885 West 25th Street, Cleveland, OH",
+   "tags": {}
+  },
+  {
+   "id": "node/10588027018",
+   "name": "Cleveland Veterinary Clinic",
+   "lat": 41.5040491,
+   "lon": -81.6319743,
+   "distKm": 5.2,
+   "address": "8069 Euclid Avenue, Cleveland, OH 44103",
+   "tags": {
+    "opening_hours": "Mo-Th 09:00-17:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "way/390494983",
+   "name": "VCA Lakewood Animal Hospital",
+   "lat": 41.4768756,
+   "lon": -81.7989235,
+   "distKm": 9.1,
+   "address": "14587 Madison Avenue, 44107",
+   "tags": {
+    "phone": "+1-216-226-0400",
+    "website": "https://vcahospitals.com/lakewood",
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/8793730710",
+   "name": "Buckeye Animal Hospital",
+   "lat": 41.4549881,
+   "lon": -81.789848,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3978135788",
+   "name": "Able Animal Hospital",
+   "lat": 41.4135961,
+   "lon": -81.7102486,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3660853566",
+   "name": "Oak Tree Veterinary Hospital",
+   "lat": 41.5105242,
+   "lon": -81.5560178,
+   "distKm": 11.6,
+   "address": "1808 South Taylor Road, Cleveland Heights, OH 44118",
+   "tags": {
+    "phone": "+1-216-321-6040",
+    "website": "https://www.oaktreevet.net/"
+   }
+  },
+  {
+   "id": "node/13760725271",
+   "name": "Bartels Busack Pet Hospital",
+   "lat": 41.3930712,
+   "lon": -81.7107711,
+   "distKm": 11.9,
+   "address": "6270 State Road, Parma, OH 44134",
+   "tags": {
+    "website": "https://bartelsbusackpethospital.com/"
+   }
+  },
+  {
+   "id": "node/12873023575",
+   "name": "West Park Animal Hospital",
+   "lat": 41.442919,
+   "lon": -81.8184107,
+   "distKm": 12.1,
+   "address": "4117 Rocky River Drive, Cleveland, OH 44135",
+   "tags": {
+    "website": "https://www.westparkanimalhospital.com/",
+    "opening_hours": "Mo-Su 08:00-01:00"
+   }
+  },
+  {
+   "id": "node/12144433528",
+   "name": "Rainbow Veterinary Clinic",
+   "lat": 41.530238,
+   "lon": -81.5421068,
+   "distKm": 13.1,
+   "address": "2636 Noble Road, Cleveland Heights, OH 44121",
+   "tags": {
+    "opening_hours": "Mo-We 07:30-18:00; Th 07:30-20:00; Fr 07:30-18:00"
+   }
+  },
+  {
+   "id": "node/11846720696",
+   "name": "Maple Heights Animal Hospital",
+   "lat": 41.4176696,
+   "lon": -81.5723571,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1397849058",
+   "name": "Belvoir Pet Hospital",
+   "lat": 41.5209933,
+   "lon": -81.528261,
+   "distKm": 14,
+   "address": "4217 Mayfield Road, 44121",
+   "tags": {
+    "phone": "+1-216-354-0390"
+   }
+  },
+  {
+   "id": "node/13960063701",
+   "name": "Banfield Pet Hospital",
+   "lat": 41.3774552,
+   "lon": -81.7390056,
+   "distKm": 14,
+   "address": "6870 Ridge Road, 44129",
+   "tags": {
+    "phone": "+1-440-845-5329",
+    "website": "https://www.banfield.com/locations/veterinarians/oh/parma/par",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/8815429241",
+   "name": "Suburban Veterinary Clinic",
+   "lat": 41.4132646,
+   "lon": -81.5390349,
+   "distKm": 16.1,
+   "address": "5488B Warrensville Center Road, Maple Heights, OH 44137",
+   "tags": {}
+  },
+  {
+   "id": "node/4497467937",
+   "name": "PetFix Northeast Ohio",
+   "lat": 41.5900636,
+   "lon": -81.526358,
+   "distKm": 17.2,
+   "address": "885 East 222nd Street, Euclid, OH 44123",
+   "tags": {}
+  },
+  {
+   "id": "way/653284162",
+   "name": "Lyndhurst Animal Clinic",
+   "lat": 41.520248,
+   "lon": -81.4854115,
+   "distKm": 17.6,
+   "address": "5387 Mayfield Road, Lyndhurst, OH 44124",
+   "tags": {
+    "phone": "+1-440-449-6644",
+    "opening_hours": "Mo-Tu,Th 08:00-18:00; We,Sa 08:00-12:00; Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/462678433",
+   "name": "Euclid Veterinary Clinic",
+   "lat": 41.5993009,
+   "lon": -81.5051308,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/546632667",
+   "name": "Metropet Veterinary Clinic",
+   "lat": 41.3742158,
+   "lon": -81.861643,
+   "distKm": 19.7,
+   "address": "298 North Rocky River Drive, Berea, OH 44017",
+   "tags": {}
+  },
+  {
+   "id": "node/3552281407",
+   "name": "Animal Medical Center of Euclid",
+   "lat": 41.6157207,
+   "lon": -81.5145992,
+   "distKm": 19.8,
+   "address": "24100 Lake Shore Boulevard, Euclid, OH 44123",
+   "tags": {}
+  },
+  {
+   "id": "node/13464799801",
+   "name": "Mayfield Pet Hospital",
+   "lat": 41.520496,
+   "lon": -81.4561555,
+   "distKm": 20,
+   "address": "6195 Mayfield Road, 44124",
+   "tags": {
+    "phone": "+1-440-442-6500",
+    "website": "https://www.mayfieldpethospital.com/",
+    "opening_hours": "Mo-Tu,Th-Fr 08:00-17:00; We 08:00-13:00; Sa 08:00-11:00"
+   }
+  }
+ ]
+}

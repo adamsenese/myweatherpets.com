@@ -1,0 +1,38 @@
+{
+ "$schemaVersion": 1,
+ "city": "memphis",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:27:51.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "way/479628075",
+   "name": "The Barking Lot Dog Park",
+   "lat": 35.1472053,
+   "lon": -90.0515767,
+   "distKm": 0.3,
+   "address": "76 North Main Street, Memphis, TN 38103",
+   "tags": {}
+  },
+  {
+   "id": "node/12463083543",
+   "name": "Fourth Ruff Park",
+   "lat": 35.1482846,
+   "lon": -90.0532437,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/544815814",
+   "name": "Overton Bark",
+   "lat": 35.146171,
+   "lon": -89.9914604,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

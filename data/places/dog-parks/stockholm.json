@@ -1,0 +1,848 @@
+{
+ "$schemaVersion": 1,
+ "city": "stockholm",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:24:28.290Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/13245355311",
+   "name": "Monteliusvägens hundrastgård",
+   "lat": 59.3207873,
+   "lon": 18.0596507,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/87242823",
+   "name": "Humlegårdens hundrastgård",
+   "lat": 59.3390331,
+   "lon": 18.0705234,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "barrier": "fence",
+    "small_dog": "separate",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1017560058",
+   "name": "Strandvägens hundrastgård - Stockholm",
+   "lat": 59.331648,
+   "lon": 18.0878723,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "small_dog": "separate",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/58082448",
+   "name": "Björns Trädgårds hundrastgård",
+   "lat": 59.3156731,
+   "lon": 18.0736705,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "fence_type": "railings",
+    "dog": "unleashed",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/578579536",
+   "name": "Kvarnbergets hundrastgård",
+   "lat": 59.3343842,
+   "lon": 18.0440035,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/778560402",
+   "name": "Skinnarviksbergets hundrastgård",
+   "lat": 59.3193504,
+   "lon": 18.0506835,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/836461830",
+   "name": "Fatbursparkens hundrastgård",
+   "lat": 59.3157023,
+   "lon": 18.0699603,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/772128348",
+   "name": "Hundrastgård Observatorielunden - Stockholm",
+   "lat": 59.3419406,
+   "lon": 18.055873,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/1443427984",
+   "name": "Wollmar Yxkullsgatans hundrastgård",
+   "lat": 59.3162392,
+   "lon": 18.057145,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "surface": "gravel",
+    "barrier": "fence",
+    "fence_type": "metal",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/97420695",
+   "name": "Kronobergsparkens hundrastgård",
+   "lat": 59.3319781,
+   "lon": 18.0363495,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "small_dog": "separate",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/298092213",
+   "name": "Kristinehovs malmgårds hundrastgård",
+   "lat": 59.3185427,
+   "lon": 18.0411323,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/778841139",
+   "name": "Vasaparkens hundrastgård",
+   "lat": 59.3392618,
+   "lon": 18.0402063,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/703298765",
+   "name": "Category:Vanadislundens hundrastgård",
+   "lat": 59.348179,
+   "lon": 18.0556013,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "lit": "yes",
+    "small_dog": "separate",
+    "website": "https://parker.stockholm/parker/vanadislunden/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1443409657",
+   "name": "Gotlandsparkens hundrastgård",
+   "lat": 59.3098101,
+   "lon": 18.0779369,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/1443801229",
+   "name": "Rosenlundsparkens hundrastgård",
+   "lat": 59.3098161,
+   "lon": 18.0616907,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "separate",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1443802720",
+   "name": "Älvsborgsgatans hundrastplats",
+   "lat": 59.3093418,
+   "lon": 18.0729114,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/121158079",
+   "name": "Tantobergets hundrastgård",
+   "lat": 59.3129905,
+   "lon": 18.0439599,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "fence_type": "chain",
+    "dog": "unleashed",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/211371859",
+   "name": "Drakenbergsparkens hundrastgård",
+   "lat": 59.3140504,
+   "lon": 18.0413773,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/469672411",
+   "name": "Tessinparkens hundrastgård",
+   "lat": 59.3449119,
+   "lon": 18.0939352,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "surface": "compacted",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/164359635",
+   "name": "Vitabergsparkens hundrastgård",
+   "lat": 59.3116354,
+   "lon": 18.0917885,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/816519306",
+   "name": "Solvändans Hundrastgård",
+   "lat": 59.3440541,
+   "lon": 18.0347758,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "Mo-Su 07:00-22:00"
+   }
+  },
+  {
+   "id": "way/1436475793",
+   "name": "Lill-Jansskogens hundrastgård",
+   "lat": 59.3516975,
+   "lon": 18.0749601,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "fence_type": "chain_link",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/97420696",
+   "name": "Sankt Göransparkens hundrastgård",
+   "lat": 59.3351296,
+   "lon": 18.0250167,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1241780429",
+   "name": "Sankt Eriksparkens hundrastgård",
+   "lat": 59.348901,
+   "lon": 18.0421226,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "surface": "gravel",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1442317921",
+   "name": "Kampementsbackens hundrastgård",
+   "lat": 59.3445049,
+   "lon": 18.1033387,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/485519155",
+   "name": "Hospitalparkens hundrastgårdar",
+   "lat": 59.3137182,
+   "lon": 18.1063991,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/757516696",
+   "name": "Frisens parks hundrastgård",
+   "lat": 59.3230313,
+   "lon": 18.1173079,
+   "distKm": 2.8,
+   "address": "6 Prins Eugens väg, Stockholm, 11521",
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/497274996",
+   "name": "Konradsbergsparkens hundrastgård",
+   "lat": 59.3310119,
+   "lon": 18.0181314,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "small_dog": "separate",
+    "website": "https://parker.stockholm/hundrastplatser",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/246334227",
+   "name": "Henriksdalsallén hundrastgård",
+   "lat": 59.3112331,
+   "lon": 18.1067693,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/1419677677",
+   "name": "Bellevueparkens Hundrastområde",
+   "lat": 59.3537259,
+   "lon": 18.0480416,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/403345825",
+   "name": "Västra Hjorthagsparken hundrastgård - Stockholm",
+   "lat": 59.3554271,
+   "lon": 18.0925974,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/995878048",
+   "name": "Årstalidens Hundrastgård",
+   "lat": 59.3017339,
+   "lon": 18.0512301,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/470246909",
+   "name": "Kontorsparkens hundrastgård - Stockholm",
+   "lat": 59.3572073,
+   "lon": 18.088394,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "surface": "fine_gravel",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/806323539",
+   "name": "Årstabergsparkens Hundrastgård",
+   "lat": 59.3041586,
+   "lon": 18.0354678,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1068558952",
+   "name": "Henriksdalsbergets hundrastgård",
+   "lat": 59.3111648,
+   "lon": 18.118203,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1203033733",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 59.2991398,
+   "lon": 18.0854872,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1444430763",
+   "name": "Kristinebergshöjdens hundrastgård",
+   "lat": 59.3333554,
+   "lon": 18.0074238,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/683746680",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 59.2971982,
+   "lon": 18.0706732,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/501150544",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 59.303529,
+   "lon": 18.0282842,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/367855713",
+   "name": "Hammarby Fabriksvägs hundrastgård",
+   "lat": 59.3016554,
+   "lon": 18.1098281,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/995877862",
+   "name": "Valla Torg Hundrastgård",
+   "lat": 59.2952684,
+   "lon": 18.0491461,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wire"
+   }
+  },
+  {
+   "id": "way/1452371399",
+   "name": "Ekelunds Hundrastgård",
+   "lat": 59.3447577,
+   "lon": 18.0018196,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "lit": "no",
+    "dog": "unleashed",
+    "small_dog": "separate",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1444435160",
+   "name": "Tranebergs hundrastpark",
+   "lat": 59.3344585,
+   "lon": 17.9918594,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "fence_type": "chain_link",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/913516465",
+   "name": "Vintervikens hundrastgård",
+   "lat": 59.3123487,
+   "lon": 17.9974536,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13203103915",
+   "name": "Kvarnholmens Hundrastgård",
+   "lat": 59.3164935,
+   "lon": 18.1456186,
+   "distKm": 4.6,
+   "address": "Kvarnholmsvägen 114",
+   "tags": {
+    "website": "https://www.nacka.se/uppleva--gora/friluftsliv-motion/hundar-i-nacka/hundrastgardar/"
+   }
+  },
+  {
+   "id": "way/1441504567",
+   "name": "Ekhagens hundrastgård",
+   "lat": 59.3701241,
+   "lon": 18.0570771,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "website": "https://parker.stockholm/hundrastplatser"
+   }
+  },
+  {
+   "id": "way/1108131570",
+   "name": "Södra parkens hundrastgård",
+   "lat": 59.3602755,
+   "lon": 18.0124054,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/678868970",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 59.2991821,
+   "lon": 18.0073106,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1312412008",
+   "name": "Nytorps gärdes hundrastgärd",
+   "lat": 59.2892022,
+   "lon": 18.1081808,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1086490909",
+   "name": "Hagakullens hundrastgård",
+   "lat": 59.368936,
+   "lon": 18.0240392,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/31892436",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 59.2938492,
+   "lon": 18.0067043,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/337681322",
+   "name": "Huvudstafältets hundrastgård",
+   "lat": 59.3520988,
+   "lon": 17.9871875,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes",
+    "small_dog": "shared",
+    "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/721893626",
+   "name": "Nedre myren hundrastgård",
+   "lat": 59.2923697,
+   "lon": 18.131494,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "metal"
+   }
+  },
+  {
+   "id": "way/808117136",
+   "name": "Enskede hundrastgård",
+   "lat": 59.2811574,
+   "lon": 18.0684403,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/61797138",
+   "name": "Mosstorps hundhage",
+   "lat": 59.3549654,
+   "lon": 18.1518576,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "website": "https://lidingo.se/toppmeny/naturmiljo/gronomradenochparker/hundinaturen.4.6429948018ecac981f62d2.html"
+   }
+  },
+  {
+   "id": "way/341142554",
+   "name": "Skytteholmsfältets hundrastgård",
+   "lat": 59.3591411,
+   "lon": 17.990405,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "dog": "unleashed",
+    "small_dog": "separate",
+    "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1452814628",
+   "name": "Vasalunds hundrastgård",
+   "lat": 59.3671201,
+   "lon": 18.0013943,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "small_dog": "shared",
+    "access": "official",
+    "website": "https://www.solna.se/uppleva--gora/natur-och-friluftsliv/hundrastgardar",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "relation/19824627",
+   "name": "Hundrastgård Bergshamra södra",
+   "lat": 59.3770842,
+   "lon": 18.0332618,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "small_dog": "shared",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1441646427",
+   "name": "Himlabackens hundpark",
+   "lat": 59.2966275,
+   "lon": 17.9881841,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://parker.stockholm/hundrastplatser/"
+   }
+  },
+  {
+   "id": "way/1210544215",
+   "name": "Tassmötets Hundrastgård Stureby - Enskede",
+   "lat": 59.278221,
+   "lon": 18.0400147,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

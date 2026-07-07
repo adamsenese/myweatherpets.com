@@ -1,0 +1,623 @@
+{
+ "$schemaVersion": 1,
+ "city": "rome",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:37:50.605Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/13894637935",
+   "name": "myfamily",
+   "lat": 41.9004632,
+   "lon": 12.5015293,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11271339276",
+   "name": "Arcaplanet",
+   "lat": 41.8950351,
+   "lon": 12.5013565,
+   "distKm": 1,
+   "address": "25 Via dello Statuto, Roma, 00185",
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/1046891096",
+   "name": "Uccelleria REGINA",
+   "lat": 41.9144648,
+   "lon": 12.5045371,
+   "distKm": 1.5,
+   "address": "200c Viale Regina Margherita, Roma, 00198",
+   "tags": {
+    "phone": "+39 06 8553284"
+   }
+  },
+  {
+   "id": "node/10308219709",
+   "name": "Tutto per noi",
+   "lat": 41.9032898,
+   "lon": 12.4771407,
+   "distKm": 1.6,
+   "address": "4 Via della Torretta",
+   "tags": {}
+  },
+  {
+   "id": "node/11482878912",
+   "name": "Pepet",
+   "lat": 41.8857943,
+   "lon": 12.5110304,
+   "distKm": 2.2,
+   "address": "13 Largo Brindisi, Roma, 00182",
+   "tags": {
+    "phone": "+39 06 6930 3632",
+    "website": "https://www.pepet.it/",
+    "opening_hours": "Mo-Sa 10:00-14:00, 16:00-20:00"
+   }
+  },
+  {
+   "id": "node/8186479717",
+   "name": "La Ciotola dei Parioli",
+   "lat": 41.9239979,
+   "lon": 12.4923744,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4869648821",
+   "name": "Cani e Gatti",
+   "lat": 41.8996522,
+   "lon": 12.4661516,
+   "distKm": 2.5,
+   "address": "312 Corso Vittorio Emanuele II;Corso Vittorio Emanuele Secondo, Roma, 00186",
+   "tags": {
+    "phone": "+39 06 6865289"
+   }
+  },
+  {
+   "id": "node/5313787099",
+   "name": "Pet Zoo",
+   "lat": 41.8816057,
+   "lon": 12.5088421,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1049628615",
+   "name": "Arcaplanet",
+   "lat": 41.9109419,
+   "lon": 12.4662804,
+   "distKm": 2.7,
+   "address": "62 Via Marcantonio Colonna, Roma, 00192",
+   "tags": {
+    "website": "https://www.arcaplanet.it/",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/974908893",
+   "name": "Animalmini",
+   "lat": 41.90745,
+   "lon": 12.4617046,
+   "distKm": 2.9,
+   "address": "7 Piazza dell'Unità, Roma, 00192",
+   "tags": {
+    "phone": "+39 06 3210618"
+   }
+  },
+  {
+   "id": "node/8971681488",
+   "name": "Arcaplanet",
+   "lat": 41.8987622,
+   "lon": 12.5322687,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "phone": "+39 06 93577597",
+    "opening_hours": "Mo-Su 09:00-20:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/9251801290",
+   "name": "L'Isola dei Tesori",
+   "lat": 41.9294525,
+   "lon": 12.5167271,
+   "distKm": 3.4,
+   "address": "Viale Libia, Roma, 00199",
+   "tags": {
+    "brand": "L'Isola dei Tesori"
+   }
+  },
+  {
+   "id": "node/11482928343",
+   "name": "Arcaplanet",
+   "lat": 41.8759494,
+   "lon": 12.5158339,
+   "distKm": 3.4,
+   "address": "43 Circonvallazione Appia, Roma, 00179",
+   "tags": {
+    "phone": "+39 06 9957 6848",
+    "website": "https://negozi.arcaplanet.it/lazio/rm/roma-via-circonvallazione-appia-43",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:30-13:00, 15:00-19:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/1270745528",
+   "name": "Animalerie",
+   "lat": 41.8763151,
+   "lon": 12.5200008,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1270745474",
+   "name": "Pet Country",
+   "lat": 41.8760028,
+   "lon": 12.520869,
+   "distKm": 3.6,
+   "address": "27 Piazza dell'Alberone",
+   "tags": {}
+  },
+  {
+   "id": "node/6720549166",
+   "name": "Majestic Pets",
+   "lat": 41.8978181,
+   "lon": 12.4517007,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13380799762",
+   "name": "Shampoo Dog",
+   "lat": 41.8881137,
+   "lon": 12.53648,
+   "distKm": 3.7,
+   "address": "122 Via Erasmo Gattamelata",
+   "tags": {}
+  },
+  {
+   "id": "node/9223495472",
+   "name": "L'Isola dei Tesori",
+   "lat": 41.8778929,
+   "lon": 12.5297768,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "brand": "L'Isola dei Tesori"
+   }
+  },
+  {
+   "id": "node/12139760948",
+   "name": "Zoo planet",
+   "lat": 41.8770915,
+   "lon": 12.527601,
+   "distKm": 3.9,
+   "address": "41 Via Gualdo Tadino, Roma, 00181",
+   "tags": {
+    "phone": "+39 06 55136037"
+   }
+  },
+  {
+   "id": "node/6947784937",
+   "name": "BauWash",
+   "lat": 41.9331316,
+   "lon": 12.4683421,
+   "distKm": 4.1,
+   "address": "3 Via Erulo Eroli, Roma, 00196",
+   "tags": {}
+  },
+  {
+   "id": "node/7077571908",
+   "name": "Baffi & vibrisse",
+   "lat": 41.8774256,
+   "lon": 12.5315985,
+   "distKm": 4.1,
+   "address": "65 Via Norcia, Roma, 00181",
+   "tags": {}
+  },
+  {
+   "id": "node/1049575427",
+   "name": "La Corte degli Animali",
+   "lat": 41.9094456,
+   "lon": 12.4469578,
+   "distKm": 4.2,
+   "address": "21 Via Luigi Rizzo, Roma, 00136",
+   "tags": {}
+  },
+  {
+   "id": "node/2127530631",
+   "name": "44 Gatti",
+   "lat": 41.9083579,
+   "lon": 12.4467073,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6267873449",
+   "name": "Alimenti ed accessori per animali",
+   "lat": 41.9331694,
+   "lon": 12.4669916,
+   "distKm": 4.2,
+   "address": "6 Viale Pinturicchio, Roma, 00196",
+   "tags": {}
+  },
+  {
+   "id": "way/362618311",
+   "name": "City Dog Parioli",
+   "lat": 41.9404631,
+   "lon": 12.493026,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "website": "https://citydogparioli.net"
+   }
+  },
+  {
+   "id": "node/2371354540",
+   "name": "Amici del Cuore",
+   "lat": 41.9081081,
+   "lon": 12.4449537,
+   "distKm": 4.3,
+   "address": "44 Via Luigi Rizzo, Roma, 00136",
+   "tags": {
+    "phone": "+39 06 39743539"
+   }
+  },
+  {
+   "id": "node/5817468855",
+   "name": "Giulius",
+   "lat": 41.8644035,
+   "lon": 12.4844252,
+   "distKm": 4.4,
+   "address": "28 Piazza Augusto Albini, Roma, 00154",
+   "tags": {
+    "website": "https://www.giuliuspetshop.it"
+   }
+  },
+  {
+   "id": "node/11898904790",
+   "name": "Arcaplanet",
+   "lat": 41.8688996,
+   "lon": 12.46821,
+   "distKm": 4.4,
+   "address": "21 Viale Guglielmo Marconi, Roma, 00146",
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/9893021436",
+   "name": "Pepet",
+   "lat": 41.8801705,
+   "lon": 12.541846,
+   "distKm": 4.5,
+   "address": "Via Casilina, Roma, 00176",
+   "tags": {}
+  },
+  {
+   "id": "node/1854934519",
+   "name": "Arcaplanet",
+   "lat": 41.8712334,
+   "lon": 12.5318865,
+   "distKm": 4.6,
+   "address": "1b Via Marino Laziale, Roma, 00179",
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/1428110973",
+   "name": "Doggy Dog",
+   "lat": 41.9236177,
+   "lon": 12.4476235,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1428233399",
+   "name": "Balù",
+   "lat": 41.9204914,
+   "lon": 12.4449261,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7157112483",
+   "name": "Funny Dog",
+   "lat": 41.8688742,
+   "lon": 12.5307005,
+   "distKm": 4.7,
+   "address": "20 Via dei Colli Albani, Roma, 00179",
+   "tags": {}
+  },
+  {
+   "id": "node/11071701894",
+   "name": "Gio Pets",
+   "lat": 41.8608968,
+   "lon": 12.5012655,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/58472536",
+   "name": "Animal Zone",
+   "lat": 41.8595198,
+   "lon": 12.4913117,
+   "distKm": 4.8,
+   "address": "2/4 Via Anna Maria Taigi, Roma, 00145",
+   "tags": {
+    "phone": "+39 06 5110147",
+    "website": "http://www.animalzone.it"
+   }
+  },
+  {
+   "id": "node/3679213853",
+   "name": "Animalandia",
+   "lat": 41.9175856,
+   "lon": 12.4391163,
+   "distKm": 5,
+   "address": "102 Via Ugo De Carolis, Roma",
+   "tags": {
+    "phone": "+39 06 35498077"
+   }
+  },
+  {
+   "id": "node/3433614584",
+   "name": "Top Fish",
+   "lat": 41.8674708,
+   "lon": 12.5401913,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13884588086",
+   "name": "Gio Pets",
+   "lat": 41.8547939,
+   "lon": 12.480241,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13119658553",
+   "name": "Superpets",
+   "lat": 41.8528659,
+   "lon": 12.4918938,
+   "distKm": 5.6,
+   "address": "00142",
+   "tags": {
+    "phone": "+39 06 9799 7081",
+    "opening_hours": "Mo-Sa 08:30-20:00"
+   }
+  },
+  {
+   "id": "node/7709659822",
+   "name": "Willy & Friends",
+   "lat": 41.8844225,
+   "lon": 12.5614306,
+   "distKm": 5.8,
+   "address": "46 Via delle Albizzie, Roma, 00172",
+   "tags": {
+    "phone": "+39 06 2307089"
+   }
+  },
+  {
+   "id": "node/13394436706",
+   "name": "Majestic Pet's",
+   "lat": 41.8916845,
+   "lon": 12.5647478,
+   "distKm": 5.8,
+   "address": "21 Piazza Teofrasto, Roma, 00171",
+   "tags": {}
+  },
+  {
+   "id": "node/6878699870",
+   "name": "AnimAlerie",
+   "lat": 41.8510304,
+   "lon": 12.4775842,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8833388131",
+   "name": "Masha e Osso",
+   "lat": 41.923987,
+   "lon": 12.4260176,
+   "distKm": 6.3,
+   "address": "15 Via Bernardo Barbiellini Amidei",
+   "tags": {
+    "website": "https://www.masciaeosso.eu/",
+    "opening_hours": "Mo-Fr 10:00-13:30, 16:00-20:00; Sa 10:00-13:00,16:00-20:00; PH off"
+   }
+  },
+  {
+   "id": "node/4686056378",
+   "name": "Happy Dog",
+   "lat": 41.8645045,
+   "lon": 12.5547295,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "phone": "+39 06 765441"
+   }
+  },
+  {
+   "id": "node/10185630253",
+   "name": "Animali Centocelle",
+   "lat": 41.8796345,
+   "lon": 12.5678095,
+   "distKm": 6.4,
+   "address": "35/a Via dei Frassini, Roma, 00172",
+   "tags": {
+    "phone": "+39 06 23232529"
+   }
+  },
+  {
+   "id": "node/11747197030",
+   "name": "Arcaplanet",
+   "lat": 41.8612227,
+   "lon": 12.4436449,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/4686056371",
+   "name": "Casa del Cucciolo",
+   "lat": 41.8644017,
+   "lon": 12.5550366,
+   "distKm": 6.5,
+   "address": "95 Via Vestricio Spurinna, Roma",
+   "tags": {
+    "phone": "+39 06 7696 6805"
+   }
+  },
+  {
+   "id": "node/4164199795",
+   "name": "FantaZoo",
+   "lat": 41.8615198,
+   "lon": 12.5533645,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6816885528",
+   "name": "Qua la zampa",
+   "lat": 41.9583067,
+   "lon": 12.5235541,
+   "distKm": 6.6,
+   "address": "15 Piazza Ottaviano Vimercati, Roma, 00139",
+   "tags": {}
+  },
+  {
+   "id": "node/5666851064",
+   "name": "Toeletta",
+   "lat": 41.961987,
+   "lon": 12.5132809,
+   "distKm": 6.7,
+   "address": "96 Via Gaspare Pacchiarotti, Roma, 00139",
+   "tags": {}
+  },
+  {
+   "id": "node/12466636834",
+   "name": "Arcaplanet",
+   "lat": 41.895645,
+   "lon": 12.5762596,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/8096933947",
+   "name": "Animal House",
+   "lat": 41.9373361,
+   "lon": 12.4288744,
+   "distKm": 6.8,
+   "address": "8154 Via Trionfale",
+   "tags": {}
+  },
+  {
+   "id": "node/6030108451",
+   "name": "Bianca & Bernie",
+   "lat": 41.8570311,
+   "lon": 12.5593968,
+   "distKm": 7.3,
+   "address": "81 Via Marco Valerio Corvo, Roma",
+   "tags": {
+    "phone": "+39 06 7696 1246"
+   }
+  },
+  {
+   "id": "node/8662395311",
+   "name": "NSL Pet Shop",
+   "lat": 41.8540988,
+   "lon": 12.559401,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11981752311",
+   "name": "Fantazoo",
+   "lat": 41.8557356,
+   "lon": 12.5655917,
+   "distKm": 7.8,
+   "address": "14/a Via Publio Valerio, Roma, 00175",
+   "tags": {}
+  },
+  {
+   "id": "node/12177094258",
+   "name": "La tana di Peppe",
+   "lat": 41.8550351,
+   "lon": 12.5647405,
+   "distKm": 7.8,
+   "address": "392 Largo Appio Claudio, Roma, 00174",
+   "tags": {}
+  },
+  {
+   "id": "node/6816885574",
+   "name": "4 zampe",
+   "lat": 41.9736612,
+   "lon": 12.5143707,
+   "distKm": 8,
+   "address": "192/b Via Radicofani, Roma, 00138",
+   "tags": {}
+  },
+  {
+   "id": "node/7202750295",
+   "name": "AgriConsult 2000",
+   "lat": 41.8533305,
+   "lon": 12.5668251,
+   "distKm": 8,
+   "address": "16 Viale Tito Labieno, Roma, 00174",
+   "tags": {}
+  },
+  {
+   "id": "node/10977242392",
+   "name": "Arcaplanet",
+   "lat": 41.8963908,
+   "lon": 12.3965978,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/7888317149",
+   "name": "Arcaplanet",
+   "lat": 41.8531117,
+   "lon": 12.4162832,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "phone": "+390645752060",
+    "website": "https://www.arcaplanet.it/negozi/portfolio_page/arcaplanet-casetta-mattei",
+    "opening_hours": "Mo-Sa 10:00-20:30; Su 09:00-20:30",
+    "brand": "Arcaplanet"
+   }
+  }
+ ]
+}

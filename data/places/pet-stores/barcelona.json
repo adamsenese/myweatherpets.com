@@ -1,0 +1,621 @@
+{
+ "$schemaVersion": 1,
+ "city": "barcelona",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:37:44.690Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/5981323544",
+   "name": "Amadeu Vidal",
+   "lat": 41.3852106,
+   "lon": 2.1714517,
+   "distKm": 0.3,
+   "address": "14 Carrer de Santa Anna, Barcelona, 08002",
+   "tags": {
+    "phone": "+34 933025293",
+    "website": "https://www.amadeuvidal.es/"
+   }
+  },
+  {
+   "id": "node/8939342340",
+   "name": "Kiwoko",
+   "lat": 41.386855,
+   "lon": 2.1612103,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.kiwoko.com/",
+    "opening_hours": "Mo-Sa 10:00-21:00",
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/5864094593",
+   "name": "miscota",
+   "lat": 41.3936314,
+   "lon": 2.1688451,
+   "distKm": 0.7,
+   "address": "375 Carrer del Consell de Cent, 08009",
+   "tags": {}
+  },
+  {
+   "id": "node/8806371425",
+   "name": "Miscota",
+   "lat": 41.3901263,
+   "lon": 2.1613418,
+   "distKm": 0.7,
+   "address": "65 Carrer de Balmes",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-21:00"
+   }
+  },
+  {
+   "id": "node/9237835817",
+   "name": "Zoo Condal",
+   "lat": 41.3809064,
+   "lon": 2.163592,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10171968490",
+   "name": "Gossy Animals",
+   "lat": 41.3877347,
+   "lon": 2.1779383,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6052329516",
+   "name": "AquaNatura",
+   "lat": 41.383517,
+   "lon": 2.1783252,
+   "distKm": 0.9,
+   "address": "14 Carrer de Jaume I, 08002",
+   "tags": {}
+  },
+  {
+   "id": "node/9240246528",
+   "name": "Zoo Nator",
+   "lat": 41.3860285,
+   "lon": 2.1795602,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:30-17:00"
+   }
+  },
+  {
+   "id": "node/7996797785",
+   "name": "Bestioles",
+   "lat": 41.3969417,
+   "lon": 2.1753247,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9823306817",
+   "name": "don perro",
+   "lat": 41.3975693,
+   "lon": 2.1650162,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7528220685",
+   "name": "El racó dels animals",
+   "lat": 41.3967652,
+   "lon": 2.1796632,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10175872733",
+   "name": "miscota",
+   "lat": 41.3999225,
+   "lon": 2.163622,
+   "distKm": 1.5,
+   "address": "Carrer de Còrsega",
+   "tags": {}
+  },
+  {
+   "id": "node/8806371426",
+   "name": "Miscota",
+   "lat": 41.3963276,
+   "lon": 2.1532317,
+   "distKm": 1.6,
+   "address": "177 Carrer de Balmes",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-21:00"
+   }
+  },
+  {
+   "id": "node/11128408647",
+   "name": "Animalades",
+   "lat": 41.4006962,
+   "lon": 2.1595745,
+   "distKm": 1.7,
+   "address": "46 Carrer del Progrés",
+   "tags": {
+    "phone": "+34 931 70 76 52"
+   }
+  },
+  {
+   "id": "node/11580436838",
+   "name": "CRÜ",
+   "lat": 41.4016378,
+   "lon": 2.1616266,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.crubarf.com"
+   }
+  },
+  {
+   "id": "node/11339611214",
+   "name": "Ocellería Vilaplana",
+   "lat": 41.4023066,
+   "lon": 2.1600762,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10171187007",
+   "name": "Ocelleria Plujà",
+   "lat": 41.3801473,
+   "lon": 2.1888306,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11355267526",
+   "name": "Furry Chefs",
+   "lat": 41.4003196,
+   "lon": 2.1534373,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11758658001",
+   "name": "Pet Shop Girls",
+   "lat": 41.4027301,
+   "lon": 2.1596036,
+   "distKm": 1.9,
+   "address": "14 Carrer de Torrijos",
+   "tags": {}
+  },
+  {
+   "id": "node/9868535620",
+   "name": "Stylcan alta perruqueria canina",
+   "lat": 41.3902884,
+   "lon": 2.1442993,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1340330352",
+   "name": "BUF",
+   "lat": 41.4070008,
+   "lon": 2.1636054,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6130150570",
+   "name": "Terranova CNC",
+   "lat": 41.383032,
+   "lon": 2.1418323,
+   "distKm": 2.3,
+   "address": "34 Carrer de Nicaragua, Barcelona, 08029",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-14:00; Mo-Fr 17:00-20:30"
+   }
+  },
+  {
+   "id": "node/6166502702",
+   "name": "Gosigat",
+   "lat": 41.4088397,
+   "lon": 2.1860035,
+   "distKm": 2.8,
+   "address": "16 Carrer de Rogent, Barcelona, 08026",
+   "tags": {}
+  },
+  {
+   "id": "node/7997567135",
+   "name": "terranovacnc",
+   "lat": 41.3705448,
+   "lon": 2.1436669,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12956937122",
+   "name": "Zoo Condal",
+   "lat": 41.4038498,
+   "lon": 2.1424123,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-14:30,15:30-21:00"
+   }
+  },
+  {
+   "id": "node/4728103191",
+   "name": "TerranovaCnc",
+   "lat": 41.4133121,
+   "lon": 2.1815132,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7559103885",
+   "name": "Reptil Mania",
+   "lat": 41.4072163,
+   "lon": 2.1946881,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10203891191",
+   "name": "Juana dog tienda",
+   "lat": 41.4137743,
+   "lon": 2.1812856,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3048083033",
+   "name": "Kiwoko",
+   "lat": 41.4002178,
+   "lon": 2.2025911,
+   "distKm": 3.2,
+   "address": "50 Rambla del Poblenou, Barcelona",
+   "tags": {
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/8049731798",
+   "name": "OsteoPetits",
+   "lat": 41.4033298,
+   "lon": 2.1998844,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12798602101",
+   "name": "Peluts",
+   "lat": 41.3755653,
+   "lon": 2.1331895,
+   "distKm": 3.2,
+   "address": "164 Carrer de Sants",
+   "tags": {
+    "phone": "+34933157991",
+    "opening_hours": "Mo-Sa 10:00-14:00, 17:00-20:30"
+   }
+  },
+  {
+   "id": "node/7704818544",
+   "name": "4 grapes",
+   "lat": 41.3749535,
+   "lon": 2.1329677,
+   "distKm": 3.3,
+   "address": "14 Carrer de Càceres, Barcelona, 08028",
+   "tags": {
+    "phone": "+34934909912"
+   }
+  },
+  {
+   "id": "node/8061861485",
+   "name": "Zoo Condal",
+   "lat": 41.4060318,
+   "lon": 2.1989141,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-21:00"
+   }
+  },
+  {
+   "id": "node/10171535291",
+   "name": "Peludets",
+   "lat": 41.4016886,
+   "lon": 2.2026033,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12864488501",
+   "name": "Zoo Condal",
+   "lat": 41.3786265,
+   "lon": 2.1280739,
+   "distKm": 3.5,
+   "address": "102 Avinguda de Madrid",
+   "tags": {}
+  },
+  {
+   "id": "node/6548588452",
+   "name": "Mascotas",
+   "lat": 41.3615343,
+   "lon": 2.1398251,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/7525536785",
+   "name": "Terranovacnc 26",
+   "lat": 41.4169454,
+   "lon": 2.1908508,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7714319964",
+   "name": "Pet Wash - Self Service Pet Washing",
+   "lat": 41.3768206,
+   "lon": 2.1249446,
+   "distKm": 3.8,
+   "address": "38 Avinguda de Madrid, Barcelona, 08028",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:00; Sa 10:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/6221491623",
+   "name": "Terranova CNC",
+   "lat": 41.3584464,
+   "lon": 2.1313344,
+   "distKm": 4.5,
+   "address": "19 Carrer de les Ciències, l'Hospitalet de Llobregat, 08908",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-14:00; Mo-Fr 17:00-20:30"
+   }
+  },
+  {
+   "id": "node/11265524734",
+   "name": "Kiwoko",
+   "lat": 41.4099337,
+   "lon": 2.2152311,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "phone": "+34 93 292 61 66",
+    "website": "https://www.kiwoko.com/",
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/7987231589",
+   "name": "Perruqueria canina Saniff",
+   "lat": 41.4291764,
+   "lon": 2.1799328,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8544879033",
+   "name": "L'os de la LULA",
+   "lat": 41.4376455,
+   "lon": 2.1675864,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/651587083",
+   "name": "Tiendanimal",
+   "lat": 41.3768863,
+   "lon": 2.0984236,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3595400602",
+   "name": "El Gorilón",
+   "lat": 41.4350882,
+   "lon": 2.217756,
+   "distKm": 6.7,
+   "address": "15 Carrer de Guasch, Badalona",
+   "tags": {
+    "phone": "+34934603085",
+    "opening_hours": "Mo-Fr 10:30-13:30,17:30-20:30; Sa 10:30-13:30; PH closed"
+   }
+  },
+  {
+   "id": "node/3717320500",
+   "name": "Peluts i mimats",
+   "lat": 41.3479663,
+   "lon": 2.1077983,
+   "distKm": 6.7,
+   "address": "22 Avinguda de la Mare de Déu de Bellvitge, L'Hospitalet de Llobregat, 08907",
+   "tags": {}
+  },
+  {
+   "id": "node/11016459461",
+   "name": "Animals Sapiens",
+   "lat": 41.4268728,
+   "lon": 2.2299381,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4822739692",
+   "name": "Exotics",
+   "lat": 41.4393539,
+   "lon": 2.2169781,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-13:30,17:00-20:30; Sa 10:00-13:30; PH closed"
+   }
+  },
+  {
+   "id": "node/6424282613",
+   "name": "Pajarería Pacheco",
+   "lat": 41.4384731,
+   "lon": 2.2217816,
+   "distKm": 7.2,
+   "address": "13 Carrer de la Mina, Badalona, 08913",
+   "tags": {
+    "phone": "+34 933 83 77 79",
+    "opening_hours": "Sa 10:00-14:00; PH closed; Aug Mo-Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/4816093721",
+   "name": "RondAnimals",
+   "lat": 41.4414117,
+   "lon": 2.2178379,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "phone": "+34931629994",
+    "opening_hours": "Tu-Fr 10:15-13:30,17:15-20:00; Sa 10:15-13:30; Mo 17:15-20:00; PH closed"
+   }
+  },
+  {
+   "id": "node/4983764934",
+   "name": "Acuari Natura",
+   "lat": 41.4394281,
+   "lon": 2.2224189,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {
+    "phone": "+34933835469",
+    "website": "http://www.acuarinatura.com",
+    "opening_hours": "Mo-Fr 09:30-13:30,17:00-20:30; Sa 10:00-13:30"
+   }
+  },
+  {
+   "id": "node/6746867499",
+   "name": "By Mascota",
+   "lat": 41.4466078,
+   "lon": 2.2106887,
+   "distKm": 7.5,
+   "address": "86 Avinguda de la Generalitat, 08922",
+   "tags": {}
+  },
+  {
+   "id": "node/6746867500",
+   "name": "By Mascota",
+   "lat": 41.4494777,
+   "lon": 2.2074858,
+   "distKm": 7.6,
+   "address": "19 Avinguda de Santa Coloma, 08922",
+   "tags": {}
+  },
+  {
+   "id": "node/3809169660",
+   "name": "Leo Canin",
+   "lat": 41.440465,
+   "lon": 2.2272468,
+   "distKm": 7.7,
+   "address": "Passeig de la Salut, Badalona",
+   "tags": {}
+  },
+  {
+   "id": "node/5448091304",
+   "name": "Més que gossos",
+   "lat": 41.4493712,
+   "lon": 2.2090846,
+   "distKm": 7.7,
+   "address": "55 Carrer de Sant Carles, Santa Coloma de Gramenet, 08922",
+   "tags": {
+    "phone": "+34 933859500;+34679057498",
+    "website": "https://www.mesquegossos.es"
+   }
+  },
+  {
+   "id": "node/5448091733",
+   "name": "Peluts",
+   "lat": 41.4493486,
+   "lon": 2.2117403,
+   "distKm": 7.8,
+   "address": "21 Carrer de Balldovina, Santa Coloma de Gramenet, 08922",
+   "tags": {
+    "phone": "+34 934666732"
+   }
+  },
+  {
+   "id": "node/5448091276",
+   "name": "Graneria Marta",
+   "lat": 41.4502627,
+   "lon": 2.2116555,
+   "distKm": 7.9,
+   "address": "30 Carrer de Sant Josep, Santa Coloma de Gramenet, 08922",
+   "tags": {
+    "phone": "+34934663068;+34636713179"
+   }
+  },
+  {
+   "id": "node/4322969787",
+   "name": "Supermascotes Cornellà",
+   "lat": 41.3608619,
+   "lon": 2.0771772,
+   "distKm": 8.2,
+   "address": "25 Carrer del Doctor Ferran, Cornellà de Llobregat, 08940",
+   "tags": {}
+  },
+  {
+   "id": "way/1526542578",
+   "name": "Kiwoko",
+   "lat": 41.3475728,
+   "lon": 2.0769338,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/8609656287",
+   "name": "El petit bichon",
+   "lat": 41.3863278,
+   "lon": 2.0608126,
+   "distKm": 9,
+   "address": "20 Carrer de Rosa Leveroni, Sant Just Desvern, 08960",
+   "tags": {
+    "phone": "+34 699 07 03 46",
+    "website": "http://www.elpetitbichondechus.com",
+    "opening_hours": "Tu-Fr 10:00-18:00; Mo 17:00-20:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9076494626",
+   "name": "Casa Costa",
+   "lat": 41.4489576,
+   "lon": 2.2493805,
+   "distKm": 9.6,
+   "address": "2D Carrer del Canonge Baranera, 08911",
+   "tags": {
+    "phone": "+34933 89 11 25"
+   }
+  }
+ ]
+}

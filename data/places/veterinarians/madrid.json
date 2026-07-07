@@ -1,0 +1,617 @@
+{
+ "$schemaVersion": 1,
+ "city": "madrid",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:37:37.579Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/178820970",
+   "name": "Los Austrias",
+   "lat": 40.4152466,
+   "lon": -3.7094269,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9897373018",
+   "name": "La Gatoteca",
+   "lat": 40.4130697,
+   "lon": -3.7062646,
+   "distKm": 0.5,
+   "address": "7 Calle del Duque de Rivas, 28012",
+   "tags": {}
+  },
+  {
+   "id": "node/10837321814",
+   "name": "Clínica Veterinaria Ópera",
+   "lat": 40.4162351,
+   "lon": -3.7109308,
+   "distKm": 0.6,
+   "address": "9 Calle de los Señores de Luzón, Madrid, 28013",
+   "tags": {
+    "phone": "+34 915 41 56 29"
+   }
+  },
+  {
+   "id": "node/4185276786",
+   "name": "Arco Iris",
+   "lat": 40.4237852,
+   "lon": -3.7014055,
+   "distKm": 0.8,
+   "address": "48 Calle de Valverde, Madrid, 28004",
+   "tags": {}
+  },
+  {
+   "id": "node/13716967823",
+   "name": "MascoStyle",
+   "lat": 40.4229127,
+   "lon": -3.6992832,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11809270687",
+   "name": "La Latina",
+   "lat": 40.4107531,
+   "lon": -3.7105183,
+   "distKm": 0.9,
+   "address": "10 Calle del Humilladero",
+   "tags": {}
+  },
+  {
+   "id": "node/4738041544",
+   "name": "Don Pedro",
+   "lat": 40.4116763,
+   "lon": -3.7135758,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5298096796",
+   "name": "Centro Veterinario Amaniel",
+   "lat": 40.426105,
+   "lon": -3.7092443,
+   "distKm": 1.1,
+   "address": "18 Calle de Amaniel, Madrid, 28015",
+   "tags": {}
+  },
+  {
+   "id": "node/2475150017",
+   "name": "Puerta de Toledo",
+   "lat": 40.4081281,
+   "lon": -3.7129379,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2587660423",
+   "name": "PU CAN veterinarios",
+   "lat": 40.4053226,
+   "lon": -3.7081717,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4732823037",
+   "name": "Clínica Veterinaria Malasaña",
+   "lat": 40.4286871,
+   "lon": -3.7026897,
+   "distKm": 1.3,
+   "address": "4 Calle de Manuela Malasaña, Madrid, 28004",
+   "tags": {}
+  },
+  {
+   "id": "node/4721968745",
+   "name": "Clínica Veterinaria Unzeta",
+   "lat": 40.4254145,
+   "lon": -3.7164101,
+   "distKm": 1.4,
+   "address": "28 Calle de Ferraz, Madrid, 28008",
+   "tags": {}
+  },
+  {
+   "id": "node/1436033393",
+   "name": "Clínica veterinaria Conde Duque",
+   "lat": 40.4293999,
+   "lon": -3.7089755,
+   "distKm": 1.5,
+   "address": "46 Calle del Conde Duque",
+   "tags": {}
+  },
+  {
+   "id": "node/4741575166",
+   "name": "Clínica Veterinaria La Almudena",
+   "lat": 40.4133349,
+   "lon": -3.7208629,
+   "distKm": 1.5,
+   "address": "9 Paseo de la Virgen del Puerto, Madrid, 28005",
+   "tags": {
+    "opening_hours": "Sa 10:00-14:00; Mo-Fr 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/4683525072",
+   "name": "Clínica Veterinaria Ferraz",
+   "lat": 40.4263762,
+   "lon": -3.7178155,
+   "distKm": 1.6,
+   "address": "13 Calle de Ferraz, Madrid, 28008",
+   "tags": {}
+  },
+  {
+   "id": "node/5372481241",
+   "name": "Clínica Veterinaria Colibrí",
+   "lat": 40.4308567,
+   "lon": -3.7018097,
+   "distKm": 1.6,
+   "address": "22 Calle del Cardenal Cisneros, Madrid, 28010",
+   "tags": {}
+  },
+  {
+   "id": "node/12809158533",
+   "name": "Carlanca",
+   "lat": 40.4313003,
+   "lon": -3.7011306,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9433554925",
+   "name": "Centro veterinario General Arrando",
+   "lat": 40.4317525,
+   "lon": -3.696011,
+   "distKm": 1.8,
+   "address": "9 Calle del General Arrando, Madrid, 28010",
+   "tags": {
+    "phone": "+34 91 448 41 74",
+    "website": "https://cvgeneralarrando.es/",
+    "opening_hours": "Mo-Fr 10:30-20:00; Sa 10:30-14:30",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "node/11989971755",
+   "name": "Centro veterinario",
+   "lat": 40.4002817,
+   "lon": -3.7037334,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3302333281",
+   "name": "Áncora Veterinarios",
+   "lat": 40.4033485,
+   "lon": -3.690922,
+   "distKm": 1.9,
+   "address": "22 Calle del General Lacy, Madrid, 28045",
+   "tags": {
+    "website": "https://www.ancoraveterinarios.es/"
+   }
+  },
+  {
+   "id": "node/13990524501",
+   "name": "Caservet Príncipe Pío",
+   "lat": 40.4233463,
+   "lon": -3.7242534,
+   "distKm": 1.9,
+   "address": "48 Calle de Aniceto Marinas, 28008",
+   "tags": {
+    "phone": "+34913777000",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/3428476977",
+   "name": "Los Sauces",
+   "lat": 40.4340623,
+   "lon": -3.6985888,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2661750732",
+   "name": "Clínica veterinaria Nuevo Zoo",
+   "lat": 40.4355396,
+   "lon": -3.7069251,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4520491590",
+   "name": "Clínica Veterinaria Quevedog",
+   "lat": 40.4351276,
+   "lon": -3.7076499,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "phone": "+34 914455236",
+    "website": "https://www.quevedog.es/",
+    "opening_hours": "Mo-Fr 10:00-14:00, 17:00-20:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/4568493290",
+   "name": "Clínica veterinaria Chamberí",
+   "lat": 40.4360551,
+   "lon": -3.702278,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:30-14:00, 16:30-20:00; Sa 11:00-14:00"
+   }
+  },
+  {
+   "id": "node/8634990956",
+   "name": "Clínica veterinaria Mediterráneo Castelló",
+   "lat": 40.4273155,
+   "lon": -3.6812322,
+   "distKm": 2.2,
+   "address": "52 Calle de Castelló, Madrid, 28001",
+   "tags": {}
+  },
+  {
+   "id": "node/11423422873",
+   "name": "Clínica Veterinaria Arguelles",
+   "lat": 40.4345052,
+   "lon": -3.7159029,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12811870222",
+   "name": "Hospital Veterinario Gattos",
+   "lat": 40.4068362,
+   "lon": -3.6818143,
+   "distKm": 2.2,
+   "address": "18 Paseo de la Reina Cristina, Madrid, 28014",
+   "tags": {
+    "phone": "+34 91 504 06 51",
+    "website": "https://gattos.net/",
+    "opening_hours": "Mo-Fr 08:30-20:30"
+   }
+  },
+  {
+   "id": "node/12915271922",
+   "name": "Reino Animal",
+   "lat": 40.3978179,
+   "lon": -3.6978118,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4392737268",
+   "name": "Clínica Veterinaria Guzmán el Bueno",
+   "lat": 40.4364785,
+   "lon": -3.7128939,
+   "distKm": 2.3,
+   "address": "58 Calle de Guzmán el Bueno, Madrid, 28015",
+   "tags": {
+    "website": "http://www.clinicasveterinarias.net"
+   }
+  },
+  {
+   "id": "node/13062869695",
+   "name": "Tu dogtora",
+   "lat": 40.4070618,
+   "lon": -3.6793087,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6370997939",
+   "name": "Alonso Cano",
+   "lat": 40.4374896,
+   "lon": -3.697973,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11649011460",
+   "name": "Centro Veterinario Galileo",
+   "lat": 40.4378266,
+   "lon": -3.7098894,
+   "distKm": 2.4,
+   "address": "90 Calle de Galileo",
+   "tags": {}
+  },
+  {
+   "id": "node/12584927896",
+   "name": "Clínica Veterinaria Castellana",
+   "lat": 40.4365181,
+   "lon": -3.6923601,
+   "distKm": 2.4,
+   "address": "86 Calle de García de Paredes",
+   "tags": {}
+  },
+  {
+   "id": "node/10002921165",
+   "name": "Animal Revolution",
+   "lat": 40.4045635,
+   "lon": -3.6784145,
+   "distKm": 2.5,
+   "address": "21 Calle de Granada, Madrid, 28007",
+   "tags": {
+    "website": "https://animalrevolution.es/"
+   }
+  },
+  {
+   "id": "node/12541358040",
+   "name": "Madrivet",
+   "lat": 40.439324,
+   "lon": -3.708106,
+   "distKm": 2.5,
+   "address": "98 Calle de Vallehermoso",
+   "tags": {}
+  },
+  {
+   "id": "node/6502745929",
+   "name": "Clinica Veterinaria Príncipe Pío",
+   "lat": 40.4287618,
+   "lon": -3.729912,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7890163466",
+   "name": "Centro veterinario Mediterráneo",
+   "lat": 40.4070923,
+   "lon": -3.6764117,
+   "distKm": 2.6,
+   "address": "14 Avenida del Mediterráneo, Madrid, 28007",
+   "tags": {
+    "phone": "+34 91 551 48 59",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/9887600255",
+   "name": "Clínica Veterinaria Praga",
+   "lat": 40.3937457,
+   "lon": -3.7091044,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11891476691",
+   "name": "Centro Veterinario Madrid",
+   "lat": 40.4378824,
+   "lon": -3.7163512,
+   "distKm": 2.6,
+   "address": "56 Calle de Hilarión Eslava",
+   "tags": {}
+  },
+  {
+   "id": "node/11226494333",
+   "name": "AniCura",
+   "lat": 40.435685,
+   "lon": -3.6834492,
+   "distKm": 2.7,
+   "address": "105 Calle de Velázquez, Madrid, 28006",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-14:00,16:00-20:30"
+   }
+  },
+  {
+   "id": "node/12168898866",
+   "name": "Clínica Veterinaria Ayala",
+   "lat": 40.4273593,
+   "lon": -3.6748902,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "phone": "+34 914028092",
+    "website": "https://www.ayalaveterinaria.es/"
+   }
+  },
+  {
+   "id": "node/4273758138",
+   "name": "IVET Rios Rosas",
+   "lat": 40.4419072,
+   "lon": -3.7027822,
+   "distKm": 2.8,
+   "address": "12 Calle de Ríos Rosas, Madrid",
+   "tags": {
+    "phone": "+34 910 290 526",
+    "website": "https://clinicaveterinariariosrosas.jimdofree.com/",
+    "opening_hours": "Mo-Fr 10:00-13:00, 16:00-20:00; Sa 10:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/6257660094",
+   "name": "PetHome",
+   "lat": 40.4415745,
+   "lon": -3.6966097,
+   "distKm": 2.8,
+   "address": "Calle de Ríos Rosas, 46, Madrid, Madrid, 28003",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 10:30-14:30"
+   }
+  },
+  {
+   "id": "node/2630602814",
+   "name": "Clínica Veterinaria Jura Real",
+   "lat": 40.3910996,
+   "lon": -3.7115182,
+   "distKm": 2.9,
+   "address": "28 Calle del Marqués de Jura Real, 28019",
+   "tags": {
+    "phone": "+34 914604680"
+   }
+  },
+  {
+   "id": "node/8641882957",
+   "name": "Clínica Veterinaria Planetario",
+   "lat": 40.3931542,
+   "lon": -3.6903696,
+   "distKm": 2.9,
+   "address": "Calle del Plomo, Madrid, 28045",
+   "tags": {
+    "phone": "+34 914685060"
+   }
+  },
+  {
+   "id": "node/7235044859",
+   "name": "Centro Veterinario",
+   "lat": 40.4081866,
+   "lon": -3.6703357,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1607113033",
+   "name": "Centro Veterinario Peñascal",
+   "lat": 40.4238644,
+   "lon": -3.6674559,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11889214466",
+   "name": "La casa del perro",
+   "lat": 40.3929898,
+   "lon": -3.7242043,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10940605272",
+   "name": "Reino Animal",
+   "lat": 40.3996996,
+   "lon": -3.6715693,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.clinicareinoanimal.es/"
+   }
+  },
+  {
+   "id": "node/10978349506",
+   "name": "Clínica Veterinaria Numancia",
+   "lat": 40.3984674,
+   "lon": -3.6722425,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5493309327",
+   "name": "VelaÜ",
+   "lat": 40.4351866,
+   "lon": -3.6708765,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-13:30, 17:00-20:30; Sa 10:00-13:30"
+   }
+  },
+  {
+   "id": "node/4406242081",
+   "name": "Centro Veterinario Huellas SLP",
+   "lat": 40.3868868,
+   "lon": -3.7220025,
+   "distKm": 3.7,
+   "address": "7 Calle de la Vía, Madrid, 28019",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:30-13:30,17:30-20:30; Sa 10:30-13:30"
+   }
+  },
+  {
+   "id": "node/13619821001",
+   "name": "Animales Exóticos",
+   "lat": 40.4433929,
+   "lon": -3.6765311,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9655421056",
+   "name": "Vetcon Exóticos",
+   "lat": 40.4348405,
+   "lon": -3.6645811,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.vetcon.es/",
+    "opening_hours": "Mo-Fr 10:00-22:00; Sa,Su 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/13320163601",
+   "name": "Vetcon",
+   "lat": 40.4347564,
+   "lon": -3.6645812,
+   "distKm": 3.9,
+   "address": "18 Calle de Colomer, 28028",
+   "tags": {
+    "phone": "+34911193103",
+    "website": "https://www.vetcon.es/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2339200395",
+   "name": "Animalia",
+   "lat": 40.4250548,
+   "lon": -3.6576107,
+   "distKm": 4,
+   "address": "51 Calle de Ricardo Ortiz, Madrid, 28017",
+   "tags": {
+    "phone": "+34 917131251"
+   }
+  },
+  {
+   "id": "node/8402126463",
+   "name": "Clínica veterinaria Don Quijote",
+   "lat": 40.453491,
+   "lon": -3.7098734,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9997833336",
+   "name": "Hospital Veterinario Parque de Berlín",
+   "lat": 40.4509844,
+   "lon": -3.6769416,
+   "distKm": 4.4,
+   "address": "7 Avenida de Ramón y Cajal",
+   "tags": {
+    "phone": "+34 91 113 87 26",
+    "website": "https://hvpb.squarespace.com/"
+   }
+  },
+  {
+   "id": "node/9520253921",
+   "name": "Febrero Veterinario Blanco y Negro",
+   "lat": 40.4555804,
+   "lon": -3.6966534,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

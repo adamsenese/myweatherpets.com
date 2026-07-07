@@ -1,0 +1,321 @@
+{
+ "$schemaVersion": 1,
+ "city": "milwaukee",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:28:33.123Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 27,
+ "places": [
+  {
+   "id": "node/4081727164",
+   "name": "Best Fish",
+   "lat": 43.0479149,
+   "lon": -87.9145284,
+   "distKm": 1.2,
+   "address": "1335 North Doctor Martin Luther King Junior Drive, Milwaukee, 53212",
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-18:00;Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/7189350715",
+   "name": "Mac's Pet Depot Barkery",
+   "lat": 43.0045829,
+   "lon": -87.9057619,
+   "distKm": 3.8,
+   "address": "2197 South Kinnickinnic Avenue, Milwaukee, WI 53207",
+   "tags": {
+    "website": "https://macspetdepotbarkery.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/6210665246",
+   "name": "Bentley's Pet Stuff",
+   "lat": 42.9882758,
+   "lon": -87.8771886,
+   "distKm": 6.1,
+   "address": "2532 East Oklahoma Avenue, Milwaukee, WI 53207",
+   "tags": {
+    "website": "https://petstuff.com/"
+   }
+  },
+  {
+   "id": "way/662935602",
+   "name": "Bark n' Scratch Outpost",
+   "lat": 43.0362417,
+   "lon": -87.9855443,
+   "distKm": 6.4,
+   "address": "5835 West Bluemound Road, Milwaukee, WI 53213",
+   "tags": {
+    "phone": "+1-414-444-4110",
+    "website": "https://milwaukeepetfood.com/",
+    "opening_hours": "Mo, We-Fr 10:00-18:00, Tu 10:00-19:00, Sa 10:00-16:30, Su 11:00-15:30"
+   }
+  },
+  {
+   "id": "node/9617183596",
+   "name": "Bentley's Pet Stuff",
+   "lat": 43.0489566,
+   "lon": -88.0053447,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/660024972",
+   "name": "Pet Supplies Plus",
+   "lat": 43.1130779,
+   "lon": -87.9159198,
+   "distKm": 8.3,
+   "address": "5300 North Port Washington Road, Glendale, WI 53217",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3905668257",
+   "name": "Hounds Around Town",
+   "lat": 43.1183286,
+   "lon": -87.9038259,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1171782620",
+   "name": "Petco",
+   "lat": 42.960897,
+   "lon": -87.8767105,
+   "distKm": 9,
+   "address": "4698 South Whitnall Avenue, St. Francis, WI 53235",
+   "tags": {
+    "phone": "+1 414-481-3178",
+    "website": "https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12310220701",
+   "name": "Pet World Warehouse Outlet",
+   "lat": 42.9461507,
+   "lon": -87.9500999,
+   "distKm": 10.9,
+   "address": "5415 South 27th Street, 53221",
+   "tags": {
+    "website": "https://www.petworldoutlet.com/"
+   }
+  },
+  {
+   "id": "node/13132177257",
+   "name": "The Fish Factory",
+   "lat": 42.9884429,
+   "lon": -88.028223,
+   "distKm": 11.4,
+   "address": "9218 West Oklahoma Avenue, West Allis, WI 53227",
+   "tags": {
+    "phone": "+14145462201",
+    "website": "https://thefishfactoryonline.com/",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/11992132273",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9623404,
+   "lon": -88.0091015,
+   "distKm": 11.9,
+   "address": "4505 South 76th Street, Greenfield, WI 53220",
+   "tags": {
+    "phone": "+1-414-545-9790",
+    "website": "https://www.petsuppliesplus.com/store/wi/greenfield/81-greenfield/81",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/10236334613",
+   "name": "Petco",
+   "lat": 42.9548085,
+   "lon": -88.0069989,
+   "distKm": 12.4,
+   "address": "4950 South 76th Street, Greenfield, WI 53220",
+   "tags": {
+    "phone": "+1 414-325-6564",
+    "website": "https://stores.petco.com/wi/greenfield/pet-supplies-greenfield-wi-1929.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9593185638",
+   "name": "Pet World",
+   "lat": 42.989477,
+   "lon": -88.0456742,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/664024951",
+   "name": "PetSmart",
+   "lat": 42.9524991,
+   "lon": -88.0070434,
+   "distKm": 12.6,
+   "address": "5005 South 74th Street, Greenfield, WI 53220",
+   "tags": {
+    "phone": "+1 414-282-7586",
+    "website": "https://www.petsmart.com/stores/us/wi/greenfield-store1631.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3900535012",
+   "name": "Dog-Gone Lovely",
+   "lat": 42.9922255,
+   "lon": -88.0508213,
+   "distKm": 12.8,
+   "address": "11076 West National Avenue, West Allis, 53227",
+   "tags": {
+    "opening_hours": "Mo,We-Fr 07:30-16:00; Sa 07:30-15:00"
+   }
+  },
+  {
+   "id": "way/1165488760",
+   "name": "Official Pet Boutique",
+   "lat": 43.062072,
+   "lon": -88.0680736,
+   "distKm": 13.4,
+   "address": "2355 North 124th Street, Brookfield, WI 53005",
+   "tags": {}
+  },
+  {
+   "id": "node/10224462247",
+   "name": "Petco",
+   "lat": 43.0868749,
+   "lon": -88.0636475,
+   "distKm": 13.8,
+   "address": "3870 North 124th Street, Wauwatosa, WI 53222",
+   "tags": {
+    "phone": "+1 414-461-1996",
+    "website": "https://stores.petco.com/wi/wauwatosa/pet-supplies-wauwatosa-wi-1697.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4986648020",
+   "name": "PetSmart",
+   "lat": 42.9007596,
+   "lon": -87.9157662,
+   "distKm": 15.4,
+   "address": "320 West Town Square Way, Oak Creek, WI 53154",
+   "tags": {
+    "phone": "+1 414-216-0747",
+    "website": "https://www.petsmart.com/stores/us/wi/oak-creek-store2472.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8623620245",
+   "name": "Community Bark Dog Wash & Coffee Bar",
+   "lat": 43.1770704,
+   "lon": -87.9115915,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/9538745402",
+   "name": "Happy Tails Pet Supplies",
+   "lat": 42.9418898,
+   "lon": -88.0473429,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1177651258",
+   "name": "Petco",
+   "lat": 42.8892861,
+   "lon": -87.9137281,
+   "distKm": 16.6,
+   "address": "8551 South Howell Avenue, Oak Creek, WI 53154",
+   "tags": {
+    "phone": "+1 414-764-2743",
+    "website": "https://stores.petco.com/wi/oakcreek/pet-supplies-oakcreek-wi-1687.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7449297844",
+   "name": "PetSmart",
+   "lat": 43.0370941,
+   "lon": -88.1132737,
+   "distKm": 16.8,
+   "address": "585 Main Street, Brookfield, WI 53005",
+   "tags": {
+    "phone": "+1 262-641-3458",
+    "website": "https://www.petsmart.com/stores/us/wi/brookfield-store1630.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1170405600",
+   "name": "What's In The Bowl",
+   "lat": 42.9760907,
+   "lon": -88.1048041,
+   "distKm": 17.6,
+   "address": "15401 West National Avenue, New Berlin, WI 53151",
+   "tags": {}
+  },
+  {
+   "id": "node/7657369939",
+   "name": "Bentley's Pet Stuff",
+   "lat": 43.036925,
+   "lon": -88.1282574,
+   "distKm": 18,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1176000080",
+   "name": "Happy Tails Pet Supplies",
+   "lat": 42.9053905,
+   "lon": -88.0381038,
+   "distKm": 18.3,
+   "address": "7720 South Lovers Lane Road, Franklin, WI 53132",
+   "tags": {}
+  },
+  {
+   "id": "way/69727326",
+   "name": "Pet Supplies Plus",
+   "lat": 43.0369944,
+   "lon": -88.1433835,
+   "distKm": 19.3,
+   "address": "18610 West Bluemound Road, Brookfield, WI 53045",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/1075903779",
+   "name": "The Feed Bag Pet Supply",
+   "lat": 43.2156786,
+   "lon": -87.9233306,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "website": "https://feedbagpetsupply.com/"
+   }
+  }
+ ]
+}

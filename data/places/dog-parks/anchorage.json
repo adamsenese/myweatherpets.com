@@ -1,0 +1,97 @@
+{
+ "$schemaVersion": 1,
+ "city": "anchorage",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:35:00.713Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "relation/12568094",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 61.2048125,
+   "lon": -149.891822,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/599920515",
+   "name": "Arctic & Benson Dog Park",
+   "lat": 61.1920399,
+   "lon": -149.8973446,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1009739060",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 61.2064155,
+   "lon": -149.8206705,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/220386019",
+   "name": "Connors Bog Dog Park",
+   "lat": 61.1662425,
+   "lon": -149.9287271,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/868802355",
+   "name": "Russian Jack Dog Park",
+   "lat": 61.2155633,
+   "lon": -149.7817983,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/985648962",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 61.1508448,
+   "lon": -149.8465415,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1054261728",
+   "name": "Chanshtnu Dog Park",
+   "lat": 61.2088047,
+   "lon": -149.7279697,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/740012868",
+   "name": "South Anchorage Dog Park",
+   "lat": 61.1218224,
+   "lon": -149.8964706,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/946951641",
+   "name": "North Gasline Dog Trail",
+   "lat": 61.1669318,
+   "lon": -149.7271194,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "$schemaVersion": 1,
+ "city": "omaha",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:30:14.794Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "way/1104449566",
+   "name": "Large Dog Park",
+   "lat": 41.2583705,
+   "lon": -95.9274178,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1104449567",
+   "name": "Small Dog Park",
+   "lat": 41.2583753,
+   "lon": -95.9268637,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/754422331",
+   "name": "Dewey Dog Park",
+   "lat": 41.256023,
+   "lon": -95.9595714,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/704405784",
+   "name": "Hanscom Dog Park",
+   "lat": 41.2442231,
+   "lon": -95.9582686,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1289003073",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.2412103,
+   "lon": -96.0133778,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/470095656",
+   "name": "Freedom Dog Park",
+   "lat": 41.1644399,
+   "lon": -95.9273773,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/426044367",
+   "name": "Small Dogs",
+   "lat": 41.1541708,
+   "lon": -95.8953118,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/426044365",
+   "name": "Large Dogs",
+   "lat": 41.1535932,
+   "lon": -95.8958161,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/315991658",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.1462384,
+   "lon": -95.9759325,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "wall"
+   }
+  },
+  {
+   "id": "way/1382170975",
+   "name": "Doggie Daycare",
+   "lat": 41.2320137,
+   "lon": -96.0831012,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1261890298",
+   "name": "La Vista Dog Park",
+   "lat": 41.1790574,
+   "lon": -96.054759,
+   "distKm": 13.2,
+   "address": "7120 South 92nd Avenue",
+   "tags": {}
+  },
+  {
+   "id": "way/412255236",
+   "name": "Dog Recreation Ground",
+   "lat": 41.2870204,
+   "lon": -96.090588,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "website": "https://omahadogparks.org/"
+   }
+  },
+  {
+   "id": "way/839964575",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.1364317,
+   "lon": -95.9551035,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "access": "residents"
+   }
+  },
+  {
+   "id": "way/600366600",
+   "name": "Apple Creek Dog Park",
+   "lat": 41.2379695,
+   "lon": -96.1339162,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8210486335",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.1367163,
+   "lon": -96.0737819,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1261872107",
+   "name": "Walnut Creek Dog Park - Large Breed Area",
+   "lat": 41.1368633,
+   "lon": -96.0736989,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1261872108",
+   "name": "Walnut Creek Dog Park - Small Breed Area",
+   "lat": 41.1371989,
+   "lon": -96.075654,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1369796399",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.3010379,
+   "lon": -96.1625864,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

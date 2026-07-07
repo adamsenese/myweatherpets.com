@@ -1,0 +1,229 @@
+{
+ "$schemaVersion": 1,
+ "city": "tampa",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:30:52.590Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 18,
+ "places": [
+  {
+   "id": "node/5232834211",
+   "name": "Wag",
+   "lat": 27.9255676,
+   "lon": -82.4530492,
+   "distKm": 2.8,
+   "address": "304 East Davis Boulevard, Tampa, FL 33606",
+   "tags": {
+    "phone": "+1-813-258-9181",
+    "website": "https://wagoftampa.com/",
+    "opening_hours": "Mo-Fr 10:30-18:30; Sa 10:30-17:30; Su 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/13125234892",
+   "name": "Health Mutt",
+   "lat": 27.9923288,
+   "lon": -82.4591528,
+   "distKm": 4.6,
+   "address": "5023 North Florida Avenue, Tampa, FL 33603",
+   "tags": {
+    "phone": "+1-813-231-3137",
+    "website": "https://tampahealthmutt.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00, Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/11200872471",
+   "name": "Pet Supermarket",
+   "lat": 27.9624749,
+   "lon": -82.5059554,
+   "distKm": 5,
+   "address": "2320 North Dale Mabry Highway, Tampa, FL 33607",
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/3833731888",
+   "name": "PetSmart",
+   "lat": 27.9562442,
+   "lon": -82.5083764,
+   "distKm": 5.1,
+   "address": "1540 North Dale Mabry Highway, Tampa, FL 33607",
+   "tags": {
+    "phone": "+1-813-875-9721",
+    "website": "https://www.petsmart.com/stores/us/fl/tampa-store0321.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/2136837025",
+   "name": "Happy Tails",
+   "lat": 27.945172,
+   "lon": -82.517556,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/523371716",
+   "name": "Pet Supermarket",
+   "lat": 27.9079617,
+   "lon": -82.5055979,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "way/211988434",
+   "name": "Bayshore Animal Clinic",
+   "lat": 27.8932365,
+   "lon": -82.4893951,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/524122486",
+   "name": "The Pupp Tent",
+   "lat": 27.893434,
+   "lon": -82.4972094,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/896307446",
+   "name": "Pet Supermarket",
+   "lat": 28.0562548,
+   "lon": -82.4290256,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/8268932423",
+   "name": "Pet Supermarket",
+   "lat": 28.0521183,
+   "lon": -82.5031052,
+   "distKm": 12.2,
+   "address": "11409 North Dale Mabry Highway Tampa FLORIDA 33618 US",
+   "tags": {
+    "phone": "+1-813-264-0473",
+    "website": "https://storelocator.petsupermarket.com/fl-tampa-11409-n-dale-mabry-hwy-145",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/8109987252",
+   "name": "Petco",
+   "lat": 27.9414451,
+   "lon": -82.3217077,
+   "distKm": 13.3,
+   "address": "2434 West Brandon Boulevard, Brandon, FL 33511",
+   "tags": {
+    "phone": "+1 813-571-0120",
+    "website": "https://www.petco.com",
+    "opening_hours": "Mo-Sa 10:00-20:00; Su 10:00-18:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8713646872",
+   "name": "All About Puppies",
+   "lat": 27.9384186,
+   "lon": -82.3193329,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/295545862",
+   "name": "PetSmart",
+   "lat": 27.9210358,
+   "lon": -82.3221539,
+   "distKm": 13.7,
+   "address": "11331 Causeway Boulevard, Brandon, FL 33511",
+   "tags": {
+    "phone": "+1 813-689-3378",
+    "website": "http://stores.petsmart.com/320",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11146508450",
+   "name": "Pet Supplies Plus",
+   "lat": 28.0049751,
+   "lon": -82.5975583,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/8713044759",
+   "name": "PetSmart",
+   "lat": 27.9358721,
+   "lon": -82.3006728,
+   "distKm": 15.5,
+   "address": "1051 Brandon Boulevard, West Brandon, FL 33511",
+   "tags": {
+    "phone": "+1 813-689-4814",
+    "website": "https://www.petsmart.com/stores/us/fl/brandon-store0318.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1009538246",
+   "name": "PetSmart",
+   "lat": 28.0638227,
+   "lon": -82.5734643,
+   "distKm": 17,
+   "address": "12835 Citrus Plaza Drive, Tampa, FL 33625",
+   "tags": {
+    "phone": "+1 813-926-7488",
+    "website": "https://www.petsmart.com/stores/us/fl/tampa-store0319.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1009551093",
+   "name": "PetSmart",
+   "lat": 28.0171484,
+   "lon": -82.6143739,
+   "distKm": 17.1,
+   "address": "11665 West Hillsborough Avenue, Tampa, FL 33635",
+   "tags": {
+    "phone": "+1 813-891-6371",
+    "website": "https://www.petsmart.com/stores/us/fl/tampa-store1741.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4894342887",
+   "name": "Pet Supermarket",
+   "lat": 27.8929756,
+   "lon": -82.272394,
+   "distKm": 19.3,
+   "address": "845 East Bloomingdale Avenue, Brandon, FL 33511",
+   "tags": {
+    "phone": "+1-813-661-8600",
+    "website": "https://www.petsupermarket.com/store-locator/s/brandon-fl-223",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  }
+ ]
+}

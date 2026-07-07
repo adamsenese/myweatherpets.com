@@ -1,0 +1,208 @@
+{
+ "$schemaVersion": 1,
+ "city": "spokane",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:34:30.916Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "node/13320173098",
+   "name": "North West Terraria",
+   "lat": 47.6574541,
+   "lon": -117.4078485,
+   "distKm": 1.4,
+   "address": "209 East Sprague Avenue, Spokane, WA 99202",
+   "tags": {
+    "phone": "+1-406-291-8026",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "way/404682841",
+   "name": "Lil Bit O' Grooming Pet Salon",
+   "lat": 47.6760108,
+   "lon": -117.4279593,
+   "distKm": 1.9,
+   "address": "1028 West Shannon Avenue, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "way/1029164062",
+   "name": "Great Northern Cage Co",
+   "lat": 47.6839212,
+   "lon": -117.3882234,
+   "distKm": 4,
+   "address": "2821 North Hogan Street, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "node/12893044434",
+   "name": "Petco",
+   "lat": 47.7016602,
+   "lon": -117.4126328,
+   "distKm": 4.9,
+   "address": "4727 North Division Street, Spokane, WA",
+   "tags": {
+    "phone": "+1-509-503-9017",
+    "website": "https://stores.petco.com/wa/spokane/pet-supplies-spokane-wa-2203.html",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4081914057",
+   "name": "Dogtown Company",
+   "lat": 47.6511987,
+   "lon": -117.3606073,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9634747839",
+   "name": "Petco",
+   "lat": 47.6290723,
+   "lon": -117.3690717,
+   "distKm": 5.4,
+   "address": "2805 East 29th Avenue, Spokane, WA 99223",
+   "tags": {
+    "phone": "+1-509-532-0185",
+    "website": "https://stores.petco.com/wa/spokane/pet-supplies-spokane-wa-1217.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/11998048575",
+   "name": "Wild Birds Unlimited",
+   "lat": 47.6290862,
+   "lon": -117.3681369,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/11998048581",
+   "name": "The Urban Canine",
+   "lat": 47.6284873,
+   "lon": -117.3678179,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10694079047",
+   "name": "The Urban Canine",
+   "lat": 47.7162278,
+   "lon": -117.4358927,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.theurbancanine.com/"
+   }
+  },
+  {
+   "id": "node/4574118680",
+   "name": "PetSmart",
+   "lat": 47.6089777,
+   "lon": -117.3676609,
+   "distKm": 7.1,
+   "address": "4919 South Regal Street, Spokane, WA 99223",
+   "tags": {
+    "phone": "+1-509-481-9339",
+    "website": "https://www.petsmart.com/stores/us/wa/spokane-store2448.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4574118667",
+   "name": "Prairie Dog Pet Mercantile",
+   "lat": 47.6033843,
+   "lon": -117.3688303,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/663040866",
+   "name": "The Yuppy Puppy",
+   "lat": 47.7446208,
+   "lon": -117.4076274,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4437280129",
+   "name": "PetSmart",
+   "lat": 47.7484029,
+   "lon": -117.3992036,
+   "distKm": 10.2,
+   "address": "9950 North Newport Highway, Spokane, WA 99218",
+   "tags": {
+    "phone": "+1-509-466-4566",
+    "website": "https://www.petsmart.com/stores/us/wa/spokane-store0381.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1496311127",
+   "name": "Pet Vittles and Wild Bird West",
+   "lat": 47.6657024,
+   "lon": -117.2831642,
+   "distKm": 10.7,
+   "address": "919 North Argonne Road, Spokane Valley, WA 99212",
+   "tags": {
+    "phone": "+1-509-927-0675",
+    "website": "https://petvittles.com/",
+    "opening_hours": "Tu-Fr 09:30-18:00; Sa 09:30-15:00"
+   }
+  },
+  {
+   "id": "node/10635283076",
+   "name": "Fish World",
+   "lat": 47.6560296,
+   "lon": -117.2497898,
+   "distKm": 13.2,
+   "address": "11522 East Sprague Avenue, Spokane Valley, WA 99206",
+   "tags": {
+    "phone": "+1-509-535-8787",
+    "website": "https://fishworldspokane.com/",
+    "opening_hours": "Mo-Su 12:00-20:00"
+   }
+  },
+  {
+   "id": "node/3599757617",
+   "name": "Petco",
+   "lat": 47.6573628,
+   "lon": -117.1956107,
+   "distKm": 17.3,
+   "address": "10 North Sullivan Road, Veradale, WA 99037",
+   "tags": {
+    "phone": "+1-509-927-2670",
+    "website": "https://stores.petco.com/wa/veradale/pet-supplies-veradale-wa-257.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/335521775",
+   "name": "PetSmart",
+   "lat": 47.6656139,
+   "lon": -117.1934433,
+   "distKm": 17.4,
+   "address": "15615 East Broadway Avenue, Spokane Valley, WA 99037",
+   "tags": {
+    "phone": "+1-509-927-9223",
+    "website": "https://www.petsmart.com/stores/us/wa/spokane-valley-store1382.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

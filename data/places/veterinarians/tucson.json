@@ -1,0 +1,265 @@
+{
+ "$schemaVersion": 1,
+ "city": "tucson",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:28:49.168Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 25,
+ "places": [
+  {
+   "id": "way/230167419",
+   "name": "Strickland Veterinary Clinic",
+   "lat": 32.260993,
+   "lon": -110.9350321,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/839940155",
+   "name": "Speedway Veterinary Hospital",
+   "lat": 32.2358329,
+   "lon": -110.9122248,
+   "distKm": 6.1,
+   "address": "3736 East Speedway Boulevard, Tucson, AZ 85716",
+   "tags": {
+    "phone": "+1 520-321-4235",
+    "website": "https://speedwayvet.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00"
+   }
+  },
+  {
+   "id": "way/865780131",
+   "name": "Benarda Veterinary Hospital",
+   "lat": 32.2615124,
+   "lon": -110.9263966,
+   "distKm": 6.3,
+   "address": "3002 North Country Club Road, Tucson, AZ 85716",
+   "tags": {
+    "phone": "+1 520-325-2997",
+    "website": "https://benardavet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/840642710",
+   "name": "Miller Pet Hospital",
+   "lat": 32.2370212,
+   "lon": -110.9046186,
+   "distKm": 6.8,
+   "address": "4131 East Speedway Boulevard, Tucson, AZ 85712",
+   "tags": {}
+  },
+  {
+   "id": "way/235913467",
+   "name": "El Encanto Pet Clinic",
+   "lat": 32.2210588,
+   "lon": -110.8995738,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5516587767",
+   "name": "Acacia Animal Hospital",
+   "lat": 32.2834071,
+   "lon": -110.9443834,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/800897430",
+   "name": "Buena Pet Clinic",
+   "lat": 32.2331819,
+   "lon": -110.8922337,
+   "distKm": 7.8,
+   "address": "900 North Swan Road, Tucson, AZ",
+   "tags": {
+    "phone": "+1 520-323-9487",
+    "website": "https://www.buenapetclinic.com",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/6926415783",
+   "name": "Desert Hills Pet Clinic",
+   "lat": 32.2979983,
+   "lon": -110.9772638,
+   "distKm": 8.4,
+   "address": "5016 North Oracle Road, Tucson, AZ 85704",
+   "tags": {
+    "phone": "+1-520-293-8788",
+    "website": "http://deserthillspc.com",
+    "opening_hours": "Mo-Fr 8:00-17:00"
+   }
+  },
+  {
+   "id": "node/11123704754",
+   "name": "A Loyal Companion",
+   "lat": 32.2494208,
+   "lon": -110.89082,
+   "distKm": 8.4,
+   "address": "4758 East Grant Road, Tucson, AZ 85712",
+   "tags": {
+    "phone": "+1-520-448-3548",
+    "website": "https://aloyalcompanion.com/",
+    "opening_hours": "Tu-Sa"
+   }
+  },
+  {
+   "id": "node/13533397601",
+   "name": "VCA Animal Hospital and Emergency Room",
+   "lat": 32.206567,
+   "lon": -110.8854216,
+   "distKm": 8.6,
+   "address": "4984 East 22nd Street, 85711",
+   "tags": {
+    "phone": "+1-520-748-0331"
+   }
+  },
+  {
+   "id": "node/13621614101",
+   "name": "VCA Emergency Room",
+   "lat": 32.206562,
+   "lon": -110.8857195,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/800249084",
+   "name": "Wiseman Animal Hospital & Boarding Kennel",
+   "lat": 32.236528,
+   "lon": -110.8655727,
+   "distKm": 10.4,
+   "address": "5943, Tucson, AZ 85712",
+   "tags": {}
+  },
+  {
+   "id": "node/11696798248",
+   "name": "Veterinary Emergency Group",
+   "lat": 32.3353433,
+   "lon": -110.9767085,
+   "distKm": 12.5,
+   "address": "7080 North Oracle Road, Tucson, AZ 85704",
+   "tags": {}
+  },
+  {
+   "id": "way/483332907",
+   "name": "Tucson Small Animal Hospital",
+   "lat": 32.2202996,
+   "lon": -110.8414916,
+   "distKm": 12.5,
+   "address": "22 South Kolb Road, Tucson, AZ 85710",
+   "tags": {}
+  },
+  {
+   "id": "way/1062212276",
+   "name": "Tucson Veterinary Specialists",
+   "lat": 32.3368449,
+   "lon": -110.9996342,
+   "distKm": 12.9,
+   "address": "1601 West Ina Road, tucson, AZ 85704",
+   "tags": {}
+  },
+  {
+   "id": "way/527706286",
+   "name": "Cat Hospital of Tucson",
+   "lat": 32.2206142,
+   "lon": -110.8367972,
+   "distKm": 13,
+   "address": "7292 East Broadway Boulevard, Tucson, AZ 85710",
+   "tags": {}
+  },
+  {
+   "id": "way/777866043",
+   "name": "Suffolk Hills Pet Clinic",
+   "lat": 32.3476415,
+   "lon": -110.9747272,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "phone": "+1-520-742-1194",
+    "opening_hours": "Mo-Fr 08:00-17:00, Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/714474090",
+   "name": "Sabino Canyon Veterinary Care",
+   "lat": 32.2963398,
+   "lon": -110.823585,
+   "distKm": 16.4,
+   "address": "4910 North Sabino Canyon Road, Tucson, AZ 85750",
+   "tags": {}
+  },
+  {
+   "id": "way/38476249",
+   "name": "Cimarron Small Animal Hospital",
+   "lat": 32.2229066,
+   "lon": -110.7892931,
+   "distKm": 17.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/351043427",
+   "name": "Monument East Veterinary Hospital",
+   "lat": 32.2347144,
+   "lon": -110.7902778,
+   "distKm": 17.4,
+   "address": "1051 North Harrison Road, Tucson, AZ 85710",
+   "tags": {}
+  },
+  {
+   "id": "way/788289695",
+   "name": "VCA Animal Hospital",
+   "lat": 32.1924493,
+   "lon": -110.7903005,
+   "distKm": 17.7,
+   "address": "2560 South Harrison Road, Tucson, AZ 85748",
+   "tags": {
+    "phone": "+1-520-885-2364",
+    "website": "https://vcahospitals.com/animal-health-hospital",
+    "opening_hours": "Mo-Tu 08:00-17:00, We closed, Th-Fr 08:00-17:00, Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/310292496",
+   "name": "Saguaro Veterinary Surgery",
+   "lat": 32.3813172,
+   "lon": -111.0486633,
+   "distKm": 19,
+   "address": "3850 West Linda Vista Boulevard, Tucson, AZ 85742",
+   "tags": {}
+  },
+  {
+   "id": "node/8050701963",
+   "name": "Mt. View Vetrinary Clinic",
+   "lat": 32.3824703,
+   "lon": -111.0482608,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13944184816",
+   "name": "UrgentVet",
+   "lat": 32.3972032,
+   "lon": -110.9574582,
+   "distKm": 19.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6594624478",
+   "name": "Cañada Hills Animal Hospital",
+   "lat": 32.3984484,
+   "lon": -110.995233,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

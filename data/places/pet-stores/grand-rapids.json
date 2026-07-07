@@ -1,0 +1,199 @@
+{
+ "$schemaVersion": 1,
+ "city": "grand-rapids",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:35:11.528Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 16,
+ "places": [
+  {
+   "id": "node/8980830037",
+   "name": "Chow Hound Pet Supplies",
+   "lat": 42.9258525,
+   "lon": -85.6054893,
+   "distKm": 6.6,
+   "address": "2490 Burton Street Southeast, Grand Rapids, MI 49546",
+   "tags": {
+    "phone": "+1-616-808-3146",
+    "website": "https://shop.chowhoundpet.com/products/shop/",
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "id": "way/944467467",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9141493,
+   "lon": -85.7164171,
+   "distKm": 6.7,
+   "address": "2033 28th Street Southwest, Wyoming, MI 49519",
+   "tags": {
+    "phone": "+1-616-532-5171",
+    "website": "https://www.petsuppliesplus.com/store/mi/wyoming/11-wyoming/11",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/12866793301",
+   "name": "Petco",
+   "lat": 43.0218817,
+   "lon": -85.6917739,
+   "distKm": 6.8,
+   "address": "3165 Alpine Avenue Northwest",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/13850615017",
+   "name": "Pet Supplies Plus",
+   "lat": 43.0285914,
+   "lon": -85.6900313,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/12877628001",
+   "name": "Chow Hound Pet Supplies",
+   "lat": 43.0012214,
+   "lon": -85.588298,
+   "distKm": 7.7,
+   "address": "2050 East Beltline Avenue Northeast, MI 49525",
+   "tags": {
+    "opening_hours": "Mo-Su 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/13819339699",
+   "name": "Pet Supplies Plus",
+   "lat": 42.9183703,
+   "lon": -85.5825062,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/7935892952",
+   "name": "Chow Hound Pet Supplies",
+   "lat": 42.9718897,
+   "lon": -85.7787961,
+   "distKm": 9.1,
+   "address": "4482 Lake Michigan Drive Northwest, Walker, MI 49534",
+   "tags": {}
+  },
+  {
+   "id": "way/465489207",
+   "name": "VIPets (Jillians Exotics LLC)",
+   "lat": 43.0395051,
+   "lon": -85.6106564,
+   "distKm": 9.7,
+   "address": "4191 Plainfield Avenue Northeast, Grand Rapids, Mi 49525",
+   "tags": {
+    "phone": "+1-616-301-1483",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/9966550278",
+   "name": "PetSmart",
+   "lat": 42.9111142,
+   "lon": -85.569878,
+   "distKm": 9.9,
+   "address": "3950 28th Street Southeast, Kentwood, MI 49512",
+   "tags": {
+    "phone": "+1 616-957-1409",
+    "website": "https://www.petsmart.com/stores/us/mi/kentwood-store0717.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13252708767",
+   "name": "Puppy Dog Nursery",
+   "lat": 42.8829927,
+   "lon": -85.7580414,
+   "distKm": 11.6,
+   "address": "3819 Rivertown Parkway Southwest, Grandville, MI 49418",
+   "tags": {
+    "phone": "+1 616-755-3487",
+    "website": "https://puppydognursery.com/",
+    "opening_hours": "Su 11:00-19:00, Mo-Sa 10:00-20:00"
+   }
+  },
+  {
+   "id": "node/8542148007",
+   "name": "Pet Supplies Plus",
+   "lat": 42.8758738,
+   "lon": -85.7612796,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9554873344",
+   "name": "Chow Hound",
+   "lat": 42.8586814,
+   "lon": -85.7238428,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1329677443",
+   "name": "PetSmart",
+   "lat": 42.8808513,
+   "lon": -85.7764397,
+   "distKm": 12.7,
+   "address": "4245 Canal Avenue Southwest, Grandville, MI 49426",
+   "tags": {
+    "phone": "+1 616-406-3344",
+    "website": "https://www.petsmart.com/stores/us/mi/grandville-store1064.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4202303213",
+   "name": "Chowhound Pet Supplies",
+   "lat": 43.0581798,
+   "lon": -85.5811338,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8744121182",
+   "name": "Pet Supplies Plus",
+   "lat": 42.8515246,
+   "lon": -85.6263845,
+   "distKm": 12.9,
+   "address": "6159 Kalamazoo Avenue Southeast, Grand Rapids, MI 49508",
+   "tags": {
+    "phone": "+1-616-554-3600",
+    "website": "https://www.petsuppliesplus.com/store/mi/grand-rapids/94-grand-rapids/94",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13541541701",
+   "name": "V. I. Pets",
+   "lat": 42.8423619,
+   "lon": -85.6641565,
+   "distKm": 13.5,
+   "address": "6701 Division Avenue South, 49548",
+   "tags": {
+    "phone": "+1 616-281-3900",
+    "opening_hours": "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su 00:00-17:00"
+   }
+  }
+ ]
+}

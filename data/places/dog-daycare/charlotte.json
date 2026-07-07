@@ -1,0 +1,158 @@
+{
+ "$schemaVersion": 1,
+ "city": "charlotte",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:25:10.472Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "node/5286419102",
+   "name": "Preppy Pet",
+   "lat": 35.2121562,
+   "lon": -80.8612783,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/323192915",
+   "name": "NoDa Bark & Board",
+   "lat": 35.2382228,
+   "lon": -80.8178386,
+   "distKm": 2.6,
+   "address": "2001 North Davidson Street, Charlotte, NC 28206",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/849374592",
+   "name": "Lucky Dog Bark - Charlotte",
+   "lat": 35.2343758,
+   "lon": -80.8730346,
+   "distKm": 2.8,
+   "address": "2220 Thrift Road, Charlotte, NC 28208",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/553328618",
+   "name": "K9 Playland",
+   "lat": 35.209551,
+   "lon": -80.8663263,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/872598366",
+   "name": "Animal People",
+   "lat": 35.2521482,
+   "lon": -80.8706749,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/921887769",
+   "name": "Social Pet Charlotte",
+   "lat": 35.1982247,
+   "lon": -80.7948528,
+   "distKm": 5.4,
+   "address": "3814 Monroe Road, Charlotte, NC 28211",
+   "tags": {
+    "website": "https://www.socialpethotel.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/836506732",
+   "name": "PetSuites",
+   "lat": 35.1973826,
+   "lon": -80.7914671,
+   "distKm": 5.7,
+   "address": "1415 North Wendover Road, Charlotte, NC 28211",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/871412437",
+   "name": "Dogs All Day",
+   "lat": 35.1824828,
+   "lon": -80.8794436,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/836908483",
+   "name": "The Barker Lounge",
+   "lat": 35.193984,
+   "lon": -80.787067,
+   "distKm": 6.3,
+   "address": "4336 Monroe Road, Charlotte, NC 28205",
+   "tags": {
+    "website": "https://thebarkerlounge.com/east-charlotte/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/553175940",
+   "name": "Pet Paradise",
+   "lat": 35.229839,
+   "lon": -80.921782,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.petparadise.com/charlotte-airport.htm",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/762367748",
+   "name": "PetSuites Charlotte Airport",
+   "lat": 35.1489815,
+   "lon": -80.8942463,
+   "distKm": 9.9,
+   "address": "219 Archdale Drive, Charlotte, NC 28217",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/894380751",
+   "name": "Pet Kennel",
+   "lat": 35.102478,
+   "lon": -80.9378944,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.carowinds.com/help/pet-kennel",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11845218046",
+   "name": "Lucky Dog Bark and Brew",
+   "lat": 35.1066595,
+   "lon": -80.9591383,
+   "distKm": 17,
+   "address": "13835 South Lakes Drive, Charlotte, NC 28273",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

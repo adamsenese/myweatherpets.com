@@ -1,0 +1,586 @@
+{
+ "$schemaVersion": 1,
+ "city": "madrid",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:37:37.579Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/766591812",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4263701,
+   "lon": -3.699791,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/329659055",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4061966,
+   "lon": -3.7044926,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11225325380",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4300699,
+   "lon": -3.7076299,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1260484468",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.402818,
+   "lon": -3.6944865,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1305120079",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4052829,
+   "lon": -3.7180367,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1055994928",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3998881,
+   "lon": -3.7053093,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/7041453617",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.398663,
+   "lon": -3.6925282,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/622391152",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4089278,
+   "lon": -3.7270505,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/818605681",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4090166,
+   "lon": -3.6802745,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1488000789",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4030869,
+   "lon": -3.72346,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8648047117",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4389372,
+   "lon": -3.7055107,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9823189756",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4390305,
+   "lon": -3.6946343,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12715628894",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4406349,
+   "lon": -3.7070806,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/558844828",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.393516,
+   "lon": -3.7133596,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8710197572",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4417799,
+   "lon": -3.715904,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/688033429",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3898695,
+   "lon": -3.6980567,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1276527742",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3979243,
+   "lon": -3.729248,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1320101048",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3997372,
+   "lon": -3.6766153,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/10897266209",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3951186,
+   "lon": -3.6817329,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/565155653",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4007893,
+   "lon": -3.7350693,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/668846563",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3918005,
+   "lon": -3.6855904,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1365001028",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3884711,
+   "lon": -3.7044847,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9196142718",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4304704,
+   "lon": -3.6692661,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5122340418",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3922879,
+   "lon": -3.7274404,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/572690169",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3947069,
+   "lon": -3.7318982,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1242622541",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3888132,
+   "lon": -3.6866916,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/48599791",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4148064,
+   "lon": -3.6622144,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/859443341",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3952639,
+   "lon": -3.6728857,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wood"
+   }
+  },
+  {
+   "id": "node/5626648794",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3886873,
+   "lon": -3.7249596,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11026520237",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4019516,
+   "lon": -3.6666244,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1436563133",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4045744,
+   "lon": -3.6641669,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/6734771106",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4064672,
+   "lon": -3.6609377,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8572291599",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4273042,
+   "lon": -3.660793,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13657988890",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3834966,
+   "lon": -3.7117187,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1191209617",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4512969,
+   "lon": -3.7106826,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/148269503",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4008968,
+   "lon": -3.6613756,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes"
+   }
+  },
+  {
+   "id": "way/309956544",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4217084,
+   "lon": -3.6569424,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "barrier": "kerb"
+   }
+  },
+  {
+   "id": "way/318954424",
+   "name": "Pipican",
+   "lat": 40.4299125,
+   "lon": -3.6597386,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/919310889",
+   "name": "Área de recreo canina",
+   "lat": 40.4517471,
+   "lon": -3.714404,
+   "distKm": 4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/739644649",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4428305,
+   "lon": -3.6664058,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12565315136",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3833728,
+   "lon": -3.6757575,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/909644912",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4502825,
+   "lon": -3.6750878,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6585962816",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4053008,
+   "lon": -3.6530841,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9017772778",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4422717,
+   "lon": -3.6619779,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/319242522",
+   "name": "Pipican",
+   "lat": 40.426414,
+   "lon": -3.6523395,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/552009368",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3769615,
+   "lon": -3.7103136,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/680437040",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4395715,
+   "lon": -3.6599787,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1035943645",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3991673,
+   "lon": -3.656233,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1324622018",
+   "name": "Área de entrenamiento canino",
+   "lat": 40.3974212,
+   "lon": -3.7508537,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/3632136771",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4518001,
+   "lon": -3.6756844,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12043566034",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4577202,
+   "lon": -3.6983023,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10931287076",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3958157,
+   "lon": -3.7524092,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/560172987",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3851998,
+   "lon": -3.7399134,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1510284986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4582089,
+   "lon": -3.6925089,
+   "distKm": 4.7,
+   "address": "40 Avenida de Brasil, 28020",
+   "tags": {}
+  },
+  {
+   "id": "way/714851621",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3993501,
+   "lon": -3.7550193,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/330961986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.4352183,
+   "lon": -3.6516351,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "barrier": "kerb"
+   }
+  },
+  {
+   "id": "way/558822507",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3760314,
+   "lon": -3.7265162,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/915547295",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3887898,
+   "lon": -3.6593933,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1017648998",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3982408,
+   "lon": -3.7573221,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9261424999",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 40.3772761,
+   "lon": -3.7348902,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

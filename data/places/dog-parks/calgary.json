@@ -1,0 +1,594 @@
+{
+ "$schemaVersion": 1,
+ "city": "calgary",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:39:38.008Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/1459352003",
+   "name": "BLVD Bark",
+   "lat": 51.0410588,
+   "lon": -114.060251,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/958539477",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0496798,
+   "lon": -114.0853046,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1498073767",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0416875,
+   "lon": -114.0575195,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/988105335",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0399709,
+   "lon": -114.0882584,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/927836670",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0465452,
+   "lon": -114.0473683,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1328680670",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0403508,
+   "lon": -114.0442825,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/254041660",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0389782,
+   "lon": -114.1060241,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/382515145",
+   "name": "Knobhill Off-Leash Park",
+   "lat": 51.0324902,
+   "lon": -114.1044769,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/621064042",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0387733,
+   "lon": -114.1120272,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1036621193",
+   "name": "St. Joseph Dog Park",
+   "lat": 51.0702963,
+   "lon": -114.0749754,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/621062841",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0359976,
+   "lon": -114.1147739,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/540467376",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0336583,
+   "lon": -114.0232598,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/924972419",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0147379,
+   "lon": -114.0910621,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1237135076",
+   "name": "Killarney Off Leash Dog Park",
+   "lat": 51.0356746,
+   "lon": -114.1230669,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/784955650",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0131934,
+   "lon": -114.0942319,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/924972437",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0117209,
+   "lon": -114.0874795,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/33105463",
+   "name": "Karl Baker Off-Leash Park",
+   "lat": 51.0609145,
+   "lon": -114.1246247,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/541903670",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0519123,
+   "lon": -114.1293134,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/25601269",
+   "name": "Queen's Park Village Off-Leash Area",
+   "lat": 51.0823729,
+   "lon": -114.0843972,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/390517119",
+   "name": "Cambrian Heights Off-Leash Area 3",
+   "lat": 51.0825287,
+   "lon": -114.0864109,
+   "distKm": 4.3,
+   "address": "3425 10 Street NW",
+   "tags": {}
+  },
+  {
+   "id": "way/485745853",
+   "name": "Cambrian Heights Off-Leash Area 2",
+   "lat": 51.0845478,
+   "lon": -114.0841214,
+   "distKm": 4.5,
+   "address": "625 10 Street NW",
+   "tags": {}
+  },
+  {
+   "id": "way/952093759",
+   "name": "Currie Bark Park",
+   "lat": 51.0194685,
+   "lon": -114.1249253,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/541898001",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0549096,
+   "lon": -114.1373325,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/23717211",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.092501,
+   "lon": -114.05834,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "website": "https://www.calgary.ca/CSPS/Parks/Documents/Locations/Off-Leash-Areas/highland-park-off-leash-area.pdf"
+   }
+  },
+  {
+   "id": "way/1190223036",
+   "name": "Southview Off Leash Dog Park",
+   "lat": 51.0174898,
+   "lon": -114.005623,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "small_dog": "shared",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/264214825",
+   "name": "Off-leash dog park",
+   "lat": 51.0193066,
+   "lon": -114.1422048,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/23725425",
+   "name": "Thorncliff off-leash area 5",
+   "lat": 51.0972502,
+   "lon": -114.0748072,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/16404426",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0042868,
+   "lon": -114.129841,
+   "distKm": 6.1,
+   "address": "3129 Glenmore Trail SW",
+   "tags": {
+    "surface": "grass",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1447603990",
+   "name": "Fairview Off-Leash Dog Park",
+   "lat": 50.9857466,
+   "lon": -114.0664926,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/222218280",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0262075,
+   "lon": -114.1625026,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/263533284",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0770656,
+   "lon": -114.156254,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/14046918",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 50.9943236,
+   "lon": -114.1295719,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/539138271",
+   "name": "Rundle off-leash area 1",
+   "lat": 51.0689782,
+   "lon": -113.975395,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/539140095",
+   "name": "Marlborough off-leash area 1",
+   "lat": 51.0651063,
+   "lon": -113.9688341,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/23725619",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1180304,
+   "lon": -114.0858139,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/490372623",
+   "name": "Nose Hill Park Off-Leash Area",
+   "lat": 51.1133223,
+   "lon": -114.1143589,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "barrier": "no",
+    "small_dog": "shared",
+    "access": "yes",
+    "website": "http://www.calgary.ca/CSPS/Parks/Pages/Locations/Dog-off-leash-areas-in-parks.aspx"
+   }
+  },
+  {
+   "id": "way/822721778",
+   "name": "HAY-002-Haysboro & Southwood Dog Park",
+   "lat": 50.9718218,
+   "lon": -114.0943419,
+   "distKm": 8.3,
+   "address": "8416 14 Street SW, Calgary",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/881140389",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0888666,
+   "lon": -114.1690995,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/271945911",
+   "name": "Varsity Ravine",
+   "lat": 51.0984215,
+   "lon": -114.1612214,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8793185162",
+   "name": "Huntington Hills Area 3 Off Leash Dog Park",
+   "lat": 51.1250429,
+   "lon": -114.0568369,
+   "distKm": 9,
+   "address": "303 Beddington Boulevard NE, Calgary, T3K 2G9",
+   "tags": {}
+  },
+  {
+   "id": "relation/16331018",
+   "name": "Sue Higgins Park",
+   "lat": 50.9674808,
+   "lon": -114.0315442,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "small_dog": "separate"
+   }
+  },
+  {
+   "id": "way/253286743",
+   "name": "Pineridge Burm off-leash (unfenced)",
+   "lat": 51.0686778,
+   "lon": -113.9451205,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/903580785",
+   "name": "West Nose Creek Park",
+   "lat": 51.1274631,
+   "lon": -114.0501565,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/347734112",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 50.9609514,
+   "lon": -114.0938175,
+   "distKm": 9.4,
+   "address": "1415 Southland Drive SW, Calgary",
+   "tags": {}
+  },
+  {
+   "id": "way/464559116",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1135503,
+   "lon": -114.1518966,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/881140388",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0974114,
+   "lon": -114.1823627,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/49364185",
+   "name": "Dalhousie off-leash area 2",
+   "lat": 51.1175039,
+   "lon": -114.1620928,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/881140387",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1013501,
+   "lon": -114.1973587,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/450281331",
+   "name": "Falconridge Off-Leash Area",
+   "lat": 51.0974545,
+   "lon": -113.9387064,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/881140385",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0986009,
+   "lon": -114.2031931,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/411524676",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1002891,
+   "lon": -114.2067873,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1254491803",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.0893904,
+   "lon": -114.2208983,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/448237702",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1102056,
+   "lon": -113.9265748,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/448321435",
+   "name": "Off-leash area",
+   "lat": 51.1249335,
+   "lon": -114.2182131,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/287195899",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1251093,
+   "lon": -114.2228616,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/444151181",
+   "name": "Off-leash area",
+   "lat": 51.1220505,
+   "lon": -114.2293675,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1357882153",
+   "name": "Evanston Off-Leash Dog Area",
+   "lat": 51.1684987,
+   "lon": -114.1107499,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/287195898",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 51.1251052,
+   "lon": -114.2273836,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/444150910",
+   "name": "Off-leash area",
+   "lat": 51.1283856,
+   "lon": -114.224655,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/444150911",
+   "name": "Off-leash area",
+   "lat": 51.1265194,
+   "lon": -114.2287877,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

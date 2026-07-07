@@ -1,0 +1,109 @@
+{
+ "$schemaVersion": 1,
+ "city": "el-paso",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:27:02.241Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/6428818893",
+   "name": "El Centro",
+   "lat": 31.738406,
+   "lon": -106.4855869,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/993751827",
+   "name": "Petco",
+   "lat": 31.7837963,
+   "lon": -106.4159584,
+   "distKm": 7,
+   "address": "5994 Montana Avenue, El Paso, TX 79925",
+   "tags": {
+    "phone": "+1 915-771-7400",
+    "website": "https://stores.petco.com/tx/elpaso/pet-supplies-elpaso-tx-2442.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/293384802",
+   "name": "PetSmart",
+   "lat": 31.8217724,
+   "lon": -106.541629,
+   "distKm": 8.5,
+   "address": "655 Sunland Park Drive, El Paso, TX 79912",
+   "tags": {
+    "phone": "+1 915-587-7898",
+    "website": "https://www.petsmart.com/stores/us/tx/el-paso-store0212.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8631005866",
+   "name": "PetSmart",
+   "lat": 31.7692569,
+   "lon": -106.368111,
+   "distKm": 11.1,
+   "address": "8889 Gateway Boulevard West, Paso, TX 79925",
+   "tags": {
+    "phone": "+1 915-255-4233",
+    "website": "https://www.petsmart.com/stores/us/tx/el-paso-store2063.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11870554176",
+   "name": "Thierny",
+   "lat": 31.6765959,
+   "lon": -106.4230953,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "website": "https://thiernymascotas.com",
+    "opening_hours": "Mo-Sa 09:30-17:30; Su off"
+   }
+  },
+  {
+   "id": "way/338049153",
+   "name": "Pets' Barn",
+   "lat": 31.7693104,
+   "lon": -106.3185019,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12651783880",
+   "name": "Pet's Barn",
+   "lat": 31.8924638,
+   "lon": -106.4136854,
+   "distKm": 16,
+   "address": "9807 Dyer Street, El Paso, TX 79924",
+   "tags": {
+    "phone": "+1-915-751-3553",
+    "opening_hours": "Mo-Sa 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/929529834",
+   "name": "Petco",
+   "lat": 31.926213,
+   "lon": -106.4399281,
+   "distKm": 18.8,
+   "address": "10771 Gateway South Boulevard, El Paso, TX 79934",
+   "tags": {
+    "phone": "+1 915-821-0945",
+    "website": "https://stores.petco.com/tx/elpaso/pet-supplies-elpaso-tx-2444.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

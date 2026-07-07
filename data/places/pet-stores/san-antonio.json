@@ -1,0 +1,203 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-antonio",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:21:57.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "way/1481175420",
+   "name": "Rudy's Feed Store",
+   "lat": 29.3956001,
+   "lon": -98.5162175,
+   "distKm": 3.9,
+   "address": "1801 Nogalitos Street, San Antonio, TX 78225",
+   "tags": {}
+  },
+  {
+   "id": "way/1466087976",
+   "name": "Fintique Tropical Fish Pet Store",
+   "lat": 29.4690142,
+   "lon": -98.5262764,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7068037382",
+   "name": "Pet Wants San Antonio",
+   "lat": 29.4725184,
+   "lon": -98.4631833,
+   "distKm": 6.1,
+   "address": "5005 Broadway, San Antonio, TX 78209",
+   "tags": {}
+  },
+  {
+   "id": "node/7070109083",
+   "name": "Fifi & Fidos Pet Boutique",
+   "lat": 29.4739034,
+   "lon": -98.462273,
+   "distKm": 6.3,
+   "address": "5120 Broadway, San Antonio, TX 78209",
+   "tags": {}
+  },
+  {
+   "id": "node/6395103882",
+   "name": "Pet's Barn",
+   "lat": 29.3575017,
+   "lon": -98.5042777,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7229458509",
+   "name": "Petco",
+   "lat": 29.4886337,
+   "lon": -98.4480631,
+   "distKm": 8.4,
+   "address": "1211 Austin Highway, San Antonio, TX 78209",
+   "tags": {
+    "phone": "+1 210-824-0318",
+    "website": "https://stores.petco.com/tx/sanantonio/pet-supplies-sanantonio-tx-2421.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12423511405",
+   "name": "Petco",
+   "lat": 29.5140728,
+   "lon": -98.551255,
+   "distKm": 11.5,
+   "address": "8109 Callaghan Road, San Antonio, TX 78230",
+   "tags": {
+    "phone": "+12103663442",
+    "website": "https://stores.petco.com/tx/sanantonio/pet-supplies-sanantonio-tx-5414.html",
+    "opening_hours": "Su 22:00-19:00; Mo-Sa 09:00-21:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/275865045",
+   "name": "PetSmart",
+   "lat": 29.4875766,
+   "lon": -98.5905759,
+   "distKm": 11.7,
+   "address": "6055 La Cima, San Antonio, TX 78229",
+   "tags": {
+    "phone": "+1 210-523-7995",
+    "website": "https://www.petsmart.com/stores/us/tx/san-antonio-store0209.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12660712015",
+   "name": "Petco",
+   "lat": 29.4765975,
+   "lon": -98.611475,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1307704962",
+   "name": "Elegant Reef - Tropical Fish Studio",
+   "lat": 29.5532389,
+   "lon": -98.4974917,
+   "distKm": 14.4,
+   "address": "301 West Nakoma Drive, TX 78216",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-17:00; Mo,Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "node/3349161516",
+   "name": "PetSmart",
+   "lat": 29.4373172,
+   "lon": -98.6468092,
+   "distKm": 14.9,
+   "address": "119 Southwest Loop 410, San Antonio, TX 78245",
+   "tags": {
+    "phone": "+1 210-680-7710",
+    "website": "https://www.petsmart.com/stores/us/tx/san-antonio-store1395.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/366610605",
+   "name": "PetSmart",
+   "lat": 29.5614412,
+   "lon": -98.4858769,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1336978370",
+   "name": "Petco",
+   "lat": 29.4828271,
+   "lon": -98.351203,
+   "distKm": 15.3,
+   "address": "6206 Wood Glen Drive, San Antonio, TX 78244",
+   "tags": {
+    "phone": "+1-210-666-0530",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/6235241530",
+   "name": "Petco",
+   "lat": 29.5627389,
+   "lon": -98.5864362,
+   "distKm": 17.8,
+   "address": "12651 Vance Jackson Road, San Antonio, TX 78230-5960",
+   "tags": {
+    "phone": "+1 210-877-1426",
+    "website": "https://stores.petco.com/tx/sanantonio/pet-supplies-sanantonio-tx-1442.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/238813014",
+   "name": "PetSmart",
+   "lat": 29.5660641,
+   "lon": -98.5875946,
+   "distKm": 18.2,
+   "address": "5219 De Zavala Road, San Antonio, TX 78249",
+   "tags": {
+    "phone": "+1 210-561-0644",
+    "website": "https://www.petsmart.com/stores/us/tx/san-antonio-store1028.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/465689907",
+   "name": "Pets Barn",
+   "lat": 29.4372833,
+   "lon": -98.680659,
+   "distKm": 18.2,
+   "address": "9722 Potranco Road, San Antonio, TX 78251",
+   "tags": {}
+  },
+  {
+   "id": "node/12630438174",
+   "name": "Petco",
+   "lat": 29.5680608,
+   "lon": -98.3871098,
+   "distKm": 19,
+   "address": "13909 Nacogdoches Road",
+   "tags": {
+    "brand": "Petco"
+   }
+  }
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "$schemaVersion": 1,
+ "city": "copenhagen",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:24:47.155Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 41,
+ "places": [
+  {
+   "id": "node/1745588860",
+   "name": "Hunter",
+   "lat": 55.6660884,
+   "lon": 12.5794875,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/13474579997",
+   "name": "Akvariebutikken Planteimporten",
+   "lat": 55.6698782,
+   "lon": 12.5485246,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 10:00-17:30; Fr 10:00-18:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9280213525",
+   "name": "Petlux",
+   "lat": 55.683543,
+   "lon": 12.5465316,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "phone": "+45 25 51 00 05",
+    "website": "https://petlux.dk/pages/dyrbutik-pa-frederiksberg",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/3670593426",
+   "name": "Bonnie Dyrecenter",
+   "lat": 55.6899479,
+   "lon": 12.5557282,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Tu,Th,Fr 10:00-17:30; Sa 10:00-14:00; We 12:00-17:30"
+   }
+  },
+  {
+   "id": "node/9370644052",
+   "name": "Fru Poulsen",
+   "lat": 55.6739504,
+   "lon": 12.5383327,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "phone": "+45 33243322",
+    "website": "https://www.frupoulsen.dk/",
+    "opening_hours": "11:00-18:00; Sa 10:00-14:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/12754433203",
+   "name": "4Benede venner",
+   "lat": 55.6673449,
+   "lon": 12.597855,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Th 11:00-18:00; Fr 12:00-18:00; Sa 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/3671998028",
+   "name": "Bonnie Dyrecenter",
+   "lat": 55.694362,
+   "lon": 12.548251,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/6949235944",
+   "name": "Bonnie Dyrecenter",
+   "lat": 55.6998437,
+   "lon": 12.5772132,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.poppioesterbro.dk",
+    "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/13359389407",
+   "name": "Natural Dog Food",
+   "lat": 55.656614,
+   "lon": 12.5378673,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Th 12:00-17:30; Fr 12:00-19:00; Sa 11:00-14:00; Su,Mo off"
+   }
+  },
+  {
+   "id": "node/6898216398",
+   "name": "Petlux",
+   "lat": 55.7027763,
+   "lon": 12.5776911,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/6790553035",
+   "name": "Maxi Zoo",
+   "lat": 55.7093807,
+   "lon": 12.5778756,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 09:00-17:00; Su off",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/7566176127",
+   "name": "MiniZoo Hunter Valby",
+   "lat": 55.6644461,
+   "lon": 12.5123584,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 3221 4545",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/12292064147",
+   "name": "Bonnie Dyrecenter",
+   "lat": 55.7021638,
+   "lon": 12.5328589,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 35 55 28 71",
+    "website": "https://bonniedyrecenter.dk",
+    "opening_hours": "Mo-Th 10:00-17:30; Fr 10:00-18:00; Sa 10:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/10798945011",
+   "name": "Pethavn",
+   "lat": 55.6656785,
+   "lon": 12.6284324,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "phone": "+45 52 44 49 94",
+    "website": "https://pethavn.dk/",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-15:00; Su 11:00-15:00"
+   }
+  },
+  {
+   "id": "node/9272064669",
+   "name": "Maxi Zoo",
+   "lat": 55.6713031,
+   "lon": 12.5010514,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+45 43440012",
+    "website": "https://www.maxizoo.dk/maxi-zoo-frederiksberg/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/8887120132",
+   "name": "MiniZoo",
+   "lat": 55.6876266,
+   "lon": 12.4917786,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "website": "https://www.minizoo.dk/kundeservice/butikken-vanloese",
+    "brand": "MiniZoo"
+   }
+  },
+  {
+   "id": "node/8077050780",
+   "name": "MiniZoo",
+   "lat": 55.6304137,
+   "lon": 12.6012837,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {
+    "phone": "+45 3216 4545",
+    "website": "https://www.minizoo.dk/"
+   }
+  },
+  {
+   "id": "node/9271999379",
+   "name": "Maxi Zoo",
+   "lat": 55.6544229,
+   "lon": 12.4881982,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "phone": "+45 88770467",
+    "website": "https://www.maxizoo.dk/maxi-zoo-vigerslev/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 09:00-17:00",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/1474091076",
+   "name": "Kastrup Dyrecenter",
+   "lat": 55.6378527,
+   "lon": 12.6352332,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7569004637",
+   "name": "Neonfisken",
+   "lat": 55.7074408,
+   "lon": 12.485582,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {
+    "phone": "+45 38606536",
+    "website": "https://neonfisken.com/",
+    "opening_hours": "Tu-Fr 11:00-17:30; Sa-Su 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/8691590256",
+   "name": "Gadekrydset",
+   "lat": 55.6363484,
+   "lon": 12.6423536,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "website": "https://gade-krydset.dk/",
+    "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9280213528",
+   "name": "Petlux",
+   "lat": 55.7406285,
+   "lon": 12.5781749,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "phone": "+45 22680005",
+    "website": "https://petlux.dk/pages/hunde-og-katte-butik-i-hellerup",
+    "opening_hours": "11:00-18:00 ; Sa 10:00-16:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/9272064624",
+   "name": "Maxi Zoo",
+   "lat": 55.6034789,
+   "lon": 12.586133,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "phone": "+45 88770453",
+    "website": "https://www.maxizoo.dk/maxi-zoo-kastrup/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/9087861507",
+   "name": "Maxsø Dyrefoder & Grovvarecenter",
+   "lat": 55.694476,
+   "lon": 12.4347333,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3273675920",
+   "name": "Maxsøe",
+   "lat": 55.6948776,
+   "lon": 12.4340347,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 44 53 36 96",
+    "website": "https://www.maxsoe.dk/",
+    "opening_hours": "Tu-Th 10:00-17:30; Fr 10:00-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/9272064650",
+   "name": "Maxi Zoo",
+   "lat": 55.7178084,
+   "lon": 12.4500867,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 44944010",
+    "website": "https://www.maxizoo.dk/maxi-zoo-herlev-big/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/9270790097",
+   "name": "Maxi Zoo",
+   "lat": 55.7547098,
+   "lon": 12.5190859,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "phone": "+45 39762107",
+    "website": "https://www.maxizoo.dk/maxi-zoo-gentofte/",
+    "opening_hours": "09:00-21:00; Sa-Su 09:00-19:00; PH off",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/11230095453",
+   "name": "Mini Zoo",
+   "lat": 55.7235228,
+   "lon": 12.4401611,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/470344475",
+   "name": "Maxi Zoo Søborg",
+   "lat": 55.7477048,
+   "lon": 12.4810386,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 88770279",
+    "website": "https://www.maxizoo.dk/maxi-zoo-soeborg/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/6098221839",
+   "name": "Maxi Zoo",
+   "lat": 55.6669967,
+   "lon": 12.4149656,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 43470004",
+    "website": "https://www.maxizoo.dk/maxi-zoo-glostrup-nord/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 09:00-17:00; PH off",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/9412926332",
+   "name": "Den Grønne Pote",
+   "lat": 55.7634353,
+   "lon": 12.5790474,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 22218878",
+    "website": "https://dengronnepote.dk/",
+    "opening_hours": "11:00-18:00; Sa 10:00-14:00; Su off"
+   }
+  },
+  {
+   "id": "node/9280213524",
+   "name": "Petlux",
+   "lat": 55.7159905,
+   "lon": 12.4282656,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "phone": "+45 81816581",
+    "website": "https://petlux.dk/pages/petlux-herlev",
+    "opening_hours": "11:00-18:00 ; Sa 10:00-16:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/8193978008",
+   "name": "Maxi Zoo",
+   "lat": 55.7246511,
+   "lon": 12.4203958,
+   "distKm": 10.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 44852107",
+    "website": "https://www.maxizoo.dk/maxi-zoo-herlev/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/4505123102",
+   "name": "Maxi Zoo",
+   "lat": 55.6552377,
+   "lon": 12.394719,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "phone": "+45 43760242",
+    "website": "https://www.maxizoo.dk/maxi-zoo-brondby/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-16:00; PH off",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/3528980772",
+   "name": "Maxi Zoo",
+   "lat": 55.663093,
+   "lon": 12.3775834,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "phone": "+45 43442107",
+    "website": "https://www.maxizoo.dk/maxi-zoo-glostrup/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/4854162059",
+   "name": "Maxi Zoo",
+   "lat": 55.6238651,
+   "lon": 12.3889337,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.maxizoo.dk/maxi-zoo-vallensbaek/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 09:00-17:00",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/835846438",
+   "name": "Zoo Center Værløse",
+   "lat": 55.7845433,
+   "lon": 12.3728049,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "phone": "+45 44 48 15 62",
+    "website": "https://zoocenter.dk/zoo-center-vaerloese/",
+    "opening_hours": "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
+   }
+  },
+  {
+   "id": "node/9272064641",
+   "name": "Maxi Zoo",
+   "lat": 55.5974085,
+   "lon": 12.3272965,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {
+    "phone": "+45 86102910",
+    "website": "https://www.maxizoo.dk/maxi-zoo-hundige/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "way/28640792",
+   "name": "Maxi Zoo",
+   "lat": 55.653592,
+   "lon": 12.2809762,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.maxizoo.dk/maxi-zoo-taastrup/",
+    "brand": "Maxi Zoo"
+   }
+  },
+  {
+   "id": "node/10121711776",
+   "name": "Bonnie Dyrecenter",
+   "lat": 55.814476,
+   "lon": 12.3806005,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {
+    "phone": "+45 44 95 13 50",
+    "website": "https://bonniedyrecenter.dk/",
+    "opening_hours": "Mo-Th 09:30-18:00; Fr 09:30-19:00; Sa 09:30-16:00; Su[1] 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/4570164415",
+   "name": "Maxi Zoo Farum",
+   "lat": 55.8162127,
+   "lon": 12.3748467,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {
+    "phone": "+45 88 77 04 57",
+    "website": "https://www.maxizoo.dk/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00",
+    "brand": "Maxi Zoo"
+   }
+  }
+ ]
+}

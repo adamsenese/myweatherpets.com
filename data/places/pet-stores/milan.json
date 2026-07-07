@@ -1,0 +1,654 @@
+{
+ "$schemaVersion": 1,
+ "city": "milan",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:38:07.683Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/13119101495",
+   "name": "Giulius L'amico Degli Animali",
+   "lat": 45.4581905,
+   "lon": 9.1841499,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-19:30"
+   }
+  },
+  {
+   "id": "node/11951724722",
+   "name": "Pelo e contropelo",
+   "lat": 45.4593985,
+   "lon": 9.1792744,
+   "distKm": 1,
+   "address": "17 Via Cesare Correnti, Milano, 20123",
+   "tags": {}
+  },
+  {
+   "id": "node/11502630870",
+   "name": "Animali One",
+   "lat": 45.461271,
+   "lon": 9.2079419,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3675021361",
+   "name": "Bau per Miao",
+   "lat": 45.4780127,
+   "lon": 9.1880362,
+   "distKm": 1.5,
+   "address": "25 Via Solferino, Milano, 20121",
+   "tags": {
+    "phone": "+39 02 659 7643",
+    "website": "https://baupermiao.it/",
+    "opening_hours": "Mo 15:30-19:30; Tu-Sa 09:30-13:00,15:30-19:30"
+   }
+  },
+  {
+   "id": "node/9376584285",
+   "name": "Number One For Pets",
+   "lat": 45.4526986,
+   "lon": 9.1759202,
+   "distKm": 1.7,
+   "address": "1 Via Vigevano, Milano, 20144",
+   "tags": {}
+  },
+  {
+   "id": "node/13233663054",
+   "name": "Baufit",
+   "lat": 45.4560361,
+   "lon": 9.1709133,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.baufit.it/",
+    "opening_hours": "Mo-Fr 09:00-18:00 || \"su appuntamento - weekend su richiesta\"; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/8072622053",
+   "name": "Naturama Naturelove",
+   "lat": 45.456835,
+   "lon": 9.1700124,
+   "distKm": 1.8,
+   "address": "55 Viale Coni Zugna, Milano, 20144",
+   "tags": {
+    "phone": "+390289409302",
+    "website": "https://www.facebook.com/people/Naturama-Naturelove/100064039479077/",
+    "opening_hours": "Mo 15:00-19:30; Tu-Sa 10:00-13:30, 15:00-19:30; Su off"
+   }
+  },
+  {
+   "id": "node/6351137740",
+   "name": "Sala del Cane",
+   "lat": 45.4793309,
+   "lon": 9.1776516,
+   "distKm": 1.9,
+   "address": "2 Via Giovanni Battista Niccolini, Milano, 20154",
+   "tags": {}
+  },
+  {
+   "id": "node/9378878498",
+   "name": "Petmi",
+   "lat": 45.4485626,
+   "lon": 9.1795502,
+   "distKm": 1.9,
+   "address": "36 Corso San Gottardo, Milano, 20136",
+   "tags": {}
+  },
+  {
+   "id": "node/5938291304",
+   "name": "Animal Store",
+   "lat": 45.4777784,
+   "lon": 9.1737583,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10705435817",
+   "name": "Arcaplanet",
+   "lat": 45.4643446,
+   "lon": 9.1644337,
+   "distKm": 2,
+   "address": "13 Viale San Michele del Carso, Milano, 20144",
+   "tags": {
+    "phone": "+390236518615",
+    "website": "https://negozi.arcaplanet.it/lombardia/mi/milano-via-san-michele-del-carso-13",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/12002542403",
+   "name": "Arcaplanet",
+   "lat": 45.4675425,
+   "lon": 9.2154736,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/3758916090",
+   "name": "Bau Bau Micio Micio",
+   "lat": 45.4822396,
+   "lon": 9.1976512,
+   "distKm": 2.1,
+   "address": "5 Via Gustavo Fara, Milano, 20124",
+   "tags": {}
+  },
+  {
+   "id": "node/11246027573",
+   "name": "La cuccia di Luna",
+   "lat": 45.455012,
+   "lon": 9.1670328,
+   "distKm": 2.1,
+   "address": "23 Via Savona, Milano, 20144",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/11934598519",
+   "name": "Arcaplanet",
+   "lat": 45.4795714,
+   "lon": 9.1733403,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13618055801",
+   "name": "Animal House Milano",
+   "lat": 45.4488433,
+   "lon": 9.2058938,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12033308457",
+   "name": "Animalfood",
+   "lat": 45.4569269,
+   "lon": 9.2156541,
+   "distKm": 2.2,
+   "address": "72 Via Friuli, Milano, 20135",
+   "tags": {
+    "phone": "+39 02 8450 1760",
+    "website": "https://animal-food.it/",
+    "opening_hours": "Mo-Sa 09:30-13:00,15:30-19:30"
+   }
+  },
+  {
+   "id": "node/9592288889",
+   "name": "I cuccioli",
+   "lat": 45.4791102,
+   "lon": 9.2105586,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9601968391",
+   "name": "Amici miei",
+   "lat": 45.4642292,
+   "lon": 9.1605099,
+   "distKm": 2.3,
+   "address": "1 Via Polibio, Milano, 20144",
+   "tags": {}
+  },
+  {
+   "id": "node/13730437452",
+   "name": "Arcaplanet",
+   "lat": 45.4499046,
+   "lon": 9.2118611,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6416431984",
+   "name": "Molla l'osso",
+   "lat": 45.4566921,
+   "lon": 9.161138,
+   "distKm": 2.4,
+   "address": "2 Via Cola di Rienzo, Milano, 20144",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-13:00,15:00-19:00; PH off"
+   }
+  },
+  {
+   "id": "node/10029136281",
+   "name": "Arcaplanet",
+   "lat": 45.4439162,
+   "lon": 9.1809558,
+   "distKm": 2.4,
+   "address": "42 Via Francesco Brioschi, Milano, 20136",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00, Su 09:30-19:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/282181456",
+   "name": "Zoo Planet",
+   "lat": 45.4678043,
+   "lon": 9.221259,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7203182754",
+   "name": "GI club",
+   "lat": 45.4576564,
+   "lon": 9.2207097,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11933928496",
+   "name": "Dama Animali",
+   "lat": 45.4430382,
+   "lon": 9.1790691,
+   "distKm": 2.5,
+   "address": "25 Via Giuseppe Meda, Milano, 20136",
+   "tags": {}
+  },
+  {
+   "id": "node/4949740192",
+   "name": "Rufus e Laika",
+   "lat": 45.4383011,
+   "lon": 9.1852634,
+   "distKm": 2.9,
+   "address": "5 Via privata Sant'Ampellio, Milano, 20141",
+   "tags": {
+    "phone": "+39 02 843 6601"
+   }
+  },
+  {
+   "id": "node/9176139617",
+   "name": "Amici di Tobia",
+   "lat": 45.4629855,
+   "lon": 9.1522171,
+   "distKm": 2.9,
+   "address": "35 Via Sardegna, 20146",
+   "tags": {}
+  },
+  {
+   "id": "node/13817860692",
+   "name": "Scegli un Cucciolo",
+   "lat": 45.4749415,
+   "lon": 9.2240717,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1978573732",
+   "name": "Petmark",
+   "lat": 45.4855278,
+   "lon": 9.2128978,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "brand": "Petmark"
+   }
+  },
+  {
+   "id": "node/9383704870",
+   "name": "Animalia",
+   "lat": 45.4516367,
+   "lon": 9.1557854,
+   "distKm": 3,
+   "address": "80 Via Savona, Milano, 20144",
+   "tags": {
+    "website": "https://www.animaliadielisa.com/"
+   }
+  },
+  {
+   "id": "node/9775006159",
+   "name": "Arcaplanet",
+   "lat": 45.4443222,
+   "lon": 9.1635076,
+   "distKm": 3,
+   "address": "22 Viale Cassala, Milano, 20143",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 08:30-20:00,09:30-19:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/13150605560",
+   "name": "L'isola Dei Tesori",
+   "lat": 45.491185,
+   "lon": 9.1858189,
+   "distKm": 3,
+   "address": "7 Via Alserio",
+   "tags": {
+    "website": "https://www.isoladeitesori.it/store/milano-mi-via-alserio-7-85179.html",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00,14:00-19:00"
+   }
+  },
+  {
+   "id": "node/311475209",
+   "name": "Arcaplanet",
+   "lat": 45.4625885,
+   "lon": 9.2300165,
+   "distKm": 3.1,
+   "address": "1 Via Lomellina",
+   "tags": {
+    "phone": "+39 02 3652 0167",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/1611026273",
+   "name": "Arcaplanet",
+   "lat": 45.4665815,
+   "lon": 9.1509088,
+   "distKm": 3.1,
+   "address": "36 Via Marghera, Milano, 20149",
+   "tags": {
+    "phone": "+39 02 49464331",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/311820006",
+   "name": "Arcaplanet",
+   "lat": 45.4522581,
+   "lon": 9.1529094,
+   "distKm": 3.2,
+   "address": "38 Piazza Napoli, Milano, 20146",
+   "tags": {
+    "phone": "+39 02 0070 2060",
+    "website": "https://www.arcaplanet.it",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-13:00, 15:00-19:00",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/6025601699",
+   "name": "Arcaplanet",
+   "lat": 45.4411685,
+   "lon": 9.2143615,
+   "distKm": 3.2,
+   "address": "3 Viale Brenta, Milano, 20139",
+   "tags": {
+    "phone": "+39 0249649330",
+    "opening_hours": "lunedì 09-20 martedì 09-20 mercoledì 09-20 giovedì 09-20 venerdì 09-20 sabato 09-20 domenica 09:30-19:30"
+   }
+  },
+  {
+   "id": "node/13296730384",
+   "name": "L'Isola dei Tesori",
+   "lat": 45.4358549,
+   "lon": 9.1837737,
+   "distKm": 3.2,
+   "address": "23 Via Volvinio, Milano, 20141",
+   "tags": {
+    "brand": "L'Isola dei Tesori"
+   }
+  },
+  {
+   "id": "node/5783643254",
+   "name": "Acquario Little Zoo",
+   "lat": 45.4875043,
+   "lon": 9.1642671,
+   "distKm": 3.3,
+   "address": "47 Via Cenisio, Milano, 20154",
+   "tags": {
+    "phone": "+390233603480",
+    "website": "https://www.littlezoo.it/"
+   }
+  },
+  {
+   "id": "node/4570556426",
+   "name": "Arcaplanet",
+   "lat": 45.4810026,
+   "lon": 9.2263506,
+   "distKm": 3.4,
+   "address": "15 Via Giuseppe Zanoia, Milano, 20133",
+   "tags": {
+    "phone": "+39 02 2219 9859",
+    "website": "https://www.arcaplanet.it",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 10:00-13:00,15:00-19:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/11717534168",
+   "name": "MySocialPet Store",
+   "lat": 45.4684261,
+   "lon": 9.1460307,
+   "distKm": 3.5,
+   "address": "10 Viale Daniele Ranzoni, 20149",
+   "tags": {
+    "website": "https://www.mysocialpetstore.it/"
+   }
+  },
+  {
+   "id": "node/13357531975",
+   "name": "L'Isola dei Tesori",
+   "lat": 45.4953539,
+   "lon": 9.179507,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "brand": "L'Isola dei Tesori"
+   }
+  },
+  {
+   "id": "node/4916304420",
+   "name": "Pawfect",
+   "lat": 45.4982791,
+   "lon": 9.1964975,
+   "distKm": 3.8,
+   "address": "112 Viale Zara, Milano",
+   "tags": {
+    "opening_hours": "10:00-20:30"
+   }
+  },
+  {
+   "id": "node/7638083085",
+   "name": "Animaliamo",
+   "lat": 45.4859614,
+   "lon": 9.2277365,
+   "distKm": 3.8,
+   "address": "Via Nicola Antonio Porpora",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:30-13:00,14:30-19:30"
+   }
+  },
+  {
+   "id": "node/3806088912",
+   "name": "Arcaplanet",
+   "lat": 45.4583163,
+   "lon": 9.2397502,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6637039494",
+   "name": "Arcaplanet",
+   "lat": 45.4961336,
+   "lon": 9.170767,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.arcaplanet.it/negozi/portfolio_page/arcaplanet-milano-piazzale-nigra",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/11665728262",
+   "name": "Arcaplanet",
+   "lat": 45.4524879,
+   "lon": 9.1428979,
+   "distKm": 3.9,
+   "address": "4 Piazza Pietro Frattini, Milano, 20146",
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/9458059317",
+   "name": "Animaliamo",
+   "lat": 45.4433827,
+   "lon": 9.2319196,
+   "distKm": 4,
+   "address": "73 Via Vincenzo Toffetti",
+   "tags": {}
+  },
+  {
+   "id": "node/6852918050",
+   "name": "Arcaplanet",
+   "lat": 45.5013403,
+   "lon": 9.1826559,
+   "distKm": 4.2,
+   "address": "24 Via Carlo Imbonati, Milano, 20159",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:15-20:00; Sa 09:00-20:00; Su 09:30-13:00,15:00-19:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/6187563189",
+   "name": "Pelo E Contropelo",
+   "lat": 45.5030995,
+   "lon": 9.1935356,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7177698244",
+   "name": "I Cucciolotti",
+   "lat": 45.5020581,
+   "lon": 9.1759847,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10717850128",
+   "name": "Arcaplanet",
+   "lat": 45.4908998,
+   "lon": 9.1503347,
+   "distKm": 4.3,
+   "address": "36 Viale Certosa, Milano, 20151",
+   "tags": {
+    "phone": "+39023272780",
+    "website": "https://www.arcaplanet.it/negozi-per-animali/milano-v-certosa-36",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/3935589852",
+   "name": "Piccolo Zoo",
+   "lat": 45.5029049,
+   "lon": 9.1990998,
+   "distKm": 4.4,
+   "address": "12 Viale Fulvio Testi, Milano, 20125",
+   "tags": {}
+  },
+  {
+   "id": "node/9432149800",
+   "name": "Arcaplanet",
+   "lat": 45.5009592,
+   "lon": 9.2101076,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/13427220539",
+   "name": "Arcaplanet",
+   "lat": 45.4683073,
+   "lon": 9.1280481,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/13850077102",
+   "name": "L’Isola dei Tesori",
+   "lat": 45.4910431,
+   "lon": 9.2397384,
+   "distKm": 4.9,
+   "address": "32 Via Feltre, 20132",
+   "tags": {
+    "phone": "+39 02 215 3535",
+    "website": "https://www.isoladeitesori.it",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-13:00,14:00-19:00"
+   }
+  },
+  {
+   "id": "node/10295247297",
+   "name": "Testi zoo",
+   "lat": 45.5100814,
+   "lon": 9.2022917,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13015919491",
+   "name": "Mirtillo&Company",
+   "lat": 45.4181579,
+   "lon": 9.1780394,
+   "distKm": 5.2,
+   "address": "8 Via Fratelli Fraschini, Milano, 20142",
+   "tags": {}
+  },
+  {
+   "id": "node/9063690245",
+   "name": "Baby pet shop",
+   "lat": 45.5001818,
+   "lon": 9.235122,
+   "distKm": 5.3,
+   "address": "157 Via Padova, Milano, 20127",
+   "tags": {
+    "phone": "+39 02 36517796"
+   }
+  },
+  {
+   "id": "node/13759379992",
+   "name": "Arcaplanet",
+   "lat": 45.5069202,
+   "lon": 9.2236708,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "phone": "+39 02 25714295",
+    "website": "https://www.maxizoo.it/cms/trova-punto-vendita?ids=90",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-19:30",
+    "brand": "Arcaplanet"
+   }
+  },
+  {
+   "id": "node/9415291667",
+   "name": "Arcaplanet",
+   "lat": 45.446246,
+   "lon": 9.1226322,
+   "distKm": 5.6,
+   "address": "246 Via Lorenteggio, Milano, 20152",
+   "tags": {
+    "brand": "Arcaplanet"
+   }
+  }
+ ]
+}

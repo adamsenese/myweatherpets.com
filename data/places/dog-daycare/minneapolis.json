@@ -1,0 +1,254 @@
+{
+ "$schemaVersion": 1,
+ "city": "minneapolis",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:30:43.009Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "node/12333223453",
+   "name": "City Paws",
+   "lat": 44.9809099,
+   "lon": -93.2626071,
+   "distKm": 0.4,
+   "address": "300 South 2nd Street, Minneapolis, MN 55401",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9119066530",
+   "name": "Downtown Dogs",
+   "lat": 44.9786711,
+   "lon": -93.2909711,
+   "distKm": 2,
+   "address": "821 2nd Avenue North, Minneapolis, MN 55405",
+   "tags": {
+    "phone": "+16123743647",
+    "website": "https://www.dtdogs.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13205137986",
+   "name": "Dogtopia",
+   "lat": 44.9641784,
+   "lon": -93.1987754,
+   "distKm": 5.4,
+   "address": "2418 University Avenue West, Saint Paul, MN 55114",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/43324968",
+   "name": "City Paws Pet Club - Dog Daycare, Boarding, Training & Grooming",
+   "lat": 44.9471746,
+   "lon": -93.3217621,
+   "distKm": 5.6,
+   "address": "3054 Excelsior Boulevard, Minneapolis, MN 55416",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6119601561",
+   "name": "Oh My Dog",
+   "lat": 44.9674978,
+   "lon": -93.1879736,
+   "distKm": 6.2,
+   "address": "880 Vandalia Street, Saint Paul, MN 55114",
+   "tags": {
+    "phone": "+1-651-642-9663",
+    "website": "https://ohmydogmn.com/",
+    "opening_hours": "Mo-Fr 07:00-09:30,12:00-13:00,15:30-18:30; Sa-Su 08:00-10:00,16:30-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6558996769",
+   "name": "St. Paws Dog Daycare & Boarding",
+   "lat": 44.9569188,
+   "lon": -93.1809403,
+   "distKm": 7,
+   "address": "1920 University Avenue, Saint Paul, MN 55104",
+   "tags": {
+    "phone": "+1-651-644-7297",
+    "website": "https://stpaws.dog/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/80751549",
+   "name": "City Paws Pet Club",
+   "lat": 44.9066852,
+   "lon": -93.2887268,
+   "distKm": 8.1,
+   "address": "5300 Lyndale Avenue South, Minneapolis, MN 55419",
+   "tags": {
+    "website": "+16123247297",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8825834065",
+   "name": "Dog Days Daycare & Boarding",
+   "lat": 44.9399479,
+   "lon": -93.1748742,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "phone": "+16516993905",
+    "website": "https://www.dogdaysinc.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12889601931",
+   "name": "Dogtopia",
+   "lat": 45.0352861,
+   "lon": -93.1934203,
+   "distKm": 8.5,
+   "address": "2216 County Road D West, Roseville, MN 55112",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00–12:00, 14:00–19:00; Sa,Su 10:00–12:00, 14:00–17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1301858945",
+   "name": "Canine Coach",
+   "lat": 44.9051368,
+   "lon": -93.2123591,
+   "distKm": 9.1,
+   "address": "5405 42nd Avenue South, Minneapolis, MN 55417",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/700718800",
+   "name": "Canine Coach",
+   "lat": 44.9699839,
+   "lon": -93.1443955,
+   "distKm": 9.5,
+   "address": "1044 Front Avenue, Saint Paul, 55103",
+   "tags": {
+    "website": "https://www.thek9coach.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13986622229",
+   "name": "Adogo Pet Hotel",
+   "lat": 44.8896536,
+   "lon": -93.2481998,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13205506610",
+   "name": "Dogtopia",
+   "lat": 44.9844244,
+   "lon": -93.3952235,
+   "distKm": 10.3,
+   "address": "9010 Olson Memorial Highway, Golden Valley, MN 55427",
+   "tags": {
+    "phone": "+1-952-800-1300",
+    "website": "https://www.dogtopia.com/minneapolis-goldenvalley/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/7220875285",
+   "name": "Plymouth Heights Pet Suites",
+   "lat": 45.0445618,
+   "lon": -93.3974822,
+   "distKm": 12.8,
+   "address": "9200 49th Avenue North, New Hope, MN 55428",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/102719671",
+   "name": "Dog Days",
+   "lat": 44.9573603,
+   "lon": -93.0891239,
+   "distKm": 14,
+   "address": "350 University Avenue E",
+   "tags": {
+    "phone": "+1 651-291-2667",
+    "website": "https://www.dogdaysinc.com/",
+    "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-10:30,16:30-19:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13205506615",
+   "name": "Dogtopia",
+   "lat": 44.852084,
+   "lon": -93.3466508,
+   "distKm": 15.4,
+   "address": "5208 West 84th Street, MN",
+   "tags": {
+    "phone": "+1-612-814-0616",
+    "website": "https://www.dogtopia.com/bloomington/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/234450670",
+   "name": "Wagging Tails Pet Resort",
+   "lat": 44.8390622,
+   "lon": -93.1938756,
+   "distKm": 16.4,
+   "address": "3275 Sun Drive, 55121",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/451285090",
+   "name": "PetSuites",
+   "lat": 44.8483698,
+   "lon": -93.1462207,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/742756433",
+   "name": "Adogo Minnetonka",
+   "lat": 44.8921608,
+   "lon": -93.4464732,
+   "distKm": 17.2,
+   "address": "6133 Baker Road, Minnetonka, MN 55345",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/874420678",
+   "name": "ADOGO",
+   "lat": 45.0894714,
+   "lon": -93.4342927,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

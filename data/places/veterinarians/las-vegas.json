@@ -1,0 +1,283 @@
+{
+ "$schemaVersion": 1,
+ "city": "las-vegas",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:27:45.585Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 26,
+ "places": [
+  {
+   "id": "node/13429145737",
+   "name": "Sahara Animal Hospital",
+   "lat": 36.1441304,
+   "lon": -115.1990775,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12898496477",
+   "name": "Flamingo Pet Clinic",
+   "lat": 36.114149,
+   "lon": -115.1135906,
+   "distKm": 6.6,
+   "address": "2675 East Flamingo Road, Las Vegas, NV 89121",
+   "tags": {
+    "phone": "+1-702-734-9761",
+    "website": "https://flamingopetclinic.com/"
+   }
+  },
+  {
+   "id": "node/3835158077",
+   "name": "Banfield Pet Hospital",
+   "lat": 36.1633342,
+   "lon": -115.0635209,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/731615092",
+   "name": "Northeast Animal Hospital",
+   "lat": 36.1957012,
+   "lon": -115.068686,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/254438340",
+   "name": "VCA Animal Hospital",
+   "lat": 36.1595842,
+   "lon": -115.0616643,
+   "distKm": 7.1,
+   "address": "20 North Nellis Boulevard, Las Vegas, NV 89110",
+   "tags": {}
+  },
+  {
+   "id": "way/1236068227",
+   "name": "Mauer Animal Clinic",
+   "lat": 36.1587611,
+   "lon": -115.224553,
+   "distKm": 7.7,
+   "address": "6115 West Charleston Boulevard, Las Vegas, NV 89146",
+   "tags": {}
+  },
+  {
+   "id": "way/1017040910",
+   "name": "VCA Animal Hospital",
+   "lat": 36.114625,
+   "lon": -115.0720525,
+   "distKm": 8.6,
+   "address": "4675 East Flamingo Road, Las Vegas, NV 89121",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/13448770610",
+   "name": "Las Vegas Vet Center",
+   "lat": 36.1791461,
+   "lon": -115.2555889,
+   "distKm": 10.4,
+   "address": "7455 West Washington Avenue, Las Vegas, NV 89128",
+   "tags": {
+    "website": "https://www.va.gov/las-vegas-vet-center/",
+    "opening_hours": "Mo-Tu 08:00-16:30; We 08:00-18:30; Th-Fr 08:00-16:30; Sa off; Su off"
+   }
+  },
+  {
+   "id": "node/13756497502",
+   "name": "Lone Mountain Animal Hospital",
+   "lat": 36.2184355,
+   "lon": -115.2418357,
+   "distKm": 10.6,
+   "address": "6688 West Cheyenne Avenue, 89108",
+   "tags": {
+    "phone": "+1-702-645-3116",
+    "website": "https://www.lonemountainanimalhospital.com",
+    "opening_hours": "Mo-Su 07:00-18:00"
+   }
+  },
+  {
+   "id": "way/1235277016",
+   "name": "Green Valley Animal Hospital",
+   "lat": 36.077045,
+   "lon": -115.0728611,
+   "distKm": 11.9,
+   "address": "6150 North Mountain Vista Street, Henderson, NV 89014",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/12052292295",
+   "name": "A Cat Hospital",
+   "lat": 36.0700867,
+   "lon": -115.0799976,
+   "distKm": 12.3,
+   "address": "2758 North Green Valley Parkway, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1-702-454-4400",
+    "website": "https://acathospital.com/"
+   }
+  },
+  {
+   "id": "way/1221435250",
+   "name": "Cheyenne West Animal Hospital",
+   "lat": 36.2263515,
+   "lon": -115.2599588,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/38134794",
+   "name": "A-VIP Pet Resort",
+   "lat": 36.0603475,
+   "lon": -115.1781826,
+   "distKm": 12.7,
+   "address": "2675 West Arby Avenue, NV",
+   "tags": {}
+  },
+  {
+   "id": "way/38134799",
+   "name": "Warm Springs Animal Hospital",
+   "lat": 36.057499,
+   "lon": -115.1758765,
+   "distKm": 12.9,
+   "address": "2500 West Warm Springs Road, NV",
+   "tags": {}
+  },
+  {
+   "id": "way/1168367007",
+   "name": "Aliante Animal Hospital",
+   "lat": 36.292128,
+   "lon": -115.1851319,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1236457296",
+   "name": "Warm Hearts Pet Hospital",
+   "lat": 36.0565008,
+   "lon": -115.055588,
+   "distKm": 14.7,
+   "address": "1606 West Warm Springs Road, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1-702-434-4838",
+    "website": "https://www.warmheartspet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 12:00-18:00"
+   }
+  },
+  {
+   "id": "way/973292521",
+   "name": "Gateway Pet Hospital",
+   "lat": 36.2635688,
+   "lon": -115.2583851,
+   "distKm": 14.9,
+   "address": "5643 Centennial Center Boulevard, Las Vegas, NV 89149",
+   "tags": {
+    "opening_hours": "Mo-Su closed"
+   }
+  },
+  {
+   "id": "node/11640071114",
+   "name": "Veterinary Emergency Group",
+   "lat": 36.0583824,
+   "lon": -115.0458848,
+   "distKm": 15,
+   "address": "470 North Stephanie Street, Henderson, NV 89014",
+   "tags": {
+    "phone": "+1-702-529-4850",
+    "website": "https://veterinaryemergencygroup.com/locations/henderson-nv/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12090745782",
+   "name": "Henderson Vet Center",
+   "lat": 36.0567323,
+   "lon": -115.0452154,
+   "distKm": 15.2,
+   "address": "400 North Stephanie Street, Henderson, NV 89014",
+   "tags": {
+    "website": "https://www.va.gov/henderson-vet-center/",
+    "opening_hours": "Mo-Fr 08:00-16:30"
+   }
+  },
+  {
+   "id": "node/13793214913",
+   "name": "Pet Care Veterinary Clinic",
+   "lat": 36.0190053,
+   "lon": -115.118195,
+   "distKm": 16.9,
+   "address": "9340 South Eastern Avenue, Las Vegas, NV 89123",
+   "tags": {}
+  },
+  {
+   "id": "way/1088984703",
+   "name": "Valley Ranch Animal Hospital",
+   "lat": 36.0283893,
+   "lon": -115.0623877,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12495355972",
+   "name": "Southern Hills Animal Hospital",
+   "lat": 36.0694402,
+   "lon": -115.2987176,
+   "distKm": 18.1,
+   "address": "6545 South Fort Apache Road, Las Vegas, NV 89148",
+   "tags": {
+    "phone": "+1-702-586-1300",
+    "website": "https://www.southernhillsah.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1171286833",
+   "name": "Centennial Hills Animal Hospital",
+   "lat": 36.2977777,
+   "lon": -115.2700411,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/205167936",
+   "name": "Stephanie Animal Hospital",
+   "lat": 36.0198092,
+   "lon": -115.0478073,
+   "distKm": 18.6,
+   "address": "217 South Stephanie Street, Henderson, NV 89012",
+   "tags": {}
+  },
+  {
+   "id": "node/7021337934",
+   "name": "Red Rock Animal Hospital",
+   "lat": 36.16042,
+   "lon": -115.3500685,
+   "distKm": 18.9,
+   "address": "11700 West Charleston Boulevard, Las Vegas, NV 89138",
+   "tags": {}
+  },
+  {
+   "id": "way/1365441700",
+   "name": "Cadence Animal Hospital",
+   "lat": 36.0565527,
+   "lon": -114.9680122,
+   "distKm": 19.9,
+   "address": "1190 East Sunset Road, Henderson, NV 89011",
+   "tags": {
+    "phone": "+17024855200",
+    "website": "https://cadenceah.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00 Sat-Sun 08:00-17:00"
+   }
+  }
+ ]
+}

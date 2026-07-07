@@ -1,0 +1,303 @@
+{
+ "$schemaVersion": 1,
+ "city": "houston",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:21:08.344Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 30,
+ "places": [
+  {
+   "id": "way/438911520",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7595003,
+   "lon": -95.3758978,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1272024577",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7628688,
+   "lon": -95.3625548,
+   "distKm": 0.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4630698162",
+   "name": "Bagby Dog Park",
+   "lat": 29.7516615,
+   "lon": -95.3758031,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/433717416",
+   "name": "Harriet and Joe Foster Small Dog Run",
+   "lat": 29.7534183,
+   "lon": -95.3606918,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/433717418",
+   "name": "Kinder Large Dog Run",
+   "lat": 29.7533057,
+   "lon": -95.3605023,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/535582348",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.751729,
+   "lon": -95.3827944,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1408901476",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7702488,
+   "lon": -95.383865,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/775100181",
+   "name": "Eadog Park",
+   "lat": 29.7476907,
+   "lon": -95.3558107,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/341274250",
+   "name": "Johnny Steele Dog Park",
+   "lat": 29.7621632,
+   "lon": -95.3939886,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1211350070",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7398608,
+   "lon": -95.3737385,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1076758880",
+   "name": "Hartman Dogpark",
+   "lat": 29.7678001,
+   "lon": -95.3988987,
+   "distKm": 2.9,
+   "address": "50, Houston, TX 77007",
+   "tags": {
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1355249824",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7327224,
+   "lon": -95.402607,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1419597853",
+   "name": "McWilliams Dog Park",
+   "lat": 29.708501,
+   "lon": -95.3870369,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "opening_hours": "Tu-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/625305880",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7325398,
+   "lon": -95.4241806,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.levyparkhouston.org/visit/dog-park-rules/"
+   }
+  },
+  {
+   "id": "way/769975998",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7155279,
+   "lon": -95.3241074,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13807049301",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7811393,
+   "lon": -95.4412039,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/742745326",
+   "name": "33ThirtyThree Dog Park",
+   "lat": 29.7355886,
+   "lon": -95.4401337,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1418960594",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.6888121,
+   "lon": -95.393769,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1086767709",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.8087183,
+   "lon": -95.4448669,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1446430251",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7907085,
+   "lon": -95.465492,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1385818832",
+   "name": "Officer Lucy Dog Park",
+   "lat": 29.6909784,
+   "lon": -95.4476627,
+   "distKm": 10.8,
+   "address": "4337 Lafayette, Bellaire, TX 77401",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.bellairetx.gov/739/Dog-Park"
+   }
+  },
+  {
+   "id": "way/545310212",
+   "name": "TC Jester Dog Park",
+   "lat": 29.8256976,
+   "lon": -95.4550498,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/595192986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7530425,
+   "lon": -95.4973781,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1523803553",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.8741815,
+   "lon": -95.3742724,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/595629345",
+   "name": "Maxey Bark & Run Dog Park",
+   "lat": 29.7821376,
+   "lon": -95.2172775,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1117954755",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7861876,
+   "lon": -95.5229494,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1393754307",
+   "name": "Sneed Dog Park",
+   "lat": 29.7251621,
+   "lon": -95.542415,
+   "distKm": 17.1,
+   "address": "9855 Pagewood Lane, Houston, TX 77042",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.westchasedistrict.com/parks/",
+    "opening_hours": "Mo-Fr 16:00-21:00, Sa-Su 07:00-21:00"
+   }
+  },
+  {
+   "id": "way/1106648644",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.8292511,
+   "lon": -95.53587,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/627667559",
+   "name": "Tom Bass Dog Park",
+   "lat": 29.5885138,
+   "lon": -95.3717172,
+   "distKm": 19.1,
+   "address": "3452 Fellows Rd, Houston, TX 77047",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1426304409",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 29.7297246,
+   "lon": -95.5703888,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

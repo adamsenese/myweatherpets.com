@@ -1,0 +1,676 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-francisco",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:25:35.497Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/252221828",
+   "name": "Pet Food Express",
+   "lat": 37.7692696,
+   "lon": -122.4262006,
+   "distKm": 0.9,
+   "address": "1975 Market Street, San Francisco, CA 94103",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:30; Sa,Su 09:00-20:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/9536589868",
+   "name": "The Animal House",
+   "lat": 37.7710397,
+   "lon": -122.4303854,
+   "distKm": 1.1,
+   "address": "157 Fillmore Street, San Francisco, CA",
+   "tags": {
+    "website": "https://theanimalhousesf.com/",
+    "opening_hours": "Mo-Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "way/28283690",
+   "name": "Petco",
+   "lat": 37.7665829,
+   "lon": -122.4103401,
+   "distKm": 1.2,
+   "address": "2300 16th Street, San Francisco, CA 94103-4862",
+   "tags": {
+    "phone": "+1 415-255-7156",
+    "website": "https://stores.petco.com/ca/sanfrancisco/pet-supplies-sanfrancisco-ca-1334.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5087529121",
+   "name": "Mr. Muggles' Dogs",
+   "lat": 37.7622024,
+   "lon": -122.4126432,
+   "distKm": 1.5,
+   "address": "2175 Harrison Street",
+   "tags": {
+    "phone": "+1 415-817-1744",
+    "website": "https://mrmugglesdogs.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/4418114001",
+   "name": "Black Nose Trading Company",
+   "lat": 37.7728255,
+   "lon": -122.4372066,
+   "distKm": 1.6,
+   "address": "342 Divisadero Street, San Francisco",
+   "tags": {}
+  },
+  {
+   "id": "node/13696494190",
+   "name": "Aqua Forest Aquarium",
+   "lat": 37.7855249,
+   "lon": -122.4329931,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,Th-Sa 11:00-18:30; Tu-We off; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/9211072802",
+   "name": "Village Pets",
+   "lat": 37.7905466,
+   "lon": -122.4171855,
+   "distKm": 1.8,
+   "address": "1036 Hyde Street, San Francisco, CA",
+   "tags": {
+    "website": "https://www.ilovevp.com/",
+    "opening_hours": "10:00-18:30"
+   }
+  },
+  {
+   "id": "node/412108261",
+   "name": "Pet Connection II",
+   "lat": 37.7932101,
+   "lon": -122.4208207,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13724354406",
+   "name": "Dogue",
+   "lat": 37.7571893,
+   "lon": -122.4212958,
+   "distKm": 2,
+   "address": "988 Valencia Street",
+   "tags": {
+    "website": "https://doguesf.com/"
+   }
+  },
+  {
+   "id": "node/3476044396",
+   "name": "Wags Pet Wash and Botique",
+   "lat": 37.7939322,
+   "lon": -122.4212347,
+   "distKm": 2.1,
+   "address": "1840 Polk Street, San Francisco, CA 94109",
+   "tags": {
+    "website": "https://www.sfwags.com/index.html"
+   }
+  },
+  {
+   "id": "node/2167562319",
+   "name": "Bow Wow Meow",
+   "lat": 37.7966311,
+   "lon": -122.4217301,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-415-440-2845",
+    "website": "https://www.bowwowmeow.net/"
+   }
+  },
+  {
+   "id": "way/1199304141",
+   "name": "PetSmart",
+   "lat": 37.7820607,
+   "lon": -122.4446268,
+   "distKm": 2.4,
+   "address": "2675 Geary Boulevard, San Francisco, CA 94118",
+   "tags": {
+    "phone": "+1 415-633-9905",
+    "website": "https://www.petsmart.com/stores/us/ca/san-francisco-store3180.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10897941850",
+   "name": "Healthy Spot",
+   "lat": 37.7720558,
+   "lon": -122.3915138,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa-Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/10900837040",
+   "name": "Pawtrero",
+   "lat": 37.7641117,
+   "lon": -122.3945928,
+   "distKm": 2.5,
+   "address": "199 Mississippi Street, San Francisco, 94107",
+   "tags": {
+    "website": "https://www.pawtrero.com/",
+    "opening_hours": "Mo-Fr 11:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/3609348595",
+   "name": "Russian Hill Dog Grooming",
+   "lat": 37.798566,
+   "lon": -122.4190741,
+   "distKm": 2.6,
+   "address": "1929 Hyde Street, San Francisco, CA",
+   "tags": {}
+  },
+  {
+   "id": "node/10749466034",
+   "name": "Pet Central",
+   "lat": 37.797626,
+   "lon": -122.410454,
+   "distKm": 2.6,
+   "address": "1411 Broadway",
+   "tags": {}
+  },
+  {
+   "id": "node/2071312215",
+   "name": "Pet Central",
+   "lat": 37.7978801,
+   "lon": -122.4080227,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3790822660",
+   "name": "Cole Valley Pets",
+   "lat": 37.7655316,
+   "lon": -122.4497461,
+   "distKm": 2.9,
+   "address": "910 Cole Street, San Francisco, CA 94117",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/13083649401",
+   "name": "The Animal Company",
+   "lat": 37.7513739,
+   "lon": -122.4342917,
+   "distKm": 2.9,
+   "address": "4102 24th Street, 94114",
+   "tags": {
+    "phone": "+1-415-647-8755",
+    "website": "https://www.theanimalcompany.net/",
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/2338785585",
+   "name": "Fog City Doggy Day Care",
+   "lat": 37.8012691,
+   "lon": -122.4260681,
+   "distKm": 3,
+   "address": "1488 Lombard Street, San Francisco",
+   "tags": {}
+  },
+  {
+   "id": "node/3161283280",
+   "name": "Noe Valley Pet Company",
+   "lat": 37.7476099,
+   "lon": -122.4269215,
+   "distKm": 3.1,
+   "address": "1451 Church Street, San Francisco",
+   "tags": {}
+  },
+  {
+   "id": "node/3801412025",
+   "name": "Green Pawz",
+   "lat": 37.7678002,
+   "lon": -122.4530824,
+   "distKm": 3.1,
+   "address": "772 Stanyan Street, San Francisco, 94117",
+   "tags": {
+    "opening_hours": "Mo-Tu off; We-Su 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/13039006142",
+   "name": "Jeffrey's Natural Pet Foods",
+   "lat": 37.8017172,
+   "lon": -122.4112719,
+   "distKm": 3.1,
+   "address": "1841 Powell Street, San Francisco, CA 94133",
+   "tags": {
+    "phone": "+1-415-402-0342"
+   }
+  },
+  {
+   "id": "node/11263551591",
+   "name": "Mishka",
+   "lat": 37.7956385,
+   "lon": -122.3938099,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/416780412",
+   "name": "Catnip + Bones",
+   "lat": 37.800475,
+   "lon": -122.439705,
+   "distKm": 3.4,
+   "address": "San Francisco",
+   "tags": {}
+  },
+  {
+   "id": "node/6373068176",
+   "name": "Drew's K-9 Corner",
+   "lat": 37.7815335,
+   "lon": -122.4570469,
+   "distKm": 3.4,
+   "address": "3518 Geary Boulevard, San Francisco, CA 94118",
+   "tags": {}
+  },
+  {
+   "id": "node/12637859033",
+   "name": "Shipyard K9 Supplies",
+   "lat": 37.7578412,
+   "lon": -122.3879387,
+   "distKm": 3.4,
+   "address": "657 22nd Street, San Francisco, CA 94107",
+   "tags": {
+    "phone": "+1-415-757-0104",
+    "website": "https://www.shipyardk9.com",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/416670144",
+   "name": "The Animal Connection Pet Supplies",
+   "lat": 37.7998136,
+   "lon": -122.4432526,
+   "distKm": 3.5,
+   "address": "2419 Chestnut Street, San Francisco, CA",
+   "tags": {}
+  },
+  {
+   "id": "node/9875708652",
+   "name": "Yap",
+   "lat": 37.8057888,
+   "lon": -122.4231025,
+   "distKm": 3.5,
+   "address": "900 North Point Street, San Francisco, CA 94109",
+   "tags": {
+    "phone": "+1 415 3468878",
+    "website": "https://www.yapstores.com/",
+    "opening_hours": "Mo-Th 10:00-19:00; Fr-Su 10:00-21:00"
+   }
+  },
+  {
+   "id": "node/3061714919",
+   "name": "Pet's Corner",
+   "lat": 37.781056,
+   "lon": -122.459097,
+   "distKm": 3.6,
+   "address": "3701 Geary Boulevard",
+   "tags": {
+    "phone": "+1 415-751-7387",
+    "website": "https://www.petscornershop.com/",
+    "opening_hours": "Tu-Fr 11:00-18:00; Sa-Su 10:30-18:00"
+   }
+  },
+  {
+   "id": "node/3204993508",
+   "name": "Maxwell's",
+   "lat": 37.7431763,
+   "lon": -122.4268076,
+   "distKm": 3.6,
+   "address": "1734 Church Street, San Francisco",
+   "tags": {}
+  },
+  {
+   "id": "node/6791676298",
+   "name": "Scissor Me Whiskers",
+   "lat": 37.7829148,
+   "lon": -122.4626459,
+   "distKm": 3.9,
+   "address": "317 Clement Street",
+   "tags": {
+    "phone": "+1 415-702-6317",
+    "website": "https://scissormewhiskersgrooming.com"
+   }
+  },
+  {
+   "id": "node/5529666645",
+   "name": "Bernal Beast",
+   "lat": 37.7391385,
+   "lon": -122.4163411,
+   "distKm": 4,
+   "address": "509 Cortland Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/9727962579",
+   "name": "Bow Wow",
+   "lat": 37.8104441,
+   "lon": -122.4106544,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13620601487",
+   "name": "Pet Food Express",
+   "lat": 37.8047079,
+   "lon": -122.449065,
+   "distKm": 4.2,
+   "address": "1188 Mason Street",
+   "tags": {
+    "phone": "+1 415 447 7777",
+    "opening_hours": "Mo-Sa 08:30-19:30; Su 08:30-19:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/13172034230",
+   "name": "Summer Puppy",
+   "lat": 37.7639985,
+   "lon": -122.470483,
+   "distKm": 4.7,
+   "address": "1152 Irving Street",
+   "tags": {
+    "opening_hours": "Mo 15:00-18:30; Tu,Th 11:00-18:30; We 11:30-16:00; Fr 11:00-15:30; Sa-Su 11:00-15:15,16:15-18:30"
+   }
+  },
+  {
+   "id": "node/13910388897",
+   "name": "Critter Fritters",
+   "lat": 37.7345949,
+   "lon": -122.4335352,
+   "distKm": 4.7,
+   "address": "670 Chenery Street",
+   "tags": {
+    "phone": "+1 415-239-7387",
+    "website": "https://www.facebook.com/critterfritterspetfood/"
+   }
+  },
+  {
+   "id": "node/10744312749",
+   "name": "Fairy Lake Aquarium",
+   "lat": 37.7822838,
+   "lon": -122.4765509,
+   "distKm": 5.1,
+   "address": "1609 Clement Street",
+   "tags": {
+    "phone": "+1 415-752-3527"
+   }
+  },
+  {
+   "id": "node/3524452503",
+   "name": "Cal's Pet Supply",
+   "lat": 37.784167,
+   "lon": -122.4816498,
+   "distKm": 5.6,
+   "address": "5950 California Street, San Francisco, CA 94121",
+   "tags": {
+    "phone": "+1-415-386-1720",
+    "website": "https://calspetsupply.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/3540161002",
+   "name": "The Dog Spa",
+   "lat": 37.7389974,
+   "lon": -122.467603,
+   "distKm": 5.8,
+   "address": "169 West Portal Avenue, San Francisco, CA 94127",
+   "tags": {}
+  },
+  {
+   "id": "node/3622501400",
+   "name": "West Pawtal Pet Supplies",
+   "lat": 37.7385461,
+   "lon": -122.4686679,
+   "distKm": 5.9,
+   "address": "242 West Portal Avenue, San Francisco, CA 94127",
+   "tags": {}
+  },
+  {
+   "id": "node/4015710055",
+   "name": "The Animal Connection",
+   "lat": 37.7626606,
+   "lon": -122.4944536,
+   "distKm": 6.7,
+   "address": "3401 Irving Street, San Francisco, CA 94122",
+   "tags": {}
+  },
+  {
+   "id": "node/6615153576",
+   "name": "Pet Food Express",
+   "lat": 37.7302015,
+   "lon": -122.475686,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "way/169794731",
+   "name": "Petco",
+   "lat": 37.7336815,
+   "lon": -122.4912319,
+   "distKm": 7.8,
+   "address": "1591 Sloat Boulevard, San Francisco, CA 94132",
+   "tags": {
+    "phone": "+1 415-665-3700",
+    "website": "https://stores.petco.com/ca/sanfrancisco/pet-supplies-sanfrancisco-ca-308.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3791013194",
+   "name": "Pet Food Express",
+   "lat": 37.6969259,
+   "lon": -122.463262,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/11363384793",
+   "name": "Pet Club",
+   "lat": 37.6782567,
+   "lon": -122.4664807,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4318501499",
+   "name": "Unleashed",
+   "lat": 37.7866496,
+   "lon": -122.2793825,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "way/724500312",
+   "name": "PetSmart",
+   "lat": 37.6674829,
+   "lon": -122.466683,
+   "distKm": 12.6,
+   "address": "315 Gellert Boulevard, Daly City, CA 94015",
+   "tags": {
+    "phone": "+1 650-997-0395",
+    "website": "https://www.petsmart.com/stores/us/ca/daly-city-store0063.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/5548416192",
+   "name": "Pawsitively Bay Area",
+   "lat": 37.794372,
+   "lon": -122.2768122,
+   "distKm": 12.7,
+   "address": "435 Water Street, Oakland, CA 94607",
+   "tags": {}
+  },
+  {
+   "id": "node/1467717282",
+   "name": "Pet Club",
+   "lat": 37.8283117,
+   "lon": -122.2852675,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.petclubstores.com/emeryville"
+   }
+  },
+  {
+   "id": "node/3771502570",
+   "name": "Wag Hotel",
+   "lat": 37.7934711,
+   "lon": -122.2650247,
+   "distKm": 13.7,
+   "address": "39 4th Street, Oakland, 94607",
+   "tags": {
+    "website": "https://www.waghotels.com/"
+   }
+  },
+  {
+   "id": "node/13897548095",
+   "name": "Happy Pets",
+   "lat": 37.8139992,
+   "lon": -122.2683258,
+   "distKm": 14,
+   "address": "2402 Telegraph Ave",
+   "tags": {
+    "phone": "+1-510-432-8509",
+    "website": "https://m.yelp.com/biz/happy-pets-oakland-2"
+   }
+  },
+  {
+   "id": "node/10858766237",
+   "name": "East Bay Vivarium",
+   "lat": 37.8696189,
+   "lon": -122.2989931,
+   "distKm": 14.9,
+   "address": "1827 5th Street, CA",
+   "tags": {
+    "opening_hours": "Mo 15:00-19:00; Tu-Fr 11:00-19:00; Sa-Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/1315928521",
+   "name": "Petco",
+   "lat": 37.7558325,
+   "lon": -122.2502386,
+   "distKm": 15,
+   "address": "2310 South Shore Center, Alameda, CA 94501",
+   "tags": {
+    "phone": "+1-510-864-1844",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5265335701",
+   "name": "Pet Pro",
+   "lat": 37.8807752,
+   "lon": -122.5245603,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1883296441",
+   "name": "Petco",
+   "lat": 37.6365753,
+   "lon": -122.4187305,
+   "distKm": 15.4,
+   "address": "1150 El Camino Real, San Bruno, CA 94066",
+   "tags": {
+    "phone": "+1 650-589-3757",
+    "website": "https://stores.petco.com/ca/sanbruno/pet-supplies-sanbruno-ca-1320.html",
+    "opening_hours": "Mo-Tu 09:00-20:00; We-Th 09:00-18:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7817915214",
+   "name": "Pet Food Express",
+   "lat": 37.8245725,
+   "lon": -122.2545533,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/11501414129",
+   "name": "Unleashed",
+   "lat": 37.8105787,
+   "lon": -122.2440226,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "10:00-19:00",
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "way/225367304",
+   "name": "PetVet Petfood",
+   "lat": 37.8334101,
+   "lon": -122.2526718,
+   "distKm": 16,
+   "address": "4820 Broadway, Oakland, CA 94611",
+   "tags": {
+    "phone": "+1-510-652-9822",
+    "opening_hours": "Mo-Fr 09:30-19:00; Sa 09:00-19:00; Su 09:00-18:00",
+    "brand": "Petvet Petfood"
+   }
+  },
+  {
+   "id": "node/7093859715",
+   "name": "RabbitEARS Oakland",
+   "lat": 37.8478534,
+   "lon": -122.2606374,
+   "distKm": 16.1,
+   "address": "6124 Telegraph Avenue, Oakland, CA 94609",
+   "tags": {
+    "website": "https://www.rabbitears.org/",
+    "opening_hours": "We-Su 12:00-20:00"
+   }
+  }
+ ]
+}

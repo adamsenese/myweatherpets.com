@@ -1,0 +1,22 @@
+{
+ "$schemaVersion": 1,
+ "city": "sacramento",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:28:55.291Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/9576744089",
+   "name": "Buster's Pet Resort & Daycare",
+   "lat": 38.6495576,
+   "lon": -121.2926952,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

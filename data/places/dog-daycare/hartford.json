@@ -1,0 +1,34 @@
+{
+ "$schemaVersion": 1,
+ "city": "hartford",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:33:49.584Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "way/449480642",
+   "name": "The Good Dog Spot",
+   "lat": 41.8178483,
+   "lon": -72.7256344,
+   "distKm": 7.2,
+   "address": "CT",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13722481861",
+   "name": "Dogtopia",
+   "lat": 41.813714,
+   "lon": -72.8535405,
+   "distKm": 15.9,
+   "address": "260 West Main Street, Avon, CT 06001",
+   "tags": {
+    "website": "https://www.dogtopia.com/connecticut-avon/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

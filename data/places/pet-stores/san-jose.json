@@ -1,0 +1,419 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-jose",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:32:54.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/3478495317",
+   "name": "PetSmart",
+   "lat": 37.3399521,
+   "lon": -121.9077465,
+   "distKm": 1.9,
+   "address": "607 Coleman Avenue, San Jose, CA 95110",
+   "tags": {
+    "phone": "+1 408-920-0316",
+    "website": "https://www.petsmart.com/stores/us/ca/san-jose-store1418.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/371622502",
+   "name": "T&T Aquarium & Pet",
+   "lat": 37.322047,
+   "lon": -121.8792887,
+   "distKm": 1.9,
+   "address": "950 South 1st Street, San Jose, 95110",
+   "tags": {}
+  },
+  {
+   "id": "node/9032586085",
+   "name": "Neptune Aquatics",
+   "lat": 37.3614824,
+   "lon": -121.9018619,
+   "distKm": 2.9,
+   "address": "1238 North 5th Street, San Jose, 95112",
+   "tags": {}
+  },
+  {
+   "id": "node/4582002144",
+   "name": "An-Jan Pet & Feed Suply",
+   "lat": 37.3126094,
+   "lon": -121.8708851,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/560205015",
+   "name": "Gussied Up Dog Boutique",
+   "lat": 37.3048876,
+   "lon": -121.898116,
+   "distKm": 3.8,
+   "address": "1310 Lincoln Avenue, San Jose, 95125",
+   "tags": {}
+  },
+  {
+   "id": "way/673574466",
+   "name": "PetSmart",
+   "lat": 37.3010819,
+   "lon": -121.8663979,
+   "distKm": 4.5,
+   "address": "185 Curtner Avenue, San Jose, CA 95125",
+   "tags": {
+    "phone": "+1 408-275-0386",
+    "website": "https://www.petsmart.com/stores/us/ca/san-jose-store1695.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/8533356521",
+   "name": "CD Aquarium",
+   "lat": 37.3187912,
+   "lon": -121.8274413,
+   "distKm": 5.6,
+   "address": "2469 Alvin Avenue, San Jose, CA 95121",
+   "tags": {}
+  },
+  {
+   "id": "node/7274703067",
+   "name": "Petco",
+   "lat": 37.3243767,
+   "lon": -121.8212442,
+   "distKm": 6,
+   "address": "1960 Tully Road, San Jose, CA 95122",
+   "tags": {
+    "phone": "+1 408-532-9030",
+    "website": "https://stores.petco.com/ca/sanjose/pet-supplies-sanjose-ca-1327.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/37665034",
+   "name": "Pet Food Express",
+   "lat": 37.288927,
+   "lon": -121.9312954,
+   "distKm": 6.8,
+   "address": "1902 South Bascom Avenue, Campbell, CA 95008",
+   "tags": {
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/4942564398",
+   "name": "Pet Food Express",
+   "lat": 37.3097404,
+   "lon": -121.8100452,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.petfoodexpress.com/stores/detail/san-jose/",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/6964071595",
+   "name": "Petco",
+   "lat": 37.3529879,
+   "lon": -121.976607,
+   "distKm": 8.2,
+   "address": "2775 El Camino Real, Santa Clara, CA 95051-3005",
+   "tags": {
+    "phone": "+1 408-423-9110",
+    "website": "https://petco.com",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12065832287",
+   "name": "PetSmart",
+   "lat": 37.2934199,
+   "lon": -121.9643174,
+   "distKm": 8.5,
+   "address": "850 West Hamilton Avenue, Campbell, CA 95008",
+   "tags": {
+    "website": "https://www.petsmart.com/stores/us/ca/campbell-store0071.html",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4770037323",
+   "name": "Goody Goody",
+   "lat": 37.3060557,
+   "lon": -121.977447,
+   "distKm": 8.8,
+   "address": "1080 Saratoga Avenue, San Jose, CA 95129",
+   "tags": {
+    "phone": "+1-669-342-7776",
+    "opening_hours": "Tu-Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/4770074022",
+   "name": "CARE",
+   "lat": 37.3060544,
+   "lon": -121.977539,
+   "distKm": 8.8,
+   "address": "1080 Saratoga Avenue, San Jose, CA 95129",
+   "tags": {
+    "phone": "+1-408-227-2273",
+    "website": "https://carepets.org/"
+   }
+  },
+  {
+   "id": "node/9072202431",
+   "name": "Mini Cat Town",
+   "lat": 37.417162,
+   "lon": -121.8987485,
+   "distKm": 8.8,
+   "address": "447 Great Mall Drive, Milpitas, CA 95035",
+   "tags": {
+    "website": "https://minicattown.org"
+   }
+  },
+  {
+   "id": "node/4770055622",
+   "name": "Tropical Fish International",
+   "lat": 37.3057618,
+   "lon": -121.977914,
+   "distKm": 8.9,
+   "address": "1080 Saratoga Avenue, San Jose, CA 95129",
+   "tags": {
+    "opening_hours": "Mo 11:00-20:00; Tu 13:00-21:00; We-Fr 11:00-21:00; Sa 10:00-20:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "way/758102641",
+   "name": "Champion Nishikigoi",
+   "lat": 37.3119126,
+   "lon": -121.7906755,
+   "distKm": 8.9,
+   "address": "3395 Keaton Loop, San Jose, CA 95121",
+   "tags": {
+    "phone": "+1-408-528-0821",
+    "website": "https://www.champkoi.com"
+   }
+  },
+  {
+   "id": "node/461674867",
+   "name": "Petco",
+   "lat": 37.2548871,
+   "lon": -121.896681,
+   "distKm": 9.3,
+   "address": "4698 Meridian Avenue, San Jose, CA 95118",
+   "tags": {
+    "phone": "+1 408-269-2481",
+    "website": "https://www.petco.com/",
+    "opening_hours": "Mo-Su 09:00-17:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2107727755",
+   "name": "PetSmart",
+   "lat": 37.2523381,
+   "lon": -121.877101,
+   "distKm": 9.6,
+   "address": "5353 Almaden Expressway, San Jose, CA 95118",
+   "tags": {
+    "phone": "+1 408-978-8941",
+    "website": "https://www.petsmart.com/stores/us/ca/san-jose-store2242.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9847452167",
+   "name": "Pet Food Express",
+   "lat": 37.3209094,
+   "lon": -121.993688,
+   "distKm": 9.7,
+   "address": "5148 Stevens Creek Boulevard, San Jose, 95129",
+   "tags": {
+    "phone": "+1-408-247-0077",
+    "opening_hours": "Su 10:00-18:00; Mo-Sa 09:30-20:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/2162268336",
+   "name": "Ben's Barkplace",
+   "lat": 37.2852607,
+   "lon": -121.9768869,
+   "distKm": 9.9,
+   "address": "75 South San Tomas Aquino Road, Campbell, CA 95008",
+   "tags": {}
+  },
+  {
+   "id": "node/2147982266",
+   "name": "PetSmart",
+   "lat": 37.2499813,
+   "lon": -121.8606409,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4712840589",
+   "name": "Pet's Choice",
+   "lat": 37.3097876,
+   "lon": -121.9949591,
+   "distKm": 10.1,
+   "address": "5175 Moorpark Avenue, 95129",
+   "tags": {}
+  },
+  {
+   "id": "node/3330505463",
+   "name": "PetSmart",
+   "lat": 37.4290323,
+   "lon": -121.9225471,
+   "distKm": 10.6,
+   "address": "175 Ranch Drive, Milpitas, CA 95035",
+   "tags": {
+    "phone": "+1 408-956-1044",
+    "website": "https://www.petsmart.com/stores/us/ca/milpitas-store0070.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/593745962",
+   "name": "Petco",
+   "lat": 37.288597,
+   "lon": -121.9913552,
+   "distKm": 10.8,
+   "address": "500 El Paseo De Saratoga, San Jose, CA 95130-1626",
+   "tags": {
+    "phone": "+1 408-866-7387",
+    "website": "https://stores.petco.com/ca/sanjose/pet-supplies-sanjose-ca-271.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/8254426226",
+   "name": "Pet Club",
+   "lat": 37.249727,
+   "lon": -121.8325527,
+   "distKm": 10.9,
+   "address": "5625 Snell Avenue, San Jose, CA 95123",
+   "tags": {}
+  },
+  {
+   "id": "node/1078357970",
+   "name": "Pet Food Express",
+   "lat": 37.2438624,
+   "lon": -121.9586331,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-19:00",
+    "brand": "Pet Food Express"
+   }
+  },
+  {
+   "id": "node/5406084609",
+   "name": "Petco",
+   "lat": 37.2490716,
+   "lon": -121.8019176,
+   "distKm": 12.4,
+   "address": "5650 Cottle Road, San Jose, CA 95123",
+   "tags": {
+    "phone": "+1 408-578-8527",
+    "website": "https://stores.petco.com/ca/sanjose/pet-supplies-sanjose-ca-1345.html",
+    "opening_hours": "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/465605127",
+   "name": "Petco",
+   "lat": 37.3645625,
+   "lon": -122.0301354,
+   "distKm": 13,
+   "address": "160 East El Camino Real, Sunnyvale, CA 94087",
+   "tags": {
+    "phone": "+1 408-774-0171",
+    "website": "https://stores.petco.com/ca/sunnyvale/pet-supplies-sunnyvale-ca-270.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13986869001",
+   "name": "Pet Club",
+   "lat": 37.336312,
+   "lon": -122.0335816,
+   "distKm": 13,
+   "address": "20590 Homestead Road, 95014",
+   "tags": {}
+  },
+  {
+   "id": "node/3206232939",
+   "name": "Birdwatcher",
+   "lat": 37.2345752,
+   "lon": -121.961102,
+   "distKm": 13.3,
+   "address": "792 Blossom Hill Road, Los Gatos, CA 95032",
+   "tags": {}
+  },
+  {
+   "id": "node/6625305333",
+   "name": "Pet People Los Gatos",
+   "lat": 37.2321821,
+   "lon": -121.9790313,
+   "distKm": 14.4,
+   "address": "514 North Santa Cruz Avenue, Los Gatos, CA 95030",
+   "tags": {
+    "phone": "+1 408-354-8888",
+    "website": "https://petpeoplelosgatos.com/"
+   }
+  },
+  {
+   "id": "node/1169483517",
+   "name": "Petco",
+   "lat": 37.2306565,
+   "lon": -121.9795081,
+   "distKm": 14.5,
+   "address": "444 North Santa Cruz Avenue, Los Gatos, CA 95030",
+   "tags": {
+    "phone": "+1 408-395-7074",
+    "website": "https://stores.petco.com/ca/losgatos/pet-supplies-losgatos-ca-1310.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2600782817",
+   "name": "Critter Clippers",
+   "lat": 37.3769338,
+   "lon": -122.0769732,
+   "distKm": 17.4,
+   "address": "1350 Grant Road, Mountain View, CA 94040",
+   "tags": {}
+  },
+  {
+   "id": "node/1313566138",
+   "name": "Petco",
+   "lat": 37.3930805,
+   "lon": -122.097342,
+   "distKm": 19.6,
+   "address": "1919 El Camino Real, Mountain View, CA 94040",
+   "tags": {
+    "phone": "+1 650-966-1233",
+    "website": "https://stores.petco.com/ca/mountainview/pet-supplies-mountainview-ca-313.html",
+    "opening_hours": "Mo-Sa 09:00-21:00, Su 10:00-20:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

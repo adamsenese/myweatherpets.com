@@ -1,0 +1,614 @@
+{
+ "$schemaVersion": 1,
+ "city": "montreal",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:39:20.745Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 58,
+ "places": [
+  {
+   "id": "node/12195201418",
+   "name": "Clinique Veterinaire de Vieux Montreal",
+   "lat": 45.5023718,
+   "lon": -73.5549819,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2422318913",
+   "name": "Touchattou",
+   "lat": 45.5188789,
+   "lon": -73.5599423,
+   "distKm": 2,
+   "address": "1657 Rue Atateken",
+   "tags": {
+    "phone": "+1-514-597-2428",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/12194461457",
+   "name": "Vet + Griffintown",
+   "lat": 45.4836871,
+   "lon": -73.5736673,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4852260731",
+   "name": "Clinique Vétérinaire Rue Onario",
+   "lat": 45.5212693,
+   "lon": -73.5624332,
+   "distKm": 2.2,
+   "address": "1205 Rue Ontario Est",
+   "tags": {
+    "phone": "+1 514 442 7010",
+    "website": "https://www.veterinairerueontario.com/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/12001603903",
+   "name": "Clinique Vétérinaire Féline",
+   "lat": 45.5209842,
+   "lon": -73.5768319,
+   "distKm": 2.2,
+   "address": "4102 Rue Saint-Denis",
+   "tags": {
+    "phone": "+1 514 284 3178",
+    "website": "https://www.cliniquefeline.ca/"
+   }
+  },
+  {
+   "id": "node/11146373843",
+   "name": "Clinique Veterenaire Plateau Mont-Royal",
+   "lat": 45.5186825,
+   "lon": -73.5879105,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/11250075119",
+   "name": "Clinique Veterinaire de Pointe St-Charles",
+   "lat": 45.4802567,
+   "lon": -73.5588399,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11060639507",
+   "name": "Centre Vétérinaire Montréal",
+   "lat": 45.5242372,
+   "lon": -73.5532107,
+   "distKm": 2.7,
+   "address": "1901 Boulevard De Maisonneuve Est, H2K4P4",
+   "tags": {
+    "website": "http://cvmtl.com",
+    "opening_hours": "Su-Th 00:00-24:00; Fr-Sa 08:00-22:00"
+   }
+  },
+  {
+   "id": "node/12194393568",
+   "name": "Sud Ouest Clinique Vétérinaire",
+   "lat": 45.4775943,
+   "lon": -73.5843697,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12259262741",
+   "name": "Hôpital Vétérinaire du Parc",
+   "lat": 45.5210616,
+   "lon": -73.5992239,
+   "distKm": 3.3,
+   "address": "5271 Avenue du Parc",
+   "tags": {
+    "phone": "+1 514 303 8387"
+   }
+  },
+  {
+   "id": "node/12194354007",
+   "name": "Clinqiue Vétérinaire Saint-Henri",
+   "lat": 45.471522,
+   "lon": -73.5901177,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12471512189",
+   "name": "Hôpital Vétérinaire Le Petit Laurier",
+   "lat": 45.5349633,
+   "lon": -73.5821526,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 10:00-16:00; Su 10:00-15:00"
+   }
+  },
+  {
+   "id": "way/392080731",
+   "name": "Hospital Vétériinaire St-Lambert",
+   "lat": 45.5033294,
+   "lon": -73.5170127,
+   "distKm": 3.9,
+   "address": "200 Avenue Victoria, Saint-Lambert, J4P 3P7",
+   "tags": {}
+  },
+  {
+   "id": "node/5756962183",
+   "name": "Hôpital Vétérinaire Journet",
+   "lat": 45.5377147,
+   "lon": -73.5697833,
+   "distKm": 4,
+   "address": "2320 Avenue du Mont-Royal Est",
+   "tags": {
+    "phone": "+1 514 521 0647",
+    "opening_hours": "Mo-Fr 09:00-20:00;Sa-Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/11379653537",
+   "name": "Vet Et Nous",
+   "lat": 45.4630413,
+   "lon": -73.5707977,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-20:30; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/392218819",
+   "name": "Hopital Veterinaire Victoria St-Lambert Vet et Nous",
+   "lat": 45.4990313,
+   "lon": -73.5081878,
+   "distKm": 4.6,
+   "address": "309 Avenue Saint-Denis, Saint-Lambert, J4P 2G5",
+   "tags": {}
+  },
+  {
+   "id": "node/1058286126",
+   "name": "Clinique Véterinaire Beaubien",
+   "lat": 45.5400751,
+   "lon": -73.5993195,
+   "distKm": 4.9,
+   "address": "1306 Rue Beaubien Est",
+   "tags": {
+    "phone": "+1 514 272 3291",
+    "website": "https://www.veterinairebeaubien.ca/",
+    "opening_hours": "Mo-Th 09:00-19:30; Fr 09:00-17:00; Sa 09:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/12109410178",
+   "name": "Clinique Vétérinaire du Vieux-Rosemont",
+   "lat": 45.5458961,
+   "lon": -73.5766365,
+   "distKm": 4.9,
+   "address": "5410 2e Avenue",
+   "tags": {
+    "phone": "+1 4382646289",
+    "website": "https://www.vetrosemont.com/",
+    "opening_hours": "Mo-Tu,Th 08:30-18:00; We 08:30-19:00"
+   }
+  },
+  {
+   "id": "node/5024627621",
+   "name": "Clinique Vétérinaire St Denis",
+   "lat": 45.5391503,
+   "lon": -73.6180223,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 09:00-21:00; Sa 09:00-15:00; Fr 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/5111490856",
+   "name": "Clinique Vétérinaire HOMA",
+   "lat": 45.549983,
+   "lon": -73.541621,
+   "distKm": 5.7,
+   "address": "4049 Rue Ontario Est, Montréal, H1W 1T1",
+   "tags": {
+    "phone": "+1-514-527-3311",
+    "opening_hours": "We 09:00-19:00; Th 09:00-19:00; Fr 09:00-17:00; Tu 09:00-19:00; Mo 09:00-19:00; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/5599193487",
+   "name": "MTLVET",
+   "lat": 45.4506417,
+   "lon": -73.572365,
+   "distKm": 5.7,
+   "address": "5650 Rue de Verdun",
+   "tags": {
+    "phone": "+1-514-762-4300",
+    "website": "https://www.mtlvet.ca/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa, Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/755683729",
+   "name": "Clinique vétérinaire du Vieux-Longueuil",
+   "lat": 45.5356245,
+   "lon": -73.5131011,
+   "distKm": 5.7,
+   "address": "400 Rue Saint-Charles Ouest",
+   "tags": {}
+  },
+  {
+   "id": "node/5536207115",
+   "name": "Clinique vétérinaire Monkland",
+   "lat": 45.4696524,
+   "lon": -73.6285538,
+   "distKm": 6,
+   "address": "6169 Avenue de Monkland, Montréal, H4B 1G3",
+   "tags": {
+    "phone": "+1 514 483 4434",
+    "website": "https://cvmonkland.com/",
+    "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/2249526535",
+   "name": "Vétérinaire Graham",
+   "lat": 45.5137507,
+   "lon": -73.6472123,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9359668804",
+   "name": "Clinique Vétérinaire Villeray-Papineau",
+   "lat": 45.5510026,
+   "lon": -73.613614,
+   "distKm": 6.5,
+   "address": "7655 Avenue Papineau, Montréal",
+   "tags": {}
+  },
+  {
+   "id": "way/755418419",
+   "name": "Clinique vétérinaire Sainte-Foy",
+   "lat": 45.5272908,
+   "lon": -73.4902628,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11162224335",
+   "name": "Vet 4 Pattes",
+   "lat": 45.5732408,
+   "lon": -73.5702179,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "phone": "+1-514-254-3401",
+    "website": "https://vet4pattes.com/"
+   }
+  },
+  {
+   "id": "node/3362622258",
+   "name": "Clinique vétérinaire de Lyon",
+   "lat": 45.5149301,
+   "lon": -73.465598,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {
+    "phone": "+1 450 679-2020"
+   }
+  },
+  {
+   "id": "node/9533304737",
+   "name": "Hôpital Vétérinaire du Nord",
+   "lat": 45.5522043,
+   "lon": -73.6582377,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "way/26496299",
+   "name": "Centre Vétérinaire Rive-Sud",
+   "lat": 45.458649,
+   "lon": -73.4638753,
+   "distKm": 9.4,
+   "address": "7415 Boulevard Taschereau, Brossard, J4Y 1A2",
+   "tags": {
+    "phone": "+1 450-656-3660",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11598584166",
+   "name": "Clinique Veterinaire de Lille",
+   "lat": 45.5703472,
+   "lon": -73.6397599,
+   "distKm": 9.5,
+   "address": "2370 Avenue Charland, Montréal, H1Z1B7",
+   "tags": {
+    "website": "https://monvet.com/fr/cliniques/6/clinique-veterinaire-de-lille-inc",
+    "opening_hours": "Mo-Su 09:00-19:30"
+   }
+  },
+  {
+   "id": "way/755696606",
+   "name": "Passionimo Hôpital vétérinaire Pierre-Boucher",
+   "lat": 45.5383709,
+   "lon": -73.4559685,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11395820851",
+   "name": "Quartier Animal",
+   "lat": 45.5104748,
+   "lon": -73.4377134,
+   "distKm": 10.2,
+   "address": "4325 Chemin de Chambly, J3Y3M7",
+   "tags": {
+    "website": "https://www.quartieranimal.com/"
+   }
+  },
+  {
+   "id": "node/11172329971",
+   "name": "Wizoo Bureau Vétérinaire",
+   "lat": 45.4357611,
+   "lon": -73.4748557,
+   "distKm": 10.3,
+   "address": "9205 Boulevard Taschereau, Brossard, J4Y 3B8",
+   "tags": {
+    "phone": "+1 514-319-4966",
+    "website": "https://wizoo.ca/"
+   }
+  },
+  {
+   "id": "node/11758027315",
+   "name": "Hôpital vétérinaire Cani-Felis",
+   "lat": 45.4728335,
+   "lon": -73.4399671,
+   "distKm": 10.4,
+   "address": "5720 Grande Allée, Longueuil",
+   "tags": {}
+  },
+  {
+   "id": "node/13533174381",
+   "name": "Vet & Cie",
+   "lat": 45.4509137,
+   "lon": -73.455652,
+   "distKm": 10.4,
+   "address": "3200 Boulevard de Rome, Brossard, J4Y 1V9",
+   "tags": {
+    "website": "https://vetetcie.com/"
+   }
+  },
+  {
+   "id": "node/7411151304",
+   "name": "Clinique Vétérinaire Lachine",
+   "lat": 45.4418093,
+   "lon": -73.6756529,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-514-634-4190"
+   }
+  },
+  {
+   "id": "node/11146567092",
+   "name": "Clinique Veterinaire Cartier-Des Laurentides",
+   "lat": 45.5599315,
+   "lon": -73.6860782,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7296695300",
+   "name": "Clinique vétérinaire Sainte-Catherine",
+   "lat": 45.3997232,
+   "lon": -73.5758853,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7438252651",
+   "name": "Hôpital vétérinaire de La Prairie",
+   "lat": 45.4143203,
+   "lon": -73.4848906,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13296960656",
+   "name": "Clinique Vétérinaire Hochelaga - Vet et Nous",
+   "lat": 45.6045811,
+   "lon": -73.5182196,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "way/451221813",
+   "name": "Clinique Vétérinaire DIX30",
+   "lat": 45.4378706,
+   "lon": -73.4418172,
+   "distKm": 12.1,
+   "address": "9840 Boulevard Leduc, J4Y 0B4",
+   "tags": {}
+  },
+  {
+   "id": "node/12498214679",
+   "name": "Hôpital vétérinaire de l'Est",
+   "lat": 45.61064,
+   "lon": -73.5467924,
+   "distKm": 12.2,
+   "address": "8700 Avenue Chaumont, Montréal, H1K 1N6",
+   "tags": {
+    "phone": "+1-514-355-8322",
+    "website": "https://monvet.com/fr/cliniques/2/hopital-veterinaire-de-l-est-inc-",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 8:00-17:00"
+   }
+  },
+  {
+   "id": "node/7212719366",
+   "name": "Hôpital vétérinaire Roussillon",
+   "lat": 45.3902804,
+   "lon": -73.5699083,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/231097060",
+   "name": "Hopital veterinaire Duvernay",
+   "lat": 45.5966014,
+   "lon": -73.6594587,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10920011745",
+   "name": "Centre DMVET Montreal",
+   "lat": 45.4594412,
+   "lon": -73.7229534,
+   "distKm": 13,
+   "address": "2300 54e Avenue, Montréal",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/7512257019",
+   "name": "Vétérinaire Passionimo",
+   "lat": 45.3852645,
+   "lon": -73.5340636,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7501620218",
+   "name": "Hôpital vétérinaire St-Constant",
+   "lat": 45.3824987,
+   "lon": -73.5603099,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13719590551",
+   "name": "À mon chat à mon chien Hôpital vétérinaire inc.",
+   "lat": 45.5903817,
+   "lon": -73.4373746,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13915652421",
+   "name": "Hôpital Vétérinaire Des Seigneries De Boucherville",
+   "lat": 45.589869,
+   "lon": -73.4299447,
+   "distKm": 14.5,
+   "address": "1052 Suite 501 Rue Lionel-Daunais",
+   "tags": {}
+  },
+  {
+   "id": "node/7029056838",
+   "name": "Hôpital vétérinaire Passion Compassion",
+   "lat": 45.6132541,
+   "lon": -73.4420475,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12096134922",
+   "name": "Soins Veterinaires Ouest",
+   "lat": 45.448296,
+   "lon": -73.7544744,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10308589478",
+   "name": "Veterinary Clinic 440 Inc.",
+   "lat": 45.5958339,
+   "lon": -73.7212444,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11422992944",
+   "name": "Clinique Vétérinaire Chomedey",
+   "lat": 45.5524607,
+   "lon": -73.7609406,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11346265620",
+   "name": "Clinique Vétérinaire Laennec",
+   "lat": 45.6092207,
+   "lon": -73.7205263,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/371973379",
+   "name": "Centre Vétérinaire Laval",
+   "lat": 45.5595201,
+   "lon": -73.789136,
+   "distKm": 18.4,
+   "address": "4530 Autoroute 440, Laval, H7T 2P7",
+   "tags": {
+    "phone": "+1-450-781-1200",
+    "website": "https://www.cvlaval.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/11126425479",
+   "name": "Hopital Veterinaire Vimont",
+   "lat": 45.6171673,
+   "lon": -73.7424445,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2015517634",
+   "name": "Animal 911 Hôpital Vétérinaire",
+   "lat": 45.510284,
+   "lon": -73.8161928,
+   "distKm": 19.4,
+   "address": "11400 Boulevard Gouin Ouest, Roxboro, H8Y 2T4",
+   "tags": {
+    "website": "http://www.animal911veterinaryhospital.ca/"
+   }
+  }
+ ]
+}

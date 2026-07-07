@@ -1,0 +1,184 @@
+{
+ "$schemaVersion": 1,
+ "city": "san-jose",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:32:54.617Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "node/4093402991",
+   "name": "Downtown Dogs",
+   "lat": 37.3250851,
+   "lon": -121.8820856,
+   "distKm": 1.5,
+   "address": "734 South 1st Street, San Jose, CA 95112",
+   "tags": {
+    "website": "https://downtowndogs.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/351579187",
+   "name": "Pawin’Around",
+   "lat": 37.3305931,
+   "lon": -121.9008562,
+   "distKm": 1.5,
+   "address": "50 South Montgomery Street, San Jose, 95110",
+   "tags": {
+    "website": "http://www.pawinaround.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9546312404",
+   "name": "Precious Paws",
+   "lat": 37.3255891,
+   "lon": -121.8728821,
+   "distKm": 1.8,
+   "address": "931 South 8th Street, San Jose, CA 95112",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3676933246",
+   "name": "PetsHotel",
+   "lat": 37.3397218,
+   "lon": -121.9076929,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/357150452",
+   "name": "RFRD Academy",
+   "lat": 37.3482911,
+   "lon": -121.8657315,
+   "distKm": 2.1,
+   "address": "1269 East Santa Clara Street, San Jose, CA 95116",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/229833240",
+   "name": "We Dog Care",
+   "lat": 37.3219332,
+   "lon": -121.9092234,
+   "distKm": 2.7,
+   "address": "351 Lincoln Avenue, San Jose, CA 95126",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9569915843",
+   "name": "Dr. Dave's Doggy Daycare, Boarding, & Grooming",
+   "lat": 37.2929549,
+   "lon": -121.9321352,
+   "distKm": 6.5,
+   "address": "1665 South Bascom Avenue, Campbell, CA 95008",
+   "tags": {
+    "phone": "+1-408-520-4902",
+    "website": "https://www.drdavesboardinggrooming.com/",
+    "opening_hours": "Mo-Fr 07:00-19:30; Sa,Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/209105761",
+   "name": "A Pet Villa",
+   "lat": 37.3797524,
+   "lon": -121.9537332,
+   "distKm": 7.5,
+   "address": "1205 Laurelwood Road, Santa Clara, CA 95054",
+   "tags": {
+    "website": "https://apetvilla.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9546312153",
+   "name": "The Cat's Nest Boarding & Day Care",
+   "lat": 37.4099256,
+   "lon": -121.9018655,
+   "distKm": 8.1,
+   "address": "1436 South Main Street, Milpitas, CA 95035",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9569900519",
+   "name": "Dogtopia",
+   "lat": 37.2630173,
+   "lon": -121.8793912,
+   "distKm": 8.4,
+   "address": "1191 Branham Lane, San Jose, CA 95118",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/608467941",
+   "name": "Sanity's Play N Stay",
+   "lat": 37.2650132,
+   "lon": -121.9424834,
+   "distKm": 9.5,
+   "address": "3229 South Bascom Avenue, San Jose, 95008",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1058676421",
+   "name": "K9 Keep Fit",
+   "lat": 37.2612405,
+   "lon": -121.9319569,
+   "distKm": 9.5,
+   "address": "3611 Union Avenue, San Jose, CA 95124",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9569837066",
+   "name": "Red Rover Pet Resort",
+   "lat": 37.4261436,
+   "lon": -121.8977063,
+   "distKm": 9.8,
+   "address": "334 Turquoise Street, Milpitas, CA 95035",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13120392522",
+   "name": "Pet Sitting to the MAX",
+   "lat": 37.3897087,
+   "lon": -122.0914115,
+   "distKm": 19,
+   "address": "1510 West El Camino Real, Mountain View, CA 94040",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9710424542",
+   "name": "Citydog! Club",
+   "lat": 37.3948047,
+   "lon": -122.0991486,
+   "distKm": 19.8,
+   "address": "1980 West El Camino Real, Mountain View, CA 94040",
+   "tags": {
+    "phone": "+1 650 9667767",
+    "opening_hours": "Mo-Su 7:00-9:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

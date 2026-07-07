@@ -1,0 +1,397 @@
+{
+ "$schemaVersion": 1,
+ "city": "las-vegas",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:27:45.585Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 38,
+ "places": [
+  {
+   "id": "way/255442602",
+   "name": "The Hydrant Club",
+   "lat": 36.1676462,
+   "lon": -115.1363245,
+   "distKm": 0.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9400408891",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1845451,
+   "lon": -115.0887769,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1018885795",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1700175,
+   "lon": -115.0808782,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1471795884",
+   "name": "Vdara Dog Park",
+   "lat": 36.108741,
+   "lon": -115.1784903,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1516498506",
+   "name": "NYNY Dog Spot",
+   "lat": 36.1016825,
+   "lon": -115.1760869,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/547314056",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2458761,
+   "lon": -115.1534463,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "yes",
+    "opening_hours": "Th-Tu 06:00-23:00; We 08:00-23:00"
+   }
+  },
+  {
+   "id": "way/1180487518",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1185935,
+   "lon": -115.0635081,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1180487519",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1170239,
+   "lon": -115.0631056,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/644310023",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2536083,
+   "lon": -115.1173481,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1180487523",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1113,
+   "lon": -115.0588122,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1180487522",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1085163,
+   "lon": -115.0589465,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1426792440",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0934914,
+   "lon": -115.0763613,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "fence_type": "chain_link",
+    "lit": "yes",
+    "opening_hours": "Mo-Su 06:00-23:00"
+   }
+  },
+  {
+   "id": "way/584066505",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2247178,
+   "lon": -115.2387505,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6059435119",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2595956,
+   "lon": -115.0920865,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/147114969",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1809047,
+   "lon": -115.2669585,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/477219116",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2070692,
+   "lon": -115.013906,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/238463089",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1153924,
+   "lon": -115.2582079,
+   "distKm": 12.2,
+   "address": "7600 West Flamingo Road, Las Vegas, NV 89147",
+   "tags": {}
+  },
+  {
+   "id": "way/479542584",
+   "name": "Barkin' Basin Dog Park",
+   "lat": 36.2306594,
+   "lon": -115.2530517,
+   "distKm": 12.2,
+   "address": "North Tenaya Way, Las Vegas, NV 89129",
+   "tags": {}
+  },
+  {
+   "id": "way/544930218",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0576275,
+   "lon": -115.1143542,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1171460185",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2866204,
+   "lon": -115.1263152,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/60823481",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.1232598,
+   "lon": -115.2738492,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1189909979",
+   "name": "Doggie Park @ Tempo 3",
+   "lat": 36.088536,
+   "lon": -115.0304438,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf",
+    "dog": "yes",
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1308910286",
+   "name": "Union Village Dog Park",
+   "lat": 36.0765692,
+   "lon": -115.033719,
+   "distKm": 14.1,
+   "address": "1060 Wellness Place, Henderson, NV 89011",
+   "tags": {}
+  },
+  {
+   "id": "way/577355715",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0474023,
+   "lon": -115.0517592,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/762557289",
+   "name": "Barx Parx Indoor Dog Park",
+   "lat": 36.0281583,
+   "lon": -115.1168511,
+   "distKm": 15.9,
+   "address": "8868 South Eastern Avenue, Las Vegas, NV 89123",
+   "tags": {
+    "website": "https://barxparx.com/"
+   }
+  },
+  {
+   "id": "way/546881909",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0950904,
+   "lon": -115.291774,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/914880705",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.2207602,
+   "lon": -115.3101479,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1087559322",
+   "name": "Dos Escuelas Dog Park",
+   "lat": 36.0239599,
+   "lon": -115.0790476,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/370194350",
+   "name": "Lone Mountain Dog Park",
+   "lat": 36.2407835,
+   "lon": -115.3100134,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/9419666799",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0131022,
+   "lon": -115.1071895,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/428980018",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0104303,
+   "lon": -115.1642664,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/850055253",
+   "name": "Weston Hills Dog Park",
+   "lat": 36.0743323,
+   "lon": -114.9785739,
+   "distKm": 18,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1384672563",
+   "name": "Lt. Erik Lloyd Memorial Dog Park",
+   "lat": 36.076675,
+   "lon": -115.3034182,
+   "distKm": 18,
+   "address": "9665 W Patrick Ln, Las Vegas, NV 89148",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/203323632",
+   "name": "Amador Vista Dog Park",
+   "lat": 36.0159086,
+   "lon": -115.0540515,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "Mo,We,Th,Fr,Sa,Su 07:00-22:00; Tu 07:00-12:00,14:00-22:00"
+   }
+  },
+  {
+   "id": "way/468557439",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0305527,
+   "lon": -115.0160719,
+   "distKm": 19.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468782661",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 36.0238441,
+   "lon": -115.0254781,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/935151021",
+   "name": "Winding Trails Dog Park",
+   "lat": 36.2924946,
+   "lon": -115.2961619,
+   "distKm": 19.6,
+   "address": "7250 North Fort Apache Road, Las Vegas, NV 89149",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.lasvegasnevada.gov"
+   }
+  },
+  {
+   "id": "way/1365441696",
+   "name": "Pulse Dog Park",
+   "lat": 36.060631,
+   "lon": -114.9657337,
+   "distKm": 19.8,
+   "address": "475 Pulse Avenue, Henderson, NV 89011",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  }
+ ]
+}

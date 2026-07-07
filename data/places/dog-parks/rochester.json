@@ -1,0 +1,141 @@
+{
+ "$schemaVersion": 1,
+ "city": "rochester",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:36:03.076Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 13,
+ "places": [
+  {
+   "id": "way/771729803",
+   "name": "The Dog Park at Cobbs Hill",
+   "lat": 43.1433861,
+   "lon": -77.5676996,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "access": "permit",
+    "website": "https://www.cityofrochester.gov/dogpark/"
+   }
+  },
+  {
+   "id": "way/1292962923",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.1036565,
+   "lon": -77.6222047,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1265557897",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.1488108,
+   "lon": -77.5181207,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1529312656",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.064335,
+   "lon": -77.6173075,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/70345445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.1906714,
+   "lon": -77.7361862,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/980789051",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.1150094,
+   "lon": -77.4750726,
+   "distKm": 11.8,
+   "address": "99 Whitney Road, Penfield, NY 14526",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/462232641",
+   "name": "Large Dog Park",
+   "lat": 43.0460121,
+   "lon": -77.6154424,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/462232642",
+   "name": "Small Dog Park",
+   "lat": 43.0459957,
+   "lon": -77.6146883,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/17677310",
+   "name": "Henrietta Dog Park",
+   "lat": 43.0460121,
+   "lon": -77.6151853,
+   "distKm": 12.3,
+   "address": "3850 East Henrietta Road, Henrietta, NY 14467",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.henrietta.org/community/page/lookup-park"
+   }
+  },
+  {
+   "id": "way/1245960782",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.0740232,
+   "lon": -77.4959204,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/1059310400",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.0992011,
+   "lon": -77.4220349,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1059310399",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.098711,
+   "lon": -77.4188201,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/539310039",
+   "name": "Fairport Dog Park",
+   "lat": 43.0841602,
+   "lon": -77.4245903,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "$schemaVersion": 1,
+ "city": "richmond",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:33:39.772Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 35,
+ "places": [
+  {
+   "id": "node/3075664829",
+   "name": "Helping Hands Veterinary",
+   "lat": 37.5665225,
+   "lon": -77.4579588,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 07:30-17:30 || \"Or call (804) 420-2770 for after-hours emergency inquires only\""
+   }
+  },
+  {
+   "id": "node/3715937823",
+   "name": "Fan Veterinary Clinic",
+   "lat": 37.5558335,
+   "lon": -77.4709085,
+   "distKm": 3.5,
+   "address": "307 North Robinson Street, Richmond, VA 23220",
+   "tags": {
+    "phone": "+1 804-358-3779",
+    "website": "https://fanveterinaryclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/9418938243",
+   "name": "Susan M. Markle Veterinary Hospital at Richmond SPCA",
+   "lat": 37.5665205,
+   "lon": -77.4592387,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-804-521-1330",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:00-18:00"
+   }
+  },
+  {
+   "id": "node/7102235919",
+   "name": "Cary Street Veterinary Hospital",
+   "lat": 37.5543553,
+   "lon": -77.483089,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/10301499409",
+   "name": "Scott's Addition Animal Hospital",
+   "lat": 37.5655985,
+   "lon": -77.4746807,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo,We 08:00-19:00; Tu,Th-Fr 08:00-18:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/3075664819",
+   "name": "Virginia Veterinary Centers",
+   "lat": 37.5545793,
+   "lon": -77.4843261,
+   "distKm": 4.5,
+   "address": "3312 West Cary Street, Richmond, VA 23221",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12806755490",
+   "name": "Prevent a Litter Veterinary Hospital",
+   "lat": 37.5546166,
+   "lon": -77.4853512,
+   "distKm": 4.6,
+   "address": "3421 West Cary Street",
+   "tags": {
+    "opening_hours": "Mo 10:00-17:00 open \"By Appointment Only\"; Tu-We 07:30-17:00 open \"By Appointment Only\"; Th-Fr 10:30-15:30 open \"By Appointment Only\"; Sa 07:30-17:30 open \"By Appointment Only\"; Su off"
+   }
+  },
+  {
+   "id": "way/334127300",
+   "name": "Broad Street Veterinary Hospital",
+   "lat": 37.5677024,
+   "lon": -77.4762909,
+   "distKm": 4.7,
+   "address": "3320 West Broad Street, Richmond, VA 23230",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/12459018471",
+   "name": "Urgent Vet",
+   "lat": 37.5566779,
+   "lon": -77.4872968,
+   "distKm": 4.9,
+   "address": "3531 Ellwood Avenue, Richmond, VA 23221",
+   "tags": {
+    "opening_hours": "Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00"
+   }
+  },
+  {
+   "id": "way/365801787",
+   "name": "Fairfield Veterinary Hospital",
+   "lat": 37.544975,
+   "lon": -77.3694471,
+   "distKm": 5.9,
+   "address": "4804 Nine Mile Road, 23223",
+   "tags": {}
+  },
+  {
+   "id": "node/12474223475",
+   "name": "Lakeside Animal Hospital",
+   "lat": 37.6010738,
+   "lon": -77.4673581,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/710450004",
+   "name": "Varina Veterinary Clinic",
+   "lat": 37.4837858,
+   "lon": -77.3948209,
+   "distKm": 7.3,
+   "address": "1320 New Market Road, 23231",
+   "tags": {}
+  },
+  {
+   "id": "way/306477749",
+   "name": "River City Veterinary Hospital",
+   "lat": 37.5861548,
+   "lon": -77.4995497,
+   "distKm": 7.5,
+   "address": "5305 West Broad Street, VA 23226",
+   "tags": {
+    "phone": "+1 804-716-4700",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/6531580736",
+   "name": "BetterPet Veterinary",
+   "lat": 37.6118985,
+   "lon": -77.3453906,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10300011710",
+   "name": "Smokey's",
+   "lat": 37.6118212,
+   "lon": -77.3420521,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/648804214",
+   "name": "Mechanicsville Animal Hospital",
+   "lat": 37.6162137,
+   "lon": -77.3393194,
+   "distKm": 12,
+   "address": "7041 Lee Park Road, Mechanicsville, VA 23111",
+   "tags": {}
+  },
+  {
+   "id": "way/710455216",
+   "name": "New Market Veterinary Clinic",
+   "lat": 37.4473854,
+   "lon": -77.3570818,
+   "distKm": 12.5,
+   "address": "2458 New Market Road, Richmond, VA 23231",
+   "tags": {
+    "phone": "+1-804-795-4350",
+    "website": "https://www.newmarketvetclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/305645900",
+   "name": "Bell Creek Veterinary Hospital",
+   "lat": 37.6356652,
+   "lon": -77.3560122,
+   "distKm": 12.7,
+   "address": "8310 Bell Creek Road, Mechanicsville, VA 23116",
+   "tags": {}
+  },
+  {
+   "id": "node/6509955726",
+   "name": "Rutland Animal Hospital",
+   "lat": 37.6530429,
+   "lon": -77.4010671,
+   "distKm": 12.9,
+   "address": "9375 Atlee Road, Mechanicsville, VA 23116",
+   "tags": {
+    "phone": "+1 804-559-6502",
+    "website": "https://www.rutlandanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/708258035",
+   "name": "Tuckahoe Veterinary Hospital",
+   "lat": 37.6043947,
+   "lon": -77.5695445,
+   "distKm": 13.7,
+   "address": "9001 Quioccasin Road, 23229",
+   "tags": {}
+  },
+  {
+   "id": "way/709565950",
+   "name": "Locke A. Taylor DVM and Associates",
+   "lat": 37.6258218,
+   "lon": -77.5498645,
+   "distKm": 13.8,
+   "address": "2801 North Parham Road, 23294",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/7102137480",
+   "name": "Banfield Pet Hospital",
+   "lat": 37.6687761,
+   "lon": -77.4630883,
+   "distKm": 14.4,
+   "address": "9870 Brook Road, 23059",
+   "tags": {}
+  },
+  {
+   "id": "way/705569034",
+   "name": "Hanover Animal Hospital",
+   "lat": 37.6661923,
+   "lon": -77.3815874,
+   "distKm": 14.8,
+   "address": "8251 Crown Colony Park, 23116",
+   "tags": {}
+  },
+  {
+   "id": "node/10724143279",
+   "name": "Riverbound Veterinary Clinic",
+   "lat": 37.6247864,
+   "lon": -77.3045161,
+   "distKm": 14.9,
+   "address": "6049 Mechanicsville Turnpike, Mechanicsville, VA 23111",
+   "tags": {
+    "phone": "+1-804-746-5902",
+    "website": "http://riverboundvet.com/"
+   }
+  },
+  {
+   "id": "node/3093178393",
+   "name": "Glen Allen Animal Hospital",
+   "lat": 37.6581836,
+   "lon": -77.525245,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6515407486",
+   "name": "Huguenot Animal Hospital",
+   "lat": 37.5208951,
+   "lon": -77.6096403,
+   "distKm": 15.5,
+   "address": "11523 Robious Road, North Chesterfield, VA 23235",
+   "tags": {
+    "phone": "+1-804-562-2028",
+    "website": "https://www.huguenotvet.com/"
+   }
+  },
+  {
+   "id": "node/12009856655",
+   "name": "Iron Bridge Animal Hospital",
+   "lat": 37.4071073,
+   "lon": -77.506172,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6754680064",
+   "name": "Lucks Lane Vet",
+   "lat": 37.4735912,
+   "lon": -77.5989276,
+   "distKm": 16.2,
+   "address": "1108 Courthouse Road, 23236",
+   "tags": {}
+  },
+  {
+   "id": "node/12459835762",
+   "name": "Springfield Veterinary Center",
+   "lat": 37.6495633,
+   "lon": -77.5613839,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3033575184",
+   "name": "Ashcake Veterinary Clinic",
+   "lat": 37.6924806,
+   "lon": -77.4375708,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:30"
+   }
+  },
+  {
+   "id": "node/6535436192",
+   "name": "Countryside Vet",
+   "lat": 37.6209955,
+   "lon": -77.6111555,
+   "distKm": 17.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6535436188",
+   "name": "John Rolfe Veterinary",
+   "lat": 37.6236256,
+   "lon": -77.6223631,
+   "distKm": 18.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6587097465",
+   "name": "Chesterfield Meadows Veterinary",
+   "lat": 37.3722987,
+   "lon": -77.5004551,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6525598954",
+   "name": "VetXpress",
+   "lat": 37.6473637,
+   "lon": -77.6165628,
+   "distKm": 19.8,
+   "address": "3412 Pump Road, Henrico, VA 23233",
+   "tags": {
+    "phone": "+1-804-360-0111",
+    "website": "https://westend-vet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/6690313451",
+   "name": "Urgent Vet",
+   "lat": 37.6511924,
+   "lon": -77.6132939,
+   "distKm": 19.9,
+   "address": "11521 West Broad Street, Richmond, VA 23233",
+   "tags": {
+    "phone": "+1-804-533-7733",
+    "website": "https://urgentvet.com/location/short-pump-henrico-va/",
+    "opening_hours": "Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00"
+   }
+  }
+ ]
+}

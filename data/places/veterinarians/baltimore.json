@@ -1,0 +1,670 @@
+{
+ "$schemaVersion": 1,
+ "city": "baltimore",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:28:23.484Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/10797724439",
+   "name": "CityPets Veterinary Care & Wellness",
+   "lat": 39.275349,
+   "lon": -76.614391,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13724414026",
+   "name": "heart+paw",
+   "lat": 39.2839365,
+   "lon": -76.5875677,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/180909447",
+   "name": "Harbor View Veterinary Hospital",
+   "lat": 39.2831763,
+   "lon": -76.5841937,
+   "distKm": 2.5,
+   "address": "2304 Boston Street, Baltimore, MD 21224",
+   "tags": {
+    "website": "https://harborviewvet.com/"
+   }
+  },
+  {
+   "id": "node/3190728063",
+   "name": "Never Walk Alone",
+   "lat": 39.2812049,
+   "lon": -76.5800058,
+   "distKm": 3,
+   "address": "2400 Boston Street, Baltimore, MD 21224",
+   "tags": {}
+  },
+  {
+   "id": "node/4174946320",
+   "name": "Aardmore Veterinarium",
+   "lat": 39.324441,
+   "lon": -76.6010575,
+   "distKm": 3.9,
+   "address": "3130 Loch Raven Road, Baltimore, 21218",
+   "tags": {
+    "phone": "+1 410 889 2230",
+    "website": "http://www.aardmore.com",
+    "opening_hours": "Mo,Tu,We,Fr 09:00-12:00,18:00-19:00; Sa 09:00-12:00; Th,Su closed"
+   }
+  },
+  {
+   "id": "node/2984229324",
+   "name": "Charm City Veterinary Hospitial",
+   "lat": 39.2808916,
+   "lon": -76.5665634,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5970707363",
+   "name": "Hampden Veterinary Hospital",
+   "lat": 39.3272017,
+   "lon": -76.6279282,
+   "distKm": 4.3,
+   "address": "3300 Keswick Road, Baltimore, MD 21211",
+   "tags": {
+    "phone": "+1 410-243-3333",
+    "opening_hours": "Mo 09:00-18:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/336420680",
+   "name": "Maryland SPCA Wellness Clinic",
+   "lat": 39.3367698,
+   "lon": -76.6363976,
+   "distKm": 5.6,
+   "address": "4007 Falls Road, Baltimore, MD 21211",
+   "tags": {}
+  },
+  {
+   "id": "way/336402690",
+   "name": "Evergreen Veterinary Care",
+   "lat": 39.344885,
+   "lon": -76.6306103,
+   "distKm": 6.3,
+   "address": "410 West Cold Spring Lane, Baltimore, MD 21210",
+   "tags": {
+    "phone": "+1 443-438-4491",
+    "website": "https://www.evergreenfearfree.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Su 10:00-17:00; Sa, PH off"
+   }
+  },
+  {
+   "id": "way/532770085",
+   "name": "Everhart Veterinary Hospital",
+   "lat": 39.233619,
+   "lon": -76.6113269,
+   "distKm": 6.3,
+   "address": "4005 Ritchie Highway",
+   "tags": {
+    "phone": "+1-410-355-3131",
+    "website": "https://www.everhartvet.com/"
+   }
+  },
+  {
+   "id": "way/796546412",
+   "name": "Eastern Animal Hospital",
+   "lat": 39.2863799,
+   "lon": -76.5348949,
+   "distKm": 6.7,
+   "address": "6575 Eastern Avenue, Baltimore, MD 21224",
+   "tags": {
+    "phone": "+1 410 633 8808"
+   }
+  },
+  {
+   "id": "node/9796710748",
+   "name": "Everhart Veterinary Medicine",
+   "lat": 39.3557606,
+   "lon": -76.6458426,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10147269517",
+   "name": "Belvedere Veterinary Center",
+   "lat": 39.3633955,
+   "lon": -76.6097939,
+   "distKm": 8.1,
+   "address": "5857 York Road, Baltimore, MD 21212",
+   "tags": {
+    "phone": "+1 410 999 3300",
+    "opening_hours": "Mo 08:00-20:00; Tu-Th 08:00-19:00; Fr 08:00-17:00; Sa 08:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/7277192586",
+   "name": "Academy Animal Hospital",
+   "lat": 39.3456049,
+   "lon": -76.5406903,
+   "distKm": 8.7,
+   "address": "5915 Belair Road, Baltimore, MD 21206",
+   "tags": {
+    "phone": "+1-410-483-5162",
+    "website": "http://www.academyhospital.com/"
+   }
+  },
+  {
+   "id": "node/3031076895",
+   "name": "Eastpoint Veterinary Hospital",
+   "lat": 39.2881756,
+   "lon": -76.5063505,
+   "distKm": 9.1,
+   "address": "702 Merritt Boulevard, Highlandtown, MD 21224",
+   "tags": {}
+  },
+  {
+   "id": "node/8733249942",
+   "name": "The Village Vet",
+   "lat": 39.3671312,
+   "lon": -76.6530526,
+   "distKm": 9.2,
+   "address": "1620 Sulgrave Avenue, Baltimore, MD 21209",
+   "tags": {
+    "phone": "+1-410-367-8111",
+    "website": "https://www.baltimorevet.net/",
+    "opening_hours": "Mo-Tu,Th 08:00-17:00; We,Fr 08:00-15:00"
+   }
+  },
+  {
+   "id": "way/547524322",
+   "name": "Paradise Animal Hospital",
+   "lat": 39.2761494,
+   "lon": -76.7172717,
+   "distKm": 9.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/298711370",
+   "name": "Cat Hospital at Towson",
+   "lat": 39.3769422,
+   "lon": -76.6085583,
+   "distKm": 9.6,
+   "address": "6701 York Road, Govans, MD 21212",
+   "tags": {}
+  },
+  {
+   "id": "way/299322348",
+   "name": "Westview Animal Hospital",
+   "lat": 39.29207,
+   "lon": -76.7300685,
+   "distKm": 10.1,
+   "address": "5800 Johnnycake Road, Gwynn Oak, MD 21207",
+   "tags": {}
+  },
+  {
+   "id": "way/261757245",
+   "name": "Emergency Veterinary Clinic",
+   "lat": 39.2705607,
+   "lon": -76.7340972,
+   "distKm": 10.7,
+   "address": "32 Mellor Avenue, Catonsville, 21228",
+   "tags": {
+    "website": "evccatonsville.com"
+   }
+  },
+  {
+   "id": "way/317310799",
+   "name": "Frederick Road Veterinary Hospital",
+   "lat": 39.2717725,
+   "lon": -76.7344731,
+   "distKm": 10.7,
+   "address": "816 Frederick Road, Catonsville, 21228",
+   "tags": {
+    "website": "https://www.frederickroadvet.com/"
+   }
+  },
+  {
+   "id": "node/3025601101",
+   "name": "Hillendale Animal Hospital",
+   "lat": 39.3834312,
+   "lon": -76.5766371,
+   "distKm": 10.8,
+   "address": "6839 Loch Raven Boulevard, Loch Raven, MD 21286",
+   "tags": {}
+  },
+  {
+   "id": "node/3025610311",
+   "name": "Parkville Animal Hospotal",
+   "lat": 39.3819097,
+   "lon": -76.5361317,
+   "distKm": 12.1,
+   "address": "8600 Harford Road, Parkville, MD 21234",
+   "tags": {
+    "phone": "+1-410-668-1040",
+    "website": "https://www.parkvilleah.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-12:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/3032452680",
+   "name": "Catonsville Cat Clinic",
+   "lat": 39.2859163,
+   "lon": -76.7540526,
+   "distKm": 12.2,
+   "address": "1114 North Rolling Road, Catonsville, MD 21228",
+   "tags": {
+    "website": "https://www.catonsvillecatclinic.com/"
+   }
+  },
+  {
+   "id": "node/3026471884",
+   "name": "Paw Prints Pet Hospital",
+   "lat": 39.339938,
+   "lon": -76.4849193,
+   "distKm": 12.3,
+   "address": "8767 J Philadelphia Road, Rosedale, MD 21237",
+   "tags": {
+    "phone": "+1 410 918 1155"
+   }
+  },
+  {
+   "id": "node/10760058931",
+   "name": "Pet+ER",
+   "lat": 39.3995927,
+   "lon": -76.5698149,
+   "distKm": 12.7,
+   "address": "1209, Towson, MD 21286",
+   "tags": {
+    "phone": "+1-410-252-8387",
+    "website": "https://www.pet-er.net/locations/towson/",
+    "opening_hours": "24/7",
+    "emergency": "yes"
+   }
+  },
+  {
+   "id": "way/219848469",
+   "name": "Towson Veterinary Hospital",
+   "lat": 39.4049939,
+   "lon": -76.6056253,
+   "distKm": 12.8,
+   "address": "716 York Road, Towson, MD 21204",
+   "tags": {}
+  },
+  {
+   "id": "way/299105576",
+   "name": "Carney Animal Hospital",
+   "lat": 39.3867709,
+   "lon": -76.5312761,
+   "distKm": 12.8,
+   "address": "9011 Harford Road, Parkville, MD 21234",
+   "tags": {
+    "phone": "+1-410-665-5255",
+    "website": "https://carneyanimalhospital.com/",
+    "opening_hours": "Mo 09:00-18:00; Tu 08:00-19:00; We-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-13:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "way/299103570",
+   "name": "Fullerton Animal Hospital",
+   "lat": 39.3761521,
+   "lon": -76.5073547,
+   "distKm": 13.1,
+   "address": "8018 Belair Road, Nottingham, MD 21236",
+   "tags": {
+    "phone": "+1-410-892-1212",
+    "website": "https://fullertonanimal.com/",
+    "opening_hours": "Mo-Th 08:00-19:30; Fr 08:00-18:00; Sa 08:00-15:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "way/53717949",
+   "name": "Stevenson Village Veterinary Hospital",
+   "lat": 39.3776802,
+   "lon": -76.7198504,
+   "distKm": 13.4,
+   "address": "46 East Sudbrook Lane, Pikesville, MD 21208",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/290092047",
+   "name": "Elkridge Animal Hospital",
+   "lat": 39.2084648,
+   "lon": -76.7258639,
+   "distKm": 13.4,
+   "address": "6270 Washington Boulevard, Elkridge, MD 21075",
+   "tags": {
+    "website": "https://elkridgevet.com/"
+   }
+  },
+  {
+   "id": "node/2823056801",
+   "name": "Vinson Animal Hospital",
+   "lat": 39.411944,
+   "lon": -76.611012,
+   "distKm": 13.5,
+   "address": "1030 York Road, Towson, MD 21204",
+   "tags": {
+    "phone": "+1-410-828-7676",
+    "website": "https://vinsonanimalhospital.com/",
+    "opening_hours": "Mo,Th 08:00-19:30; Tu,We,Fr 08:00-17:30; Sa 08:00-12:30; PH,Su off"
+   }
+  },
+  {
+   "id": "way/1278583138",
+   "name": "Glen Burnie Animal Hospital",
+   "lat": 39.1689437,
+   "lon": -76.6230938,
+   "distKm": 13.5,
+   "address": "408 Crain Highway North, Glen Burnie, MD 21061",
+   "tags": {
+    "phone": "+1-410-999-1811",
+    "website": "https://glenburnievet.com/",
+    "opening_hours": "Tu-Fr 09:00-17:00; Sa-Mo off"
+   }
+  },
+  {
+   "id": "node/3019377102",
+   "name": "Ruxton Animal Hospital",
+   "lat": 39.4107078,
+   "lon": -76.6446421,
+   "distKm": 13.7,
+   "address": "8014 Bellona Avenue, Towson, MD 21204",
+   "tags": {}
+  },
+  {
+   "id": "node/8372032368",
+   "name": "Pikesville Animal Hospital",
+   "lat": 39.3765359,
+   "lon": -76.726637,
+   "distKm": 13.7,
+   "address": "1496 Reisterstown Road, Pikesville, MD 21208",
+   "tags": {
+    "phone": "+1-410-580-9119",
+    "website": "https://www.pikesvillevet.com/",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/298914486",
+   "name": "Essex-Middle River Veterinary Center",
+   "lat": 39.3205065,
+   "lon": -76.4531995,
+   "distKm": 14.1,
+   "address": "1609 Eastern Boulevard, Essex, MD 21221",
+   "tags": {}
+  },
+  {
+   "id": "node/10599837275",
+   "name": "Claws'N'Paws Animal Hospital",
+   "lat": 39.2019685,
+   "lon": -76.7347723,
+   "distKm": 14.4,
+   "address": "6500 Washington Boulevard",
+   "tags": {}
+  },
+  {
+   "id": "node/12042593763",
+   "name": "Croydon Pet Hospital",
+   "lat": 39.1516912,
+   "lon": -76.6141527,
+   "distKm": 15.4,
+   "address": "7746 Ritchie Highway, Glen Burnie, MD 21061",
+   "tags": {
+    "phone": "+1-410-438-1746",
+    "website": "https://croydonpethospital.com/"
+   }
+  },
+  {
+   "id": "way/298499061",
+   "name": "Northwind Animal Hospital",
+   "lat": 39.408529,
+   "lon": -76.5134835,
+   "distKm": 15.6,
+   "address": "10019 Harford Road, Parkville, MD 21234",
+   "tags": {
+    "phone": "+1-410-668-4806",
+    "website": "http://northwindvethospital.vetstreet.com/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/3019371914",
+   "name": "Animal Medical Clinic of Dulaney Valley",
+   "lat": 39.4323901,
+   "lon": -76.6209221,
+   "distKm": 15.8,
+   "address": "1811 D York Road, Lutherville, MD 21093",
+   "tags": {}
+  },
+  {
+   "id": "way/532704882",
+   "name": "Alpha Veterinary Center",
+   "lat": 39.1487092,
+   "lon": -76.6376486,
+   "distKm": 15.9,
+   "address": "7699 Quarterfield Road, Glen Burnie, MD 21061",
+   "tags": {}
+  },
+  {
+   "id": "way/298520191",
+   "name": "Abbey Animal Hospital",
+   "lat": 39.3973519,
+   "lon": -76.4824765,
+   "distKm": 16.3,
+   "address": "8858 Belair Road, Nottingham, MD 21236",
+   "tags": {
+    "phone": "+1-410-256-0742",
+    "website": "https://www.abbeyanimalhospital.com/",
+    "opening_hours": "Mo-Tu 08:00-19:00; We 08:00-14:00; Th 08:00-19:00; Fr 08:00-17:00; Sa 08:00-12:00; Su off"
+   }
+  },
+  {
+   "id": "node/3023396014",
+   "name": "Schulmeyer Animal Hospital",
+   "lat": 39.3991821,
+   "lon": -76.4815292,
+   "distKm": 16.5,
+   "address": "4138 H Joppa Road, Nottingham, MD 21236",
+   "tags": {
+    "phone": "+1-410-256-7297",
+    "website": "http://www.schulmeyeranimalhospital.com/",
+    "opening_hours": "Mo-Tu 08:00-20:00; We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 08:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/3025084657",
+   "name": "Valley Dog & Cat Hospital",
+   "lat": 39.3968729,
+   "lon": -76.7475952,
+   "distKm": 16.6,
+   "address": "9125 Reisterstown Road, Owings Mills, MD 21117",
+   "tags": {
+    "phone": "+1 410 363 9500",
+    "opening_hours": "Mo,Th 08:00-19:00;Tu,We,Fr 08:00-18:00;Sa 09:00-14:00;Su off"
+   }
+  },
+  {
+   "id": "node/6171266696",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.4387124,
+   "lon": -76.6284915,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/7319336426",
+   "name": "Howard County Animal Hospital",
+   "lat": 39.284582,
+   "lon": -76.8052081,
+   "distKm": 16.6,
+   "address": "8459 Baltimore National Pike, Ellicott City, MD 21043",
+   "tags": {
+    "website": "https://vethowardcounty.com/"
+   }
+  },
+  {
+   "id": "way/298523554",
+   "name": "Perry Hall Animal Hospital",
+   "lat": 39.4001659,
+   "lon": -76.4790364,
+   "distKm": 16.7,
+   "address": "9022 Belair Road, Nottingham, MD 21236",
+   "tags": {
+    "phone": "+1-410-256-4888",
+    "website": "https://www.perryhallanimal.com/",
+    "opening_hours": "Mo 08:00-18:00; Tu-Th 08:00-20:00; Fr 08:00-17:30; Sa 08:00-12:30; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/7237323384",
+   "name": "Patapsco Valley Veterinary Hospital",
+   "lat": 39.2838768,
+   "lon": -76.8073676,
+   "distKm": 16.8,
+   "address": "8525 Baltimore National Pike, Ellicott City, MD 21043",
+   "tags": {
+    "phone": "+1-410-461-2235",
+    "website": "http://www.patapscovalleyvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:30; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/11905489602",
+   "name": "Everhart WellPet Center",
+   "lat": 39.1577867,
+   "lon": -76.5175027,
+   "distKm": 16.9,
+   "address": "8482 Fort Smallwood Road",
+   "tags": {
+    "phone": "+1-410-793-7670",
+    "website": "https://www.everhartvet.com/contact-us/everhart-wellpet-center/"
+   }
+  },
+  {
+   "id": "node/4731076717",
+   "name": "Banfield Pet Hospital",
+   "lat": 39.1376039,
+   "lon": -76.5977911,
+   "distKm": 17,
+   "address": "10 Mountain Road, Glen Burnie, MD",
+   "tags": {
+    "phone": "+1-410-761-0589",
+    "website": "https://www.banfield.com/locations/veterinarians/md/glen-burnie/aai"
+   }
+  },
+  {
+   "id": "way/170792267",
+   "name": "Countryside Veterinary Clinic",
+   "lat": 39.2370955,
+   "lon": -76.8000799,
+   "distKm": 17.2,
+   "address": "4866 Montgomery Road, Ellicott City, MD 21043",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/190680143",
+   "name": "Comunity Animal Hospital",
+   "lat": 39.3683994,
+   "lon": -76.7984513,
+   "distKm": 18.2,
+   "address": "9035 Liberty Road, Randallstown, MD 21133",
+   "tags": {}
+  },
+  {
+   "id": "way/298086430",
+   "name": "Timonium Animal Hospital",
+   "lat": 39.4541986,
+   "lon": -76.6318419,
+   "distKm": 18.3,
+   "address": "2411 York Road, Lutherville, MD 21093",
+   "tags": {
+    "phone": "+1-443-564-4097",
+    "website": "http://timoniumanimalhospital.vetstreet.com/"
+   }
+  },
+  {
+   "id": "way/303341890",
+   "name": "Huffard Animal Hospital",
+   "lat": 39.1270551,
+   "lon": -76.5896602,
+   "distKm": 18.3,
+   "address": "8073 Ritchie Highway, 21122",
+   "tags": {
+    "website": "https://huffardanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/1284242455",
+   "name": "VCA Telegraph Road Animal Hospital",
+   "lat": 39.1350368,
+   "lon": -76.6859209,
+   "distKm": 18.4,
+   "address": "7863 Telegraph Road, Severn, MD 21144",
+   "tags": {
+    "phone": "+1-410-551-3100",
+    "website": "https://vcahospitals.com/telegraph-road"
+   }
+  },
+  {
+   "id": "node/6541035288",
+   "name": "VCA Columbia Animal Hospital at Centre Parl",
+   "lat": 39.2297593,
+   "lon": -76.8125544,
+   "distKm": 18.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/128366900",
+   "name": "Dunloggin Veterinary Hospital",
+   "lat": 39.2716187,
+   "lon": -76.8276327,
+   "distKm": 18.7,
+   "address": "9105 Frederick Road, 21042",
+   "tags": {}
+  },
+  {
+   "id": "node/2111747598",
+   "name": "Animal Wellness Center",
+   "lat": 39.2280173,
+   "lon": -76.8150493,
+   "distKm": 18.8,
+   "address": "8827 Centre Park Drive, 21045",
+   "tags": {}
+  },
+  {
+   "id": "node/6818431810",
+   "name": "Warm & Fuzzy Veterinary Clinic",
+   "lat": 39.3548496,
+   "lon": -76.4082233,
+   "distKm": 19,
+   "address": "11600 Crossroads Circle, Middle River, MD 21220",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/259456276",
+   "name": "Padonia Veterinary Hospital",
+   "lat": 39.4600055,
+   "lon": -76.6343012,
+   "distKm": 19,
+   "address": "9827 York Road, Cockeysville, MD 21030",
+   "tags": {
+    "website": "https://www.padoniavets.com/"
+   }
+  }
+ ]
+}

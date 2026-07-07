@@ -1,0 +1,255 @@
+{
+ "$schemaVersion": 1,
+ "city": "tulsa",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:31:10.056Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/1011565952",
+   "name": "Southern Agriculture",
+   "lat": 36.124835,
+   "lon": -95.941009,
+   "distKm": 5.7,
+   "address": "2610 South Harvard Avenue East, Tulsa, OK 74114",
+   "tags": {
+    "phone": "+1 918 747 6872",
+    "website": "https://southernagriculture.com/",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/13312440663",
+   "name": "Dog Dish",
+   "lat": 36.1221339,
+   "lon": -95.939927,
+   "distKm": 5.9,
+   "address": "2803 South Harvard Avenue East, Tulsa, OK 74114",
+   "tags": {
+    "phone": "+1 539 430 1442",
+    "website": "https://shopdogdish.com/"
+   }
+  },
+  {
+   "id": "relation/19174666",
+   "name": "Petco",
+   "lat": 36.1059286,
+   "lon": -95.9188087,
+   "distKm": 8.5,
+   "address": "5207 East 41st Street South, Tulsa, OK 74135",
+   "tags": {
+    "phone": "+1 918-281-2311",
+    "website": "https://stores.petco.com/ok/tulsa/pet-supplies-tulsa-ok-2479.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1009499025",
+   "name": "PetSmart",
+   "lat": 36.103647,
+   "lon": -95.9144468,
+   "distKm": 9,
+   "address": "5418 East 41st Street South, Tulsa, OK 74135",
+   "tags": {
+    "phone": "+1 918-622-6900",
+    "website": "https://www.petsmart.com/stores/us/ok/tulsa-store0219.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/618120243",
+   "name": "Animal Rescue Foundation Adoption Center",
+   "lat": 36.0876256,
+   "lon": -95.9216036,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "website": "https://www.arftulsa.org/",
+    "opening_hours": "We-Sa 10:00-17:00; Su-Tu off"
+   }
+  },
+  {
+   "id": "node/11975781088",
+   "name": "Wild Birds Unlimited",
+   "lat": 36.0774176,
+   "lon": -95.9231082,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/83433112",
+   "name": "PetSmart",
+   "lat": 36.0579843,
+   "lon": -96.0050507,
+   "distKm": 10.7,
+   "address": "7322 South Olympia Avenue West, Tulsa, OK 74132",
+   "tags": {
+    "phone": "+1 918-445-8648",
+    "website": "https://www.petsmart.com/stores/us/ok/tulsa-store1661.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/180521659",
+   "name": "Southern Agriculture",
+   "lat": 36.0494683,
+   "lon": -96.0057652,
+   "distKm": 11.7,
+   "address": "7836 South Olympia Avenue West, Tulsa, OK 74132",
+   "tags": {
+    "phone": "+1 918 794 7387"
+   }
+  },
+  {
+   "id": "node/13231050207",
+   "name": "Ultimate Reefs and Aquariums",
+   "lat": 36.0763655,
+   "lon": -95.8873683,
+   "distKm": 12.8,
+   "address": "South Memorial Drive East, Tulsa, OK 74145",
+   "tags": {}
+  },
+  {
+   "id": "node/1105787625",
+   "name": "Pet Supplies Plus",
+   "lat": 36.0763105,
+   "lon": -95.8858062,
+   "distKm": 12.9,
+   "address": "8221 East 61st Street South, Tulsa, 74133",
+   "tags": {
+    "phone": "+1 918 806 2316"
+   }
+  },
+  {
+   "id": "way/397356478",
+   "name": "Petco",
+   "lat": 36.02437,
+   "lon": -95.948221,
+   "distKm": 15,
+   "address": "9645 Riverside Parkway, Tulsa, OK 74137",
+   "tags": {
+    "phone": "+1 918-296-3312",
+    "website": "https://stores.petco.com/ok/tulsa/pet-supplies-tulsa-ok-1430.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12337902861",
+   "name": "Hollywood Feed",
+   "lat": 36.0302604,
+   "lon": -95.9233812,
+   "distKm": 15.1,
+   "address": "9146 South Yale Avenue East, 74137",
+   "tags": {
+    "phone": "+1 918 600 0660",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "relation/18996632",
+   "name": "PetSmart",
+   "lat": 36.0626784,
+   "lon": -95.8637105,
+   "distKm": 15.4,
+   "address": "10117 East 71st Street South, Tulsa, OK 74133",
+   "tags": {
+    "phone": "+1 918-254-4905",
+    "website": "https://www.petsmart.com/stores/us/ok/tulsa-store0218.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13791344340",
+   "name": "Axolotls Tulsa",
+   "lat": 36.0288306,
+   "lon": -95.9048115,
+   "distKm": 16,
+   "address": "9238 South Sheridan Road East, Tulsa, OK 74133",
+   "tags": {
+    "phone": "+1-918-629-1853",
+    "website": "https://www.axolotlstulsa.com",
+    "opening_hours": "Mo,Tu 12:00-18:00; Th,Fr 12:00-18:00; Sa 11:00-17:00; Su 13:00-16:00"
+   }
+  },
+  {
+   "id": "node/9278099946",
+   "name": "Petland",
+   "lat": 36.0604443,
+   "lon": -95.8544455,
+   "distKm": 16.2,
+   "address": "10908 East 71st Street South, Tulsa, 74133",
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "relation/19966249",
+   "name": "Hollywood Feed",
+   "lat": 36.0181895,
+   "lon": -95.8857826,
+   "distKm": 17.9,
+   "address": "10035 South Memorial Drive East, Tulsa, OK 74133",
+   "tags": {
+    "phone": "+1 918 209 4648",
+    "website": "https://locations.hollywoodfeed.com/oklahoma/tulsa/10035-s-memorial-dr/",
+    "opening_hours": "Mo-Sa 09:00-19:30; Su 10:00-18:30"
+   }
+  },
+  {
+   "id": "relation/19658145",
+   "name": "PetSmart",
+   "lat": 36.0159683,
+   "lon": -95.8883451,
+   "distKm": 18,
+   "address": "10122 South Memorial Drive East, Tulsa, OK 74133",
+   "tags": {
+    "phone": "+1 918-364-1086",
+    "website": "https://www.petsmart.com/stores/us/ok/tulsa-store2716.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1079166348",
+   "name": "Aquarium Customs",
+   "lat": 36.0546995,
+   "lon": -95.8148631,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13764465862",
+   "name": "Fins For Grins",
+   "lat": 36.0680459,
+   "lon": -95.7979046,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19901910",
+   "name": "PetSmart",
+   "lat": 36.2881011,
+   "lon": -95.8464686,
+   "distKm": 19.9,
+   "address": "9002 North 121st Avenue East, Owasso, OK 74055",
+   "tags": {
+    "phone": "+1 918-272-1690",
+    "website": "https://www.petsmart.com/stores/us/ok/owasso-store1322.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "$schemaVersion": 1,
+ "city": "madison",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:35:07.307Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 6,
+ "places": [
+  {
+   "id": "node/6532339285",
+   "name": "Dog Haus University",
+   "lat": 43.0619061,
+   "lon": -89.4010238,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9920251689",
+   "name": "Dog Haus University",
+   "lat": 43.0837258,
+   "lon": -89.3770148,
+   "distKm": 2.3,
+   "address": "825 East Johnson Street",
+   "tags": {
+    "phone": "+1 608-515-8255",
+    "website": "https://doghausuniversity.com/",
+    "opening_hours": "Mo-Fr 06:00-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6177490095",
+   "name": "Happy Dogz Daycare",
+   "lat": 43.0158231,
+   "lon": -89.4644281,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {
+    "website": "https://happyz.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/561608506",
+   "name": "Waggin' Tails",
+   "lat": 43.0098124,
+   "lon": -89.4780774,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/335237342",
+   "name": "Camp K9",
+   "lat": 43.1172124,
+   "lon": -89.2750892,
+   "distKm": 11.4,
+   "address": "4934 Felland Road, Madison, WI 53718",
+   "tags": {
+    "website": "https://www.campk9madison.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/545729308",
+   "name": "TailWaggers Doggy Daycare",
+   "lat": 42.9699364,
+   "lon": -89.5086768,
+   "distKm": 14.4,
+   "address": "1060 American Way, Verona, WI 53593",
+   "tags": {
+    "website": "https://www.tailwaggersdoggydaycare.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

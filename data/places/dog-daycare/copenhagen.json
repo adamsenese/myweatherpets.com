@@ -1,0 +1,10 @@
+{
+ "$schemaVersion": 1,
+ "city": "copenhagen",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:24:47.155Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 0,
+ "places": []
+}

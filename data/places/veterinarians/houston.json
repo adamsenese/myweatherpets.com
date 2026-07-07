@@ -1,0 +1,333 @@
+{
+ "$schemaVersion": 1,
+ "city": "houston",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:21:08.344Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 33,
+ "places": [
+  {
+   "id": "node/7111025893",
+   "name": "The Urban Vet",
+   "lat": 29.7464358,
+   "lon": -95.3764784,
+   "distKm": 1.7,
+   "address": "2625 Louisiana Street, Houston, TX 77006",
+   "tags": {}
+  },
+  {
+   "id": "node/3782744144",
+   "name": "BCP Veternary Pharmacy",
+   "lat": 29.7444429,
+   "lon": -95.3665128,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6779714722",
+   "name": "Banfield Pet Hospital",
+   "lat": 29.774003,
+   "lon": -95.3831439,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/438074841",
+   "name": "Washington Heights Veterinary Clinic",
+   "lat": 29.7747959,
+   "lon": -95.382282,
+   "distKm": 2,
+   "address": "2324 Shearn Street, Houston, TX",
+   "tags": {
+    "website": "https://www.whvetclinic.com/",
+    "opening_hours": "Mo-Su 07:30-18:00"
+   }
+  },
+  {
+   "id": "node/4040987284",
+   "name": "Bayou City Veterinary Hospital",
+   "lat": 29.7708217,
+   "lon": -95.4086625,
+   "distKm": 3.9,
+   "address": "4720 Washington Avenue, Houston, TX 77007",
+   "tags": {}
+  },
+  {
+   "id": "way/1229098312",
+   "name": "BARC",
+   "lat": 29.7907548,
+   "lon": -95.3436961,
+   "distKm": 4.2,
+   "address": "2700 Evella Street",
+   "tags": {}
+  },
+  {
+   "id": "node/11003185406",
+   "name": "BARC Lost Pets & Registration",
+   "lat": 29.7915289,
+   "lon": -95.3438628,
+   "distKm": 4.3,
+   "address": "3200 Carr Street, 77026",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/7326464564",
+   "name": "SNAP",
+   "lat": 29.7764994,
+   "lon": -95.4115055,
+   "distKm": 4.4,
+   "address": "1801 Durham Drive, Houston, TX 77007",
+   "tags": {
+    "opening_hours": "Mo,Th-Fr 10:00-18:00; PH closed"
+   }
+  },
+  {
+   "id": "node/10665807952",
+   "name": "The Corner Vet",
+   "lat": 29.8024893,
+   "lon": -95.4052424,
+   "distKm": 5.8,
+   "address": "440 West 19th Street",
+   "tags": {}
+  },
+  {
+   "id": "way/364703981",
+   "name": "Telephone Road Dog & Cat Hospital",
+   "lat": 29.7250515,
+   "lon": -95.3238539,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8442228572",
+   "name": "Rice Village Animal Hospital",
+   "lat": 29.7177049,
+   "lon": -95.4128904,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {
+    "phone": "+1-713-527-0489"
+   }
+  },
+  {
+   "id": "node/11523340634",
+   "name": "North Durham Animal Hospital",
+   "lat": 29.8043924,
+   "lon": -95.4120106,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1117938133",
+   "name": "Sunset Animal Hospital",
+   "lat": 29.729529,
+   "lon": -95.4254599,
+   "distKm": 6.4,
+   "address": "2959 Southwest Freeway, Houston, TX 77098",
+   "tags": {}
+  },
+  {
+   "id": "node/13807049201",
+   "name": "Houston SPCA Wildlife Center",
+   "lat": 29.7805771,
+   "lon": -95.441307,
+   "distKm": 7.3,
+   "address": "7007 Old Katy Road, 77024",
+   "tags": {
+    "phone": "+1-713-861-9453",
+    "website": "http://www.HoustonSPCA.org",
+    "opening_hours": "Mo-Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/2848552801",
+   "name": "Gulf Coast Veterinary Clinic",
+   "lat": 29.729875,
+   "lon": -95.437893,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5792751409",
+   "name": "Garden Oaks Veterinary Clinic",
+   "lat": 29.8179067,
+   "lon": -95.409876,
+   "distKm": 7.5,
+   "address": "3408 North Shepherd Drive, Houston, TX 77018",
+   "tags": {}
+  },
+  {
+   "id": "node/7294602737",
+   "name": "Jester Plaza Veterinary Clinic",
+   "lat": 29.8024154,
+   "lon": -95.4328187,
+   "distKm": 7.7,
+   "address": "1957 West T C Jester Boulevard",
+   "tags": {
+    "opening_hours": "Mo-We,Fr 07:00-18:00; Sa 07:00-15:00; PH closed"
+   }
+  },
+  {
+   "id": "node/6266333939",
+   "name": "Thrive Pet Healthcare",
+   "lat": 29.8182506,
+   "lon": -95.4291731,
+   "distKm": 8.6,
+   "address": "3422 Ella Boulevard, Houston, TX",
+   "tags": {}
+  },
+  {
+   "id": "way/377025845",
+   "name": "Gulfgate Animal Hospital",
+   "lat": 29.7012686,
+   "lon": -95.2988801,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/676435915",
+   "name": "Northline Low Cost Pet Clinic",
+   "lat": 29.8458838,
+   "lon": -95.3794856,
+   "distKm": 9.6,
+   "address": "51 Tidwell Road, Houston, TX",
+   "tags": {}
+  },
+  {
+   "id": "way/849487177",
+   "name": "Gulf Coast Veterinary Specialists",
+   "lat": 29.7852437,
+   "lon": -95.4814557,
+   "distKm": 11.1,
+   "address": "8042 Katy Freeway",
+   "tags": {}
+  },
+  {
+   "id": "way/224706033",
+   "name": "Houston Veterinary Hospital",
+   "lat": 29.8604245,
+   "lon": -95.3843166,
+   "distKm": 11.2,
+   "address": "6730 Airline Drive, Houston, TX",
+   "tags": {}
+  },
+  {
+   "id": "node/6654320569",
+   "name": "City Vet",
+   "lat": 29.7472337,
+   "lon": -95.4865078,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2345897656",
+   "name": "UrgentVet",
+   "lat": 29.6895768,
+   "lon": -95.4647808,
+   "distKm": 12.1,
+   "address": "4946 Beechnut Street, Houston, TX",
+   "tags": {}
+  },
+  {
+   "id": "node/13807077401",
+   "name": "veterinary Clinic",
+   "lat": 29.8723455,
+   "lon": -95.4120443,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5133060786",
+   "name": "Banfield",
+   "lat": 29.6719647,
+   "lon": -95.4605636,
+   "distKm": 13.2,
+   "address": "10275 South Post Oak Road Frontage Road, Houston, TX 77096",
+   "tags": {
+    "website": "https://www.banfield.com/locations/veterinarians/tx/houston/hom",
+    "opening_hours": "Mo-Sa 07:00-18:00; Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/887456298",
+   "name": "Meyerland Animal Clinic",
+   "lat": 29.6683514,
+   "lon": -95.4654172,
+   "distKm": 13.8,
+   "address": "4995 West Bellfort Street, Houston, TX 77035",
+   "tags": {
+    "phone": "+1-713-723-8612",
+    "opening_hours": "Mo-Fr 07:15-19:00; Sa 07:30-12:00"
+   }
+  },
+  {
+   "id": "way/382687821",
+   "name": "Westbury Animal Hospital & Pet Hotel",
+   "lat": 29.6576207,
+   "lon": -95.4650769,
+   "distKm": 14.7,
+   "address": "4917 South Willow Drive, Houston, 77035",
+   "tags": {}
+  },
+  {
+   "id": "node/13535517143",
+   "name": "Memorial Village Animal Hospital",
+   "lat": 29.799552,
+   "lon": -95.529577,
+   "distKm": 16,
+   "address": "9615 Yupondale Drive",
+   "tags": {}
+  },
+  {
+   "id": "node/7925109109",
+   "name": "Banfield Pet Hospital",
+   "lat": 29.7876862,
+   "lon": -95.5339792,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13376644906",
+   "name": "Aldine Mail Route Animal Hospital",
+   "lat": 29.9028594,
+   "lon": -95.3395055,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5383854349",
+   "name": "Memorial Town & Country Animal Clinic",
+   "lat": 29.7662921,
+   "lon": -95.5580396,
+   "distKm": 18.2,
+   "address": "12661 Memorial Drive, Houston, TX 77024",
+   "tags": {
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/8595104000",
+   "name": "Houston Cat Hospital",
+   "lat": 29.7359791,
+   "lon": -95.5729523,
+   "distKm": 19.8,
+   "address": "11169 Westheimer Road",
+   "tags": {
+    "phone": "+1-713-597-6829"
+   }
+  }
+ ]
+}

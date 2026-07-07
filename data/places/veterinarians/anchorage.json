@@ -1,0 +1,131 @@
+{
+ "$schemaVersion": 1,
+ "city": "anchorage",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:35:00.713Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 12,
+ "places": [
+  {
+   "id": "node/8284221796",
+   "name": "Alaska Veterinary Clinic",
+   "lat": 61.1978504,
+   "lon": -149.87827,
+   "distKm": 2.5,
+   "address": "300 East Fireweed Lane, Anchorage, AK 99503",
+   "tags": {
+    "phone": "+1 907-277-3224",
+    "website": "https://www.alaskaveterinaryclinic.com/",
+    "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00"
+   }
+  },
+  {
+   "id": "node/13728427918",
+   "name": "Alaska Veterinary Clinic",
+   "lat": 61.1982772,
+   "lon": -149.8737384,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/763994835",
+   "name": "Veterinary Specialists of AK",
+   "lat": 61.189884,
+   "lon": -149.8714865,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11153696247",
+   "name": "VCA Animal Hospital",
+   "lat": 61.185272,
+   "lon": -149.8389132,
+   "distKm": 4.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10794030644",
+   "name": "Midnight Sun Animal Hospital",
+   "lat": 61.1810999,
+   "lon": -149.833093,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/778079488",
+   "name": "PET Emergency Treatment",
+   "lat": 61.1658123,
+   "lon": -149.8390208,
+   "distKm": 6.7,
+   "address": "2320 East Dowling Road, Anchorage, AK 99507",
+   "tags": {
+    "phone": "+19072745636",
+    "website": "https://www.petemergencyak.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/801466525",
+   "name": "East Anchorage Animal Hospital",
+   "lat": 61.1964615,
+   "lon": -149.7775843,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/778718545",
+   "name": "VCA Bering Sea Animal Hospital",
+   "lat": 61.1536385,
+   "lon": -149.8574245,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11115523500",
+   "name": "Polar Pets Veterinary Clinic",
+   "lat": 61.1414587,
+   "lon": -149.901209,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/782133985",
+   "name": "Chester Valley Veterinary Hospital",
+   "lat": 61.206239,
+   "lon": -149.732795,
+   "distKm": 9.1,
+   "address": "Muldoon Road",
+   "tags": {}
+  },
+  {
+   "id": "node/8837114898",
+   "name": "Hillside Pet Clinic",
+   "lat": 61.1383916,
+   "lon": -149.8442067,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9897756015",
+   "name": "Bird Treatment and Learning Center",
+   "lat": 61.0805129,
+   "lon": -149.821135,
+   "distKm": 15.9,
+   "address": "15510 Old Seward Highway, Anchorage, AK 99516",
+   "tags": {
+    "phone": "+1 907-562-4852",
+    "website": "https://www.birdtlc.org/",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,130 @@
+{
+ "$schemaVersion": 1,
+ "city": "baltimore",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:28:23.484Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 10,
+ "places": [
+  {
+   "id": "node/10797724438",
+   "name": "Downtown Dog Resort & Spa",
+   "lat": 39.2664206,
+   "lon": -76.6167515,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13124701951",
+   "name": "Dogtopia",
+   "lat": 39.2806575,
+   "lon": -76.5780468,
+   "distKm": 3.1,
+   "address": "2706 O'Donnell Street, Baltimore, MD 21224",
+   "tags": {
+    "phone": "+1 240-232-5523",
+    "website": "https://www.dogtopia.com/baltimore-canton/",
+    "opening_hours": "Mo-Fr 06:00-20:00; Sa-Su 08:00–18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6068417057",
+   "name": "Pawsitive Paul’s Dog Training",
+   "lat": 39.320691,
+   "lon": -76.6250341,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+1 410-493-9028",
+    "website": "http://pawsitivepaul.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5974920005",
+   "name": "Good Doggie Day Care",
+   "lat": 39.3206897,
+   "lon": -76.6255737,
+   "distKm": 3.6,
+   "address": "529 West 29th Street",
+   "tags": {
+    "phone": "+1 410-889-3031",
+    "website": "https://www.gooddoggiedaycare.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12817186651",
+   "name": "Woofs and Wags Pet Lodge",
+   "lat": 39.2862264,
+   "lon": -76.5624822,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "phone": "+14435632174",
+    "website": "https://woofsandwagsbaltimore.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9365447267",
+   "name": "For Pet's Sake Ltd.",
+   "lat": 39.3843399,
+   "lon": -76.6586066,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3025610312",
+   "name": "Pet Dental / Pet Boarding",
+   "lat": 39.3819861,
+   "lon": -76.5360704,
+   "distKm": 12.1,
+   "address": "8600 Harford Road, Parkville, MD 21234",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/3025601535",
+   "name": "Dog & Cat Hotel",
+   "lat": 39.4049147,
+   "lon": -76.6055727,
+   "distKm": 12.7,
+   "address": "716 York Road, Towson, MD 21204",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10862734971",
+   "name": "Stay Pet",
+   "lat": 39.157865,
+   "lon": -76.6953592,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12913485012",
+   "name": "Off Leash K9 Training Maryland",
+   "lat": 39.1892004,
+   "lon": -76.7929875,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "$schemaVersion": 1,
+ "city": "kansas-city",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:29:12.068Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 31,
+ "places": [
+  {
+   "id": "node/12434891334",
+   "name": "City Wiskrs Pet Supply",
+   "lat": 39.1056233,
+   "lon": -94.5802043,
+   "distKm": 0.7,
+   "address": "641 Grand Boulevard, Kansas City, MO 64106",
+   "tags": {
+    "website": "https://www.instagram.com/city.wiskrs/"
+   }
+  },
+  {
+   "id": "node/4987495838",
+   "name": "Tail Waggin' PetStop",
+   "lat": 39.0911284,
+   "lon": -94.5861629,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6001134262",
+   "name": "City Pets and Ponds",
+   "lat": 39.0540376,
+   "lon": -94.5938611,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "phone": "+1 816-561-7387",
+    "website": "http://citypetsandponds.com/",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-16:00"
+   }
+  },
+  {
+   "id": "way/531530482",
+   "name": "The Grooming Project",
+   "lat": 39.0205975,
+   "lon": -94.5736866,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/189577696",
+   "name": "Petco",
+   "lat": 39.1816434,
+   "lon": -94.5737082,
+   "distKm": 9.1,
+   "address": "600 Northeast Vivion Road, Kansas City, MO 64118",
+   "tags": {
+    "phone": "+1 816-459-7882",
+    "website": "https://stores.petco.com/mo/kansascity/pet-supplies-kansascity-mo-1694.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/844101856",
+   "name": "PetSmart",
+   "lat": 39.1887038,
+   "lon": -94.5473179,
+   "distKm": 10.3,
+   "address": "2650 Northeast Vivion Road, Kansas City, MO 64119",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9921755920",
+   "name": "Pet Supplies Plus",
+   "lat": 39.1937483,
+   "lon": -94.5788847,
+   "distKm": 10.5,
+   "address": "305 Northeast Englewood Road, Kansas City, MO 64118",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/13932217143",
+   "name": "Pet-Topia",
+   "lat": 39.188582,
+   "lon": -94.5372863,
+   "distKm": 10.5,
+   "address": "3528 NE Vivion Road, Kansas City, MO 64119-2702",
+   "tags": {
+    "phone": "+1-816-437-8613",
+    "website": "https://www.pettopiakc.com/",
+    "opening_hours": "Mo-Sa 10:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/10782389467",
+   "name": "Petcetera",
+   "lat": 39.197252,
+   "lon": -94.5876399,
+   "distKm": 10.9,
+   "address": "520 NW Englewood Road, Kansas City, MO 64118",
+   "tags": {}
+  },
+  {
+   "id": "node/5504160769",
+   "name": "Go Pet Go",
+   "lat": 39.0223961,
+   "lon": -94.6576687,
+   "distKm": 11,
+   "address": "6200 Johnson Drive, Mission, KS 66202",
+   "tags": {
+    "phone": "+1-913-283-8363",
+    "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/184799798",
+   "name": "Mission Pet Mart, Inc.",
+   "lat": 39.0208131,
+   "lon": -94.6660613,
+   "distKm": 11.6,
+   "address": "6900 Martway Street, Mission, KS 66202",
+   "tags": {
+    "phone": "+19132367387",
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "node/13505953744",
+   "name": "Champwork Pet Supplies",
+   "lat": 38.9960952,
+   "lon": -94.5572492,
+   "distKm": 11.7,
+   "address": null,
+   "tags": {
+    "website": "https://www.facebook.com/profile.php?id=100035014727190#"
+   }
+  },
+  {
+   "id": "node/11932195023",
+   "name": "Hollywood Feed",
+   "lat": 39.0019116,
+   "lon": -94.6310588,
+   "distKm": 11.8,
+   "address": "15 On The Mall",
+   "tags": {}
+  },
+  {
+   "id": "node/2637691487",
+   "name": "PetSmart",
+   "lat": 39.023949,
+   "lon": -94.6892525,
+   "distKm": 12.7,
+   "address": "5810 Antioch Road, Merriam, KS 66202",
+   "tags": {
+    "phone": "+1 913-384-4445",
+    "website": "https://www.petsmart.com/stores/us/ks/merriam-store0240.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/4839185111",
+   "name": "Petcetera",
+   "lat": 39.2137636,
+   "lon": -94.6452952,
+   "distKm": 13.9,
+   "address": "6527 North Cosby Avenue, Kansas City, MO 64151",
+   "tags": {
+    "opening_hours": "Mo,We,Fr 07:30-18:30; Tu,Th 07:00-18:30; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/1850872326",
+   "name": "PetSmart",
+   "lat": 38.9706119,
+   "lon": -94.6060979,
+   "distKm": 14.5,
+   "address": "8600 Ward Parkway, Kansas City, MO 64114",
+   "tags": {
+    "phone": "+1 816-363-3306",
+    "website": "https://www.petsmart.com/stores/us/mo/kansas-city-store1401.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/1876929467",
+   "name": "Petco",
+   "lat": 39.0434163,
+   "lon": -94.4134695,
+   "distKm": 15.6,
+   "address": "4201 South Noland Road, Independence, MO 64055-7313",
+   "tags": {
+    "phone": "+1 816-478-0313",
+    "website": "https://stores.petco.com/mo/independence/pet-supplies-independence-mo-1693.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10802767237",
+   "name": "PetSmart",
+   "lat": 39.1174859,
+   "lon": -94.7596391,
+   "distKm": 15.7,
+   "address": "7738 State Avenue, Kansas City, KS 66112",
+   "tags": {
+    "phone": "+1 913 998 7741",
+    "website": "https://www.petsmart.com/stores/us/ks/kansas-city-store2413.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00|| Mo 07:00-21:00 \"Grooming\"; Tu-Sa 07:00-19:00 \"Grooming\"; Su 08:00-18:00 \"Grooming\"",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3618579201",
+   "name": "Pet Supplies",
+   "lat": 39.2458977,
+   "lon": -94.5839969,
+   "distKm": 16.3,
+   "address": "345 Northwest Barry Road, Kansas City, MO 64155",
+   "tags": {}
+  },
+  {
+   "id": "node/12697035819",
+   "name": "Pet Supplies Plus",
+   "lat": 38.9561776,
+   "lon": -94.6286249,
+   "distKm": 16.5,
+   "address": "3703 West 95th Street, Overland Park, KS 66206",
+   "tags": {
+    "phone": "+19132585537",
+    "website": "https://www.petsuppliesplus.com/store/ks/overland-park/4168-overland-park/4168",
+    "opening_hours": "Mo-Sa 09:00-19:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/880030714",
+   "name": "Wild Birds Unlimited",
+   "lat": 39.0159114,
+   "lon": -94.7397544,
+   "distKm": 16.7,
+   "address": "13222 West 62nd Terrace, Shawnee, KS 66216",
+   "tags": {
+    "phone": "+1 913-962-0077",
+    "website": "https://shawnee.wbu.com/",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/289676415",
+   "name": "Petco",
+   "lat": 39.2511698,
+   "lon": -94.5949414,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2653599678",
+   "name": "Backyard Bird Center",
+   "lat": 39.2491475,
+   "lon": -94.6527026,
+   "distKm": 17.8,
+   "address": "6212 Northwest Barry Road",
+   "tags": {}
+  },
+  {
+   "id": "node/11108950702",
+   "name": "Petland",
+   "lat": 39.2534321,
+   "lon": -94.6531152,
+   "distKm": 18.3,
+   "address": null,
+   "tags": {
+    "brand": "Petland"
+   }
+  },
+  {
+   "id": "way/258992269",
+   "name": "PetSmart",
+   "lat": 39.2568397,
+   "lon": -94.6537628,
+   "distKm": 18.6,
+   "address": "8970 Northwest Skyview Avenue, Kansas City, MO 64154",
+   "tags": {
+    "phone": "+1 816-746-5392",
+    "website": "https://www.petsmart.com/store-locator/store/?storeID=1894",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/623137197",
+   "name": "PetSmart",
+   "lat": 39.0103056,
+   "lon": -94.7626539,
+   "distKm": 18.7,
+   "address": "15200 Shawnee Mission Parkway, Shawnee, KS 66217",
+   "tags": {
+    "phone": "+1 913-248-9300",
+    "website": "https://www.petsmart.com/stores/us/ks/shawnee-mission-store0242.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6920675964",
+   "name": "Petco",
+   "lat": 39.241905,
+   "lon": -94.4526373,
+   "distKm": 19.2,
+   "address": "233 South Steward Road, Liberty, MO 64068",
+   "tags": {
+    "phone": "+1 816-439-4235",
+    "website": "https://stores.petco.com/mo/liberty/pet-supplies-liberty-mo-2615.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/384538727",
+   "name": "Petco",
+   "lat": 39.0451394,
+   "lon": -94.3668416,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/512198434",
+   "name": "PetSmart",
+   "lat": 39.2478983,
+   "lon": -94.4598726,
+   "distKm": 19.4,
+   "address": "8500 North Evanston Avenue, Kansas City, MO 64157",
+   "tags": {
+    "phone": "+1 816-407-9195",
+    "website": "https://www.petsmart.com/store-locator/store/?storeID=0243",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10111916678",
+   "name": "Pet Supplies Plus",
+   "lat": 39.2368307,
+   "lon": -94.4362774,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/11531756454",
+   "name": "Pet Store & Grooming",
+   "lat": 38.9720552,
+   "lon": -94.7355999,
+   "distKm": 19.6,
+   "address": "12902 West 87th Street Parkway, KS",
+   "tags": {}
+  }
+ ]
+}

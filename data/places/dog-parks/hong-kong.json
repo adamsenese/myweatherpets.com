@@ -1,0 +1,321 @@
+{
+ "$schemaVersion": 1,
+ "city": "hong-kong",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:23:54.765Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 33,
+ "places": [
+  {
+   "id": "way/809619205",
+   "name": "窩打老道／渡船街休憩處",
+   "lat": 22.3130694,
+   "lon": 114.1670655,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/160323969",
+   "name": "油尖旺寵物公園 Yau Tsim Mong Pets Park",
+   "lat": 22.308653,
+   "lon": 114.1670828,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/640754024",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3045295,
+   "lon": 114.1583379,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/650407868",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3304208,
+   "lon": 114.1853068,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/749215561",
+   "name": "宋王臺遊樂場寵物公園 Sung Wong Toi Playground Pet Garden",
+   "lat": 22.3267068,
+   "lon": 114.1903026,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "barrier": "yes"
+   }
+  },
+  {
+   "id": "way/670943499",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.333298,
+   "lon": 114.1506833,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1238343574",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3255545,
+   "lon": 114.1944075,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/446798889",
+   "name": "蝴蝶谷道寵物公園 Butterfly Valley Road Pet Garden",
+   "lat": 22.3394332,
+   "lon": 114.1439492,
+   "distKm": 3.4,
+   "address": "2 蝴蝶谷道 Butterfly Valley Road",
+   "tags": {}
+  },
+  {
+   "id": "way/1051725930",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3355451,
+   "lon": 114.2012496,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/913058466",
+   "name": "寵物角 Pet Corner",
+   "lat": 22.2892178,
+   "lon": 114.1495124,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/311799396",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.2827101,
+   "lon": 114.1668668,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1093900380",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.283112,
+   "lon": 114.1776657,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/914429124",
+   "name": "北角海濱公園寵物公園 North Point Promenade Pet Garden",
+   "lat": 22.2936604,
+   "lon": 114.2023236,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/679370931",
+   "name": "寵物區 Pet Area",
+   "lat": 22.3174535,
+   "lon": 114.2140518,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/583903064",
+   "name": "豐物道休憩處 Fung Mat Road Sitting-out Area",
+   "lat": 22.2885264,
+   "lon": 114.1383229,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/698990262",
+   "name": "屋蘭士街休憩處 Oaklands Avenue Sitting-out Area",
+   "lat": 22.2829275,
+   "lon": 114.1435975,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/874530938",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.2856547,
+   "lon": 114.1297206,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1112224123",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.2823366,
+   "lon": 114.1249148,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1460004252",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.353706,
+   "lon": 114.1178776,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "drinking_water": "yes",
+    "dog": "designated"
+   }
+  },
+  {
+   "id": "way/1346575597",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3654002,
+   "lon": 114.1258804,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/358645649",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3672436,
+   "lon": 114.1115494,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/465676975",
+   "name": "黃竹坑涌尾寵物公園 Wong Chuk Hang Staunton Creek Pet Garden",
+   "lat": 22.246542,
+   "lon": 114.1607609,
+   "distKm": 8.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/652029367",
+   "name": "樂民道寵物公園 Lok Man Road Pet Garden",
+   "lat": 22.268481,
+   "lon": 114.2352135,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1201230320",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3017546,
+   "lon": 114.2592194,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1254819129",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.2686785,
+   "lon": 114.2421336,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/913018958",
+   "name": "富康街寵物公園 Fu Hong Street Pet Garden",
+   "lat": 22.2685331,
+   "lon": 114.2483017,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/206415991",
+   "name": "環保大道寵物公園 Wan Po Road Pet Garden",
+   "lat": 22.3045902,
+   "lon": 114.2686702,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1455106082",
+   "name": "毛孩躍動天地 Pet Pet Playland",
+   "lat": 22.3478482,
+   "lon": 114.0616899,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "node/7364728192",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.3653817,
+   "lon": 114.0639734,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/258074789",
+   "name": "馬鞍山西沙路寵物公園 Ma On Shan Sai Sha Road Pet Garden",
+   "lat": 22.415602,
+   "lon": 114.2250554,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1068805935",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.4571926,
+   "lon": 114.1692508,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1372642173",
+   "name": "香港狗公園 Pet Field",
+   "lat": 22.4619013,
+   "lon": 114.1049274,
+   "distKm": 17.2,
+   "address": "60 粉錦公路 Fan Kam Road",
+   "tags": {
+    "website": "https://www.petfield.com.hk/"
+   }
+  },
+  {
+   "id": "way/947710978",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 22.48549,
+   "lon": 114.1452401,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

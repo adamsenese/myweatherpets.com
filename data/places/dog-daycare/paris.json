@@ -1,0 +1,121 @@
+{
+ "$schemaVersion": 1,
+ "city": "paris",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:36:59.180Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "node/12124080266",
+   "name": "Arbre à chats",
+   "lat": 48.8372073,
+   "lon": 2.3025998,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12358080760",
+   "name": "Doggy's",
+   "lat": 48.8481463,
+   "lon": 2.4231191,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6414811356",
+   "name": "Toutou Shop",
+   "lat": 48.8455859,
+   "lon": 2.429338,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Fr 09:00-19:00; Sa 09:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13528957306",
+   "name": "Mairie de Paris",
+   "lat": 48.8290864,
+   "lon": 2.4210343,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11049484994",
+   "name": "Daily Cat - Pension pour chats",
+   "lat": 48.8905124,
+   "lon": 2.2833808,
+   "distKm": 6.3,
+   "address": "61 Rue Danton, Levallois-Perret, 92300",
+   "tags": {
+    "phone": "+33 6 46 39 59 01",
+    "website": "https://www.daily-cat.fr/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12297714748",
+   "name": "Les Belles Truffes",
+   "lat": 48.8797279,
+   "lon": 2.2404438,
+   "distKm": 8.6,
+   "address": "1 Rue Mars et Roty, Puteaux, 92800",
+   "tags": {
+    "phone": "+33 6 99 20 08 38",
+    "website": "https://www.lesbellestruffes.fr/",
+    "opening_hours": "Mo-Fr 08:30-19:30; PH closed",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13100066330",
+   "name": "Pièces Auto Center",
+   "lat": 48.9916085,
+   "lon": 2.2866035,
+   "distKm": 15.8,
+   "address": "50 Avenue de Paris, Eaubonne, 95600",
+   "tags": {
+    "phone": "+33 1 34 12 68 27",
+    "website": "https://paceaubonne.wixsite.com/paceaubonne",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/1265766766",
+   "name": "Pension féline - Vanille et Clémentine",
+   "lat": 48.871684,
+   "lon": 2.572812,
+   "distKm": 16.2,
+   "address": "30 Avenue des Martyrs de Chelles, Chelles, 77500",
+   "tags": {
+    "website": "https://www.pensionfelinechelles.com/",
+    "opening_hours": "Mo-Fr 10:00-12:30; Mo-Fr 15:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/319723066",
+   "name": "Les Plaines de Villebon",
+   "lat": 48.7033151,
+   "lon": 2.2580017,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {
+    "phone": "+33 6 62 16 96 17",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

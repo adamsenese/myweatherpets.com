@@ -1,0 +1,622 @@
+{
+ "$schemaVersion": 1,
+ "city": "milan",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:38:07.683Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/6003064297",
+   "name": "Clinica Veterinaria Ca' Zampa",
+   "lat": 45.4549856,
+   "lon": 9.2039536,
+   "distKm": 1.5,
+   "address": "17n02 Viale Monte Nero, Milano, 20135",
+   "tags": {
+    "website": "https://www.cazampa.it/clinica/milano-monte-nero/"
+   }
+  },
+  {
+   "id": "node/11693538325",
+   "name": "Croce e Guidelli",
+   "lat": 45.4571803,
+   "lon": 9.1738809,
+   "distKm": 1.5,
+   "address": "8 Via Cesare da Sesto, Milano, 20123",
+   "tags": {
+    "phone": "+39028360761"
+   }
+  },
+  {
+   "id": "node/13260945635",
+   "name": "Clinica Veterinaria S.Angelo",
+   "lat": 45.4775615,
+   "lon": 9.1941383,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8523601812",
+   "name": "Dr. Paolo Ripepi clinica veterinaria",
+   "lat": 45.4783236,
+   "lon": 9.1955383,
+   "distKm": 1.6,
+   "address": "9 Piazza della Repubblica",
+   "tags": {
+    "phone": "+39039794823"
+   }
+  },
+  {
+   "id": "node/3333717497",
+   "name": "Centro Veterinario Brera",
+   "lat": 45.4794087,
+   "lon": 9.1877852,
+   "distKm": 1.7,
+   "address": "8 Via Milazzo, Milano, 20121",
+   "tags": {}
+  },
+  {
+   "id": "node/13617876001",
+   "name": "Ambulatorio Veterinario Muratori",
+   "lat": 45.4519133,
+   "lon": 9.2047039,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5006966917",
+   "name": "Clinica Veterinaria Ambrosiana",
+   "lat": 45.4784898,
+   "lon": 9.1777044,
+   "distKm": 1.9,
+   "address": "8 Via Domenico Balestrieri, Milano, 20154",
+   "tags": {}
+  },
+  {
+   "id": "node/13718898601",
+   "name": "Ambulatorio veterinario dott Galli",
+   "lat": 45.475044,
+   "lon": 9.2084454,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13718937102",
+   "name": "Clinica veterinaria porta Venezia",
+   "lat": 45.474103,
+   "lon": 9.2095328,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13847079301",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4494123,
+   "lon": 9.2028202,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8419455093",
+   "name": "Animal doctor",
+   "lat": 45.4786823,
+   "lon": 9.2060335,
+   "distKm": 2,
+   "address": "22 Via Lecco, Milano, 20124",
+   "tags": {}
+  },
+  {
+   "id": "node/2417414826",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4790669,
+   "lon": 9.2057466,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12271236610",
+   "name": "Ambulatorio veterinario Canonica",
+   "lat": 45.4791514,
+   "lon": 9.1740979,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13389393640",
+   "name": "Studio Medico Veterinario",
+   "lat": 45.4730154,
+   "lon": 9.166176,
+   "distKm": 2.1,
+   "address": "57 Via Vincenzo Monti, Milano, 20145",
+   "tags": {}
+  },
+  {
+   "id": "node/13612609801",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4547582,
+   "lon": 9.2130679,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9964808986",
+   "name": "Veterinario Dott.ssa Laura Cutullo",
+   "lat": 45.4624679,
+   "lon": 9.1619526,
+   "distKm": 2.2,
+   "address": "28 Via Paolo Giovio, Milano, 20144",
+   "tags": {
+    "phone": "+390248016079",
+    "website": "http://www.naturaliter.it/"
+   }
+  },
+  {
+   "id": "node/3274551673",
+   "name": "Aurora",
+   "lat": 45.4797511,
+   "lon": 9.1705903,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6873442442",
+   "name": "Cavazzini",
+   "lat": 45.4817071,
+   "lon": 9.1745067,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6876304781",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4604124,
+   "lon": 9.160467,
+   "distKm": 2.3,
+   "address": "24 Via Giuseppe Dezza, Milano, 20144",
+   "tags": {}
+  },
+  {
+   "id": "node/5804044774",
+   "name": "Clinica Veterinaria Tibaldi",
+   "lat": 45.4435024,
+   "lon": 9.1822362,
+   "distKm": 2.4,
+   "address": "2 Via Giovanni Pezzotti, Milano, 20141",
+   "tags": {
+    "phone": "+390258106826",
+    "website": "https://www.anicura.it/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/10689607193",
+   "name": "Ambulatorio veterinario Barelli Razza",
+   "lat": 45.4549029,
+   "lon": 9.1613012,
+   "distKm": 2.5,
+   "address": "30 Via Andrea Solari, Milano, 20144",
+   "tags": {
+    "phone": "+390248951222"
+   }
+  },
+  {
+   "id": "node/5194531668",
+   "name": "Ambulatorio Venterinario Procaccini",
+   "lat": 45.4812482,
+   "lon": 9.1666719,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-19:30; Sa 09:30-13:30"
+   }
+  },
+  {
+   "id": "node/6096179373",
+   "name": "Clinica Veterinaria Tre Torri",
+   "lat": 45.4729912,
+   "lon": 9.1591378,
+   "distKm": 2.6,
+   "address": "21 Via Tiziano, Milano, 20145",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-13:00; Sa 10:00-13:00"
+   }
+  },
+  {
+   "id": "node/11264671351",
+   "name": "Dr. Stanizzo",
+   "lat": 45.4675311,
+   "lon": 9.2226892,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13652935701",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4536877,
+   "lon": 9.2201443,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12877319696",
+   "name": "Ambulatorio Medico Veterinario",
+   "lat": 45.4490356,
+   "lon": 9.2180704,
+   "distKm": 2.8,
+   "address": "38 Via Tertulliano",
+   "tags": {}
+  },
+  {
+   "id": "node/13685178801",
+   "name": "Clinica veterinaria Malvezzi",
+   "lat": 45.4448701,
+   "lon": 9.2138836,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3989817015",
+   "name": "Veterinario Timavo",
+   "lat": 45.4904215,
+   "lon": 9.1982156,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "phone": "+39 02 66719031",
+    "opening_hours": "Mo-Sa 09:00-20:00"
+   }
+  },
+  {
+   "id": "node/13296340463",
+   "name": "Clinica Veterinaria Gran Sasso",
+   "lat": 45.4802329,
+   "lon": 9.2202772,
+   "distKm": 3,
+   "address": "26 Via Donatello",
+   "tags": {}
+  },
+  {
+   "id": "node/7139721609",
+   "name": "Clinica Veterinaria Correggio",
+   "lat": 45.4703283,
+   "lon": 9.1510427,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9337750023",
+   "name": "Studio Veterinario Mattei-Rando",
+   "lat": 45.4615719,
+   "lon": 9.1504482,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {
+    "phone": "+39 024816453"
+   }
+  },
+  {
+   "id": "node/9433973901",
+   "name": "Pronto soccorso veterinario S. Spaziani",
+   "lat": 45.4564525,
+   "lon": 9.1522135,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9412250563",
+   "name": "Clinica Veterinaria Europea",
+   "lat": 45.4529624,
+   "lon": 9.1517909,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.clinicaveterinariaeuropea.com/"
+   }
+  },
+  {
+   "id": "node/5783643553",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4875299,
+   "lon": 9.1634699,
+   "distKm": 3.3,
+   "address": "53 Via Cenisio, Milano, 20154",
+   "tags": {
+    "phone": "+3902316562",
+    "website": "https://www.ambulatorioveterinariomariani.it/"
+   }
+  },
+  {
+   "id": "node/2417414829",
+   "name": "Aurora Veterinaria",
+   "lat": 45.4858876,
+   "lon": 9.1598442,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8524280094",
+   "name": "MyPetClinic",
+   "lat": 45.4684955,
+   "lon": 9.1459217,
+   "distKm": 3.5,
+   "address": "10 Viale Daniele Ranzoni, Milano, 20149",
+   "tags": {
+    "phone": "+39 02 43983076",
+    "website": "https://www.mypetclinic.it/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/8726343143",
+   "name": "Studio veterinario Loreto",
+   "lat": 45.488742,
+   "lon": 9.2172713,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {
+    "phone": "+39 02 280 2808",
+    "opening_hours": "Mo-Fr 14:30-17:00; Sa 10:00-12:00"
+   }
+  },
+  {
+   "id": "node/8868217597",
+   "name": "Dott. Lucio M. Raggi",
+   "lat": 45.4953806,
+   "lon": 9.1836698,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4943079732",
+   "name": "Ambulatorio veterinario",
+   "lat": 45.4915178,
+   "lon": 9.1643473,
+   "distKm": 3.6,
+   "address": "Via Giuseppe Govone, Milano, 20155",
+   "tags": {}
+  },
+  {
+   "id": "node/8523631934",
+   "name": "Dr. Luca Re",
+   "lat": 45.441488,
+   "lon": 9.1549701,
+   "distKm": 3.7,
+   "address": "33 Via Ambrogio Binda, Milano, 20143",
+   "tags": {
+    "phone": "+39 02 97382078",
+    "website": "https://www.drlucare-veterinario.com/"
+   }
+  },
+  {
+   "id": "node/13790410133",
+   "name": "Clinica Veterinaria Aurora",
+   "lat": 45.4856463,
+   "lon": 9.1532332,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2478217298",
+   "name": "Ambulatorio Veterinario",
+   "lat": 45.4967643,
+   "lon": 9.2028961,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8911934493",
+   "name": "Ambulatorio Veterinario Pasteur",
+   "lat": 45.4897864,
+   "lon": 9.2213628,
+   "distKm": 3.8,
+   "address": "Via Padova, Milano, 20127",
+   "tags": {
+    "phone": "+39 02 2892827; +39 329 306 4568",
+    "website": "https://www.ambulatorioveterinariopasteur.com/",
+    "opening_hours": "\"By appointment\""
+   }
+  },
+  {
+   "id": "node/13058475401",
+   "name": "Studio medico veterinario Dr Danilo Bellucci",
+   "lat": 45.4979919,
+   "lon": 9.1941315,
+   "distKm": 3.8,
+   "address": "40 Via Veglia",
+   "tags": {
+    "phone": "+39 02 668 2882",
+    "website": "http://www.studiomedicoveterinariobellucci.eu/",
+    "opening_hours": "Mo-Fr 10:00-12:30, 16:00-19:30; Sa 10:00-12:30"
+   }
+  },
+  {
+   "id": "node/2747799973",
+   "name": "Ambulatorio veterinario",
+   "lat": 45.4990639,
+   "lon": 9.1859054,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8523398333",
+   "name": "Dottor Roberto Granata",
+   "lat": 45.4881026,
+   "lon": 9.2262606,
+   "distKm": 3.9,
+   "address": "115 Via Andrea Maria Ampère",
+   "tags": {
+    "phone": "+39022841347",
+    "website": "http://robertogranata.it/"
+   }
+  },
+  {
+   "id": "node/13639663531",
+   "name": "Ambulatorio veterinario - Dott Davide Pappalardo",
+   "lat": 45.4882212,
+   "lon": 9.2265848,
+   "distKm": 3.9,
+   "address": "124 Via Andrea Maria Ampère",
+   "tags": {
+    "phone": "+39 02 282 9390",
+    "opening_hours": "Mo-Fr 10:00-13:00,16:30-19:30; Sa 10:00-13:00; Su off"
+   }
+  },
+  {
+   "id": "node/13246590633",
+   "name": "Clinica Veterinaria Santo Stefano",
+   "lat": 45.4614535,
+   "lon": 9.1390984,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2956948857",
+   "name": "Ambulatorio Veterinario Ovidio",
+   "lat": 45.4588778,
+   "lon": 9.24242,
+   "distKm": 4.1,
+   "address": "Via Toscolano, Milano, 20138",
+   "tags": {
+    "phone": "+39 02 7490271"
+   }
+  },
+  {
+   "id": "node/5287291229",
+   "name": "Isola Verde",
+   "lat": 45.4941606,
+   "lon": 9.2211569,
+   "distKm": 4.1,
+   "address": "49 Via Marco Aurelio",
+   "tags": {
+    "phone": "+39 02 287 0429",
+    "website": "https://www.clinicaveterinariaisolaverde.com/",
+    "opening_hours": "Mo-Fr 09:30-19:30; Sa 10:30-19:30; PH 10:00-18:30"
+   }
+  },
+  {
+   "id": "node/13059886736",
+   "name": "Clinica Veterinaria",
+   "lat": 45.5019971,
+   "lon": 9.1929089,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-12:30,15:30-19:30; Sa 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/4135142198",
+   "name": "Clinica Veterinaria Lorenteggio",
+   "lat": 45.4501901,
+   "lon": 9.136735,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9677620610",
+   "name": "ENPA",
+   "lat": 45.4920426,
+   "lon": 9.1493797,
+   "distKm": 4.4,
+   "address": "11 Via Pietro Gassendi, Milano, 20155",
+   "tags": {
+    "phone": "+390297064230",
+    "website": "https://www.clinicaenpami.org",
+    "opening_hours": "09:00-24:00"
+   }
+  },
+  {
+   "id": "node/2026069674",
+   "name": "ambulatorio veterinario",
+   "lat": 45.4830064,
+   "lon": 9.2424873,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4541125803",
+   "name": "Cà Bianca",
+   "lat": 45.4428121,
+   "lon": 9.1392968,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8523890596",
+   "name": "Clinica veterinaria Turro",
+   "lat": 45.4988916,
+   "lon": 9.2252671,
+   "distKm": 4.7,
+   "address": "8 Via Gerolamo Rovetta, Milano, 20127",
+   "tags": {
+    "phone": "+39 02 2804 0293",
+    "website": "http://www.clinicaveterinariaturro.it/",
+    "opening_hours": "Mo-Sa 10:00-19:30; PH off"
+   }
+  },
+  {
+   "id": "node/9170386192",
+   "name": "Ambulatorio veterinario",
+   "lat": 45.4977176,
+   "lon": 9.2322008,
+   "distKm": 5,
+   "address": "Via Padova, Milano, 20132",
+   "tags": {
+    "phone": "+39 02 26112201"
+   }
+  },
+  {
+   "id": "node/9843301147",
+   "name": "Veterinario dottor Maurizio Mosca",
+   "lat": 45.5094305,
+   "lon": 9.2019222,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9297031842",
+   "name": "Ambulatorio veterinario",
+   "lat": 45.5053495,
+   "lon": 9.2217254,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8886912326",
+   "name": "Ambulatorio veterinario dottoressa Azzolina",
+   "lat": 45.4995381,
+   "lon": 9.2364797,
+   "distKm": 5.3,
+   "address": "Via privata Derna, Milano, 20132",
+   "tags": {}
+  }
+ ]
+}

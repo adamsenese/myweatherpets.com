@@ -1,0 +1,642 @@
+{
+ "$schemaVersion": 1,
+ "city": "vancouver",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:39:03.949Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/124591585",
+   "name": "Nelson Park Dog Park",
+   "lat": 49.2830364,
+   "lon": -123.1304865,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/241416707",
+   "name": "Off Leash Area",
+   "lat": 49.2770996,
+   "lon": -123.1237064,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/752850321",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2768478,
+   "lon": -123.1238571,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/311593037",
+   "name": "Georgia Dog Park",
+   "lat": 49.2908566,
+   "lon": -123.1317423,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "surface": "gravel"
+   }
+  },
+  {
+   "id": "way/790939569",
+   "name": "Coopers' Park - Dog Off-leash Area",
+   "lat": 49.2735371,
+   "lon": -123.1132518,
+   "distKm": 1.2,
+   "address": "1020 Marinaside Crescent, Vancouver",
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=14"
+   }
+  },
+  {
+   "id": "way/761294348",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2850751,
+   "lon": -123.1011333,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/363061599",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2712126,
+   "lon": -123.1109476,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "surface": "gravel"
+   }
+  },
+  {
+   "id": "way/436817093",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2672123,
+   "lon": -123.124556,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1286074623",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2950228,
+   "lon": -123.1344017,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1236234674",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2680324,
+   "lon": -123.1040486,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/86339833",
+   "name": "Hadden Beach",
+   "lat": 49.2783051,
+   "lon": -123.1491819,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "dog": "designated"
+   }
+  },
+  {
+   "id": "way/793370079",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2685273,
+   "lon": -123.0963406,
+   "distKm": 2.4,
+   "address": "East 1st Avenue, Vancouver",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/13856188114",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2763431,
+   "lon": -123.0833946,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1391979565",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2548015,
+   "lon": -123.1217741,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13157259202",
+   "name": "Off-Leash Dog Park for Small and Shy Dogs",
+   "lat": 49.2581921,
+   "lon": -123.1430447,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13157265801",
+   "name": "Off-Leash Dog Park",
+   "lat": 49.2583421,
+   "lon": -123.1431829,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1189064977",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.3134978,
+   "lon": -123.1000594,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1125230256",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.3125927,
+   "lon": -123.0847183,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1170354067",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2827113,
+   "lon": -123.0588546,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/601413950",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2377765,
+   "lon": -123.1110002,
+   "distKm": 5,
+   "address": null,
+   "tags": {
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/52250411",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2573858,
+   "lon": -123.0620529,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/525281638",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2471114,
+   "lon": -123.0738832,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/760417513",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2916099,
+   "lon": -123.0501914,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/1216086810",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.3176771,
+   "lon": -123.0721571,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/714531699",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2914823,
+   "lon": -123.0406294,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence",
+    "opening_hours": "05:00-22:00"
+   }
+  },
+  {
+   "id": "way/1457604517",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2441774,
+   "lon": -123.0583711,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/647938051",
+   "name": "Renfrew Park Dog Park",
+   "lat": 49.2520794,
+   "lon": -123.0437803,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "opening_hours": "06:00-22:00"
+   }
+  },
+  {
+   "id": "way/1064957366",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.3077089,
+   "lon": -123.0393756,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "surface": "woodchips",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "relation/15442656",
+   "name": "Sunset Park Dog Park",
+   "lat": 49.2231097,
+   "lon": -123.0971967,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/95907462",
+   "name": "Pacific Spirit On-leash Area",
+   "lat": 49.2674241,
+   "lon": -123.2205494,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/962780046",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2887002,
+   "lon": -123.0181146,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/388154302",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2302234,
+   "lon": -123.1896938,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "website": "http://cfapp.vancouver.ca/parkfinder_wa/index.cfm?fuseaction=FAC.ParkDetails&park_id=40&CFID=690589&CFTOKEN=48300056"
+   }
+  },
+  {
+   "id": "way/1156829851",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2698267,
+   "lon": -123.0136516,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/963048259",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2862981,
+   "lon": -122.9976532,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9818596364",
+   "name": "Animal Relief Area",
+   "lat": 49.197848,
+   "lon": -123.1739846,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1391267944",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.1893415,
+   "lon": -123.1259979,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/787676058",
+   "name": "Aberdeen Neighbourhood Dog Off-Leash Area",
+   "lat": 49.1863689,
+   "lon": -123.1317425,
+   "distKm": 10.7,
+   "address": "8333 Sweet Avenue, Richmond, V6X 4B5",
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/541636866",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2160059,
+   "lon": -123.0075064,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1494692298",
+   "name": "Myrtle Park Dog Park",
+   "lat": 49.3205916,
+   "lon": -122.9496958,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/799144821",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.1676412,
+   "lon": -123.1704363,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "no",
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/1147399316",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.1631061,
+   "lon": -123.1209528,
+   "distKm": 13.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1303745932",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.291848,
+   "lon": -122.9334766,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/980379536",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2475494,
+   "lon": -122.9346418,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/88761417",
+   "name": "Dog Off Leash Area",
+   "lat": 49.2063088,
+   "lon": -122.9636146,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "node/11979395662",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2358024,
+   "lon": -122.9345007,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/87325833",
+   "name": "Westside Dog Off Leash Area",
+   "lat": 49.1983527,
+   "lon": -122.9502042,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/87224856",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2530074,
+   "lon": -122.9082532,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {
+    "surface": "sand",
+    "lit": "no",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1079091169",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.1385475,
+   "lon": -123.1238862,
+   "distKm": 16,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1492456748",
+   "name": "London/Steveston Dog Park",
+   "lat": 49.1394844,
+   "lon": -123.1532059,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/847784631",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2107435,
+   "lon": -122.9252905,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/1263802445",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2466519,
+   "lon": -122.9013945,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/998360836",
+   "name": "Westburnco Dog Park",
+   "lat": 49.2289055,
+   "lon": -122.9073843,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/904312719",
+   "name": "Queensborough Off-leash Dog Park",
+   "lat": 49.1873109,
+   "lon": -122.9428759,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/904311295",
+   "name": "Quayside Off-leash Dog Park",
+   "lat": 49.1998998,
+   "lon": -122.9274118,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1054309153",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2035076,
+   "lon": -122.9175693,
+   "distKm": 17.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/803154528",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.1390375,
+   "lon": -123.0290462,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "barrier": "chain_link"
+   }
+  },
+  {
+   "id": "way/1044268969",
+   "name": "Hume Park Dog Area",
+   "lat": 49.2340919,
+   "lon": -122.889727,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "website": "https://www.newwestcity.ca/parks-and-recreation/parks/off-leash-dog-areas/hume-park"
+   }
+  },
+  {
+   "id": "way/1073248488",
+   "name": "Off-Leash Area",
+   "lat": 49.2126516,
+   "lon": -122.9023957,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1079256461",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.1275357,
+   "lon": -123.1761008,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1374206732",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 49.2065296,
+   "lon": -122.9067697,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  }
+ ]
+}

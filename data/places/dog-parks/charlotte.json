@@ -1,0 +1,574 @@
+{
+ "$schemaVersion": 1,
+ "city": "charlotte",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:25:10.472Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "way/1181005441",
+   "name": "9th Street Dog Park",
+   "lat": 35.2339839,
+   "lon": -80.8413403,
+   "distKm": 0.8,
+   "address": "417 West 9th Street, Charlotte, NC 28202",
+   "tags": {
+    "dog": "designated",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1435968658",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2224225,
+   "lon": -80.8329764,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1329211568",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2347366,
+   "lon": -80.8560269,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1389209080",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2306412,
+   "lon": -80.8259671,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1433591455",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2374382,
+   "lon": -80.8611022,
+   "distKm": 2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/582913287",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.213775,
+   "lon": -80.8595236,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1086127213",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2091243,
+   "lon": -80.8377552,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1308884234",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.234214,
+   "lon": -80.8704881,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1247504965",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.224219,
+   "lon": -80.8731097,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12485260601",
+   "name": "Lucky Dog Bark and Brew",
+   "lat": 35.2338452,
+   "lon": -80.8725736,
+   "distKm": 2.8,
+   "address": "2220 Thrift Road, Charlotte, NC 28208",
+   "tags": {}
+  },
+  {
+   "id": "way/1211837499",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2400569,
+   "lon": -80.8170768,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1217875888",
+   "name": "Skiptown",
+   "lat": 35.2092087,
+   "lon": -80.8643671,
+   "distKm": 2.8,
+   "address": "222 Rampart Street, Charlotte, NC 28203",
+   "tags": {
+    "website": "https://skiptown.io/charlotte-nc/"
+   }
+  },
+  {
+   "id": "way/1475439693",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2510239,
+   "lon": -80.8522121,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1247504974",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.225068,
+   "lon": -80.8746392,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1152574267",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2409948,
+   "lon": -80.8148187,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "dog": "designated",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1192742637",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2056431,
+   "lon": -80.8638964,
+   "distKm": 3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1196263563",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2216074,
+   "lon": -80.8772725,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1312492329",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2041381,
+   "lon": -80.8649048,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1192569568",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2026037,
+   "lon": -80.867284,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1185598425",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2005757,
+   "lon": -80.8678014,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1287162590",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2395465,
+   "lon": -80.8827921,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "dog": "designated"
+   }
+  },
+  {
+   "id": "way/1388376216",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2483525,
+   "lon": -80.8078878,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1426724809",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.209749,
+   "lon": -80.8026342,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1240898289",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2488172,
+   "lon": -80.8032465,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "id": "way/1169138936",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2363119,
+   "lon": -80.7941986,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1263061220",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2505639,
+   "lon": -80.8009578,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1393676803",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1928139,
+   "lon": -80.872092,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1312721792",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2608421,
+   "lon": -80.7963836,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1499979687",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1842482,
+   "lon": -80.8895526,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1324399710",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1677065,
+   "lon": -80.8537812,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1426120650",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1930713,
+   "lon": -80.7764842,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1494795648",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1583328,
+   "lon": -80.8227703,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/994961601",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1796574,
+   "lon": -80.9096019,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1464468610",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1864549,
+   "lon": -80.7607422,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/775766340",
+   "name": "Pet Station Dog Park",
+   "lat": 35.1434311,
+   "lon": -80.864321,
+   "distKm": 9.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/872026247",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1547175,
+   "lon": -80.9225494,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/859119696",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.323228,
+   "lon": -80.7857037,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1072417629",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3293171,
+   "lon": -80.8018936,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/858762369",
+   "name": "McAlpine Creek Dog Park",
+   "lat": 35.1525195,
+   "lon": -80.7449955,
+   "distKm": 12.2,
+   "address": "8617 Monroe Road, Charlotte, NC 28212",
+   "tags": {}
+  },
+  {
+   "id": "way/866758268",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1530474,
+   "lon": -80.7435971,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/577304871",
+   "name": "Heather Ridge Dog Park",
+   "lat": 35.2930975,
+   "lon": -80.7341031,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1272141411",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1493235,
+   "lon": -80.9387421,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/866758267",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1514157,
+   "lon": -80.7427939,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1354998112",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3280048,
+   "lon": -80.9049828,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/518031832",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2746728,
+   "lon": -80.7173527,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1098389922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3137439,
+   "lon": -80.7481716,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1413443782",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.2561489,
+   "lon": -80.9807903,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1096856921",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1342261,
+   "lon": -80.9314619,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/511392659",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3177975,
+   "lon": -80.9398771,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1097028760",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3160229,
+   "lon": -80.7435512,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1035166784",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.1546393,
+   "lon": -80.9670201,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/813219966",
+   "name": "Large Dogs Park",
+   "lat": 35.3506411,
+   "lon": -80.8124733,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/922894998",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.110257,
+   "lon": -80.7843782,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1099406561",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3307535,
+   "lon": -80.7546015,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/813219962",
+   "name": "Small Dogs Park",
+   "lat": 35.351687,
+   "lon": -80.8119241,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1417465929",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3597129,
+   "lon": -80.8536524,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/323719310",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.0947612,
+   "lon": -80.8720826,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1417418615",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3303306,
+   "lon": -80.7288752,
+   "distKm": 15.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1448482708",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.0855622,
+   "lon": -80.803463,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1517257325",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 35.3249537,
+   "lon": -80.7107384,
+   "distKm": 16.2,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

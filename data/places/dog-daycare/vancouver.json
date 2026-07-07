@@ -1,0 +1,357 @@
+{
+ "$schemaVersion": 1,
+ "city": "vancouver",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:39:03.949Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "node/2612786362",
+   "name": "Embarkadero Daycare",
+   "lat": 49.278254,
+   "lon": -123.12811,
+   "distKm": 0.7,
+   "address": "1200 Hornby Street, Vancouver",
+   "tags": {
+    "phone": "+1 604-608-6959",
+    "website": "https://www.embarkadero.ca/",
+    "opening_hours": "Mo-Fr 07:15-18:15",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9247318219",
+   "name": "City Dog",
+   "lat": 49.2763534,
+   "lon": -123.126587,
+   "distKm": 0.8,
+   "address": "1250 Granville Street, Vancouver",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9795107335",
+   "name": "Stanley Bark",
+   "lat": 49.2919177,
+   "lon": -123.1342285,
+   "distKm": 1.4,
+   "address": "1786 Alberni Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-568-5056",
+    "website": "https://www.stanleybark.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa \"by appointment\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/126228986",
+   "name": "Dog Swim",
+   "lat": 49.2658931,
+   "lon": -123.1388177,
+   "distKm": 2.3,
+   "address": "2213 Granville Street",
+   "tags": {
+    "phone": "+1-604-362-7487",
+    "website": "https://dogswimvancouver.com/",
+    "opening_hours": "Mo-Sa 06:00-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9398081436",
+   "name": "Pups Yoga",
+   "lat": 49.2631386,
+   "lon": -123.1036547,
+   "distKm": 2.5,
+   "address": "53 East Broadway",
+   "tags": {
+    "website": "https://pupsyogavancouver.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13638609081",
+   "name": "Adventure Den",
+   "lat": 49.2684456,
+   "lon": -123.0908586,
+   "distKm": 2.7,
+   "address": "650 Industrial Avenue",
+   "tags": {
+    "phone": "+1-604-876-3647",
+    "website": "https://www.adventureden.ca/",
+    "opening_hours": "06:15-20:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11660226254",
+   "name": "Diamond Dogs Daycare",
+   "lat": 49.2635501,
+   "lon": -123.1476051,
+   "distKm": 2.9,
+   "address": "1884 West Broadway",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4279100591",
+   "name": "Purrfect Cat Boarding",
+   "lat": 49.2498581,
+   "lon": -123.11495,
+   "distKm": 3.7,
+   "address": "4012 Cambie Street, Vancouver, V5Z 2X8",
+   "tags": {
+    "phone": "+1-604-563-1919",
+    "website": "https://www.purrfectcatboarding.ca/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13063706621",
+   "name": "Dogcity Dog Daycare",
+   "lat": 49.2641046,
+   "lon": -123.1811058,
+   "distKm": 4.8,
+   "address": "3458 West Broadway, Vancouver",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8853669200",
+   "name": "Puptown Girls Dog Lounge & Spa",
+   "lat": 49.2686529,
+   "lon": -123.0167408,
+   "distKm": 7.7,
+   "address": "3999 2nd Avenue",
+   "tags": {
+    "phone": "+1-604-423-3647",
+    "website": "https://www.puptowngirls.ca/",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13621743681",
+   "name": "Lucky's Doggy Daycare",
+   "lat": 49.2686927,
+   "lon": -123.0154945,
+   "distKm": 7.8,
+   "address": "4025 2nd Avenue",
+   "tags": {
+    "phone": "+1-604-299-2480",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/805169222",
+   "name": "Rosewood Hunters & Jumpers",
+   "lat": 49.2229575,
+   "lon": -123.1809851,
+   "distKm": 8,
+   "address": "6926 Carrington Street, Vancouver",
+   "tags": {
+    "website": "https://rosewoodhj.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1313126259",
+   "name": "Town & Country Equestrian",
+   "lat": 49.2211453,
+   "lon": -123.1812297,
+   "distKm": 8.1,
+   "address": "3434 West 55th Avenue, Vancouver",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1312836817",
+   "name": "Windsor Stables",
+   "lat": 49.2181024,
+   "lon": -123.1754711,
+   "distKm": 8.2,
+   "address": "7420 Balaclava Street, Vancouver",
+   "tags": {
+    "website": "https://windsorstables.ca/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/805169206",
+   "name": "Rix Stables",
+   "lat": 49.2188301,
+   "lon": -123.1802659,
+   "distKm": 8.3,
+   "address": "3425 Celtic Avenue, Vancouver",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/805169208",
+   "name": "Old Southlands Stables",
+   "lat": 49.2193483,
+   "lon": -123.18262,
+   "distKm": 8.4,
+   "address": "3425 Celtic Avenue, Vancouver",
+   "tags": {
+    "phone": "+1-778-926-6554",
+    "website": "https://oldsouthlandsstables.com",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13556685274",
+   "name": "Dogtology",
+   "lat": 49.2042399,
+   "lon": -123.143127,
+   "distKm": 8.9,
+   "address": "1568 West 75th Avenue",
+   "tags": {
+    "phone": "+1-604-566-8892",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11628656373",
+   "name": "Pup Culture Doggy Daycare",
+   "lat": 49.2807448,
+   "lon": -122.9610259,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {
+    "phone": "+1-604-298-7297",
+    "website": "https://pupculture.ca/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/412344020",
+   "name": "Rondivills Kennels",
+   "lat": 49.1692427,
+   "lon": -123.0375834,
+   "distKm": 14,
+   "address": "16640 Westminster Highway",
+   "tags": {
+    "phone": "+1-604-278-7181",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9896726728",
+   "name": "Carefree Canines",
+   "lat": 49.2228551,
+   "lon": -122.943881,
+   "distKm": 14.5,
+   "address": "7587 Edmonds Street",
+   "tags": {
+    "phone": "+1-604-544-5109",
+    "website": "https://doggiedaycareburnaby.com/",
+    "opening_hours": "Mo-Fr 06:30-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11274000273",
+   "name": "Mindful Mutts",
+   "lat": 49.2031201,
+   "lon": -122.9489349,
+   "distKm": 15.3,
+   "address": "810 Twentieth Street, V3M 4W6",
+   "tags": {
+    "website": "https://www.mindfulmutts.ca",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/86382310",
+   "name": "Wag 'n' Woof Daycare",
+   "lat": 49.2234373,
+   "lon": -122.912706,
+   "distKm": 16.5,
+   "address": "825 McBride Boulevard, New Westminster",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10279402401",
+   "name": "Zoomies",
+   "lat": 49.2024911,
+   "lon": -122.9140016,
+   "distKm": 17.5,
+   "address": "804 Agnes Street",
+   "tags": {
+    "website": "https://zoomies.ca/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/10585316017",
+   "name": "Mindful Mutts",
+   "lat": 49.230336,
+   "lon": -122.8930958,
+   "distKm": 17.5,
+   "address": "305 Cedar Street",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1069684930",
+   "name": "Richmond Animal Shelter",
+   "lat": 49.1254008,
+   "lon": -123.0928417,
+   "distKm": 17.6,
+   "address": "12071 Number 5 Road",
+   "tags": {
+    "website": "https://www.rapsbc.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9246744996",
+   "name": "Fido Freedom Dog Daycare",
+   "lat": 49.135218,
+   "lon": -123.0143602,
+   "distKm": 18.1,
+   "address": "7562 Progress Way, V4G 1E9",
+   "tags": {
+    "phone": "+1 604-347-9533",
+    "website": "https://www.fidofreedom.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9246744998",
+   "name": "Amber Cottle Canine Behavior Training Centre",
+   "lat": 49.135085,
+   "lon": -123.0142777,
+   "distKm": 18.1,
+   "address": "7562 Progress Way, V4G 1E9",
+   "tags": {
+    "phone": "+1 604-868-6840",
+    "website": "https://www.ambercottle.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/453857180",
+   "name": "BC Canine Training Center",
+   "lat": 49.112857,
+   "lon": -123.1360933,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

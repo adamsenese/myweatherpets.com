@@ -1,0 +1,222 @@
+{
+ "$schemaVersion": 1,
+ "city": "st-louis",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:32:21.847Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 20,
+ "places": [
+  {
+   "id": "way/640428313",
+   "name": "Carol House Quick Fix Pet Clinic",
+   "lat": 38.619556,
+   "lon": -90.2192481,
+   "distKm": 1.9,
+   "address": "1218 South Jefferson Avenue, Saint Louis, MO 63104",
+   "tags": {}
+  },
+  {
+   "id": "node/10882084328",
+   "name": "Jefferson Animal Hospital",
+   "lat": 38.6103995,
+   "lon": -90.2216017,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12762428617",
+   "name": "City Cat Clinic",
+   "lat": 38.6387083,
+   "lon": -90.2588332,
+   "distKm": 5.3,
+   "address": "4491 Forest Park Avenue, Saint Louis, MO 63108",
+   "tags": {
+    "phone": "+13146521919",
+    "website": "https://www.citycatclinic-stl.com/"
+   }
+  },
+  {
+   "id": "way/538882395",
+   "name": "Chippewa Animal Hospital",
+   "lat": 38.5888732,
+   "lon": -90.2514207,
+   "distKm": 6.2,
+   "address": "3850 Chippewa Street, Saint Louis, MO 63118",
+   "tags": {
+    "phone": "+1-314-772-0292",
+    "opening_hours": "Mo-Th 07:30-19:00, Fr 07:30-18:00, Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/10074096119",
+   "name": "Animal Medical Center of Mid-America - St. Louis City",
+   "lat": 38.6266685,
+   "lon": -90.2762013,
+   "distKm": 6.7,
+   "address": "1201 Macklind Avenue, Saint Louis, MO 63110",
+   "tags": {
+    "website": "https://www.amcma.org/"
+   }
+  },
+  {
+   "id": "node/10978445817",
+   "name": "Banfield Pet Hospital",
+   "lat": 38.5909116,
+   "lon": -90.2701917,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/854404333",
+   "name": "Hampton Animal Hospital",
+   "lat": 38.6078747,
+   "lon": -90.2883475,
+   "distKm": 8,
+   "address": "2826 Hampton Avenue, Saint Louis, MO 63139",
+   "tags": {
+    "phone": "+13146478818",
+    "website": "http://hamptonanimal.com/",
+    "opening_hours": "Mo-Th 09:00-17:00, Fr 09:00-16:00, Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/2854395444",
+   "name": "St Louis Cat Clinic",
+   "lat": 38.5990777,
+   "lon": -90.2921825,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7885826523",
+   "name": "Jewell Animal Hospital",
+   "lat": 38.5935723,
+   "lon": -90.2980157,
+   "distKm": 9.3,
+   "address": "6400 Chippewa Street, Saint Louis, MO 63109",
+   "tags": {
+    "phone": "+13143514700",
+    "website": "https://jewellanimalhospitalstl.com/"
+   }
+  },
+  {
+   "id": "node/7965474900",
+   "name": "Watson Road Animal Hospital",
+   "lat": 38.5959369,
+   "lon": -90.3012174,
+   "distKm": 9.5,
+   "address": "3725 Watson Road, Saint Louis, MO 63109",
+   "tags": {
+    "phone": "+13146441544",
+    "website": "https://watsonrdvet.com/",
+    "opening_hours": "Mo-Th 09:00-19:00, Fr 09:00-17:00, Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/4382317592",
+   "name": "Affton Veterinary Clinic",
+   "lat": 38.5599209,
+   "lon": -90.3003353,
+   "distKm": 11.5,
+   "address": "8100 Gravois Road, 63123",
+   "tags": {}
+  },
+  {
+   "id": "way/1084152002",
+   "name": "Afton Veterinary Clinic",
+   "lat": 38.5578026,
+   "lon": -90.3064996,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2775970123",
+   "name": "Metrovet",
+   "lat": 38.6387115,
+   "lon": -90.3452279,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12776806604",
+   "name": "Veterinary Emergency Group",
+   "lat": 38.6223873,
+   "lon": -90.3489242,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12644114936",
+   "name": "Overland Animal Clinic",
+   "lat": 38.7005076,
+   "lon": -90.3663087,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {
+    "phone": "+1 314-427-1515",
+    "opening_hours": "\"By appointment only\""
+   }
+  },
+  {
+   "id": "node/13289948383",
+   "name": "Animal Emergency Center",
+   "lat": 38.6732226,
+   "lon": -90.0167407,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13240208296",
+   "name": "Hometown Veterinary",
+   "lat": 38.5584465,
+   "lon": -90.3818076,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6841136270",
+   "name": "Kirkwood Animal Hospital",
+   "lat": 38.5986324,
+   "lon": -90.4139493,
+   "distKm": 18.9,
+   "address": "11114 Manchester Road, Kirkwood, 63122",
+   "tags": {
+    "phone": "+1 314 965 2660",
+    "website": "https://kirkwoodvets.com/"
+   }
+  },
+  {
+   "id": "way/423040721",
+   "name": "Family Pet Hospital",
+   "lat": 38.5553026,
+   "lon": -90.4031958,
+   "distKm": 19.4,
+   "address": "10400 Watson Road, Sunset Hills, 63127",
+   "tags": {
+    "phone": "+1-314-720-1704",
+    "website": "https://www.familypetstl.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-16:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/479717208",
+   "name": "Spoede Animal Hospital",
+   "lat": 38.6729407,
+   "lon": -90.4172503,
+   "distKm": 19.6,
+   "address": "10842 Olive Boulevard, Creve Coeur, MO 63141",
+   "tags": {}
+  }
+ ]
+}

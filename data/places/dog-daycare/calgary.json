@@ -1,0 +1,102 @@
+{
+ "$schemaVersion": 1,
+ "city": "calgary",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:39:38.008Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "node/6724850577",
+   "name": "Dogtopia",
+   "lat": 51.0377094,
+   "lon": -114.062682,
+   "distKm": 1,
+   "address": "115 17 Avenue SE, Calgary, T2G 1H3",
+   "tags": {
+    "phone": "+1 403 910 2338",
+    "website": "https://www.dogtopia.com/downtown-calgary/",
+    "opening_hours": "Mo-Fr 06:00-19:00; Sa 10:00-17:00; Su 11:00-14:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13252630685",
+   "name": "Paws Dog Daycare",
+   "lat": 51.0382982,
+   "lon": -114.0925462,
+   "distKm": 1.6,
+   "address": "1313 16 Avenue SW, T3C 0Z7",
+   "tags": {
+    "phone": "+1 403-984-9247",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12952290894",
+   "name": "Marda Loop Doggie Daycare & Spa",
+   "lat": 51.0233419,
+   "lon": -114.1079779,
+   "distKm": 3.5,
+   "address": "2016 34 Avenue SW, T2T 2C3",
+   "tags": {
+    "phone": "+1-403-475-3644",
+    "website": "https://www.mardaloopdoggiedaycare.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/540851713",
+   "name": "Wildsands Petcare",
+   "lat": 51.0068597,
+   "lon": -114.0668538,
+   "distKm": 4.2,
+   "address": "5306 1A Street SW, Calgary, T2H 1Y5",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13897592010",
+   "name": "Pawsitively Pooched Daycare",
+   "lat": 51.0826084,
+   "lon": -114.0933452,
+   "distKm": 4.5,
+   "address": "728 Northmount Drive NW, T2K 3K2",
+   "tags": {
+    "phone": "+1 403-241-5030",
+    "website": "https://www.pawsitivelypooched.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12778317419",
+   "name": "The Park Dog Daycare",
+   "lat": 51.087096,
+   "lon": -114.1287962,
+   "distKm": 6.2,
+   "address": "30 Brentwood Common NW, Calgary, T2L 2L8",
+   "tags": {
+    "phone": "+1 403-875-6989",
+    "website": "https://theparkdogdaycare.com/brentwood",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5465528733",
+   "name": "Cat's Meow Inn",
+   "lat": 51.0572361,
+   "lon": -113.7943315,
+   "distKm": 19.5,
+   "address": "243034 Range Road 281, Calgary, T2M 4L5",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "$schemaVersion": 1,
+ "city": "raleigh",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:29:58.629Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 54,
+ "places": [
+  {
+   "id": "way/47776939",
+   "name": "Oak Heart Veterinary Hospital",
+   "lat": 35.7887275,
+   "lon": -78.634705,
+   "distKm": 1.1,
+   "address": "916 North Person Street, Raleigh, NC 27604",
+   "tags": {
+    "phone": "+1-919-307-8843",
+    "website": "https://oakheartvet.com/",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-24:00"
+   }
+  },
+  {
+   "id": "node/9425919870",
+   "name": "Oak Heart Veterinary Hospital",
+   "lat": 35.7595803,
+   "lon": -78.6496029,
+   "distKm": 2.5,
+   "address": "1600 South Saunders Street, Raleigh, NC 27603",
+   "tags": {
+    "phone": "+19842220039",
+    "website": "https://oakheartvet.com/south-saunders/",
+    "opening_hours": "Mo-Fr 07:30-22:00; Sa 08:00-22:00; Su 12:00-22:00"
+   }
+  },
+  {
+   "id": "node/10315656151",
+   "name": "Care First Animal Hospital at Oberlin",
+   "lat": 35.800113,
+   "lon": -78.6596886,
+   "distKm": 3,
+   "address": "1216 Oberlin Road, Raleigh, NC 27605",
+   "tags": {
+    "phone": "+19198323107"
+   }
+  },
+  {
+   "id": "node/10291872297",
+   "name": "Oak Heart Veterinary Hospital",
+   "lat": 35.7786695,
+   "lon": -78.6043542,
+   "distKm": 3.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11453908570",
+   "name": "Boulevard Animal Hospital",
+   "lat": 35.784969,
+   "lon": -78.6898234,
+   "distKm": 4.7,
+   "address": "3900 Western Boulevard, 37607",
+   "tags": {
+    "website": "https://www.boulevardanimal.com/"
+   }
+  },
+  {
+   "id": "node/8007368640",
+   "name": "Oak Heart Veterinary Hospital",
+   "lat": 35.8099562,
+   "lon": -78.6765017,
+   "distKm": 4.8,
+   "address": "3044 Medlin Drive, Raleigh, NC 27607",
+   "tags": {}
+  },
+  {
+   "id": "node/2452360067",
+   "name": "Ansede Animal Hospital",
+   "lat": 35.7319994,
+   "lon": -78.6498893,
+   "distKm": 5.4,
+   "address": "3535 South Wilmington Street, Raleigh, NC 27603",
+   "tags": {}
+  },
+  {
+   "id": "node/13704293336",
+   "name": "Saving Lives Spay/Neuter Clinic",
+   "lat": 35.7277709,
+   "lon": -78.6615081,
+   "distKm": 6.1,
+   "address": "300 Petfinder Lane, Raleigh, NC 27603",
+   "tags": {
+    "phone": "+19197720211",
+    "website": "https://spcawake.org/home/fix/"
+   }
+  },
+  {
+   "id": "way/605960176",
+   "name": "Garner Animal Hospital Inc",
+   "lat": 35.7190715,
+   "lon": -78.6372904,
+   "distKm": 6.7,
+   "address": "1138 US 70, Garner, NC 27529",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:00-12:30"
+   }
+  },
+  {
+   "id": "way/428829088",
+   "name": "North Hills Animal Hospital & Resort",
+   "lat": 35.8516831,
+   "lon": -78.6435718,
+   "distKm": 8,
+   "address": "5121 Six Forks Road, Raleigh, NC 27609",
+   "tags": {}
+  },
+  {
+   "id": "way/47681365",
+   "name": "Magnolia Animal Hospital",
+   "lat": 35.8373652,
+   "lon": -78.5798695,
+   "distKm": 8.3,
+   "address": "4200 Capital Boulevard, Raleigh, NC 27604",
+   "tags": {
+    "phone": "+1-919-873-9190",
+    "website": "https://magnoliaanimalhospital.net"
+   }
+  },
+  {
+   "id": "way/47777517",
+   "name": "Quail Corners Animal Hospital",
+   "lat": 35.8505623,
+   "lon": -78.6081028,
+   "distKm": 8.3,
+   "address": "1613 East Millbrook Road, Raleigh, NC 27609",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/12794903201",
+   "name": "Care First Animal Hospital",
+   "lat": 35.8515885,
+   "lon": -78.6973774,
+   "distKm": 9.6,
+   "address": "5725 Glenwood Avenue, 27612",
+   "tags": {
+    "phone": "+1-919-783-7387",
+    "website": "https://www.carefirstanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-19:30; Sa 08:00-17:30; Su 13:00-17:30"
+   }
+  },
+  {
+   "id": "node/6561349899",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.8653187,
+   "lon": -78.6187572,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8529636636",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.8604531,
+   "lon": -78.5826748,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/996750902",
+   "name": "Banfield",
+   "lat": 35.6871469,
+   "lon": -78.6165582,
+   "distKm": 10.5,
+   "address": "1725 Aversboro Road, Garner, NC 27529",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 07:00-17:00"
+   }
+  },
+  {
+   "id": "node/6501140264",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.8711768,
+   "lon": -78.6793434,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/47680941",
+   "name": "Six Forks Animal Hospital",
+   "lat": 35.8776144,
+   "lon": -78.6450632,
+   "distKm": 10.9,
+   "address": "7130 Six Forks Road, Raleigh, NC 27615",
+   "tags": {}
+  },
+  {
+   "id": "node/5762369012",
+   "name": "Hidden Valley Animal Hospital & Boarding",
+   "lat": 35.8727132,
+   "lon": -78.680999,
+   "distKm": 11,
+   "address": "2315 Lynn Road, Raleigh, NC 27613",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/4467214965",
+   "name": "Walnut Street Animal Hospital",
+   "lat": 35.7748714,
+   "lon": -78.7661867,
+   "distKm": 11.6,
+   "address": "702 Cary Towne Boulevard, Cary, NC 27511",
+   "tags": {
+    "phone": "+1-919-948-6838"
+   }
+  },
+  {
+   "id": "way/575157292",
+   "name": "Veterinary Specialty Hospital of the Carolinas",
+   "lat": 35.7438511,
+   "lon": -78.7595077,
+   "distKm": 11.6,
+   "address": "6405 Tryon Road, Cary, NC 27518",
+   "tags": {
+    "phone": "+1-919-233-4911",
+    "website": "https://www.vshcarolinas.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/6117083673",
+   "name": "Capital Blvd Animal Hospital & Pet Inn",
+   "lat": 35.873141,
+   "lon": -78.57998,
+   "distKm": 11.7,
+   "address": "6471 Triangle Plantation Drive, Raleigh, NC 27616",
+   "tags": {
+    "phone": "+1-919-948-6666",
+    "website": "https://capitalah.com"
+   }
+  },
+  {
+   "id": "way/227605344",
+   "name": "Care First Animal Hospital at Tryon",
+   "lat": 35.7446706,
+   "lon": -78.7602984,
+   "distKm": 11.7,
+   "address": "6400 Tryon Road, Cary, 27518",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/8462363802",
+   "name": "Greystone Animal Hospital",
+   "lat": 35.8855189,
+   "lon": -78.6607254,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9517558369",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.7978092,
+   "lon": -78.4988912,
+   "distKm": 12.7,
+   "address": "6000 Village Park Drive, Knightdale, NC 27545",
+   "tags": {
+    "phone": "+1-919-266-1747",
+    "website": "https://banfield.com"
+   }
+  },
+  {
+   "id": "way/585731833",
+   "name": "Kildaire Animal Medical Center",
+   "lat": 35.7570654,
+   "lon": -78.7823557,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13398742133",
+   "name": "VEG",
+   "lat": 35.7366671,
+   "lon": -78.7799988,
+   "distKm": 13.7,
+   "address": "2030 Kildaire Farm Road",
+   "tags": {
+    "phone": "+1-984-345-3033",
+    "website": "https://www.veg.com/locations/north-carolina/cary"
+   }
+  },
+  {
+   "id": "way/47732195",
+   "name": "Bowman Animal Hospital",
+   "lat": 35.9006623,
+   "lon": -78.6801249,
+   "distKm": 14,
+   "address": "8308 Creedmoor Road, Raleigh, NC 27613",
+   "tags": {}
+  },
+  {
+   "id": "way/47837804",
+   "name": "Veterinary Specialty Hospital of the Carolinas",
+   "lat": 35.8882935,
+   "lon": -78.5609243,
+   "distKm": 14,
+   "address": "4640 Paragon Park Road, Raleigh, NC 27616",
+   "tags": {
+    "phone": "+1-919-861-0109",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2103238254",
+   "name": "PetSound Animal Hospital",
+   "lat": 35.7384414,
+   "lon": -78.7855375,
+   "distKm": 14.1,
+   "address": "305-C Ashville Avenue, NC 27518",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/168608819",
+   "name": "Homestead Veterinary Hospital",
+   "lat": 35.8326136,
+   "lon": -78.7803197,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12748356398",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.9051212,
+   "lon": -78.6019117,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13023367201",
+   "name": "VCA Animal Hospital and Pet Resort Durant Road",
+   "lat": 35.9042766,
+   "lon": -78.5850185,
+   "distKm": 14.7,
+   "address": "10220 Durant Road, 27614",
+   "tags": {
+    "phone": "+1-919-847-5533",
+    "website": "https://vcahospitals.com/durant-road",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 07:30-14:00; Su 15:00-16:00"
+   }
+  },
+  {
+   "id": "node/2299055742",
+   "name": "Animal Dermatology and Allergy Clinic",
+   "lat": 35.7839947,
+   "lon": -78.8024276,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2299055743",
+   "name": "Animal Emergency Clinic of Cary",
+   "lat": 35.7839962,
+   "lon": -78.8025256,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 00:00-08:00,17:30-24:00;Sa 00:00-24:00;Su 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/2299055751",
+   "name": "Veterinary Surgical Referral Practice",
+   "lat": 35.7839921,
+   "lon": -78.8023429,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:30"
+   }
+  },
+  {
+   "id": "way/47714392",
+   "name": "Bayleaf Veterinary Hospital",
+   "lat": 35.9161334,
+   "lon": -78.650308,
+   "distKm": 15.2,
+   "address": "10009 Six Forks Road, Raleigh, NC 27615",
+   "tags": {}
+  },
+  {
+   "id": "way/810034709",
+   "name": "Chatham Animal Hospital",
+   "lat": 35.769943,
+   "lon": -78.8082315,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4335856116",
+   "name": "Leesville Animal Hospital",
+   "lat": 35.9004752,
+   "lon": -78.7261858,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2272176274",
+   "name": "Maynard Animal Hospital",
+   "lat": 35.784638,
+   "lon": -78.8125809,
+   "distKm": 15.7,
+   "address": "1239 Northwest Maynard Road, NC",
+   "tags": {
+    "phone": "+1-919-646-4100",
+    "website": "https://VeterinarianMaynardNC.com",
+    "opening_hours": "Mo-Sa 08:00-19:00; Su 12:00-18:00"
+   }
+  },
+  {
+   "id": "node/10267673109",
+   "name": "Mitchell Mill Animal Hospital",
+   "lat": 35.8821096,
+   "lon": -78.5082192,
+   "distKm": 16.3,
+   "address": "4010 Mitchell Mill Road, 27616",
+   "tags": {
+    "phone": "+1-919-266-8177"
+   }
+  },
+  {
+   "id": "way/239011066",
+   "name": "Gentle Care Animal Hospital",
+   "lat": 35.7056321,
+   "lon": -78.7937574,
+   "distKm": 16.3,
+   "address": "3435 Kildaire Farm Road, Cary, NC 27518",
+   "tags": {
+    "website": "https://gentlecaretenten.com/",
+    "opening_hours": "Mo,We,Th,Fr 07:30-17:30, Tu 07:30-18:30, Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/3866376791",
+   "name": "Banfield Pet Hospital",
+   "lat": 35.9088275,
+   "lon": -78.7253028,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5745967031",
+   "name": "Lake Pine Animal Hospital",
+   "lat": 35.7457247,
+   "lon": -78.8213467,
+   "distKm": 16.9,
+   "address": "934 U. S. 64, Apex, NC 27502",
+   "tags": {
+    "website": "https://www.lakepineanimalhospital.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/810797941",
+   "name": "Serene Mobile Vertinary Care",
+   "lat": 35.769081,
+   "lon": -78.824636,
+   "distKm": 16.9,
+   "address": "110 Noritake Drive, Cary, NC 27513",
+   "tags": {
+    "phone": "+1-336-736-4121"
+   }
+  },
+  {
+   "id": "node/2239164968",
+   "name": "Noah's Ark Veterinary Hospital",
+   "lat": 35.7909488,
+   "lon": -78.8272255,
+   "distKm": 17.1,
+   "address": "4222 Northwest Cary Parkway, NC",
+   "tags": {
+    "opening_hours": "Mo-Th 07:30-19:00;Fr 07:30-17:00;Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/1015104396",
+   "name": "Harmony Animal Hospital",
+   "lat": 35.7203015,
+   "lon": -78.81961,
+   "distKm": 17.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1082399875",
+   "name": "Hilltop Animal Hospital",
+   "lat": 35.6243518,
+   "lon": -78.7252746,
+   "distKm": 19,
+   "address": "3301 North Main Street, Fuquay-Varina, NC 27526",
+   "tags": {
+    "phone": "+19195679700",
+    "website": "https://hilltopanimalhosp.com/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/1743442564",
+   "name": "Hemlock Bluffs Animal Hospital",
+   "lat": 35.6600455,
+   "lon": -78.7929004,
+   "distKm": 19.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12366072902",
+   "name": "Grace Park Animal Hospital",
+   "lat": 35.8231702,
+   "lon": -78.8470564,
+   "distKm": 19.4,
+   "address": "11010 Lake Grove Boulevard, 27560",
+   "tags": {
+    "phone": "+1-919-462-1212",
+    "website": "http://www.graceparkanimalhospital.com",
+    "opening_hours": "Mo-Fr 07:30-17:30"
+   }
+  },
+  {
+   "id": "way/189262329",
+   "name": "VCA Cornerstone Animal Hospital",
+   "lat": 35.789287,
+   "lon": -78.8525324,
+   "distKm": 19.4,
+   "address": "2111 High House Road, Cary, 27519",
+   "tags": {
+    "website": "https://www.vcahospitals.com/cornerstone",
+    "opening_hours": "Mo 07:30-20:00; Tu-Fr 07:30-18:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/2901976184",
+   "name": "VCA Apex Animal Hospital",
+   "lat": 35.7056157,
+   "lon": -78.8361807,
+   "distKm": 19.7,
+   "address": "1600 East Williams Street, NC",
+   "tags": {
+    "phone": "+1 919 3628878",
+    "website": "https://www.vcahospitals.com/apex",
+    "opening_hours": "Mo,We,Fr 07:30-18:00;Tu,Th 07:30-20:00;Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "way/205230402",
+   "name": "Cleveland School Animal Hospital",
+   "lat": 35.6100181,
+   "lon": -78.5642262,
+   "distKm": 20,
+   "address": "79 Oxholm Cir, Garner, NC 27529",
+   "tags": {
+    "phone": "+19196627387"
+   }
+  },
+  {
+   "id": "way/1126237669",
+   "name": "Neuse River Veterinary Hospital",
+   "lat": 35.7696548,
+   "lon": -78.4173767,
+   "distKm": 20,
+   "address": "1932 Wendell Falls Parkway, Wendell, NC 27591",
+   "tags": {
+    "phone": "+19193659001"
+   }
+  }
+ ]
+}

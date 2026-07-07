@@ -1,0 +1,298 @@
+{
+ "$schemaVersion": 1,
+ "city": "kansas-city",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:29:12.068Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "way/436494412",
+   "name": "The Barking Lot",
+   "lat": 39.1052954,
+   "lon": -94.5821319,
+   "distKm": 0.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/880692422",
+   "name": "SoHo Loft Dog Park",
+   "lat": 39.1050146,
+   "lon": -94.5864447,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/880693501",
+   "name": "SoHo  Lofts Dog Park Area",
+   "lat": 39.1046142,
+   "lon": -94.5866049,
+   "distKm": 0.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1525889131",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1009197,
+   "lon": -94.5896268,
+   "distKm": 1,
+   "address": null,
+   "tags": {
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/370090486",
+   "name": "River Market Dog Park",
+   "lat": 39.1099427,
+   "lon": -94.5778185,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1117460217",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.0884227,
+   "lon": -94.5822749,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "relation/18564549",
+   "name": "Bar K",
+   "lat": 39.1145427,
+   "lon": -94.5780569,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {
+    "website": "https://barkdogbar.com/locations/kansas-city-mo/"
+   }
+  },
+  {
+   "id": "way/201489549",
+   "name": "Penn Valley Off Leash Dog Park",
+   "lat": 39.073734,
+   "lon": -94.5887493,
+   "distKm": 3,
+   "address": null,
+   "tags": {
+    "website": "https://kcparks.org/park/penn-valley-park-off-leash-dog-park/"
+   }
+  },
+  {
+   "id": "way/1284676184",
+   "name": "Saint John's Dog Park",
+   "lat": 39.1140977,
+   "lon": -94.6182745,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1188767135",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.0648956,
+   "lon": -94.5811762,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/351540251",
+   "name": "Waggin' Trail Dog Park",
+   "lat": 39.1531999,
+   "lon": -94.5765274,
+   "distKm": 6,
+   "address": "432 Northeast 32nd Avenue, Kansas City, MO",
+   "tags": {
+    "website": "https://kcparks.org/places/off-leash-dog-park-north-kc/"
+   }
+  },
+  {
+   "id": "way/1346774536",
+   "name": "E. H. Young Riverfront Park Off-Leash Dog Park Small Dog Area",
+   "lat": 39.1645978,
+   "lon": -94.6166593,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1346774537",
+   "name": "E. H. Young Riverfront Park Off-Leash Dog Park Large Dog Area",
+   "lat": 39.1652037,
+   "lon": -94.6162212,
+   "distKm": 8,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1286104662",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1152694,
+   "lon": -94.4592778,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/1413438023",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.1539697,
+   "lon": -94.4749576,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/844094868",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2015599,
+   "lon": -94.5882792,
+   "distKm": 11.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1451551091",
+   "name": "Welborn Dog Park",
+   "lat": 39.1345152,
+   "lon": -94.7090836,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {
+    "access": "yes",
+    "website": "https://www.facebook.com/share/1DdB5NWNJn/?mibextid=wwXIfr"
+   }
+  },
+  {
+   "id": "relation/19198239",
+   "name": "Swope Park Off Leash Dog Park",
+   "lat": 38.9971699,
+   "lon": -94.5264649,
+   "distKm": 12.3,
+   "address": "5051 East Gregory Boulevard, Kansas City, MO 64132",
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://kcparks.org/places/swope-park-off-leash-park/"
+   }
+  },
+  {
+   "id": "way/446444121",
+   "name": "Platte Landing Park Small Dog Off Leash Area",
+   "lat": 39.1825266,
+   "lon": -94.6952279,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/446444612",
+   "name": "Platte Landing Park Large Dog Off-Leash Area",
+   "lat": 39.1836521,
+   "lon": -94.6931789,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {
+    "dog": "unleashed"
+   }
+  },
+  {
+   "id": "way/845504383",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2205826,
+   "lon": -94.6036591,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1459115671",
+   "name": "Dog Park at Santa Fe Park",
+   "lat": 39.0659006,
+   "lon": -94.4259213,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/840702434",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2097627,
+   "lon": -94.6588575,
+   "distKm": 14.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1303777028",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2302229,
+   "lon": -94.5784443,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1452254976",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2322489,
+   "lon": -94.5336883,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/620480001",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2386204,
+   "lon": -94.6533902,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/844065749",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 39.2502298,
+   "lon": -94.6461774,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/556384329",
+   "name": "Leawoof Dog Park",
+   "lat": 38.9333821,
+   "lon": -94.611534,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "$schemaVersion": 1,
+ "city": "charleston",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:35:29.237Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 44,
+ "places": [
+  {
+   "id": "way/940446336",
+   "name": "South Adgers Wharf Dog Park",
+   "lat": 32.7750952,
+   "lon": -79.9262671,
+   "distKm": 0.5,
+   "address": "41 South Adgers Wharf, Charleston, SC 29401",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.charleston-sc.gov/2797/City-Dog-Parks"
+   }
+  },
+  {
+   "id": "way/123121679",
+   "name": "Hampton Dog Park",
+   "lat": 32.8025948,
+   "lon": -79.9549269,
+   "distKm": 3.7,
+   "address": "129 Grove Street, Charleston, SC 29403",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1463241494",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.799176,
+   "lon": -79.9005853,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1392192986",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8013458,
+   "lon": -79.8996335,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1507556037",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8071928,
+   "lon": -79.8882036,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/161447047",
+   "name": "Ackerman Dog Park",
+   "lat": 32.7894805,
+   "lon": -79.9899411,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/226024751",
+   "name": "James Island County Dog Park",
+   "lat": 32.7332442,
+   "lon": -79.9885417,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "website": "https://www.ccprc.com/index.aspx?NID=1513"
+   }
+  },
+  {
+   "id": "way/1079159175",
+   "name": "Riverland Woods Pet Park",
+   "lat": 32.7171933,
+   "lon": -79.9695651,
+   "distKm": 7.5,
+   "address": "River Haven Circle, Charleston, SC 29412",
+   "tags": {
+    "access": "customers",
+    "website": "https://www.riverlandwoods.com/amenities"
+   }
+  },
+  {
+   "id": "way/1079159197",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7162993,
+   "lon": -79.9715477,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "access": "customers",
+    "website": "https://www.riverlandwoods.com"
+   }
+  },
+  {
+   "id": "way/1464056156",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7878673,
+   "lon": -79.8498216,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1464197345",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7900291,
+   "lon": -79.8497167,
+   "distKm": 7.8,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1470158277",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8172119,
+   "lon": -79.8613658,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {
+    "dog": "unleashed",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/1418515194",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8538739,
+   "lon": -79.9204858,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1488445404",
+   "name": "Talison Row Dog Park",
+   "lat": 32.8556236,
+   "lon": -79.9252382,
+   "distKm": 8.8,
+   "address": "500 Talison Avenue, Daniel Island, SC 29492",
+   "tags": {
+    "surface": "dirt",
+    "dog": "unleashed",
+    "access": "customers",
+    "website": "https://www.irtliving.com/Apartments-In/Charleston-SC/Talison-Row"
+   }
+  },
+  {
+   "id": "way/642052102",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.7983931,
+   "lon": -80.02423,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6417098308",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8064939,
+   "lon": -79.8291128,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/943895176",
+   "name": "Governor's Park Dog Park",
+   "lat": 32.8635183,
+   "lon": -79.901096,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1418515174",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8633018,
+   "lon": -79.9009026,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1448486687",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8645369,
+   "lon": -79.9058993,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {
+    "surface": "artificial_turf",
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/655438216",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8017969,
+   "lon": -80.0446166,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1419246705",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.891042,
+   "lon": -79.9337724,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/217439465",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.6610144,
+   "lon": -79.9314615,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1447157507",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8872497,
+   "lon": -79.9751026,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/676438181",
+   "name": "Mixson Avenue Dog Park",
+   "lat": 32.8835025,
+   "lon": -79.9933628,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/945131284",
+   "name": "Palmetto Islands County Small Dog Park",
+   "lat": 32.8611792,
+   "lon": -79.8319178,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/945131285",
+   "name": "Palmetto Islands County Big Dog Park",
+   "lat": 32.8607783,
+   "lon": -79.8319017,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/943900269",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8038145,
+   "lon": -80.077,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/940449353",
+   "name": "Carolina Bay Dog Park",
+   "lat": 32.8064696,
+   "lon": -80.080365,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/702301167",
+   "name": "Isle Of Palms Recreational Center Dog Park",
+   "lat": 32.7957927,
+   "lon": -79.7758888,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13702578005",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9107698,
+   "lon": -79.8998098,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "way/941457368",
+   "name": "Grand Oaks Dog Park",
+   "lat": 32.8313167,
+   "lon": -80.0873022,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1100622747",
+   "name": "Bluewater Appartments Dog Park",
+   "lat": 32.8027519,
+   "lon": -80.0980352,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/907881563",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.8032022,
+   "lon": -80.0989082,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/941465061",
+   "name": "Bolton's Landing Appartments Dog Park",
+   "lat": 32.8143975,
+   "lon": -80.0966484,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/940441810",
+   "name": "Small Dog Park",
+   "lat": 32.8337284,
+   "lon": -80.094009,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/940441811",
+   "name": "Big Dog Park",
+   "lat": 32.8336321,
+   "lon": -80.0937514,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1308899477",
+   "name": "Peggy’s Park",
+   "lat": 32.9179969,
+   "lon": -79.876411,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1419478109",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.918935,
+   "lon": -79.8786304,
+   "distKm": 16.6,
+   "address": "Martins Point Drive, Charleston, SC 29492",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1419478148",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9184869,
+   "lon": -79.8763418,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1419478149",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9177769,
+   "lon": -79.8734441,
+   "distKm": 16.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1420454862",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.880042,
+   "lon": -80.0611545,
+   "distKm": 16.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1419744990",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9208462,
+   "lon": -79.8674344,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1449433200",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9345786,
+   "lon": -80.0042299,
+   "distKm": 18.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1443076879",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 32.9322183,
+   "lon": -79.8369751,
+   "distKm": 19.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

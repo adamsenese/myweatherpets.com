@@ -1,0 +1,572 @@
+{
+ "$schemaVersion": 1,
+ "city": "amsterdam",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:38:26.065Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/11162766405",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3748787,
+   "lon": 4.9160103,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/880670862",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3652886,
+   "lon": 4.9216425,
+   "distKm": 1.2,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1110325137",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3546338,
+   "lon": 4.8976868,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/684471995",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.37983,
+   "lon": 4.9208948,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1149156771",
+   "name": "Hondenspeeltuin Willem I",
+   "lat": 52.3843594,
+   "lon": 4.9098092,
+   "distKm": 1.9,
+   "address": "Sixhavenweg, Amsterdam",
+   "tags": {
+    "surface": "grass",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1293447930",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3794947,
+   "lon": 4.8779473,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/221203070",
+   "name": "Hondentoilet",
+   "lat": 52.3712814,
+   "lon": 4.8680659,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5058045661",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3502158,
+   "lon": 4.929915,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1124881741",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3738661,
+   "lon": 4.8648733,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "surface": "grass",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/7061165803",
+   "name": "Hondenveld Vondelpark",
+   "lat": 52.356704,
+   "lon": 4.8611164,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12052715705",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3444096,
+   "lon": 4.9323048,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/66681441",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3375317,
+   "lon": 4.90345,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/111312280",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3983518,
+   "lon": 4.9128969,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9308363308",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3432755,
+   "lon": 4.9518725,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Dec-Apr"
+   }
+  },
+  {
+   "id": "node/9200008356",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3450506,
+   "lon": 4.9591188,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9200008487",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3421429,
+   "lon": 4.9551502,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1087506454",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3465397,
+   "lon": 4.9609168,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8667971795",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3515776,
+   "lon": 4.9667,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8626455852",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3471518,
+   "lon": 4.9651984,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9513909099",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3462742,
+   "lon": 4.9631941,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9513909075",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3454664,
+   "lon": 4.9655323,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11161444706",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3620676,
+   "lon": 4.9746501,
+   "distKm": 4.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11161447105",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3641968,
+   "lon": 4.9778205,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13017168689",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4123953,
+   "lon": 4.8938998,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/21033981",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3327501,
+   "lon": 4.9501514,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8529923321",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3445462,
+   "lon": 4.9686139,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8529923142",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3438247,
+   "lon": 4.9707923,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/55303600",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4140603,
+   "lon": 4.8936217,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/844048712",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.357304,
+   "lon": 4.980657,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8610095310",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3477228,
+   "lon": 4.9767587,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/55303592",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.41514,
+   "lon": 4.8919418,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9331500846",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3353134,
+   "lon": 4.9654399,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9331500875",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3338004,
+   "lon": 4.9628248,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/844048714",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3602448,
+   "lon": 4.9845944,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8528079632",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3391888,
+   "lon": 4.9741124,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "lit": "no"
+   }
+  },
+  {
+   "id": "way/906996448",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3313398,
+   "lon": 4.963802,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/844048713",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3576981,
+   "lon": 4.987693,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8528233852",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3394613,
+   "lon": 4.9805396,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9108360699",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3456237,
+   "lon": 4.9872012,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9443039634",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3270731,
+   "lon": 4.9653663,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/655273201",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4239637,
+   "lon": 4.9167803,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1058823670",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3597783,
+   "lon": 4.9958758,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1387068828",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3485563,
+   "lon": 4.9966132,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1058803578",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3552829,
+   "lon": 5.0044558,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9387851604",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3325243,
+   "lon": 4.9921069,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9615042189",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3315122,
+   "lon": 4.9897045,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/630378244",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4315332,
+   "lon": 4.9017542,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9601691066",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3290243,
+   "lon": 4.9894564,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9680650909",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3363156,
+   "lon": 4.9963788,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9386768313",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3313496,
+   "lon": 4.9952498,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9604244107",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3290056,
+   "lon": 4.9929464,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9685373647",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3366372,
+   "lon": 5.0003187,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7659450734",
+   "name": "Hondenuitrenveld",
+   "lat": 52.4331839,
+   "lon": 4.9266997,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9595278397",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3274945,
+   "lon": 4.9920888,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9455832619",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3302544,
+   "lon": 4.9981252,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9554598058",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3256152,
+   "lon": 4.9929945,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1425045015",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4363471,
+   "lon": 4.9053379,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9554598059",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3264505,
+   "lon": 4.9950696,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1425045016",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.4383405,
+   "lon": 4.8876574,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1535855006",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 52.3496441,
+   "lon": 5.0166262,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

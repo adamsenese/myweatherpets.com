@@ -1,0 +1,308 @@
+{
+ "$schemaVersion": 1,
+ "city": "madison",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:35:07.307Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 29,
+ "places": [
+  {
+   "id": "way/72937727",
+   "name": "Brittingham Park Dog Park",
+   "lat": 43.0681086,
+   "lon": -89.3855923,
+   "distKm": 1.4,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/119921380",
+   "name": "Quann Park Dog Park",
+   "lat": 43.0500446,
+   "lon": -89.3851495,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/175084649",
+   "name": "Demetral Park Dog Off-Leash Park",
+   "lat": 43.1063671,
+   "lon": -89.3543288,
+   "distKm": 5.3,
+   "address": "2297 Commercial Avenue",
+   "tags": {
+    "surface": "grass",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/589689654",
+   "name": "Odana School Park Dog Park",
+   "lat": 43.0517713,
+   "lon": -89.4693793,
+   "distKm": 6,
+   "address": null,
+   "tags": {
+    "surface": "ground",
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/76281067",
+   "name": "Warner Park Dog Park",
+   "lat": 43.1266808,
+   "lon": -89.37387,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/257133763",
+   "name": "Capital Springs Dog Park",
+   "lat": 43.0237552,
+   "lon": -89.3478272,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "node/6290179277",
+   "name": "Small Dog Area",
+   "lat": 43.0235694,
+   "lon": -89.3461461,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/676632449",
+   "name": "Monona Dog Park",
+   "lat": 43.0509804,
+   "lon": -89.3164135,
+   "distKm": 7.3,
+   "address": "851 Femrite Drive, Monona, WI 53716",
+   "tags": {
+    "dog": "yes",
+    "website": "https://www.mymonona.com/619/Dogs-in-Parks"
+   }
+  },
+  {
+   "id": "way/1349279411",
+   "name": "Madison Boneyard",
+   "lat": 43.1127959,
+   "lon": -89.3101927,
+   "distKm": 8.6,
+   "address": "1018 Walsh Road, Madison, WI 53714",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/119916058",
+   "name": "Yahara Heights County Park Dog Park",
+   "lat": 43.1535191,
+   "lon": -89.4011368,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1318245246",
+   "name": "Crescent Crossing Dog Park",
+   "lat": 43.0041658,
+   "lon": -89.4561495,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1088038117",
+   "name": "Walnut Grove Dog Park",
+   "lat": 43.0699468,
+   "lon": -89.5118474,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/477598579",
+   "name": "Sycamore Dog Park",
+   "lat": 43.1123724,
+   "lon": -89.3035332,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/318894926",
+   "name": "Sunnyside Park",
+   "lat": 42.9874515,
+   "lon": -89.4276683,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1225940498",
+   "name": "Small Dog Area",
+   "lat": 43.1399307,
+   "lon": -89.4799759,
+   "distKm": 9.8,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/72473070",
+   "name": "Middleton Dog Exercise Area",
+   "lat": 43.1423728,
+   "lon": -89.4801406,
+   "distKm": 10,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1028210545",
+   "name": "North Star Park Dog Park",
+   "lat": 43.0924367,
+   "lon": -89.2777616,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1225809756",
+   "name": "Penni Klein Dog Park",
+   "lat": 43.1124505,
+   "lon": -89.538663,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/566145648",
+   "name": "Badger Prairie Dog Park",
+   "lat": 42.9999217,
+   "lon": -89.5115862,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/730247725",
+   "name": "Small dog park",
+   "lat": 42.9980317,
+   "lon": -89.5136868,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "way/1200703019",
+   "name": "McFarland Dog Park",
+   "lat": 43.0050558,
+   "lon": -89.2729393,
+   "distKm": 12.9,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  },
+  {
+   "id": "node/4085649794",
+   "name": "Token Creek Dog Park",
+   "lat": 43.173787,
+   "lon": -89.3085171,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6784112368",
+   "name": "Small Dog Park",
+   "lat": 43.1744512,
+   "lon": -89.3090146,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/76221558",
+   "name": "Token Creek County Park Dog Park",
+   "lat": 43.1737523,
+   "lon": -89.3075131,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/240687673",
+   "name": "Ripp Park Dog Park",
+   "lat": 43.1910397,
+   "lon": -89.4760095,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/74985830",
+   "name": "Prairie Moraine Dog Park",
+   "lat": 42.9606468,
+   "lon": -89.5068383,
+   "distKm": 15.2,
+   "address": "6679 wesner ln, Verona, WI 53593",
+   "tags": {
+    "barrier": "fence",
+    "access": "yes",
+    "website": "https://parks-lwrd.countyofdane.com/park/PrairieMoraine"
+   }
+  },
+  {
+   "id": "way/217857568",
+   "name": "Pet Exercise Area",
+   "lat": 43.1667269,
+   "lon": -89.2252613,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1043303750",
+   "name": "Small Dog Park",
+   "lat": 42.897033,
+   "lon": -89.3835092,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1043301343",
+   "name": "Anderson Farm Dog Park",
+   "lat": 42.8946703,
+   "lon": -89.3837414,
+   "distKm": 19.9,
+   "address": null,
+   "tags": {
+    "access": "permit"
+   }
+  }
+ ]
+}

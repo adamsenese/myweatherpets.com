@@ -1,0 +1,253 @@
+{
+ "$schemaVersion": 1,
+ "city": "detroit",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:27:19.364Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 24,
+ "places": [
+  {
+   "id": "way/256938868",
+   "name": "Patterson Dog & Cat Hospital",
+   "lat": 42.3436444,
+   "lon": -83.0756876,
+   "distKm": 2.8,
+   "address": "3800 Grand River Avenue, Detroit, MI 48208",
+   "tags": {}
+  },
+  {
+   "id": "node/4406327117",
+   "name": "All About Animals",
+   "lat": 42.3099955,
+   "lon": -83.1259824,
+   "distKm": 7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7022582013",
+   "name": "Rivard Animal Hospital",
+   "lat": 42.309093,
+   "lon": -82.9567959,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/304562670",
+   "name": "Malden Road Veterinary Hospital",
+   "lat": 42.2517911,
+   "lon": -83.0609446,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "website": "https://maldenroadvet.ca/"
+   }
+  },
+  {
+   "id": "node/6720062516",
+   "name": "Roseland Animal Hospital",
+   "lat": 42.2561618,
+   "lon": -83.0037859,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11224212737",
+   "name": "Cabana at Howard Pet Hospital",
+   "lat": 42.2581102,
+   "lon": -82.9949994,
+   "distKm": 9.2,
+   "address": "511 Cabana Road, N9G 1A5",
+   "tags": {
+    "phone": "+15192505200",
+    "website": "http://www.cabanavet.ca",
+    "opening_hours": "Mo-Sa 09:00-21:00"
+   }
+  },
+  {
+   "id": "way/712333540",
+   "name": "Forest Glade Animal Hospital",
+   "lat": 42.3137297,
+   "lon": -82.9200616,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4432490109",
+   "name": "Hurley Dog and Cat Hospital",
+   "lat": 42.400751,
+   "lon": -83.139815,
+   "distKm": 10.9,
+   "address": "15018 Livernois Avenue, Detroit, MI 48238",
+   "tags": {
+    "phone": "+1-313-863-5350",
+    "website": "https://www.hurleydogandcathospital.com/"
+   }
+  },
+  {
+   "id": "node/6385972193",
+   "name": "Pet Care Clinic p.c.",
+   "lat": 42.2488516,
+   "lon": -83.1731363,
+   "distKm": 13.9,
+   "address": "1065 Southfield Road, Lincoln Park, MI 48146",
+   "tags": {}
+  },
+  {
+   "id": "way/750970479",
+   "name": "Tecumseh Animal Hosptial",
+   "lat": 42.3118768,
+   "lon": -82.8717197,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/995265456",
+   "name": "VCA Allen Park Animal Hospital",
+   "lat": 42.2632453,
+   "lon": -83.2022043,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/486245233",
+   "name": "Affiliated Veterinary",
+   "lat": 42.2586686,
+   "lon": -83.2034512,
+   "distKm": 15.3,
+   "address": "15220 Southfield Road, Allen Park, MI 48101",
+   "tags": {
+    "phone": "+1-313-389-1700"
+   }
+  },
+  {
+   "id": "node/4957405049",
+   "name": "Little Friends of Ferndale",
+   "lat": 42.4607112,
+   "lon": -83.1193175,
+   "distKm": 15.6,
+   "address": "1150 East 9 Mile Road, Ferndale, MI 48220",
+   "tags": {}
+  },
+  {
+   "id": "way/696707544",
+   "name": "Lincoln Park Veterinary Hospital",
+   "lat": 42.2278467,
+   "lon": -83.1804251,
+   "distKm": 16,
+   "address": "3909 Fort Street, Lincoln Park, MI 48146",
+   "tags": {
+    "phone": "+1-313-389-2222",
+    "website": "https://downrivervet.com/",
+    "opening_hours": "Mo-Tu, Th 08:00-18:00; We, Fr 08:00-17:00; Sa 08:00-13:30"
+   }
+  },
+  {
+   "id": "node/4962249589",
+   "name": "West Woodward Animal Clinic",
+   "lat": 42.460151,
+   "lon": -83.1462799,
+   "distKm": 16.5,
+   "address": "915 West 9 Mile Road, Ferndale, MI 48220",
+   "tags": {}
+  },
+  {
+   "id": "way/879402987",
+   "name": "Hilton Veterinary Clinic of Ferndale",
+   "lat": 42.4739437,
+   "lon": -83.1233822,
+   "distKm": 17.1,
+   "address": "3250 Hilton Road, Ferndale, MI 48220",
+   "tags": {}
+  },
+  {
+   "id": "way/323903659",
+   "name": "West Warren Veterinary Hospital",
+   "lat": 42.341896,
+   "lon": -83.2604957,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/315559933",
+   "name": "Ford Road Animal Clinic",
+   "lat": 42.3273612,
+   "lon": -83.2668555,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1323243408",
+   "name": "Oak Animal Hospital",
+   "lat": 42.4911814,
+   "lon": -83.1034553,
+   "distKm": 18.4,
+   "address": "241 East 11 Mile Road, Madison Heights, MI 48071",
+   "tags": {
+    "phone": "+1-248-800-6996",
+    "website": "https://oakanimalhospital.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/146684958",
+   "name": "Wyandotte Animal Hospital",
+   "lat": 42.1877204,
+   "lon": -83.1584705,
+   "distKm": 18.5,
+   "address": "4448 Biddle Avenue, Wyandotte, MI 48192",
+   "tags": {}
+  },
+  {
+   "id": "way/726511461",
+   "name": "Southgate Animal Hospital",
+   "lat": 42.2071978,
+   "lon": -83.2008378,
+   "distKm": 18.8,
+   "address": "13697 Dix-Toledo Highway, Southgate, MI 48195",
+   "tags": {
+    "phone": "+1-734-284-9122",
+    "website": "http://www.southgateanimalhospital.vet/"
+   }
+  },
+  {
+   "id": "way/879412339",
+   "name": "Blue Cross Animal Hospital",
+   "lat": 42.4901121,
+   "lon": -83.1262865,
+   "distKm": 18.8,
+   "address": "1514 East 11 Mile Road, Royal Oak, MI 48067",
+   "tags": {}
+  },
+  {
+   "id": "node/6371075485",
+   "name": "Angel Animal Hospital",
+   "lat": 42.199907,
+   "lon": -83.2085406,
+   "distKm": 19.8,
+   "address": "15250 Eureka Road, Southgate, MI 48195",
+   "tags": {
+    "phone": "+1-734-281-6500"
+   }
+  },
+  {
+   "id": "node/7286344182",
+   "name": "The PAWS Clinic",
+   "lat": 42.2279858,
+   "lon": -83.2416169,
+   "distKm": 19.8,
+   "address": "21210 Goddard Road, Taylor, MI 48180",
+   "tags": {
+    "phone": "+1-313-451-8200"
+   }
+  }
+ ]
+}

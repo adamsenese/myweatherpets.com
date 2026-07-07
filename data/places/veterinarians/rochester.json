@@ -1,0 +1,184 @@
+{
+ "$schemaVersion": 1,
+ "city": "rochester",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:36:03.076Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "node/10125941990",
+   "name": "Cats & Critters",
+   "lat": 43.1466597,
+   "lon": -77.5760943,
+   "distKm": 2.9,
+   "address": "32 Somerton Street, Rochester, NY 14607",
+   "tags": {
+    "phone": "+1 585-326-9706",
+    "website": "https://www.thrivepetcare.com/locations/new-york/rochester/cats-and-critters",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/11876922160",
+   "name": "Animal Hospital of Rochester",
+   "lat": 43.15265,
+   "lon": -77.5725581,
+   "distKm": 3,
+   "address": "1150 University Avenue, Rochester, NY 14607",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00"
+   }
+  },
+  {
+   "id": "way/260543891",
+   "name": "Jefferson Veterinary Hospital",
+   "lat": 43.0950987,
+   "lon": -77.6149937,
+   "distKm": 6.9,
+   "address": "2330 Brighton-Henrietta Town Line Road, Rochester, NY 14623",
+   "tags": {}
+  },
+  {
+   "id": "way/293327818",
+   "name": "Pittsford Animal Hospital",
+   "lat": 43.1122363,
+   "lon": -77.548602,
+   "distKm": 6.9,
+   "address": "2816 Monroe Avenue, Rochester, NY 14618",
+   "tags": {}
+  },
+  {
+   "id": "node/13134771301",
+   "name": "Brighton Animal Hospital",
+   "lat": 43.1225952,
+   "lon": -77.5094061,
+   "distKm": 8.9,
+   "address": "723 Linden Avenue, 14625",
+   "tags": {
+    "phone": "+1-585-586-1462",
+    "website": "https://brightonanimalhospital.com/",
+    "opening_hours": "Mo, We 08:30-20:00; Tu, Th-Fr 08:30-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/293604038",
+   "name": "Suburban Animal Hospital",
+   "lat": 43.0719005,
+   "lon": -77.6080007,
+   "distKm": 9.4,
+   "address": "2495 East Henrietta Road, Rochester, NY 14623",
+   "tags": {}
+  },
+  {
+   "id": "way/947300514",
+   "name": "Penfield Veterinary Hospital",
+   "lat": 43.131798,
+   "lon": -77.4890243,
+   "distKm": 10.1,
+   "address": "1672 Penfield Road, Rochester, NY 14625",
+   "tags": {}
+  },
+  {
+   "id": "node/11876922161",
+   "name": "Rochester Emergency Veterinary Services",
+   "lat": 43.1169836,
+   "lon": -77.4948118,
+   "distKm": 10.2,
+   "address": "445 West Commercial Street, East Rochester, NY 14445",
+   "tags": {
+    "phone": "+1 585-775-0020",
+    "website": "https://rocemergencyvet.com/",
+    "opening_hours": "Mo-Fr 00:00-07:00,19:00-24:00; Sa-Su 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/8785902162",
+   "name": "Manitou Hill Vet Practice",
+   "lat": 43.1634773,
+   "lon": -77.7532958,
+   "distKm": 11.7,
+   "address": "2530 Manitou Road, Rochester, NY 14624",
+   "tags": {}
+  },
+  {
+   "id": "way/1353251266",
+   "name": "Ark Veterinary Hospital & Urgent Care",
+   "lat": 43.045356,
+   "lon": -77.6585568,
+   "distKm": 13,
+   "address": "35 Finn Road, Henrietta, NY 14467",
+   "tags": {
+    "phone": "+1 585 487 8700",
+    "opening_hours": "Mo,Fr,Sa 08:00-22:00; Tu-Th 08:00-20:00; Su 09:00-22:00"
+   }
+  },
+  {
+   "id": "way/783713631",
+   "name": "Cats Exclusively",
+   "lat": 43.0651227,
+   "lon": -77.4825403,
+   "distKm": 14.4,
+   "address": "1311 Marsh Road, Pittsford, NY 14534",
+   "tags": {}
+  },
+  {
+   "id": "way/693955022",
+   "name": "Clark Animal Care Center",
+   "lat": 43.1619491,
+   "lon": -77.4307553,
+   "distKm": 14.5,
+   "address": "1672 Fairport-Nine Mile Point Road, Penfield, NY 14526",
+   "tags": {}
+  },
+  {
+   "id": "node/4724341990",
+   "name": "East River Veterinary Hospital",
+   "lat": 43.0406634,
+   "lon": -77.6960372,
+   "distKm": 14.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1058403160",
+   "name": "Fairport Animal Hospital",
+   "lat": 43.1050512,
+   "lon": -77.4421214,
+   "distKm": 14.7,
+   "address": "117 North Main Street, Fairport, NY 14450",
+   "tags": {}
+  },
+  {
+   "id": "way/319802060",
+   "name": "Scottsville Vet",
+   "lat": 43.0339908,
+   "lon": -77.7390371,
+   "distKm": 17.3,
+   "address": "3750 Scottsville Road, Scottsville, NY 14546",
+   "tags": {}
+  },
+  {
+   "id": "way/1019304070",
+   "name": "Perinton Veterinary Hospital",
+   "lat": 43.0369259,
+   "lon": -77.4495856,
+   "distKm": 18.6,
+   "address": "11 Lasalle Parkway, Victor, NY 14564",
+   "tags": {
+    "phone": "+1 585-248-5566",
+    "website": "http://perintonvet.com/"
+   }
+  },
+  {
+   "id": "way/445270295",
+   "name": "Mendon Village Animal Hospital",
+   "lat": 42.9988744,
+   "lon": -77.5044822,
+   "distKm": 19.5,
+   "address": "1380 Pittsford-Mendon Road, Mendon, NY 14506",
+   "tags": {}
+  }
+ ]
+}

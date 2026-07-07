@@ -1,0 +1,72 @@
+{
+ "$schemaVersion": 1,
+ "city": "richmond",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:33:39.772Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "way/253538369",
+   "name": "Diamond Dog House",
+   "lat": 37.5745544,
+   "lon": -77.4651126,
+   "distKm": 4.6,
+   "address": "1712 Ellen Road, Richmond, VA 23230",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13125377532",
+   "name": "Dogtopia",
+   "lat": 37.5025148,
+   "lon": -77.5222497,
+   "distKm": 8.7,
+   "address": "11004 Midlothian Turnpike, Richmond, VA 23235",
+   "tags": {
+    "phone": "+1-804-313-9492",
+    "website": "https://www.dogtopia.com/richmond-chesterfield",
+    "opening_hours": "Mo-Fr 06:30-19:30; Sa-Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/2732676728",
+   "name": "The Dog Stop",
+   "lat": 37.6383066,
+   "lon": -77.5519398,
+   "distKm": 14.9,
+   "address": "9132 West Broad Street, Richmond, VA 23294",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/710600003",
+   "name": "Holiday Barn Pet Resort",
+   "lat": 37.6757399,
+   "lon": -77.5242891,
+   "distKm": 16.9,
+   "address": "3786 Mountain Road, 23060",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6535436222",
+   "name": "Dogtopia",
+   "lat": 37.6427923,
+   "lon": -77.5840744,
+   "distKm": 17.3,
+   "address": "3601 Cox Road, Henrico, VA 23233",
+   "tags": {
+    "phone": "+1-804-625-4444",
+    "website": "https://www.dogtopia.com/richmond-shortpump/",
+    "opening_hours": "Mo-Fr 06:30-19:30; Sa-Su 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

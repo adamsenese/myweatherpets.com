@@ -1,0 +1,55 @@
+{
+ "$schemaVersion": 1,
+ "city": "omaha",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:30:14.794Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "node/11533146435",
+   "name": "Dogtopia",
+   "lat": 41.1720438,
+   "lon": -96.0761232,
+   "distKm": 15.1,
+   "address": "10411 Portal Road, La Vista, NE 68046",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11507811291",
+   "name": "Dogtopia",
+   "lat": 41.1348534,
+   "lon": -96.031194,
+   "distKm": 15.8,
+   "address": "7809 Towne Center Parkway, Papillion, NE 68046",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13242768467",
+   "name": "Paddington Station Kennels",
+   "lat": 41.1050006,
+   "lon": -95.8947113,
+   "distKm": 17.2,
+   "address": "206 Cunningham Road, Bellevue, NE 68005",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12032653046",
+   "name": "Dogtopia",
+   "lat": 41.2323187,
+   "lon": -96.1420231,
+   "distKm": 17.6,
+   "address": "14485 West Center Road, Omaha, NE 68144",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

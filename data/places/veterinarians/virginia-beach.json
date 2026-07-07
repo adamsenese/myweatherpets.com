@@ -1,0 +1,178 @@
+{
+ "$schemaVersion": 1,
+ "city": "virginia-beach",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:30:30.306Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 15,
+ "places": [
+  {
+   "id": "way/402380931",
+   "name": "Hilltop Veterinary Clinic",
+   "lat": 36.8493485,
+   "lon": -76.0271997,
+   "distKm": 4.4,
+   "address": "Virginia Beach, 23454",
+   "tags": {}
+  },
+  {
+   "id": "way/402372063",
+   "name": "Beach Pet Hospital",
+   "lat": 36.8425401,
+   "lon": -76.0476352,
+   "distKm": 6.3,
+   "address": "316 Great Neck Road, Virginia Beach, VA 23454",
+   "tags": {
+    "phone": "+1-757-428-3251",
+    "website": "https://www.beachpet.com/",
+    "opening_hours": "Mo,We,Fr 08:00-17:30; Tu 08:00-20:00; Th 10:00-20:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "way/456697639",
+   "name": "Animal Medical Center",
+   "lat": 36.8792719,
+   "lon": -76.0411824,
+   "distKm": 6.3,
+   "address": "1556 Mill Dam Road, Virginia Beach, VA",
+   "tags": {}
+  },
+  {
+   "id": "node/2067957765",
+   "name": "Animal Health Care Clinic",
+   "lat": 36.7872839,
+   "lon": -76.000509,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7946399800",
+   "name": "Acredale Animal Hospital",
+   "lat": 36.8429765,
+   "lon": -76.0653281,
+   "distKm": 7.8,
+   "address": "2706 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-837-0577",
+    "website": "https://acredaleanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-16:00"
+   }
+  },
+  {
+   "id": "way/402273906",
+   "name": "Animal Eye Center",
+   "lat": 36.8337491,
+   "lon": -76.0681315,
+   "distKm": 8.3,
+   "address": "2800 Lynnhaven Road, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-368-9060",
+    "website": "https://www.animaleyecareva.com/",
+    "opening_hours": "Mo,We,Fr 08:30-17:30; Tu,Th 08:00-19:00"
+   }
+  },
+  {
+   "id": "way/402278734",
+   "name": "Veterinary Hospital of Virginia Beach",
+   "lat": 36.8439596,
+   "lon": -76.0764446,
+   "distKm": 8.8,
+   "address": "3002 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-340-6996",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/12750721668",
+   "name": "Banfield Pet Hospital",
+   "lat": 36.8421366,
+   "lon": -76.0831285,
+   "distKm": 9.4,
+   "address": "3217 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {
+    "phone": "+1-757-340-8002",
+    "opening_hours": "Mo-Sa 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/8203081376",
+   "name": "Healing with Heart Veterinary Care",
+   "lat": 36.7520541,
+   "lon": -76.0121611,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13414411515",
+   "name": "Coastal Vet Red Mill",
+   "lat": 36.7485519,
+   "lon": -76.0106237,
+   "distKm": 12,
+   "address": "2017 Fisher Arch, Virginia Beach, VA 23456",
+   "tags": {
+    "phone": "+17577345575",
+    "website": "https://www.coastalvetvb.com/",
+    "opening_hours": "08:00-17:00"
+   }
+  },
+  {
+   "id": "node/12646857280",
+   "name": "Bay Beach Veterinary Hospital",
+   "lat": 36.8439063,
+   "lon": -76.1236904,
+   "distKm": 13,
+   "address": "4340 Virginia Beach Boulevard, Virginia Beach, VA 23452",
+   "tags": {}
+  },
+  {
+   "id": "node/3151857074",
+   "name": "Bay Beach Veterinary Emergency Hospital",
+   "lat": 36.7539826,
+   "lon": -76.0658232,
+   "distKm": 13.5,
+   "address": "2476 Nimmo Parkway, Virginia Beach, VA 23456",
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/3151831454",
+   "name": "Abbey Animal Hospital",
+   "lat": 36.7945217,
+   "lon": -76.1199627,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/402480816",
+   "name": "Atlantic Veterinary Center",
+   "lat": 36.7244866,
+   "lon": -76.0170504,
+   "distKm": 14.7,
+   "address": "1804 Princess Anne Road, Virginia Beach, VA 23456",
+   "tags": {
+    "phone": "+1-757-689-5001",
+    "website": "https://theatlanticvet.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/12572223287",
+   "name": "Pet Care Veterinary Hospital",
+   "lat": 36.8471993,
+   "lon": -76.161281,
+   "distKm": 16.3,
+   "address": "5201 Virginia Beach Boulevard, Virginia Beach, VA 23462",
+   "tags": {
+    "phone": "+1-757-473-0111",
+    "website": "https://www.petcarevb.com/",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 07:00-16:00"
+   }
+  }
+ ]
+}

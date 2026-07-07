@@ -1,0 +1,656 @@
+{
+ "$schemaVersion": 1,
+ "city": "brisbane",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:40:49.290Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/9012619657",
+   "name": "Vepalabs",
+   "lat": -27.4769186,
+   "lon": 153.0071309,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7995916500",
+   "name": "West End Veterinary Surgery",
+   "lat": -27.4830477,
+   "lon": 153.0115426,
+   "distKm": 2,
+   "address": null,
+   "tags": {
+    "phone": "+61 7 3846 4700",
+    "website": "https://www.westendvet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-13:00,14:00-18:00"
+   }
+  },
+  {
+   "id": "node/293657160",
+   "name": "The Cat Clinic",
+   "lat": -27.459287,
+   "lon": 153.0054272,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.thecatclinic.com.au/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/6612640138",
+   "name": "Fortude valley vet",
+   "lat": -27.4529057,
+   "lon": 153.0386675,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "phone": "+61 7 3216 0045",
+    "opening_hours": "Mo-Fr 08:30-17:00; Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/3480574059",
+   "name": "Greencross Vets",
+   "lat": -27.4899748,
+   "lon": 153.0373165,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6726765917",
+   "name": "South Brisbane Vet",
+   "lat": -27.4856902,
+   "lon": 153.0064614,
+   "distKm": 2.6,
+   "address": "156 Hardgrave Road, Brisbane, 4101",
+   "tags": {
+    "phone": "+61 7 3846 0043",
+    "opening_hours": "Mo-Fr 08:30-17:30; Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/705724591",
+   "name": "Red Hill Veterinary Clinic",
+   "lat": -27.4542949,
+   "lon": 153.0032745,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {
+    "phone": "+61 7 3369 3444",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/767618602",
+   "name": "Highate Hill Veterinary Surgery",
+   "lat": -27.4982052,
+   "lon": 153.0279455,
+   "distKm": 3.2,
+   "address": "184 Annerley Road",
+   "tags": {}
+  },
+  {
+   "id": "node/13159712857",
+   "name": "Greencross Vets",
+   "lat": -27.4375984,
+   "lon": 153.0231603,
+   "distKm": 3.6,
+   "address": "142 Newmarket Road, QLD 4030",
+   "tags": {
+    "phone": "+61 7 3741 3333",
+    "website": "https://www.greencrossvets.com.au/vets/windsor/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/347773514",
+   "name": "Wilston Vet",
+   "lat": -27.4379121,
+   "lon": 153.0282806,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/199782992",
+   "name": "Stones Corner Veterinary Surgery",
+   "lat": -27.4992777,
+   "lon": 153.0418069,
+   "distKm": 3.7,
+   "address": "28 Junction Street, QLD 4102",
+   "tags": {
+    "website": "https://www.scvets.com.au/"
+   }
+  },
+  {
+   "id": "way/245433791",
+   "name": "Greenslopes WebVet",
+   "lat": -27.498776,
+   "lon": 153.0440204,
+   "distKm": 3.7,
+   "address": "303 Logan Road, Brisbane, 4120",
+   "tags": {}
+  },
+  {
+   "id": "way/778736470",
+   "name": "VetLove Bardon",
+   "lat": -27.4671031,
+   "lon": 152.9868558,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/519471419",
+   "name": "Vets in the Village",
+   "lat": -27.5021835,
+   "lon": 153.0066938,
+   "distKm": 4,
+   "address": "245 Hawken Drive",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/7736429386",
+   "name": "Taringa Veterinary Surgery",
+   "lat": -27.4904801,
+   "lon": 152.9873221,
+   "distKm": 4.4,
+   "address": "39 Campbell Street, Brisbane, 4066",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/1091977018",
+   "name": "VetLove Ashgrove",
+   "lat": -27.4458616,
+   "lon": 152.9869336,
+   "distKm": 4.6,
+   "address": "337 Waterworks Road, QLD 4060",
+   "tags": {
+    "website": "https://vetlove.com.au/location/vetlove-ashgrove/"
+   }
+  },
+  {
+   "id": "node/12114045969",
+   "name": "Lance Heyden Vet Clinic",
+   "lat": -27.5004202,
+   "lon": 152.9923196,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "way/105568629",
+   "name": "Yeronga Vet",
+   "lat": -27.5118345,
+   "lon": 153.022704,
+   "distKm": 4.7,
+   "address": "17 Railway Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/543898359",
+   "name": "Albion Veterinary Surgery",
+   "lat": -27.4290972,
+   "lon": 153.0372045,
+   "distKm": 4.7,
+   "address": "97 Albion Road, 4010",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/12026969059",
+   "name": "Value Care Vet Clinic",
+   "lat": -27.4930123,
+   "lon": 152.9778396,
+   "distKm": 5.3,
+   "address": "211 Moggill Road, QLD 4068",
+   "tags": {
+    "website": "https://www.valuecarevetclinic.com.au",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/1368606914",
+   "name": "Lutwyche Vet Surgery",
+   "lat": -27.4216001,
+   "lon": 153.0373322,
+   "distKm": 5.5,
+   "address": "79 Chalk Street, 4030",
+   "tags": {
+    "opening_hours": "Mo,We,Fr 08:30-17:00; Sa 09:00-12:00; Su 10:00-14:00; Tu,Th 08:30-17:30"
+   }
+  },
+  {
+   "id": "way/1007780621",
+   "name": "Alderley Enoggera Veterinary Practice",
+   "lat": -27.4243001,
+   "lon": 153.0011268,
+   "distKm": 5.6,
+   "address": "127 Alderley Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/12310561152",
+   "name": "Vets on the River",
+   "lat": -27.5239042,
+   "lon": 153.0121916,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-17:30; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "way/960996871",
+   "name": "Wooloowin Animal Hospital",
+   "lat": -27.4140655,
+   "lon": 153.0426043,
+   "distKm": 6.4,
+   "address": "86 Kent Road, Brisbane, QLD 4030",
+   "tags": {
+    "website": "https://www.wooloowinanimalhospital.com.au"
+   }
+  },
+  {
+   "id": "node/5602017747",
+   "name": "The Cat Clinic.com.au",
+   "lat": -27.4149477,
+   "lon": 153.0486958,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11092838513",
+   "name": "Pawprint Veterinary Practice",
+   "lat": -27.410729,
+   "lon": 153.0202592,
+   "distKm": 6.6,
+   "address": "267 Stafford Road, QLD 4053",
+   "tags": {
+    "phone": "+61 7 3352 3606",
+    "website": "https://pawprintvet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/156397125",
+   "name": "Greencross Vets",
+   "lat": -27.5303969,
+   "lon": 153.0234216,
+   "distKm": 6.7,
+   "address": "111 Beaudesert Road, Brisbane, QLD 4105",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "way/547182236",
+   "name": "Indooroopilly Vet",
+   "lat": -27.5007442,
+   "lon": 152.9658893,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1181209806",
+   "name": "Tarragindi Veterinary Surgery",
+   "lat": -27.526199,
+   "lon": 153.0553193,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/336219431",
+   "name": "Kedron Veterinary Clinic",
+   "lat": -27.4075309,
+   "lon": 153.0347241,
+   "distKm": 7,
+   "address": "75 Leckie Road, Brisbane, QLD 4031",
+   "tags": {
+    "phone": "+61 7 3857 1785",
+    "website": "https://kedronvet.com.au",
+    "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/12876772646",
+   "name": "Kalinga Park Veterinary Surgery",
+   "lat": -27.4079477,
+   "lon": 153.0470491,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/389631260",
+   "name": "Eagle Farm Equine Veterinary Hospital",
+   "lat": -27.4205974,
+   "lon": 153.0776189,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9919244212",
+   "name": "Greencross Vets",
+   "lat": -27.5314193,
+   "lon": 153.0742797,
+   "distKm": 8.4,
+   "address": "1290 Logan Road, QLD 4122",
+   "tags": {}
+  },
+  {
+   "id": "node/12843459608",
+   "name": "My Own Vet",
+   "lat": -27.5454709,
+   "lon": 153.032608,
+   "distKm": 8.4,
+   "address": "233 Evans Road",
+   "tags": {
+    "phone": "+61 7 3277 6594",
+    "website": "https://myownvet.com.au/",
+    "opening_hours": "Mo-Sa 08:00-18:00; Su 08:00-13:00; PH \"by appointment\""
+   }
+  },
+  {
+   "id": "node/13140452347",
+   "name": "Greencross Vets",
+   "lat": -27.3944764,
+   "lon": 153.0313194,
+   "distKm": 8.4,
+   "address": "561 Gympie Road (Inside Petbarn), QLD 4031",
+   "tags": {
+    "phone": "+61 7 3350 1333",
+    "website": "https://www.greencrossvets.com.au/vets/kedron/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/317112844",
+   "name": "The Gap Vet Surgery",
+   "lat": -27.4435798,
+   "lon": 152.9445044,
+   "distKm": 8.5,
+   "address": "1104 Waterworks Road, Brisbane, QLD 4061",
+   "tags": {
+    "phone": "+61 7 3300 1533",
+    "website": "https://www.thegapvet.com.au"
+   }
+  },
+  {
+   "id": "node/5395026628",
+   "name": "Greencross Vets",
+   "lat": -27.5090113,
+   "lon": 152.9472975,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/512825325",
+   "name": "Nundah Village Vet",
+   "lat": -27.3949337,
+   "lon": 153.0594548,
+   "distKm": 9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/454719488",
+   "name": "Good Boy Veterinary Clinic",
+   "lat": -27.4098243,
+   "lon": 152.958846,
+   "distKm": 9.3,
+   "address": "65 Gilston Street, QLD 4054",
+   "tags": {}
+  },
+  {
+   "id": "way/1416657200",
+   "name": "The Unusual Pet Vets Chermside",
+   "lat": -27.3878718,
+   "lon": 153.0425242,
+   "distKm": 9.3,
+   "address": "248 Hamilton Road, Brisbane, QLD 4032",
+   "tags": {
+    "website": "https://www.unusualpetvets.com.au/contact-us/chermside-clinic/"
+   }
+  },
+  {
+   "id": "node/4968240597",
+   "name": "Tailored Paws",
+   "lat": -27.5093155,
+   "lon": 152.937657,
+   "distKm": 9.7,
+   "address": "2095 Moggill Road, 4069",
+   "tags": {}
+  },
+  {
+   "id": "node/9470308714",
+   "name": "The Cat Clinic",
+   "lat": -27.5354598,
+   "lon": 153.0894544,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {
+    "phone": "+61 7 3349 0811",
+    "website": "https://thecatclinic.com.au/",
+    "opening_hours": "Mo-Fr 07:00-19:00, Sa 08:00-16:00, Su 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/11090780374",
+   "name": "Healthy Vet Behaviour Services",
+   "lat": -27.398444,
+   "lon": 152.9605268,
+   "distKm": 10.2,
+   "address": "1 Patricks Road, QLD 4054",
+   "tags": {
+    "phone": "+61 7 3569 6830",
+    "website": "https://www.healthypetbehaviourvet.com.au/",
+    "opening_hours": "Mo-Th 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/12621423921",
+   "name": "Animal Emergency Service",
+   "lat": -27.5347104,
+   "lon": 152.9488056,
+   "distKm": 10.4,
+   "address": "34 Goggs Road, QLD 4074",
+   "tags": {
+    "phone": "+61 7 3715 9999",
+    "website": "https://animalemergencyservice.com.au/info/jindalee-emergency-vet/"
+   }
+  },
+  {
+   "id": "node/12621423922",
+   "name": "Veterinary Specialist Services",
+   "lat": -27.5347037,
+   "lon": 152.9487555,
+   "distKm": 10.4,
+   "address": "34 Goggs Road, QLD 4074",
+   "tags": {
+    "phone": "+61 7 3193 6500",
+    "website": "https://www.vss.net.au/jindalee-hospital.html",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "way/684893996",
+   "name": "Arana Hills Veterinary Clinic",
+   "lat": -27.3968542,
+   "lon": 152.9597592,
+   "distKm": 10.4,
+   "address": "18 Nepean Street",
+   "tags": {}
+  },
+  {
+   "id": "node/12803378372",
+   "name": "The Unusual Pet Vets Jindalee",
+   "lat": -27.5323365,
+   "lon": 152.9414249,
+   "distKm": 10.8,
+   "address": "62 Looranah Street, QLD 4074",
+   "tags": {
+    "phone": "+61 7 2104 9499"
+   }
+  },
+  {
+   "id": "node/9919260006",
+   "name": "Greencross Vets",
+   "lat": -27.5470215,
+   "lon": 153.0926099,
+   "distKm": 10.9,
+   "address": "224 Wishart Road",
+   "tags": {}
+  },
+  {
+   "id": "node/12688788309",
+   "name": "Virginia Family Vet",
+   "lat": -27.376367,
+   "lon": 153.0620005,
+   "distKm": 11,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10694430324",
+   "name": "Our Vet",
+   "lat": -27.5629584,
+   "lon": 153.0731723,
+   "distKm": 11.4,
+   "address": "587 Kessels Road",
+   "tags": {
+    "phone": "+61 7 3420 2855",
+    "website": "https://www.bestfriendspets.com.au/services/our-vet",
+    "opening_hours": "Mo-Fr 09:00-17:30; Th 09:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/1072859800",
+   "name": "Greencross Vets",
+   "lat": -27.5620766,
+   "lon": 153.0750895,
+   "distKm": 11.4,
+   "address": "2 Springfield Street",
+   "tags": {}
+  },
+  {
+   "id": "node/6235359110",
+   "name": "Mt Gravatt Veterinary Clinic",
+   "lat": -27.5456811,
+   "lon": 153.1044323,
+   "distKm": 11.5,
+   "address": "181 Ham Road, QLD 4122",
+   "tags": {
+    "phone": "+61 7 3349 9033",
+    "website": "https://mtgravattvet.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "way/33113167",
+   "name": "Banyo Veterinary Surgery",
+   "lat": -27.3756635,
+   "lon": 153.0764099,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1069116760",
+   "name": "Ferny Hills Vet Surgery",
+   "lat": -27.3997521,
+   "lon": 152.9383971,
+   "distKm": 11.6,
+   "address": "9 Mawarra Crescent, QLD 4055",
+   "tags": {
+    "phone": "+61 7 3506 1125",
+    "website": "https://www.fernyhillsvet.com.au/",
+    "opening_hours": "Mo,Tu,Th,Fr 07:30-18:00; Sa 08:00-12:30; We off"
+   }
+  },
+  {
+   "id": "way/1351987060",
+   "name": "Ferny Grove Veternary Clinic",
+   "lat": -27.4048131,
+   "lon": 152.9317661,
+   "distKm": 11.7,
+   "address": "47 McGinn Road, QLD 4055",
+   "tags": {
+    "website": "https://www.fernygrovevet.com.au/"
+   }
+  },
+  {
+   "id": "node/13531537884",
+   "name": "My Family Vet Upper Kedron",
+   "lat": -27.4185972,
+   "lon": 152.9206601,
+   "distKm": 11.8,
+   "address": "141 Canvey Road, QLD 4055",
+   "tags": {}
+  },
+  {
+   "id": "way/526335929",
+   "name": "Brookfield Veterinary Surgery",
+   "lat": -27.4954829,
+   "lon": 152.9091785,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {
+    "phone": "+61 7 3374 1477",
+    "website": "https://brookfieldvet.com.au/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/12863857209",
+   "name": "Vetkind Vets Ferny Hills",
+   "lat": -27.3843049,
+   "lon": 152.9428405,
+   "distKm": 12.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo 08:00-19:00, Tu-Fr 08:00-18:00, Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/6213015901",
+   "name": "Aspley Veterinary Practice",
+   "lat": -27.3569569,
+   "lon": 153.020214,
+   "distKm": 12.6,
+   "address": "758 Zillmere Road, Brisbane, QLD 4034",
+   "tags": {
+    "website": "https://www.vetwell.com.au/aspley/"
+   }
+  },
+  {
+   "id": "node/4857368600",
+   "name": "SuperVets",
+   "lat": -27.4676105,
+   "lon": 153.1538872,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

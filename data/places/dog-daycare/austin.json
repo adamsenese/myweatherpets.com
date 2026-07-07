@@ -1,0 +1,110 @@
+{
+ "$schemaVersion": 1,
+ "city": "austin",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:22:40.402Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/881151017",
+   "name": "Barking Hound Village",
+   "lat": 30.2617361,
+   "lon": -97.7591302,
+   "distKm": 1.7,
+   "address": "412 Josephine Street, Austin, TX 78704",
+   "tags": {
+    "phone": "+1-512-477-3647",
+    "website": "https://bhvaustin.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1453965277",
+   "name": "Doggie Howser Pet Social Club",
+   "lat": 30.2570921,
+   "lon": -97.7130804,
+   "distKm": 3.1,
+   "address": "2611 East 5th Street, Austin, TX 78702",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/382444387",
+   "name": "Southpaws Playschool",
+   "lat": 30.247005,
+   "lon": -97.774184,
+   "distKm": 3.7,
+   "address": "2235 South Lamar Boulevard",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/384254398",
+   "name": "Austin Dogtown Boarding & Daycare",
+   "lat": 30.2261641,
+   "lon": -97.7536515,
+   "distKm": 4.7,
+   "address": "537 Woodward Street, Austin, TX 78704",
+   "tags": {
+    "phone": "+1-512-535-4244",
+    "website": "https://www.dogtownaustin.com/",
+    "opening_hours": "Mo-Fr 07:00-10:00,16:00-18:30 open \"Drop-off/Pick-up Hours\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/699065073",
+   "name": "Bark & Zoom",
+   "lat": 30.2133781,
+   "lon": -97.6570438,
+   "distKm": 10.2,
+   "address": "2601 Cardinal Loop, 78617",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1022777836",
+   "name": "Crackerdog",
+   "lat": 30.3173273,
+   "lon": -97.8624098,
+   "distKm": 12.7,
+   "address": "8907 Bee Caves Road, Austin, TX 78746",
+   "tags": {
+    "phone": "+1-512-263-1114",
+    "website": "http://www.crackerdogcare.com/",
+    "opening_hours": "Mo-Sa 08:00-12:00,17:00-20:00; Su 17:00-20:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/6080106844",
+   "name": "Pups And Pals",
+   "lat": 30.2301041,
+   "lon": -97.8923576,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12988996702",
+   "name": "Taurus Academy",
+   "lat": 30.4114377,
+   "lon": -97.6916485,
+   "distKm": 16.8,
+   "address": "12419 Metric Boulevard, Austin, TX 78758",
+   "tags": {
+    "phone": "+1-737-242-2381; +1-855-955-5185",
+    "website": "https://www.taurusacademy.com/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 08:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "$schemaVersion": 1,
+ "city": "tampa",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:30:52.590Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 50,
+ "places": [
+  {
+   "id": "way/905635959",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9495481,
+   "lon": -82.4635086,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/761871972",
+   "name": "Julian B. Lane Riverfront Park - Dog Park",
+   "lat": 27.9549343,
+   "lon": -82.4655931,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/923434447",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9516773,
+   "lon": -82.4469514,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/923586976",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9483174,
+   "lon": -82.4470113,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1043476112",
+   "name": "Deputy Kotfila Memorial Dog Park",
+   "lat": 27.9539468,
+   "lon": -82.4482531,
+   "distKm": 1,
+   "address": "626 North Raymond Avenue",
+   "tags": {
+    "website": "https://www.tampa-xway.com/community-enhancement/selmon-greenway/deputy-kotfila-memorial-dog-park/"
+   }
+  },
+  {
+   "id": "relation/12408190",
+   "name": "Water Works Dog Park",
+   "lat": 27.9585655,
+   "lon": -82.4628031,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1043598200",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9461737,
+   "lon": -82.4470519,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1390454858",
+   "name": "4th and Angel Dog Park",
+   "lat": 27.9583277,
+   "lon": -82.4390605,
+   "distKm": 2,
+   "address": "1802 East 4th Avenue, Tampa, FL 33605",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/449094894",
+   "name": "Pups Pub",
+   "lat": 27.944519,
+   "lon": -82.482158,
+   "distKm": 2.5,
+   "address": "2202 Kennedy Boulevard, Tampa",
+   "tags": {
+    "dog": "unleashed",
+    "website": "https://www.pupspub.com"
+   }
+  },
+  {
+   "id": "node/12485295632",
+   "name": "Central Park Brewing",
+   "lat": 27.9561707,
+   "lon": -82.4298454,
+   "distKm": 2.8,
+   "address": "2601 East 2nd Avenue, Tampa, FL 33605",
+   "tags": {}
+  },
+  {
+   "id": "way/36255518",
+   "name": "Bay Paws Ybor",
+   "lat": 27.9562925,
+   "lon": -82.4232452,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/277417271",
+   "name": "Palma Ceia Dog Park",
+   "lat": 27.9248256,
+   "lon": -82.4900744,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/28940097",
+   "name": "Davis Islands Dog Beach",
+   "lat": 27.9125062,
+   "lon": -82.4460232,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/28938150",
+   "name": "Davis Islands Dog Park",
+   "lat": 27.9097025,
+   "lon": -82.4462442,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/742317202",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9567404,
+   "lon": -82.513275,
+   "distKm": 5.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/722049140",
+   "name": "James Urbanski Dog Park",
+   "lat": 27.9883168,
+   "lon": -82.5042911,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1309471719",
+   "name": "M South Dog Park",
+   "lat": 27.8903054,
+   "lon": -82.5168886,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/570578548",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.8650852,
+   "lon": -82.4977095,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "chain_link"
+   }
+  },
+  {
+   "id": "way/659437624",
+   "name": "Mainsail Dog Park",
+   "lat": 27.9934779,
+   "lon": -82.5499854,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/967670254",
+   "name": "Bowery Bayside Dog Park",
+   "lat": 27.8739019,
+   "lon": -82.5275478,
+   "distKm": 11,
+   "address": null,
+   "tags": {
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "node/8191779965",
+   "name": "Palms at Magnolia Park Dog Park",
+   "lat": 27.8958284,
+   "lon": -82.3537375,
+   "distKm": 11.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1036112855",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9266283,
+   "lon": -82.3347153,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1039182045",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9250052,
+   "lon": -82.3355726,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/995732384",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9646405,
+   "lon": -82.3218874,
+   "distKm": 13.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/969657378",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9297302,
+   "lon": -82.322257,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469607341",
+   "name": "Picnic Island Dog Beach",
+   "lat": 27.856598,
+   "lon": -82.5517856,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/365208940",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.0362742,
+   "lon": -82.3457177,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/962330623",
+   "name": "Lakewood Ridge Community Dog Park",
+   "lat": 27.9454911,
+   "lon": -82.3063892,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "access": "permissive"
+   }
+  },
+  {
+   "id": "way/1093028134",
+   "name": "Carrollwood Village Park Dog Parks",
+   "lat": 28.0701969,
+   "lon": -82.523067,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9314850809",
+   "name": "Northwest Dog Park",
+   "lat": 28.0284373,
+   "lon": -82.5837563,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/960851516",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9244863,
+   "lon": -82.3060294,
+   "distKm": 15.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9314850808",
+   "name": "Northwest Dog Park",
+   "lat": 28.0277123,
+   "lon": -82.5863858,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1111535291",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9324791,
+   "lon": -82.3013298,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1041472450",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9311459,
+   "lon": -82.3000126,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/942044356",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9213208,
+   "lon": -82.3007926,
+   "distKm": 15.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/469206685",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.0911391,
+   "lon": -82.4273079,
+   "distKm": 15.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/674326087",
+   "name": "Mango Dog Park",
+   "lat": 27.9879903,
+   "lon": -82.3011391,
+   "distKm": 15.9,
+   "address": "11717 Clay Pit Road, Seffner, FL 33584",
+   "tags": {
+    "barrier": "fence",
+    "website": "https://hcfl.gov/locations/mango-dog-park",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "id": "way/651622365",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.0598412,
+   "lon": -82.5625586,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1105625279",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.0871127,
+   "lon": -82.5114969,
+   "distKm": 16.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/650719992",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.0717719,
+   "lon": -82.5506768,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1175142900",
+   "name": "The Palms at Palasades Dog Park",
+   "lat": 27.9459609,
+   "lon": -82.2851388,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1039181702",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.927604,
+   "lon": -82.286143,
+   "distKm": 17,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/58751078",
+   "name": "Seven Lakes Bark Park",
+   "lat": 28.1033874,
+   "lon": -82.4989178,
+   "distKm": 17.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/733386328",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.102754,
+   "lon": -82.5091102,
+   "distKm": 17.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/791120863",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.1069869,
+   "lon": -82.5005342,
+   "distKm": 17.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9904882802",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 27.9162192,
+   "lon": -82.277093,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/791120866",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.1068897,
+   "lon": -82.5092225,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1521819219",
+   "name": "Saladino Dog Park",
+   "lat": 27.9166233,
+   "lon": -82.2766493,
+   "distKm": 18.1,
+   "address": "1705 Bryan Road, Brandon, FL 33511",
+   "tags": {
+    "access": "yes",
+    "website": "https://hcfl.gov/locations/saladino-dog-park"
+   }
+  },
+  {
+   "id": "way/659441821",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.0222894,
+   "lon": -82.6235219,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/473619759",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 28.127425,
+   "lon": -82.4211576,
+   "distKm": 20,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

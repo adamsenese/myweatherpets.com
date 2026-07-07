@@ -1,0 +1,272 @@
+{
+ "$schemaVersion": 1,
+ "city": "des-moines",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:34:36.892Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 23,
+ "places": [
+  {
+   "id": "node/9443984799",
+   "name": "Jett and Monkey's",
+   "lat": 41.5899272,
+   "lon": -93.6140536,
+   "distKm": 1,
+   "address": "219 East Grand Avenue, Des Moines, IA 50309",
+   "tags": {
+    "phone": "+1-515-244-4211",
+    "website": "https://www.jettandmonkey.com/"
+   }
+  },
+  {
+   "id": "node/3013035837",
+   "name": "Smitten Kitten",
+   "lat": 41.5861693,
+   "lon": -93.6543361,
+   "distKm": 2.4,
+   "address": "549 28th Street, Des Moines, 50312",
+   "tags": {
+    "phone": "+1-515-333-4620",
+    "website": "https://www.desmoinesgroomer.com/",
+    "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/3047991686",
+   "name": "Bone-A-Patreat",
+   "lat": 41.5997008,
+   "lon": -93.6736321,
+   "distKm": 4.3,
+   "address": "4110 University Avenue, Des Moines, 50311",
+   "tags": {
+    "phone": "+1-515-279-2544",
+    "website": "https://www.boneapatreat.com/",
+    "opening_hours": "Mo-Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/12686464470",
+   "name": "Pet Supplies Plus",
+   "lat": 41.5462721,
+   "lon": -93.6435337,
+   "distKm": 4.8,
+   "address": "4211 Fleur Drive, Des Moines, IA 50321",
+   "tags": {
+    "phone": "+1-515-285-9285",
+    "website": "https://www.petsuppliesplus.com/store/ia/des-moines/4096-des-moines/4096",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "way/107339483",
+   "name": "PetSmart",
+   "lat": 41.5368392,
+   "lon": -93.5983206,
+   "distKm": 6,
+   "address": "5050 Southeast 14th Street, Des Moines, IA 50320",
+   "tags": {
+    "phone": "+1 515-256-0691",
+    "website": "https://www.petsmart.com/stores/us/ia/des-moines-store1678.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/11711840243",
+   "name": "Petco",
+   "lat": 41.5251457,
+   "lon": -93.5977171,
+   "distKm": 7.2,
+   "address": "1311 East Army Post Road, Des Moines, IA 50315",
+   "tags": {
+    "phone": "+1 515-287-9995",
+    "website": "https://stores.petco.com/ia/desmoines/pet-supplies-desmoines-ia-631.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3363532094",
+   "name": "Shear Pawfection",
+   "lat": 41.5712175,
+   "lon": -93.7097525,
+   "distKm": 7.3,
+   "address": "517 Maple Street, West Des Moines, 50265",
+   "tags": {}
+  },
+  {
+   "id": "way/108534253",
+   "name": "All Breed Dog Grooming",
+   "lat": 41.6152394,
+   "lon": -93.7078937,
+   "distKm": 7.6,
+   "address": "6503 Hickman Road, 50322",
+   "tags": {}
+  },
+  {
+   "id": "way/61512226",
+   "name": "Petco",
+   "lat": 41.5983282,
+   "lon": -93.7197107,
+   "distKm": 8,
+   "address": "7333 Buffalo Road, Clive, IA 50324",
+   "tags": {
+    "phone": "+1 515-223-7785",
+    "website": "https://stores.petco.com/ia/clive/pet-supplies-clive-ia-617.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3037686073",
+   "name": "Iowa Pet Foods & Seascapes",
+   "lat": 41.595455,
+   "lon": -93.7380979,
+   "distKm": 9.5,
+   "address": "1500 22nd Street, West Des Moines, 50266",
+   "tags": {}
+  },
+  {
+   "id": "node/3648051808",
+   "name": "Groomers Inc.",
+   "lat": 41.6082853,
+   "lon": -93.7374739,
+   "distKm": 9.7,
+   "address": "1800 Northwest 86th Street, Clive, 50325",
+   "tags": {}
+  },
+  {
+   "id": "node/4103953469",
+   "name": "Klise Dog Grooming",
+   "lat": 41.6594782,
+   "lon": -93.6984084,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4103953455",
+   "name": "Aqua Oasis",
+   "lat": 41.6601655,
+   "lon": -93.6983833,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2331493450",
+   "name": "The Barking Lot",
+   "lat": 41.6255713,
+   "lon": -93.7538585,
+   "distKm": 11.5,
+   "address": "3235 99th Street, Urbandale, 50322",
+   "tags": {
+    "phone": "+1-515-331-4628",
+    "website": "https://barkinglotdm.com/"
+   }
+  },
+  {
+   "id": "node/5373736150",
+   "name": "Bone a Petreat",
+   "lat": 41.6459451,
+   "lon": -93.5074988,
+   "distKm": 11.8,
+   "address": "550 36th Avenue Southwest, Altoona, IA 50009",
+   "tags": {
+    "phone": "+1-515-348-7088"
+   }
+  },
+  {
+   "id": "node/3036341294",
+   "name": "PetSmart",
+   "lat": 41.6017503,
+   "lon": -93.7695976,
+   "distKm": 12.1,
+   "address": "11101 University Avenue, Clive, IA 50325",
+   "tags": {
+    "phone": "+1 515-221-2295",
+    "website": "https://www.petsmart.com/stores/us/ia/clive-store1133.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3269138753",
+   "name": "Three Dog Bakery",
+   "lat": 41.5603239,
+   "lon": -93.7704034,
+   "distKm": 12.4,
+   "address": "650 South 50th Street, West Des Moines, 50266",
+   "tags": {}
+  },
+  {
+   "id": "node/12243887303",
+   "name": "PetSmart",
+   "lat": 41.7123483,
+   "lon": -93.5780883,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1363961422",
+   "name": "Pet Supplies Plus",
+   "lat": 41.6434137,
+   "lon": -93.4634904,
+   "distKm": 14.8,
+   "address": "120 8th Street Southeast, Altoona, IA 50009",
+   "tags": {
+    "phone": "+1 515-967-0482",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/3036227196",
+   "name": "Petco",
+   "lat": 41.5634654,
+   "lon": -93.801092,
+   "distKm": 14.9,
+   "address": "6805 Mills Civic Parkway, West Des Moines, IA 50266",
+   "tags": {
+    "phone": "+1 515-223-8580",
+    "website": "https://stores.petco.com/ia/westdesmoines/pet-supplies-westdesmoines-ia-1623.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/617266370",
+   "name": "Dogwoods Lodge",
+   "lat": 41.6643389,
+   "lon": -93.7763546,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/132832510",
+   "name": "4 Paws Unleashed",
+   "lat": 41.615555,
+   "lon": -93.8303852,
+   "distKm": 17.4,
+   "address": "15303 Hickman Road, 50325",
+   "tags": {}
+  },
+  {
+   "id": "node/4704748198",
+   "name": "Bone-A-Patreat",
+   "lat": 41.5993938,
+   "lon": -93.8341953,
+   "distKm": 17.5,
+   "address": "9250 University Avenue, West Des Moines, 50266",
+   "tags": {
+    "website": "https://www.boneapatreat.com/"
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "$schemaVersion": 1,
+ "city": "des-moines",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:34:36.892Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 4,
+ "places": [
+  {
+   "id": "way/1034279792",
+   "name": "Downtown Doggy Daycare",
+   "lat": 41.5824434,
+   "lon": -93.6045558,
+   "distKm": 1.8,
+   "address": "724 Scott Avenue, Des Moines, IA 50309",
+   "tags": {
+    "website": "https://www.dmdoggy.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/557558411",
+   "name": "4 Paws Unleashed",
+   "lat": 41.6566226,
+   "lon": -93.6014569,
+   "distKm": 8,
+   "address": "5278 Northeast 14th Street, Des Moines, IA 50313",
+   "tags": {
+    "phone": "+1-515-289-0626",
+    "website": "https://4pawsunleashed.com",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-10:00,16:00-18:00; Su 16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13943326277",
+   "name": "Canine Craze Performance Center",
+   "lat": 41.6241838,
+   "lon": -93.7601085,
+   "distKm": 12,
+   "address": "3101 104th St, Urbandale, IA 50322",
+   "tags": {
+    "phone": "+1 515-222-1112",
+    "website": "https://www.caninecraze.com/",
+    "opening_hours": "Su 08:00-16:00, Mo-Th 07:00-17:30, Fr 08:00-12:00, Sa 08:00-16:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1330762806",
+   "name": "Wags Pet Resort",
+   "lat": 41.7166913,
+   "lon": -93.6224591,
+   "distKm": 14.4,
+   "address": "1650 Southwest Magazine Road, Ankeny, IA 50023",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,667 @@
+{
+ "$schemaVersion": 1,
+ "city": "melbourne",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:40:36.898Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/13010526866",
+   "name": "League Of Pets",
+   "lat": -37.8099037,
+   "lon": 144.9592573,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2274577257",
+   "name": "Upmarket Pets",
+   "lat": -37.8083013,
+   "lon": 144.9581236,
+   "distKm": 0.7,
+   "address": "440 Queen Street",
+   "tags": {
+    "phone": "+61 3 9600 9120",
+    "website": "http://upmarketpets.com/",
+    "opening_hours": "Mo-Tu 07:00-17:00; We 08:00-18:00; Th 07:00-17:00; Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/4740799238",
+   "name": "The Paw Principality",
+   "lat": -37.8037065,
+   "lon": 144.9497342,
+   "distKm": 1.6,
+   "address": "60 Errol Street, VIC 3051",
+   "tags": {
+    "opening_hours": "Mo-Tu 10:00-17:00; We-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-16:00; PH off"
+   }
+  },
+  {
+   "id": "way/132391805",
+   "name": "My Pet Warehouse",
+   "lat": -37.8285084,
+   "lon": 144.9618185,
+   "distKm": 1.7,
+   "address": "65-79 Moray Street",
+   "tags": {
+    "phone": "+61 3 8199 9999",
+    "website": "https://www.mypetwarehouse.com.au/"
+   }
+  },
+  {
+   "id": "node/323355702",
+   "name": "Petbarn",
+   "lat": -37.7982994,
+   "lon": 144.9768502,
+   "distKm": 2.1,
+   "address": "62 Johnston Street",
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/12511106583",
+   "name": "Pets Love Me",
+   "lat": -37.8149047,
+   "lon": 144.9384301,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Tu-Su 10:30-18:30; Mo closed; PH closed"
+   }
+  },
+  {
+   "id": "node/2029634255",
+   "name": "PawPular",
+   "lat": -37.8019846,
+   "lon": 144.9844554,
+   "distKm": 2.3,
+   "address": "6 Stanley Street, VIC 3066",
+   "tags": {
+    "phone": "+61 3 9334 5038",
+    "website": "https://pikapet.com.au"
+   }
+  },
+  {
+   "id": "node/13648797055",
+   "name": "Petstock",
+   "lat": -37.7987169,
+   "lon": 144.9810073,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "way/231989411",
+   "name": "Upmarket Pets",
+   "lat": -37.8043383,
+   "lon": 144.9916306,
+   "distKm": 2.7,
+   "address": "4 Hood Street",
+   "tags": {
+    "phone": "+61 3 9600 9120",
+    "website": "https://upmarketpets.com.au"
+   }
+  },
+  {
+   "id": "way/844441756",
+   "name": "Yap",
+   "lat": -37.8411058,
+   "lon": 144.9532239,
+   "distKm": 3.2,
+   "address": "61 Cardigan Place",
+   "tags": {}
+  },
+  {
+   "id": "node/2633263549",
+   "name": "Subscape Aquarium",
+   "lat": -37.8109766,
+   "lon": 145.0017336,
+   "distKm": 3.4,
+   "address": "310 Victoria Street, 3121",
+   "tags": {
+    "website": "http://www.subscape.com.au/"
+   }
+  },
+  {
+   "id": "node/3529503405",
+   "name": "Petbarn",
+   "lat": -37.8321664,
+   "lon": 144.9969282,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/13695102054",
+   "name": "Hound",
+   "lat": -37.8196236,
+   "lon": 145.0079528,
+   "distKm": 4,
+   "address": "488 Bridge Road, VIC 3121",
+   "tags": {}
+  },
+  {
+   "id": "node/2235608372",
+   "name": "Pets Paradise",
+   "lat": -37.812246,
+   "lon": 145.01099,
+   "distKm": 4.2,
+   "address": null,
+   "tags": {
+    "phone": "+61 3 9421 6174",
+    "website": "https://www.petsparadise.com.au/"
+   }
+  },
+  {
+   "id": "node/12557825100",
+   "name": "Petbarn",
+   "lat": -37.7749201,
+   "lon": 144.9639216,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 09:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/1258944020",
+   "name": "Petbarn",
+   "lat": -37.8461308,
+   "lon": 144.990277,
+   "distKm": 4.3,
+   "address": "121 Commercial Road, 3141",
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/3009770712",
+   "name": "Ascot Pet",
+   "lat": -37.7871989,
+   "lon": 144.9222878,
+   "distKm": 4.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6989600889",
+   "name": "Pitter Patter Paws",
+   "lat": -37.7871423,
+   "lon": 144.9215958,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/6744765529",
+   "name": "My Pet Warehouse",
+   "lat": -37.7703204,
+   "lon": 144.9986572,
+   "distKm": 5.7,
+   "address": "345-347 High Street",
+   "tags": {}
+  },
+  {
+   "id": "node/3106352729",
+   "name": "Nelly's Ark",
+   "lat": -37.7683182,
+   "lon": 145.0022663,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5591497467",
+   "name": "Nelly's Ark",
+   "lat": -37.7773035,
+   "lon": 145.0186044,
+   "distKm": 6.3,
+   "address": "125 Station Street, VIC 3078",
+   "tags": {
+    "phone": "+61 3 9486 5859",
+    "website": "https://www.nellysark.com.au/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/6919931237",
+   "name": "Bark Road",
+   "lat": -37.7575383,
+   "lon": 144.9745825,
+   "distKm": 6.3,
+   "address": "79 Holmes Street",
+   "tags": {
+    "website": "https://barkroad.com.au/"
+   }
+  },
+  {
+   "id": "way/1358334834",
+   "name": "Petstock",
+   "lat": -37.811768,
+   "lon": 144.8898213,
+   "distKm": 6.4,
+   "address": "107 Gamon Street, 3013",
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/7965635831",
+   "name": "Paws Express",
+   "lat": -37.7645861,
+   "lon": 144.9215256,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5306141839",
+   "name": "Simply Stylish Pet Grooming Salon",
+   "lat": -37.7958224,
+   "lon": 145.0357451,
+   "distKm": 6.7,
+   "address": "87 Willsmere Road, VIC 3101",
+   "tags": {
+    "website": "https://simplystylishdog.wixsite.com/home",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:30"
+   }
+  },
+  {
+   "id": "way/540657140",
+   "name": "E & A Salce",
+   "lat": -37.7612666,
+   "lon": 144.9998192,
+   "distKm": 6.7,
+   "address": "647 High Street, VIC 3071",
+   "tags": {
+    "phone": "+61 3 9484 3805",
+    "website": "https://www.salce.com.au/",
+    "opening_hours": "Mo-Fr 08:00-17:30; Sa 08:00-15:30; Su off"
+   }
+  },
+  {
+   "id": "way/617284730",
+   "name": "The Saltiest Dog",
+   "lat": -37.7575377,
+   "lon": 145.0004638,
+   "distKm": 7,
+   "address": "763a High Street, VIC 3071",
+   "tags": {
+    "website": "https://the-saltiest-dog.com.au/"
+   }
+  },
+  {
+   "id": "way/1071441154",
+   "name": "Petstock",
+   "lat": -37.8238683,
+   "lon": 145.0435867,
+   "distKm": 7.2,
+   "address": "550 Burwood Road",
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "way/1434843861",
+   "name": "Petstock",
+   "lat": -37.7491212,
+   "lon": 144.9656789,
+   "distKm": 7.2,
+   "address": "228-238 Sydney Road",
+   "tags": {
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "node/5309701615",
+   "name": "Dog Town",
+   "lat": -37.8593027,
+   "lon": 144.8997869,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9109422780",
+   "name": "Petstock",
+   "lat": -37.8454102,
+   "lon": 145.0417422,
+   "distKm": 7.8,
+   "address": "740-742 Toorak Road, VIC 3123",
+   "tags": {
+    "phone": "+61 3 9498 0581",
+    "website": "https://www.petstock.com.au/store/petstock-hawthorn-east",
+    "brand": "Petstock"
+   }
+  },
+  {
+   "id": "way/1532675385",
+   "name": "Petbarn",
+   "lat": -37.8526021,
+   "lon": 145.0393462,
+   "distKm": 8,
+   "address": "1357-1359 Malvern Road",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-17:00; Su 09:00-17:00; PH 10:00-17:00",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/6696512742",
+   "name": "Petbarn",
+   "lat": -37.7711093,
+   "lon": 144.8850405,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/9528694661",
+   "name": "Pet & Aquarium Warehouse",
+   "lat": -37.7755989,
+   "lon": 144.8815788,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9110868578",
+   "name": "Belvedere’s Pet Supplies",
+   "lat": -37.7694406,
+   "lon": 145.0414119,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-16:00"
+   }
+  },
+  {
+   "id": "node/2852216853",
+   "name": "Fastway Aquarium & Hydroponics",
+   "lat": -37.8118116,
+   "lon": 144.8657155,
+   "distKm": 8.6,
+   "address": "444-448 Geelong Road, 3012",
+   "tags": {
+    "phone": "+61 3 9314 1119",
+    "website": "http://www.fasthydro.com.au"
+   }
+  },
+  {
+   "id": "node/8223514288",
+   "name": "All 4 Pets",
+   "lat": -37.7719351,
+   "lon": 145.0458561,
+   "distKm": 8.6,
+   "address": "62 Lower Heidelberg Road",
+   "tags": {
+    "phone": "+61 3 9499 2279",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa,Su 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/682624654",
+   "name": "Petbarn",
+   "lat": -37.8328649,
+   "lon": 145.0590375,
+   "distKm": 8.7,
+   "address": "305 Camberwell Road, VIC 3124",
+   "tags": {
+    "website": "https://www.petbarn.com.au/store-finder/camberwell",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/9862019476",
+   "name": "Petbarn",
+   "lat": -37.7323785,
+   "lon": 144.9585309,
+   "distKm": 9,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/5289217073",
+   "name": "Roll Over Beethoven",
+   "lat": -37.7936611,
+   "lon": 145.0640304,
+   "distKm": 9.1,
+   "address": "1152 Burke Road, VIC 3104",
+   "tags": {
+    "phone": "+61 3 9859 0999",
+    "opening_hours": "Tu-Sa || \"by appointment\""
+   }
+  },
+  {
+   "id": "node/4681445304",
+   "name": "Petbarn",
+   "lat": -37.7469292,
+   "lon": 145.0267023,
+   "distKm": 9.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/"
+   }
+  },
+  {
+   "id": "node/6309511970",
+   "name": "Williamstown Aquarium",
+   "lat": -37.8551316,
+   "lon": 144.864761,
+   "distKm": 9.8,
+   "address": "368 Kororoit Creek Road",
+   "tags": {
+    "phone": "+61 3 9399 8883",
+    "opening_hours": "Tu-Fr 10:30-17:30, Sa 10:00-17:00, Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/2599142244",
+   "name": "Best Friends",
+   "lat": -37.741631,
+   "lon": 145.030213,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {
+    "website": "https://www.bestfriendspets.com.au/",
+    "brand": "Best Friends"
+   }
+  },
+  {
+   "id": "node/4819734944",
+   "name": "Habitat",
+   "lat": -37.8326073,
+   "lon": 144.847553,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.habitatpets.com.au/"
+   }
+  },
+  {
+   "id": "node/4535091427",
+   "name": "Petstock",
+   "lat": -37.8444161,
+   "lon": 144.8431281,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {
+    "website": "https://www.petstock.com.au/",
+    "brand": "PetStock"
+   }
+  },
+  {
+   "id": "node/10198689606",
+   "name": "Yuppy Puppy Day Spa",
+   "lat": -37.7918782,
+   "lon": 145.0938508,
+   "distKm": 11.7,
+   "address": "288 Doncaster Road, VIC 3104",
+   "tags": {}
+  },
+  {
+   "id": "node/5519973712",
+   "name": "Hair Of The Dog",
+   "lat": -37.8796063,
+   "lon": 145.0694661,
+   "distKm": 11.9,
+   "address": "514 Waverley Road",
+   "tags": {}
+  },
+  {
+   "id": "node/12722814749",
+   "name": "The Bark Bakery",
+   "lat": -37.8682357,
+   "lon": 144.8301378,
+   "distKm": 13.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-17:00; Sa,Su,PH 09:00-15:00"
+   }
+  },
+  {
+   "id": "node/2638105792",
+   "name": "Petbarn",
+   "lat": -37.8875061,
+   "lon": 145.0856628,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/6031325561",
+   "name": "Dirty Dogs Pet Supplies",
+   "lat": -37.9307422,
+   "lon": 145.0036655,
+   "distKm": 13.5,
+   "address": "557 Hampton Street",
+   "tags": {}
+  },
+  {
+   "id": "node/7255082846",
+   "name": "Planet Pets",
+   "lat": -37.8035476,
+   "lon": 145.1177971,
+   "distKm": 13.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11680152683",
+   "name": "King Pets & Pigeon Supplies",
+   "lat": -37.6895275,
+   "lon": 144.9612995,
+   "distKm": 13.8,
+   "address": "536 Mahoneys Road, 3061",
+   "tags": {
+    "phone": "+61 3 9359 0451",
+    "opening_hours": "Mo-Sa 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/10309596879",
+   "name": "Platinum Pet Warehouse",
+   "lat": -37.7225986,
+   "lon": 144.8494732,
+   "distKm": 14.2,
+   "address": "27B Keilor Park Drive",
+   "tags": {}
+  },
+  {
+   "id": "way/320754711",
+   "name": "Petbarn",
+   "lat": -37.7881081,
+   "lon": 145.1223073,
+   "distKm": 14.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "way/641539942",
+   "name": "Aquarium Plus",
+   "lat": -37.920888,
+   "lon": 145.0583512,
+   "distKm": 14.6,
+   "address": "789 Centre Road",
+   "tags": {}
+  },
+  {
+   "id": "node/8961950388",
+   "name": "Petbarn",
+   "lat": -37.6907375,
+   "lon": 145.0278738,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/3343595598",
+   "name": "Plenty For Pets",
+   "lat": -37.7002651,
+   "lon": 145.0591009,
+   "distKm": 15.2,
+   "address": "595 Grimshaw Street",
+   "tags": {
+    "phone": "+61 3 9467 3155"
+   }
+  },
+  {
+   "id": "way/600303592",
+   "name": "Petbarn",
+   "lat": -37.8384991,
+   "lon": 145.1344464,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.petbarn.com.au/",
+    "brand": "Petbarn"
+   }
+  },
+  {
+   "id": "node/3302190138",
+   "name": "The Dogfather",
+   "lat": -37.7010724,
+   "lon": 145.0654144,
+   "distKm": 15.4,
+   "address": null,
+   "tags": {
+    "phone": "+61 3 9467 6676"
+   }
+  },
+  {
+   "id": "node/5130518029",
+   "name": "RSPCA Shop",
+   "lat": -37.8516639,
+   "lon": 145.1340761,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "$schemaVersion": 1,
+ "city": "raleigh",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:29:58.629Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/605961596",
+   "name": "The K9 Kabana",
+   "lat": 35.7197598,
+   "lon": -78.6321244,
+   "distKm": 6.7,
+   "address": "1465 Mechanical Boulevard, Garner, NC 27529",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9812092518",
+   "name": "Suite Paws",
+   "lat": 35.7735444,
+   "lon": -78.5503424,
+   "distKm": 8,
+   "address": "110 S Rogers Ln, Raleigh, NC 27610",
+   "tags": {
+    "phone": "+1 919-231-1112",
+    "website": "https://www.suitepaws.com/raleigh/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9817183581",
+   "name": "Dogtopia",
+   "lat": 35.8499632,
+   "lon": -78.5902289,
+   "distKm": 8.9,
+   "address": "4708 Hargrove Rd",
+   "tags": {
+    "website": "https://www.dogtopia.com/",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/8790577741",
+   "name": "Pupsi Inc.",
+   "lat": 35.7923422,
+   "lon": -78.7754127,
+   "distKm": 12.5,
+   "address": "8260 Chapel Hill Road, Cary, NC 27513",
+   "tags": {
+    "phone": "+1 919-460-9909",
+    "website": "https://pupsiinc.com/",
+    "opening_hours": "Mo-Su 07:30-09:30,16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/218675482",
+   "name": "Camp Canine, Inc.",
+   "lat": 35.7954001,
+   "lon": -78.8073379,
+   "distKm": 15.4,
+   "address": "333 James Jackson Avenue",
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-11:30,13:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/219142489",
+   "name": "Dogtopia",
+   "lat": 35.7986473,
+   "lon": -78.8119617,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 07:00-19:00;Sa 10:00-17:00;Su 11:00-14:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/32635021",
+   "name": "Preston Animal Hospital",
+   "lat": 35.8082889,
+   "lon": -78.81358,
+   "distKm": 16.1,
+   "address": "9638 Chapel Hill Road, Morrisville, 27560",
+   "tags": {
+    "opening_hours": "Mo-Fr 07:30-17:30;Sa 09:00-12:00;Su 17:00-17:30 \"hotel check-out only\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/598411103",
+   "name": "Dawg Dayz Retreat",
+   "lat": 35.707313,
+   "lon": -78.7977188,
+   "distKm": 16.5,
+   "address": "3400 Pond Village Lane, Cary, NC 27518",
+   "tags": {
+    "website": "https://www.tlcbybrenna.com/",
+    "opening_hours": "Mo-Su 07:30-18:00",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

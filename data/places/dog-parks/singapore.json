@@ -1,0 +1,308 @@
+{
+ "$schemaVersion": 1,
+ "city": "singapore",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:23:49.943Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 29,
+ "places": [
+  {
+   "id": "way/543617736",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.35806,
+   "lon": 103.8326914,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/585741789",
+   "name": "Dog Run",
+   "lat": 1.3623019,
+   "lon": 103.8486593,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1444901676",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3475443,
+   "lon": 103.8503869,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/679581352",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.328853,
+   "lon": 103.8462268,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "yes",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1321546697",
+   "name": "Whampoa Pet Park",
+   "lat": 1.325243,
+   "lon": 103.8565609,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "dog": "unleashed",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1276429259",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.304819,
+   "lon": 103.8481805,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1211303773",
+   "name": "Dog Run @Tiong Bahru Park",
+   "lat": 1.2881708,
+   "lon": 103.8234225,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1337676326",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3178009,
+   "lon": 103.7642678,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12257730388",
+   "name": "Fort Canine",
+   "lat": 1.2909959,
+   "lon": 103.8456426,
+   "distKm": 7.4,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/8620558763",
+   "name": "Mini Dog Park",
+   "lat": 1.393149,
+   "lon": 103.8776379,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10600486664",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3029447,
+   "lon": 103.7668718,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1094032623",
+   "name": "JPG Dog Run",
+   "lat": 1.3367051,
+   "lon": 103.7472201,
+   "distKm": 8.2,
+   "address": "2 Jurong Gateway Road, Singapore, 608512",
+   "tags": {
+    "dog": "designated",
+    "access": "yes",
+    "website": "https://www.jpg.sg/"
+   }
+  },
+  {
+   "id": "way/1087165507",
+   "name": "Wag & Wild",
+   "lat": 1.3366222,
+   "lon": 103.7461201,
+   "distKm": 8.4,
+   "address": "2 Jurong Gateway Road, Singapore, 608512",
+   "tags": {
+    "dog": "designated",
+    "access": "customers",
+    "website": "https://www.wagnwild.com/"
+   }
+  },
+  {
+   "id": "way/1098282335",
+   "name": "Dog Run",
+   "lat": 1.397002,
+   "lon": 103.8828941,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/375327887",
+   "name": "West Coast Dog Run",
+   "lat": 1.2872845,
+   "lon": 103.7748725,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1164631369",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.386248,
+   "lon": 103.7476755,
+   "distKm": 8.9,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/1505073167",
+   "name": "Dog Run",
+   "lat": 1.3015961,
+   "lon": 103.8871623,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1123977022",
+   "name": "Dog Run",
+   "lat": 1.3109946,
+   "lon": 103.9029738,
+   "distKm": 10.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/722269766",
+   "name": "Dog Run",
+   "lat": 1.3332548,
+   "lon": 103.7264021,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "fence_type": "wire",
+    "website": "https://www.nparks.gov.sg/juronglakegardens/explore-our-gardens/attractions/dog-run",
+    "opening_hours": "08:00-22:00"
+   }
+  },
+  {
+   "id": "way/1382825881",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.32744,
+   "lon": 103.9149096,
+   "distKm": 10.9,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1098100423",
+   "name": "Dog Run",
+   "lat": 1.4120399,
+   "lon": 103.901789,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1243713721",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3150329,
+   "lon": 103.9141522,
+   "distKm": 11.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/935008423",
+   "name": "Dog Run",
+   "lat": 1.299213,
+   "lon": 103.9077731,
+   "distKm": 11.4,
+   "address": "920 East Coast Parkway, Singapore, 449875",
+   "tags": {}
+  },
+  {
+   "id": "way/790236669",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3361765,
+   "lon": 103.9292265,
+   "distKm": 12.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/980610576",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3537696,
+   "lon": 103.9368018,
+   "distKm": 13,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1424450589",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3087152,
+   "lon": 103.939889,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/607395093",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3333093,
+   "lon": 103.9476137,
+   "distKm": 14.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/763918050",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 1.3664284,
+   "lon": 103.9532717,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13298717994",
+   "name": "Jurassic Bark",
+   "lat": 1.3487305,
+   "lon": 103.9854215,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

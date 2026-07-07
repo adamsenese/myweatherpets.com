@@ -1,0 +1,579 @@
+{
+ "$schemaVersion": 1,
+ "city": "chicago",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:20:10.492Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 58,
+ "places": [
+  {
+   "id": "way/747160822",
+   "name": "D'Angelo Dog Park",
+   "lat": 41.8759438,
+   "lon": -87.6356536,
+   "distKm": 0.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1118495190",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8696003,
+   "lon": -87.6318169,
+   "distKm": 1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349234970",
+   "name": "Grant Bark Park",
+   "lat": 41.8703794,
+   "lon": -87.6217687,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/156571387",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8857073,
+   "lon": -87.6184922,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/346985162",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8894028,
+   "lon": -87.6253297,
+   "distKm": 1.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349239805",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8886009,
+   "lon": -87.6432248,
+   "distKm": 1.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/133805074",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8799521,
+   "lon": -87.650571,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/346983725",
+   "name": "Ohio Place Dog Park",
+   "lat": 41.8923248,
+   "lon": -87.6382452,
+   "distKm": 1.7,
+   "address": "360 West Ohio Street, Chicago, IL 60654",
+   "tags": {
+    "access": "yes",
+    "website": "https://rnrachicago.org/locations/ohio-place-dog-park/"
+   }
+  },
+  {
+   "id": "way/568289279",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8761085,
+   "lon": -87.6506971,
+   "distKm": 1.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349236432",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8621333,
+   "lon": -87.6264805,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1076970998",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8885701,
+   "lon": -87.646876,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/362102149",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8922137,
+   "lon": -87.6178432,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/787821282",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8952803,
+   "lon": -87.6338767,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/313782003",
+   "name": "Fred Anderson Park",
+   "lat": 41.859482,
+   "lon": -87.6251712,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/349242662",
+   "name": "Larrabee Dog Park",
+   "lat": 41.8942958,
+   "lon": -87.6432427,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/438978486",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8604401,
+   "lon": -87.621197,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1021573730",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8607443,
+   "lon": -87.6464275,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349239969",
+   "name": "Park No. 569",
+   "lat": 41.8806153,
+   "lon": -87.6616835,
+   "distKm": 2.7,
+   "address": "1358 West Monroe Street, Chicago, IL 60607",
+   "tags": {
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-569"
+   }
+  },
+  {
+   "id": "way/1359414391",
+   "name": "Prarie District Dog Park",
+   "lat": 41.8545972,
+   "lon": -87.620083,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence",
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1155642951",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8851579,
+   "lon": -87.6625967,
+   "distKm": 2.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1200048584",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8748594,
+   "lon": -87.6742733,
+   "distKm": 3.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/347372407",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9074097,
+   "lon": -87.6752209,
+   "distKm": 5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349242647",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9140276,
+   "lon": -87.668131,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/206621731",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9142415,
+   "lon": -87.6767472,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13639275748",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.930722,
+   "lon": -87.6382402,
+   "distKm": 5.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/158977042",
+   "name": "Wiggly Field Park",
+   "lat": 41.9305284,
+   "lon": -87.6534295,
+   "distKm": 6.1,
+   "address": "2645 North Sheffield Avenue, Chicago, IL 60614",
+   "tags": {
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/noethling-grace-park"
+   }
+  },
+  {
+   "id": "way/736330515",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8225448,
+   "lon": -87.622057,
+   "distKm": 6.2,
+   "address": "3938-3940 South Indiana Avenue, Chicago, IL 60653",
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/736330511",
+   "name": "Park No. 591",
+   "lat": 41.82455,
+   "lon": -87.6040002,
+   "distKm": 6.3,
+   "address": "3900 South Lake Park Avenue, Chicago, IL 60653",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-591"
+   }
+  },
+  {
+   "id": "way/736330517",
+   "name": "Park No. 592",
+   "lat": 41.818695,
+   "lon": -87.6133279,
+   "distKm": 6.7,
+   "address": "4149 South Vincennes Avenue, Chicago, IL 60653",
+   "tags": {
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-592-2"
+   }
+  },
+  {
+   "id": "way/34851617",
+   "name": "Park No. 556",
+   "lat": 41.9275758,
+   "lon": -87.6883365,
+   "distKm": 7.3,
+   "address": "2529 West Logan Boulevard, Chicago, IL 60647",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-556"
+   }
+  },
+  {
+   "id": "way/23989865",
+   "name": "Belmont Harbor Dog Beach",
+   "lat": 41.9453114,
+   "lon": -87.640325,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/18049517",
+   "name": "Lathrop Dog Park",
+   "lat": 41.9339712,
+   "lon": -87.683645,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349238237",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9360604,
+   "lon": -87.6803204,
+   "distKm": 7.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/405326802",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8115182,
+   "lon": -87.5957649,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1158236613",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.949557,
+   "lon": -87.645341,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/349237662",
+   "name": "Challenger Park",
+   "lat": 41.9584043,
+   "lon": -87.657114,
+   "distKm": 9.2,
+   "address": "1100 West Irving Park Road, Chicago, IL 60613",
+   "tags": {
+    "dog": "yes",
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/challenger-dog-friendly-area"
+   }
+  },
+  {
+   "id": "way/1161293313",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9606727,
+   "lon": -87.6527324,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "relation/19662185",
+   "name": "Clarendon Dog Friendly Area",
+   "lat": 41.9639844,
+   "lon": -87.6477613,
+   "distKm": 9.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1175456398",
+   "name": "Kosciuszko Dog Park",
+   "lat": 41.9316317,
+   "lon": -87.7251146,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/337856245",
+   "name": "Montrose Dog Beach",
+   "lat": 41.9686202,
+   "lon": -87.6425208,
+   "distKm": 10.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/619462399",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9543826,
+   "lon": -87.6972248,
+   "distKm": 10.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/260349430",
+   "name": "Puptown Dog Park",
+   "lat": 41.9700012,
+   "lon": -87.6491515,
+   "distKm": 10.3,
+   "address": "4900 North Marine Drive, Chicago, IL 60640",
+   "tags": {
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/puptown"
+   }
+  },
+  {
+   "id": "way/807330593",
+   "name": "Lawrence House Dog Park",
+   "lat": 41.9695484,
+   "lon": -87.655616,
+   "distKm": 10.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/406666265",
+   "name": "Jackson Bark",
+   "lat": 41.7863356,
+   "lon": -87.5784532,
+   "distKm": 11.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1001802008",
+   "name": "Bryn Mawr Dog Friendly Area",
+   "lat": 41.9843944,
+   "lon": -87.6522169,
+   "distKm": 12,
+   "address": null,
+   "tags": {
+    "website": "https://www.chicagoparkdistrict.com/parks-facilities/bryn-mawr-dog-friendly-area-temporary"
+   }
+  },
+  {
+   "id": "way/349242488",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.973503,
+   "lon": -87.7029356,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/436491018",
+   "name": "Hasan Park",
+   "lat": 41.7712631,
+   "lon": -87.5671141,
+   "distKm": 13,
+   "address": "6855 South Oglesby Avenue, Chicago, IL 60649",
+   "tags": {
+    "access": "yes",
+    "website": "https://www.chicagoparkdistrict.com/parks/Hasan-Playlot-Park/"
+   }
+  },
+  {
+   "id": "way/682459225",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8874145,
+   "lon": -87.7873876,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11050358403",
+   "name": "Woof Lawn Dog Park",
+   "lat": 41.7747843,
+   "lon": -87.7292022,
+   "distKm": 14.1,
+   "address": "4233 West 65th Street, Chicago, IL 60629",
+   "tags": {}
+  },
+  {
+   "id": "way/349240096",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.9564382,
+   "lon": -87.7660433,
+   "distKm": 14.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/468206008",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.8745827,
+   "lon": -87.807954,
+   "distKm": 14.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2303367993",
+   "name": "Pottawattomie Dog Park",
+   "lat": 42.017061,
+   "lon": -87.676771,
+   "distKm": 15.9,
+   "address": "7340 North Rogers Avenue, Chicago, IL 60626",
+   "tags": {
+    "website": "https://www.chicagoparkdistrict.com/mobile/parks/pottawattomie-park/",
+    "opening_hours": "06:00-23:00"
+   }
+  },
+  {
+   "id": "way/1428767353",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 41.7890505,
+   "lon": -87.7812854,
+   "distKm": 16,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1335332310",
+   "name": "Miller Meadow Dog Park",
+   "lat": 41.8545944,
+   "lon": -87.8302335,
+   "distKm": 16.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1463541451",
+   "name": "Pooch Park",
+   "lat": 42.029056,
+   "lon": -87.7091572,
+   "distKm": 18,
+   "address": "3220 Oakton Street, Skokie, IL 60076",
+   "tags": {
+    "dog": "unleashed",
+    "access": "yes",
+    "website": "https://www.skokieparks.org/pooch-park/"
+   }
+  },
+  {
+   "id": "way/349239709",
+   "name": "Norwood Park Dog Park",
+   "lat": 41.9879056,
+   "lon": -87.7935281,
+   "distKm": 18.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3649582046",
+   "name": "Dog Beach",
+   "lat": 42.0474576,
+   "lon": -87.6727407,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {
+    "surface": "sand"
+   }
+  },
+  {
+   "id": "node/7105466731",
+   "name": "Calumet Bark",
+   "lat": 41.7178381,
+   "lon": -87.5287946,
+   "distKm": 19.7,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

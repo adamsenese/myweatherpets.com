@@ -1,0 +1,411 @@
+{
+ "$schemaVersion": 1,
+ "city": "portland",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:27:32.359Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 32,
+ "places": [
+  {
+   "id": "way/207289462",
+   "name": "Dogtopia",
+   "lat": 45.5246309,
+   "lon": -122.6807453,
+   "distKm": 1.1,
+   "address": "925 Northwest Davis Street, Portland, OR 97209",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9570875396",
+   "name": "The Dog House",
+   "lat": 45.4961426,
+   "lon": -122.6717184,
+   "distKm": 2.2,
+   "address": "3720 South Moody Avenue, Portland, OR 97239",
+   "tags": {
+    "website": "https://www.thedoghouseportland.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/674154858",
+   "name": "Sniff",
+   "lat": 45.5340824,
+   "lon": -122.6902524,
+   "distKm": 2.3,
+   "address": "1828 Northwest Raleigh Street, Portland, 97209",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/368087055",
+   "name": "Safe Journey",
+   "lat": 45.4971185,
+   "lon": -122.6540531,
+   "distKm": 2.8,
+   "address": "3525 Southeast Milwaukie Avenue, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-209-0177",
+    "website": "https://www.dogboardingportland.com/",
+    "opening_hours": "07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/368329875",
+   "name": "Dog Days",
+   "lat": 45.50504,
+   "lon": -122.6431862,
+   "distKm": 3,
+   "address": "2215 Southeast Division Street, Portland, OR 97202",
+   "tags": {
+    "website": "http://www.dogdaysportland.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4245529794",
+   "name": "Pounce",
+   "lat": 45.5434454,
+   "lon": -122.6613828,
+   "distKm": 3.4,
+   "address": "2808 Northeast Martin Luther King Junior Boulevard, Portland, OR 97212",
+   "tags": {
+    "website": "https://pounceplayandstay.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/480969133",
+   "name": "Townhouse Pet Care",
+   "lat": 45.5303239,
+   "lon": -122.6348637,
+   "distKm": 3.8,
+   "address": "2965 Northeast Sandy Boulevard, Portland, 97232",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/306350405",
+   "name": "Lexi Dog",
+   "lat": 45.4797008,
+   "lon": -122.6722633,
+   "distKm": 4,
+   "address": "6100 South Macadam Avenue, Portland, OR 97239",
+   "tags": {
+    "phone": "+1-503-245-4363",
+    "website": "https://www.lexidog.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/368065741",
+   "name": "No Bonz About It",
+   "lat": 45.5322799,
+   "lon": -122.629885,
+   "distKm": 4.2,
+   "address": "3351 Northeast Sandy Boulevard, Portland, OR 97232",
+   "tags": {
+    "phone": "+1-503-234-5909",
+    "website": "https://www.nobonz.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/412147826",
+   "name": "Dog Gone Happy",
+   "lat": 45.5592749,
+   "lon": -122.65324,
+   "distKm": 5.3,
+   "address": "1215 Northeast Alberta Street, Portland, OR 97211",
+   "tags": {
+    "phone": "+1-503-288-4462",
+    "website": "https://www.doggonehappy.biz/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/421259889",
+   "name": "Dogtribe",
+   "lat": 45.5050288,
+   "lon": -122.610712,
+   "distKm": 5.4,
+   "address": "2410 Southeast 50th Avenue, Portland, OR 97206",
+   "tags": {
+    "phone": "+1-503-238-0737",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/289415582",
+   "name": "Gabriel Park 'N' Bark Doggie Daycare",
+   "lat": 45.4770416,
+   "lon": -122.7228469,
+   "distKm": 5.5,
+   "address": "4425 Southwest Vermont Street, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-971-255-0164",
+    "website": "https://www.gabrielparknbark.com/",
+    "opening_hours": "Mo-Fr 07:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/287980567",
+   "name": "Original Bark",
+   "lat": 45.462625,
+   "lon": -122.6845115,
+   "distKm": 5.9,
+   "address": "8526 Southwest Terwilliger Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1 503-295-2275",
+    "website": "https://www.originalbark.com/",
+    "opening_hours": "Mo-Su 07:00-18:15",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/313762466",
+   "name": "Arf 'n Bark Doggie Daycare",
+   "lat": 45.4673221,
+   "lon": -122.712289,
+   "distKm": 5.9,
+   "address": "3433 Southwest Multnomah Boulevard, Portland, OR 97219",
+   "tags": {
+    "phone": "+1-503-245-7003",
+    "website": "http://www.arfnbark.com/",
+    "opening_hours": "Mo-Th 07:00-18:00; Fr 07:00-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4048612614",
+   "name": "Meowhaus",
+   "lat": 45.540255,
+   "lon": -122.6091041,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4272855623",
+   "name": "Cats in the City",
+   "lat": 45.4641987,
+   "lon": -122.6433353,
+   "distKm": 6.3,
+   "address": "2036 Southeast Tacoma Street, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-764-2322",
+    "website": "https://catsinthecity.com/",
+    "opening_hours": "\"by appointment\"",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/341831077",
+   "name": "Central Bark",
+   "lat": 45.4856425,
+   "lon": -122.7473953,
+   "distKm": 6.3,
+   "address": "4730A Southwest Oleson Road, Portland, OR 97225",
+   "tags": {
+    "website": "http://www.ecentralbark.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/486477236",
+   "name": "Bone Away From Home",
+   "lat": 45.4630139,
+   "lon": -122.6464349,
+   "distKm": 6.3,
+   "address": "1717 Southeast Umatilla Street, Portland, OR 97202",
+   "tags": {
+    "phone": "+1-503-206-8903",
+    "website": "http://boneawayfromhome.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-11:00,15:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/368218930",
+   "name": "The Howliday Inn",
+   "lat": 45.5594406,
+   "lon": -122.5790881,
+   "distKm": 9.2,
+   "address": "5001 Northeast 82nd Avenue, Portland, 97220",
+   "tags": {
+    "website": "https://thehowlidayinn.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1207334200",
+   "name": "Dogtopia",
+   "lat": 45.520645,
+   "lon": -122.7998631,
+   "distKm": 9.5,
+   "address": "11780 Northwest Cedar Falls Drive, Portland, OR 97229",
+   "tags": {
+    "phone": "+1-503-288-7185",
+    "website": "https://www.dogtopia.com/cedar-mill/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa-Su 09:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/412602807",
+   "name": "Barklandia",
+   "lat": 45.4574969,
+   "lon": -122.78279,
+   "distKm": 10.4,
+   "address": "8625 Southwest Scholls Ferry Road, Beaverton, OR 97008",
+   "tags": {
+    "website": "https://barklandia-pdx.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/324144249",
+   "name": "The Muttley Crew",
+   "lat": 45.5250525,
+   "lon": -122.8143163,
+   "distKm": 10.6,
+   "address": "806 Northwest Murray Boulevard, Portland, OR 97229",
+   "tags": {
+    "phone": "+1-503-626-8212",
+    "website": "https://www.themuttleycrew.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4670415847",
+   "name": "Noah's Arf",
+   "lat": 45.4939543,
+   "lon": -122.8225861,
+   "distKm": 11.5,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/349932847",
+   "name": "Lake Oswego Hunt Club",
+   "lat": 45.4130771,
+   "lon": -122.7059081,
+   "distKm": 11.6,
+   "address": "2725 Iron Mountain Boulevard, Lake Oswego, OR 97034",
+   "tags": {
+    "phone": "+1-503-636-0674",
+    "website": "https://www.lakeoswegohunt.com/",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-23:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/336054413",
+   "name": "Wags Pet Resort",
+   "lat": 45.4313002,
+   "lon": -122.7696384,
+   "distKm": 11.7,
+   "address": "12230 Southwest Main Street, Tigard, OR 97223",
+   "tags": {
+    "website": "https://www.wagspetresort.com/tigard",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/52974927",
+   "name": "Sniff Dog Hotel",
+   "lat": 45.5158931,
+   "lon": -122.8402427,
+   "distKm": 12.6,
+   "address": "15900 Southwest Regatta Lane, Beaverton, OR 97006",
+   "tags": {
+    "website": "https://www.sniffdoghotel.com/hotelbeaverton",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/615896323",
+   "name": "Dakota and Friends Dog Services",
+   "lat": 45.39721,
+   "lon": -122.7344391,
+   "distKm": 13.8,
+   "address": "17777 Pilkington Road, Lake Oswego, OR 97035",
+   "tags": {
+    "phone": "+1 503-344-4293",
+    "opening_hours": "Mo-Fr 07:00-19:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/5800518056",
+   "name": "The Scooby Shack",
+   "lat": 45.398321,
+   "lon": -122.7407934,
+   "distKm": 13.9,
+   "address": "17620 Southwest 63rd Avenue, Lake Oswego, OR 97035",
+   "tags": {
+    "phone": "+1-503-850-4451",
+    "website": "https://scoobyshack.com/",
+    "opening_hours": "Mo-Sa 06:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13478580263",
+   "name": "Cats play while you're away",
+   "lat": 45.6431559,
+   "lon": -122.5975714,
+   "distKm": 15.6,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/353081061",
+   "name": "Dog's Day Out",
+   "lat": 45.4975802,
+   "lon": -122.9182072,
+   "distKm": 18.8,
+   "address": "6219 Southeast Alexander Street, Hillsboro, 97123",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1315434956",
+   "name": "Trinity Horse Farm",
+   "lat": 45.4166738,
+   "lon": -122.8806043,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12099226203",
+   "name": "Tiny's Place Luxury Cat Boarding",
+   "lat": 45.6894014,
+   "lon": -122.6599851,
+   "distKm": 19.4,
+   "address": "9228 Northeast Highway 99, Vancouver, 98665",
+   "tags": {
+    "website": "https://www.tinysplacecatboarding.com/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "$schemaVersion": 1,
+ "city": "sao-paulo",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:40:02.278Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/1421716470",
+   "name": "Hotel Tia Val",
+   "lat": -23.5727273,
+   "lon": -46.6580673,
+   "distKm": 3.5,
+   "address": "274 Rua Guarará, São Paulo, 04561-000",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13202707620",
+   "name": "Dog Story Land Creche & Hotel",
+   "lat": -23.5805928,
+   "lon": -46.6153221,
+   "distKm": 3.8,
+   "address": "628 Rua Vasconcelos Drumond",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13338607014",
+   "name": "ponto dog",
+   "lat": -23.5719315,
+   "lon": -46.6639213,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1377957722",
+   "name": "Pet Hotel",
+   "lat": -23.5432085,
+   "lon": -46.6839167,
+   "distKm": 5.2,
+   "address": "88 Rua Havaí, São Paulo, 01258-001",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4966096339",
+   "name": "Dog's Ville",
+   "lat": -23.6045921,
+   "lon": -46.6542752,
+   "distKm": 6.4,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/4917569995",
+   "name": "Pet Home Care",
+   "lat": -23.6177878,
+   "lon": -46.6342002,
+   "distKm": 7.5,
+   "address": "150 Rua Visconde de Inhaúma, São Paulo, 04145-030",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1050594212",
+   "name": "Recanto dos Cães",
+   "lat": -23.5051555,
+   "lon": -46.7050407,
+   "distKm": 8.9,
+   "address": "628 Rua Sousa Filho, São Paulo, 02911-060",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/688065472",
+   "name": "Pet Resort Barcelona",
+   "lat": -23.6186072,
+   "lon": -46.5528532,
+   "distKm": 11.2,
+   "address": "363 Rua Conselheiro Lafayette, São Caetano do Sul",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

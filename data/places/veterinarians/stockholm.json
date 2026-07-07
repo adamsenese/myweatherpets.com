@@ -1,0 +1,348 @@
+{
+ "$schemaVersion": 1,
+ "city": "stockholm",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:24:28.290Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 32,
+ "places": [
+  {
+   "id": "node/6594853044",
+   "name": "Södermalms veterinärklinik",
+   "lat": 59.3131315,
+   "lon": 18.0818694,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "phone": "+468333760",
+    "website": "https://sodervet.se/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/6594853045",
+   "name": "Ahlbergs Veterinärpraktik",
+   "lat": 59.3123945,
+   "lon": 18.0640363,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo 10:00-19:00; Tu-Fr 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/2698725587",
+   "name": "Djurkliniken",
+   "lat": 59.3414692,
+   "lon": 18.0963301,
+   "distKm": 2.1,
+   "address": "23 Värtavägen, Stockholm, 11553",
+   "tags": {
+    "opening_hours": "Mo-We 09:00-15:00; Th closed; Fr 09:00-15:00; Sa-Su closed"
+   }
+  },
+  {
+   "id": "node/11925916546",
+   "name": "Vasastans veterinärklinik",
+   "lat": 59.3472504,
+   "lon": 18.0571694,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-17:45; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/415276633",
+   "name": "Awake djursjukhus",
+   "lat": 59.3159633,
+   "lon": 18.0381767,
+   "distKm": 2.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/8806746209",
+   "name": "Sjöstadens Veterinärpraktik",
+   "lat": 59.3052953,
+   "lon": 18.106504,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "phone": "+4686411730",
+    "website": "https://www.sjostadensvetpraktik.se/"
+   }
+  },
+  {
+   "id": "node/1211144086",
+   "name": "Årstakliniken",
+   "lat": 59.294342,
+   "lon": 18.067127,
+   "distKm": 3.9,
+   "address": "17 Lindetorpsvägen",
+   "tags": {}
+  },
+  {
+   "id": "node/13535286601",
+   "name": "Alla Tassars Veterinärklinik",
+   "lat": 59.3017866,
+   "lon": 18.0138253,
+   "distKm": 4.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10575448910",
+   "name": "Evidensia djurkliniken Nacka",
+   "lat": 59.3046683,
+   "lon": 18.1335318,
+   "distKm": 4.6,
+   "address": "11 Planiavägen, Nacka, 131 54",
+   "tags": {}
+  },
+  {
+   "id": "node/9713948090",
+   "name": "Stochholms Djurklinik",
+   "lat": 59.3332287,
+   "lon": 17.9795202,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8815755614",
+   "name": "Zootopia Vet",
+   "lat": 59.2848519,
+   "lon": 18.112881,
+   "distKm": 5.5,
+   "address": "4 Lågskärsvägen",
+   "tags": {
+    "phone": "+4686592050",
+    "website": "https://www.zootopiavet.se/",
+    "opening_hours": "Mo-Fr 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13404341310",
+   "name": "AniMed Djurklinik",
+   "lat": 59.3649661,
+   "lon": 17.9764192,
+   "distKm": 6.6,
+   "address": "1 Ängsstigen",
+   "tags": {
+    "website": "https://animed.se/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/13298264444",
+   "name": "AniMed",
+   "lat": 59.3618165,
+   "lon": 17.9695323,
+   "distKm": 6.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/48977465",
+   "name": "AniCura Regiondjursjukhuset Bagarmossen",
+   "lat": 59.2776387,
+   "lon": 18.1421656,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Su,PH 00:00-00:00"
+   }
+  },
+  {
+   "id": "way/188220252",
+   "name": "Djursjukhuset i Bagarmossen",
+   "lat": 59.2775807,
+   "lon": 18.1423619,
+   "distKm": 7.1,
+   "address": "17 Ljusnevägen, Bagarmossen, 128 48",
+   "tags": {
+    "opening_hours": "Mo-Su,PH 00:00-00:00"
+   }
+  },
+  {
+   "id": "node/12016638148",
+   "name": "Silk Dog Rehab",
+   "lat": 59.2668417,
+   "lon": 18.0376664,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12009207207",
+   "name": "Kati’s Hundvård",
+   "lat": 59.2922874,
+   "lon": 17.9623612,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6594633073",
+   "name": "Hagsätra Veterinärmottagning",
+   "lat": 59.2636805,
+   "lon": 18.0131966,
+   "distKm": 7.9,
+   "address": "37 Glanshammarsgatan, Bandhagen, 124 73",
+   "tags": {
+    "phone": "+4687493150",
+    "website": "https://hagsatravet.se/",
+    "opening_hours": "Mo-Fr 08:00-16:00"
+   }
+  },
+  {
+   "id": "node/1307005495",
+   "name": "Djurkliniken Farsta centrum",
+   "lat": 59.2421713,
+   "lon": 18.094024,
+   "distKm": 9.8,
+   "address": "27 Munkforsplan",
+   "tags": {}
+  },
+  {
+   "id": "node/8977916538",
+   "name": "Djursjukhuset Albano",
+   "lat": 59.416894,
+   "lon": 18.0409938,
+   "distKm": 9.9,
+   "address": "21A Rinkebyvägen, Danderyd, 182 36",
+   "tags": {
+    "phone": "+46 8 505 304 00",
+    "website": "https://www.anicura.se/djursjukhuset-albano/",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 10:00-22:00"
+   }
+  },
+  {
+   "id": "node/13006728270",
+   "name": "Farsta djurklinik",
+   "lat": 59.2420865,
+   "lon": 18.108863,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11989582361",
+   "name": "Rinkeby Djurklinik",
+   "lat": 59.3920695,
+   "lon": 17.9293503,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4767271062",
+   "name": "Huddinge Djurklinik",
+   "lat": 59.2653898,
+   "lon": 17.9297237,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12014448318",
+   "name": "Blackebergs Veterinärpraktik",
+   "lat": 59.3440463,
+   "lon": 17.8836826,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/267126080",
+   "name": "Västerort Djursjukhus",
+   "lat": 59.3794026,
+   "lon": 17.9054292,
+   "distKm": 10.8,
+   "address": "174 Bromstensvägen",
+   "tags": {
+    "phone": "+46 8 36 26 70",
+    "website": "http://www.vasterortdjursjukhus.se/"
+   }
+  },
+  {
+   "id": "node/2516712684",
+   "name": "Södra djursjukhuset",
+   "lat": 59.2630297,
+   "lon": 17.9037228,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12095139593",
+   "name": "Ekerö Djurklinik",
+   "lat": 59.2746652,
+   "lon": 17.845783,
+   "distKm": 14,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2396136360",
+   "name": "Sollentuna Djurklinik",
+   "lat": 59.4455087,
+   "lon": 17.9519128,
+   "distKm": 14.5,
+   "address": "23 Djupdalsvägen, Sollentuna, 19251",
+   "tags": {
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/13119251595",
+   "name": "Sollentuna Veterinärklinik",
+   "lat": 59.4453763,
+   "lon": 17.9324209,
+   "distKm": 15,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo 10:00-17:00; Tu 08:30-16:00; We 15:00-19:00; Th 08:30-16:00; Fr 08:30-14:00; Sa-Su closed"
+   }
+  },
+  {
+   "id": "node/12058941240",
+   "name": "Ekeröveterinären",
+   "lat": 59.2900322,
+   "lon": 17.8119935,
+   "distKm": 15.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2604800592",
+   "name": "Haninge djurklinik",
+   "lat": 59.1772312,
+   "lon": 18.1319325,
+   "distKm": 17.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-16:00; Sa,Su off"
+   }
+  },
+  {
+   "id": "node/10764749433",
+   "name": "AniCura Värmdö Djurklinik",
+   "lat": 59.3116868,
+   "lon": 18.3852971,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {
+    "phone": "+46 8 570 333 75",
+    "website": "https://www.varmdodjurklinik.se/",
+    "opening_hours": "Mo-Tu 08:00-21:00; Fr 08:00-17:00; Sa 10:00-17:00; Su 10:00-15:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "$schemaVersion": 1,
+ "city": "boston",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:26:30.325Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "node/9654955516",
+   "name": "The Daily Stroll",
+   "lat": 42.3516606,
+   "lon": -71.1258329,
+   "distKm": 5.6,
+   "address": "1117 Commonwealth Avenue",
+   "tags": {
+    "website": "https://www.thedailystrollllc.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/9627847866",
+   "name": "The Mindful Mutt",
+   "lat": 42.355161,
+   "lon": -71.1322759,
+   "distKm": 6.1,
+   "address": "16 Harvard Avenue, Allston, MA 02134",
+   "tags": {
+    "website": "https://www.themindfulmutt.com/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13938325401",
+   "name": "The Pet Republic",
+   "lat": 42.3970656,
+   "lon": -71.1301691,
+   "distKm": 7.2,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12000103181",
+   "name": "Go Play",
+   "lat": 42.4203746,
+   "lon": -71.1701686,
+   "distKm": 11.3,
+   "address": "1046 Massachusetts Avenue, Arlington, MA 02476",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13266365012",
+   "name": "Skipton Kennel & Pet Center",
+   "lat": 42.3781692,
+   "lon": -71.2252314,
+   "distKm": 13.8,
+   "address": null,
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

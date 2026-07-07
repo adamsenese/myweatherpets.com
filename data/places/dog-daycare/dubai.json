@@ -1,0 +1,23 @@
+{
+ "$schemaVersion": 1,
+ "city": "dubai",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:24:06.155Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 1,
+ "places": [
+  {
+   "id": "node/8528642150",
+   "name": "Dog House Pets Boarding & Daycare",
+   "lat": 25.1170593,
+   "lon": 55.2346119,
+   "distKm": 10.4,
+   "address": "28 22 Street",
+   "tags": {
+    "opening_hours": "Sa-Th 07:30-18:30",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

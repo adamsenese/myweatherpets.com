@@ -1,0 +1,95 @@
+{
+ "$schemaVersion": 1,
+ "city": "nashville",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:26:46.809Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "node/13910954901",
+   "name": "City Pets Animal Care",
+   "lat": 36.1723907,
+   "lon": -86.7957033,
+   "distKm": 1.7,
+   "address": "1016 Jefferson Street, 37208",
+   "tags": {
+    "phone": "+1-615-678-8013",
+    "website": "https://citypetsanimalcare.com/",
+    "opening_hours": "Mo-Fr 07:30-17:30"
+   }
+  },
+  {
+   "id": "way/684196324",
+   "name": "Belmont Animal Hospital",
+   "lat": 36.1165376,
+   "lon": -86.7975031,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1131961350",
+   "name": "Mobley Veterinary Clinic",
+   "lat": 36.2309279,
+   "lon": -86.725419,
+   "distKm": 9.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13803874712",
+   "name": "VEG",
+   "lat": 36.1411446,
+   "lon": -86.8824195,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {
+    "website": "https://www.veg.com/locations/tennessee/west-nashville",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/2045046530",
+   "name": "Grassmere Animal Hospital",
+   "lat": 36.0851525,
+   "lon": -86.727828,
+   "distKm": 9.9,
+   "address": "3926 Nolensville Pike, 37211",
+   "tags": {
+    "website": "https://www.grassmereanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/838019585",
+   "name": "Apache Trail Animal Hospital",
+   "lat": 36.068124,
+   "lon": -86.6939749,
+   "distKm": 13.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12587625537",
+   "name": "Bellevue Animal Hospital",
+   "lat": 36.0731717,
+   "lon": -86.9260766,
+   "distKm": 16.4,
+   "address": "7098 Old Harding Pike, Nashville, TN 37221",
+   "tags": {
+    "phone": "+16156464545",
+    "website": "https://www.bahnashville.com/"
+   }
+  },
+  {
+   "id": "node/7039962980",
+   "name": "VCA PetMed Animal Hospital",
+   "lat": 36.0443208,
+   "lon": -86.6636716,
+   "distKm": 16.9,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

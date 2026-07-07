@@ -1,0 +1,703 @@
+{
+ "$schemaVersion": 1,
+ "city": "toronto",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:38:57.950Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12452311858",
+   "name": "The Animal Clinic",
+   "lat": 43.6571952,
+   "lon": -79.37605,
+   "distKm": 0.7,
+   "address": "106 Mutual Street",
+   "tags": {
+    "phone": "+1-416-868-1545",
+    "website": "https://theanimalclinic.ca/",
+    "opening_hours": "Mo-Fr 07:30-18:00; Sa 08:00-14:00; Su closed"
+   }
+  },
+  {
+   "id": "node/13141019877",
+   "name": "The Sherbourne Animal Hospital",
+   "lat": 43.6540158,
+   "lon": -79.3691243,
+   "distKm": 1.1,
+   "address": null,
+   "tags": {
+    "phone": "+1-416-775-0101",
+    "website": "https://www.sherbourneanimalhospital.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/3418910664",
+   "name": "Spadina Animal Hospital",
+   "lat": 43.6472264,
+   "lon": -79.3954537,
+   "distKm": 1.2,
+   "address": "125 Spadina Avenue, Toronto, M5V 2K8",
+   "tags": {
+    "phone": "+1-416-506-0100",
+    "website": "https://www.spadinavet.com/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 9:00-17:00"
+   }
+  },
+  {
+   "id": "node/10235940541",
+   "name": "Wellesley Animal Hospital",
+   "lat": 43.6643359,
+   "lon": -79.3837346,
+   "distKm": 1.2,
+   "address": "535 Yonge Street, Toronto, M4Y 1Y5",
+   "tags": {
+    "phone": "+1-416-966-1830",
+    "website": "https://wellesleyanimalhospital.ca",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/5782172053",
+   "name": "Cabbagetown Pet Clinic",
+   "lat": 43.6617191,
+   "lon": -79.3694315,
+   "distKm": 1.5,
+   "address": "239 Gerrard Street East, Toronto, M5A 2G1",
+   "tags": {
+    "phone": "+1-416-928-6761",
+    "website": "https://cabbagetownpetclinic.com",
+    "opening_hours": "Mo 08:00-18:00; Tu 08:00-20:00; We 08:00-18:00; Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/1157116226",
+   "name": "Downtown Animal Hospital",
+   "lat": 43.6679392,
+   "lon": -79.381714,
+   "distKm": 1.6,
+   "address": "579 Church Street, Toronto, M4Y 2E4",
+   "tags": {
+    "website": "https://downtownanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-22:00"
+   }
+  },
+  {
+   "id": "node/11663801492",
+   "name": "Toronto Central Animal Clinic",
+   "lat": 43.6538092,
+   "lon": -79.363857,
+   "distKm": 1.6,
+   "address": "112 Parliament Street, Toronto, M5A 2Y8",
+   "tags": {
+    "phone": "+1-416-360-7400",
+    "website": "https://torontocentralvet.com",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/3477658894",
+   "name": "Harbourfront Animal Hospital",
+   "lat": 43.6384271,
+   "lon": -79.3902319,
+   "distKm": 1.7,
+   "address": "390 Queens Quay West, Toronto, M5V 3A6",
+   "tags": {
+    "phone": "+1-416-597-9494",
+    "website": "http://harbourfrontanimalhospital.com",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/515619857",
+   "name": "Front Street Animal Hospital",
+   "lat": 43.6414795,
+   "lon": -79.3992209,
+   "distKm": 1.8,
+   "address": "548 Front Street West, Toronto, M5V 3N5",
+   "tags": {
+    "phone": "+1-416-351-1212",
+    "website": "https://frontstreetvet.com/",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
+   }
+  },
+  {
+   "id": "node/4394550356",
+   "name": "Trinity Mews Veterinary Clinic",
+   "lat": 43.6540621,
+   "lon": -79.3606952,
+   "distKm": 1.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4015549344",
+   "name": "Parliament Animal Hospital",
+   "lat": 43.667856,
+   "lon": -79.3696264,
+   "distKm": 2,
+   "address": "584 Parliament Street, Toronto, M4X 1P8",
+   "tags": {}
+  },
+  {
+   "id": "node/10606713141",
+   "name": "Star Veterinary Hospital",
+   "lat": 43.6422466,
+   "lon": -79.4022552,
+   "distKm": 2,
+   "address": "56 Bathurst Street, Toronto, M5V 2P7",
+   "tags": {
+    "phone": "+1-416-900-7827",
+    "website": "https://starveterinaryhospital.ca",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "way/210413726",
+   "name": "Bay Cat Hospital",
+   "lat": 43.6552299,
+   "lon": -79.3586162,
+   "distKm": 2,
+   "address": "525 King Street East, Toronto",
+   "tags": {
+    "phone": "+1-416-941-8920",
+    "website": "https://baycathospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Tu,Th 08:00-19:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/4267064093",
+   "name": "College Street Animal Hospital",
+   "lat": 43.6562675,
+   "lon": -79.4095284,
+   "distKm": 2.1,
+   "address": "486 College Street, Toronto, M6G 1A4",
+   "tags": {
+    "phone": "+1-416-642-1444",
+    "website": "https://collegestreetanimalhospital.com",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/5720657421",
+   "name": "Dundas Euclid Animal Hospital",
+   "lat": 43.6516292,
+   "lon": -79.4100215,
+   "distKm": 2.2,
+   "address": "840 Dundas Street West, Toronto, M6J 1V5",
+   "tags": {
+    "phone": "+1-416-362-9696",
+    "website": "https://www.my-petdoctor.com/",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-16:00"
+   }
+  },
+  {
+   "id": "node/13124282372",
+   "name": "Canary District Animal Hospital",
+   "lat": 43.6528403,
+   "lon": -79.356146,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2904856666",
+   "name": "Veterinary Emergency Clinic",
+   "lat": 43.6740896,
+   "lon": -79.3896608,
+   "distKm": 2.4,
+   "address": "920 Yonge Street",
+   "tags": {
+    "phone": "+1-416-920-2002",
+    "website": "https://www.vectoronto.com/",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/975560181",
+   "name": "Yorkville Animal Hospital",
+   "lat": 43.6739882,
+   "lon": -79.3960003,
+   "distKm": 2.5,
+   "address": "135 Avenue Road, Toronto",
+   "tags": {
+    "website": "https://yorkvilleanimalhospital.ca/"
+   }
+  },
+  {
+   "id": "node/6551628753",
+   "name": "Annex Animal Hospital",
+   "lat": 43.6630435,
+   "lon": -79.4105302,
+   "distKm": 2.5,
+   "address": "716 Bathurst Street, Toronto, M5S 2R4",
+   "tags": {
+    "phone": "+1-416-537-3128",
+    "website": "https://www.annexvet.com",
+    "opening_hours": "Mo 09:00-19:00; Tu-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/803212907",
+   "name": "Queen West Animal Hospital",
+   "lat": 43.64526,
+   "lon": -79.4129806,
+   "distKm": 2.6,
+   "address": "931 Queen Street West, Toronto, M6J 1G5",
+   "tags": {
+    "phone": "+1-416-815-8387",
+    "website": "https://www.queenwestvets.com/",
+    "opening_hours": "Su closed; Mo 08:30-18:00; Tu 08:30-18:00; We 08:30-18:00; Th 08:30-18:00; Fr 08:30-18:00; Sa 08:00-15:00"
+   }
+  },
+  {
+   "id": "node/3506217865",
+   "name": "Davenport Road Animal Hospital",
+   "lat": 43.6743585,
+   "lon": -79.4007181,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7684920629",
+   "name": "Juno Veterinary",
+   "lat": 43.6788615,
+   "lon": -79.3901127,
+   "distKm": 2.9,
+   "address": "1073 Yonge Street",
+   "tags": {}
+  },
+  {
+   "id": "node/6343511105",
+   "name": "Downtown Toronto Cat Clinic",
+   "lat": 43.6632873,
+   "lon": -79.419014,
+   "distKm": 3.1,
+   "address": "739 Bloor Street West, Toronto, M6G 1L6",
+   "tags": {
+    "phone": "+1-416-479-0142",
+    "website": "https://www.torontocatclinic.com/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/6551544264",
+   "name": "Bathurst-Dupont Animal Hospital",
+   "lat": 43.6708097,
+   "lon": -79.4135999,
+   "distKm": 3.1,
+   "address": "1012 Bathurst Street, Toronto, M5R 3G7",
+   "tags": {
+    "phone": "+1416-588-3056",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-17:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/4907912009",
+   "name": "Blue Cross Animal Hospital",
+   "lat": 43.6765438,
+   "lon": -79.357909,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6169558998",
+   "name": "Liberty Village Animal Hospital",
+   "lat": 43.6380785,
+   "lon": -79.4188155,
+   "distKm": 3.3,
+   "address": "171 East Liberty Street, Toronto, M6K 3P6",
+   "tags": {
+    "phone": "+1-647-925-3878",
+    "website": "https://libertyvillageanimalhospital.com",
+    "opening_hours": "Mo 08:00-18:00; Tu 08:00-20:00; We 08:00-18:00; Th 08:00-20:00; Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/6343511100",
+   "name": "Bickford Park Animal Hospital",
+   "lat": 43.662725,
+   "lon": -79.4215802,
+   "distKm": 3.3,
+   "address": "807 Bloor Street West, Toronto, M6G 1L8",
+   "tags": {
+    "phone": "+1-647-347-8387",
+    "website": "https://www.bickfordvet.com/",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/1123689648",
+   "name": "VCA Animal Hospital",
+   "lat": 43.6837629,
+   "lon": -79.3925072,
+   "distKm": 3.5,
+   "address": "1284 Yonge Street, Toronto, M4T 1W5",
+   "tags": {
+    "phone": "+1-416-964-2298",
+    "website": "https://www.ovg.ca/"
+   }
+  },
+  {
+   "id": "node/5459382322",
+   "name": "Juno Veterinary",
+   "lat": 43.6612749,
+   "lon": -79.3397341,
+   "distKm": 3.6,
+   "address": "980 Queen Street East, Toronto",
+   "tags": {
+    "phone": "+1-647-558-9191",
+    "website": "https://www.junovet.com/"
+   }
+  },
+  {
+   "id": "node/6074857130",
+   "name": "Dufferin Queen Animal Hospital",
+   "lat": 43.6425337,
+   "lon": -79.4262902,
+   "distKm": 3.7,
+   "address": "1179A Queen Street West, Toronto, M6J 1J4",
+   "tags": {
+    "phone": "+1-416-536-9965",
+    "website": "https://dqvet.com",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
+   }
+  },
+  {
+   "id": "node/13055280717",
+   "name": "Rosedale - Moore Park Veterinary Clinic",
+   "lat": 43.6860327,
+   "lon": -79.3766871,
+   "distKm": 3.7,
+   "address": "402 Summerhill Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/2781437516",
+   "name": "Dundas Dovercourt Veterinary Hospital",
+   "lat": 43.6497174,
+   "lon": -79.4305017,
+   "distKm": 3.8,
+   "address": "1452 Dundas Street West, Toronto, M6J 1Y6",
+   "tags": {
+    "phone": "+1-416-538-6000",
+    "website": "https://dundasvethospital.ca",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 10:00-15:00"
+   }
+  },
+  {
+   "id": "way/246505296",
+   "name": "Village Gate Animal Hospital",
+   "lat": 43.6800152,
+   "lon": -79.4168784,
+   "distKm": 4,
+   "address": "1357 Bathurst Street",
+   "tags": {
+    "phone": "+1-416-588-9889",
+    "website": "http://www.vgah.ca/"
+   }
+  },
+  {
+   "id": "node/5445577942",
+   "name": "Greenwood Park Animal Hospital",
+   "lat": 43.6688623,
+   "lon": -79.3366785,
+   "distKm": 4.1,
+   "address": "1041 Gerrard Street East, Toronto",
+   "tags": {
+    "phone": "+1-416-778-6666",
+    "website": "https://www.greenwoodpah.ca/"
+   }
+  },
+  {
+   "id": "node/6371048517",
+   "name": "Bloorcourt Veterinary Clinic",
+   "lat": 43.6603941,
+   "lon": -79.4334094,
+   "distKm": 4.1,
+   "address": "1074 Bloor Street West, Toronto",
+   "tags": {
+    "phone": "+1 416-537-9677",
+    "website": "https://www.bloorcourtvetclinic.com/en-ca"
+   }
+  },
+  {
+   "id": "node/13276774158",
+   "name": "Leslieville Animal Hospital",
+   "lat": 43.6628746,
+   "lon": -79.3324599,
+   "distKm": 4.2,
+   "address": "1166 Queen Street East",
+   "tags": {
+    "phone": "+1-416-463-8387",
+    "website": "https://www.leslievillevets.com/"
+   }
+  },
+  {
+   "id": "node/13284208459",
+   "name": "Balmy Beach Pet Hospitla",
+   "lat": 43.6634851,
+   "lon": -79.3286597,
+   "distKm": 4.5,
+   "address": null,
+   "tags": {
+    "phone": "+1-647-983-2400",
+    "website": "https://balmybeachpets.com/",
+    "opening_hours": "Mo 09:00-18:00; Tu closed; We-Th 09:00-18:00; Fr 09:00-15:00; Sa closed; Su 10:00-15:00"
+   }
+  },
+  {
+   "id": "node/4636691943",
+   "name": "Riverdale Animal Hospital",
+   "lat": 43.679913,
+   "lon": -79.3390667,
+   "distKm": 4.6,
+   "address": "901 Danforth Avenue, Toronto, M4J 1L8",
+   "tags": {
+    "phone": "+1-416-465-4655",
+    "website": "http://www.theriverdaleanimalhospital.com/",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-13:00"
+   }
+  },
+  {
+   "id": "node/7580623961",
+   "name": "Wychwood Park Animal Hospital",
+   "lat": 43.6818858,
+   "lon": -79.4238139,
+   "distKm": 4.6,
+   "address": "631 St. Clair Avenue West, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "node/6845991717",
+   "name": "The Jameson Queen Animal Hospital",
+   "lat": 43.6403272,
+   "lon": -79.4385894,
+   "distKm": 4.7,
+   "address": "1516 Queen Street West, Toronto, M6R 1A4",
+   "tags": {
+    "phone": "+1-647-812-2627",
+    "website": "https://jamesonqueen.com/",
+    "opening_hours": "Mo-Fr 08:30-18:30"
+   }
+  },
+  {
+   "id": "node/6464404750",
+   "name": "St. Clair Veterinary",
+   "lat": 43.6808103,
+   "lon": -79.4290843,
+   "distKm": 4.8,
+   "address": "777 St. Clair Avenue West",
+   "tags": {
+    "phone": "+1 416-654-0242",
+    "website": "https://stclairveterinary.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "way/804503481",
+   "name": "Bayview Animal Hospital",
+   "lat": 43.6971774,
+   "lon": -79.3722503,
+   "distKm": 5,
+   "address": "1234 Bayview Avenue",
+   "tags": {
+    "website": "https://www.bayviewvet.ca/"
+   }
+  },
+  {
+   "id": "node/5459788323",
+   "name": "Parkdale Animal Hospital",
+   "lat": 43.6393884,
+   "lon": -79.4433498,
+   "distKm": 5.1,
+   "address": "1654 Queen Street West, Toronto",
+   "tags": {
+    "phone": "+1-416-532-1169",
+    "website": "https://parkdalevets.com",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-14:00"
+   }
+  },
+  {
+   "id": "way/117010150",
+   "name": "VCA Usher Animal Hospital",
+   "lat": 43.6977368,
+   "lon": -79.3981563,
+   "distKm": 5.1,
+   "address": "29 Chaplin Crescent, Toronto, M5P 1A2",
+   "tags": {}
+  },
+  {
+   "id": "node/6328179202",
+   "name": "Roncy Village Veterinary Clinic",
+   "lat": 43.6457038,
+   "lon": -79.4486417,
+   "distKm": 5.3,
+   "address": "215 Roncesvalles Avenue, Toronto, M6R 2L6",
+   "tags": {
+    "phone": "+1-416-538-8387",
+    "website": "https://roncyvillagevetclinic.com",
+    "opening_hours": "Mo-Tu 08:00-19:00; We 08:00-13:00, 15:00-19:00; Th-Fr 08:00-19:00; Sa 08:00-14:00"
+   }
+  },
+  {
+   "id": "node/12356156630",
+   "name": "Roncesvalles Animal Hospital",
+   "lat": 43.6394756,
+   "lon": -79.4467025,
+   "distKm": 5.3,
+   "address": "18 Roncesvalles Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/1396631416",
+   "name": "Davisville Park Animal Hospital",
+   "lat": 43.701927,
+   "lon": -79.387834,
+   "distKm": 5.4,
+   "address": null,
+   "tags": {
+    "phone": "+1-416-489-8387",
+    "website": "https://davisvilleparkvets.com",
+    "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+   }
+  },
+  {
+   "id": "node/4379889591",
+   "name": "Dundas West Animal Hospital",
+   "lat": 43.6533178,
+   "lon": -79.4503155,
+   "distKm": 5.4,
+   "address": "2160 Dundas Street West, Toronto, M6R 1X3",
+   "tags": {
+    "phone": "+1-416-535-8387",
+    "website": "https://dundaswestvets.com/",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-14:30"
+   }
+  },
+  {
+   "id": "node/4379889595",
+   "name": "Dundas West Animal Hospital Cat",
+   "lat": 43.65337,
+   "lon": -79.4504406,
+   "distKm": 5.4,
+   "address": "2168 Dundas Street West, Toronto, M6R 1X3",
+   "tags": {}
+  },
+  {
+   "id": "node/1298038792",
+   "name": "Banks Animal Hospital",
+   "lat": 43.671854,
+   "lon": -79.319169,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11897627996",
+   "name": "Donlands Animal Hospital",
+   "lat": 43.6943121,
+   "lon": -79.34272,
+   "distKm": 5.6,
+   "address": "413 Donlands Avenue",
+   "tags": {
+    "phone": "+1-416-467-9590"
+   }
+  },
+  {
+   "id": "node/8916718220",
+   "name": "Fraser-MacDonald Animal Hospital",
+   "lat": 43.6557187,
+   "lon": -79.454417,
+   "distKm": 5.7,
+   "address": "1577 Bloor Street West, Toronto",
+   "tags": {
+    "phone": "+1-416-531-1175",
+    "website": "https://animalhospitalbloorwest.ca/"
+   }
+  },
+  {
+   "id": "node/1186839103",
+   "name": "My Animal Veterinary Clinic",
+   "lat": 43.706468,
+   "lon": -79.3892,
+   "distKm": 5.9,
+   "address": "703 Mount Pleasant Road, Toronto",
+   "tags": {}
+  },
+  {
+   "id": "node/3631921550",
+   "name": "Toronto Veterinary Rehabilitation Center",
+   "lat": 43.6673817,
+   "lon": -79.3110618,
+   "distKm": 6,
+   "address": "1735 Queen Street East, Toronto, M4L 6S5",
+   "tags": {
+    "phone": "+1 416-693-0993",
+    "website": "https://torontovetrehab.com/"
+   }
+  },
+  {
+   "id": "node/7805089336",
+   "name": "Eglinton Veterinary",
+   "lat": 43.7052874,
+   "lon": -79.4045973,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10993493435",
+   "name": "VCA Kew Beach Animal Hospital",
+   "lat": 43.6674121,
+   "lon": -79.3108643,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/984727252",
+   "name": "Mt. Pleasant-Davisville Veterinary Hospital",
+   "lat": 43.7074657,
+   "lon": -79.389568,
+   "distKm": 6.1,
+   "address": "745 Mount Pleasant Road, Toronto",
+   "tags": {
+    "phone": "+1-416-481-7387",
+    "website": "https://www.ovg.ca/mpdvh.aspx",
+    "opening_hours": "Mo-Fr 08:00-17:00; Sa-Su off"
+   }
+  },
+  {
+   "id": "node/1208677605",
+   "name": "Juno Veterinary",
+   "lat": 43.7042539,
+   "lon": -79.4092988,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7857111032",
+   "name": "Upper Village Veterinary Hospital",
+   "lat": 43.7041524,
+   "lon": -79.4113075,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/207100119",
+   "name": "Leaside Animal Clinic",
+   "lat": 43.7073874,
+   "lon": -79.3760816,
+   "distKm": 6.1,
+   "address": "1662 Bayview Avenue",
+   "tags": {}
+  }
+ ]
+}

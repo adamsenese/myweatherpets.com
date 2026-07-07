@@ -1,0 +1,372 @@
+{
+ "$schemaVersion": 1,
+ "city": "colorado-springs",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:29:41.883Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 31,
+ "places": [
+  {
+   "id": "node/13687395101",
+   "name": "Exotic Bird Shop",
+   "lat": 38.8372601,
+   "lon": -104.8084521,
+   "distKm": 1.2,
+   "address": "845 East Platte Avenue, 80903",
+   "tags": {}
+  },
+  {
+   "id": "node/2382449249",
+   "name": "Wag N' Wash Pet Center",
+   "lat": 38.8475098,
+   "lon": -104.8439514,
+   "distKm": 2.5,
+   "address": "West Uintah Street",
+   "tags": {}
+  },
+  {
+   "id": "node/4497398791",
+   "name": "Healthy Pet Center",
+   "lat": 38.8474188,
+   "lon": -104.8439535,
+   "distKm": 2.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4906461129",
+   "name": "Petco",
+   "lat": 38.8497189,
+   "lon": -104.8484464,
+   "distKm": 2.9,
+   "address": "West Uintah Street, Colorado Springs, CO 80904",
+   "tags": {
+    "phone": "+1 719-578-1123",
+    "website": "https://stores.petco.com/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/1285399627",
+   "name": "PetSmart",
+   "lat": 38.8011815,
+   "lon": -104.8204309,
+   "distKm": 3.6,
+   "address": "2160 Southgate Road, Colorado Springs, CO 80906",
+   "tags": {
+    "phone": "+1-719-447-0622",
+    "website": "https://www.petsmart.com/stores/us/co/colorado-springs-store1002.html",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-19:00; PH off",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9767272368",
+   "name": "Pet Pantry & Dog Wash",
+   "lat": 38.804211,
+   "lon": -104.839804,
+   "distKm": 3.7,
+   "address": "1791 South 8th Street, Colorado Springs, CO 80905",
+   "tags": {
+    "phone": "+1-719-629-9273",
+    "website": "https://pet-pantry.com/",
+    "opening_hours": "Su 11:00-18:00, Mo-Sa 9:00-19:00"
+   }
+  },
+  {
+   "id": "node/9049229792",
+   "name": "Republic of Paws",
+   "lat": 38.8464981,
+   "lon": -104.8618315,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1282330342",
+   "name": "Petco",
+   "lat": 38.7933094,
+   "lon": -104.8023872,
+   "distKm": 4.8,
+   "address": "1650 East Cheyenne Mountain Boulevard, Colorado Springs, CO 80906",
+   "tags": {
+    "phone": "+1 719-540-8090",
+    "website": "https://stores.petco.com/co/coloradosprings/pet-supplies-coloradosprings-co-941.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/10224134145",
+   "name": "Furry Friends, Inc.",
+   "lat": 38.8780473,
+   "lon": -104.8486334,
+   "distKm": 5.4,
+   "address": "3270 Centennial Boulevard",
+   "tags": {
+    "phone": "+1-719-473-1272",
+    "website": "https://www.furryfriendsinc.com/",
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/4187594291",
+   "name": "PetSmart",
+   "lat": 38.8415659,
+   "lon": -104.7555956,
+   "distKm": 5.8,
+   "address": "571 North Academy Boulevard, Colorado Springs, CO 80909",
+   "tags": {
+    "phone": "+1 719-570-1313",
+    "website": "https://www.petsmart.com/stores/us/co/colorado-springs-store0232.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/1288626025",
+   "name": "Suzie's Pet Supplies",
+   "lat": 38.8274088,
+   "lon": -104.7502453,
+   "distKm": 6.2,
+   "address": "4204 Shelley Avenue, Colorado Springs, CO 80910",
+   "tags": {
+    "phone": "+1 719-596-2129",
+    "website": "https://suziespetsupplies.com/"
+   }
+  },
+  {
+   "id": "node/5039725804",
+   "name": "Cute Clips Pet Salon",
+   "lat": 38.8649685,
+   "lon": -104.7561512,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/771381303",
+   "name": "Petco",
+   "lat": 38.9031683,
+   "lon": -104.8215492,
+   "distKm": 7.7,
+   "address": "5020 North Nevada Avenue, Colorado Springs, CO 80918-8609",
+   "tags": {
+    "phone": "+1 719-266-1224",
+    "website": "https://stores.petco.com/co/coloradosprings/pet-supplies-coloradosprings-co-2422.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4337051852",
+   "name": "Natural Pet",
+   "lat": 38.8859756,
+   "lon": -104.7598757,
+   "distKm": 7.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7201104497",
+   "name": "Pet Supplies Plus",
+   "lat": 38.893075,
+   "lon": -104.7601824,
+   "distKm": 8.4,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/5096437029",
+   "name": "Seascape Auqatics",
+   "lat": 38.9034536,
+   "lon": -104.7754633,
+   "distKm": 8.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7771124862",
+   "name": "Pet Pantry",
+   "lat": 38.9048149,
+   "lon": -104.7731971,
+   "distKm": 8.9,
+   "address": "5055 North Academy Boulevard, Colorado Springs, 80918",
+   "tags": {
+    "phone": "+1-719-629-9274"
+   }
+  },
+  {
+   "id": "node/4351801089",
+   "name": "Wild Birds Unlimited",
+   "lat": 38.9083892,
+   "lon": -104.7815301,
+   "distKm": 9,
+   "address": "2450 Montebello Square Drive, Colorado Springs, CO 80918",
+   "tags": {
+    "phone": "+1-719-596-1819",
+    "website": "https://coloradosprings.wbu.com/",
+    "opening_hours": "Mo-Sa 09:00-17:30; Su 11:00-15:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "node/4171912790",
+   "name": "Petco",
+   "lat": 38.8751663,
+   "lon": -104.7221161,
+   "distKm": 9.7,
+   "address": "3050 North Powers Boulevard, Colorado Springs, CO 80922-2803",
+   "tags": {
+    "phone": "+1 719-637-8777",
+    "website": "https://stores.petco.com/co/coloradosprings/pet-supplies-coloradosprings-co-1408.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/12586883256",
+   "name": "Scales 'N Tails",
+   "lat": 38.8695289,
+   "lon": -104.719254,
+   "distKm": 9.7,
+   "address": "5829 Constitution Avenue, Colorado Springs, CO 80915",
+   "tags": {
+    "phone": "+1 719-375-1436",
+    "website": "https://www.scalesntails.com/"
+   }
+  },
+  {
+   "id": "way/73534006",
+   "name": "PetSmart",
+   "lat": 38.8753106,
+   "lon": -104.717397,
+   "distKm": 10.1,
+   "address": "2965 New Center Point, Colorado Springs, CO 80922",
+   "tags": {
+    "phone": "+1 719-637-3308",
+    "website": "https://www.petsmart.com/stores/us/co/colorado-springs-store1124.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/6311346704",
+   "name": "Bentley's",
+   "lat": 38.8925933,
+   "lon": -104.7226786,
+   "distKm": 10.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2266553731",
+   "name": "Stubby's Dog Wash & Grooming Salon",
+   "lat": 38.9295775,
+   "lon": -104.7962462,
+   "distKm": 10.9,
+   "address": "1565 York Road, 80918",
+   "tags": {
+    "phone": "+1-719-434-8451",
+    "website": "http://StubbysDogWash.com"
+   }
+  },
+  {
+   "id": "node/2268556805",
+   "name": "Scales 'N Tails",
+   "lat": 38.930886,
+   "lon": -104.7953138,
+   "distKm": 11,
+   "address": "6902 North Academy Boulevard, 80918",
+   "tags": {
+    "phone": "+1-719-598-0526",
+    "website": "https://www.scalesntails.info/"
+   }
+  },
+  {
+   "id": "node/2271228243",
+   "name": "Wag N' Wash",
+   "lat": 38.9336269,
+   "lon": -104.8028741,
+   "distKm": 11.2,
+   "address": "1234 East Woodmen Road, Colorado Springs, CO 80920",
+   "tags": {
+    "phone": "+1-719-228-9274",
+    "website": "https://www.wagnwash.com/store/co/colorado-springs/3045-colorado-springs/3045",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "way/1304174125",
+   "name": "PetSmart",
+   "lat": 38.9421674,
+   "lon": -104.8019418,
+   "distKm": 12.2,
+   "address": "7680 North Academy Boulevard, Colorado Springs, CO 80920",
+   "tags": {
+    "phone": "+1-719-531-7870",
+    "website": "https://www.petsmart.com/stores/us/co/colorado-springs-store0233.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/194732245",
+   "name": "Wag n' Wash",
+   "lat": 38.9114149,
+   "lon": -104.7183752,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/7761681418",
+   "name": "Republic of Paws",
+   "lat": 38.9137677,
+   "lon": -104.7167883,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/798985482",
+   "name": "Furry Friends Inc",
+   "lat": 38.9398654,
+   "lon": -104.7590896,
+   "distKm": 13,
+   "address": "3586 Hartsel Drive, Colorado Springs, CO 80920",
+   "tags": {}
+  },
+  {
+   "id": "way/210339399",
+   "name": "Petco",
+   "lat": 38.9739866,
+   "lon": -104.7456825,
+   "distKm": 16.9,
+   "address": "9690 Prominent Point, Colorado Springs, CO 80924",
+   "tags": {
+    "phone": "+1-719-495-4337",
+    "website": "https://stores.petco.com/co/coloradosprings/pet-supplies-coloradosprings-co-1472.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/4517764590",
+   "name": "Serenity Paws Pet Stylist",
+   "lat": 39.0105894,
+   "lon": -104.8062019,
+   "distKm": 19.7,
+   "address": "12225 Voyager Parkway, 80921",
+   "tags": {
+    "phone": "+1-719-487-9105",
+    "website": "https://www.serenitypawspetstylist.com/",
+    "opening_hours": "Mo-Sa 08:00-16:00"
+   }
+  }
+ ]
+}

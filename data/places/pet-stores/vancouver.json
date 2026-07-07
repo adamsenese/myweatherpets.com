@@ -1,0 +1,688 @@
+{
+ "$schemaVersion": 1,
+ "city": "vancouver",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:39:03.949Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/3944755573",
+   "name": "Bosley's",
+   "lat": 49.2790983,
+   "lon": -123.117706,
+   "distKm": 0.5,
+   "address": "839 Homer Street, Vancouver",
+   "tags": {
+    "phone": "+1-778-945-7477",
+    "website": "https://store.petvalu.ca/location/7085/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/1219260878",
+   "name": "Van Pet Pet Food And Supplies",
+   "lat": 49.2763512,
+   "lon": -123.120737,
+   "distKm": 0.7,
+   "address": "1065 Hamilton Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-687-8933",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/2985506419",
+   "name": "Bones Pet Stores",
+   "lat": 49.2771195,
+   "lon": -123.1162583,
+   "distKm": 0.7,
+   "address": "181 Smithe Street, Vancouver",
+   "tags": {
+    "website": "https://bonesps.com/",
+    "opening_hours": "Mo-Sa 10:00-20:30; Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/3746149028",
+   "name": "Pet Pantry",
+   "lat": 49.279977,
+   "lon": -123.130811,
+   "distKm": 0.8,
+   "address": "1068 Davie Street, Vancouver, V6E 1M3",
+   "tags": {
+    "phone": "+1-778-379-4090",
+    "website": "https://petpantry.ca/",
+    "opening_hours": "Mo-Su 10:30-19:00"
+   }
+  },
+  {
+   "id": "node/3932729302",
+   "name": "Barking Babies",
+   "lat": 49.275407,
+   "lon": -123.122779,
+   "distKm": 0.8,
+   "address": "1188 Homer Street, Vancouver",
+   "tags": {
+    "website": "https://www.barkingbabies.com/?srsltid=AfmBOoqDkIYyLYYMVOy8QMvgONDvG--LkkYLE4pS6ESPTYOigyqal46N",
+    "opening_hours": "Mo-Fr 10:00-17:30; Sa,Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/4844889822",
+   "name": "Aquariums West",
+   "lat": 49.2776347,
+   "lon": -123.113682,
+   "distKm": 0.8,
+   "address": "788 Beatty Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-669-9249",
+    "website": "https://aquariumswest.com/",
+    "opening_hours": "Mo-Fr 11:00-17:00; Sa-Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/5695738865",
+   "name": "Bones",
+   "lat": 49.2809021,
+   "lon": -123.130672,
+   "distKm": 0.8,
+   "address": "1171 Thurlow Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-559-2663",
+    "website": "https://www.bonesps.com/",
+    "opening_hours": "11:00-20:00"
+   }
+  },
+  {
+   "id": "node/8377026719",
+   "name": "Spoiled Paws",
+   "lat": 49.2738403,
+   "lon": -123.1230089,
+   "distKm": 1,
+   "address": "1255 Pacific Street",
+   "tags": {
+    "phone": "+1-604-899-1220",
+    "website": "https://spoiledpaws.ca/",
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/8095877843",
+   "name": "Tisol",
+   "lat": 49.286155,
+   "lon": -123.1398348,
+   "distKm": 1.4,
+   "address": "1685 Davie Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-683-8170",
+    "website": "https://store.petvalu.ca/location/7072/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 09:00-21:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/6752573303",
+   "name": "Bosley's",
+   "lat": 49.2892894,
+   "lon": -123.1390185,
+   "distKm": 1.5,
+   "address": "1005 Denman Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-688-4233",
+    "website": "https://store.petvalu.ca/location/7008/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Valu"
+   }
+  },
+  {
+   "id": "node/11575216945",
+   "name": "Naturally Urban",
+   "lat": 49.2795653,
+   "lon": -123.0986862,
+   "distKm": 1.6,
+   "address": "229 Keefer Street",
+   "tags": {
+    "phone": "+1-604-738-3663",
+    "website": "https://nupetfooddelivery.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/869514483",
+   "name": "The Granville Island Pet Treatery",
+   "lat": 49.2703334,
+   "lon": -123.1357552,
+   "distKm": 1.8,
+   "address": "1496 Cartwright Street, Vancouver",
+   "tags": {
+    "website": "https://pettreatery.com/"
+   }
+  },
+  {
+   "id": "node/5044026243",
+   "name": "PetSmart",
+   "lat": 49.2675779,
+   "lon": -123.113413,
+   "distKm": 1.8,
+   "address": "409 West 2nd Avenue, Vancouver",
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/860711937",
+   "name": "Bosley's Pet Food Plus",
+   "lat": 49.2656799,
+   "lon": -123.1223078,
+   "distKm": 1.9,
+   "address": "814 West 6th Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/9236478785",
+   "name": "The Doghouse",
+   "lat": 49.2693084,
+   "lon": -123.1386863,
+   "distKm": 2,
+   "address": "Anderson Street, Vancouver",
+   "tags": {
+    "opening_hours": "Mo-Fr 06:30-18:30"
+   }
+  },
+  {
+   "id": "node/4750151922",
+   "name": "Discover Dogs",
+   "lat": 49.263769,
+   "lon": -123.1124512,
+   "distKm": 2.2,
+   "address": "386 West 8th Avenue, Vancouver",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa,Su,PH 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/5062491766",
+   "name": "NHV Natural Pet",
+   "lat": 49.266081,
+   "lon": -123.1403341,
+   "distKm": 2.3,
+   "address": "1574 West 6th Avenue",
+   "tags": {
+    "phone": "+1-778-929-1574",
+    "website": "https://www.nhvnaturalpetproducts.com/",
+    "opening_hours": "Mo-Fr 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/7416210948",
+   "name": "Pet Grooming and Dog Daycare",
+   "lat": 49.2632035,
+   "lon": -123.1057468,
+   "distKm": 2.4,
+   "address": "29 West Broadway",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-17:00"
+   }
+  },
+  {
+   "id": "node/10263476618",
+   "name": "Woof Dog Shoppe",
+   "lat": 49.2708242,
+   "lon": -123.1481807,
+   "distKm": 2.4,
+   "address": "1905 West 1st Avenue",
+   "tags": {
+    "phone": "+1-604-568-4212",
+    "website": "https://woofdogshoppe.com/",
+    "opening_hours": "Mo-Sa 09:00-17:00; Su off; PH off"
+   }
+  },
+  {
+   "id": "node/3994476560",
+   "name": "Benni & Co.",
+   "lat": 49.2682503,
+   "lon": -123.1485393,
+   "distKm": 2.6,
+   "address": "1917 West 4th Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/12215549763",
+   "name": "Moonlight Natural Pet Store",
+   "lat": 49.2812121,
+   "lon": -123.0837646,
+   "distKm": 2.7,
+   "address": "935 East Hastings Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-559-3680",
+    "website": "https://www.moonlightpetstore.com/vancouver/",
+    "opening_hours": "Mo-Fr 10:00-18:30; Sa,Su 10:00-17:00"
+   }
+  },
+  {
+   "id": "node/8256110822",
+   "name": "Pet Food 'n More",
+   "lat": 49.2567703,
+   "lon": -123.127009,
+   "distKm": 2.9,
+   "address": "3244 Oak Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-730-9674",
+    "website": "https://www.petfoodnmore.com/pet-food-n-more-locations/vancouver-oak-pet-food/",
+    "opening_hours": "Mo-Fr 10:00-21:00; Sa 09:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/11911527832",
+   "name": "The Raw Connoisseurs",
+   "lat": 49.2622254,
+   "lon": -123.0951572,
+   "distKm": 2.9,
+   "address": "2521 Guelph Street",
+   "tags": {
+    "phone": "+1-778-806-7773",
+    "website": "https://therawconnoisseurs.ca/",
+    "opening_hours": "Su 13:00-17:00; Tu-Fr 10:30-18:30; Sa 10:30-18:00; Mo 10:30-17:00"
+   }
+  },
+  {
+   "id": "node/9354067579",
+   "name": "Tisol",
+   "lat": 49.2585776,
+   "lon": -123.1014581,
+   "distKm": 3,
+   "address": "2949 Main Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-873-4117",
+    "website": "https://store.petvalu.ca/location/7104/",
+    "opening_hours": "Su 09:00-19:00; Mo-Sa 09:00-21:00"
+   }
+  },
+  {
+   "id": "node/9934943007",
+   "name": "Woofgang",
+   "lat": 49.2553297,
+   "lon": -123.1149457,
+   "distKm": 3.1,
+   "address": "3356 Cambie Street",
+   "tags": {
+    "phone": "+1-604-876-8759",
+    "website": "https://www.woofgang.ca/",
+    "opening_hours": "Tu-Fr 11:00-18:00; Sa 11:00-17:00; Dec 24-Jan 1 \"off\""
+   }
+  },
+  {
+   "id": "node/11301150612",
+   "name": "Pet Pantry",
+   "lat": 49.2559306,
+   "lon": -123.1010052,
+   "distKm": 3.3,
+   "address": "3272 Main Street",
+   "tags": {
+    "phone": "+1-604-423-4484",
+    "website": "https://petpantry.ca/pages/davie-street",
+    "opening_hours": "Mo-Su 10:30-19:00"
+   }
+  },
+  {
+   "id": "node/6357070683",
+   "name": "The Cat and Dog Shop",
+   "lat": 49.2684458,
+   "lon": -123.1654721,
+   "distKm": 3.6,
+   "address": "West 4th Avenue, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/11184495029",
+   "name": "Bones Pet Stores",
+   "lat": 49.2641544,
+   "lon": -123.1626119,
+   "distKm": 3.7,
+   "address": "2501 West Broadway, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/11024113034",
+   "name": "Bosley's",
+   "lat": 49.2542967,
+   "lon": -123.090197,
+   "distKm": 3.9,
+   "address": "3425 Fraser Street, Vancouver",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "way/292138639",
+   "name": "Mr. Pet's",
+   "lat": 49.2693776,
+   "lon": -123.0692432,
+   "distKm": 4,
+   "address": "1710 Commercial Drive",
+   "tags": {
+    "opening_hours": "Mo-Fr 09:30-20:00; Sa,Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/1722618435",
+   "name": "Noah's Pet Ark",
+   "lat": 49.2639564,
+   "lon": -123.169727,
+   "distKm": 4.1,
+   "address": "2886 West Broadway",
+   "tags": {
+    "phone": "+1-604-736-9517",
+    "website": "https://www.noahspetark.ca/",
+    "opening_hours": "Mo 10:00-19:00; Tu-Fr 09:00-19:00; Sa-Su 10:00-19:00"
+   }
+  },
+  {
+   "id": "node/10738311390",
+   "name": "Pet Pantry Pet Food & Supply Stores",
+   "lat": 49.2647331,
+   "lon": -123.069498,
+   "distKm": 4.2,
+   "address": "2240 Commercial Drive, Vancouver",
+   "tags": {
+    "opening_hours": "Mo-Su 10:30-19:00"
+   }
+  },
+  {
+   "id": "node/10991245518",
+   "name": "Three Dog Bakery",
+   "lat": 49.2461964,
+   "lon": -123.1009817,
+   "distKm": 4.3,
+   "address": "4348 Main Street",
+   "tags": {
+    "phone": "+1-604-737-3647",
+    "website": "http://threedogvancouver.com/",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 11:00-17:00"
+   }
+  },
+  {
+   "id": "node/11184495033",
+   "name": "Bosley's by Pet Valu",
+   "lat": 49.2643003,
+   "lon": -123.1728444,
+   "distKm": 4.3,
+   "address": "3045 West Broadway, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/12118929749",
+   "name": "For Pet's Sake",
+   "lat": 49.3115445,
+   "lon": -123.0781785,
+   "distKm": 4.4,
+   "address": "109 East 1st Street",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/10991245505",
+   "name": "Cascadia Natural Pet Supply",
+   "lat": 49.2442156,
+   "lon": -123.1011154,
+   "distKm": 4.5,
+   "address": "4512 Main Street",
+   "tags": {}
+  },
+  {
+   "id": "node/7662864589",
+   "name": "Bosley's by Pet Valu",
+   "lat": 49.3237073,
+   "lon": -123.1142779,
+   "distKm": 4.6,
+   "address": "1493 Marine Drive",
+   "tags": {
+    "brand": "Bosley's by Pet Valu"
+   }
+  },
+  {
+   "id": "node/8808637991",
+   "name": "Global Pet Foods",
+   "lat": 49.3204964,
+   "lon": -123.0951024,
+   "distKm": 4.6,
+   "address": "801 Marine Drive, North Vancouver",
+   "tags": {
+    "brand": "Global Pet Foods"
+   }
+  },
+  {
+   "id": "node/13269344745",
+   "name": "Bosley's",
+   "lat": 49.2589757,
+   "lon": -123.0695738,
+   "distKm": 4.6,
+   "address": "2886 Commercial Drive",
+   "tags": {}
+  },
+  {
+   "id": "node/2073727595",
+   "name": "Long Live Cats and Dogs",
+   "lat": 49.2812787,
+   "lon": -123.0559918,
+   "distKm": 4.7,
+   "address": "2425 East Hastings Street, V5K 1Y8",
+   "tags": {
+    "phone": "+1-604-336-3093"
+   }
+  },
+  {
+   "id": "node/8808637986",
+   "name": "KORNA Natural Pet Supplies",
+   "lat": 49.3240386,
+   "lon": -123.1065655,
+   "distKm": 4.7,
+   "address": "1174 Marine Drive, North Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/12572794819",
+   "name": "In The Raw Pet Food",
+   "lat": 49.3143069,
+   "lon": -123.0785681,
+   "distKm": 4.7,
+   "address": "142a West 3rd Street, North Vancouver",
+   "tags": {
+    "opening_hours": "Mo-Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13816601359",
+   "name": "Happy Cat",
+   "lat": 49.2451097,
+   "lon": -123.0899459,
+   "distKm": 4.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4333903091",
+   "name": "Pet Food 'n More",
+   "lat": 49.263753,
+   "lon": -123.1853156,
+   "distKm": 5.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1512782107",
+   "name": "PetSmart",
+   "lat": 49.3281245,
+   "lon": -123.1398818,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/12218288400",
+   "name": "Bosley's",
+   "lat": 49.2809233,
+   "lon": -123.0463884,
+   "distKm": 5.4,
+   "address": "2828 East Hastings Street, Vancouver",
+   "tags": {
+    "phone": "+1-604-251-3917",
+    "website": "https://store.petvalu.ca/location/7068/",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-18:00; PH 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/7686310040",
+   "name": "Simply Natural Raw Pet Food",
+   "lat": 49.2358851,
+   "lon": -123.1557143,
+   "distKm": 5.8,
+   "address": "5565 West Boulevard",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/5287258587",
+   "name": "Bosley's",
+   "lat": 49.3263814,
+   "lon": -123.0725261,
+   "distKm": 6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12494448308",
+   "name": "Bosley's",
+   "lat": 49.24393,
+   "lon": -123.0621384,
+   "distKm": 6.1,
+   "address": "2195 Kingsway",
+   "tags": {}
+  },
+  {
+   "id": "node/3523798853",
+   "name": "Paws and Claws Pantry",
+   "lat": 49.3372665,
+   "lon": -123.1003126,
+   "distKm": 6.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11072666132",
+   "name": "True Carnivores",
+   "lat": 49.2322508,
+   "lon": -123.1558034,
+   "distKm": 6.2,
+   "address": "5961 West Boulevard, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/4937624927",
+   "name": "North America Pet Store",
+   "lat": 49.2426968,
+   "lon": -123.0594472,
+   "distKm": 6.3,
+   "address": "2255 Kingsway, V5N 2T6",
+   "tags": {
+    "phone": "+1 604 438 7166",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/12218224018",
+   "name": "K&K Pet Foods",
+   "lat": 49.2453329,
+   "lon": -123.1854321,
+   "distKm": 6.3,
+   "address": "4595 Dunbar Street, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "way/866517558",
+   "name": "Tisol",
+   "lat": 49.2588542,
+   "lon": -123.040828,
+   "distKm": 6.4,
+   "address": "3033 Grandview Highway",
+   "tags": {
+    "phone": "+1-604-436-3001",
+    "website": "https://store.petvalu.ca/location/7103/",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 09:00-18:00"
+   }
+  },
+  {
+   "id": "node/4854120555",
+   "name": "PetSmart",
+   "lat": 49.3061017,
+   "lon": -123.0378547,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/10873708617",
+   "name": "Just For Barks",
+   "lat": 49.3096418,
+   "lon": -123.0402008,
+   "distKm": 6.6,
+   "address": "400 Brooksbank Avenue, North Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/8724590032",
+   "name": "Main Aquarium",
+   "lat": 49.2241741,
+   "lon": -123.1014712,
+   "distKm": 6.7,
+   "address": "6660 Main Street, Vancouver",
+   "tags": {}
+  },
+  {
+   "id": "node/12306483396",
+   "name": "PetSmart",
+   "lat": 49.2586194,
+   "lon": -123.0316604,
+   "distKm": 7,
+   "address": "2860 Bentall Street, Vancouver, V5M 4H4",
+   "tags": {
+    "phone": "+1-604-434-1522",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/736683856",
+   "name": "Bosley's by Pet Valu",
+   "lat": 49.3343766,
+   "lon": -123.1794854,
+   "distKm": 7.2,
+   "address": "2403 Marine Drive, West Vancouver",
+   "tags": {
+    "brand": "RBC"
+   }
+  },
+  {
+   "id": "node/9530337017",
+   "name": "Van Pet",
+   "lat": 49.2811857,
+   "lon": -123.0137677,
+   "distKm": 7.8,
+   "address": "4111 Hastings Street",
+   "tags": {
+    "phone": "+1-604-294-8933",
+    "website": "https://vanpetfood.com/",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:00-18:00; PH 10:00-18:00"
+   }
+  }
+ ]
+}

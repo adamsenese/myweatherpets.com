@@ -1,0 +1,655 @@
+{
+ "$schemaVersion": 1,
+ "city": "minneapolis",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:30:43.009Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/12793964546",
+   "name": "Vet Partners Pet Hospital",
+   "lat": 44.9757135,
+   "lon": -93.2532522,
+   "distKm": 1,
+   "address": "1030 Washington Avenue South, Minneapolis, MN 55415",
+   "tags": {
+    "phone": "+1-612-746-0300",
+    "website": "https://myvetpartners.com/"
+   }
+  },
+  {
+   "id": "node/13431276378",
+   "name": "Livewell Animal Hospital",
+   "lat": 44.9893987,
+   "lon": -93.2565806,
+   "distKm": 1.4,
+   "address": "307 1st Avenue Northeast, Minneapolis, MN 55413",
+   "tags": {
+    "website": "https://www.livewellanimal.com/our-locations/minneapolis-mn/st-anthony/"
+   }
+  },
+  {
+   "id": "node/4617470784",
+   "name": "Pet Doctors",
+   "lat": 44.9625145,
+   "lon": -93.276947,
+   "distKm": 1.9,
+   "address": "25 East Franklin Avenue, Minneapolis, MN 55404",
+   "tags": {
+    "phone": "+1-612-607-0044",
+    "website": "https://petdoctorsanimalclinic.com/",
+    "opening_hours": "Mo-We 08:30-18:00; Th 08:30-20:00; Fr 08:30-18:00; Sa 10:00-14:00; Su closed"
+   }
+  },
+  {
+   "id": "way/118880403",
+   "name": "Lyndale Animal Hospital",
+   "lat": 44.9560055,
+   "lon": -93.2883466,
+   "distKm": 3,
+   "address": "2544 Lyndale Avenue South, Minneapolis, MN 55405",
+   "tags": {
+    "website": "https://lyndaleanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00;"
+   }
+  },
+  {
+   "id": "node/4993586040",
+   "name": "MetroPet Animal Hospital",
+   "lat": 44.9553295,
+   "lon": -93.2966517,
+   "distKm": 3.5,
+   "address": "2603 Hennepin Avenue South",
+   "tags": {
+    "phone": "+1-612-374-4414",
+    "website": "https://metropetmn.com/",
+    "opening_hours": "Mo-Fr 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/9175674007",
+   "name": "Kenwood Pet Clinic",
+   "lat": 44.9615196,
+   "lon": -93.3081779,
+   "distKm": 3.8,
+   "address": "2107 Penn Avenue South, Minneapolis, MN 55405",
+   "tags": {
+    "phone": "+16123775551",
+    "website": "https://www.kenwoodpetclinic.com/"
+   }
+  },
+  {
+   "id": "node/11089833557",
+   "name": "Banfield Pet Hospital",
+   "lat": 45.0048831,
+   "lon": -93.2302409,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/88464299",
+   "name": "Uptown Veterinarian",
+   "lat": 44.9455433,
+   "lon": -93.298049,
+   "distKm": 4.4,
+   "address": "3131 Hennepin Avenue South, 55408",
+   "tags": {
+    "phone": "+1-612-825-6859",
+    "opening_hours": "Mo-Fr 07:45-18:00; Sa 09:00-13:00; PH closed"
+   }
+  },
+  {
+   "id": "node/4806273389",
+   "name": "Kitty Klinic",
+   "lat": 44.9396935,
+   "lon": -93.2878266,
+   "distKm": 4.6,
+   "address": "3447 Lyndale Avenue South, Minneapolis, MN 55408",
+   "tags": {
+    "website": "https://www.kittyklinicmpls.com",
+    "opening_hours": "08:00-18:00"
+   }
+  },
+  {
+   "id": "way/310502453",
+   "name": "Pet Central Animal Hospital",
+   "lat": 45.0171335,
+   "lon": -93.2477948,
+   "distKm": 4.6,
+   "address": "2700 Northeast Central Avenue, Minneapolis, 55418",
+   "tags": {
+    "phone": "+1 612 781 6941",
+    "website": "https://www.petcentralanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/644438689",
+   "name": "East Lake Animal Clinic",
+   "lat": 44.9485806,
+   "lon": -93.2136418,
+   "distKm": 5.2,
+   "address": "4108 East Lake Street, Minneapolis, 55406",
+   "tags": {}
+  },
+  {
+   "id": "node/11349272149",
+   "name": "Broadway Robbinsdale Animal Hospital",
+   "lat": 45.0098578,
+   "lon": -93.3157008,
+   "distKm": 5.3,
+   "address": "2727 West Broadway Avenue, Minneapolis, MN 55411",
+   "tags": {}
+  },
+  {
+   "id": "node/7524084503",
+   "name": "Minnepau Veterinary Clinic",
+   "lat": 44.9689231,
+   "lon": -93.1980119,
+   "distKm": 5.4,
+   "address": "918 Raymond Avenue",
+   "tags": {
+    "phone": "+1-612-314-3969",
+    "website": "https://www.minnepau.com/",
+    "opening_hours": "Mo,We 08:00-17:00; Tu,Th 08:00-18:00; Fr 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/2359061273",
+   "name": "Lake Harriet Veterinary",
+   "lat": 44.9252482,
+   "lon": -93.2906583,
+   "distKm": 6.2,
+   "address": "4249 Bryant Avenue South, Minneapolis, MN 55419",
+   "tags": {
+    "phone": "+1-812-822-1545",
+    "website": "https://lakeharrietvet.com/",
+    "opening_hours": "Mo-We,Fr 07:30-18:00; PH off; Sa 08:00-12:00; Th 07:30-18:00"
+   }
+  },
+  {
+   "id": "way/201327225",
+   "name": "Nokomis Pet Clinic",
+   "lat": 44.9267483,
+   "lon": -93.2301087,
+   "distKm": 6.3,
+   "address": "2917 East 42nd Street, Minneapolis, 55406",
+   "tags": {}
+  },
+  {
+   "id": "way/601130212",
+   "name": "City Cat Clinic & Condos",
+   "lat": 44.9482381,
+   "lon": -93.340796,
+   "distKm": 6.8,
+   "address": "4813 Minnetonka Boulevard, Saint Louis Park, MN 55416",
+   "tags": {
+    "phone": "+19529250035",
+    "website": "https://www.citycatclinic.com/"
+   }
+  },
+  {
+   "id": "node/7568292466",
+   "name": "Minnehaha Animal Hospital",
+   "lat": 44.9157108,
+   "lon": -93.2624387,
+   "distKm": 6.9,
+   "address": "4809 Chicago Avenue, Minneapolis, MN 55417",
+   "tags": {
+    "phone": "+1-612-825-4427",
+    "website": "https://minnehahaanimalhospital.com"
+   }
+  },
+  {
+   "id": "node/13139770975",
+   "name": "Apache Animal Hospital",
+   "lat": 45.0359821,
+   "lon": -93.2246014,
+   "distKm": 7.2,
+   "address": "2503 37th Avenue Northeast, Saint Anthony, MN 55421",
+   "tags": {}
+  },
+  {
+   "id": "node/13139770976",
+   "name": "Tails Of Persia Pet Spa",
+   "lat": 45.035888,
+   "lon": -93.225095,
+   "distKm": 7.2,
+   "address": "2501 37th Avenue Northeast, Minneapolis, MN 55421",
+   "tags": {}
+  },
+  {
+   "id": "node/9190490289",
+   "name": "Midway Animal Hospital",
+   "lat": 44.9632037,
+   "lon": -93.1672911,
+   "distKm": 7.9,
+   "address": "731 Snelling Avenue",
+   "tags": {
+    "phone": "+1 651 644 2100",
+    "website": "https://midwayanimalhospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+   }
+  },
+  {
+   "id": "way/1170439380",
+   "name": "Westgate Pet Clinic",
+   "lat": 44.9232142,
+   "lon": -93.3288486,
+   "distKm": 7.9,
+   "address": "4345 France Avenue South, Minneapolis, MN 55410",
+   "tags": {
+    "phone": "+1-612-925-1121",
+    "website": "https://wagsandwhiskers.com/",
+    "opening_hours": "Mo-Th 08:00-18:00; Fr 07:30-17:00; Sa 08:00-13:00"
+   }
+  },
+  {
+   "id": "node/3163557838",
+   "name": "Blue Cross Animal Hospital",
+   "lat": 44.9058121,
+   "lon": -93.2886299,
+   "distKm": 8.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2035249167",
+   "name": "All Paws Animal Hospital",
+   "lat": 44.9305887,
+   "lon": -93.3469531,
+   "distKm": 8.3,
+   "address": "5225, 5301 Excelsior Boulevard, Saint Louis Park, MN 55416",
+   "tags": {
+    "phone": "+19528480913",
+    "website": "https://www.allpawsvets.com/?y_source=1_MTg0MjgxMjUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-13:00; PH closed"
+   }
+  },
+  {
+   "id": "way/845504172",
+   "name": "VCA Feist Animal Hospital",
+   "lat": 44.9482308,
+   "lon": -93.1608291,
+   "distKm": 8.8,
+   "address": "1430 Marshall Avenue, Saint Paul, MN 55104",
+   "tags": {
+    "phone": "+1-651-646-7257",
+    "website": "https://vcahospitals.com/feist"
+   }
+  },
+  {
+   "id": "node/12947152962",
+   "name": "Ark Pet Hospital",
+   "lat": 45.050903,
+   "lon": -93.2174175,
+   "distKm": 8.9,
+   "address": "151 Silver Lake Road Northwest, New Brighton",
+   "tags": {
+    "phone": "+1-651-633-0567",
+    "website": "https://newbrightonpethospital.com/",
+    "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-13:00"
+   }
+  },
+  {
+   "id": "node/660909454",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.9176056,
+   "lon": -93.1863349,
+   "distKm": 9.1,
+   "address": "2032 Ford Parkway",
+   "tags": {}
+  },
+  {
+   "id": "node/7147743970",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.9916652,
+   "lon": -93.1480947,
+   "distKm": 9.3,
+   "address": "1136 Larpenteur Avenue West, Roseville, MN 55113",
+   "tags": {}
+  },
+  {
+   "id": "way/1333405531",
+   "name": "Access Veterinary Care",
+   "lat": 45.032399,
+   "lon": -93.3596591,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12272163245",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.9115144,
+   "lon": -93.3528654,
+   "distKm": 10.1,
+   "address": "5103 Gus Young Lane, Edina, MN 55436",
+   "tags": {
+    "website": "https://www.banfield.com/locations/veterinarians/mn/edina/edi/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "way/79236575",
+   "name": "Grand Avenue Veterinary Center",
+   "lat": 44.9397352,
+   "lon": -93.148283,
+   "distKm": 10.1,
+   "address": "1140 Grand Avenue, Saint Paul, MN 55105",
+   "tags": {
+    "phone": "+1 651 2243038",
+    "website": "https://www.grandavevet.com/"
+   }
+  },
+  {
+   "id": "way/1383074481",
+   "name": "New Hope Animal Hospital",
+   "lat": 45.0244296,
+   "lon": -93.3808017,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12475233201",
+   "name": "Como Park Animal Hospital",
+   "lat": 44.9920929,
+   "lon": -93.1271067,
+   "distKm": 11,
+   "address": "621 Larpenteur Avenue West, 55113",
+   "tags": {
+    "website": "https://www.comoparkanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/1707840521",
+   "name": "Hopkins Pet Hospital",
+   "lat": 44.9249593,
+   "lon": -93.391645,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1333410638",
+   "name": "Arden Shoreview Animal Hospital",
+   "lat": 45.0505778,
+   "lon": -93.1537501,
+   "distKm": 11.9,
+   "address": "1261 County Road E West, Saint Paul, MN 55112",
+   "tags": {}
+  },
+  {
+   "id": "way/100226142",
+   "name": "Fort Road Animal Clinic",
+   "lat": 44.9218964,
+   "lon": -93.1349683,
+   "distKm": 12,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11985813281",
+   "name": "BluePearl",
+   "lat": 45.054248,
+   "lon": -93.15556,
+   "distKm": 12.1,
+   "address": "1285 Grey Fox Road, Arden Hills, MN 55112",
+   "tags": {}
+  },
+  {
+   "id": "node/12810902035",
+   "name": "Vet Partners Edina",
+   "lat": 44.8746628,
+   "lon": -93.3267873,
+   "distKm": 12.5,
+   "address": "7101 France Avenue South, Edina, MN 55435",
+   "tags": {
+    "website": "https://myvetpartners.com/edina-2/",
+    "opening_hours": "Mo-Fr 08:00-18:00"
+   }
+  },
+  {
+   "id": "node/13978782352",
+   "name": "Brighton Veterinary Hospital",
+   "lat": 45.0858156,
+   "lon": -93.2213143,
+   "distKm": 12.5,
+   "address": "2615 Mississippi Street",
+   "tags": {
+    "phone": "+1-651-636-1063",
+    "website": "https://www.brightonvethospital.com/",
+    "opening_hours": "Mo,Th 08:00-20:00; Tu 07:00-20:00; We,Fr 08:00-18:00; Sa 08:00-12:00"
+   }
+  },
+  {
+   "id": "node/9338833150",
+   "name": "Bass Lake Pet Hospital",
+   "lat": 45.0562044,
+   "lon": -93.3841845,
+   "distKm": 12.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/773589529",
+   "name": "Plymouth Heights Pet Hospital",
+   "lat": 45.04458,
+   "lon": -93.3973281,
+   "distKm": 12.8,
+   "address": "9200 49th Avenue North, New Hope, MN 55428",
+   "tags": {}
+  },
+  {
+   "id": "node/13765036033",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.862999,
+   "lon": -93.2935004,
+   "distKm": 13,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/6417826210",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.9339796,
+   "lon": -93.4250377,
+   "distKm": 13.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/141901861",
+   "name": "Pomeroy's Animal Hospital",
+   "lat": 44.9509096,
+   "lon": -93.0911263,
+   "distKm": 14,
+   "address": "178",
+   "tags": {}
+  },
+  {
+   "id": "node/1773276669",
+   "name": "Animal Hospital",
+   "lat": 45.0807233,
+   "lon": -93.144538,
+   "distKm": 14.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/605096330",
+   "name": "Arcade Animal Hospital",
+   "lat": 44.9758889,
+   "lon": -93.0657767,
+   "distKm": 15.7,
+   "address": "1144 Arcade Street, 55106",
+   "tags": {}
+  },
+  {
+   "id": "node/12200020660",
+   "name": "Nova Veterinary Clinic",
+   "lat": 44.8393228,
+   "lon": -93.3094946,
+   "distKm": 15.8,
+   "address": "9056 Penn Avenue South, Bloomington, MN 55431",
+   "tags": {
+    "website": "https://www.novavetclinic.com/"
+   }
+  },
+  {
+   "id": "way/880372968",
+   "name": "Edinburgh Pet Health Center",
+   "lat": 45.1093245,
+   "lon": -93.342111,
+   "distKm": 15.8,
+   "address": null,
+   "tags": {
+    "phone": "+1-763-493-9080"
+   }
+  },
+  {
+   "id": "way/527082912",
+   "name": "Skadron Animal Hospital",
+   "lat": 44.891596,
+   "lon": -93.0773812,
+   "distKm": 17.6,
+   "address": "178 Marie Avenue East, West St Paul, MN 55118",
+   "tags": {}
+  },
+  {
+   "id": "way/527085041",
+   "name": "Southview Animal Hospital",
+   "lat": 44.883299,
+   "lon": -93.0833514,
+   "distKm": 17.7,
+   "address": "32 Mendota Road East, Inver Grove Heights, MN 55077",
+   "tags": {}
+  },
+  {
+   "id": "node/13714742437",
+   "name": "Glen Lake Animal Hospital",
+   "lat": 44.9029928,
+   "lon": -93.4675668,
+   "distKm": 18,
+   "address": "14805 Excelsior Boulevard, Minnetonka, MN 55345",
+   "tags": {
+    "phone": "+19529351232",
+    "website": "https://glenlakeanimalhospital.com/"
+   }
+  },
+  {
+   "id": "node/460005308",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.830148,
+   "lon": -93.1628973,
+   "distKm": 18.3,
+   "address": "1278 Town Centre Drive, Eagan, MN 55123",
+   "tags": {
+    "phone": "+1 651-688-3001",
+    "website": "https://www.banfield.com/locations/veterinarians/mn/eagan/eag/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00"
+   }
+  },
+  {
+   "id": "node/5752836960",
+   "name": "WellHaven Pet Health",
+   "lat": 45.0954689,
+   "lon": -93.429158,
+   "distKm": 18.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/1719957774",
+   "name": "Vet Eye Pros",
+   "lat": 44.8269277,
+   "lon": -93.1651804,
+   "distKm": 18.5,
+   "address": "1380 Duckwood Drive, Eagan, MN 55123",
+   "tags": {}
+  },
+  {
+   "id": "node/8541854051",
+   "name": "Golden Veterinary Care",
+   "lat": 44.9722969,
+   "lon": -93.5014397,
+   "distKm": 18.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1374555601",
+   "name": "Companion Animal Hospital",
+   "lat": 44.8271422,
+   "lon": -93.1603408,
+   "distKm": 18.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/766064545",
+   "name": "Douglas Animal Hospital",
+   "lat": 45.1176733,
+   "lon": -93.401917,
+   "distKm": 18.9,
+   "address": "116 Central Avenue, Osseo, MN 55369",
+   "tags": {}
+  },
+  {
+   "id": "way/47233361",
+   "name": "Flying Cloud Animal Hospital",
+   "lat": 44.856418,
+   "lon": -93.4346261,
+   "distKm": 19,
+   "address": "12365 Singletree Lane, Eden Prairie, MN 55344",
+   "tags": {
+    "website": "https://www.flyingcloudanimalhospital.com/"
+   }
+  },
+  {
+   "id": "way/1450970997",
+   "name": "Allied Veterinary Emergency & Referral",
+   "lat": 44.8537197,
+   "lon": -93.4309976,
+   "distKm": 19,
+   "address": "8300 Flying Cloud Drive, Eden Prairie, MN 55344",
+   "tags": {
+    "phone": "+1-952-452-0025",
+    "opening_hours": "24/7"
+   }
+  },
+  {
+   "id": "node/13783820540",
+   "name": "Banfield Pet Hospital",
+   "lat": 44.8121594,
+   "lon": -93.3322128,
+   "distKm": 19.2,
+   "address": "10538 France Avenue South, Bloomington, MN 55431",
+   "tags": {
+    "phone": "+1-952-888-1586",
+    "website": "https://banfield.com",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off"
+   }
+  },
+  {
+   "id": "node/13809526457",
+   "name": "France Avenue Pet Hospital",
+   "lat": 44.810457,
+   "lon": -93.3274513,
+   "distKm": 19.2,
+   "address": "3701 West Old Shakopee Road, Bloomington, MN 55431",
+   "tags": {
+    "phone": "+1-952-746-9296",
+    "website": "https://franceavepethospital.com/",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+   }
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "$schemaVersion": 1,
+ "city": "birmingham",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:35:51.087Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 3,
+ "places": [
+  {
+   "id": "way/676917336",
+   "name": "Dog Days of Birmingham",
+   "lat": 33.5135131,
+   "lon": -86.8091812,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {
+    "website": "https://www.dogdaysofbirmingham.com/",
+    "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-10:00,16:00-18:00; Su 16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/13175317450",
+   "name": "Dogtopia",
+   "lat": 33.4816378,
+   "lon": -86.7926109,
+   "distKm": 4.4,
+   "address": "1722 27th Court South, Homewood, AL 35209",
+   "tags": {
+    "phone": "+1-205-440-3888",
+    "opening_hours": "Mo-Fr 06:30-19:00; Sa 09:00-17:00; Su 16:00-18:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12853515114",
+   "name": "Camp Bow Wow",
+   "lat": 33.4154489,
+   "lon": -86.8442863,
+   "distKm": 11.9,
+   "address": "2153 Clearview Road, Hoover, AL 35226",
+   "tags": {
+    "phone": "+1 205-846-9630",
+    "website": "https://www.campbowwow.com/hoover/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

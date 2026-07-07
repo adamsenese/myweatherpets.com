@@ -1,0 +1,178 @@
+{
+ "$schemaVersion": 1,
+ "city": "boise",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:34:11.577Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 17,
+ "places": [
+  {
+   "id": "way/737406310",
+   "name": "Fort Boise Dog Park",
+   "lat": 43.6169435,
+   "lon": -116.1842245,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/247735272",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6048378,
+   "lon": -116.231496,
+   "distKm": 2.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10833432389",
+   "name": "Encore Skyline Dog Park",
+   "lat": 43.584966,
+   "lon": -116.2012954,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1328267402",
+   "name": "Clubhound",
+   "lat": 43.6491444,
+   "lon": -116.2672313,
+   "distKm": 6.5,
+   "address": "415 East Remington Street, Garden City, ID 83714",
+   "tags": {
+    "website": "https://clubhound.com/faqs"
+   }
+  },
+  {
+   "id": "way/582722257",
+   "name": "Sterling Dog Park",
+   "lat": 43.6155028,
+   "lon": -116.3053599,
+   "distKm": 8.3,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/984470406",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.5790567,
+   "lon": -116.2952437,
+   "distKm": 8.5,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1257639517",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.5566499,
+   "lon": -116.1280577,
+   "distKm": 8.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/461409894",
+   "name": "Binx Community Dog Park",
+   "lat": 43.5345408,
+   "lon": -116.3000636,
+   "distKm": 11.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1243630020",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.5645578,
+   "lon": -116.3398123,
+   "distKm": 12.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/982100922",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.632208,
+   "lon": -116.3707472,
+   "distKm": 13.7,
+   "address": null,
+   "tags": {
+    "barrier": "fence"
+   }
+  },
+  {
+   "id": "way/935623174",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.5470177,
+   "lon": -116.3480184,
+   "distKm": 14,
+   "address": "6363 South Arable Way, Meridian, ID 83642",
+   "tags": {}
+  },
+  {
+   "id": "way/1046737942",
+   "name": "Eagle Dog Park",
+   "lat": 43.710755,
+   "lon": -116.3145617,
+   "distKm": 14,
+   "address": null,
+   "tags": {
+    "website": "https://www.cityofeagle.org/Facilities/Facility/Details/PetIQ-Dog-Park-15"
+   }
+  },
+  {
+   "id": "way/913631153",
+   "name": "Storey Bark Park",
+   "lat": 43.6011826,
+   "lon": -116.3877387,
+   "distKm": 15,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/913619093",
+   "name": "Discovery Dog Park",
+   "lat": 43.5455793,
+   "lon": -116.3664964,
+   "distKm": 15.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1134103571",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6800789,
+   "lon": -116.394728,
+   "distKm": 17.1,
+   "address": null,
+   "tags": {
+    "dog": "yes"
+   }
+  },
+  {
+   "id": "way/1349499497",
+   "name": "Idaho Pups and Ales",
+   "lat": 43.6043189,
+   "lon": -116.430528,
+   "distKm": 18.4,
+   "address": "70 South Outpost Lane, Meridian, ID 83642",
+   "tags": {
+    "website": "https://idahopupsandales.com/"
+   }
+  },
+  {
+   "id": "way/1067752388",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 43.6930131,
+   "lon": -116.4157312,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

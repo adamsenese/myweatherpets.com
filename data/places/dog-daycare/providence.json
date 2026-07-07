@@ -1,0 +1,35 @@
+{
+ "$schemaVersion": 1,
+ "city": "providence",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:34:05.817Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 2,
+ "places": [
+  {
+   "id": "node/13228555444",
+   "name": "Dogtopia",
+   "lat": 41.7535396,
+   "lon": -71.4350582,
+   "distKm": 8,
+   "address": "30 Jefferson Boulevard, Warwick, RI 02888",
+   "tags": {
+    "phone": "+1-401-903-4900",
+    "website": "https://www.dogtopia.com/warwick/",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/874850563",
+   "name": "TLC Pet Services",
+   "lat": 41.7048102,
+   "lon": -71.4538135,
+   "distKm": 13.7,
+   "address": "2945 Post Road, Warwick, RI 02886",
+   "tags": {
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

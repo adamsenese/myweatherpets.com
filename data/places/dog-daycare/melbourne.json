@@ -1,0 +1,77 @@
+{
+ "$schemaVersion": 1,
+ "city": "melbourne",
+ "category": "dog-daycare",
+ "fetchedAt": "2026-07-07T15:40:36.898Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 5,
+ "places": [
+  {
+   "id": "node/3360746832",
+   "name": "The Cattery Company",
+   "lat": -37.8055005,
+   "lon": 144.9900094,
+   "distKm": 2.5,
+   "address": "85 Cromwell Street",
+   "tags": {
+    "phone": "+61 3 9486 0863",
+    "website": "https://catboard.com.au",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/12773760998",
+   "name": "Kip Doggy Daycare",
+   "lat": -37.7605634,
+   "lon": 144.9620979,
+   "distKm": 5.9,
+   "address": "197 Albion Street",
+   "tags": {
+    "website": "https://kip.com.au",
+    "opening_hours": "Mo-Fr 07:00-18:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11406975882",
+   "name": "Woofers Sleepovers",
+   "lat": -37.9053408,
+   "lon": 145.0529869,
+   "distKm": 12.9,
+   "address": "659 North Road, VIC 3204",
+   "tags": {
+    "website": "https://dogminding.com.au/",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "node/11434865357",
+   "name": "Melbourne Dog Trainers",
+   "lat": -37.9053323,
+   "lon": 145.0529888,
+   "distKm": 12.9,
+   "address": "659a North Road, VIC 3204",
+   "tags": {
+    "phone": "+61 3 8609 9700",
+    "website": "https://melbournedogtrainers.com.au/",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "amenity": "animal_boarding"
+   }
+  },
+  {
+   "id": "way/1164175395",
+   "name": "Hoochy Poochy Doggy Daycare",
+   "lat": -37.8208095,
+   "lon": 145.1631751,
+   "distKm": 17.6,
+   "address": "25 Terra Cotta Drive, VIC 3130",
+   "tags": {
+    "phone": "+61 3 8578 1411",
+    "website": "https://hoochypoochy.com.au/",
+    "amenity": "animal_boarding"
+   }
+  }
+ ]
+}

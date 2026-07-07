@@ -1,0 +1,555 @@
+{
+ "$schemaVersion": 1,
+ "city": "boston",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:26:30.325Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 46,
+ "places": [
+  {
+   "id": "node/7747602038",
+   "name": "Loyal Companion",
+   "lat": 42.3455522,
+   "lon": -71.0647346,
+   "distKm": 1.7,
+   "address": "1030 Washington Street, Boston, MA 02118",
+   "tags": {
+    "phone": "+1-857-957-4838",
+    "website": "https://loyalcompanion.com/a/pages/locations/228/loyal-companion-south-end"
+   }
+  },
+  {
+   "id": "node/7983357926",
+   "name": "D'Tails Pet Boutique",
+   "lat": 42.3468602,
+   "lon": -71.070644,
+   "distKm": 1.8,
+   "address": "73 Berkeley Street, Boston, MA 02116",
+   "tags": {
+    "phone": "+1-857-263-7921",
+    "website": "http://www.dtailspetboutique.com/",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
+   }
+  },
+  {
+   "id": "node/13709923695",
+   "name": "Polkadog Bakery",
+   "lat": 42.3432563,
+   "lon": -71.0684309,
+   "distKm": 2,
+   "address": "256 Shawmut Avenue, Boston, MA 02118",
+   "tags": {}
+  },
+  {
+   "id": "node/7535642195",
+   "name": "Fish & Bone",
+   "lat": 42.3501517,
+   "lon": -71.081378,
+   "distKm": 2.2,
+   "address": "217 Newbury Street, Boston, MA 02116",
+   "tags": {
+    "phone": "+1-857-753-4176",
+    "website": "https://www.thefishandbone.com/"
+   }
+  },
+  {
+   "id": "node/1975523486",
+   "name": "PetSmart",
+   "lat": 42.3984132,
+   "lon": -71.0694091,
+   "distKm": 4.3,
+   "address": "5 Mystic View Road, Everett, MA 02149",
+   "tags": {
+    "phone": "+1 617-387-2568",
+    "website": "https://www.petsmart.com/stores/us/ma/everett-store0791.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/13576326801",
+   "name": "Scritches & Boops",
+   "lat": 42.3841367,
+   "lon": -71.1003385,
+   "distKm": 4.3,
+   "address": "62C Summer Street, 02143",
+   "tags": {
+    "phone": "+1-617-996-6671",
+    "website": "https://scritchesandboops.com/",
+    "opening_hours": "We-Su 11:00-19:00"
+   }
+  },
+  {
+   "id": "node/355795169",
+   "name": "Pet Spa",
+   "lat": 42.3849913,
+   "lon": -71.1123889,
+   "distKm": 5.2,
+   "address": "669 Somerville Avenue",
+   "tags": {}
+  },
+  {
+   "id": "node/2623047095",
+   "name": "Pet Supplies Plus",
+   "lat": 42.4067911,
+   "lon": -71.0835775,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/6101491950",
+   "name": "The Lucky Pup",
+   "lat": 42.3831139,
+   "lon": -71.1197914,
+   "distKm": 5.6,
+   "address": "1700 Massachusetts Avenue, Cambridge, MA 02138",
+   "tags": {}
+  },
+  {
+   "id": "way/29724137",
+   "name": "Big Fish, Little Fish",
+   "lat": 42.3882339,
+   "lon": -71.115435,
+   "distKm": 5.6,
+   "address": "55 Elm Street",
+   "tags": {
+    "phone": "+1-617-666-2444",
+    "website": "https://www.bigfishlittlefishpetstore.com/",
+    "opening_hours": "Mo 11:00-18:30; Tu-Fr 11:00-19:00; Sa 10:00-18:00"
+   }
+  },
+  {
+   "id": "node/13057085902",
+   "name": "Brookline Grooming and Pet Supplies",
+   "lat": 42.3379033,
+   "lon": -71.1215988,
+   "distKm": 5.7,
+   "address": "146;148 Harvard Street, 02446",
+   "tags": {
+    "website": "https://brooklinedoggrooming.com/",
+    "opening_hours": "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 11:00-16:00"
+   }
+  },
+  {
+   "id": "relation/6954722",
+   "name": "Petco",
+   "lat": 42.4078724,
+   "lon": -71.0913093,
+   "distKm": 5.9,
+   "address": "3850 Mystic Valley Parkway",
+   "tags": {
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9349899344",
+   "name": "The Pet Shop",
+   "lat": 42.3514203,
+   "lon": -71.1317639,
+   "distKm": 6.1,
+   "address": "165 Harvard Avenue, Allston, MA 02134",
+   "tags": {
+    "website": "https://www.petshopallston.com/"
+   }
+  },
+  {
+   "id": "way/29828618",
+   "name": "Petco",
+   "lat": 42.362764,
+   "lon": -71.1358867,
+   "distKm": 6.3,
+   "address": "304 Western Avenue, Brighton, MA 02135",
+   "tags": {
+    "phone": "+1 617-254-8800",
+    "website": "https://stores.petco.com/ma/brighton/pet-supplies-brighton-ma-288.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/13735930657",
+   "name": "Crate Escape",
+   "lat": 42.3857905,
+   "lon": -71.1315363,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8244317859",
+   "name": "Pet House",
+   "lat": 42.4201009,
+   "lon": -71.0544352,
+   "distKm": 6.7,
+   "address": "494 Ferry Street, Malden",
+   "tags": {}
+  },
+  {
+   "id": "node/6090838126",
+   "name": "Pet Republic",
+   "lat": 42.3955133,
+   "lon": -71.1283869,
+   "distKm": 6.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3185537681",
+   "name": "Polka Dog Bakery",
+   "lat": 42.3082444,
+   "lon": -71.1153632,
+   "distKm": 7.4,
+   "address": "42 South Street, Jamaica Plain, MA 02130",
+   "tags": {
+    "phone": "+1-617-522-1931",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-20:00; Su 09:00-19:00"
+   }
+  },
+  {
+   "id": "node/1116423553",
+   "name": "PetSmart",
+   "lat": 42.3908203,
+   "lon": -71.1403846,
+   "distKm": 7.5,
+   "address": "160 Alewife Brook Parkway, Cambridge, MA 02138",
+   "tags": {
+    "phone": "+1-617-349-3481",
+    "website": "https://www.petsmart.com/stores/us/ma/cambridge-store1706.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/594000420",
+   "name": "Crate Escape",
+   "lat": 42.3956129,
+   "lon": -71.1592559,
+   "distKm": 9.1,
+   "address": "30 Brighton Street, Belmont, MA 02478",
+   "tags": {
+    "brand": "PetsHotel"
+   }
+  },
+  {
+   "id": "node/10930424745",
+   "name": "Quincy Aquarium",
+   "lat": 42.2740389,
+   "lon": -71.0246607,
+   "distKm": 10,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/13440562572",
+   "name": "DogVenture Supply Co.",
+   "lat": 42.3825954,
+   "lon": -71.197046,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9849301674",
+   "name": "Ciao Bow Wow",
+   "lat": 42.4526628,
+   "lon": -71.1362928,
+   "distKm": 12.1,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-16:00; Su off"
+   }
+  },
+  {
+   "id": "node/12053894362",
+   "name": "Unleashed",
+   "lat": 42.4245631,
+   "lon": -71.1856541,
+   "distKm": 12.6,
+   "address": "1406 Massachusetts Avenue, Arlington, MA 02476",
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/2480696588",
+   "name": "Barks & Bubbles Pet Salon",
+   "lat": 42.4820523,
+   "lon": -71.0661156,
+   "distKm": 13.6,
+   "address": "953 Main Street, Wakefield, MA 01880",
+   "tags": {}
+  },
+  {
+   "id": "node/3286682597",
+   "name": "Petco",
+   "lat": 42.378469,
+   "lon": -71.2230742,
+   "distKm": 13.6,
+   "address": "75 Linden Street, Waltham, MA 02452",
+   "tags": {
+    "phone": "+1 781-736-0200",
+    "website": "https://stores.petco.com/ma/waltham/pet-supplies-waltham-ma-755.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/9885936509",
+   "name": "PetSmart",
+   "lat": 42.3106374,
+   "lon": -71.2148399,
+   "distKm": 13.9,
+   "address": "215 Needham Street, Newton, MA 02461",
+   "tags": {
+    "phone": "+1 617-831-4580",
+    "website": "https://www.petsmart.com/stores/us/ma/newton-store2419.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/212134752",
+   "name": "Pet Supplies Plus",
+   "lat": 42.2643313,
+   "lon": -71.1684322,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/9885944621",
+   "name": "PetSmart",
+   "lat": 42.4834638,
+   "lon": -71.0177926,
+   "distKm": 14.1,
+   "address": "358 Broadway, Saugus, MA 01906",
+   "tags": {
+    "phone": "+1 781-941-2920",
+    "website": "https://www.petsmart.com/stores/us/ma/saugus-store1962.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/935154180",
+   "name": "Wild Birds Unlimited",
+   "lat": 42.460899,
+   "lon": -71.1652493,
+   "distKm": 14.2,
+   "address": "344 Cambridge Road, Woburn, MA 01801",
+   "tags": {
+    "phone": "+1-781-281-0484",
+    "website": "https://woburn.wbu.com/",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 11:00-16:00",
+    "brand": "Wild Birds Unlimited"
+   }
+  },
+  {
+   "id": "way/643516924",
+   "name": "Petco",
+   "lat": 42.3058694,
+   "lon": -71.2199016,
+   "distKm": 14.5,
+   "address": "161;163 Highland Avenue, Needham, MA 02494-3025",
+   "tags": {
+    "phone": "+1 781-444-8100",
+    "website": "https://stores.petco.com/ma/needham/pet-supplies-needham-ma-284.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/5538796926",
+   "name": "Animal Kingdom",
+   "lat": 42.4970542,
+   "lon": -71.0695083,
+   "distKm": 15.3,
+   "address": "627 Main Street, Wakefield, MA 01880",
+   "tags": {
+    "phone": "+1 781 2463313",
+    "website": "http://animalkingdomwakefield.com/"
+   }
+  },
+  {
+   "id": "node/2686911396",
+   "name": "Loyal Companion",
+   "lat": 42.4959245,
+   "lon": -71.1019571,
+   "distKm": 15.5,
+   "address": "93 Main Street, Stoneham, MA 02180",
+   "tags": {}
+  },
+  {
+   "id": "way/216404915",
+   "name": "Gone To The Dogs",
+   "lat": 42.5031321,
+   "lon": -71.0727595,
+   "distKm": 15.9,
+   "address": "55 Albion Street, Wakefield, MA 01880",
+   "tags": {
+    "phone": "+1 781 2456787",
+    "website": "https://www.gonetothedogsgifts.com/"
+   }
+  },
+  {
+   "id": "node/6382238262",
+   "name": "Pet Supplies Plus",
+   "lat": 42.3754779,
+   "lon": -71.2528012,
+   "distKm": 16,
+   "address": "1030 Main Street, Waltham, MA 02451-7427",
+   "tags": {
+    "phone": "+1-781-899-1563",
+    "website": "https://www.petsuppliesplus.com/store/ma/waltham/9064-waltham/9064",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-18:00",
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/940894087",
+   "name": "Unleashed",
+   "lat": 42.2505199,
+   "lon": -70.923421,
+   "distKm": 16.5,
+   "address": "6 Shipyard Drive",
+   "tags": {
+    "brand": "Unleashed"
+   }
+  },
+  {
+   "id": "node/6698148229",
+   "name": "PetSmart",
+   "lat": 42.212635,
+   "lon": -70.9993165,
+   "distKm": 17.1,
+   "address": "250 Grossman Drive, Braintree, MA 02184",
+   "tags": {
+    "phone": "+1 781-356-5980",
+    "website": "https://www.petsmart.com/stores/us/ma/braintree-store0790.html",
+    "opening_hours": "Mo-Fr 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/214290029",
+   "name": "Metro Pets",
+   "lat": 42.4341145,
+   "lon": -71.2420763,
+   "distKm": 17.1,
+   "address": "424 Marrett Road",
+   "tags": {}
+  },
+  {
+   "id": "node/2902682306",
+   "name": "Polka Dog Bakery",
+   "lat": 42.5152654,
+   "lon": -71.0328016,
+   "distKm": 17.4,
+   "address": "240 Market Street, Lynnfield, 01940",
+   "tags": {}
+  },
+  {
+   "id": "node/2257176712",
+   "name": "Petco",
+   "lat": 42.4732877,
+   "lon": -71.2106588,
+   "distKm": 17.7,
+   "address": "51 Middlesex Turnpike, Burlington, MA 01803-4911",
+   "tags": {
+    "phone": "+1 781-221-7160",
+    "website": "https://stores.petco.com/ma/burlington/pet-supplies-burlington-ma-1823.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-18:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/3889294186",
+   "name": "PetSmart",
+   "lat": 42.5158772,
+   "lon": -71.1390433,
+   "distKm": 18.5,
+   "address": "114 Commerce Way, Woburn, MA 01801",
+   "tags": {
+    "phone": "+1 781-460-2240",
+    "website": "https://www.petsmart.com/stores/us/ma/woburn-store1961.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/3889294187",
+   "name": "Petco",
+   "lat": 42.517499,
+   "lon": -71.1369601,
+   "distKm": 18.6,
+   "address": "103 Commerce Way, Woburn, MA 01801",
+   "tags": {
+    "phone": "+1 781-933-2193",
+    "website": "https://stores.petco.com/ma/woburn/pet-supplies-woburn-ma-1784.html",
+    "opening_hours": "09:00-17:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "way/992143941",
+   "name": "Petco",
+   "lat": 42.4809804,
+   "lon": -70.9019727,
+   "distKm": 18.6,
+   "address": "397;413;419 Paradise Road, Swampscott, MA 01907-1332",
+   "tags": {
+    "phone": "+1 781-477-1825",
+    "website": "https://stores.petco.com/ma/swampscott/pet-supplies-swampscott-ma-3715.html",
+    "opening_hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/2030454644",
+   "name": "Paws Rule Pet Resort",
+   "lat": 42.2055121,
+   "lon": -70.9551631,
+   "distKm": 19.2,
+   "address": null,
+   "tags": {
+    "phone": "+1 781-337-7297"
+   }
+  },
+  {
+   "id": "way/652079342",
+   "name": "PetSmart",
+   "lat": 42.2025157,
+   "lon": -71.1553173,
+   "distKm": 19.2,
+   "address": "271 University Avenue, Westwood, MA 02090",
+   "tags": {
+    "phone": "+1 781-355-7781",
+    "website": "https://www.petsmart.com/stores/us/ma/westwood-store2415.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "node/9885944625",
+   "name": "PetSmart",
+   "lat": 42.501387,
+   "lon": -70.9227724,
+   "distKm": 19.3,
+   "address": "10 Traders Way, Salem, MA 01970",
+   "tags": {
+    "phone": "+1 978-745-2112",
+    "website": "https://www.petsmart.com/stores/us/ma/salem-store1197.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  }
+ ]
+}

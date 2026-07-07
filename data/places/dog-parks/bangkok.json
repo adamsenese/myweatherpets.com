@@ -1,0 +1,100 @@
+{
+ "$schemaVersion": 1,
+ "city": "bangkok",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:24:01.027Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 9,
+ "places": [
+  {
+   "id": "way/1372026929",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 13.7402254,
+   "lon": 100.5233361,
+   "distKm": 2.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1459514155",
+   "name": "สวนสุนัขสวนลุมพินี",
+   "lat": 13.7332984,
+   "lon": 100.5446058,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1157347437",
+   "name": "สาทร ด็อกพาร์ค",
+   "lat": 13.7083709,
+   "lon": 100.5191501,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {
+    "dog": "yes",
+    "access": "yes",
+    "website": "https://pr-bangkok.com/?p=62322"
+   }
+  },
+  {
+   "id": "way/1306732425",
+   "name": "สวนสุนัขสวนเบญจกิติ",
+   "lat": 13.7334622,
+   "lon": 100.558442,
+   "distKm": 6.6,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "way/1251549804",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 13.796061,
+   "lon": 100.5518581,
+   "distKm": 7,
+   "address": null,
+   "tags": {
+    "access": "customers"
+   }
+  },
+  {
+   "id": "node/9944284392",
+   "name": "Dog Park 49",
+   "lat": 13.7278855,
+   "lon": 100.5759121,
+   "distKm": 8.6,
+   "address": "8/3 ซอยสุขุมวิท 49, วัฒนา, 10110",
+   "tags": {}
+  },
+  {
+   "id": "way/369561945",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 13.7858678,
+   "lon": 100.5754883,
+   "distKm": 8.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1370279265",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 13.6869967,
+   "lon": 100.3875608,
+   "distKm": 14.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1316235983",
+   "name": "สวนสุนัข",
+   "lat": 13.6204366,
+   "lon": 100.4395714,
+   "distKm": 16.5,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

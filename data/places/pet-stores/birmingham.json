@@ -1,0 +1,105 @@
+{
+ "$schemaVersion": 1,
+ "city": "birmingham",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:35:51.087Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 7,
+ "places": [
+  {
+   "id": "node/3374916693",
+   "name": "Pet Supplies Plus",
+   "lat": 33.464866,
+   "lon": -86.819513,
+   "distKm": 6,
+   "address": "421 Green Springs Highway, Birmingham",
+   "tags": {
+    "brand": "Pet Supplies Plus"
+   }
+  },
+  {
+   "id": "node/7711684993",
+   "name": "Pet Supermarket",
+   "lat": 33.6515963,
+   "lon": -86.8246187,
+   "distKm": 14.8,
+   "address": "1001 Odum Road, Gardendale, AL 35071",
+   "tags": {
+    "phone": "+1-205-694-7913",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Pet Supermarket"
+   }
+  },
+  {
+   "id": "node/3763255563",
+   "name": "PetSmart",
+   "lat": 33.4215671,
+   "lon": -86.6916953,
+   "distKm": 15.4,
+   "address": "5025 Highway 280, Birmingham, AL 35242",
+   "tags": {
+    "phone": "+1 205-437-0254",
+    "website": "https://www.petsmart.com/stores/us/al/birmingham-store1128.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/426038151",
+   "name": "PetSmart",
+   "lat": 33.3776334,
+   "lon": -86.8006164,
+   "distKm": 15.7,
+   "address": "3780 Riverchase Village, Hoover, AL 35244",
+   "tags": {
+    "phone": "+1 205-682-9556",
+    "website": "https://www.petsmart.com/stores/us/al/hoover-store1127.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "PetSmart"
+   }
+  },
+  {
+   "id": "way/968339833",
+   "name": "Petco",
+   "lat": 33.4216435,
+   "lon": -86.6854005,
+   "distKm": 15.8,
+   "address": "5269 Highway 280 South, Birmingham, AL 35242",
+   "tags": {
+    "phone": "+1 205-995-1013",
+    "website": "https://stores.petco.com/al/birmingham/pet-supplies-birmingham-al-1835.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7725988509",
+   "name": "Petco",
+   "lat": 33.3599218,
+   "lon": -86.8549491,
+   "distKm": 18.1,
+   "address": "5631 Grove Boulevard, Birmingham, AL 35226",
+   "tags": {
+    "phone": "+1 205-987-9623",
+    "website": "https://stores.petco.com/al/birmingham/pet-supplies-birmingham-al-1519.html",
+    "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  },
+  {
+   "id": "node/7122756257",
+   "name": "Petco",
+   "lat": 33.6094915,
+   "lon": -86.6249713,
+   "distKm": 19.9,
+   "address": "5451 Patrick Way, Birmingham, AL 35235",
+   "tags": {
+    "phone": "+1 205-517-6989",
+    "website": "https://stores.petco.com/al/birmingham/pet-supplies-birmingham-al-2527.html",
+    "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-19:00",
+    "brand": "Petco"
+   }
+  }
+ ]
+}

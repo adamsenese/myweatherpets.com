@@ -1,0 +1,282 @@
+{
+ "$schemaVersion": 1,
+ "city": "spokane",
+ "category": "veterinarians",
+ "fetchedAt": "2026-07-07T15:34:30.916Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 28,
+ "places": [
+  {
+   "id": "way/47654026",
+   "name": "Veterinary Clinic",
+   "lat": 47.6598834,
+   "lon": -117.4064311,
+   "distKm": 1.5,
+   "address": "218 East Spokane Falls Boulevard, Spokane, WA 99202",
+   "tags": {}
+  },
+  {
+   "id": "way/225503093",
+   "name": "Pet Emergency Clinic",
+   "lat": 47.672108,
+   "lon": -117.4106089,
+   "distKm": 1.9,
+   "address": "21 East Mission Avenue, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "way/904302923",
+   "name": "Hunter Veterinary Clinic",
+   "lat": 47.6746962,
+   "lon": -117.4162883,
+   "distKm": 1.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/402104091",
+   "name": "Audubon Veterinary Clinic",
+   "lat": 47.6829105,
+   "lon": -117.443409,
+   "distKm": 3,
+   "address": "2120 West Northwest Boulevard, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "node/13370520520",
+   "name": "Spokane Cat Clinic",
+   "lat": 47.6863314,
+   "lon": -117.4511011,
+   "distKm": 3.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1028122395",
+   "name": "Garland Animal Clinic",
+   "lat": 47.6939073,
+   "lon": -117.4268158,
+   "distKm": 3.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5995645862",
+   "name": "South Grand Veterinary Clinic",
+   "lat": 47.6262149,
+   "lon": -117.4022415,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/404339917",
+   "name": "Animal Clinic of Spokane",
+   "lat": 47.7158041,
+   "lon": -117.4216017,
+   "distKm": 6.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/314032196",
+   "name": "SouthCare Animal Medical Center",
+   "lat": 47.6108084,
+   "lon": -117.3671775,
+   "distKm": 6.9,
+   "address": "2915 South Palouse Highway, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "way/446474085",
+   "name": "VCA Manito Animal Hospital",
+   "lat": 47.6018812,
+   "lon": -117.3761741,
+   "distKm": 7.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/10822917121",
+   "name": "Animal Emergency Clinic",
+   "lat": 47.6558137,
+   "lon": -117.3164197,
+   "distKm": 8.2,
+   "address": "6522 East 1st Avenue, Spokane Valley, WA",
+   "tags": {
+    "phone": "+1-509-535-8743",
+    "website": "https://www.aecspokane.com/",
+    "opening_hours": "Mo-Fr 18:00-32:00; Sa,Su 00:00-24:00"
+   }
+  },
+  {
+   "id": "way/439992880",
+   "name": "VCA North Division Animal Medical Center",
+   "lat": 47.7373879,
+   "lon": -117.4104447,
+   "distKm": 8.8,
+   "address": "8714 North Division Street, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "way/651637741",
+   "name": "Pet Savers",
+   "lat": 47.6772892,
+   "lon": -117.3028275,
+   "distKm": 9.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/446465602",
+   "name": "North Spokane Veterinary Clinic",
+   "lat": 47.742865,
+   "lon": -117.3961245,
+   "distKm": 9.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/419616284",
+   "name": "Indian Trail Animal Hospital",
+   "lat": 47.7416404,
+   "lon": -117.4852625,
+   "distKm": 10.2,
+   "address": "5150 West Barnes Road, Spokane, WA",
+   "tags": {}
+  },
+  {
+   "id": "way/995488114",
+   "name": "West Plains Animal Hospital",
+   "lat": 47.6414096,
+   "lon": -117.5643852,
+   "distKm": 10.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/505994678",
+   "name": "Millwood Animal Clinic",
+   "lat": 47.6819512,
+   "lon": -117.279797,
+   "distKm": 11.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/415202414",
+   "name": "Fairwood Animal Hospital",
+   "lat": 47.7686875,
+   "lon": -117.4183038,
+   "distKm": 12.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9354378907",
+   "name": "Wandermere Animal Hospital",
+   "lat": 47.7715372,
+   "lon": -117.4049411,
+   "distKm": 12.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1009689239",
+   "name": "All Creatures Veterinary Clinic",
+   "lat": 47.6203207,
+   "lon": -117.2554583,
+   "distKm": 13.5,
+   "address": "11105 South Dishman-Mica Road, Spokane Valley",
+   "tags": {}
+  },
+  {
+   "id": "way/421433084",
+   "name": "Dr. Mom’s Animal Clinic",
+   "lat": 47.6532345,
+   "lon": -117.2402598,
+   "distKm": 13.9,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Th 08:00-17:30"
+   }
+  },
+  {
+   "id": "way/420088360",
+   "name": "Spokane Valley Animal Hospital",
+   "lat": 47.6567822,
+   "lon": -117.2124532,
+   "distKm": 16,
+   "address": "14306 East Sprague Avenue, Spokane Valley, WA 99216",
+   "tags": {
+    "website": "https://www.spokanevalleyvet.com/",
+    "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 12:00-17:00"
+   }
+  },
+  {
+   "id": "way/408799810",
+   "name": "Pioneer Veterinary Services",
+   "lat": 47.6048573,
+   "lon": -117.2220932,
+   "distKm": 16.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/445255983",
+   "name": "Pet Vet",
+   "lat": 47.6520646,
+   "lon": -117.1970405,
+   "distKm": 17.2,
+   "address": "510 South Sullivan Road, Spokane Valley, WA 99037",
+   "tags": {
+    "phone": "+1-509-928-7387",
+    "website": "https://www.petvet.org/",
+    "opening_hours": "Mo-Fr 08:00-19:00"
+   }
+  },
+  {
+   "id": "way/443114672",
+   "name": "Fairchild AFB Vet Clinic",
+   "lat": 47.6326352,
+   "lon": -117.6577004,
+   "distKm": 17.6,
+   "address": "402 N Vet Rd, Fairchild AFB, WA 99011",
+   "tags": {
+    "phone": "+1 509-247-2583"
+   }
+  },
+  {
+   "id": "way/493838935",
+   "name": "Mount Spokane Veterinary Hospital",
+   "lat": 47.8132128,
+   "lon": -117.3486131,
+   "distKm": 18.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/875358489",
+   "name": "Medical Lake Veterinary Hospital",
+   "lat": 47.5844788,
+   "lon": -117.6570215,
+   "distKm": 19.2,
+   "address": "7616 South Bartholomew Road, Medical Lake, WA 99022",
+   "tags": {
+    "phone": "+15092993675",
+    "website": "https://medicallakeveterinaryhospital.com",
+    "opening_hours": "Mo-Fr 07:30-17:30"
+   }
+  },
+  {
+   "id": "way/1290320611",
+   "name": "Greenacres Animal Clinic",
+   "lat": 47.6586743,
+   "lon": -117.1637592,
+   "distKm": 19.6,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

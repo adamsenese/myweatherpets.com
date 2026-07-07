@@ -1,0 +1,85 @@
+{
+ "$schemaVersion": 1,
+ "city": "seoul",
+ "category": "dog-parks",
+ "fetchedAt": "2026-07-07T15:23:41.863Z",
+ "endpoint": "https://overpass-api.de/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 8,
+ "places": [
+  {
+   "id": "way/1107339643",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.5529425,
+   "lon": 127.0405936,
+   "distKm": 5.7,
+   "address": null,
+   "tags": {
+    "access": "yes"
+   }
+  },
+  {
+   "id": "node/4632073213",
+   "name": "접근조심",
+   "lat": 37.5859106,
+   "lon": 126.9085063,
+   "distKm": 6.5,
+   "address": "서울특별시",
+   "tags": {}
+  },
+  {
+   "id": "way/408408853",
+   "name": "반려견놀이터",
+   "lat": 37.5663725,
+   "lon": 126.893163,
+   "distKm": 7.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9878936946",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.4906282,
+   "lon": 126.9193199,
+   "distKm": 9.9,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/1444392874",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.6312374,
+   "lon": 127.0658848,
+   "distKm": 10.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/4641691656",
+   "name": "큰별공원",
+   "lat": 37.5444845,
+   "lon": 126.8489732,
+   "distKm": 11.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/691837854",
+   "name": "Dog park (unnamed on OpenStreetMap)",
+   "lat": 37.650439,
+   "lon": 126.8802334,
+   "distKm": 12.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/692692954",
+   "name": "삼막애견공원",
+   "lat": 37.4288675,
+   "lon": 126.9147476,
+   "distKm": 16.3,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}

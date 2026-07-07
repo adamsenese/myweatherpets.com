@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <meta name="author" content="WeatherPets">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://myweatherpets.com/tools/{{CATEGORY}}/{{SLUG}}/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="WeatherPets">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{META_DESCRIPTION}}">
+  <meta property="og:url" content="https://myweatherpets.com/tools/{{CATEGORY}}/{{SLUG}}/">
+  <meta property="og:image" content="https://myweatherpets.com/images/cities/{{PHOTO_OG}}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{PHOTO_ALT}}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{TITLE}}">
+  <meta name="twitter:description" content="{{META_DESCRIPTION}}">
+  <meta name="twitter:image" content="https://myweatherpets.com/images/cities/{{PHOTO_OG}}">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="/images/favicon-512x512.png">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;family=Rubik:wght@700&amp;display=swap"></noscript>
+  <link rel="stylesheet" href="/css/style.min.css">
+  <link rel="stylesheet" href="/js/vendor/leaflet/leaflet.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="/js/vendor/leaflet/leaflet.css"></noscript>
+  <script defer data-website-id="dfid_PXPPYXsnF2dcVHr4Xpu0t" data-domain="myweatherpets.com" src="https://datafa.st/js/script.js"></script>
+  <script type="application/ld+json">
+  {{JSONLD}}
+  </script>
+</head>
+<body data-tool-category="{{CATEGORY}}" data-city-slug="{{SLUG}}" data-city-name="{{NAME}}" data-city-lat="{{LAT}}" data-city-lon="{{LON}}" data-city-tz="{{TZ}}" data-units-default="{{UNITS}}" data-pet-name="{{PET_NAME}}" data-nws-hourly="{{NWS_HOURLY}}">
+
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="container">
+      <a href="/index.html" class="nav-logo"><img src="/images/logo.png" alt="WeatherPets" class="nav-logo-img" width="128" height="128">WeatherPets</a>
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="/index.html">Home</a>
+        <a href="/weather/">Cities</a>
+        <a href="/tools/" class="active">Tools</a>
+        <a href="/blog/index.html">Blog</a>
+        <a href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" class="nav-cta-badge"><img src="/images/app-store-badge.svg" alt="Download WeatherPets on the App Store" class="nav-badge-img" width="120" height="40"></a>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+
+  <section class="cw-page">
+    <div class="container cw-container">
+
+      <a href="/tools/{{CATEGORY}}/" class="back-to-blog">&larr; {{CATEGORY_LABEL}} finder</a>
+
+      <!-- Hero -->
+      <div class="tp-hero">
+        <h1>{{H1}}</h1>
+        <p class="cw-sub">{{HERO_SUB}}</p>
+        <div class="cw-anchor-desk">
+          <div class="pixel-pet">
+            <img src="/images/team/pets/{{PET}}/f0.png" alt="{{PET_NAME}}, animated pixel scout" width="128" height="128">
+            <img src="/images/team/pets/{{PET}}/f1.png" alt="" width="128" height="128">
+            <img src="/images/team/pets/{{PET}}/f2.png" alt="" width="128" height="128">
+          </div>
+          <div class="wnt-chyron">
+            <div class="wnt-name">{{PET_NAME}}</div>
+            <div class="wnt-beat">{{SCOUT_BEAT}}</div>
+          </div>
+        </div>
+        <p class="cw-commentary" id="tpCommentary" aria-live="polite">{{COMMENTARY_DEFAULT}}</p>
+      </div>
+
+      <div class="tp-alert" id="tpAlert" hidden></div>
+
+      <!-- Verdict panel -->
+      {{VERDICT_PANEL_HTML}}
+
+      <!-- Map + listings -->
+      <div class="cw-block">
+        <h2>{{LISTINGS_HEADING}}</h2>
+        <p>{{LISTINGS_INTRO}}</p>
+        <div class="tp-map" id="tpMap" aria-label="Map of {{CATEGORY_PLURAL}} in {{NAME}}"></div>
+        <p class="tp-map-attrib">Map data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a></p>
+        <ol class="tp-list">
+{{LISTINGS_HTML}}
+        </ol>
+        {{LISTINGS_CAP_NOTE}}
+      </div>
+
+      <!-- Weather prep -->
+      <div class="cw-block">
+        <h2>{{PREP_HEADING}}</h2>
+        <ul class="cw-facts">
+{{PREP_HTML}}
+        </ul>
+      </div>
+
+      <!-- FAQ -->
+      <div class="cw-block">
+        <h2 id="faq">{{NAME}} {{CATEGORY_SINGULAR}} questions</h2>
+        <div class="faq-list">
+{{FAQ_HTML}}
+        </div>
+      </div>
+
+      <!-- Disclaimers -->
+      <p class="tp-disclaimer">Place data &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> (ODbL). Coverage varies by city; a missing pin does not mean a place does not exist, and details change: always call ahead or check official pages. {{EXTRA_DISCLAIMER}} Weather guidance is general care information, not veterinary advice.</p>
+
+      <!-- App CTA -->
+      <div class="app-cta cw-app-cta">
+        <div class="app-cta-head">
+          <span class="app-cta-eyebrow">WeatherPets for iPhone</span>
+          <h3>{{CTA_HEADLINE}}</h3>
+          <p class="cw-cta-sub">{{CTA_SUB}}</p>
+        </div>
+        <a class="app-cta-button" href="https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221" data-fast-goal="tools-app-cta"><img src="/images/app-store-badge.svg" alt="Download WeatherPets on the App Store" width="120" height="40"></a>
+      </div>
+
+      <!-- Cross links -->
+      <div class="related-posts">
+        <h3>Keep exploring</h3>
+        <ul>
+          <li><a href="/weather/{{SLUG}}/">{{NAME}} pet weather: live walk verdicts</a></li>
+{{CROSS_LINKS_HTML}}
+        </ul>
+      </div>
+
+      {{NEARBY_CITIES_HTML}}
+
+    </div>
+  </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <div class="nav-logo"><img src="/images/logo.png" alt="WeatherPets" class="nav-logo-img" width="128" height="128">WeatherPets</div>
+          <p>AI-powered weather scenes featuring your real pet. Available on iOS.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Product</h4>
+          <a href="/index.html">Home</a>
+          <a href="/weather/">City Weather</a>
+          <a href="/tools/">Pet Place Finder</a>
+          <a href="/blog/index.html">Blog</a>
+          <a href="/faq.html">FAQ</a>
+          <a href="/about.html">About</a>
+        </div>
+        <div class="footer-col">
+          <h4>Legal</h4>
+          <a href="/terms.html">Terms of Use</a>
+          <a href="/privacy.html">Privacy Policy</a>
+          <a href="/support.html">Contact</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>&copy; 2026 WeatherPets. All rights reserved.</span>
+        <a href="/support.html">Contact Support</a>
+      </div>
+    </div>
+  </footer>
+
+  <script type="application/json" id="tpPlaces">{{PLACES_JSON}}</script>
+  <script src="/js/vendor/leaflet/leaflet.js" defer></script>
+  <script src="/js/main.min.js" defer></script>
+  <script src="/js/tools-page.min.js" defer></script>
+</body>
+</html>

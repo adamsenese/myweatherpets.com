@@ -1,0 +1,599 @@
+{
+ "$schemaVersion": 1,
+ "city": "madrid",
+ "category": "pet-stores",
+ "fetchedAt": "2026-07-07T15:37:37.579Z",
+ "endpoint": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+ "radiusKm": 20,
+ "rawCount": 60,
+ "places": [
+  {
+   "id": "node/11361728574",
+   "name": "El amor perrijo",
+   "lat": 40.4202961,
+   "lon": -3.7098322,
+   "distKm": 0.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2714421806",
+   "name": "El Jardín de Kika",
+   "lat": 40.4234556,
+   "lon": -3.7048333,
+   "distKm": 0.7,
+   "address": "12 Calle del Pez, Madrid, 28004",
+   "tags": {
+    "phone": "+34 910 06 05 94"
+   }
+  },
+  {
+   "id": "node/2703977213",
+   "name": "Naturanimal",
+   "lat": 40.4242246,
+   "lon": -3.7052464,
+   "distKm": 0.8,
+   "address": "9 Calle del Marqués de Santa Ana, Madrid, 28004",
+   "tags": {}
+  },
+  {
+   "id": "node/2703977218",
+   "name": "Nicolás Herrero",
+   "lat": 40.4251768,
+   "lon": -3.7037841,
+   "distKm": 0.9,
+   "address": "30 Calle del Marqués de Santa Ana, Madrid, 28004",
+   "tags": {
+    "phone": "+34 911435694",
+    "website": "https://www.nicolasherrero.com/peluqueria-canina-nicolas-herrero"
+   }
+  },
+  {
+   "id": "node/4237282956",
+   "name": "Cesflor",
+   "lat": 40.408863,
+   "lon": -3.7105756,
+   "distKm": 1.1,
+   "address": "84 Calle de Toledo, Madrid, 28005",
+   "tags": {}
+  },
+  {
+   "id": "node/12603646626",
+   "name": "Tienda Hípica David",
+   "lat": 40.4074057,
+   "lon": -3.7074756,
+   "distKm": 1.1,
+   "address": "18 Calle Ribera de Curtidores",
+   "tags": {}
+  },
+  {
+   "id": "node/12603646629",
+   "name": "Shop Mascotas",
+   "lat": 40.4075188,
+   "lon": -3.7074792,
+   "distKm": 1.1,
+   "address": "18 Calle Ribera de Curtidores",
+   "tags": {}
+  },
+  {
+   "id": "node/12603646630",
+   "name": "Rastro Mascota",
+   "lat": 40.4075564,
+   "lon": -3.7074911,
+   "distKm": 1.1,
+   "address": "18 Calle Ribera de Curtidores",
+   "tags": {}
+  },
+  {
+   "id": "node/12707221655",
+   "name": "Guaw",
+   "lat": 40.4066257,
+   "lon": -3.6973585,
+   "distKm": 1.3,
+   "address": "18 Ronda de Atocha",
+   "tags": {}
+  },
+  {
+   "id": "node/3269380563",
+   "name": "Vibras Caninas",
+   "lat": 40.4034888,
+   "lon": -3.7022261,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3480343599",
+   "name": "Miscota",
+   "lat": 40.403884,
+   "lon": -3.7071739,
+   "distKm": 1.5,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-21:00"
+   }
+  },
+  {
+   "id": "node/4686842767",
+   "name": "Podenko",
+   "lat": 40.4261602,
+   "lon": -3.7171611,
+   "distKm": 1.5,
+   "address": "36 Calle de Ferraz, Madrid, 28008",
+   "tags": {}
+  },
+  {
+   "id": "node/8611729934",
+   "name": "Como perros y gatos",
+   "lat": 40.4046714,
+   "lon": -3.6956217,
+   "distKm": 1.5,
+   "address": "1 Calle Batalla del Salado, Madrid, 28045",
+   "tags": {
+    "phone": "+34 91 073 51 97",
+    "website": "http://www.comoperrosygatosmadrid.es/",
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-21:00; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/9394659876",
+   "name": "Lobitos & Co",
+   "lat": 40.4312277,
+   "lon": -3.6989359,
+   "distKm": 1.7,
+   "address": "28 Calle de Luchana, Madrid, 28010",
+   "tags": {
+    "website": "https://lobitos.es/"
+   }
+  },
+  {
+   "id": "node/4594765782",
+   "name": "Interzoo",
+   "lat": 40.4323229,
+   "lon": -3.7134793,
+   "distKm": 1.9,
+   "address": "23 Calle de Guzmán el Bueno, Madrid, 28015",
+   "tags": {
+    "phone": "+34 910 184 254",
+    "website": "https://www.interzoo.es/"
+   }
+  },
+  {
+   "id": "node/6022985786",
+   "name": "Guaw",
+   "lat": 40.3984223,
+   "lon": -3.7013778,
+   "distKm": 2.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/8634990950",
+   "name": "Mascoboutique",
+   "lat": 40.4267888,
+   "lon": -3.6814948,
+   "distKm": 2.2,
+   "address": "45 Calle de Castelló, Madrid, 28001",
+   "tags": {}
+  },
+  {
+   "id": "node/12198832667",
+   "name": "Pekes",
+   "lat": 40.4370269,
+   "lon": -3.7034928,
+   "distKm": 2.2,
+   "address": "6 Calle de García de Paredes",
+   "tags": {}
+  },
+  {
+   "id": "node/13203002001",
+   "name": "Pienso express",
+   "lat": 40.397092,
+   "lon": -3.7039178,
+   "distKm": 2.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12198832660",
+   "name": "Vida Marina",
+   "lat": 40.4372104,
+   "lon": -3.703102,
+   "distKm": 2.3,
+   "address": "2 Glorieta del General Álvarez de Castro",
+   "tags": {}
+  },
+  {
+   "id": "node/3997458282",
+   "name": "Harkito Reptile",
+   "lat": 40.3971054,
+   "lon": -3.7157846,
+   "distKm": 2.4,
+   "address": "4 Glorieta Marqués de Vadillo, Madrid, 28019",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-14:30,16:00-19:00; Sa 11:00-14:00"
+   }
+  },
+  {
+   "id": "node/9532057266",
+   "name": "Maskotdrak",
+   "lat": 40.3961105,
+   "lon": -3.7135587,
+   "distKm": 2.4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6483369666",
+   "name": "Interzoo",
+   "lat": 40.4166223,
+   "lon": -3.673535,
+   "distKm": 2.6,
+   "address": "Calle del Alcalde Sáinz de Baranda, Madrid",
+   "tags": {}
+  },
+  {
+   "id": "node/11244834662",
+   "name": "NatuMascota",
+   "lat": 40.3928551,
+   "lon": -3.7084487,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11916229192",
+   "name": "Kiwoko",
+   "lat": 40.4255344,
+   "lon": -3.6744459,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/13753060208",
+   "name": "MQZ Más Que Zoas",
+   "lat": 40.3954416,
+   "lon": -3.7184383,
+   "distKm": 2.7,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Fr 10:30-14:00, Mo-Fr 17:00-20:00, Sa 10:30-14:00"
+   }
+  },
+  {
+   "id": "node/12399560911",
+   "name": "Crazy Animal",
+   "lat": 40.3908051,
+   "lon": -3.6911406,
+   "distKm": 3.1,
+   "address": "6 Calle del Rodio, Madrid, 28045",
+   "tags": {
+    "phone": "+34 914 21 49 10"
+   }
+  },
+  {
+   "id": "node/13062904017",
+   "name": "Mascotamanía",
+   "lat": 40.4002299,
+   "lon": -3.672578,
+   "distKm": 3.2,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3127903718",
+   "name": "Tritón ciencias naturales",
+   "lat": 40.4414935,
+   "lon": -3.6813562,
+   "distKm": 3.3,
+   "address": null,
+   "tags": {
+    "website": "https://www.tritonreptiles.com/"
+   }
+  },
+  {
+   "id": "node/4711200891",
+   "name": "Kiwoko",
+   "lat": 40.4319584,
+   "lon": -3.6689185,
+   "distKm": 3.4,
+   "address": null,
+   "tags": {
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/13039854812",
+   "name": "Miscota",
+   "lat": 40.3988371,
+   "lon": -3.6705605,
+   "distKm": 3.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11099180090",
+   "name": "Tiendanimal",
+   "lat": 40.4433147,
+   "lon": -3.6750949,
+   "distKm": 3.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6142137585",
+   "name": "Pet à Porter - Estética y Boutique mascotas",
+   "lat": 40.4522064,
+   "lon": -3.6959347,
+   "distKm": 4,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6336187107",
+   "name": "TuMascota",
+   "lat": 40.4419444,
+   "lon": -3.6703046,
+   "distKm": 4,
+   "address": "6 Calle de Alustante, Madrid, 28002",
+   "tags": {}
+  },
+  {
+   "id": "node/2304484482",
+   "name": "Mare Nostrum",
+   "lat": 40.3931155,
+   "lon": -3.7405559,
+   "distKm": 4.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9529907828",
+   "name": "Kiwoko",
+   "lat": 40.4552059,
+   "lon": -3.7024192,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {
+    "opening_hours": "Mo-Sa 10:00-21:30; Su,PH 11:00-21:00",
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/12379392805",
+   "name": "Carabanpet",
+   "lat": 40.3873184,
+   "lon": -3.7362957,
+   "distKm": 4.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/2933204615",
+   "name": "Pajarería Selva",
+   "lat": 40.4598307,
+   "lon": -3.6993559,
+   "distKm": 4.8,
+   "address": "271 Calle de Bravo Murillo, Madrid, 28039",
+   "tags": {}
+  },
+  {
+   "id": "node/7830446286",
+   "name": "Peluquería canina",
+   "lat": 40.41025,
+   "lon": -3.6472893,
+   "distKm": 4.8,
+   "address": "28030",
+   "tags": {
+    "phone": "+34 911138313;+34 672154556",
+    "opening_hours": "Mo-Fr 10:30-14:00, 17:30-20:00"
+   }
+  },
+  {
+   "id": "node/11769723780",
+   "name": "Kiwoko",
+   "lat": 40.381666,
+   "lon": -3.6637951,
+   "distKm": 5.2,
+   "address": null,
+   "tags": {
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/11769640549",
+   "name": "Guaw",
+   "lat": 40.3809279,
+   "lon": -3.6621593,
+   "distKm": 5.3,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/3770612116",
+   "name": "Pibenca",
+   "lat": 40.4654804,
+   "lon": -3.6934169,
+   "distKm": 5.5,
+   "address": "2 Calle de las Aguileñas, Madrid, 28029",
+   "tags": {}
+  },
+  {
+   "id": "node/2334442990",
+   "name": "Aquario",
+   "lat": 40.3969774,
+   "lon": -3.7651381,
+   "distKm": 5.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/12548757394",
+   "name": "Los cachorros",
+   "lat": 40.4669208,
+   "lon": -3.704038,
+   "distKm": 5.6,
+   "address": "107 Calle del Capitán Blanco Argibay, Madrid, 28029",
+   "tags": {}
+  },
+  {
+   "id": "node/9626984206",
+   "name": "Masmascota",
+   "lat": 40.395399,
+   "lon": -3.7659434,
+   "distKm": 5.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/9056500970",
+   "name": "Dinomascota",
+   "lat": 40.3754638,
+   "lon": -3.7511411,
+   "distKm": 6.1,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/5397584893",
+   "name": "Openvet",
+   "lat": 40.4724091,
+   "lon": -3.7281128,
+   "distKm": 6.5,
+   "address": "30 Calle del Doctor Juan José López Ibor, Madrid, 28035",
+   "tags": {
+    "opening_hours": "Mo-Su 00:00-24:00"
+   }
+  },
+  {
+   "id": "node/6239866393",
+   "name": "Peluquería canina Neo",
+   "lat": 40.4745611,
+   "lon": -3.7135177,
+   "distKm": 6.5,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6314637827",
+   "name": "TerranovaCNC",
+   "lat": 40.4763602,
+   "lon": -3.7067066,
+   "distKm": 6.6,
+   "address": "60 Calle de Melchor Fernández Almagro, Madrid, 28029",
+   "tags": {
+    "opening_hours": "Mo-Fr 10:00-14:00,17:00-20:30; Sa 10:00-14:00"
+   }
+  },
+  {
+   "id": "node/5069608561",
+   "name": "Pienso Express",
+   "lat": 40.4327826,
+   "lon": -3.6264279,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/11462437595",
+   "name": "Miguitas",
+   "lat": 40.4775344,
+   "lon": -3.7078135,
+   "distKm": 6.8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/402896072",
+   "name": "Tucanpez",
+   "lat": 40.3758304,
+   "lon": -3.6430545,
+   "distKm": 6.9,
+   "address": "Calle de Luis I",
+   "tags": {}
+  },
+  {
+   "id": "node/3292227861",
+   "name": "Pajarería Lemi",
+   "lat": 40.3545924,
+   "lon": -3.6905731,
+   "distKm": 7,
+   "address": "3 Calle Villarrosa, 28041",
+   "tags": {
+    "phone": "+34 91 796 8222"
+   }
+  },
+  {
+   "id": "node/4966795021",
+   "name": "Kiwoko",
+   "lat": 40.3976072,
+   "lon": -3.7836502,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "brand": "Kiwoko"
+   }
+  },
+  {
+   "id": "node/12600903793",
+   "name": "Mía Mascota - Villaverde Bajo",
+   "lat": 40.3548124,
+   "lon": -3.6861586,
+   "distKm": 7.1,
+   "address": null,
+   "tags": {
+    "phone": "+34 917 97 98 54",
+    "website": "http://www.miamascota.com/",
+    "opening_hours": "Mo-Fr 10:00-20:30; Sa 09:30-14:30"
+   }
+  },
+  {
+   "id": "node/6452690585",
+   "name": "Mr. Floyd",
+   "lat": 40.4025155,
+   "lon": -3.6208727,
+   "distKm": 7.2,
+   "address": "28032",
+   "tags": {}
+  },
+  {
+   "id": "node/13393421741",
+   "name": "Pienso Único",
+   "lat": 40.3753253,
+   "lon": -3.7749219,
+   "distKm": 7.6,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "way/316456517",
+   "name": "Super de la Mascota",
+   "lat": 40.3842238,
+   "lon": -3.6241769,
+   "distKm": 7.7,
+   "address": "10 Avenida de la Democracia, Madrid, 28031",
+   "tags": {}
+  },
+  {
+   "id": "node/3223695805",
+   "name": "Pajarería Amazonia",
+   "lat": 40.3454213,
+   "lon": -3.7111239,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  },
+  {
+   "id": "node/6071262340",
+   "name": "Mascotas Doemi",
+   "lat": 40.4355342,
+   "lon": -3.6122607,
+   "distKm": 8,
+   "address": null,
+   "tags": {}
+  }
+ ]
+}
