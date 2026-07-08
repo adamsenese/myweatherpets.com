@@ -4,6 +4,15 @@
 
 Download: https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221
 
+## Quick answers
+
+- **What is WeatherPets?** A free iOS weather app that turns your own dog or cat into your personal weather reporter, using AI to place your real pet into weather scenes matched to your local forecast.
+- **How does it work?** Add one photo of your pet and pick a few personality traits; the app generates scenes of your pet dressed for the real weather and delivers the forecast in their voice via reports and home screen widgets.
+- **Is it free?** Yes, free to download with core weather, one pet, and limited AI scenes. Premium (monthly or annual) unlocks unlimited scenes, multiple pets, widgets, and style packs.
+- **What weather data does it use?** Apple Weather (WeatherKit): accurate current conditions, hourly and 10-day forecasts, and severe weather alerts.
+- **What devices?** iPhone on iOS 17 or later, including home screen and lock screen widgets.
+- **Who makes it?** Relative Industries, LLC (founders Dom and Adam).
+
 ## Main pages
 
 - [Home](https://myweatherpets.com/): What WeatherPets is and how it works
