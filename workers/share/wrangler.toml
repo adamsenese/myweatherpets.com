@@ -1,0 +1,31 @@
+name = "weatherpets-share"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+# Serves the shared-pet pages (myweatherpets.com/p/<shareId>) with full SSR —
+# per-share <title>/OG tags render at share time so iMessage/WhatsApp previews
+# show the actual pet. Reads the public sharedPets/{shareId} Firestore doc via
+# REST (unauthenticated; security rules only allow reading ACTIVE shares).
+#
+# Deploy:  npx wrangler deploy
+# Dev:     npx wrangler dev   → http://localhost:8787/p/<shareId>
+#
+# ACTIVATION (after the myweatherpets.com zone moves to Cloudflare):
+# uncomment the routes block below and redeploy. Until then the worker is
+# reachable on workers.dev only and the GitHub Pages 404.html fallback serves
+# /p/* links client-side.
+workers_dev = true
+
+# routes = [
+#   { pattern = "myweatherpets.com/p/*", zone_name = "myweatherpets.com" }
+# ]
+
+[vars]
+# Standard public Firebase client API key (same one shipped in the iOS app) —
+# not a secret; reads are governed by Firestore security rules.
+FIREBASE_API_KEY = "AIzaSyBfisQLd1npusH134C2nB68g5YSDVwf3G4"
+FIREBASE_PROJECT_ID = "weatherpets"
+SITE_ORIGIN = "https://myweatherpets.com"
+APP_STORE_URL = "https://apps.apple.com/us/app/weatherpets-weather-widgets/id6759507221"
+POSTHOG_HOST = "https://us.i.posthog.com"
+POSTHOG_TOKEN = "phc_kBmvCGXag6PsXaBy6w7AEpuwmBnsUPL8352BwboVGjh9"
